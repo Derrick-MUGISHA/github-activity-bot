@@ -46,6 +46,21 @@
       "user": "billkhiz"
     },
     {
+      "title": "Google Gemma 4: Everything Developers Need to Know",
+      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
+      "published_at": "2026-04-03T00:45:57Z",
+      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
+      "source": "Dev.to",
+      "user": "Om Shree"
+    },
+    {
       "title": "Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)",
       "url": "https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p",
       "published_at": "2026-04-02T04:15:36Z",
@@ -244,21 +259,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
-      "published_at": "2026-04-01T15:25:36Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "gemini",
-        "awsfargate",
-        "geminilive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "AI became my assistant to learning",
       "url": "https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53",
       "published_at": "2026-04-01T16:56:50Z",
@@ -362,6 +362,20 @@
       "user": "Scarlett Attensil"
     },
     {
+      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
+      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
+      "published_at": "2026-04-01T10:00:00Z",
+      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
+      "tags": [
+        "opensource",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
+      "source": "Dev.to",
+      "user": "Ayu Adiati"
+    },
+    {
       "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
       "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
       "published_at": "2026-04-02T01:45:41Z",
@@ -405,6 +419,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
       "source": "Dev.to",
       "user": "Taiwrash"
+    },
+    {
+      "title": "Betting on Engineering, Not Trends",
+      "url": "https://dev.to/pixari/betting-on-engineering-not-trends-1ffp",
+      "published_at": "2026-04-01T22:12:26Z",
+      "description": "Look, I get it. You’re tired of the noise. I am too.  Open X, Threads, or LinkedIn right now, and...",
+      "tags": [
+        "engineering",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fny5jpa073qon1pc7c8kd.png",
+      "source": "Dev.to",
+      "user": "Raffaele Pizzari"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -464,6 +491,21 @@
       "user": "Lacy Morrow"
     },
     {
+      "title": "The Integration Tax: Walled-Garden Agent Strategies Won't Scale (MxN vs. M+N)",
+      "url": "https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f",
+      "published_at": "2026-04-01T14:52:17Z",
+      "description": "Personio maintains 200+ integrations. Greenhouse has 400+. iCIMS lists 800+.  Every single one is a...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvgitp385z0buw8lvzvh.png",
+      "source": "Dev.to",
+      "user": "Alexander Leonhard"
+    },
+    {
       "title": "FE/BE - Unite Them!",
       "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
       "published_at": "2026-03-17T14:02:20Z",
@@ -487,36 +529,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
-    },
-    {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
-      "title": "Lost Skills We Sold for Convenience Over Commitment",
-      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
-      "published_at": "2026-03-29T11:49:29Z",
-      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
-      "tags": [
-        "career",
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
-      "source": "Dev.to",
-      "user": "Carlos Nah "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -662,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11182,
+      "stars": 11195,
       "user": "openai"
     },
     {
@@ -677,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 751,
       "user": "tradesdontlie"
     },
     {
@@ -707,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4947,
       "user": "tvytlx"
     },
     {
@@ -722,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1940,
       "user": "therealXiaomanChu"
     },
     {
@@ -976,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11182,
+      "stars": 11195,
       "user": "openai"
     },
     {
@@ -991,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 751,
       "user": "tradesdontlie"
     },
     {
@@ -1036,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "hellowind777"
     }
   ],
@@ -1057,34 +1069,19 @@
       "user": "billkhiz"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
-      "published_at": "2026-04-01T15:25:36Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "gemini",
-        "awsfargate",
-        "geminilive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "title": "Google Gemma 4: Everything Developers Need to Know",
+      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
+      "published_at": "2026-04-03T00:45:57Z",
+      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
       "tags": [
         "ai",
-        "llm",
+        "programming",
         "python",
-        "testing"
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
       "source": "Dev.to",
-      "user": "T.J. Maher"
+      "user": "Om Shree"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1218,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6422,
+      "stars": 6428,
       "user": "titanwings"
     },
     {
@@ -1233,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4947,
       "user": "tvytlx"
     },
     {
@@ -1248,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1940,
       "user": "therealXiaomanChu"
     },
     {
@@ -1263,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1910,
+      "stars": 1930,
       "user": "HKUDS"
     },
     {
@@ -1278,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1003,
       "user": "wquguru"
     }
   ],
@@ -1390,6 +1387,21 @@
   "Mobile": [],
   "Cloud": [
     {
+      "title": "Google Gemma 4: Everything Developers Need to Know",
+      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
+      "published_at": "2026-04-03T00:45:57Z",
+      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
+      "source": "Dev.to",
+      "user": "Om Shree"
+    },
+    {
       "title": "Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493",
       "published_at": "2026-04-02T13:42:40Z",
@@ -1403,21 +1415,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-fargate-and-gemini-cli-i84",
-      "published_at": "2026-04-01T15:25:36Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "gemini",
-        "awsfargate",
-        "geminilive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1643,6 +1640,21 @@
       "user": "Jessica Temporal"
     },
     {
+      "title": "What are your goals for the week? #172",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
+      "published_at": "2026-03-30T14:28:37Z",
+      "description": "Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
+    },
+    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1673,21 +1685,6 @@
       "user": "Lacy Morrow"
     },
     {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1699,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11182,
+      "stars": 11195,
       "user": "openai"
     },
     {
@@ -1714,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 751,
       "user": "tradesdontlie"
     },
     {
@@ -1759,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "hellowind777"
     },
     {
@@ -1774,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6422,
+      "stars": 6428,
       "user": "titanwings"
     },
     {
@@ -1789,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4947,
       "user": "tvytlx"
     },
     {
@@ -1804,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1940,
       "user": "therealXiaomanChu"
     },
     {
@@ -1819,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1910,
+      "stars": 1930,
       "user": "HKUDS"
     },
     {
@@ -1834,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 1002,
+      "stars": 1003,
       "user": "wquguru"
     },
     {
@@ -1864,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 260,
       "user": "maaslalani"
     },
     {
