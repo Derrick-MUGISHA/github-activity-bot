@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 23:00 CAT)
+## 📅 Latest Updates (2026-04-04 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
 - [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 23:59:53 CAT_
+_Last automated update: Sat, 04 Apr 2026 00:43:44 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 23:59:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 21:59:53 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 22:43:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
