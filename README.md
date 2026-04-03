@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦 4 (3.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦 4 (3.8%)
 
-**WebDev**: 🟦 3 (2.9%)
+**DevOps**: 🟦 3 (2.9%)
+
+**Cloud**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
-
-**DevOps**:  1 (1.0%)
 
 
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4 (28.4%)
-Python          ██████████████████████████ 24.7 (24.7%)
-Java            █████████████████████████ 23.5 (23.5%)
-Go              █████████████████████ 19.8 (19.8%)
+JavaScript      ██████████████████████████████ 28.0 (28.0%)
+Java            ███████████████████████████ 25.6 (25.6%)
+Python          ████████████████████████ 22.0 (22.0%)
+Go              ██████████████████████ 20.7 (20.7%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 Rust            █ 1.2 (1.2%)
@@ -71,9 +71,9 @@ Rust            █ 1.2 (1.2%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Python" : 20
-    "Java" : 19
-    "Go" : 16
+    "Java" : 21
+    "Python" : 18
+    "Go" : 17
     "Ruby" : 1
     "PHP" : 1
     "Rust" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![career](https://img.shields.io/badge/career-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 16:00 CAT)
+## 📅 Latest Updates (2026-04-03 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,6 +149,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-2on5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3cg0bvhw6dml6xpdb9.jpg" width="200" alt="What was your win this week?" />
+      <br/>
+      <b>What was your win this week?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png" width="200" alt="We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)" />
       <br/>
@@ -157,8 +168,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png" width="200" alt="I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)" />
@@ -169,19 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftypteqi86eyrzkbx18sb.png" width="200" alt="Antigravity: My Approach to Deliver the Most Assured Value for the Least Money" />
+    <a href="https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png" width="200" alt="Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2" />
       <br/>
-      <b>Antigravity: My Approach to Deliver the Most Assur...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.drizby.com%2Fimages%2Fdrizby_3.png" width="200" alt="Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)" />
-      <br/>
-      <b>Drizby: An Open Source BI Platform Built on a Sema...</b>
+      <b>Observability from Day One: What We Got Wrong in v...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,9 +195,10 @@ npm run test
 
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
-- [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip) _[Dev.to]_
+- [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc) _[Dev.to]_
 - [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
@@ -205,16 +206,15 @@ npm run test
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh) _[Dev.to]_
+- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini) _[Dev.to]_
+- [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
+- [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl) _[Dev.to]_
+- [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
+- [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
+- [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [“Why Are We Throwing Away Perfectly Good Tech?”](https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3) _[Dev.to]_
-- [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
-- [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
-- [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
-- [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
-- [I've been building software for 40 years. But I want *you* to tell me about dev in 1986...](https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj) _[Dev.to]_
-- [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1) _[Dev.to]_
-- [Cross-Repository Development with Antigravity](https://dev.to/gdg/cross-repository-development-with-antigravity-26be) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 16:01:25 CAT_
+_Last automated update: Fri, 03 Apr 2026 17:01:06 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 16:01:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 14:01:25 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 15:01:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
