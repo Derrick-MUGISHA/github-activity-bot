@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 19:00 CAT)
+## 📅 Latest Updates (2026-04-03 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,7 +201,6 @@ npm run test
 - [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
 - [We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
-- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf) _[Dev.to]_
 - [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc) _[Dev.to]_
 - [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
+- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 19:59:21 CAT_
+_Last automated update: Fri, 03 Apr 2026 20:58:26 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 19:59:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 17:59:21 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 18:58:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

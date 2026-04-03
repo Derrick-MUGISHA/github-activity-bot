@@ -46,21 +46,6 @@
       "user": "billkhiz"
     },
     {
-      "title": "Google Gemma 4: Everything Developers Need to Know",
-      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
-      "published_at": "2026-04-03T00:45:57Z",
-      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
-      "source": "Dev.to",
-      "user": "Om Shree"
-    },
-    {
       "title": "Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)",
       "url": "https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p",
       "published_at": "2026-04-02T04:15:36Z",
@@ -128,6 +113,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq0l8zypw48ra8ioso3a2.jpg",
       "source": "Dev.to",
       "user": "Alvis Ng"
+    },
+    {
+      "title": "Google Gemma 4: Everything Developers Need to Know",
+      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
+      "published_at": "2026-04-03T00:45:57Z",
+      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
+      "source": "Dev.to",
+      "user": "Om Shree"
     },
     {
       "title": "Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere",
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11195,
+      "stars": 11212,
       "user": "openai"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 759,
       "user": "tradesdontlie"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4947,
+      "stars": 4948,
       "user": "tvytlx"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1943,
       "user": "therealXiaomanChu"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "compozy"
     }
   ],
@@ -988,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11195,
+      "stars": 11212,
       "user": "openai"
     },
     {
@@ -1003,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 759,
       "user": "tradesdontlie"
     },
     {
@@ -1048,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "hellowind777"
     }
   ],
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6428,
+      "stars": 6436,
       "user": "titanwings"
     },
     {
@@ -1230,23 +1230,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4947,
+      "stars": 4948,
       "user": "tvytlx"
-    },
-    {
-      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "url": "https://github.com/therealXiaomanChu/ex-skill",
-      "published_at": "2026-03-31T09:36:56Z",
-      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
-      "source": "GitHub",
-      "stars": 1940,
-      "user": "therealXiaomanChu"
     },
     {
       "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
@@ -1260,8 +1245,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1948,
       "user": "HKUDS"
+    },
+    {
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
+      "source": "GitHub",
+      "stars": 1943,
+      "user": "therealXiaomanChu"
     },
     {
       "title": "wquguru/harness-books - GitHub Repository",
@@ -1275,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1004,
       "user": "wquguru"
     }
   ],
@@ -1696,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11195,
+      "stars": 11212,
       "user": "openai"
     },
     {
@@ -1711,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 759,
       "user": "tradesdontlie"
     },
     {
@@ -1756,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "hellowind777"
     },
     {
@@ -1771,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6428,
+      "stars": 6436,
       "user": "titanwings"
     },
     {
@@ -1786,23 +1786,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4947,
+      "stars": 4948,
       "user": "tvytlx"
-    },
-    {
-      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "url": "https://github.com/therealXiaomanChu/ex-skill",
-      "published_at": "2026-03-31T09:36:56Z",
-      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
-      "source": "GitHub",
-      "stars": 1940,
-      "user": "therealXiaomanChu"
     },
     {
       "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
@@ -1816,8 +1801,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1948,
       "user": "HKUDS"
+    },
+    {
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
+      "source": "GitHub",
+      "stars": 1943,
+      "user": "therealXiaomanChu"
     },
     {
       "title": "wquguru/harness-books - GitHub Repository",
@@ -1831,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1004,
       "user": "wquguru"
     },
     {
@@ -1846,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "compozy"
     },
     {
@@ -1861,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 263,
       "user": "maaslalani"
     },
     {
