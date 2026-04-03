@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 3,
@@ -27,7 +27,7 @@
     "Rust": 1
   },
   "by_date": {
-    "2026-04-01": 20,
+    "2026-04-01": 19,
     "2026-03-31": 9,
     "2026-04-03": 4,
     "2026-04-02": 13,
@@ -70,7 +70,7 @@
     "2026-03-28": 2
   },
   "top_tags": {
-    "ai": 27,
+    "ai": 26,
     "github": 15,
     "open-source": 15,
     "AI": 10,
