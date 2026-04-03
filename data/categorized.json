@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
+      "url": "https://dev.to/alonsarias/pureslopmd-54ek",
+      "published_at": "2026-04-03T00:55:59Z",
+      "description": "This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
+      "source": "Dev.to",
+      "user": "Alonso"
+    },
+    {
       "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
       "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
       "published_at": "2026-04-02T07:39:26Z",
@@ -58,20 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
-      "published_at": "2026-04-01T10:00:00Z",
-      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
-      "tags": [
-        "opensource",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
-      "source": "Dev.to",
-      "user": "Ayu Adiati"
     },
     {
       "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
@@ -167,21 +168,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fou8adwsgx3hgqsqiau1i.png",
       "source": "Dev.to",
       "user": "Rob Earlam"
-    },
-    {
-      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
-      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
-      "published_at": "2026-04-01T07:14:45Z",
-      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
-      "tags": [
-        "softwareengineering",
-        "ai",
-        "nestjs",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
-      "source": "Dev.to",
-      "user": "Jim Zandueta"
     },
     {
       "title": "Cross-Repository Development with Antigravity",
@@ -676,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11166,
+      "stars": 11182,
       "user": "openai"
     },
     {
@@ -691,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 743,
       "user": "tradesdontlie"
     },
     {
@@ -721,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4941,
+      "stars": 4945,
       "user": "tvytlx"
     },
     {
@@ -736,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1928,
+      "stars": 1935,
       "user": "therealXiaomanChu"
     },
     {
@@ -751,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "compozy"
     }
   ],
@@ -785,21 +771,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
       "source": "Dev.to",
       "user": "Tarek"
-    },
-    {
-      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
-      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
-      "published_at": "2026-04-01T07:14:45Z",
-      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
-      "tags": [
-        "softwareengineering",
-        "ai",
-        "nestjs",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
-      "source": "Dev.to",
-      "user": "Jim Zandueta"
     },
     {
       "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
@@ -1005,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11166,
+      "stars": 11182,
       "user": "openai"
     },
     {
@@ -1020,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 743,
       "user": "tradesdontlie"
     },
     {
@@ -1247,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6415,
+      "stars": 6422,
       "user": "titanwings"
     },
     {
@@ -1262,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4941,
+      "stars": 4945,
       "user": "tvytlx"
     },
     {
@@ -1277,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1928,
+      "stars": 1935,
       "user": "therealXiaomanChu"
     },
     {
@@ -1292,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1888,
+      "stars": 1910,
       "user": "HKUDS"
     },
     {
@@ -1307,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1002,
       "user": "wquguru"
     }
   ],
@@ -1597,21 +1568,6 @@
       "user": "Kelechi Oliver A."
     },
     {
-      "title": "What are your goals for the week? #172",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
-      "published_at": "2026-03-30T14:28:37Z",
-      "description": "Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
       "title": "How I Cut My Google Search Dependence in Half",
       "url": "https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1",
       "published_at": "2026-04-02T15:05:43Z",
@@ -1625,21 +1581,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F653nkiw75z81c65jjego.png",
       "source": "Dev.to",
       "user": "Adam Tauber"
-    },
-    {
-      "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
-      "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
-      "published_at": "2026-04-01T07:14:45Z",
-      "description": "The past few weeks have been wild.  Our team recently adopted AI-assisted programming (not...",
-      "tags": [
-        "softwareengineering",
-        "ai",
-        "nestjs",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
-      "source": "Dev.to",
-      "user": "Jim Zandueta"
     },
     {
       "title": "I Built a Parallel Agent Orchestrator. Here is the Architecture.",
@@ -1758,7 +1699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11166,
+      "stars": 11182,
       "user": "openai"
     },
     {
@@ -1773,7 +1714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 743,
       "user": "tradesdontlie"
     },
     {
@@ -1833,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6415,
+      "stars": 6422,
       "user": "titanwings"
     },
     {
@@ -1848,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4941,
+      "stars": 4945,
       "user": "tvytlx"
     },
     {
@@ -1863,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1928,
+      "stars": 1935,
       "user": "therealXiaomanChu"
     },
     {
@@ -1878,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1888,
+      "stars": 1910,
       "user": "HKUDS"
     },
     {
@@ -1893,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1002,
       "user": "wquguru"
     },
     {
@@ -1908,8 +1849,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "compozy"
+    },
+    {
+      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
+      "url": "https://github.com/maaslalani/sheets",
+      "published_at": "2026-04-01T08:20:07Z",
+      "description": "Terminal based spreadsheet tool",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "source": "GitHub",
+      "stars": 256,
+      "user": "maaslalani"
     },
     {
       "title": "maxigo-web/maxigo-bot - Bot framework for Max messenger — router, middleware, context",
@@ -1925,21 +1881,6 @@
       "source": "GitHub",
       "stars": 252,
       "user": "maxigo-web"
-    },
-    {
-      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
-      "url": "https://github.com/maaslalani/sheets",
-      "published_at": "2026-04-01T08:20:07Z",
-      "description": "Terminal based spreadsheet tool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "maaslalani"
     },
     {
       "title": "maxigo-web/maxigo-client - Idiomatic Go HTTP client for Max Bot API — zero dependencies, context support, structured errors",
