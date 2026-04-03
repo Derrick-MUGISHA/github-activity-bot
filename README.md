@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 20:00 CAT)
+## 📅 Latest Updates (2026-04-03 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 20:58:26 CAT_
+_Last automated update: Fri, 03 Apr 2026 21:41:29 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 20:58:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 18:58:26 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 19:41:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
