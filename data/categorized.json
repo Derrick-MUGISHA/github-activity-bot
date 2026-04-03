@@ -339,21 +339,6 @@
       "user": "PracticeOverflow"
     },
     {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -507,6 +492,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
     },
     {
       "title": "Lost Skills We Sold for Convenience Over Commitment",
@@ -742,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11021,
+      "stars": 11042,
       "user": "openai"
     },
     {
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 656,
       "user": "tradesdontlie"
     },
     {
@@ -772,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 447,
       "user": "ZhangHanDong"
     },
     {
@@ -802,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4890,
+      "stars": 4897,
       "user": "tvytlx"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1830,
+      "stars": 1845,
       "user": "therealXiaomanChu"
     },
     {
@@ -1086,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11021,
+      "stars": 11042,
       "user": "openai"
     },
     {
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 656,
       "user": "tradesdontlie"
     },
     {
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 447,
       "user": "ZhangHanDong"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6242,
+      "stars": 6270,
       "user": "titanwings"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4890,
+      "stars": 4897,
       "user": "tvytlx"
     },
     {
@@ -1373,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1830,
+      "stars": 1845,
       "user": "therealXiaomanChu"
     },
     {
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1630,
       "user": "HKUDS"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 954,
       "user": "wquguru"
     }
   ],
@@ -1753,21 +1753,6 @@
       "user": "Malik Sohaib iqbal"
     },
     {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1813,6 +1798,21 @@
       "user": "Lacy Morrow"
     },
     {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
       "title": "Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity",
       "url": "https://dev.to/gavincettolo/bad-code-is-a-high-interest-loan-how-technical-debt-slowly-kills-team-velocity-lac",
       "published_at": "2026-03-31T07:30:00Z",
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11021,
+      "stars": 11042,
       "user": "openai"
     },
     {
@@ -1854,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 656,
       "user": "tradesdontlie"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 447,
       "user": "ZhangHanDong"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6242,
+      "stars": 6270,
       "user": "titanwings"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4890,
+      "stars": 4897,
       "user": "tvytlx"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1830,
+      "stars": 1845,
       "user": "therealXiaomanChu"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1630,
       "user": "HKUDS"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 954,
       "user": "wquguru"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "maaslalani"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "ironsh"
     }
   ]

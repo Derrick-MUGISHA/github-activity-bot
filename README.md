@@ -214,7 +214,7 @@ npm run test
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [I've been building software for 40 years. But I want *you* to tell me about dev in 1986...](https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 13:10:33 CAT_
+_Last automated update: Fri, 03 Apr 2026 13:52:59 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 13:10:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 11:10:33 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 11:52:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
