@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-02-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-03-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 1:00 CAT)
+## 📅 Latest Updates (2026-04-03 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd5boucd00u4r0v4skro.png" width="200" alt="“Why Are We Throwing Away Perfectly Good Tech?”" />
+    <a href="https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png" width="200" alt="I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)" />
       <br/>
-      <b>“Why Are We Throwing Away Perfectly Good Tech?”</b>
+      <b>I built a machine-readable UK Chart of Accounts fo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png" width="200" alt="I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)" />
+    <a href="https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png" width="200" alt="Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications" />
       <br/>
-      <b>I built a machine-readable UK Chart of Accounts fo...</b>
+      <b>Google Workspace Studio Tutorial: Auto-Organize Yo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,24 +197,24 @@ npm run test
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
 - [We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5) _[Dev.to]_
 - [🌪️ Proof of Work: The To-Do List of Infinite Regret](https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le) _[Dev.to]_
-- [“Why Are We Throwing Away Perfectly Good Tech?”](https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip) _[Dev.to]_
 - [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p) _[Dev.to]_
-- [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm) _[Dev.to]_
 - [The Curated, Automated Open Source Portfolio: How It’s Going](https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98) _[Dev.to]_
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh) _[Dev.to]_
-- [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) _[Dev.to]_
+- [“Why Are We Throwing Away Perfectly Good Tech?”](https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3) _[Dev.to]_
 - [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) _[Dev.to]_
+- [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
+- [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 01:49:28 CAT_
+_Last automated update: Fri, 03 Apr 2026 04:01:20 CAT_
 
 
 
@@ -233,25 +233,25 @@ Execution timing, event loop phases
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 02 Apr 2026 23:49:28 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 02:01:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
