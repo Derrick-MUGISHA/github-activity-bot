@@ -309,21 +309,6 @@
       "user": "Natália Satie"
     },
     {
-      "title": "Processing 1M Chess Games in 15 Seconds with Rust",
-      "url": "https://dev.to/chrnx/processing-1m-chess-games-in-15-seconds-with-rust-pe3",
-      "published_at": "2026-03-31T04:24:01Z",
-      "description": "I train self-supervised models on chess game data. My Python pipeline using python-chess took 25...",
-      "tags": [
-        "rust",
-        "chess",
-        "machinelearning",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8np6nhv7ffmdbgkk4q0.png",
-      "source": "Dev.to",
-      "user": "Diego Resendez"
-    },
-    {
       "title": "Working with JWTs in Laravel (Without the Magic)",
       "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
       "published_at": "2026-03-30T18:36:33Z",
@@ -352,21 +337,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjn6amldbsv4xhdudmw.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
-      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
-      "published_at": "2026-03-31T06:48:59Z",
-      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "security",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
-      "source": "Dev.to",
-      "user": "Abhay"
     },
     {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
@@ -757,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10674,
+      "stars": 10793,
       "user": "openai"
     },
     {
@@ -772,23 +742,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 541,
       "user": "tradesdontlie"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "meodai"
     },
     {
       "title": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding - Harness Engineering From Claude Code source code to AI Coding",
@@ -802,8 +757,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 395,
       "user": "ZhangHanDong"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 387,
+      "user": "meodai"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -817,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4529,
+      "stars": 4699,
       "user": "tvytlx"
     },
     {
@@ -832,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1522,
       "user": "therealXiaomanChu"
     },
     {
@@ -847,23 +817,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "compozy"
-    },
-    {
-      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
-      "url": "https://github.com/codeany-ai/codeany",
-      "published_at": "2026-04-01T18:06:21Z",
-      "description": "Open-source AI-powered terminal agent. Built in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "codeany-ai"
     }
   ],
   "JavaScript": [
@@ -1000,6 +955,21 @@
       "user": "Rudson Kiyoshi Souza Carvalho"
     },
     {
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "tags": [
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "source": "Dev.to",
+      "user": "Habib Jutt"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1131,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10674,
+      "stars": 10793,
       "user": "openai"
     },
     {
@@ -1146,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 634,
       "user": "6551Team"
     },
     {
@@ -1161,23 +1131,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 541,
       "user": "tradesdontlie"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "meodai"
     },
     {
       "title": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding - Harness Engineering From Claude Code source code to AI Coding",
@@ -1191,8 +1146,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 395,
       "user": "ZhangHanDong"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 387,
+      "user": "meodai"
     }
   ],
   "Python": [
@@ -1225,21 +1195,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl41rwmdtvxapcvkd6x8k.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Processing 1M Chess Games in 15 Seconds with Rust",
-      "url": "https://dev.to/chrnx/processing-1m-chess-games-in-15-seconds-with-rust-pe3",
-      "published_at": "2026-03-31T04:24:01Z",
-      "description": "I train self-supervised models on chess game data. My Python pipeline using python-chess took 25...",
-      "tags": [
-        "rust",
-        "chess",
-        "machinelearning",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8np6nhv7ffmdbgkk4q0.png",
-      "source": "Dev.to",
-      "user": "Diego Resendez"
     },
     {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
@@ -1388,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5486,
+      "stars": 5672,
       "user": "titanwings"
     },
     {
@@ -1403,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4529,
+      "stars": 4699,
       "user": "tvytlx"
     },
     {
@@ -1418,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1522,
       "user": "therealXiaomanChu"
     },
     {
@@ -1433,23 +1388,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 1133,
       "user": "HKUDS"
     },
     {
-      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
-      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
-      "published_at": "2026-03-29T12:20:23Z",
+      "title": "wquguru/harness-books - GitHub Repository",
+      "url": "https://github.com/wquguru/harness-books",
+      "published_at": "2026-04-01T04:30:32Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 791,
-      "user": "adamlyttleapps"
+      "stars": 829,
+      "user": "wquguru"
     }
   ],
   "DevOps": [
@@ -1664,21 +1619,6 @@
       "user": "Mark Townsend"
     },
     {
-      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
-      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
-      "published_at": "2026-03-31T06:48:59Z",
-      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "security",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
-      "source": "Dev.to",
-      "user": "Abhay"
-    },
-    {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
       "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
       "published_at": "2026-03-31T02:37:02Z",
@@ -1692,6 +1632,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
       "source": "Dev.to",
       "user": "PracticeOverflow"
+    },
+    {
+      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+      "published_at": "2026-03-26T06:14:01Z",
+      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
+      "tags": [
+        "opensource",
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
+      "source": "Dev.to",
+      "user": "Habib Jutt"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1813,21 +1768,6 @@
       "user": "OsirisFrik"
     },
     {
-      "title": "Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks",
-      "url": "https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839",
-      "published_at": "2026-03-31T06:48:59Z",
-      "description": "Every time Claude Code fetches a URL, it asks for permission. After the 50th approval for a docs...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "security",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flhaa0sfops6d2rz4wup8.png",
-      "source": "Dev.to",
-      "user": "Abhay"
-    },
-    {
       "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
       "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
       "published_at": "2026-04-01T02:37:52Z",
@@ -1899,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10674,
+      "stars": 10793,
       "user": "openai"
     },
     {
@@ -1914,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 634,
       "user": "6551Team"
     },
     {
@@ -1929,23 +1869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 541,
       "user": "tradesdontlie"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "meodai"
     },
     {
       "title": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding - Harness Engineering From Claude Code source code to AI Coding",
@@ -1959,8 +1884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 395,
       "user": "ZhangHanDong"
+    },
+    {
+      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "url": "https://github.com/meodai/heerich",
+      "published_at": "2026-03-28T21:22:00Z",
+      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "source": "GitHub",
+      "stars": 387,
+      "user": "meodai"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -1974,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5486,
+      "stars": 5672,
       "user": "titanwings"
     },
     {
@@ -1989,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4529,
+      "stars": 4699,
       "user": "tvytlx"
     },
     {
@@ -2004,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1522,
       "user": "therealXiaomanChu"
     },
     {
@@ -2019,23 +1959,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 1133,
       "user": "HKUDS"
     },
     {
-      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
-      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
-      "published_at": "2026-03-29T12:20:23Z",
+      "title": "wquguru/harness-books - GitHub Repository",
+      "url": "https://github.com/wquguru/harness-books",
+      "published_at": "2026-04-01T04:30:32Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 791,
-      "user": "adamlyttleapps"
+      "stars": 829,
+      "user": "wquguru"
     },
     {
       "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
@@ -2049,8 +1989,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "compozy"
+    },
+    {
+      "title": "maxigo-web/maxigo-bot - Bot framework for Max messenger — router, middleware, context",
+      "url": "https://github.com/maxigo-web/maxigo-bot",
+      "published_at": "2026-03-29T01:48:47Z",
+      "description": "Bot framework for Max messenger — router, middleware, context",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/271871749?v=4",
+      "source": "GitHub",
+      "stars": 252,
+      "user": "maxigo-web"
+    },
+    {
+      "title": "maxigo-web/maxigo-client - Idiomatic Go HTTP client for Max Bot API — zero dependencies, context support, structured errors",
+      "url": "https://github.com/maxigo-web/maxigo-client",
+      "published_at": "2026-03-29T01:45:05Z",
+      "description": "Idiomatic Go HTTP client for Max Bot API — zero dependencies, context support, structured errors",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/271871749?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "maxigo-web"
     },
     {
       "title": "maaslalani/sheets - Terminal based spreadsheet tool",
@@ -2064,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 189,
       "user": "maaslalani"
     },
     {
@@ -2079,38 +2049,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 171,
       "user": "ironsh"
-    },
-    {
-      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
-      "url": "https://github.com/codeany-ai/codeany",
-      "published_at": "2026-04-01T18:06:21Z",
-      "description": "Open-source AI-powered terminal agent. Built in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "codeany-ai"
-    },
-    {
-      "title": "lemire/constmap - GitHub Repository",
-      "url": "https://github.com/lemire/constmap",
-      "published_at": "2026-03-29T17:47:53Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
-      "source": "GitHub",
-      "stars": 124,
-      "user": "lemire"
     }
   ]
 }
