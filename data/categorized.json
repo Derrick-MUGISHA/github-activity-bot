@@ -31,6 +31,36 @@
       "user": "Riley Black"
     },
     {
+      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
+      "published_at": "2026-04-02T18:18:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "gemini",
+        "azurecontainerapps",
+        "agents",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure ACI",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
+      "published_at": "2026-04-02T17:00:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "geminillm",
+        "agents",
+        "python",
+        "azureaci"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
       "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
       "published_at": "2026-04-01T16:19:39Z",
@@ -213,21 +243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fissdyt8g5ho5zslocp7p.png",
       "source": "Dev.to",
       "user": "tomas maiorino"
-    },
-    {
-      "title": "I Built a Parallel Agent Orchestrator. Here is the Architecture.",
-      "url": "https://dev.to/mexiter/claude-code-parallel-agent-driven-worktrees-orchestration-5bf0",
-      "published_at": "2026-04-01T16:51:33Z",
-      "description": "The problem with AI Coding assistants that nobody talks about      Let me describe a day...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjthqlk3s20d11ediuxg.png",
-      "source": "Dev.to",
-      "user": "Mex Emini"
     },
     {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11255,
+      "stars": 11263,
       "user": "openai"
     },
     {
@@ -689,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 783,
       "user": "tradesdontlie"
     },
     {
@@ -719,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4952,
+      "stars": 4954,
       "user": "tvytlx"
     },
     {
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1955,
+      "stars": 1956,
       "user": "therealXiaomanChu"
     },
     {
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1023,
       "user": "ericosiu"
     },
     {
@@ -1003,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11255,
+      "stars": 11263,
       "user": "openai"
     },
     {
@@ -1018,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 783,
       "user": "tradesdontlie"
     },
     {
@@ -1068,6 +1083,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Deploying ADK Agents on Azure ACI",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
+      "published_at": "2026-04-02T17:00:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "geminillm",
+        "agents",
+        "python",
+        "azureaci"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
       "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
@@ -1230,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6450,
+      "stars": 6451,
       "user": "titanwings"
     },
     {
@@ -1245,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4952,
+      "stars": 4954,
       "user": "tvytlx"
     },
     {
@@ -1260,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1988,
       "user": "HKUDS"
     },
     {
@@ -1275,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1955,
+      "stars": 1956,
       "user": "therealXiaomanChu"
     },
     {
@@ -1290,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1023,
       "user": "ericosiu"
     }
   ],
@@ -1401,6 +1431,36 @@
   ],
   "Mobile": [],
   "Cloud": [
+    {
+      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
+      "published_at": "2026-04-02T18:18:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "gemini",
+        "azurecontainerapps",
+        "agents",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure ACI",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
+      "published_at": "2026-04-02T17:00:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "geminillm",
+        "agents",
+        "python",
+        "azureaci"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Google Gemma 4: Everything Developers Need to Know",
       "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
@@ -1595,21 +1655,6 @@
       "user": "Adam Tauber"
     },
     {
-      "title": "I Built a Parallel Agent Orchestrator. Here is the Architecture.",
-      "url": "https://dev.to/mexiter/claude-code-parallel-agent-driven-worktrees-orchestration-5bf0",
-      "published_at": "2026-04-01T16:51:33Z",
-      "description": "The problem with AI Coding assistants that nobody talks about      Let me describe a day...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjthqlk3s20d11ediuxg.png",
-      "source": "Dev.to",
-      "user": "Mex Emini"
-    },
-    {
       "title": "AI became my assistant to learning",
       "url": "https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53",
       "published_at": "2026-04-01T16:56:50Z",
@@ -1711,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11255,
+      "stars": 11263,
       "user": "openai"
     },
     {
@@ -1726,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 783,
       "user": "tradesdontlie"
     },
     {
@@ -1786,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6450,
+      "stars": 6451,
       "user": "titanwings"
     },
     {
@@ -1801,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4952,
+      "stars": 4954,
       "user": "tvytlx"
     },
     {
@@ -1816,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1988,
       "user": "HKUDS"
     },
     {
@@ -1831,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1955,
+      "stars": 1956,
       "user": "therealXiaomanChu"
     },
     {
@@ -1846,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1023,
       "user": "ericosiu"
     },
     {
@@ -1876,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "maaslalani"
     },
     {
@@ -1921,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "ironsh"
     }
   ]
