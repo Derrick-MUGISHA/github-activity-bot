@@ -364,19 +364,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
       "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
       "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
       "published_at": "2026-04-01T10:00:00Z",
@@ -389,6 +376,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
       "source": "Dev.to",
       "user": "Ayu Adiati"
+    },
+    {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
     },
     {
       "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
@@ -664,7 +664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 791,
       "user": "tradesdontlie"
     },
     {
@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4955,
+      "stars": 4956,
       "user": "tvytlx"
     },
     {
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1963,
       "user": "therealXiaomanChu"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1059,
       "user": "ericosiu"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "compozy"
     }
   ],
@@ -993,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 791,
       "user": "tradesdontlie"
     },
     {
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6460,
+      "stars": 6464,
       "user": "titanwings"
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4955,
+      "stars": 4956,
       "user": "tvytlx"
     },
     {
@@ -1250,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2014,
+      "stars": 2033,
       "user": "HKUDS"
     },
     {
@@ -1265,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1963,
       "user": "therealXiaomanChu"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1059,
       "user": "ericosiu"
     }
   ],
@@ -1731,7 +1731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 791,
       "user": "tradesdontlie"
     },
     {
@@ -1791,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6460,
+      "stars": 6464,
       "user": "titanwings"
     },
     {
@@ -1806,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4955,
+      "stars": 4956,
       "user": "tvytlx"
     },
     {
@@ -1821,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2014,
+      "stars": 2033,
       "user": "HKUDS"
     },
     {
@@ -1836,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1963,
       "user": "therealXiaomanChu"
     },
     {
@@ -1851,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1059,
       "user": "ericosiu"
     },
     {
@@ -1866,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "compozy"
     },
     {
@@ -1881,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "maaslalani"
     },
     {
