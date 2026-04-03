@@ -727,7 +727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10793,
+      "stars": 10843,
       "user": "openai"
     },
     {
@@ -742,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 564,
       "user": "tradesdontlie"
     },
     {
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 407,
       "user": "ZhangHanDong"
     },
     {
@@ -787,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4699,
+      "stars": 4758,
       "user": "tvytlx"
     },
     {
@@ -802,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1573,
       "user": "therealXiaomanChu"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "compozy"
     }
   ],
@@ -1101,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10793,
+      "stars": 10843,
       "user": "openai"
     },
     {
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 564,
       "user": "tradesdontlie"
     },
     {
@@ -1146,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 407,
       "user": "ZhangHanDong"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5672,
+      "stars": 5757,
       "user": "titanwings"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4699,
+      "stars": 4758,
       "user": "tvytlx"
     },
     {
@@ -1373,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1573,
       "user": "therealXiaomanChu"
     },
     {
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1223,
       "user": "HKUDS"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 854,
       "user": "wquguru"
     }
   ],
@@ -1663,21 +1663,6 @@
   ],
   "Tools": [
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
       "title": "🌪️ Proof of Work: The To-Do List of Infinite Regret",
       "url": "https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le",
       "published_at": "2026-04-01T20:49:57Z",
@@ -1691,6 +1676,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07oo39h43oc8jd9uvis4.png",
       "source": "Dev.to",
       "user": "Malik Sohaib iqbal"
+    },
+    {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
     },
     {
       "title": "What are your goals for the week? #172",
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10793,
+      "stars": 10843,
       "user": "openai"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 564,
       "user": "tradesdontlie"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 407,
       "user": "ZhangHanDong"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5672,
+      "stars": 5757,
       "user": "titanwings"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4699,
+      "stars": 4758,
       "user": "tvytlx"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1573,
       "user": "therealXiaomanChu"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1223,
       "user": "HKUDS"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 854,
       "user": "wquguru"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "compozy"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 198,
       "user": "maaslalani"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "ironsh"
     }
   ]
