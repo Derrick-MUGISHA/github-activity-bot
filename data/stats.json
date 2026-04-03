@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 56,
+    "AI": 53,
     "JavaScript": 22,
     "Python": 18,
     "DevOps": 3,
@@ -27,17 +27,15 @@
     "Rust": 1
   },
   "by_date": {
-    "2026-04-01": 15,
+    "2026-04-01": 16,
     "2026-04-03": 8,
     "2026-03-31": 9,
     "2026-04-02": 15,
-    "2026-03-30": 10,
+    "2026-03-30": 11,
     "2026-03-29": 7,
     "2026-03-27": 2,
     "2026-03-26": 1,
     "2026-03-23": 3,
-    "2026-03-17": 1,
-    "2026-03-18": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -70,26 +68,26 @@
     "2026-03-28": 3
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 23,
     "github": 15,
     "open-source": 15,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "discuss": 9,
     "opensource": 9,
     "javascript": 9,
-    "programming": 9,
+    "discuss": 8,
     "python": 8,
-    "agents": 7,
+    "programming": 7,
     "devchallenge": 6,
-    "career": 6,
+    "agents": 6,
     "webdev": 6,
     "go": 6,
     "418challenge": 5,
+    "career": 5,
     "showdev": 5,
-    "productivity": 4,
-    "gemini": 3
+    "gemini": 4,
+    "productivity": 4
   },
   "trending_topics": [],
   "language_percentages": {
