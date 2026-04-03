@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -58,20 +58,20 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.7 (28.7%)
-Python          █████████████████████████ 23.8 (23.8%)
-Java            █████████████████████████ 23.8 (23.8%)
-Go              █████████████████████ 20.0 (20.0%)
-Ruby            █ 1.3 (1.3%)
-PHP             █ 1.3 (1.3%)
-Rust            █ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 28.4 (28.4%)
+Python          ██████████████████████████ 24.7 (24.7%)
+Java            █████████████████████████ 23.5 (23.5%)
+Go              █████████████████████ 19.8 (19.8%)
+Ruby            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Python" : 19
+    "Python" : 20
     "Java" : 19
     "Go" : 16
     "Ruby" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) 
+![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![career](https://img.shields.io/badge/career-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 14:00 CAT)
+## 📅 Latest Updates (2026-04-03 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,16 +205,16 @@ npm run test
 - [I Rebuilt My JavaScript Database From Scratch for the AI Agent Era](https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh) _[Dev.to]_
-- [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) _[Dev.to]_
-- [3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln) _[Dev.to]_
 - [“Why Are We Throwing Away Perfectly Good Tech?”](https://dev.to/codebunny20/why-are-we-throwing-away-perfectly-good-tech-1k3) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [What is your WPM (Words per Minute)? #1](https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [I've been building software for 40 years. But I want *you* to tell me about dev in 1986...](https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj) _[Dev.to]_
+- [The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context](https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1) _[Dev.to]_
+- [Cross-Repository Development with Antigravity](https://dev.to/gdg/cross-repository-development-with-antigravity-26be) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 14:56:43 CAT_
+_Last automated update: Fri, 03 Apr 2026 16:01:25 CAT_
 
 
 
@@ -222,18 +222,29 @@ _Last automated update: Fri, 03 Apr 2026 14:56:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 3. Java: Explain the Java memory model
 
 **Difficulty**: Hard | **Topics**: memory, JVM
 
@@ -241,17 +252,6 @@ Event bubbling, single listener for multiple elements
 <summary>💡 Hint</summary>
 
 Heap, stack, garbage collection
-
-</details>
-
-### 3. DataStructures: Find the median of two sorted arrays
-
-**Difficulty**: Hard | **Topics**: arrays, binary search
-
-<details>
-<summary>💡 Hint</summary>
-
-Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 12:56:43 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 14:01:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -104,36 +104,6 @@
       "user": "Tarek"
     },
     {
-      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-      "published_at": "2026-04-02T01:45:41Z",
-      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
-      "tags": [
-        "ai",
-        "cli",
-        "javascript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
-      "source": "Dev.to",
-      "user": "Teruo Kunihiro"
-    },
-    {
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
-      "published_at": "2026-04-01T12:44:00Z",
-      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
-      "tags": [
-        "ai",
-        "discuss",
-        "mlh",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493",
       "published_at": "2026-04-02T13:42:40Z",
@@ -397,6 +367,36 @@
       "user": "Scarlett Attensil"
     },
     {
+      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+      "published_at": "2026-04-02T01:45:41Z",
+      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
+      "tags": [
+        "ai",
+        "cli",
+        "javascript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
+      "source": "Dev.to",
+      "user": "Teruo Kunihiro"
+    },
+    {
+      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "published_at": "2026-04-01T12:44:00Z",
+      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+      "tags": [
+        "ai",
+        "discuss",
+        "mlh",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -599,6 +599,20 @@
       "user": "xbill"
     },
     {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -742,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11070,
+      "stars": 11092,
       "user": "openai"
     },
     {
@@ -757,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 695,
       "user": "tradesdontlie"
     },
     {
@@ -772,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "meodai"
     },
     {
@@ -787,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4914,
+      "stars": 4921,
       "user": "tvytlx"
     },
     {
@@ -802,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1860,
+      "stars": 1881,
       "user": "therealXiaomanChu"
     },
     {
@@ -817,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 295,
       "user": "compozy"
     }
   ],
@@ -853,21 +867,6 @@
       "user": "Tarek"
     },
     {
-      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-      "published_at": "2026-04-02T01:45:41Z",
-      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
-      "tags": [
-        "ai",
-        "cli",
-        "javascript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
-      "source": "Dev.to",
-      "user": "Teruo Kunihiro"
-    },
-    {
       "title": "The Codex Setup That Worked for Us: Memory, Manifests, and Structured Context",
       "url": "https://dev.to/jimzandueta/from-ai-chaos-to-team-flow-codex-boilerplate-that-actually-worked-5fa1",
       "published_at": "2026-04-01T07:14:45Z",
@@ -881,6 +880,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28n520eear96rilfgp5y.png",
       "source": "Dev.to",
       "user": "Jim Zandueta"
+    },
+    {
+      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+      "published_at": "2026-04-02T01:45:41Z",
+      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
+      "tags": [
+        "ai",
+        "cli",
+        "javascript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
+      "source": "Dev.to",
+      "user": "Teruo Kunihiro"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1071,7 +1085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11070,
+      "stars": 11092,
       "user": "openai"
     },
     {
@@ -1086,7 +1100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 695,
       "user": "tradesdontlie"
     },
     {
@@ -1101,7 +1115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "6551Team"
     },
     {
@@ -1116,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "meodai"
     },
     {
@@ -1195,6 +1209,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1328,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6304,
+      "stars": 6344,
       "user": "titanwings"
     },
     {
@@ -1343,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4914,
+      "stars": 4921,
       "user": "tvytlx"
     },
     {
@@ -1358,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1860,
+      "stars": 1881,
       "user": "therealXiaomanChu"
     },
     {
@@ -1373,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1754,
       "user": "HKUDS"
     },
     {
@@ -1388,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 971,
       "user": "wquguru"
     }
   ],
@@ -1813,6 +1841,20 @@
       "user": "Gavin Cettolo"
     },
     {
+      "title": "I have never written a line of Python in my life. And yet, this week I built my first Python project. 🐍",
+      "url": "https://dev.to/lkrryba/i-have-never-written-a-line-of-python-in-my-life-and-yet-this-week-i-built-my-first-python-3g0a",
+      "published_at": "2026-03-25T11:01:22Z",
+      "description": "I've kept a reading journal on GitHub for years 📚 (223 books and counting, here if anyone is...",
+      "tags": [
+        "vibecoding",
+        "python",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Famw3gh4xchi1jahxa3rh.JPG",
+      "source": "Dev.to",
+      "user": "Leanne R"
+    },
+    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1824,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11070,
+      "stars": 11092,
       "user": "openai"
     },
     {
@@ -1839,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 695,
       "user": "tradesdontlie"
     },
     {
@@ -1854,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "6551Team"
     },
     {
@@ -1869,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "meodai"
     },
     {
@@ -1899,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6304,
+      "stars": 6344,
       "user": "titanwings"
     },
     {
@@ -1914,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4914,
+      "stars": 4921,
       "user": "tvytlx"
     },
     {
@@ -1929,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1860,
+      "stars": 1881,
       "user": "therealXiaomanChu"
     },
     {
@@ -1944,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1754,
       "user": "HKUDS"
     },
     {
@@ -1959,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 971,
       "user": "wquguru"
     },
     {
@@ -1974,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 295,
       "user": "compozy"
     },
     {
@@ -2004,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 246,
       "user": "maaslalani"
     },
     {
@@ -2034,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "ironsh"
     }
   ]
