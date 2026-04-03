@@ -76,21 +76,6 @@
       "user": "Clifton Cunningham"
     },
     {
-      "title": "Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents",
-      "url": "https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7",
-      "published_at": "2026-04-02T06:50:50Z",
-      "description": "Abstract   This paper presents a self-evolving framework, Recursive Knowledge...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F670ngcqe5pf7c06xkwoq.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -134,6 +119,21 @@
       "user": "Tarek"
     },
     {
+      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+      "published_at": "2026-04-02T01:45:41Z",
+      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
+      "tags": [
+        "ai",
+        "cli",
+        "javascript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
+      "source": "Dev.to",
+      "user": "Teruo Kunihiro"
+    },
+    {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "published_at": "2026-04-01T12:44:00Z",
@@ -149,19 +149,19 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-      "published_at": "2026-04-02T01:45:41Z",
-      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
+      "title": "Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents",
+      "url": "https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7",
+      "published_at": "2026-04-02T06:50:50Z",
+      "description": "Abstract   This paper presents a self-evolving framework, Recursive Knowledge...",
       "tags": [
         "ai",
-        "cli",
-        "javascript",
-        "softwareengineering"
+        "gemini",
+        "antigravity",
+        "agentskills"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F670ngcqe5pf7c06xkwoq.png",
       "source": "Dev.to",
-      "user": "Teruo Kunihiro"
+      "user": "Tanaike"
     },
     {
       "title": "New Site, Who Dis?",
@@ -429,19 +429,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
       "title": "Surviving as a Human in the Age of AI",
       "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
       "published_at": "2026-03-31T02:43:37Z",
@@ -455,6 +442,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
     },
     {
       "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
@@ -757,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10598,
+      "stars": 10674,
       "user": "openai"
     },
     {
@@ -772,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 481,
       "user": "tradesdontlie"
     },
     {
@@ -787,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "meodai"
     },
     {
@@ -802,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 368,
       "user": "ZhangHanDong"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4409,
+      "stars": 4529,
       "user": "tvytlx"
     },
     {
@@ -832,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1422,
       "user": "therealXiaomanChu"
     },
     {
@@ -847,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 287,
       "user": "compozy"
     },
     {
@@ -862,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "codeany-ai"
     }
   ],
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10598,
+      "stars": 10674,
       "user": "openai"
     },
     {
@@ -1146,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 632,
       "user": "6551Team"
     },
     {
@@ -1161,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 481,
       "user": "tradesdontlie"
     },
     {
@@ -1176,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "meodai"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 368,
       "user": "ZhangHanDong"
     }
   ],
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5398,
+      "stars": 5486,
       "user": "titanwings"
     },
     {
@@ -1403,23 +1403,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4409,
+      "stars": 4529,
       "user": "tvytlx"
-    },
-    {
-      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
-      "url": "https://github.com/garinasset/leak-check",
-      "published_at": "2026-03-27T10:26:52Z",
-      "description": "个人信息 “泄漏” 检测接口",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
-      "source": "GitHub",
-      "stars": 1838,
-      "user": "garinasset"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -1433,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1422,
       "user": "therealXiaomanChu"
     },
     {
@@ -1448,8 +1433,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 949,
       "user": "HKUDS"
+    },
+    {
+      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
+      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "published_at": "2026-03-29T12:20:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "source": "GitHub",
+      "stars": 791,
+      "user": "adamlyttleapps"
     }
   ],
   "DevOps": [
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 10598,
+      "stars": 10674,
       "user": "openai"
     },
     {
@@ -1914,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 632,
       "user": "6551Team"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 481,
       "user": "tradesdontlie"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "meodai"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27893?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 368,
       "user": "ZhangHanDong"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 5398,
+      "stars": 5486,
       "user": "titanwings"
     },
     {
@@ -1989,23 +1989,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4409,
+      "stars": 4529,
       "user": "tvytlx"
-    },
-    {
-      "title": "garinasset/leak-check - 个人信息 “泄漏” 检测接口",
-      "url": "https://github.com/garinasset/leak-check",
-      "published_at": "2026-03-27T10:26:52Z",
-      "description": "个人信息 “泄漏” 检测接口",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86670875?v=4",
-      "source": "GitHub",
-      "stars": 1838,
-      "user": "garinasset"
     },
     {
       "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
@@ -2019,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1422,
       "user": "therealXiaomanChu"
     },
     {
@@ -2034,8 +2019,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 949,
       "user": "HKUDS"
+    },
+    {
+      "title": "adamlyttleapps/claude-skill-aso-appstore-screenshots - GitHub Repository",
+      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "published_at": "2026-03-29T12:20:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40189502?v=4",
+      "source": "GitHub",
+      "stars": 791,
+      "user": "adamlyttleapps"
     },
     {
       "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 287,
       "user": "compozy"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 176,
       "user": "maaslalani"
     },
     {
@@ -2079,23 +2079,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "ironsh"
-    },
-    {
-      "title": "isboyjc/GoProxy - GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
-      "url": "https://github.com/isboyjc/GoProxy",
-      "published_at": "2026-03-27T15:11:41Z",
-      "description": "GoProxy 从多个公开代理源自动抓取 HTTP/SOCKS5 代理，通过严格验证（出口 IP + 位置 + 延迟）后加入智能代理池，对外提供 HTTP 和 SOCKS5 双协议代理服务。系统采用质量分级、智能补充、自动优化等机制，确保代理池始终保持高质量和稳定性。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42193415?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "isboyjc"
     },
     {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
@@ -2109,8 +2094,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "codeany-ai"
+    },
+    {
+      "title": "lemire/constmap - GitHub Repository",
+      "url": "https://github.com/lemire/constmap",
+      "published_at": "2026-03-29T17:47:53Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/391987?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "lemire"
     }
   ]
 }
