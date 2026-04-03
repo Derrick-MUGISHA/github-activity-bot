@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8 (27.8%)
-Java            █████████████████████████████ 26.6 (26.6%)
-Python          ███████████████████████ 21.5 (21.5%)
-Go              ██████████████████████ 20.3 (20.3%)
+JavaScript      ██████████████████████████████ 27.5 (27.5%)
+Java            █████████████████████████████ 26.3 (26.3%)
+Go              ███████████████████████ 21.3 (21.3%)
+Python          ███████████████████████ 21.3 (21.3%)
 Ruby            █ 1.3 (1.3%)
 PHP             █ 1.3 (1.3%)
 Rust            █ 1.3 (1.3%)
@@ -72,8 +72,8 @@ Rust            █ 1.3 (1.3%)
 pie title Programming Languages Distribution
     "JavaScript" : 22
     "Java" : 21
+    "Go" : 17
     "Python" : 17
-    "Go" : 16
     "Ruby" : 1
     "PHP" : 1
     "Rust" : 1
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-03 22:00 CAT)
+## 📅 Latest Updates (2026-04-03 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,19 +140,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-2on5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3cg0bvhw6dml6xpdb9.jpg" width="200" alt="What was your win this week?" />
+    <a href="https://dev.to/jess/a-year-of-change-and-persistence-19cf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6zl5vrltudjljxwf5mf.png" width="200" alt="A Year of Change and Persistence" />
       <br/>
-      <b>What was your win this week?</b>
+      <b>A Year of Change and Persistence</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jess/a-year-of-change-and-persistence-19cf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6zl5vrltudjljxwf5mf.png" width="200" alt="A Year of Change and Persistence" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-2on5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3cg0bvhw6dml6xpdb9.jpg" width="200" alt="What was your win this week?" />
       <br/>
-      <b>A Year of Change and Persistence</b>
+      <b>What was your win this week?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -178,10 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/fmerian/whos-hiring-april-2026-8p6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2escpmonti2byp2wxirl.jpeg" width="200" alt="Who's hiring — April 2026" />
+    <a href="https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp59bt17y3asv0edfxpkj.png" width="200" alt="What do you want to know about hardware acceleration? Ask the Google team!" />
       <br/>
-      <b>Who's hiring — April 2026</b>
+      <b>What do you want to know about hardware accelerati...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,10 +194,11 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 - [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl) _[Dev.to]_
+- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0) _[Dev.to]_
 - [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
 - [We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
@@ -212,9 +213,8 @@ npm run test
 - [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
-- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf) _[Dev.to]_
 
-_Last automated update: Fri, 03 Apr 2026 22:53:54 CAT_
+_Last automated update: Fri, 03 Apr 2026 23:29:51 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 03 Apr 2026 22:53:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 03 Apr 2026 20:53:54 GMT</b><br/>
+  <b>Last automated update: Fri, 03 Apr 2026 21:29:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
