@@ -214,7 +214,7 @@ npm run test
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 11:04:41 CAT_
+_Last automated update: Sat, 04 Apr 2026 11:53:58 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 04 Apr 2026 11:04:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Execution timing, event loop phases
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 09:04:41 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 09:53:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
