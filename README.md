@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 7:00 CAT)
+## 📅 Latest Updates (2026-04-04 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -211,10 +211,10 @@ npm run test
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
-- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
+- [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 07:38:34 CAT_
+_Last automated update: Sat, 04 Apr 2026 08:39:41 CAT_
 
 
 
@@ -222,18 +222,29 @@ _Last automated update: Sat, 04 Apr 2026 07:38:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Heap, stack, garbage collection
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
+
+</details>
+
+### 3. React: How would you optimize a React app's performance?
 
 **Difficulty**: Hard | **Topics**: optimization, performance
 
@@ -241,17 +252,6 @@ Users, posts, relationships, indexes, partitioning
 <summary>💡 Hint</summary>
 
 React.memo, useMemo, useCallback, code splitting, lazy loading
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 05:38:34 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 06:39:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -115,21 +115,6 @@
       "user": "Alvis Ng"
     },
     {
-      "title": "Google Gemma 4: Everything Developers Need to Know",
-      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
-      "published_at": "2026-04-03T00:45:57Z",
-      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
-      "source": "Dev.to",
-      "user": "Om Shree"
-    },
-    {
       "title": "Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere",
       "url": "https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228",
       "published_at": "2026-04-02T19:58:01Z",
@@ -391,6 +376,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "Google Gemma 4: Everything Developers Need to Know",
+      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
+      "published_at": "2026-04-03T00:45:57Z",
+      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
+      "source": "Dev.to",
+      "user": "Om Shree"
+    },
+    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11369,
+      "stars": 11376,
       "user": "openai"
     },
     {
@@ -659,8 +659,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 830,
       "user": "tradesdontlie"
+    },
+    {
+      "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
+      "url": "https://github.com/6551Team/claude-code-design-guide",
+      "published_at": "2026-03-31T10:50:07Z",
+      "description": "From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
+      "source": "GitHub",
+      "stars": 647,
+      "user": "6551Team"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4993,
+      "stars": 4997,
       "user": "tvytlx"
     },
     {
@@ -689,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2108,
       "user": "therealXiaomanChu"
     },
     {
@@ -913,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11369,
+      "stars": 11376,
       "user": "openai"
     },
     {
@@ -928,14 +943,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 830,
       "user": "tradesdontlie"
     },
     {
-      "title": "6551Team/claude-code-design-guide - GitHub Repository",
+      "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
-      "description": "Trending GitHub Repository",
+      "description": "From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "tags": [
         "javascript",
         "github",
@@ -943,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "6551Team"
     },
     {
@@ -973,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 337,
       "user": "LarsenCundric"
     }
   ],
@@ -1155,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6615,
+      "stars": 6655,
       "user": "titanwings"
     },
     {
@@ -1170,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4993,
+      "stars": 4997,
       "user": "tvytlx"
     },
     {
@@ -1185,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2389,
       "user": "HKUDS"
     },
     {
@@ -1200,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2108,
       "user": "therealXiaomanChu"
     },
     {
@@ -1215,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1252,
       "user": "kevinrgu"
     }
   ],
@@ -1357,21 +1372,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google Gemma 4: Everything Developers Need to Know",
-      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
-      "published_at": "2026-04-03T00:45:57Z",
-      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
-      "source": "Dev.to",
-      "user": "Om Shree"
-    },
-    {
       "title": "Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493",
       "published_at": "2026-04-02T13:42:40Z",
@@ -1399,6 +1399,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "Google Gemma 4: Everything Developers Need to Know",
+      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
+      "published_at": "2026-04-03T00:45:57Z",
+      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
+      "tags": [
+        "ai",
+        "programming",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
+      "source": "Dev.to",
+      "user": "Om Shree"
     }
   ],
   "Database": [
@@ -1636,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11369,
+      "stars": 11376,
       "user": "openai"
     },
     {
@@ -1651,14 +1666,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 830,
       "user": "tradesdontlie"
     },
     {
-      "title": "6551Team/claude-code-design-guide - GitHub Repository",
+      "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
-      "description": "Trending GitHub Repository",
+      "description": "From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "tags": [
         "javascript",
         "github",
@@ -1666,7 +1681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 647,
       "user": "6551Team"
     },
     {
@@ -1696,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 337,
       "user": "LarsenCundric"
     },
     {
@@ -1711,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6615,
+      "stars": 6655,
       "user": "titanwings"
     },
     {
@@ -1726,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4993,
+      "stars": 4997,
       "user": "tvytlx"
     },
     {
@@ -1741,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2389,
       "user": "HKUDS"
     },
     {
@@ -1756,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2108,
       "user": "therealXiaomanChu"
     },
     {
@@ -1771,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1252,
       "user": "kevinrgu"
     },
     {
@@ -1786,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 325,
       "user": "maaslalani"
     },
     {
