@@ -1149184,3 +1149184,695 @@ Use Codex from Claude Code to review code or delegate tasks.
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-04 18:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (52 articles)
+
+#### 1. [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7)
+📅 Thu, 02 Apr 2026 18:18:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `gemini`, `azurecontainerapps`, `agents`, `googleadk`
+
+---
+
+#### 2. [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6)
+📅 Thu, 02 Apr 2026 17:00:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure ACI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `geminillm`, `agents`, `python`, `azureaci`
+
+---
+
+#### 3. [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6)
+📅 Wed, 01 Apr 2026 16:19:39 GMT
+👤 By: billkhiz | 📌 Source: Dev.to
+
+![I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png)
+
+Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...
+
+🏷️ Tags: `python`, `accounting`, `opensource`, `fintech`
+
+---
+
+#### 4. [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p)
+📅 Thu, 02 Apr 2026 04:15:36 GMT
+👤 By: Clifton Cunningham | 📌 Source: Dev.to
+
+![Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.drizby.com%2Fimages%2Fdrizby_3.png)
+
+I've spent 20 years trying to answer one question: how do you give users analytics on their own data without building an entire BI platform? Turns out, eventually you just build the platform.
+
+🏷️ Tags: `analytics`, `opensource`, `typescript`, `ai`
+
+---
+
+#### 5. [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0)
+📅 Tue, 31 Mar 2026 13:58:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png)
+
+A post by Ben Halpern
+
+🏷️ Tags: `database`, `news`, `performance`
+
+---
+
+#### 6. [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
+📅 Thu, 02 Apr 2026 23:20:16 GMT
+👤 By: Dimitris Tzemos | 📌 Source: Dev.to
+
+![How to create your own Radio Station using a dynamic ip domain.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc580al0sjsw0avs36hla.png)
+
+In previous posts “Steps to configure Dehydrated for ZeroSSL and Let’s Encrypt” and “Steps to...
+
+---
+
+#### 7. [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek)
+📅 Fri, 03 Apr 2026 00:55:59 GMT
+👤 By: Alonso | 📌 Source: Dev.to
+
+![PURESLOP.md — teach your AI agent to write terrible code.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png)
+
+This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...
+
+🏷️ Tags: `devchallenge`, `418challenge`, `showdev`, `agents`
+
+---
+
+#### 8. [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf)
+📅 Fri, 03 Apr 2026 02:04:09 GMT
+👤 By: Alvis Ng | 📌 Source: Dev.to
+
+![Nobody Wants to Learn AI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq0l8zypw48ra8ioso3a2.jpg)
+
+The “lifelong learner” identity isn’t aspiration. It’s a subscription you can’t cancel.     Last...
+
+🏷️ Tags: `ai`, `programming`, `career`, `software`
+
+---
+
+#### 9. [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228)
+📅 Thu, 02 Apr 2026 19:58:01 GMT
+👤 By: William Weiner | 📌 Source: Dev.to
+
+![Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg)
+
+A few days ago I received a promotional-style email asking for lobbying help on upcoming state...
+
+🏷️ Tags: `privacy`
+
+---
+
+#### 10. [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493)
+📅 Thu, 02 Apr 2026 13:42:40 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png)
+
+The average professional spends 28% of their workday reading and answering emails. But here's the...
+
+🏷️ Tags: `workspacestudio`, `googleworkspace`, `aiemailograniser`, `googlecloud`
+
+---
+
+### 🏷️ JavaScript (20 articles)
+
+#### 1. [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p)
+📅 Thu, 02 Apr 2026 04:15:36 GMT
+👤 By: Clifton Cunningham | 📌 Source: Dev.to
+
+![Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.drizby.com%2Fimages%2Fdrizby_3.png)
+
+I've spent 20 years trying to answer one question: how do you give users analytics on their own data without building an entire BI platform? Turns out, eventually you just build the platform.
+
+🏷️ Tags: `analytics`, `opensource`, `typescript`, `ai`
+
+---
+
+#### 2. [Synchronous vs Asynchronous JavaScript](https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2)
+📅 Thu, 02 Apr 2026 10:38:36 GMT
+👤 By: Ritam Saha | 📌 Source: Dev.to
+
+![Synchronous vs Asynchronous JavaScript](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6327lc76gslhys2tzrho.png)
+
+Introduction   Hey there, fellow coders!  Imagine this: You’re at your favorite café,...
+
+🏷️ Tags: `webdev`, `javascript`, `backend`, `programming`
+
+---
+
+#### 3. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 4. [MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available](https://dev.to/mattvb91/mavonengine-a-typescript-multiplayer-3d-game-engine-for-the-browser-now-available-20kk)
+📅 Mon, 30 Mar 2026 17:38:17 GMT
+👤 By: Matthias von Bargen | 📌 Source: Dev.to
+
+![MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqtllcvyvv5ruiixqa2d0.png)
+
+Building a multiplayer 3D browser game means stitching together a renderer, a physics engine, a...
+
+🏷️ Tags: `gamedev`
+
+---
+
+#### 5. [TERSE — A New Serialization Format Built for LLMs](https://dev.to/rudsoncarvalho/terse-a-new-serialization-format-built-for-llms-4n34)
+📅 Tue, 31 Mar 2026 12:10:36 GMT
+👤 By: Rudson Kiyoshi Souza Carvalho | 📌 Source: Dev.to
+
+![TERSE — A New Serialization Format Built for LLMs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png)
+
+JSON carries ~47% structural noise on every LLM API call. TERSE is a new open-source serialization format that covers the full JSON data model with 30–55% fewer tokens. Formal spec, 4 reference implementations, live playground.
+
+🏷️ Tags: `llm`, `opensource`, `ai`, `token`
+
+---
+
+#### 6. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (19 articles)
+
+#### 1. [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6)
+📅 Thu, 02 Apr 2026 17:00:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure ACI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `geminillm`, `agents`, `python`, `azureaci`
+
+---
+
+#### 2. [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6)
+📅 Wed, 01 Apr 2026 16:19:39 GMT
+👤 By: billkhiz | 📌 Source: Dev.to
+
+![I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png)
+
+Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...
+
+🏷️ Tags: `python`, `accounting`, `opensource`, `fintech`
+
+---
+
+#### 3. [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf)
+📅 Fri, 03 Apr 2026 00:45:57 GMT
+👤 By: Om Shree | 📌 Source: Dev.to
+
+![Google Gemma 4: Everything Developers Need to Know](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png)
+
+Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...
+
+🏷️ Tags: `ai`, `programming`, `python`, `googlecloud`
+
+---
+
+#### 4. [When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2)
+📅 Wed, 01 Apr 2026 02:37:52 GMT
+👤 By: T.J. Maher | 📌 Source: Dev.to
+
+![When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png)
+
+Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
+#### 5. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (3 articles)
+
+#### 1. [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc)
+📅 Fri, 03 Apr 2026 05:49:12 GMT
+👤 By: Kelechi Oliver A. | 📌 Source: Dev.to
+
+![Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png)
+
+The worst kind of production incident is the one where you're staring at a broken system and you have...
+
+🏷️ Tags: `webdev`, `productivity`, `devops`, `architecture`
+
+---
+
+#### 2. [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb)
+📅 Sun, 29 Mar 2026 04:13:52 GMT
+👤 By: Ajadi Olalekan Jamiu | 📌 Source: Dev.to
+
+![Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png)
+
+Introduction  In the early stages of learning cloud development, it’s tempting to just "make it work"...
+
+🏷️ Tags: `devops`, `cloud`, `azure`
+
+---
+
+#### 3. [How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl)
+📅 Thu, 02 Apr 2026 15:39:35 GMT
+👤 By: Oyoh Edmond | 📌 Source: Dev.to
+
+![How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq68wi2kspj1rpsryu8ft.png)
+
+A real-world incident report for engineers dealing with filesystem corruption on production Linux...
+
+🏷️ Tags: `linux`, `openstack`, `sysadmin`, `devops`
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [Synchronous vs Asynchronous JavaScript](https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2)
+📅 Thu, 02 Apr 2026 10:38:36 GMT
+👤 By: Ritam Saha | 📌 Source: Dev.to
+
+![Synchronous vs Asynchronous JavaScript](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6327lc76gslhys2tzrho.png)
+
+Introduction   Hey there, fellow coders!  Imagine this: You’re at your favorite café,...
+
+🏷️ Tags: `webdev`, `javascript`, `backend`, `programming`
+
+---
+
+#### 2. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 3. [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib)
+📅 Sun, 29 Mar 2026 23:23:50 GMT
+👤 By: Ben Evans | 📌 Source: Dev.to
+
+![CodePen TV secrets](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png)
+
+Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...
+
+🏷️ Tags: `codepen`, `css`, `cssart`, `crt`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Cloud (5 articles)
+
+#### 1. [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7)
+📅 Thu, 02 Apr 2026 18:18:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `gemini`, `azurecontainerapps`, `agents`, `googleadk`
+
+---
+
+#### 2. [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6)
+📅 Thu, 02 Apr 2026 17:00:19 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure ACI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `geminillm`, `agents`, `python`, `azureaci`
+
+---
+
+#### 3. [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493)
+📅 Thu, 02 Apr 2026 13:42:40 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrxypdwn2lqbrihrrm2c.png)
+
+The average professional spends 28% of their workday reading and answering emails. But here's the...
+
+🏷️ Tags: `workspacestudio`, `googleworkspace`, `aiemailograniser`, `googlecloud`
+
+---
+
+#### 4. [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb)
+📅 Sun, 29 Mar 2026 04:13:52 GMT
+👤 By: Ajadi Olalekan Jamiu | 📌 Source: Dev.to
+
+![Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png)
+
+Introduction  In the early stages of learning cloud development, it’s tempting to just "make it work"...
+
+🏷️ Tags: `devops`, `cloud`, `azure`
+
+---
+
+#### 5. [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf)
+📅 Fri, 03 Apr 2026 00:45:57 GMT
+👤 By: Om Shree | 📌 Source: Dev.to
+
+![Google Gemma 4: Everything Developers Need to Know](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png)
+
+Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...
+
+🏷️ Tags: `ai`, `programming`, `python`, `googlecloud`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0)
+📅 Tue, 31 Mar 2026 13:58:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png)
+
+A post by Ben Halpern
+
+🏷️ Tags: `database`, `news`, `performance`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (4 articles)
+
+#### 1. [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a)
+📅 Wed, 01 Apr 2026 12:41:18 GMT
+👤 By: Lakhan Samani | 📌 Source: Dev.to
+
+![Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png)
+
+We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...
+
+🏷️ Tags: `webdev`, `ai`, `opensource`, `authentication`
+
+---
+
+#### 2. [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh)
+📅 Mon, 30 Mar 2026 18:36:33 GMT
+👤 By: Mark Townsend | 📌 Source: Dev.to
+
+![Working with JWTs in Laravel (Without the Magic)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png)
+
+If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...
+
+🏷️ Tags: `laravel`, `php`, `security`, `tutorial`
+
+---
+
+#### 3. [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f)
+📅 Tue, 31 Mar 2026 02:37:02 GMT
+👤 By: PracticeOverflow | 📌 Source: Dev.to
+
+![Securing the Agentic Era: AI Agents as First-Class Security Principals](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png)
+
+Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...
+
+🏷️ Tags: `agents`, `ai`, `cybersecurity`, `security`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (25 articles)
+
+#### 1. [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc)
+📅 Fri, 03 Apr 2026 05:49:12 GMT
+👤 By: Kelechi Oliver A. | 📌 Source: Dev.to
+
+![Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png)
+
+The worst kind of production incident is the one where you're staring at a broken system and you have...
+
+🏷️ Tags: `webdev`, `productivity`, `devops`, `architecture`
+
+---
+
+#### 2. [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1)
+📅 Thu, 02 Apr 2026 15:05:43 GMT
+👤 By: Adam Tauber | 📌 Source: Dev.to
+
+![How I Cut My Google Search Dependence in Half](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F653nkiw75z81c65jjego.png)
+
+I built Hister, a self-hosted web history search tool that indexes visited pages locally. In just 1.5 months, I reduced my reliance on Google Search by 50%
+
+🏷️ Tags: `go`, `searchengine`, `indexer`, `search`
+
+---
+
+#### 3. [AI became my assistant to learning](https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53)
+📅 Wed, 01 Apr 2026 16:56:50 GMT
+👤 By: Natália Satie | 📌 Source: Dev.to
+
+![AI became my assistant to learning](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsie7o3i8n09iwhtgy7r.png)
+
+AI became a trend stronger than expected, and soon, became part of my routine as a software...
+
+🏷️ Tags: `ai`, `productivity`, `beginners`, `learning`
+
+---
+
+#### 4. [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m)
+📅 Fri, 27 Mar 2026 11:00:00 GMT
+👤 By: Jessica Temporal | 📌 Source: Dev.to
+
+![Auth0 MCP Server Extension for Gemini CLI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png)
+
+The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...
+
+🏷️ Tags: `ai`, `mcp`, `tutorial`, `tooling`
+
+---
+
+#### 5. [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm)
+📅 Mon, 30 Mar 2026 14:28:37 GMT
+👤 By: Chris Jarvis | 📌 Source: Dev.to
+
+![What are your goals for the week? #172](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg)
+
+Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...
+
+🏷️ Tags: `career`, `discuss`, `productivity`, `watercooler`
+
+---
+
+#### 6. [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956)
+📅 Mon, 23 Mar 2026 18:05:03 GMT
+👤 By: Ivan SZKIBA | 📌 Source: Dev.to
+
+![Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png)
+
+This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...
+
+🏷️ Tags: `ai`, `agents`, `git`, `makerchecker`
+
+---
+
+#### 7. [🌪️ Proof of Work: The To-Do List of Infinite Regret](https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le)
+📅 Wed, 01 Apr 2026 20:49:57 GMT
+👤 By: Malik Sohaib iqbal | 📌 Source: Dev.to
+
+![🌪️ Proof of Work: The To-Do List of Infinite Regret](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07oo39h43oc8jd9uvis4.png)
+
+**           What I Built   ** I built a productivity app for people who hate being productive. Proof...
+
+🏷️ Tags: `devchallenge`, `418challenge`, `showdev`, `webdev`
+
+---
+
+#### 8. [AI terminal tools in 2026: Warp, Lacy Shell, and the rest](https://dev.to/lacymorrow/2026-ai-terminal-tools-comparison-warp-vs-lacy-shell-vs-traditional-shells-5a8f)
+📅 Mon, 30 Mar 2026 16:19:41 GMT
+👤 By: Lacy Morrow | 📌 Source: Dev.to
+
+![AI terminal tools in 2026: Warp, Lacy Shell, and the rest](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png)
+
+The terminal has not changed much in 40 years. The prompt, shell, and command syntax are basically...
+
+🏷️ Tags: `terminal`, `ai`, `opensource`, `productivity`
+
+---
+
+#### 9. [We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5)
+📅 Thu, 02 Apr 2026 07:39:26 GMT
+👤 By: Riley Black | 📌 Source: Dev.to
+
+![We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png)
+
+If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...
+
+🏷️ Tags: `ai`, `gamedev`, `showdev`, `tooling`
+
+---
+
+#### 10. [When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2)
+📅 Wed, 01 Apr 2026 02:37:52 GMT
+👤 By: T.J. Maher | 📌 Source: Dev.to
+
+![When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png)
+
+Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
