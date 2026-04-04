@@ -214,7 +214,7 @@ npm run test
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 01:02:54 CAT_
+_Last automated update: Sun, 05 Apr 2026 01:45:59 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 01:02:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Execution timing, event loop phases
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Execution timing, event loop phases
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 23:02:54 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 23:45:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
