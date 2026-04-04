@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
-      "url": "https://dev.to/alonsarias/pureslopmd-54ek",
-      "published_at": "2026-04-03T00:55:59Z",
-      "description": "This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
-      "source": "Dev.to",
-      "user": "Alonso"
-    },
-    {
       "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
       "published_at": "2026-04-02T18:18:19Z",
@@ -98,6 +83,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc580al0sjsw0avs36hla.png",
       "source": "Dev.to",
       "user": "Dimitris Tzemos"
+    },
+    {
+      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
+      "url": "https://dev.to/alonsarias/pureslopmd-54ek",
+      "published_at": "2026-04-03T00:55:59Z",
+      "description": "This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
+      "source": "Dev.to",
+      "user": "Alonso"
     },
     {
       "title": "Nobody Wants to Learn AI",
@@ -376,21 +376,6 @@
       "user": "Scarlett Attensil"
     },
     {
-      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-      "published_at": "2026-04-02T01:45:41Z",
-      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
-      "tags": [
-        "ai",
-        "cli",
-        "javascript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
-      "source": "Dev.to",
-      "user": "Teruo Kunihiro"
-    },
-    {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
       "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
       "published_at": "2026-04-01T12:44:00Z",
@@ -504,6 +489,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvgitp385z0buw8lvzvh.png",
       "source": "Dev.to",
       "user": "Alexander Leonhard"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -649,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11348,
+      "stars": 11369,
       "user": "openai"
     },
     {
@@ -664,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 825,
       "user": "tradesdontlie"
     },
     {
@@ -679,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4984,
+      "stars": 4993,
       "user": "tvytlx"
     },
     {
@@ -694,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2031,
+      "stars": 2069,
       "user": "therealXiaomanChu"
     },
     {
@@ -728,21 +723,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.drizby.com%2Fimages%2Fdrizby_3.png",
       "source": "Dev.to",
       "user": "Clifton Cunningham"
-    },
-    {
-      "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-      "url": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-      "published_at": "2026-04-02T01:45:41Z",
-      "description": "What I Learned from Reading Claude Code’s Reconstructed Source   Around March 31, 2026, it...",
-      "tags": [
-        "ai",
-        "cli",
-        "javascript",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nh8klt3jn5s0mo4bf8t.png",
-      "source": "Dev.to",
-      "user": "Teruo Kunihiro"
     },
     {
       "title": "Synchronous vs Asynchronous JavaScript",
@@ -933,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11348,
+      "stars": 11369,
       "user": "openai"
     },
     {
@@ -948,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 825,
       "user": "tradesdontlie"
     },
     {
@@ -963,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 646,
       "user": "6551Team"
     },
     {
@@ -993,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 331,
       "user": "LarsenCundric"
     }
   ],
@@ -1175,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6581,
+      "stars": 6615,
       "user": "titanwings"
     },
     {
@@ -1190,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4984,
+      "stars": 4993,
       "user": "tvytlx"
     },
     {
@@ -1205,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2308,
+      "stars": 2354,
       "user": "HKUDS"
     },
     {
@@ -1220,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2031,
+      "stars": 2069,
       "user": "therealXiaomanChu"
     },
     {
@@ -1235,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1208,
       "user": "kevinrgu"
     }
   ],
@@ -1656,7 +1636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11348,
+      "stars": 11369,
       "user": "openai"
     },
     {
@@ -1671,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 825,
       "user": "tradesdontlie"
     },
     {
@@ -1686,7 +1666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 646,
       "user": "6551Team"
     },
     {
@@ -1716,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 331,
       "user": "LarsenCundric"
     },
     {
@@ -1731,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6581,
+      "stars": 6615,
       "user": "titanwings"
     },
     {
@@ -1746,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4984,
+      "stars": 4993,
       "user": "tvytlx"
     },
     {
@@ -1761,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2308,
+      "stars": 2354,
       "user": "HKUDS"
     },
     {
@@ -1776,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2031,
+      "stars": 2069,
       "user": "therealXiaomanChu"
     },
     {
@@ -1791,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1208,
       "user": "kevinrgu"
     },
     {
@@ -1806,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 317,
       "user": "maaslalani"
     },
     {
@@ -1851,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "ironsh"
     },
     {

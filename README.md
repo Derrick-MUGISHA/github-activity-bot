@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-04-orange)
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,21 +58,21 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.3 (26.3%)
-Java            █████████████████████████████ 25.0 (25.0%)
-Go              ██████████████████████████ 22.5 (22.5%)
-Python          ██████████████████████████ 22.5 (22.5%)
-Ruby            █ 1.3 (1.3%)
-PHP             █ 1.3 (1.3%)
-Rust            █ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 25.3 (25.3%)
+Go              █████████████████████████████ 24.1 (24.1%)
+Java            █████████████████████████████ 24.1 (24.1%)
+Python          ███████████████████████████ 22.8 (22.8%)
+Ruby            ██ 1.3 (1.3%)
+PHP             ██ 1.3 (1.3%)
+Rust            ██ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 21
-    "Java" : 20
-    "Go" : 18
+    "JavaScript" : 20
+    "Go" : 19
+    "Java" : 19
     "Python" : 18
     "Ruby" : 1
     "PHP" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 6:00 CAT)
+## 📅 Latest Updates (2026-04-04 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -160,28 +160,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/alonsarias/pureslopmd-54ek">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png" width="200" alt="PURESLOP.md — teach your AI agent to write terrible code." />
-      <br/>
-      <b>PURESLOP.md — teach your AI agent to write terribl...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh29aofa4ggjs5dkc2e58.png" width="200" alt="Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee" />
-      <br/>
-      <b>Depresso-Tron 418: I Built a Bureaucratic Coffee M...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-2on5">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3cg0bvhw6dml6xpdb9.jpg" width="200" alt="What was your win this week?" />
       <br/>
       <b>What was your win this week?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/fmerian/whos-hiring-april-2026-8p6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2escpmonti2byp2wxirl.jpeg" width="200" alt="Who's hiring — April 2026" />
+      <br/>
+      <b>Who's hiring — April 2026</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png" width="200" alt="Deploying ADK Agents on Azure ACA (Azure Container Apps)" />
+      <br/>
+      <b>Deploying ADK Agents on Azure ACA (Azure Container...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,11 +196,10 @@ npm run test
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0) _[Dev.to]_
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
-- [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
-- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7) _[Dev.to]_
+- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
 - [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc) _[Dev.to]_
@@ -210,11 +209,12 @@ npm run test
 - [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini) _[Dev.to]_
 - [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
+- [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 06:19:08 CAT_
+_Last automated update: Sat, 04 Apr 2026 07:38:34 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 04 Apr 2026 06:19:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 04:19:08 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 05:38:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
