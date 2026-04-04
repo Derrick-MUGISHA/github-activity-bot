@@ -259,6 +259,21 @@
       "user": "Natália Satie"
     },
     {
+      "title": "Working with JWTs in Laravel (Without the Magic)",
+      "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
+      "published_at": "2026-03-30T18:36:33Z",
+      "description": "If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...",
+      "tags": [
+        "laravel",
+        "php",
+        "security",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
+      "source": "Dev.to",
+      "user": "Mark Townsend"
+    },
+    {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
       "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
       "published_at": "2026-03-31T02:37:02Z",
@@ -631,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11580,
+      "stars": 11591,
       "user": "openai"
     },
     {
@@ -646,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 905,
       "user": "tradesdontlie"
     },
     {
@@ -676,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5055,
+      "stars": 5056,
       "user": "tvytlx"
     },
     {
@@ -915,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11580,
+      "stars": 11591,
       "user": "openai"
     },
     {
@@ -930,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 905,
       "user": "tradesdontlie"
     },
     {
@@ -1172,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7103,
+      "stars": 7105,
       "user": "titanwings"
     },
     {
@@ -1187,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5055,
+      "stars": 5056,
       "user": "tvytlx"
     },
     {
@@ -1202,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3346,
+      "stars": 3363,
       "user": "HKUDS"
     },
     {
@@ -1232,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2052,
+      "stars": 2084,
       "user": "kevinrgu"
     }
   ],
@@ -1463,6 +1478,21 @@
       "user": "Lakhan Samani"
     },
     {
+      "title": "Working with JWTs in Laravel (Without the Magic)",
+      "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
+      "published_at": "2026-03-30T18:36:33Z",
+      "description": "If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...",
+      "tags": [
+        "laravel",
+        "php",
+        "security",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
+      "source": "Dev.to",
+      "user": "Mark Townsend"
+    },
+    {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
       "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
       "published_at": "2026-03-31T02:37:02Z",
@@ -1653,7 +1683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11580,
+      "stars": 11591,
       "user": "openai"
     },
     {
@@ -1668,7 +1698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 905,
       "user": "tradesdontlie"
     },
     {
@@ -1728,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7103,
+      "stars": 7105,
       "user": "titanwings"
     },
     {
@@ -1743,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5055,
+      "stars": 5056,
       "user": "tvytlx"
     },
     {
@@ -1758,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3346,
+      "stars": 3363,
       "user": "HKUDS"
     },
     {
@@ -1788,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2052,
+      "stars": 2084,
       "user": "kevinrgu"
     },
     {
@@ -1803,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 437,
       "user": "maaslalani"
     },
     {
