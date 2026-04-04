@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-04-orange)
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 13:00 CAT)
+## 📅 Latest Updates (2026-04-04 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 13:59:18 CAT_
+_Last automated update: Sat, 04 Apr 2026 15:12:59 CAT_
 
 
 
@@ -222,29 +222,18 @@ _Last automated update: Sat, 04 Apr 2026 13:59:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 2. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -252,6 +241,17 @@ yield keyword, lazy evaluation, memory efficiency
 <summary>💡 Hint</summary>
 
 Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 3. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 11:59:18 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 13:12:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

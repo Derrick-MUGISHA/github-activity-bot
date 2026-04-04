@@ -274,21 +274,6 @@
       "user": "PracticeOverflow"
     },
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -459,6 +444,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
       "source": "Dev.to",
       "user": "Lacy Morrow"
+    },
+    {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
     },
     {
       "title": "The Integration Tax: Walled-Garden Agent Strategies Won't Scale (MxN vs. M+N)",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11467,
+      "stars": 11484,
       "user": "openai"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 874,
       "user": "tradesdontlie"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5020,
+      "stars": 5030,
       "user": "tvytlx"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2320,
       "user": "therealXiaomanChu"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11467,
+      "stars": 11484,
       "user": "openai"
     },
     {
@@ -943,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 874,
       "user": "tradesdontlie"
     },
     {
@@ -973,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 382,
       "user": "hellowind777"
     },
     {
@@ -988,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 362,
       "user": "LarsenCundric"
     }
   ],
@@ -1170,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6860,
+      "stars": 6912,
       "user": "titanwings"
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5020,
+      "stars": 5030,
       "user": "tvytlx"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2632,
+      "stars": 2735,
       "user": "HKUDS"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2320,
       "user": "therealXiaomanChu"
     },
     {
@@ -1230,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1586,
       "user": "kevinrgu"
     }
   ],
@@ -1550,21 +1550,6 @@
       "user": "Natália Satie"
     },
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1640,6 +1625,21 @@
       "user": "Lacy Morrow"
     },
     {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
+    },
+    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1651,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11467,
+      "stars": 11484,
       "user": "openai"
     },
     {
@@ -1666,7 +1666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 874,
       "user": "tradesdontlie"
     },
     {
@@ -1696,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 382,
       "user": "hellowind777"
     },
     {
@@ -1711,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 362,
       "user": "LarsenCundric"
     },
     {
@@ -1726,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6860,
+      "stars": 6912,
       "user": "titanwings"
     },
     {
@@ -1741,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5020,
+      "stars": 5030,
       "user": "tvytlx"
     },
     {
@@ -1756,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2632,
+      "stars": 2735,
       "user": "HKUDS"
     },
     {
@@ -1771,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2320,
       "user": "therealXiaomanChu"
     },
     {
@@ -1786,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1586,
       "user": "kevinrgu"
     },
     {
@@ -1801,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 363,
       "user": "maaslalani"
     },
     {
