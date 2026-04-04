@@ -16,21 +16,6 @@
       "user": "Alonso"
     },
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
       "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
       "published_at": "2026-04-02T18:18:19Z",
@@ -103,21 +88,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-      "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-      "published_at": "2026-03-31T17:49:54Z",
-      "description": "Why I rewrote Skalex v4 from the ground up with vector search, agent memory, and a one-line MCP server built into the core.",
-      "tags": [
-        "javascript",
-        "ai",
-        "database",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
-      "source": "Dev.to",
-      "user": "Tarek"
     },
     {
       "title": "How to create your own Radio Station using a dynamic ip domain.",
@@ -319,6 +289,21 @@
       "user": "PracticeOverflow"
     },
     {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
+    },
+    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -506,6 +491,21 @@
       "user": "Lacy Morrow"
     },
     {
+      "title": "The Integration Tax: Walled-Garden Agent Strategies Won't Scale (MxN vs. M+N)",
+      "url": "https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f",
+      "published_at": "2026-04-01T14:52:17Z",
+      "description": "Personio maintains 200+ integrations. Greenhouse has 400+. iCIMS lists 800+.  Every single one is a...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvgitp385z0buw8lvzvh.png",
+      "source": "Dev.to",
+      "user": "Alexander Leonhard"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -649,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11309,
+      "stars": 11348,
       "user": "openai"
     },
     {
@@ -664,23 +664,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 823,
       "user": "tradesdontlie"
-    },
-    {
-      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
-      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
-      "published_at": "2026-03-31T12:42:54Z",
-      "description": "针对cc客户端源码的详细讲解，面向新手。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
-      "source": "GitHub",
-      "stars": 310,
-      "user": "iZiTTMarvin"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -694,7 +679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4970,
+      "stars": 4984,
       "user": "tvytlx"
     },
     {
@@ -709,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 2031,
       "user": "therealXiaomanChu"
     },
     {
@@ -743,21 +728,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.drizby.com%2Fimages%2Fdrizby_3.png",
       "source": "Dev.to",
       "user": "Clifton Cunningham"
-    },
-    {
-      "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-      "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-      "published_at": "2026-03-31T17:49:54Z",
-      "description": "Why I rewrote Skalex v4 from the ground up with vector search, agent memory, and a one-line MCP server built into the core.",
-      "tags": [
-        "javascript",
-        "ai",
-        "database",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
-      "source": "Dev.to",
-      "user": "Tarek"
     },
     {
       "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
@@ -963,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11309,
+      "stars": 11348,
       "user": "openai"
     },
     {
@@ -978,7 +948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 823,
       "user": "tradesdontlie"
     },
     {
@@ -1008,23 +978,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 370,
       "user": "hellowind777"
     },
     {
-      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
-      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
-      "published_at": "2026-03-31T12:42:54Z",
-      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "title": "LarsenCundric/port-whisperer - A beautiful CLI tool to see what's running on your ports",
+      "url": "https://github.com/LarsenCundric/port-whisperer",
+      "published_at": "2026-04-03T03:57:20Z",
+      "description": "A beautiful CLI tool to see what's running on your ports",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 310,
-      "user": "iZiTTMarvin"
+      "stars": 325,
+      "user": "LarsenCundric"
     }
   ],
   "Python": [
@@ -1205,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6498,
+      "stars": 6581,
       "user": "titanwings"
     },
     {
@@ -1220,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4970,
+      "stars": 4984,
       "user": "tvytlx"
     },
     {
@@ -1235,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2157,
+      "stars": 2308,
       "user": "HKUDS"
     },
     {
@@ -1250,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 2031,
       "user": "therealXiaomanChu"
     },
     {
@@ -1265,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1160,
       "user": "kevinrgu"
     }
   ],
@@ -1467,21 +1437,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-      "url": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-      "published_at": "2026-03-31T17:49:54Z",
-      "description": "Why I rewrote Skalex v4 from the ground up with vector search, agent memory, and a one-line MCP server built into the core.",
-      "tags": [
-        "javascript",
-        "ai",
-        "database",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7pratpyuex5ih1y1ubu4.png",
-      "source": "Dev.to",
-      "user": "Tarek"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1555,21 +1510,6 @@
   ],
   "Tools": [
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
       "title": "Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2",
       "url": "https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc",
       "published_at": "2026-04-03T05:49:12Z",
@@ -1613,6 +1553,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsie7o3i8n09iwhtgy7r.png",
       "source": "Dev.to",
       "user": "Natália Satie"
+    },
+    {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -1701,7 +1656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11309,
+      "stars": 11348,
       "user": "openai"
     },
     {
@@ -1716,7 +1671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 823,
       "user": "tradesdontlie"
     },
     {
@@ -1746,23 +1701,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 370,
       "user": "hellowind777"
     },
     {
-      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
-      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
-      "published_at": "2026-03-31T12:42:54Z",
-      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "title": "LarsenCundric/port-whisperer - A beautiful CLI tool to see what's running on your ports",
+      "url": "https://github.com/LarsenCundric/port-whisperer",
+      "published_at": "2026-04-03T03:57:20Z",
+      "description": "A beautiful CLI tool to see what's running on your ports",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 310,
-      "user": "iZiTTMarvin"
+      "stars": 325,
+      "user": "LarsenCundric"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -1776,7 +1731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6498,
+      "stars": 6581,
       "user": "titanwings"
     },
     {
@@ -1791,7 +1746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4970,
+      "stars": 4984,
       "user": "tvytlx"
     },
     {
@@ -1806,7 +1761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2157,
+      "stars": 2308,
       "user": "HKUDS"
     },
     {
@@ -1821,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 2031,
       "user": "therealXiaomanChu"
     },
     {
@@ -1836,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1160,
       "user": "kevinrgu"
     },
     {
@@ -1851,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 312,
       "user": "maaslalani"
     },
     {
@@ -1896,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 208,
       "user": "ironsh"
     },
     {
