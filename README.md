@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-04-orange)
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,19 +58,19 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.6 (26.6%)
-Python          █████████████████████████████ 25.3 (25.3%)
-Java            ███████████████████████████ 24.1 (24.1%)
-Go              ████████████████████████ 21.5 (21.5%)
-Ruby            █ 1.3 (1.3%)
-Rust            █ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 26.0 (26.0%)
+Python          █████████████████████████████ 24.7 (24.7%)
+Java            █████████████████████████████ 24.7 (24.7%)
+Go              ██████████████████████████ 22.1 (22.1%)
+Ruby            ██ 1.3 (1.3%)
+Rust            ██ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 21
-    "Python" : 20
+    "JavaScript" : 20
+    "Python" : 19
     "Java" : 19
     "Go" : 17
     "Ruby" : 1
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![career](https://img.shields.io/badge/career-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -212,7 +212,7 @@ npm run test
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 21:19:55 CAT_
+_Last automated update: Sat, 04 Apr 2026 21:52:36 CAT_
 
 
 
@@ -220,14 +220,14 @@ _Last automated update: Sat, 04 Apr 2026 21:19:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -242,14 +242,14 @@ setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 19:19:55 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 19:52:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
