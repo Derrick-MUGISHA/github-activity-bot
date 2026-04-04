@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 12:00 CAT)
+## 📅 Latest Updates (2026-04-04 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 12:29:23 CAT_
+_Last automated update: Sat, 04 Apr 2026 13:01:24 CAT_
 
 
 
@@ -222,29 +222,7 @@ _Last automated update: Sat, 04 Apr 2026 12:29:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
-
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
-
-<details>
-<summary>💡 Hint</summary>
-
-Consistency, partitioning, replication, eviction policies
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
+### 1. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -252,6 +230,28 @@ Consistency, partitioning, replication, eviction policies
 <summary>💡 Hint</summary>
 
 Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 2. Database: What is database normalization and denormalization?
+
+**Difficulty**: Medium | **Topics**: design, optimization
+
+<details>
+<summary>💡 Hint</summary>
+
+Normal forms, redundancy, performance trade-offs
+
+</details>
+
+### 3. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 10:29:23 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 11:01:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
