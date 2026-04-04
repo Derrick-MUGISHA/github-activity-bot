@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 15:00 CAT)
+## 📅 Latest Updates (2026-04-04 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 15:59:13 CAT_
+_Last automated update: Sat, 04 Apr 2026 16:40:00 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 04 Apr 2026 15:59:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Heap, stack, garbage collection
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 13:59:13 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 14:40:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
