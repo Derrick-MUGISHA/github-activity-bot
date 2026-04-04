@@ -649,7 +649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11277,
+      "stars": 11309,
       "user": "openai"
     },
     {
@@ -664,23 +664,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 804,
       "user": "tradesdontlie"
     },
     {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 394,
-      "user": "meodai"
+      "stars": 310,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4956,
+      "stars": 4970,
       "user": "tvytlx"
     },
     {
@@ -709,38 +709,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1963,
+      "stars": 1976,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "ericosiu/ai-marketing-skills - Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "url": "https://github.com/ericosiu/ai-marketing-skills",
-      "published_at": "2026-03-28T03:15:00Z",
-      "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
-      "source": "GitHub",
-      "stars": 1059,
-      "user": "ericosiu"
-    },
-    {
-      "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
-      "url": "https://github.com/compozy/compozy",
-      "published_at": "2026-03-28T05:24:12Z",
-      "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
+      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
+      "url": "https://github.com/codeany-ai/codeany",
+      "published_at": "2026-04-01T18:06:21Z",
+      "description": "Open-source AI-powered terminal agent. Built in Go.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 312,
-      "user": "compozy"
+      "stars": 152,
+      "user": "codeany-ai"
     }
   ],
   "JavaScript": [
@@ -978,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11277,
+      "stars": 11309,
       "user": "openai"
     },
     {
@@ -993,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 804,
       "user": "tradesdontlie"
     },
     {
@@ -1008,23 +993,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 644,
       "user": "6551Team"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 394,
-      "user": "meodai"
     },
     {
       "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
@@ -1040,6 +1010,21 @@
       "source": "GitHub",
       "stars": 368,
       "user": "hellowind777"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 310,
+      "user": "iZiTTMarvin"
     }
   ],
   "Python": [
@@ -1220,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6464,
+      "stars": 6498,
       "user": "titanwings"
     },
     {
@@ -1235,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4956,
+      "stars": 4970,
       "user": "tvytlx"
     },
     {
@@ -1250,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2157,
       "user": "HKUDS"
     },
     {
@@ -1265,23 +1250,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1963,
+      "stars": 1976,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "ericosiu/ai-marketing-skills - Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "url": "https://github.com/ericosiu/ai-marketing-skills",
-      "published_at": "2026-03-28T03:15:00Z",
-      "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
+      "title": "kevinrgu/autoagent - autonomous harness engineering",
+      "url": "https://github.com/kevinrgu/autoagent",
+      "published_at": "2026-04-02T20:44:58Z",
+      "description": "autonomous harness engineering",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1059,
-      "user": "ericosiu"
+      "stars": 1054,
+      "user": "kevinrgu"
     }
   ],
   "DevOps": [
@@ -1301,6 +1286,20 @@
       "user": "Kelechi Oliver A."
     },
     {
+      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
+      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
+      "published_at": "2026-03-29T04:13:52Z",
+      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
+      "tags": [
+        "devops",
+        "cloud",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
+      "source": "Dev.to",
+      "user": "Ajadi Olalekan Jamiu"
+    },
+    {
       "title": "How I Spent a Day Trying to Recover a Crashed OpenStack Environment — And What I Learned",
       "url": "https://dev.to/oyohedmond/how-i-spent-a-day-trying-to-recover-a-crashed-openstack-environment-and-what-i-learned-4dpl",
       "published_at": "2026-04-02T15:39:35Z",
@@ -1314,20 +1313,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq68wi2kspj1rpsryu8ft.png",
       "source": "Dev.to",
       "user": "Oyoh Edmond"
-    },
-    {
-      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
-      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
-      "published_at": "2026-03-29T04:13:52Z",
-      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
-      "tags": [
-        "devops",
-        "cloud",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
-      "source": "Dev.to",
-      "user": "Ajadi Olalekan Jamiu"
     }
   ],
   "WebDev": [
@@ -1716,7 +1701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11277,
+      "stars": 11309,
       "user": "openai"
     },
     {
@@ -1731,7 +1716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 804,
       "user": "tradesdontlie"
     },
     {
@@ -1746,23 +1731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 644,
       "user": "6551Team"
-    },
-    {
-      "title": "meodai/heerich - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "url": "https://github.com/meodai/heerich",
-      "published_at": "2026-03-28T21:22:00Z",
-      "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/608386?v=4",
-      "source": "GitHub",
-      "stars": 394,
-      "user": "meodai"
     },
     {
       "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
@@ -1780,6 +1750,21 @@
       "user": "hellowind777"
     },
     {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 310,
+      "user": "iZiTTMarvin"
+    },
+    {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
       "url": "https://github.com/titanwings/colleague-skill",
       "published_at": "2026-03-30T05:22:23Z",
@@ -1791,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6464,
+      "stars": 6498,
       "user": "titanwings"
     },
     {
@@ -1806,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 4956,
+      "stars": 4970,
       "user": "tvytlx"
     },
     {
@@ -1821,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2157,
       "user": "HKUDS"
     },
     {
@@ -1836,38 +1821,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 1963,
+      "stars": 1976,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "ericosiu/ai-marketing-skills - Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "url": "https://github.com/ericosiu/ai-marketing-skills",
-      "published_at": "2026-03-28T03:15:00Z",
-      "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
+      "title": "kevinrgu/autoagent - autonomous harness engineering",
+      "url": "https://github.com/kevinrgu/autoagent",
+      "published_at": "2026-04-02T20:44:58Z",
+      "description": "autonomous harness engineering",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2354382?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1059,
-      "user": "ericosiu"
-    },
-    {
-      "title": "compozy/compozy - Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
-      "url": "https://github.com/compozy/compozy",
-      "published_at": "2026-03-28T05:24:12Z",
-      "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205107042?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "compozy"
+      "stars": 1054,
+      "user": "kevinrgu"
     },
     {
       "title": "maaslalani/sheets - Terminal based spreadsheet tool",
@@ -1881,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 291,
       "user": "maaslalani"
     },
     {
@@ -1926,8 +1896,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "ironsh"
+    },
+    {
+      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
+      "url": "https://github.com/codeany-ai/codeany",
+      "published_at": "2026-04-01T18:06:21Z",
+      "description": "Open-source AI-powered terminal agent. Built in Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
+      "source": "GitHub",
+      "stars": 152,
+      "user": "codeany-ai"
     }
   ]
 }
