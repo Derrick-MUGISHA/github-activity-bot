@@ -1,19 +1,34 @@
 {
   "AI": [
     {
-      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
-      "published_at": "2026-04-02T18:18:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
+      "published_at": "2026-04-04T10:42:37Z",
+      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
       "tags": [
-        "gemini",
-        "azurecontainerapps",
-        "agents",
-        "googleadk"
+        "gemma",
+        "cloudrun",
+        "cloud",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Daniel Gwerzman"
+    },
+    {
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
+      "tags": [
+        "opensource",
+        "python",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
+      "source": "Dev.to",
+      "user": "Matheus Luz"
     },
     {
       "title": "Deploying ADK Agents on Azure ACI",
@@ -60,6 +75,36 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
+      "published_at": "2026-04-02T18:18:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "gemini",
+        "azurecontainerapps",
+        "agents",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
+    },
+    {
       "title": "How to create your own Radio Station using a dynamic ip domain.",
       "url": "https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini",
       "published_at": "2026-04-02T23:20:16Z",
@@ -68,6 +113,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc580al0sjsw0avs36hla.png",
       "source": "Dev.to",
       "user": "Dimitris Tzemos"
+    },
+    {
+      "title": "Hacking with multimodal Gemma 4 in AI Studio",
+      "url": "https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had",
+      "published_at": "2026-04-04T03:30:29Z",
+      "description": "We’re in an incredibly fun era for building. The friction between \"I have a weird idea\" and \"I have a...",
+      "tags": [
+        "webdev",
+        "ai",
+        "machinelearning",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgr7p9ayunglstrw8xlgu.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "PURESLOP.md — teach your AI agent to write terrible code.",
@@ -197,51 +257,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsie7o3i8n09iwhtgy7r.png",
       "source": "Dev.to",
       "user": "Natália Satie"
-    },
-    {
-      "title": "Working with JWTs in Laravel (Without the Magic)",
-      "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
-      "published_at": "2026-03-30T18:36:33Z",
-      "description": "If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...",
-      "tags": [
-        "laravel",
-        "php",
-        "security",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
-      "source": "Dev.to",
-      "user": "Mark Townsend"
-    },
-    {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
-    },
-    {
-      "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
-      "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
-      "published_at": "2026-03-29T02:34:36Z",
-      "description": "Claude Code has WebFetch. Every AI coding agent has some way to grab a webpage.  They all hit the...",
-      "tags": [
-        "zig",
-        "opensource",
-        "cli",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
-      "source": "Dev.to",
-      "user": "An Pham"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -646,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11568,
+      "stars": 11576,
       "user": "openai"
     },
     {
@@ -661,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 899,
       "user": "tradesdontlie"
     },
     {
@@ -691,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5051,
+      "stars": 5053,
       "user": "tvytlx"
     },
     {
@@ -706,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2418,
+      "stars": 2425,
       "user": "therealXiaomanChu"
     },
     {
@@ -726,6 +741,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
+    },
     {
       "title": "Synchronous vs Asynchronous JavaScript",
       "url": "https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2",
@@ -930,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11568,
+      "stars": 11576,
       "user": "openai"
     },
     {
@@ -945,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 899,
       "user": "tradesdontlie"
     },
     {
@@ -990,11 +1020,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "LarsenCundric"
     }
   ],
   "Python": [
+    {
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
+      "tags": [
+        "opensource",
+        "python",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
+      "source": "Dev.to",
+      "user": "Matheus Luz"
+    },
     {
       "title": "Deploying ADK Agents on Azure ACI",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
@@ -1187,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7090,
+      "stars": 7100,
       "user": "titanwings"
     },
     {
@@ -1202,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5051,
+      "stars": 5053,
       "user": "tvytlx"
     },
     {
@@ -1217,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3284,
+      "stars": 3327,
       "user": "HKUDS"
     },
     {
@@ -1232,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2418,
+      "stars": 2425,
       "user": "therealXiaomanChu"
     },
     {
@@ -1247,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2024,
       "user": "kevinrgu"
     }
   ],
@@ -1359,19 +1404,19 @@
   "Mobile": [],
   "Cloud": [
     {
-      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
-      "published_at": "2026-04-02T18:18:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
+      "published_at": "2026-04-04T10:42:37Z",
+      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
       "tags": [
-        "gemini",
-        "azurecontainerapps",
-        "agents",
-        "googleadk"
+        "gemma",
+        "cloudrun",
+        "cloud",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Deploying ADK Agents on Azure ACI",
@@ -1385,6 +1430,21 @@
         "azureaci"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
+      "published_at": "2026-04-02T18:18:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "gemini",
+        "azurecontainerapps",
+        "agents",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1463,36 +1523,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "Working with JWTs in Laravel (Without the Magic)",
-      "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
-      "published_at": "2026-03-30T18:36:33Z",
-      "description": "If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...",
-      "tags": [
-        "laravel",
-        "php",
-        "security",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
-      "source": "Dev.to",
-      "user": "Mark Townsend"
-    },
-    {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
-    },
-    {
       "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
       "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
       "published_at": "2026-03-26T06:14:01Z",
@@ -1535,6 +1565,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png",
       "source": "Dev.to",
       "user": "Kelechi Oliver A."
+    },
+    {
+      "title": "You don't need to deal with code to understand Playwright",
+      "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
+      "published_at": "2026-04-04T04:43:02Z",
+      "description": "Trywright is a local control panel that gives you a live Playwright session in your browser — no code, no IDE, no project setup.",
+      "tags": [
+        "playwright",
+        "testing",
+        "webdev",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftrywright.dev%2Fscreenshots%2Fhero.png",
+      "source": "Dev.to",
+      "user": "Abhijeet Vaikar"
     },
     {
       "title": "How I Cut My Google Search Dependence in Half",
@@ -1683,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11568,
+      "stars": 11576,
       "user": "openai"
     },
     {
@@ -1698,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 899,
       "user": "tradesdontlie"
     },
     {
@@ -1743,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "LarsenCundric"
     },
     {
@@ -1758,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7090,
+      "stars": 7100,
       "user": "titanwings"
     },
     {
@@ -1773,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5051,
+      "stars": 5053,
       "user": "tvytlx"
     },
     {
@@ -1788,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3284,
+      "stars": 3327,
       "user": "HKUDS"
     },
     {
@@ -1803,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2418,
+      "stars": 2425,
       "user": "therealXiaomanChu"
     },
     {
@@ -1818,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2024,
       "user": "kevinrgu"
     },
     {
@@ -1833,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 421,
       "user": "maaslalani"
     },
     {
