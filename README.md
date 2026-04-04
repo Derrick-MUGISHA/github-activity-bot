@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-04-orange)
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
 **Cloud**: 🟦🟦 5 (4.8%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
 
 
 
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png" width="200" alt="Deploying ADK Agents on Azure ACA (Azure Container Apps)" />
+    <a href="https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh29aofa4ggjs5dkc2e58.png" width="200" alt="Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee" />
       <br/>
-      <b>Deploying ADK Agents on Azure ACA (Azure Container...</b>
+      <b>Depresso-Tron 418: I Built a Bureaucratic Coffee M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh29aofa4ggjs5dkc2e58.png" width="200" alt="Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee" />
+    <a href="https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png" width="200" alt="Deploying ADK Agents on Azure ACA (Azure Container Apps)" />
       <br/>
-      <b>Depresso-Tron 418: I Built a Bureaucratic Coffee M...</b>
+      <b>Deploying ADK Agents on Azure ACA (Azure Container...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,15 +197,14 @@ npm run test
 - [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
-- [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7) _[Dev.to]_
 - [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl) _[Dev.to]_
+- [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
 - [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0) _[Dev.to]_
 - [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc) _[Dev.to]_
 - [Drizby: An Open Source BI Platform Built on a Semantic Layer (and why I built it)](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0) _[Dev.to]_
 - [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini) _[Dev.to]_
 - [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
+- [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 13:01:24 CAT_
+_Last automated update: Sat, 04 Apr 2026 13:42:29 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 04 Apr 2026 13:01:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 11:01:24 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 11:42:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
