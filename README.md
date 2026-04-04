@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 10:00 CAT)
+## 📅 Latest Updates (2026-04-04 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 10:22:17 CAT_
+_Last automated update: Sat, 04 Apr 2026 11:04:41 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 04 Apr 2026 10:22:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Mutability, performance, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 08:22:17 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 09:04:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
