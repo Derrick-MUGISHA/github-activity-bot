@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-04 11:00 CAT)
+## 📅 Latest Updates (2026-04-04 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493) _[Dev.to]_
 
-_Last automated update: Sat, 04 Apr 2026 11:53:58 CAT_
+_Last automated update: Sat, 04 Apr 2026 12:29:23 CAT_
 
 
 
@@ -222,29 +222,7 @@ _Last automated update: Sat, 04 Apr 2026 11:53:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
-
-**Difficulty**: Hard | **Topics**: context managers, resource management
-
-<details>
-<summary>💡 Hint</summary>
-
-with statement, setup/teardown, exception handling
-
-</details>
-
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
-
-**Difficulty**: Medium | **Topics**: event loop, async
-
-<details>
-<summary>💡 Hint</summary>
-
-Execution timing, event loop phases
-
-</details>
-
-### 3. SystemDesign: How would you design a rate limiter?
+### 1. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -252,6 +230,28 @@ Execution timing, event loop phases
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
+
+</details>
+
+### 2. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 09:53:58 GMT</b><br/>
+  <b>Last automated update: Sat, 04 Apr 2026 10:29:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

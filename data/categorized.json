@@ -304,21 +304,6 @@
       "user": "An Pham"
     },
     {
-      "title": "Surviving as a Human in the Age of AI",
-      "url": "https://dev.to/jenlooper/surviving-as-a-human-in-the-age-of-ai-1p1b",
-      "published_at": "2026-03-31T02:43:37Z",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  There's a palpable feeling...",
-      "tags": [
-        "ai",
-        "programming",
-        "career",
-        "wecoded"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfuz4iuaptodndjldy5.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -501,6 +486,21 @@
       "user": "Typing Turtle"
     },
     {
+      "title": "We Can't Code Anymore. AI Won't. What Then?",
+      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
+      "published_at": "2026-03-18T19:29:59Z",
+      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
+      "source": "Dev.to",
+      "user": "Patric Green"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11431,
+      "stars": 11442,
       "user": "openai"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 851,
       "user": "tradesdontlie"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5010,
+      "stars": 5013,
       "user": "tvytlx"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2230,
+      "stars": 2239,
       "user": "therealXiaomanChu"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11431,
+      "stars": 11442,
       "user": "openai"
     },
     {
@@ -943,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 851,
       "user": "tradesdontlie"
     },
     {
@@ -973,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "hellowind777"
     },
     {
@@ -988,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 350,
       "user": "LarsenCundric"
     }
   ],
@@ -1170,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6780,
+      "stars": 6804,
       "user": "titanwings"
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5010,
+      "stars": 5013,
       "user": "tvytlx"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2535,
       "user": "HKUDS"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2230,
+      "stars": 2239,
       "user": "therealXiaomanChu"
     },
     {
@@ -1230,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1423,
       "user": "kevinrgu"
     }
   ],
@@ -1651,7 +1651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11431,
+      "stars": 11442,
       "user": "openai"
     },
     {
@@ -1666,7 +1666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 851,
       "user": "tradesdontlie"
     },
     {
@@ -1696,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "hellowind777"
     },
     {
@@ -1711,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 350,
       "user": "LarsenCundric"
     },
     {
@@ -1726,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 6780,
+      "stars": 6804,
       "user": "titanwings"
     },
     {
@@ -1741,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5010,
+      "stars": 5013,
       "user": "tvytlx"
     },
     {
@@ -1756,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 2502,
+      "stars": 2535,
       "user": "HKUDS"
     },
     {
@@ -1771,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2230,
+      "stars": 2239,
       "user": "therealXiaomanChu"
     },
     {
@@ -1786,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1423,
       "user": "kevinrgu"
     },
     {
@@ -1801,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "maaslalani"
     },
     {
