@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-04-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-05-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦 5 (4.8%)
-
 **WebDev**: 🟦🟦 4 (3.8%)
+
+**Cloud**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.6 (25.6%)
-Python          █████████████████████████████ 24.4 (24.4%)
-Java            █████████████████████████████ 24.4 (24.4%)
-Go              ██████████████████████████ 21.8 (21.8%)
+JavaScript      ██████████████████████████████ 26.0 (26.0%)
+Python          █████████████████████████████ 24.7 (24.7%)
+Java            █████████████████████████████ 24.7 (24.7%)
+Go              ████████████████████████ 20.8 (20.8%)
 Ruby            ██ 1.3 (1.3%)
 PHP             ██ 1.3 (1.3%)
 Rust            ██ 1.3 (1.3%)
@@ -73,7 +73,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 20
     "Python" : 19
     "Java" : 19
-    "Go" : 17
+    "Go" : 16
     "Ruby" : 1
     "PHP" : 1
     "Rust" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 1:00 CAT)
+## 📅 Latest Updates (2026-04-05 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +140,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png" width="200" alt="Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It" />
-      <br/>
-      <b>Deploy Gemma 4 on Cloud Run: Pay Only When You Act...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png" width="200" alt="LoreKit - AI That GMs Full TTRPG Campaigns" />
       <br/>
@@ -157,13 +148,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png" width="200" alt="Deploying ADK Agents on Azure ACI" />
       <br/>
       <b>Deploying ADK Agents on Azure ACI</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png" width="200" alt="Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It" />
+      <br/>
+      <b>Deploy Gemma 4 on Cloud Run: Pay Only When You Act...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,9 +194,9 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
-- [Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It](https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln) _[Dev.to]_
 - [LoreKit - AI That GMs Full TTRPG Campaigns](https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6) _[Dev.to]_
+- [Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It](https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln) _[Dev.to]_
 - [I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)](https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6) _[Dev.to]_
 - [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
@@ -205,8 +205,8 @@ npm run test
 - [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 - [Hacking with multimodal Gemma 4 in AI Studio](https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had) _[Dev.to]_
-- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0) _[Dev.to]_
 - [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
+- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 01:45:59 CAT_
+_Last automated update: Sun, 05 Apr 2026 04:06:47 CAT_
 
 
 
@@ -222,7 +222,29 @@ _Last automated update: Sun, 05 Apr 2026 01:45:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. NodeJS: Implement rate limiting for an API
+
+**Difficulty**: Hard | **Topics**: security, middleware
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, Redis
+
+</details>
+
+### 2. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
+
+</details>
+
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -230,28 +252,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
-
-</details>
-
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
-
-**Difficulty**: Medium | **Topics**: event loop, async
-
-<details>
-<summary>💡 Hint</summary>
-
-Execution timing, event loop phases
-
-</details>
-
-### 3. NodeJS: Explain middleware in Express.js
-
-**Difficulty**: Easy | **Topics**: express, architecture
-
-<details>
-<summary>💡 Hint</summary>
-
-Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 04 Apr 2026 23:45:59 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 02:06:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
