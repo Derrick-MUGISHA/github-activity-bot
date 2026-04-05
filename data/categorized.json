@@ -1,6 +1,140 @@
 {
   "AI": [
     {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+      "published_at": "2026-04-05T16:04:44Z",
+      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+      "tags": [
+        "ai",
+        "javascript",
+        "openai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
+      "source": "Dev.to",
+      "user": "Deola Adediran"
+    },
+    {
+      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
+      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
+      "published_at": "2026-04-05T15:53:27Z",
+      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "docker",
+        "openclaw"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
+      "source": "Dev.to",
+      "user": "sir'Alexander"
+    },
+    {
+      "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
+      "published_at": "2026-04-03T18:59:56Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "mcpserver",
+        "python",
+        "ak"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
+      "url": "https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l",
+      "published_at": "2026-04-05T16:00:00Z",
+      "description": "I'm a runner and triathlete, and for years I've been frustrated by the same thing: there's no single place I can call home for my fitness data.",
+      "tags": [
+        "app",
+        "development",
+        "growth",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmarquesfernandes.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIMG_9164.png",
+      "source": "Dev.to",
+      "user": "Henrique Marques Fernandes"
+    },
+    {
+      "title": "Scaling Product Discovery: Orchestrating AI Agent Workflows with Google Opal",
+      "url": "https://dev.to/gdg/scaling-product-discovery-orchestrating-ai-agent-workflows-with-google-opal-2982",
+      "published_at": "2026-04-05T14:52:06Z",
+      "description": "Introduction: The Challenge of Relevance in Software Development  Developing an application is one...",
+      "tags": [
+        "ai",
+        "startup",
+        "opal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2t5p2nbhmnmq1rd02sfo.png",
+      "source": "Dev.to",
+      "user": "Sandro Moreira"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
+      "published_at": "2026-04-03T19:36:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "azureaca"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Deploying ADK Agents on Azure ACI",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
       "published_at": "2026-04-02T17:00:19Z",
@@ -16,6 +150,20 @@
       "user": "xbill"
     },
     {
+      "title": "AI subscriptions are subsidized. Here's what happens when that stops.",
+      "url": "https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f",
+      "published_at": "2026-04-04T21:20:21Z",
+      "description": "Right now, every time you send a query to ChatGPT, Claude, or Gemini, the company behind it is losing...",
+      "tags": [
+        "ai",
+        "claude",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2h7io4u4vli0pjkybat4.webp",
+      "source": "Dev.to",
+      "user": "Dzhuneyt"
+    },
+    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -28,21 +176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
-      "published_at": "2026-04-02T18:18:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "gemini",
-        "azurecontainerapps",
-        "agents",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
@@ -159,21 +292,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "AI became my assistant to learning",
-      "url": "https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53",
-      "published_at": "2026-04-01T16:56:50Z",
-      "description": "AI became a trend stronger than expected, and soon, became part of my routine as a software...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsie7o3i8n09iwhtgy7r.png",
-      "source": "Dev.to",
-      "user": "Natália Satie"
-    },
-    {
       "title": "Working with JWTs in Laravel (Without the Magic)",
       "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
       "published_at": "2026-03-30T18:36:33Z",
@@ -276,6 +394,21 @@
       "user": "Scarlett Attensil"
     },
     {
+      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
+      "published_at": "2026-04-02T18:18:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "gemini",
+        "azurecontainerapps",
+        "agents",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Hacking with multimodal Gemma 4 in AI Studio",
       "url": "https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had",
       "published_at": "2026-04-04T03:30:29Z",
@@ -289,6 +422,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgr7p9ayunglstrw8xlgu.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
+      "url": "https://dev.to/alonsarias/pureslopmd-54ek",
+      "published_at": "2026-04-03T00:55:59Z",
+      "description": "This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
+      "source": "Dev.to",
+      "user": "Alonso"
     },
     {
       "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
@@ -391,136 +539,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
       "source": "Dev.to",
       "user": "Lacy Morrow"
-    },
-    {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
-      "title": "We Can't Code Anymore. AI Won't. What Then?",
-      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
-      "published_at": "2026-03-18T19:29:59Z",
-      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
-      "source": "Dev.to",
-      "user": "Patric Green"
-    },
-    {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
-      "title": "Lost Skills We Sold for Convenience Over Commitment",
-      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
-      "published_at": "2026-03-29T11:49:29Z",
-      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
-      "tags": [
-        "career",
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
-      "source": "Dev.to",
-      "user": "Carlos Nah "
-    },
-    {
-      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
-      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
-      "published_at": "2026-04-01T16:19:39Z",
-      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
-      "tags": [
-        "python",
-        "accounting",
-        "opensource",
-        "fintech"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
-      "source": "Dev.to",
-      "user": "billkhiz"
-    },
-    {
-      "title": "1st time at a big tech conference - GTC 2026",
-      "url": "https://dev.to/matthewbcool/1st-time-at-a-big-tech-conference-gtc-2026-28d0",
-      "published_at": "2026-03-25T16:38:29Z",
-      "description": "My First Trip to GTC  I've never been to a large tech conference like this and I get why they call it...",
-      "tags": [
-        "ai",
-        "techtalks",
-        "career",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5rf9tqczlfa929q7eir6.png",
-      "source": "Dev.to",
-      "user": "Matt Cool"
-    },
-    {
-      "title": "Antigravity: My Approach to Deliver the Most Assured Value for the Least Money",
-      "url": "https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip",
-      "published_at": "2026-04-01T05:49:34Z",
-      "description": "As I'm not a professional developer but a guy who needs to use automation to get things done, I...",
-      "tags": [
-        "antigravity",
-        "development",
-        "automation",
-        "responsibleai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftypteqi86eyrzkbx18sb.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -666,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11847,
+      "stars": 11856,
       "user": "openai"
     },
     {
@@ -711,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5130,
+      "stars": 5132,
       "user": "tvytlx"
     },
     {
@@ -726,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2696,
+      "stars": 2700,
       "user": "therealXiaomanChu"
     },
     {
@@ -741,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 836,
       "user": "santifer"
     },
     {
@@ -776,6 +794,36 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+      "published_at": "2026-04-05T16:04:44Z",
+      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+      "tags": [
+        "ai",
+        "javascript",
+        "openai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
+      "source": "Dev.to",
+      "user": "Deola Adediran"
+    },
+    {
+      "title": "Page Numbers Lie: Offset vs Cursor Pagination",
+      "url": "https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4",
+      "published_at": "2026-04-05T07:54:04Z",
+      "description": "From Interview Notes To Production Reality   While I was preparing for interviews, I came...",
+      "tags": [
+        "graphql",
+        "typescript",
+        "javascript",
+        "api"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tgqrzgzelg3oamu5ocf.png",
+      "source": "Dev.to",
+      "user": "Manuj Sankrit"
+    },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
       "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
@@ -847,21 +895,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
       "user": "Rudson Kiyoshi Souza Carvalho"
-    },
-    {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -995,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11847,
+      "stars": 11856,
       "user": "openai"
     },
     {
@@ -1061,6 +1094,81 @@
   ],
   "Python": [
     {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
+      "published_at": "2026-04-03T18:59:56Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "mcpserver",
+        "python",
+        "ak"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
+      "published_at": "2026-04-03T19:36:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "azureaca"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Deploying ADK Agents on Azure ACI",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
       "published_at": "2026-04-02T17:00:19Z",
@@ -1089,51 +1197,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
       "source": "Dev.to",
       "user": "Matheus Luz"
-    },
-    {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
-      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
-      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
-      "published_at": "2026-04-01T16:19:39Z",
-      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
-      "tags": [
-        "python",
-        "accounting",
-        "opensource",
-        "fintech"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
-      "source": "Dev.to",
-      "user": "billkhiz"
-    },
-    {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
-      "tags": [
-        "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1267,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7760,
+      "stars": 7768,
       "user": "titanwings"
     },
     {
@@ -1282,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5130,
+      "stars": 5132,
       "user": "tvytlx"
     },
     {
@@ -1297,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4846,
+      "stars": 4878,
       "user": "HKUDS"
     },
     {
@@ -1312,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 2871,
       "user": "kevinrgu"
     },
     {
@@ -1327,11 +1390,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2696,
+      "stars": 2700,
       "user": "therealXiaomanChu"
     }
   ],
   "DevOps": [
+    {
+      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
+      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
+      "published_at": "2026-04-05T15:53:27Z",
+      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "docker",
+        "openclaw"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
+      "source": "Dev.to",
+      "user": "sir'Alexander"
+    },
     {
       "title": "Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2",
       "url": "https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc",
@@ -1364,6 +1442,21 @@
   ],
   "WebDev": [
     {
+      "title": "Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)",
+      "url": "https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm",
+      "published_at": "2026-04-05T13:39:36Z",
+      "description": "A deep dive into Single Leader, Multi-Leader, and Leaderless replication algorithms for distributed systems.",
+      "tags": [
+        "systemdesign",
+        "backend",
+        "database",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png",
+      "source": "Dev.to",
+      "user": "Piyush Gupta"
+    },
+    {
       "title": "Synchronous vs Asynchronous JavaScript",
       "url": "https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2",
       "published_at": "2026-04-02T10:38:36Z",
@@ -1394,21 +1487,6 @@
       "user": "Satish Gowda"
     },
     {
-      "title": "CodePen TV secrets",
-      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
-      "published_at": "2026-03-29T23:23:50Z",
-      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
-      "tags": [
-        "codepen",
-        "css",
-        "cssart",
-        "crt"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
-      "source": "Dev.to",
-      "user": "Ben Evans"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1424,6 +1502,81 @@
   "Mobile": [],
   "Cloud": [
     {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
+      "published_at": "2026-04-03T18:59:56Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "mcpserver",
+        "python",
+        "ak"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
+      "published_at": "2026-04-03T19:36:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "azureaca"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Deploying ADK Agents on Azure ACI",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
       "published_at": "2026-04-02T17:00:19Z",
@@ -1435,21 +1588,6 @@
         "azureaci"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
-      "published_at": "2026-04-02T18:18:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "gemini",
-        "azurecontainerapps",
-        "agents",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1483,22 +1621,37 @@
       "user": "Daniel Gwerzman"
     },
     {
-      "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
-      "url": "https://dev.to/gde/deploy-a-multi-agent-adk-application-to-google-cloud-run-59on",
-      "published_at": "2026-03-23T17:53:10Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build a multi...",
+      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
+      "published_at": "2026-04-02T18:18:19Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
       "tags": [
         "gemini",
-        "adkui",
-        "googlecloudrun",
-        "python"
+        "azurecontainerapps",
+        "agents",
+        "googleadk"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6b216wquv6wehyui3bb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
       "source": "Dev.to",
       "user": "xbill"
     }
   ],
   "Database": [
+    {
+      "title": "Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)",
+      "url": "https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm",
+      "published_at": "2026-04-05T13:39:36Z",
+      "description": "A deep dive into Single Leader, Multi-Leader, and Leaderless replication algorithms for distributed systems.",
+      "tags": [
+        "systemdesign",
+        "backend",
+        "database",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png",
+      "source": "Dev.to",
+      "user": "Piyush Gupta"
+    },
     {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
@@ -1573,21 +1726,6 @@
       "user": "PracticeOverflow"
     },
     {
-      "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
-      "url": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
-      "published_at": "2026-03-26T06:14:01Z",
-      "description": "Every SaaS project I started had the same first two weeks: set up authentication, wire up Stripe,...",
-      "tags": [
-        "opensource",
-        "nextjs",
-        "react",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgecffbqjkbeqd5gdgu2.png",
-      "source": "Dev.to",
-      "user": "Habib Jutt"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1617,6 +1755,21 @@
       "user": "Kelechi Oliver A."
     },
     {
+      "title": "How do you actually manage your content's SEO performance?",
+      "url": "https://dev.to/bolgercarol/how-do-you-actually-manage-your-contents-seo-performance-4jn0",
+      "published_at": "2026-04-04T22:30:14Z",
+      "description": "I write about tech and I've been frustrated with piecing together Google Search Console,...",
+      "tags": [
+        "analytics",
+        "discuss",
+        "marketing",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbkw3u29idepx0ubos6dc.png",
+      "source": "Dev.to",
+      "user": "Carol Bolger"
+    },
+    {
       "title": "You don't need to deal with code to understand Playwright",
       "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
       "published_at": "2026-04-04T04:43:02Z",
@@ -1630,21 +1783,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftrywright.dev%2Fscreenshots%2Fhero.png",
       "source": "Dev.to",
       "user": "Abhijeet Vaikar"
-    },
-    {
-      "title": "AI became my assistant to learning",
-      "url": "https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53",
-      "published_at": "2026-04-01T16:56:50Z",
-      "description": "AI became a trend stronger than expected, and soon, became part of my routine as a software...",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsie7o3i8n09iwhtgy7r.png",
-      "source": "Dev.to",
-      "user": "Natália Satie"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -1722,36 +1860,6 @@
       "user": "Lacy Morrow"
     },
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1763,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11847,
+      "stars": 11856,
       "user": "openai"
     },
     {
@@ -1838,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7760,
+      "stars": 7768,
       "user": "titanwings"
     },
     {
@@ -1853,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5130,
+      "stars": 5132,
       "user": "tvytlx"
     },
     {
@@ -1868,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4846,
+      "stars": 4878,
       "user": "HKUDS"
     },
     {
@@ -1883,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2845,
+      "stars": 2871,
       "user": "kevinrgu"
     },
     {
@@ -1898,23 +2006,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2696,
+      "stars": 2700,
       "user": "therealXiaomanChu"
-    },
-    {
-      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
-      "url": "https://github.com/maaslalani/sheets",
-      "published_at": "2026-04-01T08:20:07Z",
-      "description": "Terminal based spreadsheet tool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
-      "source": "GitHub",
-      "stars": 789,
-      "user": "maaslalani"
     },
     {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
@@ -1928,8 +2021,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 836,
       "user": "santifer"
+    },
+    {
+      "title": "maaslalani/sheets - Terminal based spreadsheet tool",
+      "url": "https://github.com/maaslalani/sheets",
+      "published_at": "2026-04-01T08:20:07Z",
+      "description": "Terminal based spreadsheet tool",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
+      "source": "GitHub",
+      "stars": 796,
+      "user": "maaslalani"
     },
     {
       "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
