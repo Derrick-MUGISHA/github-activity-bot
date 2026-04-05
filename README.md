@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 15:00 CAT)
+## 📅 Latest Updates (2026-04-05 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [AI became my assistant to learning](https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53) _[Dev.to]_
 - [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 15:20:57 CAT_
+_Last automated update: Sun, 05 Apr 2026 16:05:09 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 15:20:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 13:20:57 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 14:05:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
