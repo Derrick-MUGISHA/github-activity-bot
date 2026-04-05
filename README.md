@@ -214,7 +214,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 22:28:28 CAT_
+_Last automated update: Sun, 05 Apr 2026 22:59:20 CAT_
 
 
 
@@ -222,14 +222,14 @@ _Last automated update: Sun, 05 Apr 2026 22:28:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -244,14 +244,14 @@ Iterative or recursive, three pointers
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 20:28:28 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 20:59:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
