@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 9:00 CAT)
+## 📅 Latest Updates (2026-04-05 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 09:31:50 CAT_
+_Last automated update: Sun, 05 Apr 2026 10:22:42 CAT_
 
 
 
@@ -222,25 +222,25 @@ _Last automated update: Sun, 05 Apr 2026 09:31:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 07:31:50 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 08:22:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
