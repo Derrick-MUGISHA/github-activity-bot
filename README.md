@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 10:00 CAT)
+## 📅 Latest Updates (2026-04-05 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,7 +205,6 @@ npm run test
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 - [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
-- [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
+- [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 10:22:42 CAT_
+_Last automated update: Sun, 05 Apr 2026 11:05:54 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 10:22:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 08:22:42 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 09:05:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
