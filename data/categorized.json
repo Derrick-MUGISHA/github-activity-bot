@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
-      "published_at": "2026-04-04T10:42:37Z",
-      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
-      "tags": [
-        "gemma",
-        "cloudrun",
-        "cloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -88,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
-    },
-    {
-      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
-      "url": "https://dev.to/alonsarias/pureslopmd-54ek",
-      "published_at": "2026-04-03T00:55:59Z",
-      "description": "This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
-      "source": "Dev.to",
-      "user": "Alonso"
     },
     {
       "title": "Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere",
@@ -232,6 +202,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
       "source": "Dev.to",
       "user": "PracticeOverflow"
+    },
+    {
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
+      "published_at": "2026-04-04T10:42:37Z",
+      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
+      "tags": [
+        "gemma",
+        "cloudrun",
+        "cloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
@@ -681,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11828,
+      "stars": 11830,
       "user": "openai"
     },
     {
@@ -726,7 +711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5123,
+      "stars": 5125,
       "user": "tvytlx"
     },
     {
@@ -741,7 +726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2680,
+      "stars": 2685,
       "user": "therealXiaomanChu"
     },
     {
@@ -756,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 294,
       "user": "santifer"
     },
     {
@@ -1010,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11828,
+      "stars": 11830,
       "user": "openai"
     },
     {
@@ -1282,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7716,
+      "stars": 7723,
       "user": "titanwings"
     },
     {
@@ -1297,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5123,
+      "stars": 5125,
       "user": "tvytlx"
     },
     {
@@ -1312,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4733,
+      "stars": 4766,
       "user": "HKUDS"
     },
     {
@@ -1327,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2779,
+      "stars": 2794,
       "user": "kevinrgu"
     },
     {
@@ -1342,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2680,
+      "stars": 2685,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1454,21 +1439,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
-      "published_at": "2026-04-04T10:42:37Z",
-      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
-      "tags": [
-        "gemma",
-        "cloudrun",
-        "cloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
       "published_at": "2026-04-02T18:18:19Z",
@@ -1496,6 +1466,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
+      "published_at": "2026-04-04T10:42:37Z",
+      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
+      "tags": [
+        "gemma",
+        "cloudrun",
+        "cloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Deploy a Multi Agent ADK Application to Google Cloud Run",
@@ -1778,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11828,
+      "stars": 11830,
       "user": "openai"
     },
     {
@@ -1853,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7716,
+      "stars": 7723,
       "user": "titanwings"
     },
     {
@@ -1868,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5123,
+      "stars": 5125,
       "user": "tvytlx"
     },
     {
@@ -1883,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4733,
+      "stars": 4766,
       "user": "HKUDS"
     },
     {
@@ -1898,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2779,
+      "stars": 2794,
       "user": "kevinrgu"
     },
     {
@@ -1913,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2680,
+      "stars": 2685,
       "user": "therealXiaomanChu"
     },
     {
@@ -1928,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 766,
       "user": "maaslalani"
     },
     {
@@ -1943,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 294,
       "user": "santifer"
     },
     {
@@ -1958,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "ironsh"
     },
     {
