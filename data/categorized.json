@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
-      "published_at": "2026-04-04T10:42:37Z",
-      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
-      "tags": [
-        "gemma",
-        "cloudrun",
-        "cloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
       "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
       "published_at": "2026-04-04T15:01:52Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
+      "published_at": "2026-04-04T10:42:37Z",
+      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
+      "tags": [
+        "gemma",
+        "cloudrun",
+        "cloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
@@ -361,21 +361,6 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Google Gemma 4: Everything Developers Need to Know",
-      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
-      "published_at": "2026-04-03T00:45:57Z",
-      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
-      "source": "Dev.to",
-      "user": "Om Shree"
-    },
-    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -501,6 +486,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -646,23 +646,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11628,
+      "stars": 11655,
       "user": "openai"
-    },
-    {
-      "title": "tradesdontlie/tradingview-mcp - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "published_at": "2026-03-29T14:39:25Z",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
-      "source": "GitHub",
-      "stars": 931,
-      "user": "tradesdontlie"
     },
     {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
@@ -680,6 +665,21 @@
       "user": "6551Team"
     },
     {
+      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "url": "https://github.com/Paidax01/math-curve-loaders",
+      "published_at": "2026-04-02T03:28:01Z",
+      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
+      "source": "GitHub",
+      "stars": 326,
+      "user": "Paidax01"
+    },
+    {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
       "url": "https://github.com/tvytlx/ai-agent-deep-dive",
       "published_at": "2026-03-31T11:27:01Z",
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5065,
       "user": "tvytlx"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2443,
+      "stars": 2461,
       "user": "therealXiaomanChu"
     },
     {
@@ -722,6 +722,21 @@
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
       "stars": 153,
+      "user": "codeany-ai"
+    },
+    {
+      "title": "codeany-ai/open-agent-sdk-go - GitHub Repository",
+      "url": "https://github.com/codeany-ai/open-agent-sdk-go",
+      "published_at": "2026-04-01T09:43:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
+      "source": "GitHub",
+      "stars": 113,
       "user": "codeany-ai"
     }
   ],
@@ -930,23 +945,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11628,
+      "stars": 11655,
       "user": "openai"
-    },
-    {
-      "title": "tradesdontlie/tradingview-mcp - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "published_at": "2026-03-29T14:39:25Z",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
-      "source": "GitHub",
-      "stars": 931,
-      "user": "tradesdontlie"
     },
     {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "LarsenCundric"
     },
     {
@@ -990,8 +990,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "hellowind777"
+    },
+    {
+      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "url": "https://github.com/Paidax01/math-curve-loaders",
+      "published_at": "2026-04-02T03:28:01Z",
+      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
+      "source": "GitHub",
+      "stars": 326,
+      "user": "Paidax01"
     }
   ],
   "Python": [
@@ -1041,19 +1056,19 @@
       "user": "billkhiz"
     },
     {
-      "title": "Google Gemma 4: Everything Developers Need to Know",
-      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
-      "published_at": "2026-04-03T00:45:57Z",
-      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
       "tags": [
         "ai",
-        "programming",
+        "llm",
         "python",
-        "googlecloud"
+        "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
       "source": "Dev.to",
-      "user": "Om Shree"
+      "user": "T.J. Maher"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1187,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7126,
+      "stars": 7177,
       "user": "titanwings"
     },
     {
@@ -1202,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5065,
       "user": "tvytlx"
     },
     {
@@ -1217,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3472,
+      "stars": 3596,
       "user": "HKUDS"
     },
     {
@@ -1232,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2443,
+      "stars": 2461,
       "user": "therealXiaomanChu"
     },
     {
@@ -1247,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2226,
+      "stars": 2315,
       "user": "kevinrgu"
     }
   ],
@@ -1359,21 +1374,6 @@
   "Mobile": [],
   "Cloud": [
     {
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
-      "published_at": "2026-04-04T10:42:37Z",
-      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
-      "tags": [
-        "gemma",
-        "cloudrun",
-        "cloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Deploying ADK Agents on Azure ACI",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
       "published_at": "2026-04-02T17:00:19Z",
@@ -1387,6 +1387,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
+      "published_at": "2026-04-04T10:42:37Z",
+      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
+      "tags": [
+        "gemma",
+        "cloudrun",
+        "cloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
@@ -1416,21 +1431,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
-    },
-    {
-      "title": "Google Gemma 4: Everything Developers Need to Know",
-      "url": "https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf",
-      "published_at": "2026-04-03T00:45:57Z",
-      "description": "Google dropped Gemma 4 on April 2, 2026, A full generational jump in what open models can do at their...",
-      "tags": [
-        "ai",
-        "programming",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjymy8ln3x9ul4x1nvcvb.png",
-      "source": "Dev.to",
-      "user": "Om Shree"
     }
   ],
   "Database": [
@@ -1672,6 +1672,21 @@
       "user": "Riley Black"
     },
     {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
+    },
+    {
       "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
       "url": "https://github.com/openai/codex-plugin-cc",
       "published_at": "2026-03-30T15:29:52Z",
@@ -1683,23 +1698,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11628,
+      "stars": 11655,
       "user": "openai"
-    },
-    {
-      "title": "tradesdontlie/tradingview-mcp - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "published_at": "2026-03-29T14:39:25Z",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196674484?v=4",
-      "source": "GitHub",
-      "stars": 931,
-      "user": "tradesdontlie"
     },
     {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
@@ -1728,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "LarsenCundric"
     },
     {
@@ -1743,8 +1743,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "hellowind777"
+    },
+    {
+      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "url": "https://github.com/Paidax01/math-curve-loaders",
+      "published_at": "2026-04-02T03:28:01Z",
+      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
+      "source": "GitHub",
+      "stars": 326,
+      "user": "Paidax01"
     },
     {
       "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
@@ -1758,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7126,
+      "stars": 7177,
       "user": "titanwings"
     },
     {
@@ -1773,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5065,
       "user": "tvytlx"
     },
     {
@@ -1788,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 3472,
+      "stars": 3596,
       "user": "HKUDS"
     },
     {
@@ -1803,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2443,
+      "stars": 2461,
       "user": "therealXiaomanChu"
     },
     {
@@ -1818,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2226,
+      "stars": 2315,
       "user": "kevinrgu"
     },
     {
@@ -1833,38 +1848,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 561,
       "user": "maaslalani"
-    },
-    {
-      "title": "maxigo-web/maxigo-bot - Bot framework for Max messenger — router, middleware, context",
-      "url": "https://github.com/maxigo-web/maxigo-bot",
-      "published_at": "2026-03-29T01:48:47Z",
-      "description": "Bot framework for Max messenger — router, middleware, context",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271871749?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "maxigo-web"
-    },
-    {
-      "title": "maxigo-web/maxigo-client - Idiomatic Go HTTP client for Max Bot API — zero dependencies, context support, structured errors",
-      "url": "https://github.com/maxigo-web/maxigo-client",
-      "published_at": "2026-03-29T01:45:05Z",
-      "description": "Idiomatic Go HTTP client for Max Bot API — zero dependencies, context support, structured errors",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271871749?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "maxigo-web"
     },
     {
       "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
@@ -1895,6 +1880,36 @@
       "source": "GitHub",
       "stars": 153,
       "user": "codeany-ai"
+    },
+    {
+      "title": "codeany-ai/open-agent-sdk-go - GitHub Repository",
+      "url": "https://github.com/codeany-ai/open-agent-sdk-go",
+      "published_at": "2026-04-01T09:43:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "codeany-ai"
+    },
+    {
+      "title": "rasel9t6/the-go-engineer - Learn Go by Building Real Projects",
+      "url": "https://github.com/rasel9t6/the-go-engineer",
+      "published_at": "2026-04-02T08:28:49Z",
+      "description": "Learn Go by Building Real Projects",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/116421413?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "rasel9t6"
     }
   ]
 }
