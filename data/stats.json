@@ -18,10 +18,10 @@
     "Tools": 23
   },
   "by_language": {
-    "Python": 22,
-    "Go": 22,
     "JavaScript": 22,
     "Java": 20,
+    "Go": 22,
+    "Python": 22,
     "Rust": 3,
     "Ruby": 1,
     "PHP": 1
@@ -92,10 +92,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "24.2",
-    "Go": "24.2",
     "JavaScript": "24.2",
     "Java": "22.0",
+    "Go": "24.2",
+    "Python": "24.2",
     "Rust": "3.3",
     "Ruby": "1.1",
     "PHP": "1.1"
