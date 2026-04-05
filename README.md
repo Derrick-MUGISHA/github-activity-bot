@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-101-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-05-orange)
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.8%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦 4 (4.0%)
+**Security**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 4 (4.0%)
+**WebDev**: 🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (4.0%)
+**Cloud**: 🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (3.0%)
+**DevOps**: 🟦 2 (1.9%)
 
-**Database**: 🟦 2 (2.0%)
+**Database**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 56 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,20 +58,20 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.0 (27.0%)
-Python          ███████████████████████████ 24.3 (24.3%)
-Java            ███████████████████████████ 24.3 (24.3%)
-Go              ███████████████████████ 20.3 (20.3%)
-Ruby            ██ 1.4 (1.4%)
-PHP             ██ 1.4 (1.4%)
-Rust            ██ 1.4 (1.4%)
+JavaScript      ██████████████████████████████ 27.6 (27.6%)
+Python          ███████████████████████████ 25.0 (25.0%)
+Java            ██████████████████████████ 23.7 (23.7%)
+Go              █████████████████████ 19.7 (19.7%)
+Ruby            █ 1.3 (1.3%)
+PHP             █ 1.3 (1.3%)
+Rust            █ 1.3 (1.3%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 20
-    "Python" : 18
+    "JavaScript" : 21
+    "Python" : 19
     "Java" : 18
     "Go" : 15
     "Ruby" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![opensource](https://img.shields.io/badge/opensource-10-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![career](https://img.shields.io/badge/career-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 14:00 CAT)
+## 📅 Latest Updates (2026-04-05 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +140,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png" width="200" alt="LoreKit - AI That GMs Full TTRPG Campaigns" />
-      <br/>
-      <b>LoreKit - AI That GMs Full TTRPG Campaigns</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png" width="200" alt="Deploying ADK Agents on Azure ACI" />
       <br/>
@@ -157,8 +148,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png" width="200" alt="Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It" />
@@ -168,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png" width="200" alt="Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2" />
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png" width="200" alt="Deploying ADK Agents on Azure ACA (Azure Container Apps)" />
+      <br/>
+      <b>Deploying ADK Agents on Azure ACA (Azure Container...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -194,15 +194,14 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
-- [LoreKit - AI That GMs Full TTRPG Campaigns](https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6) _[Dev.to]_
 - [Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It](https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln) _[Dev.to]_
 - [Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2](https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7) _[Dev.to]_
+- [LoreKit - AI That GMs Full TTRPG Campaigns](https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
 - [AI became my assistant to learning](https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53) _[Dev.to]_
+- [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 14:01:53 CAT_
+_Last automated update: Sun, 05 Apr 2026 15:20:57 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 14:01:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 12:01:53 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 13:20:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
