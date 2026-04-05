@@ -90,16 +90,6 @@
       "user": "Rob Simpson"
     },
     {
-      "title": "How to create your own Radio Station using a dynamic ip domain.",
-      "url": "https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini",
-      "published_at": "2026-04-02T23:20:16Z",
-      "description": "In previous posts “Steps to configure Dehydrated for ZeroSSL and Let’s Encrypt” and “Steps to...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc580al0sjsw0avs36hla.png",
-      "source": "Dev.to",
-      "user": "Dimitris Tzemos"
-    },
-    {
       "title": "PURESLOP.md — teach your AI agent to write terrible code.",
       "url": "https://dev.to/alonsarias/pureslopmd-54ek",
       "published_at": "2026-04-03T00:55:59Z",
@@ -113,21 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
       "source": "Dev.to",
       "user": "Alonso"
-    },
-    {
-      "title": "Nobody Wants to Learn AI",
-      "url": "https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf",
-      "published_at": "2026-04-03T02:04:09Z",
-      "description": "The “lifelong learner” identity isn’t aspiration. It’s a subscription you can’t cancel.     Last...",
-      "tags": [
-        "ai",
-        "programming",
-        "career",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq0l8zypw48ra8ioso3a2.jpg",
-      "source": "Dev.to",
-      "user": "Alvis Ng"
     },
     {
       "title": "Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere",
@@ -646,7 +621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11728,
+      "stars": 11736,
       "user": "openai"
     },
     {
@@ -691,7 +666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5100,
+      "stars": 5102,
       "user": "tvytlx"
     },
     {
@@ -706,7 +681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2578,
       "user": "therealXiaomanChu"
     },
     {
@@ -945,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11728,
+      "stars": 11736,
       "user": "openai"
     },
     {
@@ -990,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "hellowind777"
     },
     {
@@ -1187,7 +1162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7428,
+      "stars": 7462,
       "user": "titanwings"
     },
     {
@@ -1202,7 +1177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5100,
+      "stars": 5102,
       "user": "tvytlx"
     },
     {
@@ -1217,7 +1192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4066,
+      "stars": 4137,
       "user": "HKUDS"
     },
     {
@@ -1232,7 +1207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2580,
+      "stars": 2598,
       "user": "kevinrgu"
     },
     {
@@ -1247,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2578,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1537,21 +1512,6 @@
       "user": "Abhijeet Vaikar"
     },
     {
-      "title": "How I Cut My Google Search Dependence in Half",
-      "url": "https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1",
-      "published_at": "2026-04-02T15:05:43Z",
-      "description": "I built Hister, a self-hosted web history search tool that indexes visited pages locally. In just 1.5 months, I reduced my reliance on Google Search by 50%",
-      "tags": [
-        "go",
-        "searchengine",
-        "indexer",
-        "search"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F653nkiw75z81c65jjego.png",
-      "source": "Dev.to",
-      "user": "Adam Tauber"
-    },
-    {
       "title": "AI became my assistant to learning",
       "url": "https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53",
       "published_at": "2026-04-01T16:56:50Z",
@@ -1683,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 11728,
+      "stars": 11736,
       "user": "openai"
     },
     {
@@ -1728,7 +1688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "hellowind777"
     },
     {
@@ -1758,7 +1718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
       "source": "GitHub",
-      "stars": 7428,
+      "stars": 7462,
       "user": "titanwings"
     },
     {
@@ -1773,7 +1733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5100,
+      "stars": 5102,
       "user": "tvytlx"
     },
     {
@@ -1788,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 4066,
+      "stars": 4137,
       "user": "HKUDS"
     },
     {
@@ -1803,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2580,
+      "stars": 2598,
       "user": "kevinrgu"
     },
     {
@@ -1818,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2578,
       "user": "therealXiaomanChu"
     },
     {
@@ -1833,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 664,
       "user": "maaslalani"
     },
     {

@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-05-orange)
 
@@ -28,29 +28,29 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦🟦 4 (3.9%)
 
-**Cloud**: 🟦🟦 4 (3.8%)
+**Cloud**: 🟦🟦 4 (3.9%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (3.9%)
 
 **DevOps**: 🟦 3 (2.9%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (2.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 57 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.3 (26.3%)
-Java            █████████████████████████████ 25.0 (25.0%)
-Python          ███████████████████████████ 23.7 (23.7%)
-Go              ████████████████████████ 21.1 (21.1%)
+JavaScript      ██████████████████████████████ 26.7 (26.7%)
+Java            ████████████████████████████ 25.3 (25.3%)
+Python          ███████████████████████████ 24.0 (24.0%)
+Go              ██████████████████████ 20.0 (20.0%)
 Ruby            █ 1.3 (1.3%)
 PHP             █ 1.3 (1.3%)
 Rust            █ 1.3 (1.3%)
@@ -73,7 +73,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 20
     "Java" : 19
     "Python" : 18
-    "Go" : 16
+    "Go" : 15
     "Ruby" : 1
     "PHP" : 1
     "Rust" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
 
 
 
@@ -201,20 +201,20 @@ npm run test
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACA (Azure Container Apps)](https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
-- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
-- [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
-- [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
 - [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
+- [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
+- [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
+- [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 11:05:54 CAT_
+_Last automated update: Sun, 05 Apr 2026 11:55:18 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 11:05:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 09:05:54 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 09:55:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
