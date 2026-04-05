@@ -214,7 +214,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 21:23:10 CAT_
+_Last automated update: Sun, 05 Apr 2026 21:55:11 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 21:23:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 19:23:10 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 19:55:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
