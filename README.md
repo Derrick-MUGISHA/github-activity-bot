@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-101-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-05-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (50.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.6%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.8%)
 
-**WebDev**: 🟦🟦 4 (3.9%)
+**WebDev**: 🟦🟦 4 (4.0%)
 
-**Cloud**: 🟦🟦 4 (3.9%)
+**Cloud**: 🟦🟦 4 (4.0%)
 
-**Security**: 🟦🟦 4 (3.9%)
+**Security**: 🟦🟦 4 (4.0%)
 
-**DevOps**: 🟦 3 (2.9%)
+**DevOps**: 🟦 3 (3.0%)
 
 **Database**: 🟦 2 (2.0%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 56 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,21 +58,21 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Java            ████████████████████████████ 25.3 (25.3%)
-Python          ███████████████████████████ 24.0 (24.0%)
-Go              ██████████████████████ 20.0 (20.0%)
-Ruby            █ 1.3 (1.3%)
-PHP             █ 1.3 (1.3%)
-Rust            █ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 27.0 (27.0%)
+Python          ███████████████████████████ 24.3 (24.3%)
+Java            ███████████████████████████ 24.3 (24.3%)
+Go              ███████████████████████ 20.3 (20.3%)
+Ruby            ██ 1.4 (1.4%)
+PHP             ██ 1.4 (1.4%)
+Rust            ██ 1.4 (1.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 20
-    "Java" : 19
     "Python" : 18
+    "Java" : 18
     "Go" : 15
     "Ruby" : 1
     "PHP" : 1
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 11:00 CAT)
+## 📅 Latest Updates (2026-04-05 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,7 +203,6 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
-- [Why My "Lightning Fast" Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5) _[Dev.to]_
 - [PURESLOP.md — teach your AI agent to write terrible code.](https://dev.to/alonsarias/pureslopmd-54ek) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
 - [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
 - [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
+- [AI became my assistant to learning](https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 11:55:18 CAT_
+_Last automated update: Sun, 05 Apr 2026 12:30:15 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 11:55:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 09:55:18 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 10:30:15 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
