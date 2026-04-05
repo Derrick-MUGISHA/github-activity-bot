@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 8:00 CAT)
+## 📅 Latest Updates (2026-04-05 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,8 +203,6 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
-- [Hacking with multimodal Gemma 4 in AI Studio](https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had) _[Dev.to]_
-- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0) _[Dev.to]_
 - [How I Cut My Google Search Dependence in Half](https://dev.to/hister/how-i-cut-my-google-search-dependence-in-half-4mi1) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [Who's hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6) _[Dev.to]_
@@ -213,8 +211,10 @@ npm run test
 - [Nobody Wants to Learn AI](https://dev.to/iamalvisng/nobody-wants-to-learn-ai-1gf) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7) _[Dev.to]_
+- [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
+- [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 08:05:28 CAT_
+_Last automated update: Sun, 05 Apr 2026 09:31:50 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 08:05:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 06:05:28 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 07:31:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
