@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-05 21:00 CAT)
+## 📅 Latest Updates (2026-04-05 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,10 +140,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png" width="200" alt="Deploying ADK Agents on Azure Kubernates Service (AKS)" />
+    <a href="https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png" width="200" alt="From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey" />
       <br/>
-      <b>Deploying ADK Agents on Azure Kubernates Service (...</b>
+      <b>From Broken Docker Containers to a Working AI Agen...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -159,15 +159,6 @@ npm run test
   </td>
 </tr>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png" width="200" alt="From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey" />
-      <br/>
-      <b>From Broken Docker Containers to a Working AI Agen...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png" width="200" alt="Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)" />
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmarquesfernandes.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIMG_9164.png" width="200" alt="0. Why I’m Growing HAID in Public, Not Building in Public" />
+      <br/>
+      <b>0. Why I’m Growing HAID in Public, Not Building in...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -194,15 +194,15 @@ npm run test
 ### 📰 Top Headlines
 
 - [Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)](https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa) _[Dev.to]_
-- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
-- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn) _[Dev.to]_
 - [From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey](https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0) _[Dev.to]_
+- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [MCP Development with Python, and Azure Kubernates Service (AKS)](https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7) _[Dev.to]_
 - [0. Why I’m Growing HAID in Public, Not Building in Public](https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l) _[Dev.to]_
 - [Page Numbers Lie: Offset vs Cursor Pagination](https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4) _[Dev.to]_
 - [Scaling Product Discovery: Orchestrating AI Agent Workflows with Google Opal](https://dev.to/gdg/scaling-product-discovery-orchestrating-ai-agent-workflows-with-google-opal-2982) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1) _[Dev.to]_
+- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4) _[Dev.to]_
 - [Deploying ADK Agents on Azure ACI](https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Sun, 05 Apr 2026 21:55:11 CAT_
+_Last automated update: Sun, 05 Apr 2026 22:28:28 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 05 Apr 2026 21:55:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 19:55:11 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 20:28:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
