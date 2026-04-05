@@ -214,7 +214,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Mon, 06 Apr 2026 00:00:26 CAT_
+_Last automated update: Mon, 06 Apr 2026 00:50:36 CAT_
 
 
 
@@ -222,7 +222,18 @@ _Last automated update: Mon, 06 Apr 2026 00:00:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. React: Explain the difference between state and props
+
+**Difficulty**: Easy | **Topics**: data flow, components
+
+<details>
+<summary>💡 Hint</summary>
+
+Ownership, mutability, data flow direction
+
+</details>
+
+### 2. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -233,25 +244,14 @@ Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 3. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 05 Apr 2026 22:00:26 GMT</b><br/>
+  <b>Last automated update: Sun, 05 Apr 2026 22:50:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
