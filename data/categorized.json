@@ -15,6 +15,36 @@
       "user": "Paulo Henrique"
     },
     {
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
+      "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
+      "published_at": "2026-04-06T16:02:04Z",
+      "description": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
+      "tags": [
+        "agents",
+        "tutorial",
+        "ai",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability",
+      "url": "https://dev.to/railsstudent/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-5eg8",
+      "published_at": "2026-04-06T16:08:17Z",
+      "description": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability   AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ig7giuk6eyc66le3tfu.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Agentic interaction using AppFunctions",
       "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
       "published_at": "2026-04-06T06:49:26Z",
@@ -27,21 +57,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
-    },
-    {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
     },
     {
       "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
@@ -233,19 +248,6 @@
       "user": "William Weiner"
     },
     {
-      "title": "New Site, Who Dis?",
-      "url": "https://dev.to/robearlam/new-site-who-dis-592h",
-      "published_at": "2026-03-30T00:00:00Z",
-      "description": "For anyone who's read my blog posts before, you wont have seen much (if any) content on here about...",
-      "tags": [
-        "personalsite",
-        "aidevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fou8adwsgx3hgqsqiau1i.png",
-      "source": "Dev.to",
-      "user": "Rob Earlam"
-    },
-    {
       "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
       "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
       "published_at": "2026-04-05T04:48:25Z",
@@ -259,6 +261,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "New Site, Who Dis?",
+      "url": "https://dev.to/robearlam/new-site-who-dis-592h",
+      "published_at": "2026-03-30T00:00:00Z",
+      "description": "For anyone who's read my blog posts before, you wont have seen much (if any) content on here about...",
+      "tags": [
+        "personalsite",
+        "aidevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fou8adwsgx3hgqsqiau1i.png",
+      "source": "Dev.to",
+      "user": "Rob Earlam"
     },
     {
       "title": "Using AI Agents to Debug Distributed Systems in Under a Minute",
@@ -303,6 +318,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
       "source": "Dev.to",
       "user": "Lakhan Samani"
+    },
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -525,31 +555,6 @@
       "user": "Riley Black"
     },
     {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
-      "title": "We Can't Code Anymore. AI Won't. What Then?",
-      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
-      "published_at": "2026-03-18T19:29:59Z",
-      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
-      "source": "Dev.to",
-      "user": "Patric Green"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -693,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "6551Team"
     },
     {
@@ -708,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Paidax01"
     },
     {
@@ -738,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5189,
+      "stars": 5191,
       "user": "tvytlx"
     },
     {
@@ -753,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2926,
       "user": "therealXiaomanChu"
     },
     {
@@ -768,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 8518,
+      "stars": 8888,
       "user": "santifer"
     },
     {
@@ -783,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "codeany-ai"
     },
     {
@@ -816,6 +821,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
       "source": "Dev.to",
       "user": "Paulo Henrique"
+    },
+    {
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
+      "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
+      "published_at": "2026-04-06T16:02:04Z",
+      "description": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
+      "tags": [
+        "agents",
+        "tutorial",
+        "ai",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability",
+      "url": "https://dev.to/railsstudent/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-5eg8",
+      "published_at": "2026-04-06T16:08:17Z",
+      "description": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability   AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "tutorial",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ig7giuk6eyc66le3tfu.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
@@ -1051,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "6551Team"
     },
     {
@@ -1066,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 519,
       "user": "LarsenCundric"
     },
     {
@@ -1081,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Paidax01"
     },
     {
@@ -1116,21 +1151,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
-    },
     {
       "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
@@ -1205,6 +1225,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
     },
     {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
@@ -1353,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6094,
+      "stars": 6116,
       "user": "HKUDS"
     },
     {
@@ -1368,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5189,
+      "stars": 5191,
       "user": "tvytlx"
     },
     {
@@ -1383,14 +1418,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3448,
+      "stars": 3469,
       "user": "kevinrgu"
     },
     {
-      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "published_at": "2026-04-04T10:03:00Z",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "tags": [
         "python",
         "github",
@@ -1398,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3264,
+      "stars": 3430,
       "user": "JuliusBrussee"
     },
     {
@@ -1413,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2926,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1748,21 +1783,6 @@
   ],
   "Tools": [
     {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
-    },
-    {
       "title": "You don't need to deal with code to understand Playwright",
       "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
       "published_at": "2026-04-04T04:43:02Z",
@@ -1791,6 +1811,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
     },
     {
       "title": "How do you actually manage your content's SEO performance?",
@@ -1894,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "6551Team"
     },
     {
@@ -1909,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 519,
       "user": "LarsenCundric"
     },
     {
@@ -1924,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Paidax01"
     },
     {
@@ -1969,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6094,
+      "stars": 6116,
       "user": "HKUDS"
     },
     {
@@ -1984,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5189,
+      "stars": 5191,
       "user": "tvytlx"
     },
     {
@@ -1999,14 +2034,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3448,
+      "stars": 3469,
       "user": "kevinrgu"
     },
     {
-      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "published_at": "2026-04-04T10:03:00Z",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "tags": [
         "python",
         "github",
@@ -2014,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3264,
+      "stars": 3430,
       "user": "JuliusBrussee"
     },
     {
@@ -2029,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2926,
       "user": "therealXiaomanChu"
     },
     {
@@ -2044,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 8518,
+      "stars": 8888,
       "user": "santifer"
     },
     {
@@ -2059,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1273,
+      "stars": 1303,
       "user": "maaslalani"
     },
     {
@@ -2074,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "ironsh"
     },
     {
@@ -2089,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "codeany-ai"
     },
     {

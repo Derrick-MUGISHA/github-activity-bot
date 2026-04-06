@@ -30,9 +30,9 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.6 (25.6%)
-Python          █████████████████████████████ 24.4 (24.4%)
-Java            ███████████████████████████ 23.3 (23.3%)
-Go              ███████████████████████ 20.0 (20.0%)
+JavaScript      ██████████████████████████████ 27.2 (27.2%)
+Python          ██████████████████████████ 23.9 (23.9%)
+Java            █████████████████████████ 22.8 (22.8%)
+Go              ██████████████████████ 19.6 (19.6%)
 Rust            ████ 3.3 (3.3%)
 Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
@@ -73,7 +73,7 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
+    "JavaScript" : 25
     "Python" : 22
     "Java" : 21
     "Go" : 18
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-06 18:00 CAT)
+## 📅 Latest Updates (2026-04-06 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -143,6 +143,26 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg" width="200" alt="Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]" />
+      <br/>
+      <b>Observability at Scale: Mastering ADK Callbacks fo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/railsstudent/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-5eg8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ig7giuk6eyc66le3tfu.jpg" width="200" alt="Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability" />
+      <br/>
+      <b>Observability at Scale: Mastering ADK Callbacks fo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fegalt1pw5g01v72io0cz.jpg" width="200" alt="What are your goals for the week? #173" />
@@ -161,31 +181,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-3lh9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdb2llafetgffa788izv.png" width="200" alt="Meme Monday" />
       <br/>
       <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png" width="200" alt="Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)" />
-      <br/>
-      <b>Master-Class: Understanding Database Replication (...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png" width="200" alt="How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)" />
-      <br/>
-      <b>How I Found $1,240/Month in Wasted LLM API Costs (...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +198,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
+- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
+- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability](https://dev.to/railsstudent/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-5eg8) _[Dev.to]_
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 - [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-3lh9) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
-- [How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)](https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041) _[Dev.to]_
 - [0. Why I’m Growing HAID in Public, Not Building in Public](https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l) _[Dev.to]_
 - [Scaling Product Discovery: Orchestrating AI Agent Workflows with Google Opal](https://dev.to/gdg/scaling-product-discovery-orchestrating-ai-agent-workflows-with-google-opal-2982) _[Dev.to]_
 - [From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey](https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn) _[Dev.to]_
 - [Page Numbers Lie: Offset vs Cursor Pagination](https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4) _[Dev.to]_
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [MCP Development with Python, and Azure Kubernates Service (AKS)](https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7) _[Dev.to]_
 - [AI subscriptions are subsidized. Here's what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f) _[Dev.to]_
 - [Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)](https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4) _[Dev.to]_
-- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
-- [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 
-_Last automated update: Mon, 06 Apr 2026 18:07:41 CAT_
+_Last automated update: Mon, 06 Apr 2026 19:05:39 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 06 Apr 2026 18:07:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 06 Apr 2026 16:07:41 GMT</b><br/>
+  <b>Last automated update: Mon, 06 Apr 2026 17:05:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
