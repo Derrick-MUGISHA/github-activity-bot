@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-06-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -30,19 +30,19 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Cloud**: 🟦🟦 7 (6.7%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦 3 (2.9%)
+**Security**: 🟦 4 (3.8%)
 
-**Security**: 🟦 3 (2.9%)
+**Database**: 🟦 3 (2.9%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -61,31 +61,33 @@
 
 ```
 JavaScript      ██████████████████████████████ 25.6 (25.6%)
-Python          ██████████████████████████████ 25.6 (25.6%)
+Python          █████████████████████████████ 24.4 (24.4%)
 Java            ███████████████████████████ 23.3 (23.3%)
 Go              ███████████████████████ 20.0 (20.0%)
 Rust            ████ 3.3 (3.3%)
 Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Python" : 23
+    "Python" : 22
     "Java" : 21
     "Go" : 18
     "Rust" : 3
     "Kotlin" : 1
     "Ruby" : 1
+    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-06 17:00 CAT)
+## 📅 Latest Updates (2026-04-06 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,11 +214,11 @@ npm run test
 - [Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)](https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1) _[Dev.to]_
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0) _[Dev.to]_
-- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4) _[Dev.to]_
+- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 
-_Last automated update: Mon, 06 Apr 2026 17:25:40 CAT_
+_Last automated update: Mon, 06 Apr 2026 18:07:41 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Mon, 06 Apr 2026 17:25:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 06 Apr 2026 15:25:40 GMT</b><br/>
+  <b>Last automated update: Mon, 06 Apr 2026 16:07:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

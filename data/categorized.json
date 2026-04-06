@@ -176,21 +176,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "python",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
       "published_at": "2026-04-04T22:45:43Z",
@@ -202,6 +187,21 @@
         "iac"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -303,6 +303,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
       "source": "Dev.to",
       "user": "Lakhan Samani"
+    },
+    {
+      "title": "Working with JWTs in Laravel (Without the Magic)",
+      "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
+      "published_at": "2026-03-30T18:36:33Z",
+      "description": "If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...",
+      "tags": [
+        "laravel",
+        "php",
+        "security",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
+      "source": "Dev.to",
+      "user": "Mark Townsend"
     },
     {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
@@ -535,21 +550,6 @@
       "user": "Patric Green"
     },
     {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5188,
+      "stars": 5189,
       "user": "tvytlx"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2915,
+      "stars": 2922,
       "user": "therealXiaomanChu"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 8264,
+      "stars": 8518,
       "user": "santifer"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "LarsenCundric"
     },
     {
@@ -1177,21 +1177,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "python",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
       "published_at": "2026-04-04T22:45:43Z",
@@ -1203,6 +1188,21 @@
         "iac"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1220,21 +1220,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
       "source": "Dev.to",
       "user": "Matheus Luz"
-    },
-    {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1368,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6072,
+      "stars": 6094,
       "user": "HKUDS"
     },
     {
@@ -1383,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5188,
+      "stars": 5189,
       "user": "tvytlx"
     },
     {
@@ -1398,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3427,
+      "stars": 3448,
       "user": "kevinrgu"
     },
     {
@@ -1413,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3137,
+      "stars": 3264,
       "user": "JuliusBrussee"
     },
     {
@@ -1428,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2915,
+      "stars": 2922,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1600,21 +1585,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "python",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
       "published_at": "2026-04-04T22:45:43Z",
@@ -1626,6 +1596,21 @@
         "iac"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1717,6 +1702,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
       "source": "Dev.to",
       "user": "Lakhan Samani"
+    },
+    {
+      "title": "Working with JWTs in Laravel (Without the Magic)",
+      "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
+      "published_at": "2026-03-30T18:36:33Z",
+      "description": "If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...",
+      "tags": [
+        "laravel",
+        "php",
+        "security",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
+      "source": "Dev.to",
+      "user": "Mark Townsend"
     },
     {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
@@ -1883,21 +1883,6 @@
       "user": "Riley Black"
     },
     {
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
-      "published_at": "2026-04-01T02:37:52Z",
-      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
-      "source": "Dev.to",
-      "user": "T.J. Maher"
-    },
-    {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
@@ -1924,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "LarsenCundric"
     },
     {
@@ -1984,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6072,
+      "stars": 6094,
       "user": "HKUDS"
     },
     {
@@ -1999,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5188,
+      "stars": 5189,
       "user": "tvytlx"
     },
     {
@@ -2014,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3427,
+      "stars": 3448,
       "user": "kevinrgu"
     },
     {
@@ -2029,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3137,
+      "stars": 3264,
       "user": "JuliusBrussee"
     },
     {
@@ -2044,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2915,
+      "stars": 2922,
       "user": "therealXiaomanChu"
     },
     {
@@ -2059,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 8264,
+      "stars": 8518,
       "user": "santifer"
     },
     {
@@ -2074,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1248,
+      "stars": 1273,
       "user": "maaslalani"
     },
     {
@@ -2089,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "ironsh"
     },
     {
