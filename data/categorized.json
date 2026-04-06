@@ -30,21 +30,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
-      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
-      "published_at": "2026-04-06T18:27:59Z",
-      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
-      "tags": [
-        "ai",
-        "claude",
-        "productivity",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Fabric",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
       "published_at": "2026-04-06T13:07:27Z",
@@ -58,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
+      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
+      "published_at": "2026-04-06T18:27:59Z",
+      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
+      "tags": [
+        "ai",
+        "claude",
+        "productivity",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
     },
     {
       "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2936,
+      "stars": 2938,
       "user": "therealXiaomanChu"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 10209,
+      "stars": 10403,
       "user": "santifer"
     },
     {
@@ -1071,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "LarsenCundric"
     },
     {
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6166,
+      "stars": 6174,
       "user": "HKUDS"
     },
     {
@@ -1418,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3836,
+      "stars": 3896,
       "user": "JuliusBrussee"
     },
     {
@@ -1433,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3521,
+      "stars": 3533,
       "user": "kevinrgu"
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2936,
+      "stars": 2938,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "LarsenCundric"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6166,
+      "stars": 6174,
       "user": "HKUDS"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3836,
+      "stars": 3896,
       "user": "JuliusBrussee"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3521,
+      "stars": 3533,
       "user": "kevinrgu"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2936,
+      "stars": 2938,
       "user": "therealXiaomanChu"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 10209,
+      "stars": 10403,
       "user": "santifer"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1370,
       "user": "maaslalani"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/535880?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 121,
       "user": "umputun"
     }
   ]
