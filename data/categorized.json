@@ -31,21 +31,6 @@
       "user": "Abid Ali"
     },
     {
-      "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
-      "published_at": "2026-04-03T18:59:56Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "gemini",
-        "mcpserver",
-        "python",
-        "ak"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
       "url": "https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l",
       "published_at": "2026-04-05T16:00:00Z",
@@ -73,51 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2t5p2nbhmnmq1rd02sfo.png",
       "source": "Dev.to",
       "user": "Sandro Moreira"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
-      "published_at": "2026-04-03T19:36:29Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "azureaca"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "python",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
@@ -150,6 +90,21 @@
       "user": "Deola Adediran"
     },
     {
+      "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
+      "published_at": "2026-04-03T18:59:56Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "gemini",
+        "mcpserver",
+        "python",
+        "ak"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "AI subscriptions are subsidized. Here's what happens when that stops.",
       "url": "https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f",
       "published_at": "2026-04-04T21:20:21Z",
@@ -179,6 +134,21 @@
       "user": "Patricio Navarro"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
+      "published_at": "2026-04-03T19:36:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "azureaca"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -191,6 +161,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
+      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
+      "published_at": "2026-04-04T22:47:18Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "tags": [
+        "azure",
+        "python",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "Paidax01"
     },
     {
@@ -740,7 +740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5174,
+      "stars": 5179,
       "user": "tvytlx"
     },
     {
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2876,
       "user": "therealXiaomanChu"
     },
     {
@@ -770,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 6863,
+      "stars": 7414,
       "user": "santifer"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "codeany-ai"
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 492,
       "user": "LarsenCundric"
     },
     {
@@ -1069,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "Paidax01"
     },
     {
@@ -1099,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "bcefghj"
     }
   ],
@@ -1133,6 +1133,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
@@ -1178,21 +1193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
-      "published_at": "2026-04-05T16:46:41Z",
-      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
-      "tags": [
-        "ai",
-        "dataengineering",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
     },
     {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
@@ -1356,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5908,
+      "stars": 5983,
       "user": "HKUDS"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5174,
+      "stars": 5179,
       "user": "tvytlx"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3323,
+      "stars": 3370,
       "user": "kevinrgu"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2876,
       "user": "therealXiaomanChu"
     },
     {
@@ -1416,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2510,
+      "stars": 2753,
       "user": "JuliusBrussee"
     }
   ],
@@ -1543,6 +1543,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
       "published_at": "2026-04-03T19:36:29Z",
@@ -1586,21 +1601,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
-      "published_at": "2026-04-05T16:46:41Z",
-      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
-      "tags": [
-        "ai",
-        "dataengineering",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 492,
       "user": "LarsenCundric"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "Paidax01"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "bcefghj"
     },
     {
@@ -1987,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5908,
+      "stars": 5983,
       "user": "HKUDS"
     },
     {
@@ -2002,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5174,
+      "stars": 5179,
       "user": "tvytlx"
     },
     {
@@ -2017,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3323,
+      "stars": 3370,
       "user": "kevinrgu"
     },
     {
@@ -2032,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2876,
       "user": "therealXiaomanChu"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2510,
+      "stars": 2753,
       "user": "JuliusBrussee"
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 6863,
+      "stars": 7414,
       "user": "santifer"
     },
     {
@@ -2077,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1157,
       "user": "maaslalani"
     },
     {
@@ -2107,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "codeany-ai"
     },
     {
