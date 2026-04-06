@@ -31,6 +31,36 @@
       "user": "Deola Adediran"
     },
     {
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "published_at": "2026-04-05T04:48:25Z",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "tags": [
+        "ai",
+        "opensource",
+        "devtools",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
+    },
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
       "published_at": "2026-04-03T18:59:56Z",
@@ -367,20 +397,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
-      "published_at": "2026-04-01T10:00:00Z",
-      "description": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
-      "tags": [
-        "opensource",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzonqo7qexn3uxoybf8t.png",
-      "source": "Dev.to",
-      "user": "Ayu Adiati"
-    },
-    {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
       "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
       "published_at": "2026-03-26T21:05:21Z",
@@ -437,21 +453,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
       "source": "Dev.to",
       "user": "Alonso"
-    },
-    {
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
-      "published_at": "2026-04-01T12:44:00Z",
-      "description": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
-      "tags": [
-        "ai",
-        "discuss",
-        "mlh",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqi7bnukv3q3ge3hcbeh.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
     },
     {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
@@ -699,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "Paidax01"
     },
     {
@@ -714,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "iZiTTMarvin"
     },
     {
@@ -729,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5133,
+      "stars": 5145,
       "user": "tvytlx"
     },
     {
@@ -744,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2714,
+      "stars": 2737,
       "user": "therealXiaomanChu"
     },
     {
@@ -759,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 2428,
+      "stars": 3681,
       "user": "santifer"
     },
     {
@@ -789,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "codeany-ai"
     }
   ],
@@ -1043,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 448,
       "user": "LarsenCundric"
     },
     {
@@ -1058,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "Paidax01"
     },
     {
@@ -1073,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "iZiTTMarvin"
     },
     {
@@ -1093,6 +1094,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
     {
       "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7",
@@ -1319,21 +1335,6 @@
       "user": "gilad"
     },
     {
-      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
-      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-      "published_at": "2026-03-31T11:27:01Z",
-      "description": "AI Agent 源码深度研究报告",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
-      "source": "GitHub",
-      "stars": 5133,
-      "user": "tvytlx"
-    },
-    {
       "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
       "url": "https://github.com/HKUDS/OpenHarness",
       "published_at": "2026-04-01T15:37:13Z",
@@ -1345,8 +1346,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5050,
+      "stars": 5314,
       "user": "HKUDS"
+    },
+    {
+      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "published_at": "2026-03-31T11:27:01Z",
+      "description": "AI Agent 源码深度研究报告",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
+      "source": "GitHub",
+      "stars": 5145,
+      "user": "tvytlx"
     },
     {
       "title": "kevinrgu/autoagent - autonomous harness engineering",
@@ -1360,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2994,
+      "stars": 3099,
       "user": "kevinrgu"
     },
     {
@@ -1375,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2714,
+      "stars": 2737,
       "user": "therealXiaomanChu"
     },
     {
@@ -1390,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71431748?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1793,
       "user": "k2-fsa"
     }
   ],
@@ -1485,6 +1501,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
+    },
+    {
+      "title": "CodePen TV secrets",
+      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
+      "published_at": "2026-03-29T23:23:50Z",
+      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
+      "tags": [
+        "codepen",
+        "css",
+        "cssart",
+        "crt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
+      "source": "Dev.to",
+      "user": "Ben Evans"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1740,6 +1771,36 @@
   ],
   "Tools": [
     {
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "published_at": "2026-04-05T04:48:25Z",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "tags": [
+        "ai",
+        "opensource",
+        "devtools",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
+    },
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2",
       "url": "https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc",
       "published_at": "2026-04-03T05:49:12Z",
@@ -1755,21 +1816,6 @@
       "user": "Kelechi Oliver A."
     },
     {
-      "title": "How do you actually manage your content's SEO performance?",
-      "url": "https://dev.to/bolgercarol/how-do-you-actually-manage-your-contents-seo-performance-4jn0",
-      "published_at": "2026-04-04T22:30:14Z",
-      "description": "I write about tech and I've been frustrated with piecing together Google Search Console,...",
-      "tags": [
-        "analytics",
-        "discuss",
-        "marketing",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbkw3u29idepx0ubos6dc.png",
-      "source": "Dev.to",
-      "user": "Carol Bolger"
-    },
-    {
       "title": "You don't need to deal with code to understand Playwright",
       "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
       "published_at": "2026-04-04T04:43:02Z",
@@ -1783,6 +1829,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftrywright.dev%2Fscreenshots%2Fhero.png",
       "source": "Dev.to",
       "user": "Abhijeet Vaikar"
+    },
+    {
+      "title": "How do you actually manage your content's SEO performance?",
+      "url": "https://dev.to/bolgercarol/how-do-you-actually-manage-your-contents-seo-performance-4jn0",
+      "published_at": "2026-04-04T22:30:14Z",
+      "description": "I write about tech and I've been frustrated with piecing together Google Search Console,...",
+      "tags": [
+        "analytics",
+        "discuss",
+        "marketing",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbkw3u29idepx0ubos6dc.png",
+      "source": "Dev.to",
+      "user": "Carol Bolger"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -1886,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 448,
       "user": "LarsenCundric"
     },
     {
@@ -1901,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "Paidax01"
     },
     {
@@ -1916,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "iZiTTMarvin"
     },
     {
@@ -1935,21 +1996,6 @@
       "user": "bcefghj"
     },
     {
-      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
-      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-      "published_at": "2026-03-31T11:27:01Z",
-      "description": "AI Agent 源码深度研究报告",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
-      "source": "GitHub",
-      "stars": 5133,
-      "user": "tvytlx"
-    },
-    {
       "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
       "url": "https://github.com/HKUDS/OpenHarness",
       "published_at": "2026-04-01T15:37:13Z",
@@ -1961,8 +2007,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5050,
+      "stars": 5314,
       "user": "HKUDS"
+    },
+    {
+      "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "published_at": "2026-03-31T11:27:01Z",
+      "description": "AI Agent 源码深度研究报告",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
+      "source": "GitHub",
+      "stars": 5145,
+      "user": "tvytlx"
     },
     {
       "title": "kevinrgu/autoagent - autonomous harness engineering",
@@ -1976,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2994,
+      "stars": 3099,
       "user": "kevinrgu"
     },
     {
@@ -1991,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2714,
+      "stars": 2737,
       "user": "therealXiaomanChu"
     },
     {
@@ -2006,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71431748?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1793,
       "user": "k2-fsa"
     },
     {
@@ -2021,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 2428,
+      "stars": 3681,
       "user": "santifer"
     },
     {
@@ -2036,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 868,
       "user": "maaslalani"
     },
     {
@@ -2081,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "codeany-ai"
     }
   ]
