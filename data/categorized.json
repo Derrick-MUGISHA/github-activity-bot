@@ -30,19 +30,19 @@
       "user": "Connie Leung"
     },
     {
-      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
-      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
-      "published_at": "2026-04-06T17:18:50Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
+      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
+      "published_at": "2026-04-06T18:27:59Z",
+      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
       "tags": [
-        "amazonecs",
-        "python",
-        "mcpserver",
-        "gemini"
+        "ai",
+        "claude",
+        "productivity",
+        "tooling"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Jessica Temporal"
     },
     {
       "title": "Deploying ADK Agents on Azure Fabric",
@@ -60,6 +60,21 @@
       "user": "xbill"
     },
     {
+      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
+      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
+      "published_at": "2026-04-06T17:18:50Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "amazonecs",
+        "python",
+        "mcpserver",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Agentic interaction using AppFunctions",
       "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
       "published_at": "2026-04-06T06:49:26Z",
@@ -72,65 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
-    },
-    {
-      "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
-      "url": "https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l",
-      "published_at": "2026-04-05T16:00:00Z",
-      "description": "I'm a runner and triathlete, and for years I've been frustrated by the same thing: there's no single place I can call home for my fitness data.",
-      "tags": [
-        "app",
-        "development",
-        "growth",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmarquesfernandes.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIMG_9164.png",
-      "source": "Dev.to",
-      "user": "Henrique Marques Fernandes"
-    },
-    {
-      "title": "Scaling Product Discovery: Orchestrating AI Agent Workflows with Google Opal",
-      "url": "https://dev.to/gdg/scaling-product-discovery-orchestrating-ai-agent-workflows-with-google-opal-2982",
-      "published_at": "2026-04-05T14:52:06Z",
-      "description": "Introduction: The Challenge of Relevance in Software Development  Developing an application is one...",
-      "tags": [
-        "ai",
-        "startup",
-        "opal"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2t5p2nbhmnmq1rd02sfo.png",
-      "source": "Dev.to",
-      "user": "Sandro Moreira"
-    },
-    {
-      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
-      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
-      "published_at": "2026-04-05T15:53:27Z",
-      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "docker",
-        "openclaw"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
-      "source": "Dev.to",
-      "user": "sir'Alexander"
-    },
-    {
-      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
-      "published_at": "2026-04-05T16:04:44Z",
-      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
-      "tags": [
-        "ai",
-        "javascript",
-        "openai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
-      "source": "Dev.to",
-      "user": "Deola Adediran"
     },
     {
       "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
@@ -204,21 +160,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -304,6 +245,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fissdyt8g5ho5zslocp7p.png",
       "source": "Dev.to",
       "user": "tomas maiorino"
+    },
+    {
+      "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
+      "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
+      "published_at": "2026-03-29T09:59:19Z",
+      "description": "Why Rails still matters for startups and AI-assisted coding: less chaos, more momentum.",
+      "tags": [
+        "rails",
+        "startup",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
+      "source": "Dev.to",
+      "user": "Mezbah Alam"
+    },
+    {
+      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
+      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
+      "published_at": "2026-04-01T12:41:18Z",
+      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
+      "tags": [
+        "webdev",
+        "ai",
+        "opensource",
+        "authentication"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
+      "source": "Dev.to",
+      "user": "Lakhan Samani"
     },
     {
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
@@ -699,7 +669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 362,
       "user": "Paidax01"
     },
     {
@@ -729,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5191,
+      "stars": 5192,
       "user": "tvytlx"
     },
     {
@@ -759,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 9247,
+      "stars": 9685,
       "user": "santifer"
     },
     {
@@ -822,36 +792,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
-      "published_at": "2026-04-05T16:04:44Z",
-      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
-      "tags": [
-        "ai",
-        "javascript",
-        "openai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
-      "source": "Dev.to",
-      "user": "Deola Adediran"
-    },
-    {
-      "title": "Page Numbers Lie: Offset vs Cursor Pagination",
-      "url": "https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4",
-      "published_at": "2026-04-05T07:54:04Z",
-      "description": "From Interview Notes To Production Reality   While I was preparing for interviews, I came...",
-      "tags": [
-        "graphql",
-        "typescript",
-        "javascript",
-        "api"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tgqrzgzelg3oamu5ocf.png",
-      "source": "Dev.to",
-      "user": "Manuj Sankrit"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -1072,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 537,
       "user": "LarsenCundric"
     },
     {
@@ -1087,7 +1027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 362,
       "user": "Paidax01"
     },
     {
@@ -1123,21 +1063,6 @@
   ],
   "Python": [
     {
-      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
-      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
-      "published_at": "2026-04-06T17:18:50Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "amazonecs",
-        "python",
-        "mcpserver",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Fabric",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
       "published_at": "2026-04-06T13:07:27Z",
@@ -1149,6 +1074,21 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
+      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
+      "published_at": "2026-04-06T17:18:50Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "amazonecs",
+        "python",
+        "mcpserver",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1194,21 +1134,6 @@
         "azureaca"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1389,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6133,
+      "stars": 6152,
       "user": "HKUDS"
     },
     {
@@ -1404,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5191,
+      "stars": 5192,
       "user": "tvytlx"
     },
     {
@@ -1419,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3541,
+      "stars": 3688,
       "user": "JuliusBrussee"
     },
     {
@@ -1434,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3485,
+      "stars": 3503,
       "user": "kevinrgu"
     },
     {
@@ -1454,21 +1379,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
-      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
-      "published_at": "2026-04-05T15:53:27Z",
-      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "docker",
-        "openclaw"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
-      "source": "Dev.to",
-      "user": "sir'Alexander"
-    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1576,21 +1486,6 @@
   ],
   "Cloud": [
     {
-      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
-      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
-      "published_at": "2026-04-06T17:18:50Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "amazonecs",
-        "python",
-        "mcpserver",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Fabric",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
       "published_at": "2026-04-06T13:07:27Z",
@@ -1602,6 +1497,21 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
+      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
+      "published_at": "2026-04-06T17:18:50Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "amazonecs",
+        "python",
+        "mcpserver",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1647,21 +1557,6 @@
         "azureaca"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1755,6 +1650,21 @@
   ],
   "Security": [
     {
+      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
+      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
+      "published_at": "2026-04-01T12:41:18Z",
+      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
+      "tags": [
+        "webdev",
+        "ai",
+        "opensource",
+        "authentication"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
+      "source": "Dev.to",
+      "user": "Lakhan Samani"
+    },
+    {
       "title": "Working with JWTs in Laravel (Without the Magic)",
       "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
       "published_at": "2026-03-30T18:36:33Z",
@@ -1798,6 +1708,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
+      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
+      "published_at": "2026-04-06T18:27:59Z",
+      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
+      "tags": [
+        "ai",
+        "claude",
+        "productivity",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
+    },
     {
       "title": "You don't need to deal with code to understand Playwright",
       "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
@@ -1960,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 537,
       "user": "LarsenCundric"
     },
     {
@@ -1975,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 362,
       "user": "Paidax01"
     },
     {
@@ -2020,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6133,
+      "stars": 6152,
       "user": "HKUDS"
     },
     {
@@ -2035,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5191,
+      "stars": 5192,
       "user": "tvytlx"
     },
     {
@@ -2050,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3541,
+      "stars": 3688,
       "user": "JuliusBrussee"
     },
     {
@@ -2065,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3485,
+      "stars": 3503,
       "user": "kevinrgu"
     },
     {
@@ -2095,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 9247,
+      "stars": 9685,
       "user": "santifer"
     },
     {
@@ -2110,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1327,
+      "stars": 1355,
       "user": "maaslalani"
     },
     {
@@ -2125,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "ironsh"
     },
     {
