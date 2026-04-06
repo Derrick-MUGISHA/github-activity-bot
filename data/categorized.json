@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
-      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
-      "published_at": "2026-04-05T15:53:27Z",
-      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "docker",
-        "openclaw"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
-      "source": "Dev.to",
-      "user": "sir'Alexander"
-    },
-    {
       "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
       "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
       "published_at": "2026-04-05T04:48:25Z",
@@ -133,6 +118,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
+      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
+      "published_at": "2026-04-05T15:53:27Z",
+      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "docker",
+        "openclaw"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
+      "source": "Dev.to",
+      "user": "sir'Alexander"
     },
     {
       "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
@@ -552,21 +552,6 @@
       "user": "T.J. Maher"
     },
     {
-      "title": "Lost Skills We Sold for Convenience Over Commitment",
-      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
-      "published_at": "2026-03-29T11:49:29Z",
-      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
-      "tags": [
-        "career",
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
-      "source": "Dev.to",
-      "user": "Carlos Nah "
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -755,7 +740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5169,
+      "stars": 5174,
       "user": "tvytlx"
     },
     {
@@ -770,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2846,
+      "stars": 2856,
       "user": "therealXiaomanChu"
     },
     {
@@ -785,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 6591,
+      "stars": 6863,
       "user": "santifer"
     },
     {
@@ -1069,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "LarsenCundric"
     },
     {
@@ -1371,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5887,
+      "stars": 5908,
       "user": "HKUDS"
     },
     {
@@ -1386,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5169,
+      "stars": 5174,
       "user": "tvytlx"
     },
     {
@@ -1401,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3308,
+      "stars": 3323,
       "user": "kevinrgu"
     },
     {
@@ -1416,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2846,
+      "stars": 2856,
       "user": "therealXiaomanChu"
     },
     {
@@ -1431,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2373,
+      "stars": 2510,
       "user": "JuliusBrussee"
     }
   ],
@@ -1942,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "LarsenCundric"
     },
     {
@@ -2002,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5887,
+      "stars": 5908,
       "user": "HKUDS"
     },
     {
@@ -2017,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5169,
+      "stars": 5174,
       "user": "tvytlx"
     },
     {
@@ -2032,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3308,
+      "stars": 3323,
       "user": "kevinrgu"
     },
     {
@@ -2047,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2846,
+      "stars": 2856,
       "user": "therealXiaomanChu"
     },
     {
@@ -2062,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2373,
+      "stars": 2510,
       "user": "JuliusBrussee"
     },
     {
@@ -2077,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 6591,
+      "stars": 6863,
       "user": "santifer"
     },
     {
@@ -2092,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1102,
       "user": "maaslalani"
     },
     {
