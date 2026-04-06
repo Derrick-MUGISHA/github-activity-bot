@@ -1,19 +1,32 @@
 {
   "AI": [
     {
-      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
-      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
-      "published_at": "2026-04-05T04:48:25Z",
-      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
+      "published_at": "2026-04-06T13:07:11Z",
+      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
+    {
+      "title": "Agentic interaction using AppFunctions",
+      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
+      "published_at": "2026-04-06T06:49:26Z",
+      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
       "tags": [
         "ai",
-        "opensource",
-        "devtools",
-        "selfhosted"
+        "android",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
       "source": "Dev.to",
-      "user": "GDS K S"
+      "user": "Thomas Künneth"
     },
     {
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
@@ -163,21 +176,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
       "published_at": "2026-04-04T22:47:18Z",
@@ -189,6 +187,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -231,6 +244,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fou8adwsgx3hgqsqiau1i.png",
       "source": "Dev.to",
       "user": "Rob Earlam"
+    },
+    {
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "published_at": "2026-04-05T04:48:25Z",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "tags": [
+        "ai",
+        "opensource",
+        "devtools",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
     },
     {
       "title": "Using AI Agents to Debug Distributed Systems in Under a Minute",
@@ -363,21 +391,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
-      "published_at": "2026-04-02T18:18:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "gemini",
-        "azurecontainerapps",
-        "agents",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
@@ -710,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "Paidax01"
     },
     {
@@ -740,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5179,
+      "stars": 5184,
       "user": "tvytlx"
     },
     {
@@ -755,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2876,
+      "stars": 2902,
       "user": "therealXiaomanChu"
     },
     {
@@ -770,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 7414,
+      "stars": 7862,
       "user": "santifer"
     },
     {
@@ -805,6 +818,20 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
+      "published_at": "2026-04-06T13:07:11Z",
+      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
     {
       "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
       "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
@@ -1054,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 497,
       "user": "LarsenCundric"
     },
     {
@@ -1069,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "Paidax01"
     },
     {
@@ -1099,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "bcefghj"
     }
   ],
@@ -1165,21 +1192,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
       "published_at": "2026-04-04T22:47:18Z",
@@ -1191,6 +1203,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1356,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5983,
+      "stars": 6035,
       "user": "HKUDS"
     },
     {
@@ -1371,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5179,
+      "stars": 5184,
       "user": "tvytlx"
     },
     {
@@ -1386,23 +1413,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3402,
       "user": "kevinrgu"
-    },
-    {
-      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "url": "https://github.com/therealXiaomanChu/ex-skill",
-      "published_at": "2026-03-31T09:36:56Z",
-      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
-      "source": "GitHub",
-      "stars": 2876,
-      "user": "therealXiaomanChu"
     },
     {
       "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
@@ -1416,8 +1428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2974,
       "user": "JuliusBrussee"
+    },
+    {
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
+      "source": "GitHub",
+      "stars": 2902,
+      "user": "therealXiaomanChu"
     }
   ],
   "DevOps": [
@@ -1525,7 +1552,22 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "Agentic interaction using AppFunctions",
+      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
+      "published_at": "2026-04-06T06:49:26Z",
+      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
+      "tags": [
+        "ai",
+        "android",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
+    }
+  ],
   "Cloud": [
     {
       "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
@@ -1573,21 +1615,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
       "published_at": "2026-04-04T22:47:18Z",
@@ -1599,6 +1626,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1630,21 +1672,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
       "source": "Dev.to",
       "user": "Daniel Gwerzman"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure ACA (Azure Container Apps)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aca-azure-container-apps-3kb7",
-      "published_at": "2026-04-02T18:18:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "gemini",
-        "azurecontainerapps",
-        "agents",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -1751,21 +1778,6 @@
   ],
   "Tools": [
     {
-      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
-      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
-      "published_at": "2026-04-05T04:48:25Z",
-      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
-      "tags": [
-        "ai",
-        "opensource",
-        "devtools",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
-    {
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
       "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
       "published_at": "2026-04-05T08:48:00Z",
@@ -1794,6 +1806,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftrywright.dev%2Fscreenshots%2Fhero.png",
       "source": "Dev.to",
       "user": "Abhijeet Vaikar"
+    },
+    {
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "published_at": "2026-04-05T04:48:25Z",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "tags": [
+        "ai",
+        "opensource",
+        "devtools",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
     },
     {
       "title": "How do you actually manage your content's SEO performance?",
@@ -1927,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 497,
       "user": "LarsenCundric"
     },
     {
@@ -1942,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "Paidax01"
     },
     {
@@ -1972,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "bcefghj"
     },
     {
@@ -1987,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5983,
+      "stars": 6035,
       "user": "HKUDS"
     },
     {
@@ -2002,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5179,
+      "stars": 5184,
       "user": "tvytlx"
     },
     {
@@ -2017,23 +2044,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3402,
       "user": "kevinrgu"
-    },
-    {
-      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "url": "https://github.com/therealXiaomanChu/ex-skill",
-      "published_at": "2026-03-31T09:36:56Z",
-      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
-      "source": "GitHub",
-      "stars": 2876,
-      "user": "therealXiaomanChu"
     },
     {
       "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
@@ -2047,8 +2059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2974,
       "user": "JuliusBrussee"
+    },
+    {
+      "title": "therealXiaomanChu/ex-skill - 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "url": "https://github.com/therealXiaomanChu/ex-skill",
+      "published_at": "2026-03-31T09:36:56Z",
+      "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
+      "source": "GitHub",
+      "stars": 2902,
+      "user": "therealXiaomanChu"
     },
     {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
@@ -2062,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 7414,
+      "stars": 7862,
       "user": "santifer"
     },
     {
@@ -2077,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1202,
       "user": "maaslalani"
     },
     {
