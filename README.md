@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-06-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (52.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.5%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Cloud**: 🟦🟦🟦 8 (7.8%)
+**Cloud**: 🟦🟦🟦 9 (8.6%)
 
-**WebDev**: 🟦🟦 5 (4.9%)
+**WebDev**: 🟦 4 (3.8%)
 
-**Security**: 🟦 4 (3.9%)
+**Security**: 🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
-**DevOps**:  1 (1.0%)
+**DevOps**: 🟦 2 (1.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 57 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,24 +60,24 @@
 ### 💻 Programming Language Trends
 
 ```
-Python          ██████████████████████████████ 26.7 (26.7%)
-JavaScript      █████████████████████████████ 25.6 (25.6%)
-Java            █████████████████████████ 22.1 (22.1%)
-Go              ██████████████████████ 19.8 (19.8%)
-Rust            ███ 2.3 (2.3%)
-Kotlin          █ 1.2 (1.2%)
-Ruby            █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 25.5 (25.5%)
+Python          ██████████████████████████████ 25.5 (25.5%)
+Java            ██████████████████████████ 22.3 (22.3%)
+Go              ████████████████████████ 20.2 (20.2%)
+Rust            ████ 3.2 (3.2%)
+Kotlin          █ 1.1 (1.1%)
+Ruby            █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Python" : 23
-    "JavaScript" : 22
-    "Java" : 19
-    "Go" : 17
-    "Rust" : 2
+    "JavaScript" : 24
+    "Python" : 24
+    "Java" : 21
+    "Go" : 19
+    "Rust" : 3
     "Kotlin" : 1
     "Ruby" : 1
     "PHP" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-14-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-06 21:00 CAT)
+## 📅 Latest Updates (2026-04-06 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,10 +203,10 @@ npm run test
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 - [How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5) _[Dev.to]_
 - [Deploying ADK Agents on Azure Fabric](https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-3lh9) _[Dev.to]_
 - [MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express](https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-3lh9) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [MCP Development with Python, and Azure Kubernates Service (AKS)](https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Mon, 06 Apr 2026 21:19:08 CAT_
+_Last automated update: Mon, 06 Apr 2026 22:03:48 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Mon, 06 Apr 2026 21:19:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
-
-**Difficulty**: Medium | **Topics**: system design, algorithms
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 3. SystemDesign: Design Twitter's timeline feature
+### 1. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -256,6 +234,28 @@ Normal forms, redundancy, performance trade-offs
 <summary>💡 Hint</summary>
 
 Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 2. React: Explain the difference between state and props
+
+**Difficulty**: Easy | **Topics**: data flow, components
+
+<details>
+<summary>💡 Hint</summary>
+
+Ownership, mutability, data flow direction
+
+</details>
+
+### 3. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 06 Apr 2026 19:19:08 GMT</b><br/>
+  <b>Last automated update: Mon, 06 Apr 2026 20:03:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
