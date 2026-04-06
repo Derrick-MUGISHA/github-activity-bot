@@ -16,21 +16,6 @@
       "user": "sir'Alexander"
     },
     {
-      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
-      "published_at": "2026-04-05T16:04:44Z",
-      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
-      "tags": [
-        "ai",
-        "javascript",
-        "openai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
-      "source": "Dev.to",
-      "user": "Deola Adediran"
-    },
-    {
       "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
       "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
       "published_at": "2026-04-05T04:48:25Z",
@@ -150,34 +135,19 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
-      "published_at": "2026-04-05T16:46:41Z",
-      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+      "published_at": "2026-04-05T16:04:44Z",
+      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
       "tags": [
         "ai",
-        "dataengineering",
-        "python",
-        "googlecloud"
+        "javascript",
+        "openai",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
       "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure ACI",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
-      "published_at": "2026-04-02T17:00:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "geminillm",
-        "agents",
-        "python",
-        "azureaci"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
-      "source": "Dev.to",
-      "user": "xbill"
+      "user": "Deola Adediran"
     },
     {
       "title": "AI subscriptions are subsidized. Here's what happens when that stops.",
@@ -194,6 +164,21 @@
       "user": "Dzhuneyt"
     },
     {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
       "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
       "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
       "published_at": "2026-03-31T13:58:35Z",
@@ -206,21 +191,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -248,21 +218,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg",
       "source": "Dev.to",
       "user": "William Weiner"
-    },
-    {
-      "title": "Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents",
-      "url": "https://dev.to/gde/recursive-knowledge-crystallization-enabling-persistent-evolution-and-zero-shot-transfer-in-ai-4fh7",
-      "published_at": "2026-04-02T06:50:50Z",
-      "description": "Abstract   This paper presents a self-evolving framework, Recursive Knowledge...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F670ngcqe5pf7c06xkwoq.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "New Site, Who Dis?",
@@ -337,6 +292,21 @@
       "user": "Mark Townsend"
     },
     {
+      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
+      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
+      "published_at": "2026-03-31T02:37:02Z",
+      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cybersecurity",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
+      "source": "Dev.to",
+      "user": "PracticeOverflow"
+    },
+    {
       "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
       "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
       "published_at": "2026-04-04T10:42:37Z",
@@ -408,6 +378,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
+      "tags": [
+        "opensource",
+        "python",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
+      "source": "Dev.to",
+      "user": "Matheus Luz"
     },
     {
       "title": "PURESLOP.md — teach your AI agent to write terrible code.",
@@ -567,6 +552,21 @@
       "user": "T.J. Maher"
     },
     {
+      "title": "Lost Skills We Sold for Convenience Over Commitment",
+      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
+      "published_at": "2026-03-29T11:49:29Z",
+      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
+      "tags": [
+        "career",
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
+      "source": "Dev.to",
+      "user": "Carlos Nah "
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 654,
       "user": "6551Team"
     },
     {
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5165,
+      "stars": 5168,
       "user": "tvytlx"
     },
     {
@@ -770,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2814,
+      "stars": 2832,
       "user": "therealXiaomanChu"
     },
     {
@@ -785,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 5780,
+      "stars": 6185,
       "user": "santifer"
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 654,
       "user": "6551Team"
     },
     {
@@ -1069,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 475,
       "user": "LarsenCundric"
     },
     {
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "bcefghj"
     }
   ],
@@ -1208,21 +1208,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
       "source": "Dev.to",
       "user": "Patricio Navarro"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure ACI",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
-      "published_at": "2026-04-02T17:00:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "geminillm",
-        "agents",
-        "python",
-        "azureaci"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
@@ -1386,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5724,
+      "stars": 5827,
       "user": "HKUDS"
     },
     {
@@ -1401,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5165,
+      "stars": 5168,
       "user": "tvytlx"
     },
     {
@@ -1416,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3252,
+      "stars": 3278,
       "user": "kevinrgu"
     },
     {
@@ -1431,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2814,
+      "stars": 2832,
       "user": "therealXiaomanChu"
     },
     {
@@ -1446,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2096,
+      "stars": 2210,
       "user": "JuliusBrussee"
     }
   ],
@@ -1633,21 +1618,6 @@
       "user": "Patricio Navarro"
     },
     {
-      "title": "Deploying ADK Agents on Azure ACI",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-aci-2jk6",
-      "published_at": "2026-04-02T17:00:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "geminillm",
-        "agents",
-        "python",
-        "azureaci"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g3krpxi8yetfcdf5aay.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
       "published_at": "2026-03-29T04:13:52Z",
@@ -1765,6 +1735,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png",
       "source": "Dev.to",
       "user": "Mark Townsend"
+    },
+    {
+      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
+      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
+      "published_at": "2026-03-31T02:37:02Z",
+      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cybersecurity",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
+      "source": "Dev.to",
+      "user": "PracticeOverflow"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1942,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176155065?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 654,
       "user": "6551Team"
     },
     {
@@ -1957,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 475,
       "user": "LarsenCundric"
     },
     {
@@ -2002,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "bcefghj"
     },
     {
@@ -2017,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5724,
+      "stars": 5827,
       "user": "HKUDS"
     },
     {
@@ -2032,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5165,
+      "stars": 5168,
       "user": "tvytlx"
     },
     {
@@ -2047,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3252,
+      "stars": 3278,
       "user": "kevinrgu"
     },
     {
@@ -2062,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2814,
+      "stars": 2832,
       "user": "therealXiaomanChu"
     },
     {
@@ -2077,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 2096,
+      "stars": 2210,
       "user": "JuliusBrussee"
     },
     {
@@ -2092,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 5780,
+      "stars": 6185,
       "user": "santifer"
     },
     {
@@ -2107,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1036,
       "user": "maaslalani"
     },
     {
