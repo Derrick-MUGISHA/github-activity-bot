@@ -91,21 +91,6 @@
       "user": "Henrique Marques Fernandes"
     },
     {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
-      "published_at": "2026-04-05T16:46:41Z",
-      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
-      "tags": [
-        "ai",
-        "dataengineering",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
       "title": "Scaling Product Discovery: Orchestrating AI Agent Workflows with Google Opal",
       "url": "https://dev.to/gdg/scaling-product-discovery-orchestrating-ai-agent-workflows-with-google-opal-2982",
       "published_at": "2026-04-05T14:52:06Z",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
     },
     {
       "title": "Deploying ADK Agents on Azure ACI",
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "Paidax01"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5145,
+      "stars": 5156,
       "user": "tvytlx"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2737,
+      "stars": 2769,
       "user": "therealXiaomanChu"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 3681,
+      "stars": 4514,
       "user": "santifer"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "codeany-ai"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "codeany-ai"
     }
   ],
@@ -1044,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "LarsenCundric"
     },
     {
@@ -1059,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "Paidax01"
     },
     {
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "bcefghj"
     }
   ],
@@ -1123,21 +1123,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgoar23snjhm0x95g5tih.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
-      "published_at": "2026-04-05T16:46:41Z",
-      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
-      "tags": [
-        "ai",
-        "dataengineering",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
@@ -1183,6 +1168,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
     },
     {
       "title": "Deploying ADK Agents on Azure ACI",
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5314,
+      "stars": 5474,
       "user": "HKUDS"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5145,
+      "stars": 5156,
       "user": "tvytlx"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3099,
+      "stars": 3170,
       "user": "kevinrgu"
     },
     {
@@ -1391,23 +1391,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2737,
+      "stars": 2769,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "k2-fsa/OmniVoice - High-Quality Voice Cloning TTS for 600+ Languages",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "published_at": "2026-03-31T12:00:45Z",
-      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "published_at": "2026-04-04T10:03:00Z",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71431748?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 1793,
-      "user": "k2-fsa"
+      "stars": 1850,
+      "user": "JuliusBrussee"
     }
   ],
   "DevOps": [
@@ -1425,21 +1425,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
       "source": "Dev.to",
       "user": "sir'Alexander"
-    },
-    {
-      "title": "Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2",
-      "url": "https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc",
-      "published_at": "2026-04-03T05:49:12Z",
-      "description": "The worst kind of production incident is the one where you're staring at a broken system and you have...",
-      "tags": [
-        "webdev",
-        "productivity",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png",
-      "source": "Dev.to",
-      "user": "Kelechi Oliver A."
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1548,21 +1533,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
-      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
-      "published_at": "2026-04-05T16:46:41Z",
-      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
-      "tags": [
-        "ai",
-        "dataengineering",
-        "python",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
       "published_at": "2026-04-03T19:36:29Z",
@@ -1606,6 +1576,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)",
+      "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa",
+      "published_at": "2026-04-05T16:46:41Z",
+      "description": "This is Part 2 of a 3-part series on building production-ready, data-intensive applications on Google...",
+      "tags": [
+        "ai",
+        "dataengineering",
+        "python",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpxbgwui1g7x3hebdm2bv.png",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
     },
     {
       "title": "Deploying ADK Agents on Azure ACI",
@@ -1801,21 +1786,6 @@
       "user": "Abid Ali"
     },
     {
-      "title": "Observability from Day One: What We Got Wrong in v1 and How We Fixed It in v2",
-      "url": "https://dev.to/oliverke/observability-from-day-one-what-we-got-wrong-in-v1-and-how-we-fixed-it-in-v2-36lc",
-      "published_at": "2026-04-03T05:49:12Z",
-      "description": "The worst kind of production incident is the one where you're staring at a broken system and you have...",
-      "tags": [
-        "webdev",
-        "productivity",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmlx50f1qk5pdq9sj4y6.png",
-      "source": "Dev.to",
-      "user": "Kelechi Oliver A."
-    },
-    {
       "title": "You don't need to deal with code to understand Playwright",
       "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
       "published_at": "2026-04-04T04:43:02Z",
@@ -1947,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "LarsenCundric"
     },
     {
@@ -1962,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "Paidax01"
     },
     {
@@ -1992,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "bcefghj"
     },
     {
@@ -2007,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5314,
+      "stars": 5474,
       "user": "HKUDS"
     },
     {
@@ -2022,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5145,
+      "stars": 5156,
       "user": "tvytlx"
     },
     {
@@ -2037,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3099,
+      "stars": 3170,
       "user": "kevinrgu"
     },
     {
@@ -2052,23 +2022,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2737,
+      "stars": 2769,
       "user": "therealXiaomanChu"
     },
     {
-      "title": "k2-fsa/OmniVoice - High-Quality Voice Cloning TTS for 600+ Languages",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "published_at": "2026-03-31T12:00:45Z",
-      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "published_at": "2026-04-04T10:03:00Z",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71431748?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 1793,
-      "user": "k2-fsa"
+      "stars": 1850,
+      "user": "JuliusBrussee"
     },
     {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
@@ -2082,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 3681,
+      "stars": 4514,
       "user": "santifer"
     },
     {
@@ -2097,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 918,
       "user": "maaslalani"
     },
     {
@@ -2127,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "codeany-ai"
     },
     {
@@ -2142,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "codeany-ai"
     }
   ]
