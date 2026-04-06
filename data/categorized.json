@@ -337,21 +337,6 @@
       "user": "Mark Townsend"
     },
     {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
-    },
-    {
       "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
       "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
       "published_at": "2026-04-04T10:42:37Z",
@@ -423,21 +408,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fge1tv5g4jzkk9stf1cy3.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Hacking with multimodal Gemma 4 in AI Studio",
-      "url": "https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had",
-      "published_at": "2026-04-04T03:30:29Z",
-      "description": "We’re in an incredibly fun era for building. The friction between \"I have a weird idea\" and \"I have a...",
-      "tags": [
-        "webdev",
-        "ai",
-        "machinelearning",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgr7p9ayunglstrw8xlgu.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
     },
     {
       "title": "PURESLOP.md — teach your AI agent to write terrible code.",
@@ -540,6 +510,61 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
       "source": "Dev.to",
       "user": "Lacy Morrow"
+    },
+    {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
+    },
+    {
+      "title": "FE/BE - Unite Them!",
+      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
+      "published_at": "2026-03-17T14:02:20Z",
+      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
+      "source": "Dev.to",
+      "user": "Typing Turtle"
+    },
+    {
+      "title": "We Can't Code Anymore. AI Won't. What Then?",
+      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
+      "published_at": "2026-03-18T19:29:59Z",
+      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
+      "source": "Dev.to",
+      "user": "Patric Green"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -700,7 +725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "Paidax01"
     },
     {
@@ -730,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5161,
+      "stars": 5165,
       "user": "tvytlx"
     },
     {
@@ -745,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2784,
+      "stars": 2814,
       "user": "therealXiaomanChu"
     },
     {
@@ -760,7 +785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 5225,
+      "stars": 5780,
       "user": "santifer"
     },
     {
@@ -775,7 +800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 157,
       "user": "codeany-ai"
     },
     {
@@ -790,7 +815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "codeany-ai"
     }
   ],
@@ -1044,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 465,
       "user": "LarsenCundric"
     },
     {
@@ -1059,7 +1084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "Paidax01"
     },
     {
@@ -1089,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "bcefghj"
     }
   ],
@@ -1213,6 +1238,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
       "source": "Dev.to",
       "user": "Matheus Luz"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1346,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5596,
+      "stars": 5724,
       "user": "HKUDS"
     },
     {
@@ -1361,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5161,
+      "stars": 5165,
       "user": "tvytlx"
     },
     {
@@ -1376,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3218,
+      "stars": 3252,
       "user": "kevinrgu"
     },
     {
@@ -1391,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2784,
+      "stars": 2814,
       "user": "therealXiaomanChu"
     },
     {
@@ -1406,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 1958,
+      "stars": 2096,
       "user": "JuliusBrussee"
     }
   ],
@@ -1727,21 +1767,6 @@
       "user": "Mark Townsend"
     },
     {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1861,21 +1886,6 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "🌪️ Proof of Work: The To-Do List of Infinite Regret",
-      "url": "https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le",
-      "published_at": "2026-04-01T20:49:57Z",
-      "description": "**           What I Built   ** I built a productivity app for people who hate being productive. Proof...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07oo39h43oc8jd9uvis4.png",
-      "source": "Dev.to",
-      "user": "Malik Sohaib iqbal"
-    },
-    {
       "title": "AI terminal tools in 2026: Warp, Lacy Shell, and the rest",
       "url": "https://dev.to/lacymorrow/2026-ai-terminal-tools-comparison-warp-vs-lacy-shell-vs-traditional-shells-5a8f",
       "published_at": "2026-03-30T16:19:41Z",
@@ -1889,6 +1899,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
       "source": "Dev.to",
       "user": "Lacy Morrow"
+    },
+    {
+      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+      "published_at": "2026-04-02T07:39:26Z",
+      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
+      "source": "Dev.to",
+      "user": "Riley Black"
+    },
+    {
+      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
+      "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+      "published_at": "2026-04-01T02:37:52Z",
+      "description": "Using AI as a research assistant? Here’s how I’ve detected Claude’s fabrications, and how I’ve...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foix1pvq69plo19xp2j4x.png",
+      "source": "Dev.to",
+      "user": "T.J. Maher"
     },
     {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
@@ -1917,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 465,
       "user": "LarsenCundric"
     },
     {
@@ -1932,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "Paidax01"
     },
     {
@@ -1962,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "bcefghj"
     },
     {
@@ -1977,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5596,
+      "stars": 5724,
       "user": "HKUDS"
     },
     {
@@ -1992,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5161,
+      "stars": 5165,
       "user": "tvytlx"
     },
     {
@@ -2007,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3218,
+      "stars": 3252,
       "user": "kevinrgu"
     },
     {
@@ -2022,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2784,
+      "stars": 2814,
       "user": "therealXiaomanChu"
     },
     {
@@ -2037,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 1958,
+      "stars": 2096,
       "user": "JuliusBrussee"
     },
     {
@@ -2052,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 5225,
+      "stars": 5780,
       "user": "santifer"
     },
     {
@@ -2067,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 992,
       "user": "maaslalani"
     },
     {
@@ -2097,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 157,
       "user": "codeany-ai"
     },
     {
@@ -2112,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "codeany-ai"
     }
   ]
