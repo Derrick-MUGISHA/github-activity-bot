@@ -306,6 +306,21 @@
       "user": "Mark Townsend"
     },
     {
+      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
+      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
+      "published_at": "2026-04-05T15:53:27Z",
+      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "docker",
+        "openclaw"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
+      "source": "Dev.to",
+      "user": "sir'Alexander"
+    },
+    {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
       "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
       "published_at": "2026-03-31T02:37:02Z",
@@ -336,6 +351,21 @@
       "user": "Daniel Gwerzman"
     },
     {
+      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+      "published_at": "2026-04-05T16:04:44Z",
+      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+      "tags": [
+        "ai",
+        "javascript",
+        "openai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
+      "source": "Dev.to",
+      "user": "Deola Adediran"
+    },
+    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -351,6 +381,21 @@
       "user": "An Pham"
     },
     {
+      "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
+      "url": "https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l",
+      "published_at": "2026-04-05T16:00:00Z",
+      "description": "I'm a runner and triathlete, and for years I've been frustrated by the same thing: there's no single place I can call home for my fitness data.",
+      "tags": [
+        "app",
+        "development",
+        "growth",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmarquesfernandes.com%2Fwp-content%2Fuploads%2F2026%2F04%2FIMG_9164.png",
+      "source": "Dev.to",
+      "user": "Henrique Marques Fernandes"
+    },
+    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -364,6 +409,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
+    },
+    {
+      "title": "Scaling Product Discovery: Orchestrating AI Agent Workflows with Google Opal",
+      "url": "https://dev.to/gdg/scaling-product-discovery-orchestrating-ai-agent-workflows-with-google-opal-2982",
+      "published_at": "2026-04-05T14:52:06Z",
+      "description": "Introduction: The Challenge of Relevance in Software Development  Developing an application is one...",
+      "tags": [
+        "ai",
+        "startup",
+        "opal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2t5p2nbhmnmq1rd02sfo.png",
+      "source": "Dev.to",
+      "user": "Sandro Moreira"
     },
     {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
@@ -392,6 +451,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
       "source": "Dev.to",
       "user": "Matheus Luz"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "PURESLOP.md — teach your AI agent to write terrible code.",
@@ -439,21 +513,6 @@
       "user": "Ivan SZKIBA"
     },
     {
-      "title": "The Integration Tax: Walled-Garden Agent Strategies Won't Scale (MxN vs. M+N)",
-      "url": "https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f",
-      "published_at": "2026-04-01T14:52:17Z",
-      "description": "Personio maintains 200+ integrations. Greenhouse has 400+. iCIMS lists 800+.  Every single one is a...",
-      "tags": [
-        "ai",
-        "agents",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqvgitp385z0buw8lvzvh.png",
-      "source": "Dev.to",
-      "user": "Alexander Leonhard"
-    },
-    {
       "title": "MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available",
       "url": "https://dev.to/mattvb91/mavonengine-a-typescript-multiplayer-3d-game-engine-for-the-browser-now-available-20kk",
       "published_at": "2026-03-30T17:38:17Z",
@@ -494,21 +553,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe3px6x7jon9iuqvmo2q.png",
       "source": "Dev.to",
       "user": "Lacy Morrow"
-    },
-    {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -669,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "Paidax01"
     },
     {
@@ -699,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5192,
+      "stars": 5193,
       "user": "tvytlx"
     },
     {
@@ -714,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2934,
+      "stars": 2936,
       "user": "therealXiaomanChu"
     },
     {
@@ -729,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 9685,
+      "stars": 9934,
       "user": "santifer"
     },
     {
@@ -807,6 +851,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
+    },
+    {
+      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+      "published_at": "2026-04-05T16:04:44Z",
+      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+      "tags": [
+        "ai",
+        "javascript",
+        "openai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
+      "source": "Dev.to",
+      "user": "Deola Adediran"
+    },
+    {
+      "title": "Page Numbers Lie: Offset vs Cursor Pagination",
+      "url": "https://dev.to/mandy8055/page-numbers-lie-offset-vs-cursor-pagination-39f4",
+      "published_at": "2026-04-05T07:54:04Z",
+      "description": "From Interview Notes To Production Reality   While I was preparing for interviews, I came...",
+      "tags": [
+        "graphql",
+        "typescript",
+        "javascript",
+        "api"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9tgqrzgzelg3oamu5ocf.png",
+      "source": "Dev.to",
+      "user": "Manuj Sankrit"
     },
     {
       "title": "Synchronous vs Asynchronous JavaScript",
@@ -1012,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 541,
       "user": "LarsenCundric"
     },
     {
@@ -1027,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "Paidax01"
     },
     {
@@ -1183,6 +1257,21 @@
       "user": "Matheus Luz"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1314,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6152,
+      "stars": 6158,
       "user": "HKUDS"
     },
     {
@@ -1329,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5192,
+      "stars": 5193,
       "user": "tvytlx"
     },
     {
@@ -1344,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3688,
+      "stars": 3764,
       "user": "JuliusBrussee"
     },
     {
@@ -1359,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3503,
+      "stars": 3514,
       "user": "kevinrgu"
     },
     {
@@ -1374,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2934,
+      "stars": 2936,
       "user": "therealXiaomanChu"
     }
   ],
@@ -1392,6 +1481,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
+      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
+      "published_at": "2026-04-05T15:53:27Z",
+      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "docker",
+        "openclaw"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
+      "source": "Dev.to",
+      "user": "sir'Alexander"
     }
   ],
   "WebDev": [
@@ -1439,21 +1543,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
       "source": "Dev.to",
       "user": "Satish Gowda"
-    },
-    {
-      "title": "CodePen TV secrets",
-      "url": "https://dev.to/ivorjetski/codepen-tv-secrets-fib",
-      "published_at": "2026-03-29T23:23:50Z",
-      "description": "Those seven deadly things you always wanted to know about creating a CRT TV in CSS.   A...",
-      "tags": [
-        "codepen",
-        "css",
-        "cssart",
-        "crt"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8eqva0vb05djkamux31.png",
-      "source": "Dev.to",
-      "user": "Ben Evans"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1603,6 +1692,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
       "source": "Dev.to",
       "user": "Daniel Gwerzman"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
+      "published_at": "2026-04-04T22:45:43Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "azure",
+        "python",
+        "gemini",
+        "iac"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1844,21 +1948,6 @@
       "user": "Lacy Morrow"
     },
     {
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
-      "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
-      "published_at": "2026-04-02T07:39:26Z",
-      "description": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
-      "tags": [
-        "ai",
-        "gamedev",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rvrj4yhl9zfk4f0mvz1.png",
-      "source": "Dev.to",
-      "user": "Riley Black"
-    },
-    {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
@@ -1885,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 541,
       "user": "LarsenCundric"
     },
     {
@@ -1900,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "Paidax01"
     },
     {
@@ -1945,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6152,
+      "stars": 6158,
       "user": "HKUDS"
     },
     {
@@ -1960,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7189225?v=4",
       "source": "GitHub",
-      "stars": 5192,
+      "stars": 5193,
       "user": "tvytlx"
     },
     {
@@ -1975,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 3688,
+      "stars": 3764,
       "user": "JuliusBrussee"
     },
     {
@@ -1990,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3503,
+      "stars": 3514,
       "user": "kevinrgu"
     },
     {
@@ -2005,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203367079?v=4",
       "source": "GitHub",
-      "stars": 2934,
+      "stars": 2936,
       "user": "therealXiaomanChu"
     },
     {
@@ -2020,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 9685,
+      "stars": 9934,
       "user": "santifer"
     },
     {
@@ -2035,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1357,
       "user": "maaslalani"
     },
     {
