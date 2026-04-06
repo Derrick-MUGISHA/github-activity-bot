@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 56,
+    "AI": 57,
     "JavaScript": 24,
     "Python": 24,
     "DevOps": 2,
@@ -15,24 +15,24 @@
     "Cloud": 9,
     "Database": 3,
     "Security": 4,
-    "Tools": 24
+    "Tools": 23
   },
   "by_language": {
     "JavaScript": 24,
     "Java": 21,
-    "Go": 19,
+    "Go": 18,
     "Python": 24,
     "Kotlin": 1,
     "Ruby": 1,
     "PHP": 1,
-    "Rust": 3
+    "Rust": 2
   },
   "by_date": {
     "2026-04-06": 9,
     "2026-04-05": 9,
     "2026-04-01": 10,
     "2026-04-03": 7,
-    "2026-04-04": 10,
+    "2026-04-04": 9,
     "2026-03-31": 9,
     "2026-04-02": 4,
     "2026-03-30": 8,
@@ -40,6 +40,7 @@
     "2026-03-27": 2,
     "2026-03-26": 1,
     "2026-03-23": 3,
+    "2026-03-17": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -79,8 +80,8 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
-    "discuss": 8,
     "opensource": 8,
+    "discuss": 7,
     "gemini": 7,
     "agents": 6,
     "tutorial": 6,
@@ -88,19 +89,19 @@
     "go": 5,
     "418challenge": 4,
     "azure": 4,
-    "productivity": 4,
     "showdev": 3,
-    "typescript": 3
+    "typescript": 3,
+    "googleadk": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.5",
-    "Java": "22.3",
-    "Go": "20.2",
-    "Python": "25.5",
+    "JavaScript": "26.1",
+    "Java": "22.8",
+    "Go": "19.6",
+    "Python": "26.1",
     "Kotlin": "1.1",
     "Ruby": "1.1",
     "PHP": "1.1",
-    "Rust": "3.2"
+    "Rust": "2.2"
   }
 }
