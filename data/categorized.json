@@ -673,21 +673,6 @@
       "user": "veesahni"
     },
     {
-      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "published_at": "2026-03-30T15:29:52Z",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 11897,
-      "user": "openai"
-    },
-    {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
@@ -716,6 +701,21 @@
       "source": "GitHub",
       "stars": 344,
       "user": "Paidax01"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "iZiTTMarvin"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2428,
       "user": "santifer"
     },
     {
@@ -1017,21 +1017,6 @@
       "user": "velmu"
     },
     {
-      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "published_at": "2026-03-30T15:29:52Z",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 11897,
-      "user": "openai"
-    },
-    {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
@@ -1062,21 +1047,6 @@
       "user": "LarsenCundric"
     },
     {
-      "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
-      "url": "https://github.com/hellowind777/hello2cc",
-      "published_at": "2026-03-30T14:21:24Z",
-      "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
-      "source": "GitHub",
-      "stars": 425,
-      "user": "hellowind777"
-    },
-    {
       "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
       "url": "https://github.com/Paidax01/math-curve-loaders",
       "published_at": "2026-04-02T03:28:01Z",
@@ -1090,6 +1060,36 @@
       "source": "GitHub",
       "stars": 344,
       "user": "Paidax01"
+    },
+    {
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "iZiTTMarvin"
+    },
+    {
+      "title": "bcefghj/claude-code-complete-guide - 图解 Claude Code 完全指南 | 哆啦A梦风格漫画 + 详细源码解析 | 12篇120节课 | 零基础友好 | 支持网页/PDF阅读",
+      "url": "https://github.com/bcefghj/claude-code-complete-guide",
+      "published_at": "2026-03-31T18:27:43Z",
+      "description": "图解 Claude Code 完全指南 | 哆啦A梦风格漫画 + 详细源码解析 | 12篇120节课 | 零基础友好 | 支持网页/PDF阅读",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "bcefghj"
     }
   ],
   "Python": [
@@ -1319,21 +1319,6 @@
       "user": "gilad"
     },
     {
-      "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
-      "url": "https://github.com/titanwings/colleague-skill",
-      "published_at": "2026-03-30T05:22:23Z",
-      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
-      "source": "GitHub",
-      "stars": 7804,
-      "user": "titanwings"
-    },
-    {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
       "url": "https://github.com/tvytlx/ai-agent-deep-dive",
       "published_at": "2026-03-31T11:27:01Z",
@@ -1360,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5030,
+      "stars": 5050,
       "user": "HKUDS"
     },
     {
@@ -1375,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2980,
+      "stars": 2994,
       "user": "kevinrgu"
     },
     {
@@ -1392,6 +1377,21 @@
       "source": "GitHub",
       "stars": 2714,
       "user": "therealXiaomanChu"
+    },
+    {
+      "title": "k2-fsa/OmniVoice - High-Quality Voice Cloning TTS for 600+ Languages",
+      "url": "https://github.com/k2-fsa/OmniVoice",
+      "published_at": "2026-03-31T12:00:45Z",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71431748?v=4",
+      "source": "GitHub",
+      "stars": 1744,
+      "user": "k2-fsa"
     }
   ],
   "DevOps": [
@@ -1860,21 +1860,6 @@
       "user": "Lacy Morrow"
     },
     {
-      "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "published_at": "2026-03-30T15:29:52Z",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 11897,
-      "user": "openai"
-    },
-    {
       "title": "6551Team/claude-code-design-guide - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
       "url": "https://github.com/6551Team/claude-code-design-guide",
       "published_at": "2026-03-31T10:50:07Z",
@@ -1905,21 +1890,6 @@
       "user": "LarsenCundric"
     },
     {
-      "title": "hellowind777/hello2cc - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
-      "url": "https://github.com/hellowind777/hello2cc",
-      "published_at": "2026-03-30T14:21:24Z",
-      "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67744274?v=4",
-      "source": "GitHub",
-      "stars": 425,
-      "user": "hellowind777"
-    },
-    {
       "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
       "url": "https://github.com/Paidax01/math-curve-loaders",
       "published_at": "2026-04-02T03:28:01Z",
@@ -1935,19 +1905,34 @@
       "user": "Paidax01"
     },
     {
-      "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
-      "url": "https://github.com/titanwings/colleague-skill",
-      "published_at": "2026-03-30T05:22:23Z",
-      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+      "title": "iZiTTMarvin/Claude-code-open-explain - 针对cc客户端源码的详细讲解，面向新手。",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain",
+      "published_at": "2026-03-31T12:42:54Z",
+      "description": "针对cc客户端源码的详细讲解，面向新手。",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85022018?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/151484362?v=4",
       "source": "GitHub",
-      "stars": 7804,
-      "user": "titanwings"
+      "stars": 312,
+      "user": "iZiTTMarvin"
+    },
+    {
+      "title": "bcefghj/claude-code-complete-guide - 图解 Claude Code 完全指南 | 哆啦A梦风格漫画 + 详细源码解析 | 12篇120节课 | 零基础友好 | 支持网页/PDF阅读",
+      "url": "https://github.com/bcefghj/claude-code-complete-guide",
+      "published_at": "2026-03-31T18:27:43Z",
+      "description": "图解 Claude Code 完全指南 | 哆啦A梦风格漫画 + 详细源码解析 | 12篇120节课 | 零基础友好 | 支持网页/PDF阅读",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117700907?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "bcefghj"
     },
     {
       "title": "tvytlx/ai-agent-deep-dive - AI Agent 源码深度研究报告",
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 5030,
+      "stars": 5050,
       "user": "HKUDS"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 2980,
+      "stars": 2994,
       "user": "kevinrgu"
     },
     {
@@ -2010,6 +1995,21 @@
       "user": "therealXiaomanChu"
     },
     {
+      "title": "k2-fsa/OmniVoice - High-Quality Voice Cloning TTS for 600+ Languages",
+      "url": "https://github.com/k2-fsa/OmniVoice",
+      "published_at": "2026-03-31T12:00:45Z",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71431748?v=4",
+      "source": "GitHub",
+      "stars": 1744,
+      "user": "k2-fsa"
+    },
+    {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "url": "https://github.com/santifer/career-ops",
       "published_at": "2026-04-04T18:21:18Z",
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2428,
       "user": "santifer"
     },
     {
