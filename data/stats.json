@@ -27,13 +27,14 @@
     "PHP": 1
   },
   "by_date": {
+    "2026-04-06": 1,
     "2026-04-05": 9,
     "2026-04-03": 7,
     "2026-04-04": 10,
     "2026-04-01": 13,
     "2026-03-31": 9,
     "2026-04-02": 6,
-    "2026-03-30": 8,
+    "2026-03-30": 7,
     "2026-03-29": 5,
     "2026-03-27": 2,
     "2026-03-26": 1,
@@ -79,18 +80,18 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
+    "discuss": 8,
     "opensource": 8,
     "agents": 7,
-    "discuss": 7,
     "gemini": 6,
     "tutorial": 5,
     "devchallenge": 5,
     "career": 5,
-    "programming": 5,
     "go": 5,
     "418challenge": 4,
     "llm": 4,
-    "webdev": 4
+    "webdev": 4,
+    "showdev": 4
   },
   "trending_topics": [],
   "language_percentages": {
