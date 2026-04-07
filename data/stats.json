@@ -28,10 +28,10 @@
     "Rust": 2
   },
   "by_date": {
-    "2026-04-06": 9,
+    "2026-04-06": 10,
     "2026-04-05": 11,
-    "2026-04-01": 12,
-    "2026-04-03": 8,
+    "2026-04-01": 11,
+    "2026-04-03": 7,
     "2026-04-04": 9,
     "2026-03-31": 4,
     "2026-04-02": 4,
@@ -41,6 +41,7 @@
     "2026-03-26": 1,
     "2026-03-23": 3,
     "2026-03-17": 1,
+    "2026-03-18": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -72,7 +73,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 23,
+    "ai": 24,
     "github": 15,
     "open-source": 15,
     "python": 14,
@@ -80,18 +81,18 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
+    "discuss": 8,
     "opensource": 8,
-    "discuss": 7,
     "gemini": 7,
-    "agents": 6,
     "tutorial": 6,
-    "devchallenge": 5,
+    "agents": 5,
     "go": 5,
-    "418challenge": 4,
+    "devchallenge": 4,
     "azure": 4,
-    "typescript": 3,
-    "showdev": 3,
-    "googleadk": 3
+    "programming": 4,
+    "career": 4,
+    "418challenge": 3,
+    "typescript": 3
   },
   "trending_topics": [],
   "language_percentages": {

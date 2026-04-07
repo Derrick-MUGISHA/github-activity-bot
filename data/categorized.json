@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
+      "published_at": "2026-04-06T13:07:11Z",
+      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
+    {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
       "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
       "published_at": "2026-04-06T16:02:04Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
-      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
-      "published_at": "2026-04-06T13:07:11Z",
-      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
     },
     {
       "title": "Deploying ADK Agents on Azure Fabric",
@@ -204,21 +204,6 @@
       "user": "William Weiner"
     },
     {
-      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
-      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
-      "published_at": "2026-04-05T04:48:25Z",
-      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
-      "tags": [
-        "ai",
-        "opensource",
-        "devtools",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
-    {
       "title": "New Site, Who Dis?",
       "url": "https://dev.to/robearlam/new-site-who-dis-592h",
       "published_at": "2026-03-30T00:00:00Z",
@@ -261,21 +246,6 @@
       "user": "Mezbah Alam"
     },
     {
-      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
-      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
-      "published_at": "2026-04-01T12:41:18Z",
-      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
-      "tags": [
-        "webdev",
-        "ai",
-        "opensource",
-        "authentication"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
-      "source": "Dev.to",
-      "user": "Lakhan Samani"
-    },
-    {
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
       "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
       "published_at": "2026-04-05T08:48:00Z",
@@ -289,6 +259,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
       "source": "Dev.to",
       "user": "Abid Ali"
+    },
+    {
+      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
+      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
+      "published_at": "2026-04-01T12:41:18Z",
+      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
+      "tags": [
+        "webdev",
+        "ai",
+        "opensource",
+        "authentication"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
+      "source": "Dev.to",
+      "user": "Lakhan Samani"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -468,21 +453,6 @@
       "user": "xbill"
     },
     {
-      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
-      "url": "https://dev.to/alonsarias/pureslopmd-54ek",
-      "published_at": "2026-04-03T00:55:59Z",
-      "description": "This is a submission for the DEV April Fools Challenge           What I Built   A CLI that drops a...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8f4h887q0rdz1g8vo9j1.png",
-      "source": "Dev.to",
-      "user": "Alonso"
-    },
-    {
       "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
       "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
       "published_at": "2026-03-23T23:19:39Z",
@@ -496,6 +466,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
       "source": "Dev.to",
       "user": "Taiwrash"
+    },
+    {
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "published_at": "2026-04-05T04:48:25Z",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "tags": [
+        "ai",
+        "opensource",
+        "devtools",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -563,6 +548,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
       "source": "Dev.to",
       "user": "Typing Turtle"
+    },
+    {
+      "title": "We Can't Code Anymore. AI Won't. What Then?",
+      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
+      "published_at": "2026-03-18T19:29:59Z",
+      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
+      "source": "Dev.to",
+      "user": "Patric Green"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "Paidax01"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3196,
+      "stars": 3520,
       "user": "safishamsi"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 1589,
+      "stars": 2383,
       "user": "milla-jovovich"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 12639,
+      "stars": 12936,
       "user": "santifer"
     },
     {
@@ -774,6 +774,20 @@
   ],
   "JavaScript": [
     {
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
+      "published_at": "2026-04-06T13:07:11Z",
+      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
+    },
+    {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
       "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
       "published_at": "2026-04-06T16:02:04Z",
@@ -787,20 +801,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
-      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
-      "published_at": "2026-04-06T13:07:11Z",
-      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 581,
       "user": "LarsenCundric"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "Paidax01"
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "badlogic"
     },
     {
@@ -1368,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6622,
+      "stars": 6685,
       "user": "HKUDS"
     },
     {
@@ -1383,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4544,
+      "stars": 4658,
       "user": "JuliusBrussee"
     },
     {
@@ -1398,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3644,
+      "stars": 3659,
       "user": "kevinrgu"
     },
     {
@@ -1413,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3196,
+      "stars": 3520,
       "user": "safishamsi"
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 1589,
+      "stars": 2383,
       "user": "milla-jovovich"
     }
   ],
@@ -1808,21 +1808,6 @@
       "user": "Abhijeet Vaikar"
     },
     {
-      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
-      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
-      "published_at": "2026-04-05T04:48:25Z",
-      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
-      "tags": [
-        "ai",
-        "opensource",
-        "devtools",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
-    {
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
       "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
       "published_at": "2026-04-05T08:48:00Z",
@@ -1868,6 +1853,21 @@
       "user": "Chris Jarvis"
     },
     {
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+      "published_at": "2026-04-05T04:48:25Z",
+      "description": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+      "tags": [
+        "ai",
+        "opensource",
+        "devtools",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
+    },
+    {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
       "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
       "published_at": "2026-03-23T18:05:03Z",
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 581,
       "user": "LarsenCundric"
     },
     {
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 388,
       "user": "Paidax01"
     },
     {
@@ -1954,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "badlogic"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6622,
+      "stars": 6685,
       "user": "HKUDS"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4544,
+      "stars": 4658,
       "user": "JuliusBrussee"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3644,
+      "stars": 3659,
       "user": "kevinrgu"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3196,
+      "stars": 3520,
       "user": "safishamsi"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 1589,
+      "stars": 2383,
       "user": "milla-jovovich"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 12639,
+      "stars": 12936,
       "user": "santifer"
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1455,
+      "stars": 1474,
       "user": "maaslalani"
     },
     {
@@ -2089,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "ironsh"
     },
     {
@@ -2108,19 +2108,19 @@
       "user": "codeany-ai"
     },
     {
-      "title": "umputun/revdiff - TUI for reviewing diffs, files, and documents with inline annotations",
-      "url": "https://github.com/umputun/revdiff",
-      "published_at": "2026-04-01T07:59:06Z",
-      "description": "TUI for reviewing diffs, files, and documents with inline annotations",
+      "title": "karpathy/KarpathyTalk - A positive developer community for builders and agents.",
+      "url": "https://github.com/karpathy/KarpathyTalk",
+      "published_at": "2026-04-06T03:29:19Z",
+      "description": "A positive developer community for builders and agents.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/535880?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "umputun"
+      "stars": 149,
+      "user": "karpathy"
     }
   ]
 }
