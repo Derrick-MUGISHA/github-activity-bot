@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 0:00 CAT)
+## 📅 Latest Updates (2026-04-08 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,11 +214,11 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
+- [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
-- [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 00:39:44 CAT_
+_Last automated update: Wed, 08 Apr 2026 01:22:38 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 00:39:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 07 Apr 2026 22:39:44 GMT</b><br/>
+  <b>Last automated update: Tue, 07 Apr 2026 23:22:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
