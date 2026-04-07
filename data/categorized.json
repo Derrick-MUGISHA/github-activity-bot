@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
+      "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
+      "published_at": "2026-04-06T16:02:04Z",
+      "description": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
+      "tags": [
+        "agents",
+        "tutorial",
+        "ai",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
       "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
       "published_at": "2026-04-06T13:07:11Z",
@@ -15,19 +30,18 @@
       "user": "Paulo Henrique"
     },
     {
-      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
-      "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
-      "published_at": "2026-04-06T16:02:04Z",
-      "description": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
+      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
+      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
+      "published_at": "2026-04-07T13:04:00Z",
+      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
       "tags": [
-        "agents",
-        "tutorial",
         "ai",
-        "typescript"
+        "agents",
+        "kubernetes"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
       "source": "Dev.to",
-      "user": "Connie Leung"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Deploying ADK Agents on Azure Fabric",
@@ -45,6 +59,20 @@
       "user": "xbill"
     },
     {
+      "title": "Agentic interaction using AppFunctions",
+      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
+      "published_at": "2026-04-06T06:49:26Z",
+      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
+      "tags": [
+        "ai",
+        "android",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
+    },
+    {
       "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
       "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
       "published_at": "2026-04-06T18:27:59Z",
@@ -58,20 +86,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
-    },
-    {
-      "title": "Agentic interaction using AppFunctions",
-      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
-      "published_at": "2026-04-06T06:49:26Z",
-      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
-      "tags": [
-        "ai",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
     },
     {
       "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
@@ -551,21 +565,6 @@
       "user": "Patric Green"
     },
     {
-      "title": "Lost Skills We Sold for Convenience Over Commitment",
-      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
-      "published_at": "2026-03-29T11:49:29Z",
-      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
-      "tags": [
-        "career",
-        "webdev",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
-      "source": "Dev.to",
-      "user": "Carlos Nah "
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -709,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 14376,
+      "stars": 15044,
       "user": "santifer"
     },
     {
@@ -724,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 400,
       "user": "Paidax01"
     },
     {
@@ -739,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 7259,
+      "stars": 9126,
       "user": "milla-jovovich"
     },
     {
@@ -754,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4519,
+      "stars": 4908,
       "user": "safishamsi"
     },
     {
@@ -769,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 177,
       "user": "xoai"
     },
     {
@@ -784,25 +783,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "codeany-ai"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
-      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
-      "published_at": "2026-04-06T13:07:11Z",
-      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
     {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
       "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
@@ -817,6 +802,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
+      "published_at": "2026-04-06T13:07:11Z",
+      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -1052,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 14376,
+      "stars": 15044,
       "user": "santifer"
     },
     {
@@ -1067,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "LarsenCundric"
     },
     {
@@ -1082,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 400,
       "user": "Paidax01"
     },
     {
@@ -1097,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 362,
       "user": "zmeyer44"
     },
     {
@@ -1384,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 7259,
+      "stars": 9126,
       "user": "milla-jovovich"
     },
     {
@@ -1399,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6888,
+      "stars": 6948,
       "user": "HKUDS"
     },
     {
@@ -1414,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5142,
+      "stars": 5300,
       "user": "JuliusBrussee"
     },
     {
@@ -1429,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4519,
+      "stars": 4908,
       "user": "safishamsi"
     },
     {
@@ -1444,11 +1443,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3712,
+      "stars": 3732,
       "user": "kevinrgu"
     }
   ],
   "DevOps": [
+    {
+      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
+      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
+      "published_at": "2026-04-07T13:04:00Z",
+      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
+      "tags": [
+        "ai",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1911,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 14376,
+      "stars": 15044,
       "user": "santifer"
     },
     {
@@ -1926,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "LarsenCundric"
     },
     {
@@ -1941,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 400,
       "user": "Paidax01"
     },
     {
@@ -1956,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 362,
       "user": "zmeyer44"
     },
     {
@@ -1986,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 7259,
+      "stars": 9126,
       "user": "milla-jovovich"
     },
     {
@@ -2001,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6888,
+      "stars": 6948,
       "user": "HKUDS"
     },
     {
@@ -2016,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5142,
+      "stars": 5300,
       "user": "JuliusBrussee"
     },
     {
@@ -2031,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4519,
+      "stars": 4908,
       "user": "safishamsi"
     },
     {
@@ -2046,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3712,
+      "stars": 3732,
       "user": "kevinrgu"
     },
     {
@@ -2061,8 +2074,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1514,
+      "stars": 1518,
       "user": "maaslalani"
+    },
+    {
+      "title": "karpathy/KarpathyTalk - A positive developer community for builders and agents.",
+      "url": "https://github.com/karpathy/KarpathyTalk",
+      "published_at": "2026-04-06T03:29:19Z",
+      "description": "A positive developer community for builders and agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "karpathy"
     },
     {
       "title": "ironsh/iron-proxy - An egress firewall for untrusted workloads.",
@@ -2080,21 +2108,6 @@
       "user": "ironsh"
     },
     {
-      "title": "karpathy/KarpathyTalk - A positive developer community for builders and agents.",
-      "url": "https://github.com/karpathy/KarpathyTalk",
-      "published_at": "2026-04-06T03:29:19Z",
-      "description": "A positive developer community for builders and agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "karpathy"
-    },
-    {
       "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
       "url": "https://github.com/xoai/sage-wiki",
       "published_at": "2026-04-04T09:19:03Z",
@@ -2106,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 177,
       "user": "xoai"
     },
     {
@@ -2121,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "codeany-ai"
     }
   ]
