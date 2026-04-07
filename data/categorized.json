@@ -16,20 +16,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
-      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
-      "published_at": "2026-04-06T13:07:11Z",
-      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
-    {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
       "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
       "published_at": "2026-04-07T13:04:00Z",
@@ -42,6 +28,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "url": "https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243",
+      "published_at": "2026-04-06T13:07:11Z",
+      "description": "This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
+      "source": "Dev.to",
+      "user": "Paulo Henrique"
     },
     {
       "title": "Deploying ADK Agents on Azure Fabric",
@@ -550,21 +550,6 @@
       "user": "Typing Turtle"
     },
     {
-      "title": "We Can't Code Anymore. AI Won't. What Then?",
-      "url": "https://dev.to/bagro/we-cant-code-anymore-ai-wont-what-then-46h3",
-      "published_at": "2026-03-18T19:29:59Z",
-      "description": "I've been in IT for 30 years, 20 of them as a developer. The more I hear people say there's no need...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
-      "source": "Dev.to",
-      "user": "Patric Green"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -708,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 15044,
+      "stars": 15750,
       "user": "santifer"
     },
     {
@@ -723,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "Paidax01"
     },
     {
@@ -738,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 9126,
+      "stars": 11145,
       "user": "milla-jovovich"
     },
     {
@@ -753,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4908,
+      "stars": 5362,
       "user": "safishamsi"
     },
     {
@@ -768,23 +753,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "xoai"
-    },
-    {
-      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
-      "url": "https://github.com/codeany-ai/codeany",
-      "published_at": "2026-04-01T18:06:21Z",
-      "description": "Open-source AI-powered terminal agent. Built in Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "codeany-ai"
     }
   ],
   "JavaScript": [
@@ -1051,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 15044,
+      "stars": 15750,
       "user": "santifer"
     },
     {
@@ -1066,23 +1036,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 591,
       "user": "LarsenCundric"
-    },
-    {
-      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
-      "url": "https://github.com/Paidax01/math-curve-loaders",
-      "published_at": "2026-04-02T03:28:01Z",
-      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "Paidax01"
     },
     {
       "title": "zmeyer44/Locker - GitHub Repository",
@@ -1096,8 +1051,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 408,
       "user": "zmeyer44"
+    },
+    {
+      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "url": "https://github.com/Paidax01/math-curve-loaders",
+      "published_at": "2026-04-02T03:28:01Z",
+      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
+      "source": "GitHub",
+      "stars": 403,
+      "user": "Paidax01"
     },
     {
       "title": "badlogic/jot - Minimal self-hosted markdown editor with inline comment threads",
@@ -1111,8 +1081,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "badlogic"
+    },
+    {
+      "title": "ProjectBarks/gopher-code - Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.",
+      "url": "https://github.com/ProjectBarks/gopher-code",
+      "published_at": "2026-04-02T06:10:04Z",
+      "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "ProjectBarks"
     }
   ],
   "Python": [
@@ -1383,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 9126,
+      "stars": 11145,
       "user": "milla-jovovich"
     },
     {
@@ -1398,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6948,
+      "stars": 7008,
       "user": "HKUDS"
     },
     {
@@ -1413,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5300,
+      "stars": 5440,
       "user": "JuliusBrussee"
     },
     {
@@ -1428,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4908,
+      "stars": 5362,
       "user": "safishamsi"
     },
     {
@@ -1443,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3732,
+      "stars": 3744,
       "user": "kevinrgu"
     }
   ],
@@ -1924,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 15044,
+      "stars": 15750,
       "user": "santifer"
     },
     {
@@ -1939,23 +1924,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 591,
       "user": "LarsenCundric"
-    },
-    {
-      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
-      "url": "https://github.com/Paidax01/math-curve-loaders",
-      "published_at": "2026-04-02T03:28:01Z",
-      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "Paidax01"
     },
     {
       "title": "zmeyer44/Locker - GitHub Repository",
@@ -1969,8 +1939,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 408,
       "user": "zmeyer44"
+    },
+    {
+      "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "url": "https://github.com/Paidax01/math-curve-loaders",
+      "published_at": "2026-04-02T03:28:01Z",
+      "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
+      "source": "GitHub",
+      "stars": 403,
+      "user": "Paidax01"
     },
     {
       "title": "badlogic/jot - Minimal self-hosted markdown editor with inline comment threads",
@@ -1984,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "badlogic"
     },
     {
@@ -1999,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 9126,
+      "stars": 11145,
       "user": "milla-jovovich"
     },
     {
@@ -2014,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6948,
+      "stars": 7008,
       "user": "HKUDS"
     },
     {
@@ -2029,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5300,
+      "stars": 5440,
       "user": "JuliusBrussee"
     },
     {
@@ -2044,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4908,
+      "stars": 5362,
       "user": "safishamsi"
     },
     {
@@ -2059,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3732,
+      "stars": 3744,
       "user": "kevinrgu"
     },
     {
@@ -2074,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1518,
+      "stars": 1528,
       "user": "maaslalani"
     },
     {
@@ -2089,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 258,
       "user": "karpathy"
     },
     {
@@ -2119,23 +2104,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "xoai"
     },
     {
-      "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
-      "url": "https://github.com/codeany-ai/codeany",
-      "published_at": "2026-04-01T18:06:21Z",
-      "description": "Open-source AI-powered terminal agent. Built in Go.",
+      "title": "ProjectBarks/gopher-code - Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.",
+      "url": "https://github.com/ProjectBarks/gopher-code",
+      "published_at": "2026-04-02T06:10:04Z",
+      "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 164,
-      "user": "codeany-ai"
+      "stars": 178,
+      "user": "ProjectBarks"
     }
   ]
 }

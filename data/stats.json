@@ -6,8 +6,8 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 56,
-    "JavaScript": 24,
+    "AI": 54,
+    "JavaScript": 25,
     "Python": 24,
     "DevOps": 3,
     "WebDev": 3,
@@ -18,7 +18,7 @@
     "Tools": 23
   },
   "by_language": {
-    "JavaScript": 24,
+    "JavaScript": 25,
     "Python": 24,
     "Go": 19,
     "Java": 21,
@@ -29,12 +29,12 @@
   },
   "by_date": {
     "2026-04-06": 10,
-    "2026-04-07": 1,
+    "2026-04-07": 2,
     "2026-04-05": 10,
-    "2026-04-01": 11,
+    "2026-04-01": 10,
     "2026-04-03": 7,
     "2026-04-04": 10,
-    "2026-04-02": 3,
+    "2026-04-02": 4,
     "2026-03-30": 8,
     "2026-03-29": 3,
     "2026-03-31": 3,
@@ -43,7 +43,6 @@
     "2026-03-23": 3,
     "2026-03-28": 1,
     "2026-03-17": 1,
-    "2026-03-18": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -75,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 24,
     "github": 15,
     "open-source": 15,
     "python": 14,
@@ -83,28 +82,28 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
-    "discuss": 8,
     "opensource": 8,
+    "discuss": 7,
     "gemini": 7,
     "agents": 6,
     "tutorial": 6,
     "go": 5,
     "devchallenge": 4,
     "azure": 4,
-    "programming": 4,
-    "career": 4,
     "typescript": 3,
-    "418challenge": 3
+    "418challenge": 3,
+    "googleadk": 3,
+    "programming": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.8",
-    "Python": "25.8",
-    "Go": "20.4",
-    "Java": "22.6",
+    "JavaScript": "26.6",
+    "Python": "25.5",
+    "Go": "20.2",
+    "Java": "22.3",
     "Kotlin": "1.1",
     "Ruby": "1.1",
     "PHP": "1.1",
-    "Rust": "2.2"
+    "Rust": "2.1"
   }
 }
