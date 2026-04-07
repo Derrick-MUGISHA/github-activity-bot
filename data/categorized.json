@@ -697,6 +697,21 @@
       "user": "veesahni"
     },
     {
+      "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "url": "https://github.com/santifer/career-ops",
+      "published_at": "2026-04-04T18:21:18Z",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
+      "source": "GitHub",
+      "stars": 13532,
+      "user": "santifer"
+    },
+    {
       "title": "Paidax01/math-curve-loaders - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.",
       "url": "https://github.com/Paidax01/math-curve-loaders",
       "published_at": "2026-04-02T03:28:01Z",
@@ -708,23 +723,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 395,
       "user": "Paidax01"
-    },
-    {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "url": "https://github.com/safishamsi/graphify",
-      "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
-      "source": "GitHub",
-      "stars": 3772,
-      "user": "safishamsi"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -738,23 +738,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 3673,
+      "stars": 4887,
       "user": "milla-jovovich"
     },
     {
-      "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "url": "https://github.com/santifer/career-ops",
-      "published_at": "2026-04-04T18:21:18Z",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "url": "https://github.com/safishamsi/graphify",
+      "published_at": "2026-04-03T15:49:07Z",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 13176,
-      "user": "santifer"
+      "stars": 4002,
+      "user": "safishamsi"
     },
     {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
@@ -768,8 +768,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "codeany-ai"
+    },
+    {
+      "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "url": "https://github.com/xoai/sage-wiki",
+      "published_at": "2026-04-04T09:19:03Z",
+      "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "xoai"
     }
   ],
   "JavaScript": [
@@ -1025,6 +1040,21 @@
       "user": "velmu"
     },
     {
+      "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "url": "https://github.com/santifer/career-ops",
+      "published_at": "2026-04-04T18:21:18Z",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
+      "source": "GitHub",
+      "stars": 13532,
+      "user": "santifer"
+    },
+    {
       "title": "LarsenCundric/port-whisperer - A beautiful CLI tool to see what's running on your ports",
       "url": "https://github.com/LarsenCundric/port-whisperer",
       "published_at": "2026-04-03T03:57:20Z",
@@ -1036,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "LarsenCundric"
     },
     {
@@ -1051,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 395,
       "user": "Paidax01"
     },
     {
@@ -1083,21 +1113,6 @@
       "source": "GitHub",
       "stars": 236,
       "user": "badlogic"
-    },
-    {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 225,
-      "user": "zacdcook"
     }
   ],
   "Python": [
@@ -1368,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6751,
+      "stars": 6801,
       "user": "HKUDS"
     },
     {
@@ -1383,8 +1398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4764,
+      "stars": 4917,
       "user": "JuliusBrussee"
+    },
+    {
+      "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
+      "url": "https://github.com/milla-jovovich/mempalace",
+      "published_at": "2026-04-05T01:12:07Z",
+      "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
+      "source": "GitHub",
+      "stars": 4887,
+      "user": "milla-jovovich"
     },
     {
       "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
@@ -1398,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3772,
+      "stars": 4002,
       "user": "safishamsi"
     },
     {
@@ -1413,23 +1443,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3671,
+      "stars": 3692,
       "user": "kevinrgu"
-    },
-    {
-      "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "url": "https://github.com/milla-jovovich/mempalace",
-      "published_at": "2026-04-05T01:12:07Z",
-      "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
-      "source": "GitHub",
-      "stars": 3673,
-      "user": "milla-jovovich"
     }
   ],
   "DevOps": [
@@ -1898,6 +1913,21 @@
       "user": "Lacy Morrow"
     },
     {
+      "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "url": "https://github.com/santifer/career-ops",
+      "published_at": "2026-04-04T18:21:18Z",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
+      "source": "GitHub",
+      "stars": 13532,
+      "user": "santifer"
+    },
+    {
       "title": "LarsenCundric/port-whisperer - A beautiful CLI tool to see what's running on your ports",
       "url": "https://github.com/LarsenCundric/port-whisperer",
       "published_at": "2026-04-03T03:57:20Z",
@@ -1909,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "LarsenCundric"
     },
     {
@@ -1924,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 395,
       "user": "Paidax01"
     },
     {
@@ -1958,21 +1988,6 @@
       "user": "badlogic"
     },
     {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 225,
-      "user": "zacdcook"
-    },
-    {
       "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
       "url": "https://github.com/HKUDS/OpenHarness",
       "published_at": "2026-04-01T15:37:13Z",
@@ -1984,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6751,
+      "stars": 6801,
       "user": "HKUDS"
     },
     {
@@ -1999,8 +2014,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4764,
+      "stars": 4917,
       "user": "JuliusBrussee"
+    },
+    {
+      "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
+      "url": "https://github.com/milla-jovovich/mempalace",
+      "published_at": "2026-04-05T01:12:07Z",
+      "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
+      "source": "GitHub",
+      "stars": 4887,
+      "user": "milla-jovovich"
     },
     {
       "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
@@ -2014,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3772,
+      "stars": 4002,
       "user": "safishamsi"
     },
     {
@@ -2029,38 +2059,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3671,
+      "stars": 3692,
       "user": "kevinrgu"
-    },
-    {
-      "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "url": "https://github.com/milla-jovovich/mempalace",
-      "published_at": "2026-04-05T01:12:07Z",
-      "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
-      "source": "GitHub",
-      "stars": 3673,
-      "user": "milla-jovovich"
-    },
-    {
-      "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "url": "https://github.com/santifer/career-ops",
-      "published_at": "2026-04-04T18:21:18Z",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
-      "source": "GitHub",
-      "stars": 13176,
-      "user": "santifer"
     },
     {
       "title": "maaslalani/sheets - Terminal based spreadsheet tool",
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1478,
+      "stars": 1494,
       "user": "maaslalani"
     },
     {
@@ -2104,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 177,
       "user": "karpathy"
     },
     {
@@ -2119,8 +2119,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272702216?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "codeany-ai"
+    },
+    {
+      "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "url": "https://github.com/xoai/sage-wiki",
+      "published_at": "2026-04-04T09:19:03Z",
+      "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "xoai"
     }
   ]
 }
