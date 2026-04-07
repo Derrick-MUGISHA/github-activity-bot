@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-07 17:00 CAT)
+## 📅 Latest Updates (2026-04-07 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,8 +204,8 @@ npm run test
 - [Deploying ADK Agents on Azure Fabric](https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
-- [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
 - [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
+- [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5) _[Dev.to]_
 - [MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express](https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 
-_Last automated update: Tue, 07 Apr 2026 17:53:24 CAT_
+_Last automated update: Tue, 07 Apr 2026 18:53:49 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 07 Apr 2026 17:53:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 07 Apr 2026 15:53:24 GMT</b><br/>
+  <b>Last automated update: Tue, 07 Apr 2026 16:53:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
