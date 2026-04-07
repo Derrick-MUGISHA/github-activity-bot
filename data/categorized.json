@@ -232,21 +232,6 @@
       "user": "tomas maiorino"
     },
     {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
-    },
-    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -708,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 13532,
+      "stars": 13899,
       "user": "santifer"
     },
     {
@@ -738,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 4887,
+      "stars": 5972,
       "user": "milla-jovovich"
     },
     {
@@ -753,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4002,
+      "stars": 4244,
       "user": "safishamsi"
     },
     {
@@ -783,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 164,
       "user": "xoai"
     }
   ],
@@ -1051,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 13532,
+      "stars": 13899,
       "user": "santifer"
     },
     {
@@ -1066,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 586,
       "user": "LarsenCundric"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "zmeyer44"
     },
     {
@@ -1111,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "badlogic"
     }
   ],
@@ -1205,21 +1190,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
     },
     {
       "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
@@ -1383,23 +1353,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6801,
+      "stars": 6844,
       "user": "HKUDS"
-    },
-    {
-      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "published_at": "2026-04-04T10:03:00Z",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
-      "source": "GitHub",
-      "stars": 4917,
-      "user": "JuliusBrussee"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1413,8 +1368,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 4887,
+      "stars": 5972,
       "user": "milla-jovovich"
+    },
+    {
+      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "published_at": "2026-04-04T10:03:00Z",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
+      "source": "GitHub",
+      "stars": 5017,
+      "user": "JuliusBrussee"
     },
     {
       "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
@@ -1428,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4002,
+      "stars": 4244,
       "user": "safishamsi"
     },
     {
@@ -1443,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3692,
+      "stars": 3698,
       "user": "kevinrgu"
     }
   ],
@@ -1823,21 +1793,6 @@
       "user": "Abhijeet Vaikar"
     },
     {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1924,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 13532,
+      "stars": 13899,
       "user": "santifer"
     },
     {
@@ -1939,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 586,
       "user": "LarsenCundric"
     },
     {
@@ -1969,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "zmeyer44"
     },
     {
@@ -1984,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "badlogic"
     },
     {
@@ -1999,23 +1954,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6801,
+      "stars": 6844,
       "user": "HKUDS"
-    },
-    {
-      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "published_at": "2026-04-04T10:03:00Z",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
-      "source": "GitHub",
-      "stars": 4917,
-      "user": "JuliusBrussee"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -2029,8 +1969,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 4887,
+      "stars": 5972,
       "user": "milla-jovovich"
+    },
+    {
+      "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "published_at": "2026-04-04T10:03:00Z",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
+      "source": "GitHub",
+      "stars": 5017,
+      "user": "JuliusBrussee"
     },
     {
       "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
@@ -2044,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4002,
+      "stars": 4244,
       "user": "safishamsi"
     },
     {
@@ -2059,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3692,
+      "stars": 3698,
       "user": "kevinrgu"
     },
     {
@@ -2074,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1494,
+      "stars": 1505,
       "user": "maaslalani"
     },
     {
@@ -2104,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 188,
       "user": "karpathy"
     },
     {
@@ -2134,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 164,
       "user": "xoai"
     }
   ]
