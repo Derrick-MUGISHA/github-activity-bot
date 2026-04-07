@@ -232,20 +232,6 @@
       "user": "tomas maiorino"
     },
     {
-      "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
-      "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
-      "published_at": "2026-03-29T09:59:19Z",
-      "description": "Why Rails still matters for startups and AI-assisted coding: less chaos, more momentum.",
-      "tags": [
-        "rails",
-        "startup",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
-      "source": "Dev.to",
-      "user": "Mezbah Alam"
-    },
-    {
       "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
       "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
       "published_at": "2026-04-05T08:48:00Z",
@@ -259,6 +245,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
       "source": "Dev.to",
       "user": "Abid Ali"
+    },
+    {
+      "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
+      "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
+      "published_at": "2026-03-29T09:59:19Z",
+      "description": "Why Rails still matters for startups and AI-assisted coding: less chaos, more momentum.",
+      "tags": [
+        "rails",
+        "startup",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
+      "source": "Dev.to",
+      "user": "Mezbah Alam"
     },
     {
       "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 390,
       "user": "Paidax01"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3520,
+      "stars": 3772,
       "user": "safishamsi"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 2383,
+      "stars": 3673,
       "user": "milla-jovovich"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 12936,
+      "stars": 13176,
       "user": "santifer"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 582,
       "user": "LarsenCundric"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 390,
       "user": "Paidax01"
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "zacdcook"
     }
   ],
@@ -1368,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6685,
+      "stars": 6751,
       "user": "HKUDS"
     },
     {
@@ -1383,23 +1383,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4658,
+      "stars": 4764,
       "user": "JuliusBrussee"
-    },
-    {
-      "title": "kevinrgu/autoagent - autonomous harness engineering",
-      "url": "https://github.com/kevinrgu/autoagent",
-      "published_at": "2026-04-02T20:44:58Z",
-      "description": "autonomous harness engineering",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
-      "source": "GitHub",
-      "stars": 3659,
-      "user": "kevinrgu"
     },
     {
       "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
@@ -1413,8 +1398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3520,
+      "stars": 3772,
       "user": "safishamsi"
+    },
+    {
+      "title": "kevinrgu/autoagent - autonomous harness engineering",
+      "url": "https://github.com/kevinrgu/autoagent",
+      "published_at": "2026-04-02T20:44:58Z",
+      "description": "autonomous harness engineering",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
+      "source": "GitHub",
+      "stars": 3671,
+      "user": "kevinrgu"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1428,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 2383,
+      "stars": 3673,
       "user": "milla-jovovich"
     }
   ],
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 582,
       "user": "LarsenCundric"
     },
     {
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 390,
       "user": "Paidax01"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "zacdcook"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6685,
+      "stars": 6751,
       "user": "HKUDS"
     },
     {
@@ -1999,23 +1999,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4658,
+      "stars": 4764,
       "user": "JuliusBrussee"
-    },
-    {
-      "title": "kevinrgu/autoagent - autonomous harness engineering",
-      "url": "https://github.com/kevinrgu/autoagent",
-      "published_at": "2026-04-02T20:44:58Z",
-      "description": "autonomous harness engineering",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
-      "source": "GitHub",
-      "stars": 3659,
-      "user": "kevinrgu"
     },
     {
       "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
@@ -2029,8 +2014,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 3520,
+      "stars": 3772,
       "user": "safishamsi"
+    },
+    {
+      "title": "kevinrgu/autoagent - autonomous harness engineering",
+      "url": "https://github.com/kevinrgu/autoagent",
+      "published_at": "2026-04-02T20:44:58Z",
+      "description": "autonomous harness engineering",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
+      "source": "GitHub",
+      "stars": 3671,
+      "user": "kevinrgu"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 2383,
+      "stars": 3673,
       "user": "milla-jovovich"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 12936,
+      "stars": 13176,
       "user": "santifer"
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1474,
+      "stars": 1478,
       "user": "maaslalani"
     },
     {
@@ -2089,8 +2089,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "ironsh"
+    },
+    {
+      "title": "karpathy/KarpathyTalk - A positive developer community for builders and agents.",
+      "url": "https://github.com/karpathy/KarpathyTalk",
+      "published_at": "2026-04-06T03:29:19Z",
+      "description": "A positive developer community for builders and agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "karpathy"
     },
     {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
@@ -2106,21 +2121,6 @@
       "source": "GitHub",
       "stars": 162,
       "user": "codeany-ai"
-    },
-    {
-      "title": "karpathy/KarpathyTalk - A positive developer community for builders and agents.",
-      "url": "https://github.com/karpathy/KarpathyTalk",
-      "published_at": "2026-04-06T03:29:19Z",
-      "description": "A positive developer community for builders and agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "karpathy"
     }
   ]
 }
