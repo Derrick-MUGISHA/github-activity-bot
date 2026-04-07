@@ -148,20 +148,6 @@
       "user": "xbill"
     },
     {
-      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
-      "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
-      "published_at": "2026-03-31T13:58:35Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "database",
-        "news",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
       "published_at": "2026-04-04T22:47:18Z",
@@ -483,6 +469,21 @@
       "user": "Ivan SZKIBA"
     },
     {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "MavonEngine: A TypeScript Multiplayer 3D Game Engine for the Browser Now Available",
       "url": "https://dev.to/mattvb91/mavonengine-a-typescript-multiplayer-3d-game-engine-for-the-browser-now-available-20kk",
       "published_at": "2026-03-30T17:38:17Z",
@@ -548,6 +549,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom5vjv2o1x3ae3xibywy.png",
       "source": "Dev.to",
       "user": "Patric Green"
+    },
+    {
+      "title": "Lost Skills We Sold for Convenience Over Commitment",
+      "url": "https://dev.to/ra9/lost-skills-we-sold-for-convenience-over-commitment-4le6",
+      "published_at": "2026-03-29T11:49:29Z",
+      "description": "In an era where AI can write your code and your essays, is struggle still a virtue? We have traded...",
+      "tags": [
+        "career",
+        "webdev",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp357mptg97897y9qd1ra.png",
+      "source": "Dev.to",
+      "user": "Carlos Nah "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -693,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 13899,
+      "stars": 14376,
       "user": "santifer"
     },
     {
@@ -708,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "Paidax01"
     },
     {
@@ -723,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 5972,
+      "stars": 7259,
       "user": "milla-jovovich"
     },
     {
@@ -738,8 +754,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4244,
+      "stars": 4519,
       "user": "safishamsi"
+    },
+    {
+      "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "url": "https://github.com/xoai/sage-wiki",
+      "published_at": "2026-04-04T09:19:03Z",
+      "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "xoai"
     },
     {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
@@ -755,21 +786,6 @@
       "source": "GitHub",
       "stars": 163,
       "user": "codeany-ai"
-    },
-    {
-      "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
-      "url": "https://github.com/xoai/sage-wiki",
-      "published_at": "2026-04-04T09:19:03Z",
-      "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "xoai"
     }
   ],
   "JavaScript": [
@@ -848,21 +864,6 @@
       "user": "Manuj Sankrit"
     },
     {
-      "title": "Synchronous vs Asynchronous JavaScript",
-      "url": "https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2",
-      "published_at": "2026-04-02T10:38:36Z",
-      "description": "Introduction   Hey there, fellow coders!  Imagine this: You’re at your favorite café,...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "backend",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6327lc76gslhys2tzrho.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
-    {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
       "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
       "published_at": "2026-03-23T05:48:13Z",
@@ -903,6 +904,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttb7eoim92awhrpor7ze.png",
       "source": "Dev.to",
       "user": "Rudson Kiyoshi Souza Carvalho"
+    },
+    {
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+      "published_at": "2026-03-28T19:39:32Z",
+      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "donttrythisathome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
+      "source": "Dev.to",
+      "user": "Pascal Thormeier"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1036,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 13899,
+      "stars": 14376,
       "user": "santifer"
     },
     {
@@ -1051,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "LarsenCundric"
     },
     {
@@ -1066,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "Paidax01"
     },
     {
@@ -1081,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 304,
       "user": "zmeyer44"
     },
     {
@@ -1222,6 +1238,21 @@
       "user": "xbill"
     },
     {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1342,21 +1373,6 @@
       "user": "gilad"
     },
     {
-      "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
-      "url": "https://github.com/HKUDS/OpenHarness",
-      "published_at": "2026-04-01T15:37:13Z",
-      "description": "\"OpenHarness: Open Agent Harness\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 6844,
-      "user": "HKUDS"
-    },
-    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -1368,8 +1384,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 5972,
+      "stars": 7259,
       "user": "milla-jovovich"
+    },
+    {
+      "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "published_at": "2026-04-01T15:37:13Z",
+      "description": "\"OpenHarness: Open Agent Harness\"",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 6888,
+      "user": "HKUDS"
     },
     {
       "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
@@ -1383,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5017,
+      "stars": 5142,
       "user": "JuliusBrussee"
     },
     {
@@ -1398,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4244,
+      "stars": 4519,
       "user": "safishamsi"
     },
     {
@@ -1413,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3698,
+      "stars": 3712,
       "user": "kevinrgu"
     }
   ],
@@ -1463,21 +1494,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png",
       "source": "Dev.to",
       "user": "Piyush Gupta"
-    },
-    {
-      "title": "Synchronous vs Asynchronous JavaScript",
-      "url": "https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2",
-      "published_at": "2026-04-02T10:38:36Z",
-      "description": "Introduction   Hey there, fellow coders!  Imagine this: You’re at your favorite café,...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "backend",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6327lc76gslhys2tzrho.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
     },
     {
       "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
@@ -1676,18 +1692,19 @@
       "user": "Piyush Gupta"
     },
     {
-      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
-      "url": "https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0",
-      "published_at": "2026-03-31T13:58:35Z",
-      "description": "A post by Ben Halpern",
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "url": "https://dev.to/thormeier/how-to-use-timberborn-yes-the-beaver-city-building-game-as-a-database-489c",
+      "published_at": "2026-03-28T19:39:32Z",
+      "description": "So, one of my favourite games lately, Timberborn, has released its 1.0 version and finally left early...",
       "tags": [
-        "database",
-        "news",
-        "performance"
+        "webdev",
+        "programming",
+        "javascript",
+        "donttrythisathome"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqdi1d794vfd8gm0ha5k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac7h09s1z2863xlsyraf.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Pascal Thormeier"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1853,6 +1870,21 @@
       "user": "Ivan SZKIBA"
     },
     {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "AI terminal tools in 2026: Warp, Lacy Shell, and the rest",
       "url": "https://dev.to/lacymorrow/2026-ai-terminal-tools-comparison-warp-vs-lacy-shell-vs-traditional-shells-5a8f",
       "published_at": "2026-03-30T16:19:41Z",
@@ -1879,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 13899,
+      "stars": 14376,
       "user": "santifer"
     },
     {
@@ -1894,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "LarsenCundric"
     },
     {
@@ -1909,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "Paidax01"
     },
     {
@@ -1924,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 304,
       "user": "zmeyer44"
     },
     {
@@ -1943,21 +1975,6 @@
       "user": "badlogic"
     },
     {
-      "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
-      "url": "https://github.com/HKUDS/OpenHarness",
-      "published_at": "2026-04-01T15:37:13Z",
-      "description": "\"OpenHarness: Open Agent Harness\"",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
-      "source": "GitHub",
-      "stars": 6844,
-      "user": "HKUDS"
-    },
-    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -1969,8 +1986,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 5972,
+      "stars": 7259,
       "user": "milla-jovovich"
+    },
+    {
+      "title": "HKUDS/OpenHarness - \"OpenHarness: Open Agent Harness\"",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "published_at": "2026-04-01T15:37:13Z",
+      "description": "\"OpenHarness: Open Agent Harness\"",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "source": "GitHub",
+      "stars": 6888,
+      "user": "HKUDS"
     },
     {
       "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
@@ -1984,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5017,
+      "stars": 5142,
       "user": "JuliusBrussee"
     },
     {
@@ -1999,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 4244,
+      "stars": 4519,
       "user": "safishamsi"
     },
     {
@@ -2014,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3698,
+      "stars": 3712,
       "user": "kevinrgu"
     },
     {
@@ -2029,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1514,
       "user": "maaslalani"
     },
     {
@@ -2059,8 +2091,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 204,
       "user": "karpathy"
+    },
+    {
+      "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "url": "https://github.com/xoai/sage-wiki",
+      "published_at": "2026-04-04T09:19:03Z",
+      "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "xoai"
     },
     {
       "title": "codeany-ai/codeany - Open-source AI-powered terminal agent. Built in Go.",
@@ -2076,21 +2123,6 @@
       "source": "GitHub",
       "stars": 163,
       "user": "codeany-ai"
-    },
-    {
-      "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
-      "url": "https://github.com/xoai/sage-wiki",
-      "published_at": "2026-04-04T09:19:03Z",
-      "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "xoai"
     }
   ]
 }
