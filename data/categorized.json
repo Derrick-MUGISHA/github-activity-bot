@@ -60,6 +60,20 @@
       "user": "Jessica Temporal"
     },
     {
+      "title": "Agentic interaction using AppFunctions",
+      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
+      "published_at": "2026-04-06T06:49:26Z",
+      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
+      "tags": [
+        "ai",
+        "android",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
+    },
+    {
       "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
       "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
       "published_at": "2026-04-06T17:18:50Z",
@@ -73,20 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Agentic interaction using AppFunctions",
-      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
-      "published_at": "2026-04-06T06:49:26Z",
-      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
-      "tags": [
-        "ai",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
     },
     {
       "title": "MCP Development with Python, and Azure Kubernates Service (AKS)",
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "Paidax01"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 2418,
+      "stars": 2795,
       "user": "safishamsi"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1367,
       "user": "sooryathejas"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 11835,
+      "stars": 12302,
       "user": "santifer"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 572,
       "user": "LarsenCundric"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "Paidax01"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "zmeyer44"
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "badlogic"
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 220,
       "user": "zacdcook"
     }
   ],
@@ -1368,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6450,
+      "stars": 6528,
       "user": "HKUDS"
     },
     {
@@ -1383,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4314,
+      "stars": 4438,
       "user": "JuliusBrussee"
     },
     {
@@ -1398,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3607,
+      "stars": 3626,
       "user": "kevinrgu"
     },
     {
@@ -1413,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 2418,
+      "stars": 2795,
       "user": "safishamsi"
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1367,
       "user": "sooryathejas"
     }
   ],
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 572,
       "user": "LarsenCundric"
     },
     {
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "Paidax01"
     },
     {
@@ -1939,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "zmeyer44"
     },
     {
@@ -1954,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/514052?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "badlogic"
     },
     {
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 220,
       "user": "zacdcook"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 6450,
+      "stars": 6528,
       "user": "HKUDS"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 4314,
+      "stars": 4438,
       "user": "JuliusBrussee"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3607,
+      "stars": 3626,
       "user": "kevinrgu"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 2418,
+      "stars": 2795,
       "user": "safishamsi"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1367,
       "user": "sooryathejas"
     },
     {
@@ -2059,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 11835,
+      "stars": 12302,
       "user": "santifer"
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1442,
       "user": "maaslalani"
     },
     {
@@ -2089,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232963428?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 235,
       "user": "ironsh"
     },
     {
@@ -2119,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/535880?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "umputun"
     }
   ]
