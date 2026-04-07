@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-14-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-14-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-07 8:00 CAT)
+## 📅 Latest Updates (2026-04-07 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,19 +144,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg" width="200" alt="Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]" />
+    <a href="https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png" width="200" alt="Move over, Vibe-Coding: I built an AI editor for STRESS-CODING" />
       <br/>
-      <b>Observability at Scale: Mastering ADK Callbacks fo...</b>
+      <b>Move over, Vibe-Coding: I built an AI editor for S...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png" width="200" alt="Move over, Vibe-Coding: I built an AI editor for STRESS-CODING" />
+    <a href="https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg" width="200" alt="Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]" />
       <br/>
-      <b>Move over, Vibe-Coding: I built an AI editor for S...</b>
+      <b>Observability at Scale: Mastering ADK Callbacks fo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
-- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
+- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
 - [Deploying ADK Agents on Azure Fabric](https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf) _[Dev.to]_
 - [How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Tue, 07 Apr 2026 08:51:47 CAT_
+_Last automated update: Tue, 07 Apr 2026 10:10:39 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 07 Apr 2026 08:51:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 07 Apr 2026 06:51:47 GMT</b><br/>
+  <b>Last automated update: Tue, 07 Apr 2026 08:10:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
