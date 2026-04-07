@@ -15,6 +15,21 @@
       "user": "Paulo Henrique"
     },
     {
+      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
+      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
+      "published_at": "2026-04-07T19:57:35Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "eks",
+        "python",
+        "gemini",
+        "mcps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
       "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
       "published_at": "2026-04-07T13:04:00Z",
@@ -540,16 +555,6 @@
       "user": "Lacy Morrow"
     },
     {
-      "title": "FE/BE - Unite Them!",
-      "url": "https://dev.to/danieluhl/febe-unite-them-3kh3",
-      "published_at": "2026-03-17T14:02:20Z",
-      "description": "tl;dr;   Teams should agree upon and understand the source of truth domain, working together and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9wdkuhlmbjm6qnxf459c.png",
-      "source": "Dev.to",
-      "user": "Typing Turtle"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -693,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 17119,
+      "stars": 17388,
       "user": "santifer"
     },
     {
@@ -708,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "Paidax01"
     },
     {
@@ -723,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 14533,
+      "stars": 15085,
       "user": "milla-jovovich"
     },
     {
@@ -738,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 6089,
+      "stars": 6238,
       "user": "safishamsi"
     },
     {
@@ -1021,7 +1026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 17119,
+      "stars": 17388,
       "user": "santifer"
     },
     {
@@ -1036,7 +1041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "LarsenCundric"
     },
     {
@@ -1051,7 +1056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 475,
       "user": "zmeyer44"
     },
     {
@@ -1066,7 +1071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "Paidax01"
     },
     {
@@ -1096,11 +1101,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 257,
       "user": "ProjectBarks"
     }
   ],
   "Python": [
+    {
+      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
+      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
+      "published_at": "2026-04-07T19:57:35Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "eks",
+        "python",
+        "gemini",
+        "mcps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Deploying ADK Agents on Azure Fabric",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
@@ -1368,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 14533,
+      "stars": 15085,
       "user": "milla-jovovich"
     },
     {
@@ -1383,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 7051,
+      "stars": 7058,
       "user": "HKUDS"
     },
     {
@@ -1398,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 6089,
+      "stars": 6238,
       "user": "safishamsi"
     },
     {
@@ -1413,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5712,
+      "stars": 5763,
       "user": "JuliusBrussee"
     },
     {
@@ -1428,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3768,
+      "stars": 3775,
       "user": "kevinrgu"
     }
   ],
@@ -1538,6 +1558,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
+      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
+      "published_at": "2026-04-07T19:57:35Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "eks",
+        "python",
+        "gemini",
+        "mcps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Deploying ADK Agents on Azure Fabric",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
@@ -1909,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 17119,
+      "stars": 17388,
       "user": "santifer"
     },
     {
@@ -1924,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "LarsenCundric"
     },
     {
@@ -1939,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54515037?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 475,
       "user": "zmeyer44"
     },
     {
@@ -1954,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "Paidax01"
     },
     {
@@ -1984,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 14533,
+      "stars": 15085,
       "user": "milla-jovovich"
     },
     {
@@ -1999,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "source": "GitHub",
-      "stars": 7051,
+      "stars": 7058,
       "user": "HKUDS"
     },
     {
@@ -2014,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 6089,
+      "stars": 6238,
       "user": "safishamsi"
     },
     {
@@ -2029,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5712,
+      "stars": 5763,
       "user": "JuliusBrussee"
     },
     {
@@ -2044,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3768,
+      "stars": 3775,
       "user": "kevinrgu"
     },
     {
@@ -2059,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42545625?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1552,
       "user": "maaslalani"
     },
     {
@@ -2074,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 357,
       "user": "karpathy"
     },
     {
@@ -2089,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 257,
       "user": "ProjectBarks"
     },
     {
