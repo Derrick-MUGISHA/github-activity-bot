@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-07 7:00 CAT)
+## 📅 Latest Updates (2026-04-07 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,10 +205,10 @@ npm run test
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 - [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
-- [MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express](https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2on5) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-3lh9) _[Dev.to]_
+- [MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express](https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei) _[Dev.to]_
 - [MCP Development with Python, and Azure Kubernates Service (AKS)](https://dev.to/gde/mcp-development-with-python-and-azure-kubernates-service-aks-2in7) _[Dev.to]_
 - [AI subscriptions are subsidized. Here's what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f) _[Dev.to]_
 - [Building a Production-Ready Serverless App on Google Cloud (Part 2: The Data Contract)](https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-2-the-data-contract-3hpa) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
 
-_Last automated update: Tue, 07 Apr 2026 07:27:14 CAT_
+_Last automated update: Tue, 07 Apr 2026 08:51:47 CAT_
 
 
 
@@ -226,7 +226,18 @@ _Last automated update: Tue, 07 Apr 2026 07:27:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: What is the event loop and how does it work?
+
+**Difficulty**: Hard | **Topics**: async, runtime
+
+<details>
+<summary>💡 Hint</summary>
+
+Call stack, callback queue, microtask queue
+
+</details>
+
+### 2. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -237,25 +248,14 @@ Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 07 Apr 2026 05:27:14 GMT</b><br/>
+  <b>Last automated update: Tue, 07 Apr 2026 06:51:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
