@@ -45,20 +45,6 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
-      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
-      "published_at": "2026-04-07T13:04:00Z",
-      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
-      "tags": [
-        "ai",
-        "agents",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Agentic interaction using AppFunctions",
       "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
       "published_at": "2026-04-06T06:49:26Z",
@@ -71,6 +57,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
+    },
+    {
+      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
+      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
+      "published_at": "2026-04-07T13:04:00Z",
+      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
+      "tags": [
+        "ai",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
@@ -115,21 +115,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2h7io4u4vli0pjkybat4.webp",
       "source": "Dev.to",
       "user": "Dzhuneyt"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
-      "published_at": "2026-04-03T19:36:29Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "azureaca"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -551,6 +536,21 @@
       "user": "Carlos Nah "
     },
     {
+      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
+      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+      "published_at": "2026-04-01T16:19:39Z",
+      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
+      "tags": [
+        "python",
+        "accounting",
+        "opensource",
+        "fintech"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
+      "source": "Dev.to",
+      "user": "billkhiz"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 18079,
+      "stars": 19057,
       "user": "santifer"
     },
     {
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "Paidax01"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 16470,
+      "stars": 18541,
       "user": "milla-jovovich"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 6706,
+      "stars": 7567,
       "user": "safishamsi"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1747,
       "user": "sooryathejas"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "xoai"
     }
   ],
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 18079,
+      "stars": 19057,
       "user": "santifer"
     },
     {
@@ -1052,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 615,
       "user": "LarsenCundric"
     },
     {
@@ -1067,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "Paidax01"
     },
     {
@@ -1082,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "zacdcook"
     },
     {
@@ -1097,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 212,
       "user": "S-Trespassing"
     },
     {
@@ -1112,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 230,
       "user": "ProjectBarks"
     }
   ],
@@ -1144,21 +1144,6 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
-      "published_at": "2026-04-03T19:36:29Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "azureaca"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1236,6 +1221,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
       "source": "Dev.to",
       "user": "Abid Ali"
+    },
+    {
+      "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
+      "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+      "published_at": "2026-04-01T16:19:39Z",
+      "description": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
+      "tags": [
+        "python",
+        "accounting",
+        "opensource",
+        "fintech"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oazzxppk9mbvywrqpuv.png",
+      "source": "Dev.to",
+      "user": "billkhiz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 16470,
+      "stars": 18541,
       "user": "milla-jovovich"
     },
     {
@@ -1384,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 6706,
+      "stars": 7567,
       "user": "safishamsi"
     },
     {
@@ -1399,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5890,
+      "stars": 6093,
       "user": "JuliusBrussee"
     },
     {
@@ -1414,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3797,
+      "stars": 3813,
       "user": "kevinrgu"
     },
     {
@@ -1429,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1747,
       "user": "sooryathejas"
     }
   ],
@@ -1566,21 +1566,6 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACA, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aca-and-gemini-cli-57a1",
-      "published_at": "2026-04-03T19:36:29Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "azureaca"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhd0l9fg6v4dgibu1592.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1895,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 18079,
+      "stars": 19057,
       "user": "santifer"
     },
     {
@@ -1910,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 615,
       "user": "LarsenCundric"
     },
     {
@@ -1925,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 417,
       "user": "Paidax01"
     },
     {
@@ -1940,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "zacdcook"
     },
     {
@@ -1955,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 212,
       "user": "S-Trespassing"
     },
     {
@@ -1970,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 16470,
+      "stars": 18541,
       "user": "milla-jovovich"
     },
     {
@@ -1985,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 6706,
+      "stars": 7567,
       "user": "safishamsi"
     },
     {
@@ -2000,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 5890,
+      "stars": 6093,
       "user": "JuliusBrussee"
     },
     {
@@ -2015,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3797,
+      "stars": 3813,
       "user": "kevinrgu"
     },
     {
@@ -2030,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1747,
       "user": "sooryathejas"
     },
     {
@@ -2045,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 442,
       "user": "karpathy"
     },
     {
@@ -2060,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 230,
       "user": "ProjectBarks"
     },
     {
@@ -2075,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "xoai"
     },
     {
@@ -2090,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "boratanrikulu"
     },
     {
@@ -2105,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 122,
       "user": "pion"
     }
   ]
