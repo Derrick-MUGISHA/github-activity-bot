@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-08-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
-**Cloud**: 🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦 10 (9.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![opensource](https://img.shields.io/badge/opensource-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![azure](https://img.shields.io/badge/azure-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![azure](https://img.shields.io/badge/azure-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 20:00 CAT)
+## 📅 Latest Updates (2026-04-08 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4exmqkb1jvmrk4aau4co.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif" width="200" alt="Forem (Dev.to) is slow, so I del...optimized it." />
@@ -157,6 +148,15 @@ npm run test
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksd3kzsgiw1wlwayu4hw.png" width="200" alt="AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler" />
       <br/>
       <b>AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, N...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4exmqkb1jvmrk4aau4co.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,9 +197,9 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 - [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln) _[Dev.to]_
 - [AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler](https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 - [Clawshier OpenClaw Skill](https://dev.to/fdocr/clawshier-openclaw-skill-l1n) _[Dev.to]_
 - [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc) _[Dev.to]_
 - [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540) _[Dev.to]_
@@ -207,7 +207,6 @@ npm run test
 - [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
 - [Implementing a RAG system: Run](https://dev.to/gde/implementing-a-rag-system-run-148g) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
-- [My AI Agent Keeps Forgetting Everything](https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k) _[Dev.to]_
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications](https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
+- [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 20:08:13 CAT_
+_Last automated update: Wed, 08 Apr 2026 21:39:42 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 20:08:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 18:08:13 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 19:39:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
