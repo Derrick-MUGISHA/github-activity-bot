@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Agentic interaction using AppFunctions",
+      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
+      "published_at": "2026-04-06T06:49:26Z",
+      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
+      "tags": [
+        "ai",
+        "android",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
+    },
+    {
       "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
       "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
       "published_at": "2026-04-07T19:57:35Z",
@@ -14,35 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Fabric",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
-      "published_at": "2026-04-06T13:07:27Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "gemini",
-        "python",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Agentic interaction using AppFunctions",
-      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
-      "published_at": "2026-04-06T06:49:26Z",
-      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
-      "tags": [
-        "ai",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
     },
     {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
@@ -72,21 +57,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
-      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
-      "published_at": "2026-04-06T18:27:59Z",
-      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
-      "tags": [
-        "ai",
-        "claude",
-        "productivity",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
     },
     {
       "title": "AI subscriptions are subsidized. Here's what happens when that stops.",
@@ -289,6 +259,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
+    },
+    {
+      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
+      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
+      "published_at": "2026-04-06T18:27:59Z",
+      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
+      "tags": [
+        "ai",
+        "claude",
+        "productivity",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
+      "source": "Dev.to",
+      "user": "Jessica Temporal"
     },
     {
       "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
@@ -694,7 +679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 21311,
+      "stars": 21616,
       "user": "santifer"
     },
     {
@@ -709,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "Paidax01"
     },
     {
@@ -724,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "NyxTides"
     },
     {
@@ -739,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 22811,
+      "stars": 23249,
       "user": "milla-jovovich"
     },
     {
@@ -754,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 9540,
+      "stars": 9925,
       "user": "safishamsi"
     },
     {
@@ -769,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1803,
+      "stars": 1807,
       "user": "sooryathejas"
     },
     {
@@ -784,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "xoai"
     }
   ],
@@ -1052,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 21311,
+      "stars": 21616,
       "user": "santifer"
     },
     {
@@ -1082,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "Paidax01"
     },
     {
@@ -1097,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "zacdcook"
     },
     {
@@ -1112,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "NyxTides"
     },
     {
@@ -1127,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 337,
       "user": "ProjectBarks"
     }
   ],
@@ -1144,21 +1129,6 @@
         "mcps"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Fabric",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
-      "published_at": "2026-04-06T13:07:27Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "gemini",
-        "python",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1384,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 22811,
+      "stars": 23249,
       "user": "milla-jovovich"
     },
     {
@@ -1399,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 9540,
+      "stars": 9925,
       "user": "safishamsi"
     },
     {
@@ -1414,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 6754,
+      "stars": 6826,
       "user": "JuliusBrussee"
     },
     {
@@ -1429,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3850,
+      "stars": 3855,
       "user": "kevinrgu"
     },
     {
@@ -1444,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1803,
+      "stars": 1807,
       "user": "sooryathejas"
     }
   ],
@@ -1566,21 +1536,6 @@
         "mcps"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Fabric",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
-      "published_at": "2026-04-06T13:07:27Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "gemini",
-        "python",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1773,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "NyxTides"
     }
   ],
@@ -1792,21 +1747,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
-    },
-    {
-      "title": "You don't need to deal with code to understand Playwright",
-      "url": "https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk",
-      "published_at": "2026-04-04T04:43:02Z",
-      "description": "Trywright is a local control panel that gives you a live Playwright session in your browser — no code, no IDE, no project setup.",
-      "tags": [
-        "playwright",
-        "testing",
-        "webdev",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftrywright.dev%2Fscreenshots%2Fhero.png",
-      "source": "Dev.to",
-      "user": "Abhijeet Vaikar"
     },
     {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
@@ -1925,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 21311,
+      "stars": 21616,
       "user": "santifer"
     },
     {
@@ -1955,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "Paidax01"
     },
     {
@@ -1970,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "zacdcook"
     },
     {
@@ -1985,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "NyxTides"
     },
     {
@@ -2000,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 22811,
+      "stars": 23249,
       "user": "milla-jovovich"
     },
     {
@@ -2015,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 9540,
+      "stars": 9925,
       "user": "safishamsi"
     },
     {
@@ -2030,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 6754,
+      "stars": 6826,
       "user": "JuliusBrussee"
     },
     {
@@ -2045,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3850,
+      "stars": 3855,
       "user": "kevinrgu"
     },
     {
@@ -2060,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1803,
+      "stars": 1807,
       "user": "sooryathejas"
     },
     {
@@ -2075,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 633,
       "user": "karpathy"
     },
     {
@@ -2090,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 337,
       "user": "ProjectBarks"
     },
     {
@@ -2105,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "xoai"
     },
     {
@@ -2120,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "boratanrikulu"
     },
     {
@@ -2135,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "pion"
     }
   ]
