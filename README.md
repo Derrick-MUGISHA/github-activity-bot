@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-08-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (53.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
 
-**Cloud**: 🟦🟦🟦 7 (6.7%)
+**Cloud**: 🟦🟦 6 (5.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 5 (4.9%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5 (27.5%)
-Python          ████████████████████████████ 25.3 (25.3%)
-Java            █████████████████████████ 23.1 (23.1%)
-Go              ████████████████████ 18.7 (18.7%)
+JavaScript      ██████████████████████████████ 28.1 (28.1%)
+Python          ██████████████████████████ 24.7 (24.7%)
+Java            █████████████████████████ 23.6 (23.6%)
+Go              ███████████████████ 18.0 (18.0%)
 Rust            ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
@@ -74,9 +74,9 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 25
-    "Python" : 23
+    "Python" : 22
     "Java" : 21
-    "Go" : 17
+    "Go" : 16
     "Rust" : 2
     "Kotlin" : 1
     "Ruby" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![career](https://img.shields.io/badge/career-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 13:00 CAT)
+## 📅 Latest Updates (2026-04-08 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -143,26 +143,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png" width="200" alt="MCP Development with Gemini CLI, and Amazon AWS EKS" />
-      <br/>
-      <b>MCP Development with Gemini CLI, and Amazon AWS EK...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png" width="200" alt="Deploying ADK Agents on Azure Fabric" />
-      <br/>
-      <b>Deploying ADK Agents on Azure Fabric</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png" width="200" alt="Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)" />
@@ -181,11 +161,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png" width="200" alt="MCP Development with Gemini CLI, and Amazon AWS EKS" />
+      <br/>
+      <b>MCP Development with Gemini CLI, and Amazon AWS EK...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png" width="200" alt="Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots" />
       <br/>
       <b>Agent Factory Recap: Supercharging Agents on GKE w...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi4t3ch1ql6fivzf981w8.png" width="200" alt="Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!" />
+      <br/>
+      <b>Join our April Fools Challenge for a chance at TEA...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +198,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
-- [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm) _[Dev.to]_
-- [Deploying ADK Agents on Azure Fabric](https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
+- [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm) _[Dev.to]_
 - [Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots](https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
-- [How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5) _[Dev.to]_
+- [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
 - [AI subscriptions are subsidized. Here's what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f) _[Dev.to]_
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
-- [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
-- [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 - [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228) _[Dev.to]_
 - [New Site, Who Dis?](https://dev.to/robearlam/new-site-who-dis-592h) _[Dev.to]_
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
 - [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
+- [Why Rails Still Feels Like a Startup’s Best Friend in the AI Era](https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn) _[Dev.to]_
+- [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a) _[Dev.to]_
+- [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 13:38:41 CAT_
+_Last automated update: Wed, 08 Apr 2026 14:42:16 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 13:38:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 11:38:41 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 12:42:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
