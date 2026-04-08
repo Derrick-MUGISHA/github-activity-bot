@@ -89,21 +89,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
-      "published_at": "2026-04-07T16:53:56Z",
-      "description": "As a consultant, I've learned one universal truth, The speed of your response determines the quality...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "automation",
-        "crm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwk62lnff5tfr7eexgzv.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "My AI Agent Keeps Forgetting Everything",
       "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
       "published_at": "2026-04-07T15:52:28Z",
@@ -161,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
+      "published_at": "2026-04-07T16:53:56Z",
+      "description": "As a consultant, I've learned one universal truth, The speed of your response determines the quality...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "automation",
+        "crm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwk62lnff5tfr7eexgzv.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 22126,
+      "stars": 22629,
       "user": "santifer"
     },
     {
@@ -761,23 +761,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "Paidax01"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "NyxTides"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 23949,
+      "stars": 24673,
       "user": "milla-jovovich"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 10541,
+      "stars": 11119,
       "user": "safishamsi"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3583,
+      "stars": 3689,
       "user": "alchaincyf"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 243,
       "user": "xoai"
     }
   ],
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 22126,
+      "stars": 22629,
       "user": "santifer"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 634,
       "user": "LarsenCundric"
     },
     {
@@ -1092,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "Paidax01"
     },
     {
@@ -1111,19 +1096,19 @@
       "user": "zacdcook"
     },
     {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 240,
-      "user": "NyxTides"
+      "stars": 242,
+      "user": "S-Trespassing"
     },
     {
       "title": "ProjectBarks/gopher-code - Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.",
@@ -1137,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 367,
       "user": "ProjectBarks"
     }
   ],
@@ -1364,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 23949,
+      "stars": 24673,
       "user": "milla-jovovich"
     },
     {
@@ -1379,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 10541,
+      "stars": 11119,
       "user": "safishamsi"
     },
     {
@@ -1394,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 6948,
+      "stars": 7066,
       "user": "JuliusBrussee"
     },
     {
@@ -1409,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3864,
+      "stars": 3870,
       "user": "kevinrgu"
     },
     {
@@ -1424,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3583,
+      "stars": 3689,
       "user": "alchaincyf"
     }
   ],
@@ -1815,21 +1800,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "NyxTides"
     }
   ],
   "Tools": [
@@ -1950,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 22126,
+      "stars": 22629,
       "user": "santifer"
     },
     {
@@ -1965,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 634,
       "user": "LarsenCundric"
     },
     {
@@ -1980,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "Paidax01"
     },
     {
@@ -1999,19 +1969,19 @@
       "user": "zacdcook"
     },
     {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 240,
-      "user": "NyxTides"
+      "stars": 242,
+      "user": "S-Trespassing"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -2025,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 23949,
+      "stars": 24673,
       "user": "milla-jovovich"
     },
     {
@@ -2040,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 10541,
+      "stars": 11119,
       "user": "safishamsi"
     },
     {
@@ -2055,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 6948,
+      "stars": 7066,
       "user": "JuliusBrussee"
     },
     {
@@ -2070,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3864,
+      "stars": 3870,
       "user": "kevinrgu"
     },
     {
@@ -2085,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3583,
+      "stars": 3689,
       "user": "alchaincyf"
     },
     {
@@ -2100,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 680,
       "user": "karpathy"
     },
     {
@@ -2115,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 367,
       "user": "ProjectBarks"
     },
     {
@@ -2130,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 243,
       "user": "xoai"
     },
     {
@@ -2160,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 143,
       "user": "pion"
     }
   ]
