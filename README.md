@@ -36,7 +36,7 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -218,7 +218,7 @@ npm run test
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 23:08:37 CAT_
+_Last automated update: Wed, 08 Apr 2026 23:59:05 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 23:08:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 21:08:37 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 21:59:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
