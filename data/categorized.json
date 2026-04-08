@@ -379,21 +379,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
-      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
-      "published_at": "2026-03-23T23:19:39Z",
-      "description": "I want to tell you something that did not make it into the README.  I built...",
-      "tags": [
-        "ai",
-        "llm",
-        "monitoring",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
-      "source": "Dev.to",
-      "user": "Taiwrash"
-    },
-    {
       "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
       "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
       "published_at": "2026-04-05T04:48:25Z",
@@ -407,6 +392,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3ed8al0m6exhzjxuub7.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
+      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
+      "published_at": "2026-03-23T23:19:39Z",
+      "description": "I want to tell you something that did not make it into the README.  I built...",
+      "tags": [
+        "ai",
+        "llm",
+        "monitoring",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
+      "source": "Dev.to",
+      "user": "Taiwrash"
     },
     {
       "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 19524,
+      "stars": 19923,
       "user": "santifer"
     },
     {
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "Paidax01"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 19530,
+      "stars": 20335,
       "user": "milla-jovovich"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 8035,
+      "stars": 8387,
       "user": "safishamsi"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1775,
       "user": "sooryathejas"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 204,
       "user": "xoai"
     }
   ],
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 19524,
+      "stars": 19923,
       "user": "santifer"
     },
     {
@@ -1052,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "LarsenCundric"
     },
     {
@@ -1067,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "Paidax01"
     },
     {
@@ -1082,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "zacdcook"
     },
     {
@@ -1097,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 225,
       "user": "S-Trespassing"
     },
     {
@@ -1112,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 264,
       "user": "ProjectBarks"
     }
   ],
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 19530,
+      "stars": 20335,
       "user": "milla-jovovich"
     },
     {
@@ -1384,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 8035,
+      "stars": 8387,
       "user": "safishamsi"
     },
     {
@@ -1399,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 6215,
+      "stars": 6341,
       "user": "JuliusBrussee"
     },
     {
@@ -1414,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3822,
+      "stars": 3831,
       "user": "kevinrgu"
     },
     {
@@ -1429,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1775,
       "user": "sooryathejas"
     }
   ],
@@ -1880,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 19524,
+      "stars": 19923,
       "user": "santifer"
     },
     {
@@ -1895,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "LarsenCundric"
     },
     {
@@ -1910,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "Paidax01"
     },
     {
@@ -1925,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "zacdcook"
     },
     {
@@ -1940,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 225,
       "user": "S-Trespassing"
     },
     {
@@ -1955,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 19530,
+      "stars": 20335,
       "user": "milla-jovovich"
     },
     {
@@ -1970,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 8035,
+      "stars": 8387,
       "user": "safishamsi"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 6215,
+      "stars": 6341,
       "user": "JuliusBrussee"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3822,
+      "stars": 3831,
       "user": "kevinrgu"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196668312?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1775,
       "user": "sooryathejas"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 513,
       "user": "karpathy"
     },
     {
@@ -2045,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 264,
       "user": "ProjectBarks"
     },
     {
@@ -2060,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 204,
       "user": "xoai"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "boratanrikulu"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "pion"
     }
   ]
