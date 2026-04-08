@@ -134,20 +134,6 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
-      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
-      "published_at": "2026-04-07T13:04:00Z",
-      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
-      "tags": [
-        "ai",
-        "agents",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
       "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
       "published_at": "2026-04-07T16:53:56Z",
@@ -335,21 +321,6 @@
       "user": "PracticeOverflow"
     },
     {
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
-      "published_at": "2026-04-04T10:42:37Z",
-      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
-      "tags": [
-        "gemma",
-        "cloudrun",
-        "cloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "The part of the job AI keeps missing",
       "url": "https://dev.to/agonxgashi/the-part-of-the-job-ai-keeps-missing-2422",
       "published_at": "2026-04-07T11:41:34Z",
@@ -393,6 +364,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmziy028k3psjx8s9k2wp.png",
       "source": "Dev.to",
       "user": "Ivelin (Ivo)"
+    },
+    {
+      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
+      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
+      "published_at": "2026-04-07T13:04:00Z",
+      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
+      "tags": [
+        "ai",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
@@ -603,6 +588,21 @@
       "user": "Ivan SZKIBA"
     },
     {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 22629,
+      "stars": 22952,
       "user": "santifer"
     },
     {
@@ -761,8 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "Paidax01"
+    },
+    {
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "NyxTides"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 24673,
+      "stars": 25096,
       "user": "milla-jovovich"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 11119,
+      "stars": 11401,
       "user": "safishamsi"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3689,
+      "stars": 3722,
       "user": "alchaincyf"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 250,
       "user": "xoai"
     }
   ],
@@ -1047,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 22629,
+      "stars": 22952,
       "user": "santifer"
     },
     {
@@ -1077,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "Paidax01"
     },
     {
@@ -1092,23 +1107,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "zacdcook"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 242,
-      "user": "S-Trespassing"
+      "stars": 244,
+      "user": "NyxTides"
     },
     {
       "title": "ProjectBarks/gopher-code - Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.",
@@ -1122,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 362,
       "user": "ProjectBarks"
     }
   ],
@@ -1216,6 +1231,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1349,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 24673,
+      "stars": 25096,
       "user": "milla-jovovich"
     },
     {
@@ -1364,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 11119,
+      "stars": 11401,
       "user": "safishamsi"
     },
     {
@@ -1379,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7140,
       "user": "JuliusBrussee"
     },
     {
@@ -1394,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3870,
+      "stars": 3874,
       "user": "kevinrgu"
     },
     {
@@ -1409,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3689,
+      "stars": 3722,
       "user": "alchaincyf"
     }
   ],
@@ -1445,20 +1475,6 @@
       "user": "Benny Code"
     },
     {
-      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
-      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
-      "published_at": "2026-04-07T13:04:00Z",
-      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
-      "tags": [
-        "ai",
-        "agents",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
       "published_at": "2026-03-29T04:13:52Z",
@@ -1471,6 +1487,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
+      "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
+      "published_at": "2026-04-07T13:04:00Z",
+      "description": "In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...",
+      "tags": [
+        "ai",
+        "agents",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "CI/CD for Licensed Software You Don't Host",
@@ -1639,21 +1669,6 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "url": "https://dev.to/gde/deploy-gemma-4-on-cloud-run-pay-only-when-you-actually-use-it-9ln",
-      "published_at": "2026-04-04T10:42:37Z",
-      "description": "Last year, Google flew me to Paris for the announcement of Gemma 3. It was an exciting event. The...",
-      "tags": [
-        "gemma",
-        "cloudrun",
-        "cloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpaa9lx5j1mf8lbazntjf.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Why I'm building a free, open-source AWS emulator",
       "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
       "published_at": "2026-04-06T22:27:35Z",
@@ -1800,6 +1815,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "NyxTides"
     }
   ],
   "Tools": [
@@ -1909,6 +1939,21 @@
       "user": "Ivan SZKIBA"
     },
     {
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+      "published_at": "2026-04-05T08:48:00Z",
+      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+      "tags": [
+        "ai",
+        "tutorial",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
+      "source": "Dev.to",
+      "user": "Abid Ali"
+    },
+    {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "url": "https://github.com/santifer/career-ops",
       "published_at": "2026-04-04T18:21:18Z",
@@ -1920,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 22629,
+      "stars": 22952,
       "user": "santifer"
     },
     {
@@ -1950,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95689916?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "Paidax01"
     },
     {
@@ -1965,23 +2010,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "zacdcook"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 242,
-      "user": "S-Trespassing"
+      "stars": 244,
+      "user": "NyxTides"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1995,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 24673,
+      "stars": 25096,
       "user": "milla-jovovich"
     },
     {
@@ -2010,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 11119,
+      "stars": 11401,
       "user": "safishamsi"
     },
     {
@@ -2025,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7140,
       "user": "JuliusBrussee"
     },
     {
@@ -2040,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3870,
+      "stars": 3874,
       "user": "kevinrgu"
     },
     {
@@ -2055,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3689,
+      "stars": 3722,
       "user": "alchaincyf"
     },
     {
@@ -2070,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 702,
       "user": "karpathy"
     },
     {
@@ -2085,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 362,
       "user": "ProjectBarks"
     },
     {
@@ -2100,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 250,
       "user": "xoai"
     },
     {
@@ -2130,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "pion"
     }
   ]

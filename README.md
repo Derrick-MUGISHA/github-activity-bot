@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦 10 (9.5%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **WebDev**: 🟦 3 (2.9%)
 
@@ -61,9 +61,9 @@
 
 ```
 JavaScript      ██████████████████████████████ 25.6 (25.6%)
-Python          █████████████████████████████ 24.4 (24.4%)
+Python          ██████████████████████████████ 25.6 (25.6%)
 Java            ██████████████████████████ 22.1 (22.1%)
-Go              ██████████████████████████ 22.1 (22.1%)
+Go              ████████████████████████ 20.9 (20.9%)
 Rust            ███ 2.3 (2.3%)
 Kotlin          █ 1.2 (1.2%)
 Ruby            █ 1.2 (1.2%)
@@ -74,9 +74,9 @@ PHP             █ 1.2 (1.2%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 22
-    "Python" : 21
+    "Python" : 22
     "Java" : 19
-    "Go" : 19
+    "Go" : 18
     "Rust" : 2
     "Kotlin" : 1
     "Ruby" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-9-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![azure](https://img.shields.io/badge/azure-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![opensource](https://img.shields.io/badge/opensource-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![azure](https://img.shields.io/badge/azure-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 17:00 CAT)
+## 📅 Latest Updates (2026-04-08 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,15 +210,15 @@ npm run test
 - [My AI Agent Keeps Forgetting Everything](https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k) _[Dev.to]_
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm) _[Dev.to]_
-- [Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots](https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications](https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 - [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
 - [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
 - [AI subscriptions are subsidized. Here's what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f) _[Dev.to]_
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
+- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 17:54:12 CAT_
+_Last automated update: Wed, 08 Apr 2026 18:57:39 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 17:54:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 15:54:12 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 16:57:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
