@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 22:00 CAT)
+## 📅 Latest Updates (2026-04-08 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,19 +135,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif" width="200" alt="Forem (Dev.to) is slow, so I del...optimized it." />
+    <a href="https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png" width="200" alt="Converting old home movie DVDs into a private streaming site" />
       <br/>
-      <b>Forem (Dev.to) is slow, so I del...optimized it.</b>
+      <b>Converting old home movie DVDs into a private stre...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png" width="200" alt="Converting old home movie DVDs into a private streaming site" />
+    <a href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif" width="200" alt="Forem (Dev.to) is slow, so I del...optimized it." />
       <br/>
-      <b>Converting old home movie DVDs into a private stre...</b>
+      <b>Forem (Dev.to) is slow, so I del...optimized it.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,12 +197,13 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln) _[Dev.to]_
 - [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb) _[Dev.to]_
+- [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln) _[Dev.to]_
 - [Who's Al and Where's Webfont Legibility?](https://dev.to/ingosteinke/whos-al-and-wheres-webfont-legibility-4h7n) _[Dev.to]_
 - [AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler](https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0) _[Dev.to]_
 - [Clawshier OpenClaw Skill](https://dev.to/fdocr/clawshier-openclaw-skill-l1n) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
+- [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
 - [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [Agentic interaction using AppFunctions](https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k) _[Dev.to]_
@@ -213,12 +214,11 @@ npm run test
 - [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm) _[Dev.to]_
 - [Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications](https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6) _[Dev.to]_
 - [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
-- [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
 - [AI subscriptions are subsidized. Here's what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f) _[Dev.to]_
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 22:23:48 CAT_
+_Last automated update: Wed, 08 Apr 2026 23:08:37 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 22:23:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 20:23:48 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 21:08:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
