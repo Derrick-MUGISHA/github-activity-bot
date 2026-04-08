@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
@@ -38,7 +38,7 @@
 
 **Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 12:00 CAT)
+## 📅 Latest Updates (2026-04-08 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
 - [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 12:35:38 CAT_
+_Last automated update: Wed, 08 Apr 2026 13:38:41 CAT_
 
 
 
@@ -226,18 +226,29 @@ _Last automated update: Wed, 08 Apr 2026 12:35:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. JavaScript: Explain event delegation and why it's useful
 
 **Difficulty**: Medium | **Topics**: events, DOM
 
@@ -245,17 +256,6 @@ Diffing algorithm, reconciliation, efficiency
 <summary>💡 Hint</summary>
 
 Event bubbling, single listener for multiple elements
-
-</details>
-
-### 3. Python: Explain decorators in Python with an example
-
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
-
-<details>
-<summary>💡 Hint</summary>
-
-Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 10:35:38 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 11:38:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
