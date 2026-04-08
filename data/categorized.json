@@ -16,6 +16,21 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
+      "published_at": "2026-04-08T19:46:46Z",
+      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
+      "tags": [
+        "tutorial",
+        "cloudflare",
+        "dvd",
+        "ripping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
+    },
+    {
       "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
       "url": "https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0",
       "published_at": "2026-04-08T09:04:25Z",
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 23587,
+      "stars": 23733,
       "user": "santifer"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 25949,
+      "stars": 26135,
       "user": "milla-jovovich"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 11971,
+      "stars": 12094,
       "user": "safishamsi"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3762,
+      "stars": 3767,
       "user": "alchaincyf"
     },
     {
@@ -827,21 +842,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets",
-      "url": "https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc",
-      "published_at": "2026-04-08T05:38:35Z",
-      "description": "Abstract   Google Sheets recently introduced the SHEET and SHEETS functions. Because they...",
-      "tags": [
-        "googleappsscript",
-        "googleworkspace",
-        "googlesheets",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3mi1o7fdzipphtymx03.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
       "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
       "published_at": "2026-04-07T20:35:44Z",
@@ -855,6 +855,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
+    },
+    {
+      "title": "Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets",
+      "url": "https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc",
+      "published_at": "2026-04-08T05:38:35Z",
+      "description": "Abstract   Google Sheets recently introduced the SHEET and SHEETS functions. Because they...",
+      "tags": [
+        "googleappsscript",
+        "googleworkspace",
+        "googlesheets",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3mi1o7fdzipphtymx03.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
@@ -1047,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 23587,
+      "stars": 23733,
       "user": "santifer"
     },
     {
@@ -1062,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "LarsenCundric"
     },
     {
@@ -1092,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "zacdcook"
     },
     {
@@ -1122,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 371,
       "user": "ProjectBarks"
     }
   ],
@@ -1364,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 25949,
+      "stars": 26135,
       "user": "milla-jovovich"
     },
     {
@@ -1379,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 11971,
+      "stars": 12094,
       "user": "safishamsi"
     },
     {
@@ -1394,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 7272,
+      "stars": 7309,
       "user": "JuliusBrussee"
     },
     {
@@ -1409,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3884,
+      "stars": 3886,
       "user": "kevinrgu"
     },
     {
@@ -1424,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3762,
+      "stars": 3767,
       "user": "alchaincyf"
     }
   ],
@@ -1564,6 +1579,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
+      "published_at": "2026-04-08T19:46:46Z",
+      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
+      "tags": [
+        "tutorial",
+        "cloudflare",
+        "dvd",
+        "ripping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
+    },
     {
       "title": "Clawshier OpenClaw Skill",
       "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
@@ -1935,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 23587,
+      "stars": 23733,
       "user": "santifer"
     },
     {
@@ -1950,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "LarsenCundric"
     },
     {
@@ -1980,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "zacdcook"
     },
     {
@@ -2010,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 25949,
+      "stars": 26135,
       "user": "milla-jovovich"
     },
     {
@@ -2025,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 11971,
+      "stars": 12094,
       "user": "safishamsi"
     },
     {
@@ -2040,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 7272,
+      "stars": 7309,
       "user": "JuliusBrussee"
     },
     {
@@ -2055,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91836685?v=4",
       "source": "GitHub",
-      "stars": 3884,
+      "stars": 3886,
       "user": "kevinrgu"
     },
     {
@@ -2070,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3762,
+      "stars": 3767,
       "user": "alchaincyf"
     },
     {
@@ -2085,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/241138?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 751,
       "user": "karpathy"
     },
     {
@@ -2100,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4194371?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 371,
       "user": "ProjectBarks"
     },
     {
