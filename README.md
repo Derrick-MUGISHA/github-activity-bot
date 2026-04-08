@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-08 5:00 CAT)
+## 📅 Latest Updates (2026-04-08 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,15 +144,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png" width="200" alt="Move over, Vibe-Coding: I built an AI editor for STRESS-CODING" />
-      <br/>
-      <b>Move over, Vibe-Coding: I built an AI editor for S...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6os61zdhth7fjm1wrql.png" width="200" alt="Sharing CodePen 2.0 demos on DEV" />
       <br/>
@@ -161,8 +152,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png" width="200" alt="MCP Development with Gemini CLI, and Amazon AWS EKS" />
@@ -172,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png" width="200" alt="Deploying ADK Agents on Azure Fabric" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg" width="200" alt="Agentic interaction using AppFunctions" />
+      <br/>
+      <b>Agentic interaction using AppFunctions</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,7 +198,6 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
-- [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Sharing CodePen 2.0 demos on DEV](https://dev.to/alvaromontoro/sharing-codepen-20-demos-on-dev-273) _[Dev.to]_
 - [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm) _[Dev.to]_
 - [Deploying ADK Agents on Azure Fabric](https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf) _[Dev.to]_
@@ -209,6 +208,7 @@ npm run test
 - [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5) _[Dev.to]_
 - [How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5) _[Dev.to]_
 - [AI subscriptions are subsidized. Here's what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f) _[Dev.to]_
+- [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [You don't need to deal with code to understand Playwright](https://dev.to/abhivaikar/you-dont-need-to-deal-with-code-to-understand-playwright-39nk) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Using AI Agents to Debug Distributed Systems in Under a Minute](https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20) _[Dev.to]_
 - [How to start self-hosting with Coolify 4 on a VPS](https://dev.to/serpapi/how-to-start-self-hosting-with-coolify-4-on-a-vps-44ob) _[Dev.to]_
 
-_Last automated update: Wed, 08 Apr 2026 05:31:32 CAT_
+_Last automated update: Wed, 08 Apr 2026 07:29:58 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 08 Apr 2026 05:31:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Execution timing, event loop phases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 03:31:32 GMT</b><br/>
+  <b>Last automated update: Wed, 08 Apr 2026 05:29:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
