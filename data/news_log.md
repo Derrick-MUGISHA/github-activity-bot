@@ -1230050,3 +1230050,805 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-09 15:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (56 articles)
+
+#### 1. [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb)
+📅 Wed, 08 Apr 2026 19:46:46 GMT
+👤 By: Peter Kim Frank | 📌 Source: Dev.to
+
+![Converting old home movie DVDs into a private streaming site](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png)
+
+A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....
+
+🏷️ Tags: `tutorial`, `cloudflare`, `dvd`, `ripping`
+
+---
+
+#### 2. [Clawshier OpenClaw Skill](https://dev.to/fdocr/clawshier-openclaw-skill-l1n)
+📅 Wed, 08 Apr 2026 12:45:00 GMT
+👤 By: Fernando | 📌 Source: Dev.to
+
+![Clawshier OpenClaw Skill](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png)
+
+I've been meaning to take a stab at this idea of automating a process to take a picture of any...
+
+🏷️ Tags: `ai`, `openclaw`, `opensource`, `openai`
+
+---
+
+#### 3. [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln)
+📅 Tue, 07 Apr 2026 20:06:35 GMT
+👤 By: FrancisTRᴅᴇᴠ (っ◔◡◔)っ | 📌 Source: Dev.to
+
+![Forem (Dev.to) is slow, so I del...optimized it.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif)
+
+This is a submission for the DEV April Fools Challenge   Disclaimer: This post is very very very very...
+
+🏷️ Tags: `devchallenge`, `418challenge`, `showdev`, `discuss`
+
+---
+
+#### 4. [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
+📅 Wed, 08 Apr 2026 04:15:15 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Running Agentic AI at Scale on Google Kubernetes Engine](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png)
+
+The AI industry crossed an inflection point. We stopped asking "can the model answer my question?"...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 5. [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j)
+📅 Tue, 07 Apr 2026 13:16:14 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob6hrb6cleaearnb995b.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `azure`, `ak`, `gemini`
+
+---
+
+#### 6. [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
+📅 Tue, 07 Apr 2026 20:35:44 GMT
+👤 By: Benny Code | 📌 Source: Dev.to
+
+![How I Save $1,463 per Month Using Claude Code as My Server Admin](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png)
+
+Heroku was great when I started. Push code, get a URL, done. Platform-as-a-Service won the last...
+
+🏷️ Tags: `devops`, `selfhosting`, `typescript`, `ai`
+
+---
+
+#### 7. [AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler](https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0)
+📅 Wed, 08 Apr 2026 09:04:25 GMT
+👤 By: Asmae  | 📌 Source: Dev.to
+
+![AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksd3kzsgiw1wlwayu4hw.png)
+
+This is a submission for the DEV April Fools Challenge           🍵 AS’ HTCPCP AI Butler™ 🤖   ...    ...
+
+🏷️ Tags: `devchallenge`, `418challenge`, `showdev`
+
+---
+
+#### 8. [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf)
+📅 Sat, 04 Apr 2026 22:47:18 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure Kubernates Service (AKS)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `azure`, `python`, `googleadk`, `gemini`
+
+---
+
+#### 9. [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme)
+📅 Sat, 04 Apr 2026 01:49:02 GMT
+👤 By: Rob Simpson | 📌 Source: Dev.to
+
+![I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png)
+
+After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.
+
+🏷️ Tags: `typescript`, `eslint`, `ai`, `llm`
+
+---
+
+#### 10. [Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228)
+📅 Thu, 02 Apr 2026 19:58:01 GMT
+👤 By: William Weiner | 📌 Source: Dev.to
+
+![Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg)
+
+A few days ago I received a promotional-style email asking for lobbying help on upcoming state...
+
+🏷️ Tags: `privacy`
+
+---
+
+### 🏷️ JavaScript (22 articles)
+
+#### 1. [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
+📅 Tue, 07 Apr 2026 20:35:44 GMT
+👤 By: Benny Code | 📌 Source: Dev.to
+
+![How I Save $1,463 per Month Using Claude Code as My Server Admin](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png)
+
+Heroku was great when I started. Push code, get a URL, done. Platform-as-a-Service won the last...
+
+🏷️ Tags: `devops`, `selfhosting`, `typescript`, `ai`
+
+---
+
+#### 2. [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc)
+📅 Wed, 08 Apr 2026 05:38:35 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3mi1o7fdzipphtymx03.png)
+
+Abstract   Google Sheets recently introduced the SHEET and SHEETS functions. Because they...
+
+🏷️ Tags: `googleappsscript`, `googleworkspace`, `googlesheets`, `javascript`
+
+---
+
+#### 3. [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme)
+📅 Sat, 04 Apr 2026 01:49:02 GMT
+👤 By: Rob Simpson | 📌 Source: Dev.to
+
+![I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png)
+
+After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.
+
+🏷️ Tags: `typescript`, `eslint`, `ai`, `llm`
+
+---
+
+#### 4. [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn)
+📅 Sun, 05 Apr 2026 16:04:44 GMT
+👤 By: Deola Adediran | 📌 Source: Dev.to
+
+![Building a Continuous Voice Interface with the OpenAI Realtime API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png)
+
+A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...
+
+🏷️ Tags: `ai`, `javascript`, `openai`, `tutorial`
+
+---
+
+#### 5. [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5)
+📅 Mon, 06 Apr 2026 16:02:04 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg)
+
+AI orchestrators receive significant attention; however, when deployments become latent and costly,...
+
+🏷️ Tags: `agents`, `tutorial`, `ai`, `typescript`
+
+---
+
+#### 6. [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243)
+📅 Mon, 06 Apr 2026 13:07:11 GMT
+👤 By: Paulo Henrique | 📌 Source: Dev.to
+
+![Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png)
+
+This is a submission for the DEV April Fools Challenge  Quantum Collapse is a React editor that...
+
+🏷️ Tags: `devchallenge`, `418challenge`, `showdev`
+
+---
+
+#### 7. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 8. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (20 articles)
+
+#### 1. [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf)
+📅 Sat, 04 Apr 2026 22:47:18 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure Kubernates Service (AKS)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `azure`, `python`, `googleadk`, `gemini`
+
+---
+
+#### 2. [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm)
+📅 Tue, 07 Apr 2026 19:57:35 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Development with Gemini CLI, and Amazon AWS EKS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png)
+
+Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...
+
+🏷️ Tags: `eks`, `python`, `gemini`, `mcps`
+
+---
+
+#### 3. [LoreKit - AI That GMs Full TTRPG Campaigns](https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774)
+📅 Sat, 04 Apr 2026 15:01:52 GMT
+👤 By: Matheus Luz | 📌 Source: Dev.to
+
+![LoreKit - AI That GMs Full TTRPG Campaigns](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png)
+
+An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.
+
+🏷️ Tags: `opensource`, `python`, `ai`, `gamedev`
+
+---
+
+#### 4. [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4)
+📅 Sat, 04 Apr 2026 22:45:43 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `azure`, `python`, `gemini`, `iac`
+
+---
+
+#### 5. [How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)](https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041)
+📅 Sun, 05 Apr 2026 08:48:00 GMT
+👤 By: Abid Ali | 📌 Source: Dev.to
+
+![How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png)
+
+I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...
+
+🏷️ Tags: `ai`, `tutorial`, `python`, `opensource`
+
+---
+
+#### 6. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
+📅 Wed, 08 Apr 2026 04:15:15 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Running Agentic AI at Scale on Google Kubernetes Engine](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png)
+
+The AI industry crossed an inflection point. We stopped asking "can the model answer my question?"...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 2. [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
+📅 Tue, 07 Apr 2026 20:35:44 GMT
+👤 By: Benny Code | 📌 Source: Dev.to
+
+![How I Save $1,463 per Month Using Claude Code as My Server Admin](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png)
+
+Heroku was great when I started. Push code, get a URL, done. Platform-as-a-Service won the last...
+
+🏷️ Tags: `devops`, `selfhosting`, `typescript`, `ai`
+
+---
+
+#### 3. [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb)
+📅 Sun, 29 Mar 2026 04:13:52 GMT
+👤 By: Ajadi Olalekan Jamiu | 📌 Source: Dev.to
+
+![Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png)
+
+Introduction  In the early stages of learning cloud development, it’s tempting to just "make it work"...
+
+🏷️ Tags: `devops`, `cloud`, `azure`
+
+---
+
+#### 4. [Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots](https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e)
+📅 Tue, 07 Apr 2026 13:04:00 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fajg9l6ljsooiaqqk81q6.png)
+
+In the latest episode of the Agent Factory, Mofi Rahman and I had the pleasure of hosting, Brandon...
+
+🏷️ Tags: `ai`, `agents`, `kubernetes`
+
+---
+
+#### 5. [CI/CD for Licensed Software You Don't Host](https://dev.to/marvinkweyu/cicd-for-licensed-software-you-dont-host-2al9)
+📅 Tue, 07 Apr 2026 06:43:41 GMT
+👤 By: Marvin | 📌 Source: Dev.to
+
+![CI/CD for Licensed Software You Don't Host](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog4oocmnwjg4xgb9lxqy.png)
+
+We are three weeks away from shipping NavEngine v4, an echo from the previous piece on Business...
+
+🏷️ Tags: `automation`, `cicd`, `devops`, `docker`
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
+📅 Sun, 05 Apr 2026 13:39:36 GMT
+👤 By: Piyush Gupta | 📌 Source: Dev.to
+
+![Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png)
+
+A deep dive into Single Leader, Multi-Leader, and Leaderless replication algorithms for distributed systems.
+
+🏷️ Tags: `systemdesign`, `backend`, `database`, `distributedsystems`
+
+---
+
+#### 2. [Inside Airbnb’s Mussel v2: Rebuilding a Petabyte-Scale Key-Value Store](https://dev.to/iamradioactive/inside-airbnbs-mussel-v2-rebuilding-a-petabyte-scale-key-value-store-ho9)
+📅 Mon, 06 Apr 2026 14:56:34 GMT
+👤 By: iamradioactive | 📌 Source: Dev.to
+
+![Inside Airbnb’s Mussel v2: Rebuilding a Petabyte-Scale Key-Value Store](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmccy9j2q85h6eqi1f26.png)
+
+Airbnb recently published a detailed write-up on Mussel v2, the next generation of their internal...
+
+🏷️ Tags: `systemdesign`, `distributedsystems`, `backend`, `webdev`
+
+---
+
+#### 3. [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
+📅 Mon, 23 Mar 2026 05:48:13 GMT
+👤 By: Satish Gowda | 📌 Source: Dev.to
+
+![How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png)
+
+How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...
+
+🏷️ Tags: `frontend`, `javascript`, `react`, `tutorial`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Cloud (10 articles)
+
+#### 1. [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb)
+📅 Wed, 08 Apr 2026 19:46:46 GMT
+👤 By: Peter Kim Frank | 📌 Source: Dev.to
+
+![Converting old home movie DVDs into a private streaming site](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png)
+
+A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....
+
+🏷️ Tags: `tutorial`, `cloudflare`, `dvd`, `ripping`
+
+---
+
+#### 2. [Clawshier OpenClaw Skill](https://dev.to/fdocr/clawshier-openclaw-skill-l1n)
+📅 Wed, 08 Apr 2026 12:45:00 GMT
+👤 By: Fernando | 📌 Source: Dev.to
+
+![Clawshier OpenClaw Skill](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png)
+
+I've been meaning to take a stab at this idea of automating a process to take a picture of any...
+
+🏷️ Tags: `ai`, `openclaw`, `opensource`, `openai`
+
+---
+
+#### 3. [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
+📅 Wed, 08 Apr 2026 04:15:15 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Running Agentic AI at Scale on Google Kubernetes Engine](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png)
+
+The AI industry crossed an inflection point. We stopped asking "can the model answer my question?"...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 4. [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j)
+📅 Tue, 07 Apr 2026 13:16:14 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob6hrb6cleaearnb995b.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `azure`, `ak`, `gemini`
+
+---
+
+#### 5. [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf)
+📅 Sat, 04 Apr 2026 22:47:18 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying ADK Agents on Azure Kubernates Service (AKS)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...
+
+🏷️ Tags: `azure`, `python`, `googleadk`, `gemini`
+
+---
+
+#### 6. [Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb)
+📅 Sun, 29 Mar 2026 04:13:52 GMT
+👤 By: Ajadi Olalekan Jamiu | 📌 Source: Dev.to
+
+![Building for Production: A Guide to Deploying a 3-Tier App on Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png)
+
+Introduction  In the early stages of learning cloud development, it’s tempting to just "make it work"...
+
+🏷️ Tags: `devops`, `cloud`, `azure`
+
+---
+
+#### 7. [MCP Development with Gemini CLI, and Amazon AWS EKS](https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm)
+📅 Tue, 07 Apr 2026 19:57:35 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Development with Gemini CLI, and Amazon AWS EKS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png)
+
+Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...
+
+🏷️ Tags: `eks`, `python`, `gemini`, `mcps`
+
+---
+
+#### 8. [Why I'm building a free, open-source AWS emulator](https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl)
+📅 Mon, 06 Apr 2026 22:27:35 GMT
+👤 By: Lucas Vieira | 📌 Source: Dev.to
+
+![Why I'm building a free, open-source AWS emulator](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png)
+
+LocalStack went proprietary. Our builds broke. So I built a free, open-source replacement in Rust — 13 AWS services, 983 API operations, 100% conformance.
+
+🏷️ Tags: `aws`, `rust`, `testing`, `opensource`
+
+---
+
+#### 9. [Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4)
+📅 Sat, 04 Apr 2026 22:45:43 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `azure`, `python`, `gemini`, `iac`
+
+---
+
+#### 10. [moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.](https://github.com/moabukar/miniblue)
+📅 Fri, 03 Apr 2026 23:14:09 GMT
+👤 By: moabukar | 📌 Source: GitHub
+
+![moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.](https://avatars.githubusercontent.com/u/76791648?v=4)
+
+Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 151
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
+📅 Sun, 05 Apr 2026 13:39:36 GMT
+👤 By: Piyush Gupta | 📌 Source: Dev.to
+
+![Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png)
+
+A deep dive into Single Leader, Multi-Leader, and Leaderless replication algorithms for distributed systems.
+
+🏷️ Tags: `systemdesign`, `backend`, `database`, `distributedsystems`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (5 articles)
+
+#### 1. [Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a)
+📅 Wed, 01 Apr 2026 12:41:18 GMT
+👤 By: Lakhan Samani | 📌 Source: Dev.to
+
+![Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png)
+
+We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...
+
+🏷️ Tags: `webdev`, `ai`, `opensource`, `authentication`
+
+---
+
+#### 2. [Working with JWTs in Laravel (Without the Magic)](https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh)
+📅 Mon, 30 Mar 2026 18:36:33 GMT
+👤 By: Mark Townsend | 📌 Source: Dev.to
+
+![Working with JWTs in Laravel (Without the Magic)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F96636rw81g1hk6kgjet6.png)
+
+If you've worked with APIs, authentication, or third-party integrations, you've almost certainly run...
+
+🏷️ Tags: `laravel`, `php`, `security`, `tutorial`
+
+---
+
+#### 3. [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f)
+📅 Tue, 31 Mar 2026 02:37:02 GMT
+👤 By: PracticeOverflow | 📌 Source: Dev.to
+
+![Securing the Agentic Era: AI Agents as First-Class Security Principals](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png)
+
+Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...
+
+🏷️ Tags: `agents`, `ai`, `cybersecurity`, `security`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 5. [NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow](https://github.com/NyxTides/SimpleAuthFlow)
+📅 Tue, 07 Apr 2026 06:15:18 GMT
+👤 By: NyxTides | 📌 Source: GitHub
+
+![NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow](https://avatars.githubusercontent.com/u/205922613?v=4)
+
+A streamlined Chrome extension for the ChatGPT OAuth flow
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 272
+
+---
+
+### 🏷️ Tools (24 articles)
+
+#### 1. [My AI Agent Keeps Forgetting Everything](https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k)
+📅 Tue, 07 Apr 2026 15:52:28 GMT
+👤 By: Stephen J Newhouse | 📌 Source: Dev.to
+
+![My AI Agent Keeps Forgetting Everything](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx4gsxtuu9l5rmfgmxfy.png)
+
+My AI Agent Keeps Forgetting Everything; So do I...   I have multiple sclerosis. Some days are...
+
+🏷️ Tags: `claudecode`, `ai`, `productivity`, `opensource`
+
+---
+
+#### 2. [The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents](https://dev.to/ivolondon/the-rise-of-the-fleet-scaling-my-engineering-workflow-with-vscode-copilot-agents-3boe)
+📅 Mon, 06 Apr 2026 20:59:58 GMT
+👤 By: Ivelin (Ivo) | 📌 Source: Dev.to
+
+![The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmziy028k3psjx8s9k2wp.png)
+
+In this post, I’ll walk you through how I use Copilot and my personal preferences for different...
+
+🏷️ Tags: `agents`, `ai`, `productivity`, `vscode`
+
+---
+
+#### 3. [Why I'm building a free, open-source AWS emulator](https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl)
+📅 Mon, 06 Apr 2026 22:27:35 GMT
+👤 By: Lucas Vieira | 📌 Source: Dev.to
+
+![Why I'm building a free, open-source AWS emulator](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png)
+
+LocalStack went proprietary. Our builds broke. So I built a free, open-source replacement in Rust — 13 AWS services, 983 API operations, 100% conformance.
+
+🏷️ Tags: `aws`, `rust`, `testing`, `opensource`
+
+---
+
+#### 4. [How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5)
+📅 Mon, 06 Apr 2026 18:27:59 GMT
+👤 By: Jessica Temporal | 📌 Source: Dev.to
+
+![How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png)
+
+Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...
+
+🏷️ Tags: `ai`, `claude`, `productivity`, `tooling`
+
+---
+
+#### 5. [Auth0 MCP Server Extension for Gemini CLI](https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m)
+📅 Fri, 27 Mar 2026 11:00:00 GMT
+👤 By: Jessica Temporal | 📌 Source: Dev.to
+
+![Auth0 MCP Server Extension for Gemini CLI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png)
+
+The Auth0 MCP Server is now listed on the official Gemini CLI extensions page. This means the Auth0...
+
+🏷️ Tags: `ai`, `mcp`, `tutorial`, `tooling`
+
+---
+
+#### 6. [Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956)
+📅 Mon, 23 Mar 2026 18:05:03 GMT
+👤 By: Ivan SZKIBA | 📌 Source: Dev.to
+
+![Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png)
+
+This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...
+
+🏷️ Tags: `ai`, `agents`, `git`, `makerchecker`
+
+---
+
+#### 7. [How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)](https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041)
+📅 Sun, 05 Apr 2026 08:48:00 GMT
+👤 By: Abid Ali | 📌 Source: Dev.to
+
+![How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png)
+
+I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...
+
+🏷️ Tags: `ai`, `tutorial`, `python`, `opensource`
+
+---
+
+#### 8. [What are your goals for the week? #172](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm)
+📅 Mon, 30 Mar 2026 14:28:37 GMT
+👤 By: Chris Jarvis | 📌 Source: Dev.to
+
+![What are your goals for the week? #172](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg)
+
+Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...
+
+🏷️ Tags: `career`, `discuss`, `productivity`, `watercooler`
+
+---
+
+#### 9. [How to Create Your Own AI Coding Agent](https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o)
+📅 Mon, 06 Apr 2026 06:10:11 GMT
+👤 By: david wyatt | 📌 Source: Dev.to
+
+![How to Create Your Own AI Coding Agent](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8iochsukrm6r2gfv5ff1.png)
+
+Nearly all developers are taking advantage of AI coding tools, but what happens when you have a...
+
+🏷️ Tags: `powerapps`, `vscode`, `coding`, `powerplatform`
+
+---
+
+#### 10. [santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.](https://github.com/santifer/career-ops)
+📅 Sat, 04 Apr 2026 18:21:18 GMT
+👤 By: santifer | 📌 Source: GitHub
+
+![santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.](https://avatars.githubusercontent.com/u/256850418?v=4)
+
+AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 26,477
+
+---
+
