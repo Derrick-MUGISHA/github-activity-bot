@@ -16,20 +16,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
-      "url": "https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0",
-      "published_at": "2026-04-08T09:04:25Z",
-      "description": "This is a submission for the DEV April Fools Challenge           🍵 AS’ HTCPCP AI Butler™ 🤖   ...    ...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksd3kzsgiw1wlwayu4hw.png",
-      "source": "Dev.to",
-      "user": "Asmae "
-    },
-    {
       "title": "Clawshier OpenClaw Skill",
       "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
       "published_at": "2026-04-08T12:45:00Z",
@@ -103,6 +89,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
+    },
+    {
+      "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
+      "url": "https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0",
+      "published_at": "2026-04-08T09:04:25Z",
+      "description": "This is a submission for the DEV April Fools Challenge           🍵 AS’ HTCPCP AI Butler™ 🤖   ...    ...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksd3kzsgiw1wlwayu4hw.png",
+      "source": "Dev.to",
+      "user": "Asmae "
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -560,21 +560,6 @@
       "user": "david wyatt"
     },
     {
-      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
-      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
-      "published_at": "2026-04-05T15:53:27Z",
-      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "docker",
-        "openclaw"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
-      "source": "Dev.to",
-      "user": "sir'Alexander"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -718,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26300,
+      "stars": 26477,
       "user": "santifer"
     },
     {
@@ -737,6 +722,21 @@
       "user": "NyxTides"
     },
     {
+      "title": "blairxu13/persona3-website - GitHub Repository",
+      "url": "https://github.com/blairxu13/persona3-website",
+      "published_at": "2026-04-04T06:10:48Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "blairxu13"
+    },
+    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 31387,
+      "stars": 32107,
       "user": "milla-jovovich"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 15291,
+      "stars": 15649,
       "user": "safishamsi"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5101,
+      "stars": 5200,
       "user": "alchaincyf"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "xoai"
     }
   ],
@@ -1034,7 +1034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26300,
+      "stars": 26477,
       "user": "santifer"
     },
     {
@@ -1049,7 +1049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1353,
       "user": "xixu-me"
     },
     {
@@ -1064,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 685,
       "user": "LarsenCundric"
     },
     {
@@ -1083,19 +1083,19 @@
       "user": "NyxTides"
     },
     {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "title": "blairxu13/persona3-website - GitHub Repository",
+      "url": "https://github.com/blairxu13/persona3-website",
+      "published_at": "2026-04-04T06:10:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "zacdcook"
+      "stars": 272,
+      "user": "blairxu13"
     }
   ],
   "Python": [
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 31387,
+      "stars": 32107,
       "user": "milla-jovovich"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 15291,
+      "stars": 15649,
       "user": "safishamsi"
     },
     {
@@ -1336,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8129,
+      "stars": 8199,
       "user": "JuliusBrussee"
     },
     {
@@ -1351,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5101,
+      "stars": 5200,
       "user": "alchaincyf"
     },
     {
@@ -1366,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 903,
       "user": "mattmireles"
     }
   ],
@@ -1443,21 +1443,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog4oocmnwjg4xgb9lxqy.png",
       "source": "Dev.to",
       "user": "Marvin"
-    },
-    {
-      "title": "From Broken Docker Containers to a Working AI Agent: The Full OpenClaw Journey",
-      "url": "https://dev.to/sir_alexander_t/from-broken-docker-containers-to-a-working-ai-agent-the-full-openclaw-journey-3mc0",
-      "published_at": "2026-04-05T15:53:27Z",
-      "description": "Every blocker, every fix, and why bare metal is the sweet spot for a personal AI agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "docker",
-        "openclaw"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y6sp9kzxpc1p8zufwko.png",
-      "source": "Dev.to",
-      "user": "sir'Alexander"
     }
   ],
   "WebDev": [
@@ -1667,7 +1652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 151,
       "user": "moabukar"
     }
   ],
@@ -1922,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26300,
+      "stars": 26477,
       "user": "santifer"
     },
     {
@@ -1937,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1353,
       "user": "xixu-me"
     },
     {
@@ -1952,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 685,
       "user": "LarsenCundric"
     },
     {
@@ -1971,19 +1956,19 @@
       "user": "NyxTides"
     },
     {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "title": "blairxu13/persona3-website - GitHub Repository",
+      "url": "https://github.com/blairxu13/persona3-website",
+      "published_at": "2026-04-04T06:10:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "zacdcook"
+      "stars": 272,
+      "user": "blairxu13"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1997,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 31387,
+      "stars": 32107,
       "user": "milla-jovovich"
     },
     {
@@ -2012,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 15291,
+      "stars": 15649,
       "user": "safishamsi"
     },
     {
@@ -2027,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8129,
+      "stars": 8199,
       "user": "JuliusBrussee"
     },
     {
@@ -2042,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5101,
+      "stars": 5200,
       "user": "alchaincyf"
     },
     {
@@ -2057,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 903,
       "user": "mattmireles"
     },
     {
@@ -2072,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "xoai"
     },
     {
@@ -2091,6 +2076,21 @@
       "user": "pion"
     },
     {
+      "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
+      "url": "https://github.com/moabukar/miniblue",
+      "published_at": "2026-04-03T23:14:09Z",
+      "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "moabukar"
+    },
+    {
       "title": "boratanrikulu/gecit - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.",
       "url": "https://github.com/boratanrikulu/gecit",
       "published_at": "2026-04-05T12:18:05Z",
@@ -2106,21 +2106,6 @@
       "user": "boratanrikulu"
     },
     {
-      "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "url": "https://github.com/moabukar/miniblue",
-      "published_at": "2026-04-03T23:14:09Z",
-      "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "moabukar"
-    },
-    {
       "title": "rvitorper/go-bt - Minimalist BT implementation in Go",
       "url": "https://github.com/rvitorper/go-bt",
       "published_at": "2026-04-08T14:19:20Z",
@@ -2132,7 +2117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "rvitorper"
     }
   ]
