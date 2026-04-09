@@ -75,20 +75,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Agentic interaction using AppFunctions",
-      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
-      "published_at": "2026-04-06T06:49:26Z",
-      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
-      "tags": [
-        "ai",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j",
       "published_at": "2026-04-07T13:16:14Z",
@@ -731,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26034,
+      "stars": 26203,
       "user": "santifer"
     },
     {
@@ -746,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "NyxTides"
     },
     {
@@ -761,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 30659,
+      "stars": 30969,
       "user": "milla-jovovich"
     },
     {
@@ -776,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 14864,
+      "stars": 15092,
       "user": "safishamsi"
     },
     {
@@ -791,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 4930,
+      "stars": 5028,
       "user": "alchaincyf"
     },
     {
@@ -806,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "xoai"
     }
   ],
@@ -1032,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26034,
+      "stars": 26203,
       "user": "santifer"
     },
     {
@@ -1047,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1161,
       "user": "xixu-me"
     },
     {
@@ -1092,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "NyxTides"
     }
   ],
@@ -1304,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 30659,
+      "stars": 30969,
       "user": "milla-jovovich"
     },
     {
@@ -1319,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 14864,
+      "stars": 15092,
       "user": "safishamsi"
     },
     {
@@ -1334,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8027,
+      "stars": 8076,
       "user": "JuliusBrussee"
     },
     {
@@ -1349,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 4930,
+      "stars": 5028,
       "user": "alchaincyf"
     },
     {
@@ -1364,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 875,
       "user": "mattmireles"
     }
   ],
@@ -1487,22 +1473,7 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [
-    {
-      "title": "Agentic interaction using AppFunctions",
-      "url": "https://dev.to/tkuenneth/agentic-interaction-using-appfunctions-m8k",
-      "published_at": "2026-04-06T06:49:26Z",
-      "description": "Given the rise of agentic interaction on Android, we need a fast, reliable API to make app...",
-      "tags": [
-        "ai",
-        "android",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6nasez607nr5gtdiuzc.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "Converting old home movie DVDs into a private streaming site",
@@ -1650,7 +1621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "moabukar"
     }
   ],
@@ -1753,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "NyxTides"
     }
   ],
@@ -1905,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26034,
+      "stars": 26203,
       "user": "santifer"
     },
     {
@@ -1920,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1161,
       "user": "xixu-me"
     },
     {
@@ -1965,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 270,
       "user": "NyxTides"
     },
     {
@@ -1980,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 30659,
+      "stars": 30969,
       "user": "milla-jovovich"
     },
     {
@@ -1995,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 14864,
+      "stars": 15092,
       "user": "safishamsi"
     },
     {
@@ -2010,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8027,
+      "stars": 8076,
       "user": "JuliusBrussee"
     },
     {
@@ -2025,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 4930,
+      "stars": 5028,
       "user": "alchaincyf"
     },
     {
@@ -2040,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 875,
       "user": "mattmireles"
     },
     {
@@ -2055,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "xoai"
     },
     {
@@ -2070,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "pion"
     },
     {
@@ -2085,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "boratanrikulu"
     },
     {
@@ -2100,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "moabukar"
     },
     {
@@ -2115,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 77,
       "user": "rvitorper"
     }
   ]
