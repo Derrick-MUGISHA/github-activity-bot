@@ -76,6 +76,21 @@
       "user": "Helder Burato Berto"
     },
     {
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
+      "published_at": "2026-04-09T13:07:00Z",
+      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
+      "tags": [
+        "nvidia",
+        "ai",
+        "gemma",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
       "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
       "published_at": "2026-04-09T13:32:32Z",
@@ -104,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
       "source": "Dev.to",
       "user": "Karl Weinmeister"
-    },
-    {
-      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
-      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
-      "published_at": "2026-04-09T13:07:00Z",
-      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
-      "tags": [
-        "nvidia",
-        "ai",
-        "gemma",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
@@ -384,6 +384,21 @@
       "user": "Agon"
     },
     {
+      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
+      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
+      "published_at": "2026-04-08T04:15:15Z",
+      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
+      "tags": [
+        "agents",
+        "ai",
+        "cloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
       "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
       "published_at": "2026-04-05T16:04:44Z",
@@ -501,21 +516,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmccy9j2q85h6eqi1f26.png",
       "source": "Dev.to",
       "user": "iamradioactive"
-    },
-    {
-      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
-      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
-      "published_at": "2026-04-06T18:27:59Z",
-      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
-      "tags": [
-        "ai",
-        "claude",
-        "productivity",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
     },
     {
       "title": "Making OpenClaw remember what it's doing after compaction",
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27056,
+      "stars": 27198,
       "user": "santifer"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "blairxu13"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 33991,
+      "stars": 34346,
       "user": "milla-jovovich"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16719,
+      "stars": 16912,
       "user": "safishamsi"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5391,
+      "stars": 5407,
       "user": "alchaincyf"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "xoai"
     }
   ],
@@ -1079,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27056,
+      "stars": 27198,
       "user": "santifer"
     },
     {
@@ -1094,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1604,
+      "stars": 1630,
       "user": "xixu-me"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 700,
       "user": "LarsenCundric"
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "blairxu13"
     },
     {
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 33991,
+      "stars": 34346,
       "user": "milla-jovovich"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16719,
+      "stars": 16912,
       "user": "safishamsi"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8470,
+      "stars": 8546,
       "user": "JuliusBrussee"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5391,
+      "stars": 5407,
       "user": "alchaincyf"
     },
     {
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 972,
       "user": "mattmireles"
     }
   ],
@@ -1411,6 +1411,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
+      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
+      "published_at": "2026-04-08T04:15:15Z",
+      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
+      "tags": [
+        "agents",
+        "ai",
+        "cloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
@@ -1624,6 +1639,21 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
+      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
+      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
+      "published_at": "2026-04-08T04:15:15Z",
+      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
+      "tags": [
+        "agents",
+        "ai",
+        "cloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
       "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
       "published_at": "2026-04-07T19:57:35Z",
@@ -1665,7 +1695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 165,
       "user": "moabukar"
     }
   ],
@@ -1864,21 +1894,6 @@
       "user": "Lucas Vieira"
     },
     {
-      "title": "How to Use Auth0 Agent Skills in Claude Code & AI Coding Assistants",
-      "url": "https://dev.to/auth0/how-to-use-auth0-agent-skills-in-claude-code-ai-coding-assistants-56e5",
-      "published_at": "2026-04-06T18:27:59Z",
-      "description": "Tired of your AI coding assistant hallucinating APIs or writing insecure auth patterns? In this...",
-      "tags": [
-        "ai",
-        "claude",
-        "productivity",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu35afc4boouef1qnggzf.png",
-      "source": "Dev.to",
-      "user": "Jessica Temporal"
-    },
-    {
       "title": "Auth0 MCP Server Extension for Gemini CLI",
       "url": "https://dev.to/auth0/auth0-mcp-server-extension-for-gemini-cli-405m",
       "published_at": "2026-03-27T11:00:00Z",
@@ -1905,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27056,
+      "stars": 27198,
       "user": "santifer"
     },
     {
@@ -1920,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1604,
+      "stars": 1630,
       "user": "xixu-me"
     },
     {
@@ -1935,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 700,
       "user": "LarsenCundric"
     },
     {
@@ -1950,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "blairxu13"
     },
     {
@@ -1980,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 33991,
+      "stars": 34346,
       "user": "milla-jovovich"
     },
     {
@@ -1995,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16719,
+      "stars": 16912,
       "user": "safishamsi"
     },
     {
@@ -2010,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8470,
+      "stars": 8546,
       "user": "JuliusBrussee"
     },
     {
@@ -2025,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5391,
+      "stars": 5407,
       "user": "alchaincyf"
     },
     {
@@ -2040,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 972,
       "user": "mattmireles"
     },
     {
@@ -2055,8 +2070,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "xoai"
+    },
+    {
+      "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
+      "url": "https://github.com/moabukar/miniblue",
+      "published_at": "2026-04-03T23:14:09Z",
+      "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
+      "source": "GitHub",
+      "stars": 165,
+      "user": "moabukar"
     },
     {
       "title": "pion/handoff - Start WebRTC in the browser—run it somewhere else",
@@ -2072,21 +2102,6 @@
       "source": "GitHub",
       "stars": 164,
       "user": "pion"
-    },
-    {
-      "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "url": "https://github.com/moabukar/miniblue",
-      "published_at": "2026-04-03T23:14:09Z",
-      "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
-      "source": "GitHub",
-      "stars": 161,
-      "user": "moabukar"
     },
     {
       "title": "boratanrikulu/gecit - DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.",
@@ -2115,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "rvitorper"
     }
   ]
