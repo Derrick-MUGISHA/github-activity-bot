@@ -119,21 +119,6 @@
       "user": "Benny Code"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
-      "published_at": "2026-04-07T16:53:56Z",
-      "description": "As a consultant, I've learned one universal truth, The speed of your response determines the quality...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "automation",
-        "crm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwk62lnff5tfr7eexgzv.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
       "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
       "published_at": "2026-04-06T16:02:04Z",
@@ -306,6 +291,21 @@
       "user": "PracticeOverflow"
     },
     {
+      "title": "My AI Agent Keeps Forgetting Everything",
+      "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
+      "published_at": "2026-04-07T15:52:28Z",
+      "description": "My AI Agent Keeps Forgetting Everything; So do I...   I have multiple sclerosis. Some days are...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx4gsxtuu9l5rmfgmxfy.png",
+      "source": "Dev.to",
+      "user": "Stephen J Newhouse"
+    },
+    {
       "title": "The part of the job AI keeps missing",
       "url": "https://dev.to/agonxgashi/the-part-of-the-job-ai-keeps-missing-2422",
       "published_at": "2026-04-07T11:41:34Z",
@@ -365,6 +365,36 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
+      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
+      "published_at": "2026-04-07T19:57:35Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "eks",
+        "python",
+        "gemini",
+        "mcps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
+      "published_at": "2026-04-07T16:53:56Z",
+      "description": "As a consultant, I've learned one universal truth, The speed of your response determines the quality...",
+      "tags": [
+        "googleworkspace",
+        "workspacestudio",
+        "automation",
+        "crm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwk62lnff5tfr7eexgzv.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
+    },
+    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -410,21 +440,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
-      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
-      "published_at": "2026-04-06T17:18:50Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "amazonecs",
-        "python",
-        "mcpserver",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Making OpenClaw remember what it's doing after compaction",
       "url": "https://dev.to/whtsky/making-openclaw-remember-what-its-doing-after-compaction-11fe",
       "published_at": "2026-04-06T15:25:46Z",
@@ -438,21 +453,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0u4qd835jsshnni7ipo9.png",
       "source": "Dev.to",
       "user": "Wu Haotian"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Fabric",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
-      "published_at": "2026-04-06T13:07:27Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "gemini",
-        "python",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
@@ -731,8 +731,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 25557,
+      "stars": 25805,
       "user": "santifer"
+    },
+    {
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 264,
+      "user": "NyxTides"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 29692,
+      "stars": 30202,
       "user": "milla-jovovich"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 14190,
+      "stars": 14518,
       "user": "safishamsi"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 4550,
+      "stars": 4746,
       "user": "alchaincyf"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 297,
       "user": "xoai"
     }
   ],
@@ -1017,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 25557,
+      "stars": 25805,
       "user": "santifer"
     },
     {
@@ -1032,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 910,
       "user": "xixu-me"
     },
     {
@@ -1047,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 672,
       "user": "LarsenCundric"
     },
     {
@@ -1062,23 +1077,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "zacdcook"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "S-Trespassing"
+      "stars": 264,
+      "user": "NyxTides"
     }
   ],
   "Python": [
@@ -1098,32 +1113,17 @@
       "user": "xbill"
     },
     {
-      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
-      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
-      "published_at": "2026-04-06T17:18:50Z",
+      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
+      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
+      "published_at": "2026-04-07T19:57:35Z",
       "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
       "tags": [
-        "amazonecs",
+        "eks",
         "python",
-        "mcpserver",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Fabric",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
-      "published_at": "2026-04-06T13:07:27Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
         "gemini",
-        "python",
-        "googleadk"
+        "mcps"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1304,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 29692,
+      "stars": 30202,
       "user": "milla-jovovich"
     },
     {
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 14190,
+      "stars": 14518,
       "user": "safishamsi"
     },
     {
@@ -1334,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 7828,
+      "stars": 7934,
       "user": "JuliusBrussee"
     },
     {
@@ -1349,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 4550,
+      "stars": 4746,
       "user": "alchaincyf"
     },
     {
@@ -1364,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 835,
       "user": "mattmireles"
     }
   ],
@@ -1594,6 +1594,21 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
+      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
+      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
+      "published_at": "2026-04-07T19:57:35Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "eks",
+        "python",
+        "gemini",
+        "mcps"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Why I'm building a free, open-source AWS emulator",
       "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
       "published_at": "2026-04-06T22:27:35Z",
@@ -1607,36 +1622,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png",
       "source": "Dev.to",
       "user": "Lucas Vieira"
-    },
-    {
-      "title": "MCP Development with Python, Gemini CLI, and Amazon AWS ECS Express",
-      "url": "https://dev.to/gde/mcp-development-with-python-gemini-cli-and-amazon-aws-ecs-express-1oei",
-      "published_at": "2026-04-06T17:18:50Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "amazonecs",
-        "python",
-        "mcpserver",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi8mv85mfj43nb0razgw6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying ADK Agents on Azure Fabric",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-fabric-48mf",
-      "published_at": "2026-04-06T13:07:27Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "gemini",
-        "python",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5467ufjhmkc25cmjxo2.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
@@ -1755,9 +1740,39 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 264,
+      "user": "NyxTides"
     }
   ],
   "Tools": [
+    {
+      "title": "My AI Agent Keeps Forgetting Everything",
+      "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
+      "published_at": "2026-04-07T15:52:28Z",
+      "description": "My AI Agent Keeps Forgetting Everything; So do I...   I have multiple sclerosis. Some days are...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx4gsxtuu9l5rmfgmxfy.png",
+      "source": "Dev.to",
+      "user": "Stephen J Newhouse"
+    },
     {
       "title": "The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents",
       "url": "https://dev.to/ivolondon/the-rise-of-the-fleet-scaling-my-engineering-workflow-with-vscode-copilot-agents-3boe",
@@ -1864,6 +1879,21 @@
       "user": "Abid Ali"
     },
     {
+      "title": "What are your goals for the week? #172",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
+      "published_at": "2026-03-30T14:28:37Z",
+      "description": "Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...",
+      "tags": [
+        "career",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
+    },
+    {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "url": "https://github.com/santifer/career-ops",
       "published_at": "2026-04-04T18:21:18Z",
@@ -1875,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 25557,
+      "stars": 25805,
       "user": "santifer"
     },
     {
@@ -1890,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 910,
       "user": "xixu-me"
     },
     {
@@ -1905,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 672,
       "user": "LarsenCundric"
     },
     {
@@ -1920,23 +1950,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "zacdcook"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "S-Trespassing"
+      "stars": 264,
+      "user": "NyxTides"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1950,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 29692,
+      "stars": 30202,
       "user": "milla-jovovich"
     },
     {
@@ -1965,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 14190,
+      "stars": 14518,
       "user": "safishamsi"
     },
     {
@@ -1980,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 7828,
+      "stars": 7934,
       "user": "JuliusBrussee"
     },
     {
@@ -1995,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 4550,
+      "stars": 4746,
       "user": "alchaincyf"
     },
     {
@@ -2010,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 835,
       "user": "mattmireles"
     },
     {
@@ -2025,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 297,
       "user": "xoai"
     },
     {
@@ -2055,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "boratanrikulu"
     },
     {
@@ -2085,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 75,
       "user": "rvitorper"
     }
   ]
