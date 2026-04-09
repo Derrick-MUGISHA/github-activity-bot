@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
-      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
-      "published_at": "2026-04-09T15:06:56Z",
-      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
-      "tags": [
-        "sideprojects",
-        "ai",
-        "vibecoding",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
-      "source": "Dev.to",
-      "user": "Maria Dunning"
-    },
-    {
       "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
       "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
       "published_at": "2026-04-09T15:42:13Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
+      "published_at": "2026-04-09T15:06:56Z",
+      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
+      "tags": [
+        "sideprojects",
+        "ai",
+        "vibecoding",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
+      "source": "Dev.to",
+      "user": "Maria Dunning"
     },
     {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27312,
+      "stars": 27412,
       "user": "santifer"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 292,
       "user": "blairxu13"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 34640,
+      "stars": 34889,
       "user": "milla-jovovich"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 17046,
+      "stars": 17166,
       "user": "safishamsi"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5412,
+      "stars": 5417,
       "user": "alchaincyf"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1032,
       "user": "Keychron"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "xoai"
     }
   ],
@@ -1094,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27312,
+      "stars": 27412,
       "user": "santifer"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1650,
       "user": "xixu-me"
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "LarsenCundric"
     },
     {
@@ -1139,23 +1139,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 292,
       "user": "blairxu13"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 279,
-      "user": "S-Trespassing"
+      "stars": 280,
+      "user": "zacdcook"
     }
   ],
   "Python": [
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 34640,
+      "stars": 34889,
       "user": "milla-jovovich"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 17046,
+      "stars": 17166,
       "user": "safishamsi"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8589,
+      "stars": 8633,
       "user": "JuliusBrussee"
     },
     {
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5412,
+      "stars": 5417,
       "user": "alchaincyf"
     },
     {
@@ -1393,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1032,
       "user": "Keychron"
     }
   ],
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27312,
+      "stars": 27412,
       "user": "santifer"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1650,
       "user": "xixu-me"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "LarsenCundric"
     },
     {
@@ -1980,23 +1980,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 292,
       "user": "blairxu13"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 279,
-      "user": "S-Trespassing"
+      "stars": 280,
+      "user": "zacdcook"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 34640,
+      "stars": 34889,
       "user": "milla-jovovich"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 17046,
+      "stars": 17166,
       "user": "safishamsi"
     },
     {
@@ -2040,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8589,
+      "stars": 8633,
       "user": "JuliusBrussee"
     },
     {
@@ -2055,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5412,
+      "stars": 5417,
       "user": "alchaincyf"
     },
     {
@@ -2070,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1032,
       "user": "Keychron"
     },
     {
@@ -2085,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "xoai"
     },
     {
@@ -2115,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "pion"
     },
     {
@@ -2130,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "boratanrikulu"
     },
     {
@@ -2145,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "rvitorper"
     }
   ]
