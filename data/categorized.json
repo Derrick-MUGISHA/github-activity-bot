@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
-      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
-      "published_at": "2026-04-09T15:42:13Z",
-      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
-      "tags": [
-        "ai",
-        "architecture",
-        "llm",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
       "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
       "published_at": "2026-04-09T15:06:56Z",
@@ -106,6 +91,21 @@
       "user": "Karl Weinmeister"
     },
     {
+      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
+      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
+      "published_at": "2026-04-09T15:42:13Z",
+      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
+      "tags": [
+        "ai",
+        "architecture",
+        "llm",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
       "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
       "published_at": "2026-04-07T20:06:35Z",
@@ -149,21 +149,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
       "source": "Dev.to",
       "user": "tronghieuit"
-    },
-    {
-      "title": "Your vibe coding app works. That's exactly the problem.",
-      "url": "https://dev.to/bezael/your-vibe-coding-app-works-thats-exactly-the-problem-1omm",
-      "published_at": "2026-04-08T16:20:02Z",
-      "description": "Vibe coding gives you speed. It also gives you plaintext passwords, non-expiring tokens, and CORS open to the entire internet. This article is about the second part.",
-      "tags": [
-        "claudecode",
-        "vibecoding",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fgithub.com%2Fbezael%2Fai-workflow-kit%2Fraw%2Fmain%2Fbanner.png",
-      "source": "Dev.to",
-      "user": "Bezael Pérez"
     },
     {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
@@ -250,6 +235,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg",
       "source": "Dev.to",
       "user": "William Weiner"
+    },
+    {
+      "title": "New Site, Who Dis?",
+      "url": "https://dev.to/robearlam/new-site-who-dis-592h",
+      "published_at": "2026-03-30T00:00:00Z",
+      "description": "For anyone who's read my blog posts before, you wont have seen much (if any) content on here about...",
+      "tags": [
+        "personalsite",
+        "aidevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fou8adwsgx3hgqsqiau1i.png",
+      "source": "Dev.to",
+      "user": "Rob Earlam"
     },
     {
       "title": "Using AI Agents to Debug Distributed Systems in Under a Minute",
@@ -720,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27544,
+      "stars": 27604,
       "user": "santifer"
     },
     {
@@ -735,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 301,
       "user": "blairxu13"
     },
     {
@@ -750,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 35305,
+      "stars": 35448,
       "user": "milla-jovovich"
     },
     {
@@ -765,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 17406,
+      "stars": 17494,
       "user": "safishamsi"
     },
     {
@@ -780,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5426,
+      "stars": 5433,
       "user": "alchaincyf"
     },
     {
@@ -795,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1112,
       "user": "Keychron"
     },
     {
@@ -1094,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27544,
+      "stars": 27604,
       "user": "santifer"
     },
     {
@@ -1109,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1689,
       "user": "xixu-me"
     },
     {
@@ -1124,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "LarsenCundric"
     },
     {
@@ -1139,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 301,
       "user": "blairxu13"
     },
     {
@@ -1154,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "zacdcook"
     }
   ],
@@ -1333,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 35305,
+      "stars": 35448,
       "user": "milla-jovovich"
     },
     {
@@ -1348,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 17406,
+      "stars": 17494,
       "user": "safishamsi"
     },
     {
@@ -1363,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8729,
+      "stars": 8767,
       "user": "JuliusBrussee"
     },
     {
@@ -1378,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5426,
+      "stars": 5433,
       "user": "alchaincyf"
     },
     {
@@ -1393,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1112,
       "user": "Keychron"
     }
   ],
@@ -1710,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "moabukar"
     }
   ],
@@ -1935,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27544,
+      "stars": 27604,
       "user": "santifer"
     },
     {
@@ -1950,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1689,
       "user": "xixu-me"
     },
     {
@@ -1965,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "LarsenCundric"
     },
     {
@@ -1980,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 301,
       "user": "blairxu13"
     },
     {
@@ -1995,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "zacdcook"
     },
     {
@@ -2010,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 35305,
+      "stars": 35448,
       "user": "milla-jovovich"
     },
     {
@@ -2025,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 17406,
+      "stars": 17494,
       "user": "safishamsi"
     },
     {
@@ -2040,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8729,
+      "stars": 8767,
       "user": "JuliusBrussee"
     },
     {
@@ -2055,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5426,
+      "stars": 5433,
       "user": "alchaincyf"
     },
     {
@@ -2070,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1112,
       "user": "Keychron"
     },
     {
@@ -2100,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "moabukar"
     },
     {
