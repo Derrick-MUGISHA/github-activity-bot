@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-10 0:00 CAT)
+## 📅 Latest Updates (2026-04-10 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [EmDash vs WordPress: Which CMS Delivers the Best Speed for African Websites?](https://dev.to/muyaedward/emdash-vs-wordpress-which-cms-delivers-the-best-speed-for-african-websites-4d3k) _[Dev.to]_
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 
-_Last automated update: Fri, 10 Apr 2026 00:00:17 CAT_
+_Last automated update: Fri, 10 Apr 2026 01:00:25 CAT_
 
 
 
@@ -227,29 +227,18 @@ _Last automated update: Fri, 10 Apr 2026 00:00:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 2. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 2. Database: Explain database indexing and when to use it
 
 **Difficulty**: Medium | **Topics**: optimization, performance
 
@@ -257,6 +246,17 @@ State in functional components, reusable logic, cleaner code
 <summary>💡 Hint</summary>
 
 B-tree, trade-offs, query performance
+
+</details>
+
+### 3. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 09 Apr 2026 22:00:17 GMT</b><br/>
+  <b>Last automated update: Thu, 09 Apr 2026 23:00:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
