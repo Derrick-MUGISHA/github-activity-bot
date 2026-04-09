@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-08-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-09-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -30,17 +30,17 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
-
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦 4 (3.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **WebDev**: 🟦 3 (2.9%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.6 (25.6%)
-Python          ██████████████████████████████ 25.6 (25.6%)
-Java            ██████████████████████████ 22.1 (22.1%)
-Go              ████████████████████████ 20.9 (20.9%)
-Rust            ███ 2.3 (2.3%)
+Python          ██████████████████████████████ 25.9 (25.9%)
+JavaScript      █████████████████████████████ 24.7 (24.7%)
+Java            ██████████████████████████ 22.4 (22.4%)
+Go              █████████████████████████ 21.2 (21.2%)
+Rust            ███ 2.4 (2.4%)
 Kotlin          █ 1.2 (1.2%)
 Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
@@ -73,8 +73,8 @@ PHP             █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
     "Python" : 22
+    "JavaScript" : 21
     "Java" : 19
     "Go" : 18
     "Rust" : 2
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-09 1:00 CAT)
+## 📅 Latest Updates (2026-04-09 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Move over, Vibe-Coding: I built an AI editor for STRESS-CODING](https://dev.to/phalkmin/move-over-vibe-coding-i-built-an-ai-editor-for-stress-coding-4243) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 
-_Last automated update: Thu, 09 Apr 2026 01:34:52 CAT_
+_Last automated update: Thu, 09 Apr 2026 02:03:23 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 09 Apr 2026 01:34:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 08 Apr 2026 23:34:52 GMT</b><br/>
+  <b>Last automated update: Thu, 09 Apr 2026 00:03:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
