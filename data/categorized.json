@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
+      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
+      "published_at": "2026-04-09T15:42:13Z",
+      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
+      "tags": [
+        "ai",
+        "architecture",
+        "llm",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
+      "published_at": "2026-04-09T15:06:56Z",
+      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
+      "tags": [
+        "sideprojects",
+        "ai",
+        "vibecoding",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
+      "source": "Dev.to",
+      "user": "Maria Dunning"
+    },
+    {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
       "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
       "published_at": "2026-04-07T20:06:35Z",
@@ -46,19 +76,49 @@
       "user": "Polliog"
     },
     {
-      "title": "Clawshier OpenClaw Skill",
-      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
-      "published_at": "2026-04-08T12:45:00Z",
-      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
+      "title": "Skills Are the New CLI",
+      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
+      "published_at": "2026-04-09T15:25:44Z",
+      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
       "tags": [
         "ai",
-        "openclaw",
-        "opensource",
-        "openai"
+        "development",
+        "software",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
-      "user": "Fernando"
+      "user": "Helder Burato Berto"
+    },
+    {
+      "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
+      "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
+      "published_at": "2026-04-06T21:40:03Z",
+      "description": "Until recently, running an LLM on your phone meant one thing: chat. You could have a conversation or...",
+      "tags": [
+        "aiondevice",
+        "android",
+        "ios",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
+      "source": "Dev.to",
+      "user": "Karl Weinmeister"
+    },
+    {
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
+      "published_at": "2026-04-09T13:07:00Z",
+      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
+      "tags": [
+        "nvidia",
+        "ai",
+        "gemma",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
@@ -91,6 +151,36 @@
       "user": "xbill"
     },
     {
+      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
+      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+      "published_at": "2026-04-09T03:19:37Z",
+      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
+      "tags": [
+        "ai",
+        "nlp",
+        "node",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
+      "source": "Dev.to",
+      "user": "tronghieuit"
+    },
+    {
+      "title": "Your vibe coding app works. That's exactly the problem.",
+      "url": "https://dev.to/bezael/your-vibe-coding-app-works-thats-exactly-the-problem-1omm",
+      "published_at": "2026-04-08T16:20:02Z",
+      "description": "Vibe coding gives you speed. It also gives you plaintext passwords, non-expiring tokens, and CORS open to the entire internet. This article is about the second part.",
+      "tags": [
+        "claudecode",
+        "vibecoding",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fgithub.com%2Fbezael%2Fai-workflow-kit%2Fraw%2Fmain%2Fbanner.png",
+      "source": "Dev.to",
+      "user": "Bezael Pérez"
+    },
+    {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
       "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
       "published_at": "2026-04-07T20:35:44Z",
@@ -104,6 +194,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
+    },
+    {
+      "title": "Clawshier OpenClaw Skill",
+      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
+      "published_at": "2026-04-08T12:45:00Z",
+      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "opensource",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
+      "source": "Dev.to",
+      "user": "Fernando"
     },
     {
       "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
@@ -262,6 +367,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdx4gsxtuu9l5rmfgmxfy.png",
       "source": "Dev.to",
       "user": "Stephen J Newhouse"
+    },
+    {
+      "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
+      "url": "https://dev.to/chefgs/how-to-avoid-vulnerabilities-in-ai-generated-javascript-and-nodejs-projects-4ggi",
+      "published_at": "2026-04-08T07:48:15Z",
+      "description": "Why Your AI Coding Workflow Needs Strict Node.js Rules to Avoid Vulnerabilities           ...",
+      "tags": [
+        "ai",
+        "code",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F33eqi53oc0bs427nzqc6.png",
+      "source": "Dev.to",
+      "user": "Saravanan Gnanaguru"
     },
     {
       "title": "The part of the job AI keeps missing",
@@ -485,96 +605,6 @@
       "user": "Scarlett Attensil"
     },
     {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
-      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
-      "published_at": "2026-03-23T23:19:39Z",
-      "description": "I want to tell you something that did not make it into the README.  I built...",
-      "tags": [
-        "ai",
-        "llm",
-        "monitoring",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
-      "source": "Dev.to",
-      "user": "Taiwrash"
-    },
-    {
-      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
-      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
-      "published_at": "2026-03-23T18:05:03Z",
-      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "makerchecker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
-      "source": "Dev.to",
-      "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
-    },
-    {
-      "title": "How to Create Your Own AI Coding Agent",
-      "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o",
-      "published_at": "2026-04-06T06:10:11Z",
-      "description": "Nearly all developers are taking advantage of AI coding tools, but what happens when you have a...",
-      "tags": [
-        "powerapps",
-        "vscode",
-        "coding",
-        "powerplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8iochsukrm6r2gfv5ff1.png",
-      "source": "Dev.to",
-      "user": "david wyatt"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -718,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26710,
+      "stars": 26904,
       "user": "santifer"
     },
     {
@@ -733,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 282,
       "user": "blairxu13"
     },
     {
@@ -748,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 32966,
+      "stars": 33636,
       "user": "milla-jovovich"
     },
     {
@@ -763,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16153,
+      "stars": 16516,
       "user": "safishamsi"
     },
     {
@@ -778,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5301,
+      "stars": 5370,
       "user": "alchaincyf"
     },
     {
@@ -793,11 +823,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 317,
       "user": "xoai"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
+      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+      "published_at": "2026-04-09T03:19:37Z",
+      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
+      "tags": [
+        "ai",
+        "nlp",
+        "node",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
+      "source": "Dev.to",
+      "user": "tronghieuit"
+    },
+    {
+      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
+      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
+      "published_at": "2026-04-09T01:19:42Z",
+      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
+      "tags": [
+        "sofianehamlaoui",
+        "aws",
+        "tutorial",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
+      "source": "Dev.to",
+      "user": "Sofiane Hamlaoui"
+    },
     {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
       "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
@@ -842,6 +902,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
+    },
+    {
+      "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
+      "url": "https://dev.to/chefgs/how-to-avoid-vulnerabilities-in-ai-generated-javascript-and-nodejs-projects-4ggi",
+      "published_at": "2026-04-08T07:48:15Z",
+      "description": "Why Your AI Coding Workflow Needs Strict Node.js Rules to Avoid Vulnerabilities           ...",
+      "tags": [
+        "ai",
+        "code",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F33eqi53oc0bs427nzqc6.png",
+      "source": "Dev.to",
+      "user": "Saravanan Gnanaguru"
     },
     {
       "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
@@ -1019,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26710,
+      "stars": 26904,
       "user": "santifer"
     },
     {
@@ -1034,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1574,
       "user": "xixu-me"
     },
     {
@@ -1049,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 694,
       "user": "LarsenCundric"
     },
     {
@@ -1064,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 282,
       "user": "blairxu13"
     },
     {
@@ -1079,11 +1154,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 279,
       "user": "S-Trespassing"
     }
   ],
   "Python": [
+    {
+      "title": "Handling missing dict keys, revisited",
+      "url": "https://dev.to/wangonya/handling-missing-dict-keys-revisited-4n53",
+      "published_at": "2026-04-08T17:12:04Z",
+      "description": "A while back, I wrote a post showing how to handle missing dict keys. In summary:   Using...",
+      "tags": [
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F252vf9p6b5zw9z1u32cw.png",
+      "source": "Dev.to",
+      "user": "Kelvin Wangonya"
+    },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
@@ -1113,51 +1200,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1291,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 32966,
+      "stars": 33636,
       "user": "milla-jovovich"
     },
     {
@@ -1306,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16153,
+      "stars": 16516,
       "user": "safishamsi"
     },
     {
@@ -1321,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8304,
+      "stars": 8392,
       "user": "JuliusBrussee"
     },
     {
@@ -1336,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5301,
+      "stars": 5370,
       "user": "alchaincyf"
     },
     {
@@ -1351,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 953,
       "user": "mattmireles"
     }
   ],
@@ -1474,7 +1516,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
+      "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
+      "published_at": "2026-04-06T21:40:03Z",
+      "description": "Until recently, running an LLM on your phone meant one thing: chat. You could have a conversation or...",
+      "tags": [
+        "aiondevice",
+        "android",
+        "ios",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
+      "source": "Dev.to",
+      "user": "Karl Weinmeister"
+    }
+  ],
   "Cloud": [
     {
       "title": "Converting old home movie DVDs into a private streaming site",
@@ -1492,19 +1550,19 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "Clawshier OpenClaw Skill",
-      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
-      "published_at": "2026-04-08T12:45:00Z",
-      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
+      "published_at": "2026-04-09T13:07:00Z",
+      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
       "tags": [
+        "nvidia",
         "ai",
-        "openclaw",
-        "opensource",
-        "openai"
+        "gemma",
+        "serverless"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
       "source": "Dev.to",
-      "user": "Fernando"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
@@ -1535,6 +1593,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob6hrb6cleaearnb995b.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
+      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
+      "published_at": "2026-04-09T01:19:42Z",
+      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
+      "tags": [
+        "sofianehamlaoui",
+        "aws",
+        "tutorial",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
+      "source": "Dev.to",
+      "user": "Sofiane Hamlaoui"
+    },
+    {
+      "title": "EmDash vs WordPress: Which CMS Delivers the Best Speed for African Websites?",
+      "url": "https://dev.to/muyaedward/emdash-vs-wordpress-which-cms-delivers-the-best-speed-for-african-websites-4d3k",
+      "published_at": "2026-04-08T15:32:32Z",
+      "description": "Comparing the best CMS for website speed in Africa — EmDash on Cloudflare Workers vs WordPress. Real benchmarks, real costs, real developer experience.",
+      "tags": [
+        "webdev",
+        "cms",
+        "performance",
+        "cloudflare"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn6pc3ac6pilvp0yioqwe.png",
+      "source": "Dev.to",
+      "user": "Edward Muya Mwangi"
+    },
+    {
+      "title": "Clawshier OpenClaw Skill",
+      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
+      "published_at": "2026-04-08T12:45:00Z",
+      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
+      "tags": [
+        "ai",
+        "openclaw",
+        "opensource",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
+      "source": "Dev.to",
+      "user": "Fernando"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -1596,21 +1699,6 @@
       "user": "Lucas Vieira"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aci-and-gemini-cli-3g4",
-      "published_at": "2026-04-04T22:45:43Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "azure",
-        "python",
-        "gemini",
-        "iac"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgsvosf3ok1vvza4ut93x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
       "url": "https://github.com/moabukar/miniblue",
       "published_at": "2026-04-03T23:14:09Z",
@@ -1622,7 +1710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 160,
       "user": "moabukar"
     }
   ],
@@ -1761,6 +1849,21 @@
       "user": "Polliog"
     },
     {
+      "title": "Skills Are the New CLI",
+      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
+      "published_at": "2026-04-09T15:25:44Z",
+      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
+      "tags": [
+        "ai",
+        "development",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
+    },
+    {
       "title": "My AI Agent Keeps Forgetting Everything",
       "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
       "published_at": "2026-04-07T15:52:28Z",
@@ -1836,66 +1939,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Git-Native Agent Orchestration: A Stateless Maker-Checker Pattern",
-      "url": "https://dev.to/szkiba/git-native-agent-orchestration-a-stateless-maker-checker-pattern-4956",
-      "published_at": "2026-03-23T18:05:03Z",
-      "description": "This guide introduces a drop-in architectural pattern for teams building multi-agent AI systems. It...",
-      "tags": [
-        "ai",
-        "agents",
-        "git",
-        "makerchecker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e464h5dvmcv216oiapa.png",
-      "source": "Dev.to",
-      "user": "Ivan SZKIBA"
-    },
-    {
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
-      "published_at": "2026-04-05T08:48:00Z",
-      "description": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
-      "tags": [
-        "ai",
-        "tutorial",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9148vhw47yebqcwyh3jt.png",
-      "source": "Dev.to",
-      "user": "Abid Ali"
-    },
-    {
-      "title": "What are your goals for the week? #172",
-      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm",
-      "published_at": "2026-03-30T14:28:37Z",
-      "description": "Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...",
-      "tags": [
-        "career",
-        "discuss",
-        "productivity",
-        "watercooler"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hg3w4vmgp4l5j546ko8.jpg",
-      "source": "Dev.to",
-      "user": "Chris Jarvis"
-    },
-    {
-      "title": "How to Create Your Own AI Coding Agent",
-      "url": "https://dev.to/wyattdave/how-to-create-your-own-ai-coding-agent-2h1o",
-      "published_at": "2026-04-06T06:10:11Z",
-      "description": "Nearly all developers are taking advantage of AI coding tools, but what happens when you have a...",
-      "tags": [
-        "powerapps",
-        "vscode",
-        "coding",
-        "powerplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8iochsukrm6r2gfv5ff1.png",
-      "source": "Dev.to",
-      "user": "david wyatt"
-    },
-    {
       "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "url": "https://github.com/santifer/career-ops",
       "published_at": "2026-04-04T18:21:18Z",
@@ -1907,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26710,
+      "stars": 26904,
       "user": "santifer"
     },
     {
@@ -1922,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1574,
       "user": "xixu-me"
     },
     {
@@ -1937,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 694,
       "user": "LarsenCundric"
     },
     {
@@ -1952,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 282,
       "user": "blairxu13"
     },
     {
@@ -1967,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 279,
       "user": "S-Trespassing"
     },
     {
@@ -1982,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 32966,
+      "stars": 33636,
       "user": "milla-jovovich"
     },
     {
@@ -1997,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16153,
+      "stars": 16516,
       "user": "safishamsi"
     },
     {
@@ -2012,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8304,
+      "stars": 8392,
       "user": "JuliusBrussee"
     },
     {
@@ -2027,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5301,
+      "stars": 5370,
       "user": "alchaincyf"
     },
     {
@@ -2042,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 953,
       "user": "mattmireles"
     },
     {
@@ -2057,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 317,
       "user": "xoai"
     },
     {
@@ -2072,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "pion"
     },
     {
@@ -2087,7 +2130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 160,
       "user": "moabukar"
     },
     {
