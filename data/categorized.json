@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
-      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
-      "published_at": "2026-04-09T15:42:13Z",
-      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
-      "tags": [
-        "ai",
-        "architecture",
-        "llm",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
       "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
       "published_at": "2026-04-09T15:06:56Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
       "source": "Dev.to",
       "user": "Maria Dunning"
+    },
+    {
+      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
+      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
+      "published_at": "2026-04-09T15:42:13Z",
+      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
+      "tags": [
+        "ai",
+        "architecture",
+        "llm",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
@@ -61,21 +61,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "Skills Are the New CLI",
       "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
       "published_at": "2026-04-09T15:25:44Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
     },
     {
       "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
@@ -119,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
-      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
-      "published_at": "2026-04-08T04:15:15Z",
-      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
-      "tags": [
-        "agents",
-        "ai",
-        "cloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26904,
+      "stars": 27056,
       "user": "santifer"
     },
     {
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "blairxu13"
     },
     {
@@ -778,14 +763,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 33636,
+      "stars": 33991,
       "user": "milla-jovovich"
     },
     {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "url": "https://github.com/safishamsi/graphify",
       "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "tags": [
         "python",
         "github",
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16516,
+      "stars": 16719,
       "user": "safishamsi"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5370,
+      "stars": 5391,
       "user": "alchaincyf"
     },
     {
@@ -1094,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26904,
+      "stars": 27056,
       "user": "santifer"
     },
     {
@@ -1109,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1574,
+      "stars": 1604,
       "user": "xixu-me"
     },
     {
@@ -1124,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 695,
       "user": "LarsenCundric"
     },
     {
@@ -1139,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "blairxu13"
     },
     {
@@ -1333,14 +1318,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 33636,
+      "stars": 33991,
       "user": "milla-jovovich"
     },
     {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "url": "https://github.com/safishamsi/graphify",
       "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "tags": [
         "python",
         "github",
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16516,
+      "stars": 16719,
       "user": "safishamsi"
     },
     {
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8392,
+      "stars": 8470,
       "user": "JuliusBrussee"
     },
     {
@@ -1378,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5370,
+      "stars": 5391,
       "user": "alchaincyf"
     },
     {
@@ -1393,26 +1378,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 963,
       "user": "mattmireles"
     }
   ],
   "DevOps": [
-    {
-      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
-      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
-      "published_at": "2026-04-08T04:15:15Z",
-      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
-      "tags": [
-        "agents",
-        "ai",
-        "cloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
     {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
       "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
@@ -1565,21 +1535,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
-      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
-      "published_at": "2026-04-08T04:15:15Z",
-      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
-      "tags": [
-        "agents",
-        "ai",
-        "cloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j",
       "published_at": "2026-04-07T13:16:14Z",
@@ -1710,7 +1665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "moabukar"
     }
   ],
@@ -1834,21 +1789,6 @@
   ],
   "Tools": [
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "Skills Are the New CLI",
       "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
       "published_at": "2026-04-09T15:25:44Z",
@@ -1862,6 +1802,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
     },
     {
       "title": "My AI Agent Keeps Forgetting Everything",
@@ -1950,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26904,
+      "stars": 27056,
       "user": "santifer"
     },
     {
@@ -1965,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1574,
+      "stars": 1604,
       "user": "xixu-me"
     },
     {
@@ -1980,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 695,
       "user": "LarsenCundric"
     },
     {
@@ -1995,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "blairxu13"
     },
     {
@@ -2025,14 +1980,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 33636,
+      "stars": 33991,
       "user": "milla-jovovich"
     },
     {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "url": "https://github.com/safishamsi/graphify",
       "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "tags": [
         "python",
         "github",
@@ -2040,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 16516,
+      "stars": 16719,
       "user": "safishamsi"
     },
     {
@@ -2055,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8392,
+      "stars": 8470,
       "user": "JuliusBrussee"
     },
     {
@@ -2070,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5370,
+      "stars": 5391,
       "user": "alchaincyf"
     },
     {
@@ -2085,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 963,
       "user": "mattmireles"
     },
     {
@@ -2130,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "moabukar"
     },
     {
