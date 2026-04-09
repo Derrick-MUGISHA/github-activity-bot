@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Forem (Dev.to) is slow, so I del...optimized it.",
+      "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
+      "published_at": "2026-04-07T20:06:35Z",
+      "description": "This is a submission for the DEV April Fools Challenge   Disclaimer: This post is very very very very...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
       "title": "Converting old home movie DVDs into a private streaming site",
       "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
       "published_at": "2026-04-08T19:46:46Z",
@@ -16,6 +31,21 @@
       "user": "Peter Kim Frank"
     },
     {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
+    },
+    {
       "title": "Clawshier OpenClaw Skill",
       "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
       "published_at": "2026-04-08T12:45:00Z",
@@ -29,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
       "source": "Dev.to",
       "user": "Fernando"
-    },
-    {
-      "title": "Forem (Dev.to) is slow, so I del...optimized it.",
-      "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
-      "published_at": "2026-04-07T20:06:35Z",
-      "description": "This is a submission for the DEV April Fools Challenge   Disclaimer: This post is very very very very...",
-      "tags": [
-        "devchallenge",
-        "418challenge",
-        "showdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
       "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
@@ -294,6 +309,21 @@
       "user": "Ivelin (Ivo)"
     },
     {
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
+      "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
+      "published_at": "2026-04-06T16:02:04Z",
+      "description": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
+      "tags": [
+        "agents",
+        "tutorial",
+        "ai",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
       "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
       "published_at": "2026-04-07T13:04:00Z",
@@ -351,21 +381,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
-    },
-    {
-      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
-      "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
-      "published_at": "2026-04-06T16:02:04Z",
-      "description": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
-      "tags": [
-        "agents",
-        "tutorial",
-        "ai",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Inside Airbnb’s Mussel v2: Rebuilding a Petabyte-Scale Key-Value Store",
@@ -703,23 +718,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26477,
+      "stars": 26710,
       "user": "santifer"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "NyxTides"
     },
     {
       "title": "blairxu13/persona3-website - GitHub Repository",
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 279,
       "user": "blairxu13"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 32107,
+      "stars": 32966,
       "user": "milla-jovovich"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 15649,
+      "stars": 16153,
       "user": "safishamsi"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5200,
+      "stars": 5301,
       "user": "alchaincyf"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "xoai"
     }
   ],
@@ -886,21 +886,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx87tqdppj1fmoh1j4gh.png",
       "source": "Dev.to",
       "user": "Paulo Henrique"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1034,7 +1019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26477,
+      "stars": 26710,
       "user": "santifer"
     },
     {
@@ -1049,7 +1034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1485,
       "user": "xixu-me"
     },
     {
@@ -1064,23 +1049,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "LarsenCundric"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "NyxTides"
     },
     {
       "title": "blairxu13/persona3-website - GitHub Repository",
@@ -1094,8 +1064,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 279,
       "user": "blairxu13"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "S-Trespassing"
     }
   ],
   "Python": [
@@ -1306,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 32107,
+      "stars": 32966,
       "user": "milla-jovovich"
     },
     {
@@ -1321,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 15649,
+      "stars": 16153,
       "user": "safishamsi"
     },
     {
@@ -1336,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8199,
+      "stars": 8304,
       "user": "JuliusBrussee"
     },
     {
@@ -1351,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5200,
+      "stars": 5301,
       "user": "alchaincyf"
     },
     {
@@ -1366,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 930,
       "user": "mattmireles"
     }
   ],
@@ -1475,21 +1460,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmccy9j2q85h6eqi1f26.png",
       "source": "Dev.to",
       "user": "iamradioactive"
-    },
-    {
-      "title": "How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story",
-      "url": "https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8",
-      "published_at": "2026-03-23T05:48:13Z",
-      "description": "How I used React Portals and JavaScript media queries to solve a real-world layout problem on a...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b18kg10cswy7jvr3nh7.png",
-      "source": "Dev.to",
-      "user": "Satish Gowda"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1652,11 +1622,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 156,
       "user": "moabukar"
     }
   ],
   "Database": [
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
+    },
     {
       "title": "Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)",
       "url": "https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm",
@@ -1686,6 +1671,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Mastering Error Handling in Go",
+      "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
+      "published_at": "2026-04-09T13:54:17Z",
+      "description": "Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...",
+      "tags": [
+        "go",
+        "programming",
+        "tutorial",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
+      "source": "Dev.to",
+      "user": "Aditya"
+    },
     {
       "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
       "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
@@ -1742,24 +1742,24 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "NyxTides"
     }
   ],
   "Tools": [
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
+    },
     {
       "title": "My AI Agent Keeps Forgetting Everything",
       "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
@@ -1907,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 26477,
+      "stars": 26710,
       "user": "santifer"
     },
     {
@@ -1922,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1485,
       "user": "xixu-me"
     },
     {
@@ -1937,23 +1937,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "LarsenCundric"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "NyxTides"
     },
     {
       "title": "blairxu13/persona3-website - GitHub Repository",
@@ -1967,8 +1952,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 279,
       "user": "blairxu13"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "S-Trespassing"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1982,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 32107,
+      "stars": 32966,
       "user": "milla-jovovich"
     },
     {
@@ -1997,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
       "source": "GitHub",
-      "stars": 15649,
+      "stars": 16153,
       "user": "safishamsi"
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8199,
+      "stars": 8304,
       "user": "JuliusBrussee"
     },
     {
@@ -2027,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5200,
+      "stars": 5301,
       "user": "alchaincyf"
     },
     {
@@ -2042,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 930,
       "user": "mattmireles"
     },
     {
@@ -2057,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "xoai"
     },
     {
@@ -2072,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "pion"
     },
     {
@@ -2087,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 156,
       "user": "moabukar"
     },
     {
