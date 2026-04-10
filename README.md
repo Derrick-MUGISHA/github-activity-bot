@@ -204,9 +204,9 @@ npm run test
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e) _[Dev.to]_
 - [What is an LLM actually doing when it's "thinking"?](https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5) _[Dev.to]_
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8) _[Dev.to]_
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8) _[Dev.to]_
 - [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) _[Dev.to]_
 - [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2) _[Dev.to]_
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [The "Stateless" AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic) _[Dev.to]_
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
 
-_Last automated update: Fri, 10 Apr 2026 21:07:14 CAT_
+_Last automated update: Fri, 10 Apr 2026 21:53:42 CAT_
 
 
 
@@ -226,25 +226,25 @@ _Last automated update: Fri, 10 Apr 2026 21:07:14 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 10 Apr 2026 19:07:14 GMT</b><br/>
+  <b>Last automated update: Fri, 10 Apr 2026 19:53:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
