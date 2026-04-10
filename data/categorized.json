@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
-      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
-      "published_at": "2026-04-09T15:06:56Z",
-      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
-      "tags": [
-        "sideprojects",
-        "ai",
-        "vibecoding",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
-      "source": "Dev.to",
-      "user": "Maria Dunning"
-    },
-    {
       "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
       "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
       "published_at": "2026-04-10T13:18:59Z",
@@ -29,21 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
       "source": "Dev.to",
       "user": "Jordan Harrison"
-    },
-    {
-      "title": "What is an LLM actually doing when it's \"thinking\"?",
-      "url": "https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5",
-      "published_at": "2026-04-10T16:42:45Z",
-      "description": "Ever wondered what an LLM is doing when it's \"thinking\"?  In this episode of Release Notes Explained,...",
-      "tags": [
-        "gemini",
-        "llm",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lg0c431k73y8ijnsy88.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
     },
     {
       "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
@@ -89,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "What is an LLM actually doing when it's \"thinking\"?",
+      "url": "https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5",
+      "published_at": "2026-04-10T16:42:45Z",
+      "description": "Ever wondered what an LLM is doing when it's \"thinking\"?  In this episode of Release Notes Explained,...",
+      "tags": [
+        "gemini",
+        "llm",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lg0c431k73y8ijnsy88.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
       "source": "Dev.to",
       "user": "William Weiner"
+    },
+    {
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
+      "published_at": "2026-04-09T15:06:56Z",
+      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
+      "tags": [
+        "sideprojects",
+        "ai",
+        "vibecoding",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
+      "source": "Dev.to",
+      "user": "Maria Dunning"
     },
     {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29041,
+      "stars": 29088,
       "user": "santifer"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39443,
+      "stars": 39532,
       "user": "milla-jovovich"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6497,
+      "stars": 6517,
       "user": "alchaincyf"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1787,
       "user": "Keychron"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "xoai"
     }
   ],
@@ -1127,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29041,
+      "stars": 29088,
       "user": "santifer"
     },
     {
@@ -1142,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2747,
+      "stars": 2770,
       "user": "xixu-me"
     },
     {
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39443,
+      "stars": 39532,
       "user": "milla-jovovich"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 10390,
+      "stars": 10833,
       "user": "JuliusBrussee"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6497,
+      "stars": 6517,
       "user": "alchaincyf"
     },
     {
@@ -1471,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1787,
       "user": "Keychron"
     },
     {
@@ -1486,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1130,
       "user": "mattmireles"
     }
   ],
@@ -2029,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29041,
+      "stars": 29088,
       "user": "santifer"
     },
     {
@@ -2044,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2747,
+      "stars": 2770,
       "user": "xixu-me"
     },
     {
@@ -2104,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39443,
+      "stars": 39532,
       "user": "milla-jovovich"
     },
     {
@@ -2119,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 10390,
+      "stars": 10833,
       "user": "JuliusBrussee"
     },
     {
@@ -2134,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6497,
+      "stars": 6517,
       "user": "alchaincyf"
     },
     {
@@ -2149,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1787,
       "user": "Keychron"
     },
     {
@@ -2164,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1130,
       "user": "mattmireles"
     },
     {
@@ -2179,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "xoai"
     },
     {
@@ -2209,7 +2209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "boratanrikulu"
     },
     {
