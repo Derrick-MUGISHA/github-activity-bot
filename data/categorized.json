@@ -16,6 +16,51 @@
       "user": "Maria Dunning"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
+      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
+      "published_at": "2026-04-10T13:18:59Z",
+      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
+      "tags": [
+        "a11y",
+        "saas",
+        "showdev",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
+      "source": "Dev.to",
+      "user": "Jordan Harrison"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
+      "published_at": "2026-04-08T13:15:23Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googlecloudplatform",
+        "adk",
+        "gemini",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Skills Are the New CLI",
       "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
       "published_at": "2026-04-09T15:25:44Z",
@@ -29,6 +74,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
+      "published_at": "2026-04-10T12:54:24Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "google",
+        "gemini",
+        "ecsexpress",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
@@ -106,6 +181,35 @@
       "user": "Peter Kim Frank"
     },
     {
+      "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
+      "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
+      "published_at": "2026-04-09T20:07:24Z",
+      "description": "A few weeks ago I posted about finding the same per-recipient identifier in three independent places...",
+      "tags": [
+        "privacy",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
+      "source": "Dev.to",
+      "user": "William Weiner"
+    },
+    {
+      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
+      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
+      "published_at": "2026-04-09T18:46:30Z",
+      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
+      "tags": [
+        "docker",
+        "linux",
+        "mcp",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
+      "source": "Dev.to",
+      "user": "Daniel Schroeder"
+    },
+    {
       "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
       "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
       "published_at": "2026-04-09T15:42:13Z",
@@ -119,6 +223,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "A Go + React monorepo starter with auth and multi-tenancy",
+      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
+      "published_at": "2026-04-09T17:15:51Z",
+      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
+      "tags": [
+        "go",
+        "react",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
+      "source": "Dev.to",
+      "user": "Calebe Aires"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
@@ -166,21 +285,6 @@
       "user": "Benny Code"
     },
     {
-      "title": "Clawshier OpenClaw Skill",
-      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
-      "published_at": "2026-04-08T12:45:00Z",
-      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "opensource",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
-      "source": "Dev.to",
-      "user": "Fernando"
-    },
-    {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
       "published_at": "2026-04-04T22:47:18Z",
@@ -209,75 +313,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
-    },
-    {
-      "title": "Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere",
-      "url": "https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228",
-      "published_at": "2026-04-02T19:58:01Z",
-      "description": "A few days ago I received a promotional-style email asking for lobbying help on upcoming state...",
-      "tags": [
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg",
-      "source": "Dev.to",
-      "user": "William Weiner"
-    },
-    {
-      "title": "New Site, Who Dis?",
-      "url": "https://dev.to/robearlam/new-site-who-dis-592h",
-      "published_at": "2026-03-30T00:00:00Z",
-      "description": "For anyone who's read my blog posts before, you wont have seen much (if any) content on here about...",
-      "tags": [
-        "personalsite",
-        "aidevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fou8adwsgx3hgqsqiau1i.png",
-      "source": "Dev.to",
-      "user": "Rob Earlam"
-    },
-    {
-      "title": "Using AI Agents to Debug Distributed Systems in Under a Minute",
-      "url": "https://dev.to/tomasmaiorino/using-ai-agents-to-debug-distributed-systems-in-under-a-minute-4j20",
-      "published_at": "2026-04-01T22:30:57Z",
-      "description": "How we built an AI agent with Spring AI to automate root cause analysis of distributed task delays in a multi-tenant system.",
-      "tags": [
-        "ai",
-        "java",
-        "springai",
-        "troubleshooting"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fissdyt8g5ho5zslocp7p.png",
-      "source": "Dev.to",
-      "user": "tomas maiorino"
-    },
-    {
-      "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
-      "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
-      "published_at": "2026-03-29T09:59:19Z",
-      "description": "Why Rails still matters for startups and AI-assisted coding: less chaos, more momentum.",
-      "tags": [
-        "rails",
-        "startup",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvr1n0lyme427s3vip2w.png",
-      "source": "Dev.to",
-      "user": "Mezbah Alam"
-    },
-    {
-      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
-      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
-      "published_at": "2026-04-01T12:41:18Z",
-      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
-      "tags": [
-        "webdev",
-        "ai",
-        "opensource",
-        "authentication"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
-      "source": "Dev.to",
-      "user": "Lakhan Samani"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -703,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28760,
+      "stars": 28863,
       "user": "santifer"
     },
     {
@@ -718,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "blairxu13"
     },
     {
@@ -733,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 38998,
+      "stars": 39164,
       "user": "milla-jovovich"
     },
     {
@@ -748,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6410,
+      "stars": 6451,
       "user": "alchaincyf"
     },
     {
@@ -763,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1577,
       "user": "Keychron"
     },
     {
@@ -778,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "xoai"
     }
   ],
@@ -795,6 +830,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "A Go + React monorepo starter with auth and multi-tenancy",
+      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
+      "published_at": "2026-04-09T17:15:51Z",
+      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
+      "tags": [
+        "go",
+        "react",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
+      "source": "Dev.to",
+      "user": "Calebe Aires"
     },
     {
       "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
@@ -1047,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28760,
+      "stars": 28863,
       "user": "santifer"
     },
     {
@@ -1062,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2634,
+      "stars": 2686,
       "user": "xixu-me"
     },
     {
@@ -1077,8 +1127,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "blairxu13"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "S-Trespassing"
     },
     {
       "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
@@ -1094,24 +1159,54 @@
       "source": "GitHub",
       "stars": 293,
       "user": "zacdcook"
-    },
-    {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "S-Trespassing"
     }
   ],
   "Python": [
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
+      "published_at": "2026-04-10T12:54:24Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "google",
+        "gemini",
+        "ecsexpress",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
@@ -1301,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 38998,
+      "stars": 39164,
       "user": "milla-jovovich"
     },
     {
@@ -1316,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9922,
+      "stars": 10020,
       "user": "JuliusBrussee"
     },
     {
@@ -1331,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6410,
+      "stars": 6451,
       "user": "alchaincyf"
     },
     {
@@ -1346,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1577,
       "user": "Keychron"
     },
     {
@@ -1361,11 +1456,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1111,
       "user": "mattmireles"
     }
   ],
   "DevOps": [
+    {
+      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
+      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
+      "published_at": "2026-04-09T18:46:30Z",
+      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
+      "tags": [
+        "docker",
+        "linux",
+        "mcp",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
+      "source": "Dev.to",
+      "user": "Daniel Schroeder"
+    },
     {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
       "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
@@ -1459,6 +1569,66 @@
   ],
   "Cloud": [
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
+      "published_at": "2026-04-08T13:15:23Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googlecloudplatform",
+        "adk",
+        "gemini",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
+      "published_at": "2026-04-10T12:54:24Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "google",
+        "gemini",
+        "ecsexpress",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
       "published_at": "2026-04-09T13:07:00Z",
@@ -1517,21 +1687,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "Clawshier OpenClaw Skill",
-      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
-      "published_at": "2026-04-08T12:45:00Z",
-      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "opensource",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
-      "source": "Dev.to",
-      "user": "Fernando"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -1625,6 +1780,20 @@
   ],
   "Security": [
     {
+      "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
+      "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
+      "published_at": "2026-04-09T20:07:24Z",
+      "description": "A few weeks ago I posted about finding the same per-recipient identifier in three independent places...",
+      "tags": [
+        "privacy",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
+      "source": "Dev.to",
+      "user": "William Weiner"
+    },
+    {
       "title": "Mastering Error Handling in Go",
       "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
       "published_at": "2026-04-09T13:54:17Z",
@@ -1638,21 +1807,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
       "source": "Dev.to",
       "user": "Aditya"
-    },
-    {
-      "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
-      "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
-      "published_at": "2026-04-01T12:41:18Z",
-      "description": "We just shipped Authorizer v2 — a major rewrite of our open-source, self-hosted authentication and...",
-      "tags": [
-        "webdev",
-        "ai",
-        "opensource",
-        "authentication"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
-      "source": "Dev.to",
-      "user": "Lakhan Samani"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -1729,6 +1883,21 @@
       "user": "Polliog"
     },
     {
+      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
+      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
+      "published_at": "2026-04-09T18:46:30Z",
+      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
+      "tags": [
+        "docker",
+        "linux",
+        "mcp",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
+      "source": "Dev.to",
+      "user": "Daniel Schroeder"
+    },
+    {
       "title": "My AI Agent Keeps Forgetting Everything",
       "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
       "published_at": "2026-04-07T15:52:28Z",
@@ -1800,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28760,
+      "stars": 28863,
       "user": "santifer"
     },
     {
@@ -1815,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2634,
+      "stars": 2686,
       "user": "xixu-me"
     },
     {
@@ -1830,8 +1999,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "blairxu13"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "S-Trespassing"
     },
     {
       "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
@@ -1849,21 +2033,6 @@
       "user": "zacdcook"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "S-Trespassing"
-    },
-    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -1875,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 38998,
+      "stars": 39164,
       "user": "milla-jovovich"
     },
     {
@@ -1890,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9922,
+      "stars": 10020,
       "user": "JuliusBrussee"
     },
     {
@@ -1905,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6410,
+      "stars": 6451,
       "user": "alchaincyf"
     },
     {
@@ -1920,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1577,
       "user": "Keychron"
     },
     {
@@ -1935,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1111,
       "user": "mattmireles"
     },
     {
@@ -1950,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "xoai"
     },
     {
@@ -1995,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "rvitorper"
     },
     {
