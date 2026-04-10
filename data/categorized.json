@@ -16,21 +16,6 @@
       "user": "Maria Dunning"
     },
     {
-      "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
-      "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
-      "published_at": "2026-04-06T21:40:03Z",
-      "description": "Until recently, running an LLM on your phone meant one thing: chat. You could have a conversation or...",
-      "tags": [
-        "aiondevice",
-        "android",
-        "ios",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
-      "source": "Dev.to",
-      "user": "Karl Weinmeister"
-    },
-    {
       "title": "Skills Are the New CLI",
       "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
       "published_at": "2026-04-09T15:25:44Z",
@@ -61,21 +46,6 @@
       "user": "Polliog"
     },
     {
-      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
-      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
-      "published_at": "2026-04-09T15:42:13Z",
-      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
-      "tags": [
-        "ai",
-        "architecture",
-        "llm",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
       "published_at": "2026-04-09T13:07:00Z",
@@ -89,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
+      "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
+      "published_at": "2026-04-06T21:40:03Z",
+      "description": "Until recently, running an LLM on your phone meant one thing: chat. You could have a conversation or...",
+      "tags": [
+        "aiondevice",
+        "android",
+        "ios",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
+      "source": "Dev.to",
+      "user": "Karl Weinmeister"
     },
     {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
       "source": "Dev.to",
       "user": "Peter Kim Frank"
+    },
+    {
+      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
+      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
+      "published_at": "2026-04-09T15:42:13Z",
+      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
+      "tags": [
+        "ai",
+        "architecture",
+        "llm",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28619,
+      "stars": 28760,
       "user": "santifer"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "blairxu13"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 38769,
+      "stars": 38998,
       "user": "milla-jovovich"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6361,
+      "stars": 6410,
       "user": "alchaincyf"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1548,
       "user": "Keychron"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "xoai"
     }
   ],
@@ -1047,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28619,
+      "stars": 28760,
       "user": "santifer"
     },
     {
@@ -1062,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2569,
+      "stars": 2634,
       "user": "xixu-me"
     },
     {
@@ -1077,8 +1077,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "blairxu13"
+    },
+    {
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "zacdcook"
     },
     {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
@@ -1094,21 +1109,6 @@
       "source": "GitHub",
       "stars": 292,
       "user": "S-Trespassing"
-    },
-    {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "zacdcook"
     }
   ],
   "Python": [
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 38769,
+      "stars": 38998,
       "user": "milla-jovovich"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9805,
+      "stars": 9922,
       "user": "JuliusBrussee"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6361,
+      "stars": 6410,
       "user": "alchaincyf"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1548,
       "user": "Keychron"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1110,
       "user": "mattmireles"
     }
   ],
@@ -1380,20 +1380,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
-    },
-    {
-      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
-      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
-      "published_at": "2026-03-29T04:13:52Z",
-      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
-      "tags": [
-        "devops",
-        "cloud",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
-      "source": "Dev.to",
-      "user": "Ajadi Olalekan Jamiu"
     },
     {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
@@ -1561,20 +1547,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
-      "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
-      "published_at": "2026-03-29T04:13:52Z",
-      "description": "Introduction  In the early stages of learning cloud development, it’s tempting to just \"make it work\"...",
-      "tags": [
-        "devops",
-        "cloud",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
-      "source": "Dev.to",
-      "user": "Ajadi Olalekan Jamiu"
     },
     {
       "title": "EmDash vs WordPress: Which CMS Delivers the Best Speed for African Websites?",
@@ -1828,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28619,
+      "stars": 28760,
       "user": "santifer"
     },
     {
@@ -1843,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2569,
+      "stars": 2634,
       "user": "xixu-me"
     },
     {
@@ -1858,8 +1830,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "blairxu13"
+    },
+    {
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "zacdcook"
     },
     {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
@@ -1877,21 +1864,6 @@
       "user": "S-Trespassing"
     },
     {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "zacdcook"
-    },
-    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -1903,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 38769,
+      "stars": 38998,
       "user": "milla-jovovich"
     },
     {
@@ -1918,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9805,
+      "stars": 9922,
       "user": "JuliusBrussee"
     },
     {
@@ -1933,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6361,
+      "stars": 6410,
       "user": "alchaincyf"
     },
     {
@@ -1948,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1548,
       "user": "Keychron"
     },
     {
@@ -1963,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1110,
       "user": "mattmireles"
     },
     {
@@ -1978,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "xoai"
     },
     {
