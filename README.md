@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-10-orange)
 
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (54.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.7%)
+**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
 
-**DevOps**: 🟦🟦 5 (4.9%)
+**Security**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦🟦 5 (4.9%)
-
-**WebDev**: 🟦 3 (2.9%)
-
-**Database**: 🟦 3 (2.9%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Mobile**: 🟦 2 (1.9%)
+
+**Database**: 🟦 2 (1.9%)
+
+**WebDev**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,24 +60,24 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Go              █████████████████████████ 22.7 (22.7%)
-Java            ████████████████████████ 21.6 (21.6%)
-Python          ███████████████████████ 20.5 (20.5%)
-Kotlin          ███ 2.3 (2.3%)
-Rust            ███ 2.3 (2.3%)
-Swift           █ 1.1 (1.1%)
-Ruby            █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Python          ████████████████████████ 22.1 (22.1%)
+Java            ████████████████████████ 22.1 (22.1%)
+Go              █████████████████████ 19.8 (19.8%)
+Kotlin          ██ 2.3 (2.3%)
+Rust            ██ 2.3 (2.3%)
+Swift           █ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 20
+    "Python" : 19
     "Java" : 19
-    "Python" : 18
+    "Go" : 17
     "Kotlin" : 2
     "Rust" : 2
     "Swift" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![programming](https://img.shields.io/badge/programming-4-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![418challenge](https://img.shields.io/badge/418challenge-5-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-10 10:00 CAT)
+## 📅 Latest Updates (2026-04-10 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,18 +208,18 @@ npm run test
 - [The "Stateless" AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic) _[Dev.to]_
 - [Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b) _[Dev.to]_
 - [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln) _[Dev.to]_
-- [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
 - [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 - [I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How](https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8) _[Dev.to]_
-- [Handling missing dict keys, revisited](https://dev.to/wangonya/handling-missing-dict-keys-revisited-4n53) _[Dev.to]_
 - [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m) _[Dev.to]_
 - [Who's Al and Where's Webfont Legibility?](https://dev.to/ingosteinke/whos-al-and-wheres-webfont-legibility-4h7n) _[Dev.to]_
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [Clawshier OpenClaw Skill](https://dev.to/fdocr/clawshier-openclaw-skill-l1n) _[Dev.to]_
+- [AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler](https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0) _[Dev.to]_
+- [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 
-_Last automated update: Fri, 10 Apr 2026 10:25:00 CAT_
+_Last automated update: Fri, 10 Apr 2026 11:45:47 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Fri, 10 Apr 2026 10:25:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Iterative or recursive, three pointers
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 10 Apr 2026 08:25:00 GMT</b><br/>
+  <b>Last automated update: Fri, 10 Apr 2026 09:45:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
