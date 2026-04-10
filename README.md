@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-10 7:00 CAT)
+## 📅 Latest Updates (2026-04-10 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -165,15 +165,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/helderberto/skills-are-the-new-cli-225e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png" width="200" alt="Skills Are the New CLI" />
-      <br/>
-      <b>Skills Are the New CLI</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg" width="200" alt="On-Device AI with the Google AI Edge Gallery and Gemma 4" />
       <br/>
@@ -191,6 +182,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/helderberto/skills-are-the-new-cli-225e">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png" width="200" alt="Skills Are the New CLI" />
+      <br/>
+      <b>Skills Are the New CLI</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -201,9 +201,9 @@ npm run test
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
-- [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e) _[Dev.to]_
 - [On-Device AI with the Google AI Edge Gallery and Gemma 4](https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena) _[Dev.to]_
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
+- [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e) _[Dev.to]_
 - [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) _[Dev.to]_
 - [When Your UX Only Fits Two Sizes](https://dev.to/phalkmin/when-your-ux-only-fits-two-sizes-3a1e) _[Dev.to]_
 - [The "Stateless" AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [Who's Al and Where's Webfont Legibility?](https://dev.to/ingosteinke/whos-al-and-wheres-webfont-legibility-4h7n) _[Dev.to]_
 
-_Last automated update: Fri, 10 Apr 2026 07:08:28 CAT_
+_Last automated update: Fri, 10 Apr 2026 09:00:14 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Fri, 10 Apr 2026 07:08:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 10 Apr 2026 05:08:28 GMT</b><br/>
+  <b>Last automated update: Fri, 10 Apr 2026 07:00:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
