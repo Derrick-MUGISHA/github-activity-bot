@@ -339,6 +339,21 @@
       "user": "Stephen J Newhouse"
     },
     {
+      "title": "Your vibe coding app works. That's exactly the problem.",
+      "url": "https://dev.to/bezael/your-vibe-coding-app-works-thats-exactly-the-problem-1omm",
+      "published_at": "2026-04-08T16:20:02Z",
+      "description": "Vibe coding gives you speed. It also gives you plaintext passwords, non-expiring tokens, and CORS open to the entire internet. This article is about the second part.",
+      "tags": [
+        "claudecode",
+        "vibecoding",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fgithub.com%2Fbezael%2Fai-workflow-kit%2Fraw%2Fmain%2Fbanner.png",
+      "source": "Dev.to",
+      "user": "Bezael Pérez"
+    },
+    {
       "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
       "url": "https://dev.to/chefgs/how-to-avoid-vulnerabilities-in-ai-generated-javascript-and-nodejs-projects-4ggi",
       "published_at": "2026-04-08T07:48:15Z",
@@ -369,21 +384,6 @@
       "user": "Agon"
     },
     {
-      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
-      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
-      "published_at": "2026-04-08T04:15:15Z",
-      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
-      "tags": [
-        "agents",
-        "ai",
-        "cloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
       "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
       "published_at": "2026-04-05T16:04:44Z",
@@ -399,21 +399,6 @@
       "user": "Deola Adediran"
     },
     {
-      "title": "The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents",
-      "url": "https://dev.to/ivolondon/the-rise-of-the-fleet-scaling-my-engineering-workflow-with-vscode-copilot-agents-3boe",
-      "published_at": "2026-04-06T20:59:58Z",
-      "description": "In this post, I’ll walk you through how I use Copilot and my personal preferences for different...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "vscode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmziy028k3psjx8s9k2wp.png",
-      "source": "Dev.to",
-      "user": "Ivelin (Ivo)"
-    },
-    {
       "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
       "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
       "published_at": "2026-04-06T16:02:04Z",
@@ -427,6 +412,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0wopqh8z8l9t5jua1jrl.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents",
+      "url": "https://dev.to/ivolondon/the-rise-of-the-fleet-scaling-my-engineering-workflow-with-vscode-copilot-agents-3boe",
+      "published_at": "2026-04-06T20:59:58Z",
+      "description": "In this post, I’ll walk you through how I use Copilot and my personal preferences for different...",
+      "tags": [
+        "agents",
+        "ai",
+        "productivity",
+        "vscode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmziy028k3psjx8s9k2wp.png",
+      "source": "Dev.to",
+      "user": "Ivelin (Ivo)"
     },
     {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
@@ -458,21 +458,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails & Team Notifications",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6",
-      "published_at": "2026-04-07T16:53:56Z",
-      "description": "As a consultant, I've learned one universal truth, The speed of your response determines the quality...",
-      "tags": [
-        "googleworkspace",
-        "workspacestudio",
-        "automation",
-        "crm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwk62lnff5tfr7eexgzv.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -486,36 +471,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
-    },
-    {
-      "title": "Inside Airbnb’s Mussel v2: Rebuilding a Petabyte-Scale Key-Value Store",
-      "url": "https://dev.to/iamradioactive/inside-airbnbs-mussel-v2-rebuilding-a-petabyte-scale-key-value-store-ho9",
-      "published_at": "2026-04-06T14:56:34Z",
-      "description": "Airbnb recently published a detailed write-up on Mussel v2, the next generation of their internal...",
-      "tags": [
-        "systemdesign",
-        "distributedsystems",
-        "backend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmccy9j2q85h6eqi1f26.png",
-      "source": "Dev.to",
-      "user": "iamradioactive"
-    },
-    {
-      "title": "Making OpenClaw remember what it's doing after compaction",
-      "url": "https://dev.to/whtsky/making-openclaw-remember-what-its-doing-after-compaction-11fe",
-      "published_at": "2026-04-06T15:25:46Z",
-      "description": "OpenClaw is great and I've been using it across a dozen Discord channels: travel planning, coding...",
-      "tags": [
-        "openclaw",
-        "ai",
-        "contextcompaction",
-        "agentmemory"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0u4qd835jsshnni7ipo9.png",
-      "source": "Dev.to",
-      "user": "Wu Haotian"
     },
     {
       "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
@@ -573,6 +528,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
       "source": "Dev.to",
       "user": "Scarlett Attensil"
+    },
+    {
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
+      "tags": [
+        "opensource",
+        "python",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
+      "source": "Dev.to",
+      "user": "Matheus Luz"
+    },
+    {
+      "title": "I Added Langfuse to My RAG App and It Immediately Caught Two Bugs",
+      "url": "https://dev.to/taiwrash/i-added-langfuse-to-my-rag-app-and-it-immediately-caught-two-bugs-4li3",
+      "published_at": "2026-03-23T23:19:39Z",
+      "description": "I want to tell you something that did not make it into the README.  I built...",
+      "tags": [
+        "ai",
+        "llm",
+        "monitoring",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwym3k6f100blo0zllhd.png",
+      "source": "Dev.to",
+      "user": "Taiwrash"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -718,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28265,
+      "stars": 28383,
       "user": "santifer"
     },
     {
@@ -733,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "blairxu13"
     },
     {
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 37884,
+      "stars": 38288,
       "user": "milla-jovovich"
     },
     {
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6131,
+      "stars": 6248,
       "user": "alchaincyf"
     },
     {
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1396,
       "user": "Keychron"
     },
     {
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "xoai"
     }
   ],
@@ -1062,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28265,
+      "stars": 28383,
       "user": "santifer"
     },
     {
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2314,
+      "stars": 2437,
       "user": "xixu-me"
     },
     {
@@ -1092,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "blairxu13"
     },
     {
@@ -1107,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "S-Trespassing"
     },
     {
@@ -1122,23 +1107,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "zacdcook"
     }
   ],
   "Python": [
-    {
-      "title": "Handling missing dict keys, revisited",
-      "url": "https://dev.to/wangonya/handling-missing-dict-keys-revisited-4n53",
-      "published_at": "2026-04-08T17:12:04Z",
-      "description": "A while back, I wrote a post showing how to handle missing dict keys. In summary:   Using...",
-      "tags": [
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F252vf9p6b5zw9z1u32cw.png",
-      "source": "Dev.to",
-      "user": "Kelvin Wangonya"
-    },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
       "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
@@ -1155,6 +1128,18 @@
       "user": "xbill"
     },
     {
+      "title": "Handling missing dict keys, revisited",
+      "url": "https://dev.to/wangonya/handling-missing-dict-keys-revisited-4n53",
+      "published_at": "2026-04-08T17:12:04Z",
+      "description": "A while back, I wrote a post showing how to handle missing dict keys. In summary:   Using...",
+      "tags": [
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F252vf9p6b5zw9z1u32cw.png",
+      "source": "Dev.to",
+      "user": "Kelvin Wangonya"
+    },
+    {
       "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
       "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
       "published_at": "2026-04-07T19:57:35Z",
@@ -1168,6 +1153,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
+      "tags": [
+        "opensource",
+        "python",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
+      "source": "Dev.to",
+      "user": "Matheus Luz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 37884,
+      "stars": 38288,
       "user": "milla-jovovich"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9463,
+      "stars": 9599,
       "user": "JuliusBrussee"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6131,
+      "stars": 6248,
       "user": "alchaincyf"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1396,
       "user": "Keychron"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1090,
       "user": "mattmireles"
     }
   ],
@@ -1396,21 +1396,6 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
-      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
-      "published_at": "2026-04-08T04:15:15Z",
-      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
-      "tags": [
-        "agents",
-        "ai",
-        "cloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
       "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
       "published_at": "2026-04-07T13:04:00Z",
@@ -1441,36 +1426,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)",
-      "url": "https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm",
-      "published_at": "2026-04-05T13:39:36Z",
-      "description": "A deep dive into Single Leader, Multi-Leader, and Leaderless replication algorithms for distributed systems.",
-      "tags": [
-        "systemdesign",
-        "backend",
-        "database",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png",
-      "source": "Dev.to",
-      "user": "Piyush Gupta"
-    },
-    {
-      "title": "Inside Airbnb’s Mussel v2: Rebuilding a Petabyte-Scale Key-Value Store",
-      "url": "https://dev.to/iamradioactive/inside-airbnbs-mussel-v2-rebuilding-a-petabyte-scale-key-value-store-ho9",
-      "published_at": "2026-04-06T14:56:34Z",
-      "description": "Airbnb recently published a detailed write-up on Mussel v2, the next generation of their internal...",
-      "tags": [
-        "systemdesign",
-        "distributedsystems",
-        "backend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmccy9j2q85h6eqi1f26.png",
-      "source": "Dev.to",
-      "user": "iamradioactive"
-    },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
@@ -1512,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "RevocGG"
     }
   ],
@@ -1622,19 +1577,19 @@
       "user": "Ajadi Olalekan Jamiu"
     },
     {
-      "title": "Running Agentic AI at Scale on Google Kubernetes Engine",
-      "url": "https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540",
-      "published_at": "2026-04-08T04:15:15Z",
-      "description": "The AI industry crossed an inflection point. We stopped asking \"can the model answer my question?\"...",
+      "title": "EmDash vs WordPress: Which CMS Delivers the Best Speed for African Websites?",
+      "url": "https://dev.to/muyaedward/emdash-vs-wordpress-which-cms-delivers-the-best-speed-for-african-websites-4d3k",
+      "published_at": "2026-04-08T15:32:32Z",
+      "description": "Comparing the best CMS for website speed in Africa — EmDash on Cloudflare Workers vs WordPress. Real benchmarks, real costs, real developer experience.",
       "tags": [
-        "agents",
-        "ai",
-        "cloud",
-        "kubernetes"
+        "webdev",
+        "cms",
+        "performance",
+        "cloudflare"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fru4e9ov0b4s7p49nbm0z.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn6pc3ac6pilvp0yioqwe.png",
       "source": "Dev.to",
-      "user": "Saurabh Mishra"
+      "user": "Edward Muya Mwangi"
     },
     {
       "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
@@ -1682,21 +1637,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
       "source": "Dev.to",
       "user": "Polliog"
-    },
-    {
-      "title": "Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)",
-      "url": "https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm",
-      "published_at": "2026-04-05T13:39:36Z",
-      "description": "A deep dive into Single Leader, Multi-Leader, and Leaderless replication algorithms for distributed systems.",
-      "tags": [
-        "systemdesign",
-        "backend",
-        "database",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yr7qk6sxd9541fuyefv.png",
-      "source": "Dev.to",
-      "user": "Piyush Gupta"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1888,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28265,
+      "stars": 28383,
       "user": "santifer"
     },
     {
@@ -1903,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2314,
+      "stars": 2437,
       "user": "xixu-me"
     },
     {
@@ -1918,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "blairxu13"
     },
     {
@@ -1933,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "S-Trespassing"
     },
     {
@@ -1948,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "zacdcook"
     },
     {
@@ -1963,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 37884,
+      "stars": 38288,
       "user": "milla-jovovich"
     },
     {
@@ -1978,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9463,
+      "stars": 9599,
       "user": "JuliusBrussee"
     },
     {
@@ -1993,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6131,
+      "stars": 6248,
       "user": "alchaincyf"
     },
     {
@@ -2008,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1396,
       "user": "Keychron"
     },
     {
@@ -2023,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1090,
       "user": "mattmireles"
     },
     {
@@ -2038,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 340,
       "user": "xoai"
     },
     {
@@ -2068,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "boratanrikulu"
     },
     {
@@ -2098,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "RevocGG"
     }
   ]
