@@ -46,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "Skills Are the New CLI",
-      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
-      "published_at": "2026-04-09T15:25:44Z",
-      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
-      "tags": [
-        "ai",
-        "development",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "What is an LLM actually doing when it's \"thinking\"?",
       "url": "https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5",
       "published_at": "2026-04-10T16:42:45Z",
@@ -150,6 +135,21 @@
       "user": "William Weiner"
     },
     {
+      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
+      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
+      "published_at": "2026-04-09T20:36:04Z",
+      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
+      "source": "Dev.to",
+      "user": "Bejie Paulo Aclao"
+    },
+    {
       "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
       "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
       "published_at": "2026-04-09T15:06:56Z",
@@ -223,21 +223,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
       "source": "Dev.to",
       "user": "Peter Kim Frank"
-    },
-    {
-      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
-      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
-      "published_at": "2026-04-09T20:36:04Z",
-      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
-      "source": "Dev.to",
-      "user": "Bejie Paulo Aclao"
     },
     {
       "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
@@ -328,6 +313,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Skills Are the New CLI",
+      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
+      "published_at": "2026-04-09T15:25:44Z",
+      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
+      "tags": [
+        "ai",
+        "development",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29207,
+      "stars": 29251,
       "user": "santifer"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39698,
+      "stars": 39737,
       "user": "milla-jovovich"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6545,
+      "stars": 6550,
       "user": "alchaincyf"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 1940,
       "user": "Keychron"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29207,
+      "stars": 29251,
       "user": "santifer"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39698,
+      "stars": 39737,
       "user": "milla-jovovich"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 11889,
+      "stars": 12167,
       "user": "JuliusBrussee"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6545,
+      "stars": 6550,
       "user": "alchaincyf"
     },
     {
@@ -1440,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 1940,
       "user": "Keychron"
     },
     {
@@ -1925,21 +1925,6 @@
       "user": "Eli_coding"
     },
     {
-      "title": "Skills Are the New CLI",
-      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
-      "published_at": "2026-04-09T15:25:44Z",
-      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
-      "tags": [
-        "ai",
-        "development",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
       "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
       "published_at": "2026-04-09T13:32:32Z",
@@ -1953,6 +1938,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
       "source": "Dev.to",
       "user": "Polliog"
+    },
+    {
+      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
+      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
+      "published_at": "2026-04-09T20:36:04Z",
+      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
+      "source": "Dev.to",
+      "user": "Bejie Paulo Aclao"
     },
     {
       "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
@@ -1970,19 +1970,19 @@
       "user": "Daniel Schroeder"
     },
     {
-      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
-      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
-      "published_at": "2026-04-09T20:36:04Z",
-      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
+      "title": "Skills Are the New CLI",
+      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
+      "published_at": "2026-04-09T15:25:44Z",
+      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
       "tags": [
         "ai",
-        "programming",
-        "discuss",
-        "productivity"
+        "development",
+        "software",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
-      "user": "Bejie Paulo Aclao"
+      "user": "Helder Burato Berto"
     },
     {
       "title": "My AI Agent Keeps Forgetting Everything",
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29207,
+      "stars": 29251,
       "user": "santifer"
     },
     {
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39698,
+      "stars": 39737,
       "user": "milla-jovovich"
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 11889,
+      "stars": 12167,
       "user": "JuliusBrussee"
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6545,
+      "stars": 6550,
       "user": "alchaincyf"
     },
     {
@@ -2146,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1913,
+      "stars": 1940,
       "user": "Keychron"
     },
     {
