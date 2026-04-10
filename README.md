@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-11 0:00 CAT)
+## 📅 Latest Updates (2026-04-11 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,8 +204,8 @@ npm run test
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [What is an LLM actually doing when it's "thinking"?](https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8) _[Dev.to]_
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2) _[Dev.to]_
 - [Your AI Is Lying to You Because You Trained It to and a New Study Proves It](https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5) _[Dev.to]_
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 
-_Last automated update: Sat, 11 Apr 2026 00:56:08 CAT_
+_Last automated update: Sat, 11 Apr 2026 01:33:45 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 11 Apr 2026 00:56:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. JavaScript: Implement a debounce function from scratch
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 10 Apr 2026 22:56:08 GMT</b><br/>
+  <b>Last automated update: Fri, 10 Apr 2026 23:33:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
