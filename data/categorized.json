@@ -31,19 +31,19 @@
       "user": "Helder Burato Berto"
     },
     {
-      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
-      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
-      "published_at": "2026-04-09T13:07:00Z",
-      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
+      "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
+      "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
+      "published_at": "2026-04-06T21:40:03Z",
+      "description": "Until recently, running an LLM on your phone meant one thing: chat. You could have a conversation or...",
       "tags": [
-        "nvidia",
-        "ai",
-        "gemma",
-        "serverless"
+        "aiondevice",
+        "android",
+        "ios",
+        "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
       "source": "Dev.to",
-      "user": "Shir Meir Lador"
+      "user": "Karl Weinmeister"
     },
     {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
@@ -61,21 +61,6 @@
       "user": "Polliog"
     },
     {
-      "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
-      "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
-      "published_at": "2026-04-06T21:40:03Z",
-      "description": "Until recently, running an LLM on your phone meant one thing: chat. You could have a conversation or...",
-      "tags": [
-        "aiondevice",
-        "android",
-        "ios",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
-      "source": "Dev.to",
-      "user": "Karl Weinmeister"
-    },
-    {
       "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
       "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
       "published_at": "2026-04-09T15:42:13Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
+      "published_at": "2026-04-09T13:07:00Z",
+      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
+      "tags": [
+        "nvidia",
+        "ai",
+        "gemma",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27788,
+      "stars": 28006,
       "user": "santifer"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 308,
       "user": "blairxu13"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 36031,
+      "stars": 36855,
       "user": "milla-jovovich"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5585,
+      "stars": 5822,
       "user": "alchaincyf"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1243,
       "user": "Keychron"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "xoai"
     }
   ],
@@ -855,21 +855,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
-    },
-    {
-      "title": "Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets",
-      "url": "https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc",
-      "published_at": "2026-04-08T05:38:35Z",
-      "description": "Abstract   Google Sheets recently introduced the SHEET and SHEETS functions. Because they...",
-      "tags": [
-        "googleappsscript",
-        "googleworkspace",
-        "googlesheets",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn3mi1o7fdzipphtymx03.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -1077,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27788,
+      "stars": 28006,
       "user": "santifer"
     },
     {
@@ -1092,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1841,
+      "stars": 2045,
       "user": "xixu-me"
     },
     {
@@ -1107,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 308,
       "user": "blairxu13"
     },
     {
@@ -1137,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "S-Trespassing"
     }
   ],
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 36031,
+      "stars": 36855,
       "user": "milla-jovovich"
     },
     {
@@ -1331,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8888,
+      "stars": 9089,
       "user": "JuliusBrussee"
     },
     {
@@ -1346,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5585,
+      "stars": 5822,
       "user": "alchaincyf"
     },
     {
@@ -1361,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1243,
       "user": "Keychron"
     },
     {
@@ -1376,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1057,
       "user": "mattmireles"
     }
   ],
@@ -1918,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27788,
+      "stars": 28006,
       "user": "santifer"
     },
     {
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1841,
+      "stars": 2045,
       "user": "xixu-me"
     },
     {
@@ -1948,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 308,
       "user": "blairxu13"
     },
     {
@@ -1978,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "S-Trespassing"
     },
     {
@@ -1993,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 36031,
+      "stars": 36855,
       "user": "milla-jovovich"
     },
     {
@@ -2008,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8888,
+      "stars": 9089,
       "user": "JuliusBrussee"
     },
     {
@@ -2023,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5585,
+      "stars": 5822,
       "user": "alchaincyf"
     },
     {
@@ -2038,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1243,
       "user": "Keychron"
     },
     {
@@ -2053,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1057,
       "user": "mattmireles"
     },
     {
@@ -2068,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "xoai"
     },
     {
@@ -2083,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "pion"
     },
     {
@@ -2098,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "boratanrikulu"
     },
     {
@@ -2113,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "rvitorper"
     },
     {
