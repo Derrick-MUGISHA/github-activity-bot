@@ -16,21 +16,6 @@
       "user": "Maria Dunning"
     },
     {
-      "title": "Skills Are the New CLI",
-      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
-      "published_at": "2026-04-09T15:25:44Z",
-      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
-      "tags": [
-        "ai",
-        "development",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "On-Device AI with the Google AI Edge Gallery and Gemma 4",
       "url": "https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena",
       "published_at": "2026-04-06T21:40:03Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
       "source": "Dev.to",
       "user": "Karl Weinmeister"
+    },
+    {
+      "title": "Skills Are the New CLI",
+      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
+      "published_at": "2026-04-09T15:25:44Z",
+      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
+      "tags": [
+        "ai",
+        "development",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
+      "source": "Dev.to",
+      "user": "Helder Burato Berto"
     },
     {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28006,
+      "stars": 28150,
       "user": "santifer"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "blairxu13"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 36855,
+      "stars": 37440,
       "user": "milla-jovovich"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5822,
+      "stars": 5995,
       "user": "alchaincyf"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1243,
+      "stars": 1310,
       "user": "Keychron"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "xoai"
     }
   ],
@@ -1062,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28006,
+      "stars": 28150,
       "user": "santifer"
     },
     {
@@ -1077,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2190,
       "user": "xixu-me"
     },
     {
@@ -1092,23 +1092,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "blairxu13"
-    },
-    {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 286,
-      "user": "zacdcook"
     },
     {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
@@ -1122,8 +1107,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "S-Trespassing"
+    },
+    {
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "source": "GitHub",
+      "stars": 287,
+      "user": "zacdcook"
     }
   ],
   "Python": [
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 36855,
+      "stars": 37440,
       "user": "milla-jovovich"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9089,
+      "stars": 9286,
       "user": "JuliusBrussee"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5822,
+      "stars": 5995,
       "user": "alchaincyf"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1243,
+      "stars": 1310,
       "user": "Keychron"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1068,
       "user": "mattmireles"
     }
   ],
@@ -1512,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 58,
       "user": "RevocGG"
     }
   ],
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28006,
+      "stars": 28150,
       "user": "santifer"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2190,
       "user": "xixu-me"
     },
     {
@@ -1933,23 +1933,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "blairxu13"
-    },
-    {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 286,
-      "user": "zacdcook"
     },
     {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
@@ -1963,8 +1948,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "S-Trespassing"
+    },
+    {
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "source": "GitHub",
+      "stars": 287,
+      "user": "zacdcook"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 36855,
+      "stars": 37440,
       "user": "milla-jovovich"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 9089,
+      "stars": 9286,
       "user": "JuliusBrussee"
     },
     {
@@ -2008,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5822,
+      "stars": 5995,
       "user": "alchaincyf"
     },
     {
@@ -2023,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1243,
+      "stars": 1310,
       "user": "Keychron"
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1068,
       "user": "mattmireles"
     },
     {
@@ -2053,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "xoai"
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 58,
       "user": "RevocGG"
     }
   ]
