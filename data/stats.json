@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 103,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 58,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -12,7 +12,7 @@
     "DevOps": 5,
     "WebDev": 3,
     "Mobile": 2,
-    "Cloud": 11,
+    "Cloud": 10,
     "Database": 3,
     "Security": 5,
     "Tools": 21
@@ -33,7 +33,7 @@
     "2026-04-06": 10,
     "2026-04-07": 12,
     "2026-04-05": 8,
-    "2026-04-08": 10,
+    "2026-04-08": 9,
     "2026-04-04": 9,
     "2026-04-01": 4,
     "2026-04-02": 1,
@@ -90,8 +90,8 @@
     "programming": 4,
     "418challenge": 4,
     "showdev": 4,
-    "webdev": 4,
     "discuss": 3,
+    "azure": 3,
     "security": 3
   },
   "trending_topics": [],
