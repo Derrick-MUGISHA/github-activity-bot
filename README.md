@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-09-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-10-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -46,7 +46,7 @@
 
 **Database**: 🟦 3 (2.9%)
 
-**Mobile**:  1 (1.0%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8 (27.8%)
-Go              █████████████████████████ 23.3 (23.3%)
-Java            ████████████████████████ 22.2 (22.2%)
-Python          ██████████████████████ 20.0 (20.0%)
+JavaScript      ██████████████████████████████ 27.5 (27.5%)
+Go              █████████████████████████ 23.1 (23.1%)
+Java            ████████████████████████ 22.0 (22.0%)
+Python          ██████████████████████ 19.8 (19.8%)
+Kotlin          ██ 2.2 (2.2%)
 Rust            ██ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -78,9 +78,9 @@ pie title Programming Languages Distribution
     "Go" : 21
     "Java" : 20
     "Python" : 18
+    "Kotlin" : 2
     "Rust" : 2
     "Swift" : 1
-    "Kotlin" : 1
     "Ruby" : 1
 ```
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-10 1:00 CAT)
+## 📅 Latest Updates (2026-04-10 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -165,15 +165,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png" width="200" alt="Converting old home movie DVDs into a private streaming site" />
-      <br/>
-      <b>Converting old home movie DVDs into a private stre...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/phalkmin/when-your-ux-only-fits-two-sizes-3a1e">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F68ixix25c9swoqcvdy3p.jpg" width="200" alt="When Your UX Only Fits Two Sizes" />
       <br/>
@@ -191,6 +182,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png" width="200" alt="Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕" />
+      <br/>
+      <b>Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverles...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -201,16 +201,16 @@ npm run test
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
-- [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb) _[Dev.to]_
 - [When Your UX Only Fits Two Sizes](https://dev.to/phalkmin/when-your-ux-only-fits-two-sizes-3a1e) _[Dev.to]_
 - [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e) _[Dev.to]_
 - [Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b) _[Dev.to]_
 - [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) _[Dev.to]_
 - [On-Device AI with the Google AI Edge Gallery and Gemma 4](https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena) _[Dev.to]_
-- [The "Stateless" AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic) _[Dev.to]_
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
+- [The "Stateless" AI Era is a Massive Engineering Tax](https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic) _[Dev.to]_
 - [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln) _[Dev.to]_
 - [Master-Class: Understanding Database Replication (Single, Multi, and Leaderless)](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm) _[Dev.to]_
+- [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 - [I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How](https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8) _[Dev.to]_
 - [Handling missing dict keys, revisited](https://dev.to/wangonya/handling-missing-dict-keys-revisited-4n53) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc) _[Dev.to]_
 
-_Last automated update: Fri, 10 Apr 2026 01:53:26 CAT_
+_Last automated update: Fri, 10 Apr 2026 04:09:43 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Fri, 10 Apr 2026 01:53:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 09 Apr 2026 23:53:26 GMT</b><br/>
+  <b>Last automated update: Fri, 10 Apr 2026 02:09:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
