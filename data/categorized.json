@@ -578,21 +578,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
-      "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
-      "published_at": "2026-03-29T02:34:36Z",
-      "description": "Claude Code has WebFetch. Every AI coding agent has some way to grab a webpage.  They all hit the...",
-      "tags": [
-        "zig",
-        "opensource",
-        "cli",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
-      "source": "Dev.to",
-      "user": "An Pham"
-    },
-    {
       "title": "Clawshier OpenClaw Skill",
       "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
       "published_at": "2026-04-08T12:45:00Z",
@@ -606,6 +591,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
       "source": "Dev.to",
       "user": "Fernando"
+    },
+    {
+      "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
+      "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
+      "published_at": "2026-03-29T02:34:36Z",
+      "description": "Claude Code has WebFetch. Every AI coding agent has some way to grab a webpage.  They all hit the...",
+      "tags": [
+        "zig",
+        "opensource",
+        "cli",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
+      "source": "Dev.to",
+      "user": "An Pham"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29251,
+      "stars": 29292,
       "user": "santifer"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "blairxu13"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "NyxTides"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39737,
+      "stars": 39801,
       "user": "milla-jovovich"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6550,
+      "stars": 6554,
       "user": "alchaincyf"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1985,
       "user": "Keychron"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29251,
+      "stars": 29292,
       "user": "santifer"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2794,
+      "stars": 2799,
       "user": "xixu-me"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "blairxu13"
     },
     {
@@ -1156,23 +1156,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "NyxTides"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "S-Trespassing"
+      "stars": 296,
+      "user": "zacdcook"
     }
   ],
   "Python": [
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39737,
+      "stars": 39801,
       "user": "milla-jovovich"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 12167,
+      "stars": 12482,
       "user": "JuliusBrussee"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6550,
+      "stars": 6554,
       "user": "alchaincyf"
     },
     {
@@ -1440,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1985,
       "user": "Keychron"
     },
     {
@@ -1455,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1144,
       "user": "mattmireles"
     }
   ],
@@ -1576,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "RevocGG"
     }
   ],
@@ -1904,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "NyxTides"
     }
   ],
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29251,
+      "stars": 29292,
       "user": "santifer"
     },
     {
@@ -2041,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2794,
+      "stars": 2799,
       "user": "xixu-me"
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "blairxu13"
     },
     {
@@ -2071,23 +2071,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "NyxTides"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "S-Trespassing"
+      "stars": 296,
+      "user": "zacdcook"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39737,
+      "stars": 39801,
       "user": "milla-jovovich"
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 12167,
+      "stars": 12482,
       "user": "JuliusBrussee"
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6550,
+      "stars": 6554,
       "user": "alchaincyf"
     },
     {
@@ -2146,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1985,
       "user": "Keychron"
     },
     {
@@ -2161,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1144,
       "user": "mattmireles"
     },
     {
@@ -2206,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "boratanrikulu"
     },
     {
@@ -2236,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "RevocGG"
     }
   ]
