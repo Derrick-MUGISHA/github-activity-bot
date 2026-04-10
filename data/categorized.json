@@ -106,21 +106,6 @@
       "user": "xbill"
     },
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
       "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
       "published_at": "2026-04-09T20:07:24Z",
@@ -270,21 +255,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
-      "published_at": "2026-04-09T03:19:37Z",
-      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
-      "tags": [
-        "ai",
-        "nlp",
-        "node",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
-      "source": "Dev.to",
-      "user": "tronghieuit"
-    },
-    {
       "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
       "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
       "published_at": "2026-04-07T20:35:44Z",
@@ -328,6 +298,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
       "source": "Dev.to",
       "user": "Helder Burato Berto"
+    },
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -751,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29292,
+      "stars": 29317,
       "user": "santifer"
     },
     {
@@ -781,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "NyxTides"
     },
     {
@@ -796,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39801,
+      "stars": 39866,
       "user": "milla-jovovich"
     },
     {
@@ -811,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6554,
+      "stars": 6562,
       "user": "alchaincyf"
     },
     {
@@ -826,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1985,
+      "stars": 2023,
       "user": "Keychron"
     },
     {
@@ -888,21 +873,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
-    },
-    {
-      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
-      "published_at": "2026-04-09T03:19:37Z",
-      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
-      "tags": [
-        "ai",
-        "nlp",
-        "node",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
-      "source": "Dev.to",
-      "user": "tronghieuit"
     },
     {
       "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
@@ -1111,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29292,
+      "stars": 29317,
       "user": "santifer"
     },
     {
@@ -1126,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2799,
+      "stars": 2804,
       "user": "xixu-me"
     },
     {
@@ -1156,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "NyxTides"
     },
     {
@@ -1171,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "zacdcook"
     }
   ],
@@ -1395,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39801,
+      "stars": 39866,
       "user": "milla-jovovich"
     },
     {
@@ -1410,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 12482,
+      "stars": 12727,
       "user": "JuliusBrussee"
     },
     {
@@ -1425,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6554,
+      "stars": 6562,
       "user": "alchaincyf"
     },
     {
@@ -1440,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1985,
+      "stars": 2023,
       "user": "Keychron"
     },
     {
@@ -1455,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1146,
       "user": "mattmireles"
     }
   ],
@@ -1904,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "NyxTides"
     }
   ],
@@ -1923,21 +1893,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
       "source": "Dev.to",
       "user": "Eli_coding"
-    },
-    {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
     },
     {
       "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
@@ -1985,6 +1940,21 @@
       "user": "Helder Burato Berto"
     },
     {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
+    },
+    {
       "title": "My AI Agent Keeps Forgetting Everything",
       "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
       "published_at": "2026-04-07T15:52:28Z",
@@ -2026,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 29292,
+      "stars": 29317,
       "user": "santifer"
     },
     {
@@ -2041,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2799,
+      "stars": 2804,
       "user": "xixu-me"
     },
     {
@@ -2071,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "NyxTides"
     },
     {
@@ -2086,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "zacdcook"
     },
     {
@@ -2101,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39801,
+      "stars": 39866,
       "user": "milla-jovovich"
     },
     {
@@ -2116,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 12482,
+      "stars": 12727,
       "user": "JuliusBrussee"
     },
     {
@@ -2131,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6554,
+      "stars": 6562,
       "user": "alchaincyf"
     },
     {
@@ -2146,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1985,
+      "stars": 2023,
       "user": "Keychron"
     },
     {
@@ -2161,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1146,
       "user": "mattmireles"
     },
     {
