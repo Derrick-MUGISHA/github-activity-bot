@@ -16,21 +16,6 @@
       "user": "Maria Dunning"
     },
     {
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
-      "published_at": "2026-04-08T19:46:46Z",
-      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
-      "tags": [
-        "tutorial",
-        "cloudflare",
-        "dvd",
-        "ripping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "Skills Are the New CLI",
       "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
       "published_at": "2026-04-09T15:25:44Z",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
+      "published_at": "2026-04-08T19:46:46Z",
+      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
+      "tags": [
+        "tutorial",
+        "cloudflare",
+        "dvd",
+        "ripping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27604,
+      "stars": 27788,
       "user": "santifer"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "blairxu13"
     },
     {
@@ -748,23 +748,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 35448,
+      "stars": 36031,
       "user": "milla-jovovich"
-    },
-    {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "url": "https://github.com/safishamsi/graphify",
-      "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
-      "source": "GitHub",
-      "stars": 17494,
-      "user": "safishamsi"
     },
     {
       "title": "alchaincyf/nuwa-skill - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5433,
+      "stars": 5585,
       "user": "alchaincyf"
     },
     {
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1165,
       "user": "Keychron"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "xoai"
     }
   ],
@@ -1092,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27604,
+      "stars": 27788,
       "user": "santifer"
     },
     {
@@ -1107,23 +1092,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1841,
       "user": "xixu-me"
-    },
-    {
-      "title": "LarsenCundric/port-whisperer - A beautiful CLI tool to see what's running on your ports",
-      "url": "https://github.com/LarsenCundric/port-whisperer",
-      "published_at": "2026-04-03T03:57:20Z",
-      "description": "A beautiful CLI tool to see what's running on your ports",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "LarsenCundric"
     },
     {
       "title": "blairxu13/persona3-website - GitHub Repository",
@@ -1137,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "blairxu13"
     },
     {
@@ -1152,8 +1122,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "zacdcook"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "S-Trespassing"
     }
   ],
   "Python": [
@@ -1331,23 +1316,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 35448,
+      "stars": 36031,
       "user": "milla-jovovich"
-    },
-    {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "url": "https://github.com/safishamsi/graphify",
-      "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
-      "source": "GitHub",
-      "stars": 17494,
-      "user": "safishamsi"
     },
     {
       "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
@@ -1361,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8767,
+      "stars": 8888,
       "user": "JuliusBrussee"
     },
     {
@@ -1376,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5433,
+      "stars": 5585,
       "user": "alchaincyf"
     },
     {
@@ -1391,8 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1165,
       "user": "Keychron"
+    },
+    {
+      "title": "mattmireles/gemma-tuner-multimodal - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "published_at": "2026-04-07T05:14:58Z",
+      "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
+      "source": "GitHub",
+      "stars": 1023,
+      "user": "mattmireles"
     }
   ],
   "DevOps": [
@@ -1529,24 +1514,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AsFD1j19HDkPF7ncJxaY-EA.jpeg",
       "source": "Dev.to",
       "user": "Karl Weinmeister"
+    },
+    {
+      "title": "RevocGG/MasterDnsVPN-AndroidGG - MasterDnsVPN Android Client",
+      "url": "https://github.com/RevocGG/MasterDnsVPN-AndroidGG",
+      "published_at": "2026-04-04T01:09:27Z",
+      "description": "MasterDnsVPN Android Client",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "RevocGG"
     }
   ],
   "Cloud": [
-    {
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
-      "published_at": "2026-04-08T19:46:46Z",
-      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
-      "tags": [
-        "tutorial",
-        "cloudflare",
-        "dvd",
-        "ripping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
     {
       "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
@@ -1561,6 +1546,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
+      "published_at": "2026-04-08T19:46:46Z",
+      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
+      "tags": [
+        "tutorial",
+        "cloudflare",
+        "dvd",
+        "ripping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
@@ -1695,21 +1695,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png",
       "source": "Dev.to",
       "user": "Lucas Vieira"
-    },
-    {
-      "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "url": "https://github.com/moabukar/miniblue",
-      "published_at": "2026-04-03T23:14:09Z",
-      "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
-      "source": "GitHub",
-      "stars": 170,
-      "user": "moabukar"
     }
   ],
   "Database": [
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 27604,
+      "stars": 27788,
       "user": "santifer"
     },
     {
@@ -1948,23 +1933,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1841,
       "user": "xixu-me"
-    },
-    {
-      "title": "LarsenCundric/port-whisperer - A beautiful CLI tool to see what's running on your ports",
-      "url": "https://github.com/LarsenCundric/port-whisperer",
-      "published_at": "2026-04-03T03:57:20Z",
-      "description": "A beautiful CLI tool to see what's running on your ports",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85017633?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "LarsenCundric"
     },
     {
       "title": "blairxu13/persona3-website - GitHub Repository",
@@ -1978,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "blairxu13"
     },
     {
@@ -1993,8 +1963,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "zacdcook"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "S-Trespassing"
     },
     {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
@@ -2008,23 +1993,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 35448,
+      "stars": 36031,
       "user": "milla-jovovich"
-    },
-    {
-      "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "url": "https://github.com/safishamsi/graphify",
-      "published_at": "2026-04-03T15:49:07Z",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216348667?v=4",
-      "source": "GitHub",
-      "stars": 17494,
-      "user": "safishamsi"
     },
     {
       "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
@@ -2038,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 8767,
+      "stars": 8888,
       "user": "JuliusBrussee"
     },
     {
@@ -2053,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 5433,
+      "stars": 5585,
       "user": "alchaincyf"
     },
     {
@@ -2068,8 +2038,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1165,
       "user": "Keychron"
+    },
+    {
+      "title": "mattmireles/gemma-tuner-multimodal - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "published_at": "2026-04-07T05:14:58Z",
+      "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
+      "source": "GitHub",
+      "stars": 1023,
+      "user": "mattmireles"
     },
     {
       "title": "xoai/sage-wiki - An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.",
@@ -2083,23 +2068,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "xoai"
-    },
-    {
-      "title": "moabukar/miniblue - Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "url": "https://github.com/moabukar/miniblue",
-      "published_at": "2026-04-03T23:14:09Z",
-      "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76791648?v=4",
-      "source": "GitHub",
-      "stars": 170,
-      "user": "moabukar"
     },
     {
       "title": "pion/handoff - Start WebRTC in the browser—run it somewhere else",
@@ -2145,6 +2115,21 @@
       "source": "GitHub",
       "stars": 83,
       "user": "rvitorper"
+    },
+    {
+      "title": "RevocGG/MasterDnsVPN-AndroidGG - MasterDnsVPN Android Client",
+      "url": "https://github.com/RevocGG/MasterDnsVPN-AndroidGG",
+      "published_at": "2026-04-04T01:09:27Z",
+      "description": "MasterDnsVPN Android Client",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272300319?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "RevocGG"
     }
   ]
 }
