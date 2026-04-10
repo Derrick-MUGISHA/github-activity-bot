@@ -31,6 +31,21 @@
       "user": "Jordan Harrison"
     },
     {
+      "title": "What is an LLM actually doing when it's \"thinking\"?",
+      "url": "https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5",
+      "published_at": "2026-04-10T16:42:45Z",
+      "description": "Ever wondered what an LLM is doing when it's \"thinking\"?  In this episode of Release Notes Explained,...",
+      "tags": [
+        "gemini",
+        "llm",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lg0c431k73y8ijnsy88.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
+    },
+    {
       "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
       "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
       "published_at": "2026-04-10T11:24:23Z",
@@ -136,6 +151,20 @@
       "user": "Polliog"
     },
     {
+      "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
+      "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
+      "published_at": "2026-04-09T20:07:24Z",
+      "description": "A few weeks ago I posted about finding the same per-recipient identifier in three independent places...",
+      "tags": [
+        "privacy",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
+      "source": "Dev.to",
+      "user": "William Weiner"
+    },
+    {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
       "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
       "published_at": "2026-04-07T20:06:35Z",
@@ -166,6 +195,21 @@
       "user": "Karl Weinmeister"
     },
     {
+      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
+      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
+      "published_at": "2026-04-09T18:46:30Z",
+      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
+      "tags": [
+        "docker",
+        "linux",
+        "mcp",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
+      "source": "Dev.to",
+      "user": "Daniel Schroeder"
+    },
+    {
       "title": "Converting old home movie DVDs into a private streaming site",
       "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
       "published_at": "2026-04-08T19:46:46Z",
@@ -194,35 +238,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
       "source": "Dev.to",
       "user": "Bejie Paulo Aclao"
-    },
-    {
-      "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
-      "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
-      "published_at": "2026-04-09T20:07:24Z",
-      "description": "A few weeks ago I posted about finding the same per-recipient identifier in three independent places...",
-      "tags": [
-        "privacy",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
-      "source": "Dev.to",
-      "user": "William Weiner"
-    },
-    {
-      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
-      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
-      "published_at": "2026-04-09T18:46:30Z",
-      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
-      "tags": [
-        "docker",
-        "linux",
-        "mcp",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
-      "source": "Dev.to",
-      "user": "Daniel Schroeder"
     },
     {
       "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
@@ -328,21 +343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28954,
+      "stars": 29041,
       "user": "santifer"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "blairxu13"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39321,
+      "stars": 39443,
       "user": "milla-jovovich"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6479,
+      "stars": 6497,
       "user": "alchaincyf"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1641,
+      "stars": 1707,
       "user": "Keychron"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "xoai"
     }
   ],
@@ -935,21 +935,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
@@ -1142,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28954,
+      "stars": 29041,
       "user": "santifer"
     },
     {
@@ -1157,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2717,
+      "stars": 2747,
       "user": "xixu-me"
     },
     {
@@ -1172,8 +1157,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "blairxu13"
+    },
+    {
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "zacdcook"
     },
     {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
@@ -1189,21 +1189,6 @@
       "source": "GitHub",
       "stars": 294,
       "user": "S-Trespassing"
-    },
-    {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "zacdcook"
     }
   ],
   "Python": [
@@ -1441,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39321,
+      "stars": 39443,
       "user": "milla-jovovich"
     },
     {
@@ -1456,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 10085,
+      "stars": 10390,
       "user": "JuliusBrussee"
     },
     {
@@ -1471,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6479,
+      "stars": 6497,
       "user": "alchaincyf"
     },
     {
@@ -1486,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1641,
+      "stars": 1707,
       "user": "Keychron"
     },
     {
@@ -1501,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1119,
       "user": "mattmireles"
     }
   ],
@@ -1943,21 +1928,6 @@
       "user": "Polliog"
     },
     {
-      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
-      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
-      "published_at": "2026-04-09T20:36:04Z",
-      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
-      "source": "Dev.to",
-      "user": "Bejie Paulo Aclao"
-    },
-    {
       "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
       "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
       "published_at": "2026-04-09T18:46:30Z",
@@ -1971,6 +1941,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
       "source": "Dev.to",
       "user": "Daniel Schroeder"
+    },
+    {
+      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
+      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
+      "published_at": "2026-04-09T20:36:04Z",
+      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
+      "source": "Dev.to",
+      "user": "Bejie Paulo Aclao"
     },
     {
       "title": "My AI Agent Keeps Forgetting Everything",
@@ -2044,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256850418?v=4",
       "source": "GitHub",
-      "stars": 28954,
+      "stars": 29041,
       "user": "santifer"
     },
     {
@@ -2059,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2717,
+      "stars": 2747,
       "user": "xixu-me"
     },
     {
@@ -2074,8 +2059,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126022662?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "blairxu13"
+    },
+    {
+      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
+      "published_at": "2026-04-05T19:50:37Z",
+      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "zacdcook"
     },
     {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
@@ -2093,21 +2093,6 @@
       "user": "S-Trespassing"
     },
     {
-      "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "url": "https://github.com/zacdcook/openclaw-billing-proxy",
-      "published_at": "2026-04-05T19:50:37Z",
-      "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "zacdcook"
-    },
-    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -2119,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39321,
+      "stars": 39443,
       "user": "milla-jovovich"
     },
     {
@@ -2134,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104168679?v=4",
       "source": "GitHub",
-      "stars": 10085,
+      "stars": 10390,
       "user": "JuliusBrussee"
     },
     {
@@ -2149,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6479,
+      "stars": 6497,
       "user": "alchaincyf"
     },
     {
@@ -2164,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81507483?v=4",
       "source": "GitHub",
-      "stars": 1641,
+      "stars": 1707,
       "user": "Keychron"
     },
     {
@@ -2179,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1119,
       "user": "mattmireles"
     },
     {
@@ -2194,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/126380?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "xoai"
     },
     {
@@ -2209,7 +2194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38192892?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "pion"
     },
     {
@@ -2239,7 +2224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "rvitorper"
     },
     {
