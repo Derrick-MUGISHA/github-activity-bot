@@ -414,6 +414,21 @@
       "user": "Mark Townsend"
     },
     {
+      "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
+      "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
+      "published_at": "2026-04-09T15:42:13Z",
+      "description": "We have spent a decade watching hackers grind through the same 48-hour cycle at MLH: build something...",
+      "tags": [
+        "ai",
+        "architecture",
+        "llm",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq966v8hugd1otf3er64m.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
       "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
       "published_at": "2026-03-31T02:37:02Z",
@@ -519,21 +534,6 @@
       "user": "Deola Adediran"
     },
     {
-      "title": "The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents",
-      "url": "https://dev.to/ivolondon/the-rise-of-the-fleet-scaling-my-engineering-workflow-with-vscode-copilot-agents-3boe",
-      "published_at": "2026-04-06T20:59:58Z",
-      "description": "In this post, I’ll walk you through how I use Copilot and my personal preferences for different...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "vscode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmziy028k3psjx8s9k2wp.png",
-      "source": "Dev.to",
-      "user": "Ivelin (Ivo)"
-    },
-    {
       "title": "Agent Factory Recap: Supercharging Agents on GKE with Agent Sandbox and Pod Snapshots",
       "url": "https://dev.to/googleai/agent-factory-recap-supercharging-agents-on-gke-with-agent-sandbox-and-pod-snapshots-3a5e",
       "published_at": "2026-04-07T13:04:00Z",
@@ -591,6 +591,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18tj298mlxqr2qav6ndf.png",
       "source": "Dev.to",
       "user": "An Pham"
+    },
+    {
+      "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
+      "url": "https://dev.to/asamaes/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-coffee-418-chaos-your-useless-ai-butler-18m0",
+      "published_at": "2026-04-08T09:04:25Z",
+      "description": "This is a submission for the DEV April Fools Challenge           🍵 AS’ HTCPCP AI Butler™ 🤖       ...",
+      "tags": [
+        "devchallenge",
+        "418challenge",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksd3kzsgiw1wlwayu4hw.png",
+      "source": "Dev.to",
+      "user": "Asmae "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -736,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "QLHazyCoder"
     },
     {
@@ -766,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 40806,
+      "stars": 40847,
       "user": "milla-jovovich"
     },
     {
@@ -781,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6962,
+      "stars": 6975,
       "user": "alchaincyf"
     },
     {
@@ -796,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "coleam00"
     }
   ],
@@ -1066,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3034,
+      "stars": 3043,
       "user": "xixu-me"
     },
     {
@@ -1081,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "QLHazyCoder"
     },
     {
@@ -1350,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 40806,
+      "stars": 40847,
       "user": "milla-jovovich"
     },
     {
@@ -1365,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6962,
+      "stars": 6975,
       "user": "alchaincyf"
     },
     {
@@ -1380,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1171,
       "user": "mattmireles"
     },
     {
@@ -1410,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "coleam00"
     }
   ],
@@ -1859,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "QLHazyCoder"
     },
     {
@@ -1970,21 +1984,6 @@
       "user": "Stephen J Newhouse"
     },
     {
-      "title": "The Rise of the Fleet: Scaling My Engineering Workflow with Github Copilot Agents",
-      "url": "https://dev.to/ivolondon/the-rise-of-the-fleet-scaling-my-engineering-workflow-with-vscode-copilot-agents-3boe",
-      "published_at": "2026-04-06T20:59:58Z",
-      "description": "In this post, I’ll walk you through how I use Copilot and my personal preferences for different...",
-      "tags": [
-        "agents",
-        "ai",
-        "productivity",
-        "vscode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmziy028k3psjx8s9k2wp.png",
-      "source": "Dev.to",
-      "user": "Ivelin (Ivo)"
-    },
-    {
       "title": "Why I'm building a free, open-source AWS emulator",
       "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
       "published_at": "2026-04-06T22:27:35Z",
@@ -2011,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3034,
+      "stars": 3043,
       "user": "xixu-me"
     },
     {
@@ -2026,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "QLHazyCoder"
     },
     {
@@ -2086,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 40806,
+      "stars": 40847,
       "user": "milla-jovovich"
     },
     {
@@ -2101,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6962,
+      "stars": 6975,
       "user": "alchaincyf"
     },
     {
@@ -2116,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1171,
       "user": "mattmireles"
     },
     {
@@ -2146,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "coleam00"
     },
     {
@@ -2176,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 132,
       "user": "retlehs"
     },
     {
@@ -2191,7 +2190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "rvitorper"
     },
     {
@@ -2206,7 +2205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "remoteoss"
     },
     {
@@ -2221,7 +2220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "mitchellh"
     }
   ]
