@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 57,
+    "AI": 56,
     "JavaScript": 24,
     "Python": 21,
     "DevOps": 4,
@@ -15,7 +15,7 @@
     "Cloud": 14,
     "Database": 2,
     "Security": 8,
-    "Tools": 22
+    "Tools": 21
   },
   "by_language": {
     "JavaScript": 24,
@@ -29,7 +29,7 @@
     "Rust": 2
   },
   "by_date": {
-    "2026-04-09": 15,
+    "2026-04-09": 14,
     "2026-04-10": 9,
     "2026-04-08": 12,
     "2026-04-07": 11,
@@ -72,7 +72,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
     "python": 11,
@@ -86,10 +86,10 @@
     "discuss": 6,
     "opensource": 6,
     "tutorial": 6,
-    "programming": 5,
     "showdev": 4,
     "azure": 4,
     "security": 4,
+    "programming": 4,
     "devchallenge": 4,
     "googleadk": 4
   },

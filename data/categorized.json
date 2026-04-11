@@ -225,21 +225,6 @@
       "user": "Benny Code"
     },
     {
-      "title": "Skills Are the New CLI",
-      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
-      "published_at": "2026-04-09T15:25:44Z",
-      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
-      "tags": [
-        "ai",
-        "development",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
-    },
-    {
       "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
       "published_at": "2026-04-09T13:07:00Z",
@@ -751,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 580,
       "user": "QLHazyCoder"
     },
     {
@@ -781,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41245,
+      "stars": 41306,
       "user": "milla-jovovich"
     },
     {
@@ -796,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7243,
+      "stars": 7285,
       "user": "alchaincyf"
     },
     {
@@ -811,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "coleam00"
     }
   ],
@@ -1081,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3130,
+      "stars": 3142,
       "user": "xixu-me"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 580,
       "user": "QLHazyCoder"
     },
     {
@@ -1126,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "zacdcook"
     },
     {
@@ -1365,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41245,
+      "stars": 41306,
       "user": "milla-jovovich"
     },
     {
@@ -1380,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7243,
+      "stars": 7285,
       "user": "alchaincyf"
     },
     {
@@ -1395,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1186,
       "user": "mattmireles"
     },
     {
@@ -1410,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 832,
       "user": "phuryn"
     },
     {
@@ -1425,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "coleam00"
     }
   ],
@@ -1860,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 580,
       "user": "QLHazyCoder"
     },
     {
@@ -1909,21 +1894,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
       "source": "Dev.to",
       "user": "Bejie Paulo Aclao"
-    },
-    {
-      "title": "Skills Are the New CLI",
-      "url": "https://dev.to/helderberto/skills-are-the-new-cli-225e",
-      "published_at": "2026-04-09T15:25:44Z",
-      "description": "Every developer tool follows the same pattern: parse flags, run logic, print output. git commit -m...",
-      "tags": [
-        "ai",
-        "development",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhdejvc5lw1wp354opxit.png",
-      "source": "Dev.to",
-      "user": "Helder Burato Berto"
     },
     {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
@@ -1997,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3130,
+      "stars": 3142,
       "user": "xixu-me"
     },
     {
@@ -2012,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 580,
       "user": "QLHazyCoder"
     },
     {
@@ -2042,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "zacdcook"
     },
     {
@@ -2072,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41245,
+      "stars": 41306,
       "user": "milla-jovovich"
     },
     {
@@ -2087,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7243,
+      "stars": 7285,
       "user": "alchaincyf"
     },
     {
@@ -2102,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1186,
       "user": "mattmireles"
     },
     {
@@ -2117,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 832,
       "user": "phuryn"
     },
     {
@@ -2132,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "coleam00"
     },
     {
@@ -2147,7 +2117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 223,
       "user": "retlehs"
     },
     {
@@ -2207,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "mitchellh"
     }
   ]
