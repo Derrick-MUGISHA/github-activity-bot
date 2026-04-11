@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-12 0:00 CAT)
+## 📅 Latest Updates (2026-04-12 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b) _[Dev.to]_
 - [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 00:28:02 CAT_
+_Last automated update: Sun, 12 Apr 2026 01:01:16 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 12 Apr 2026 00:28:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Execution timing, event loop phases
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 22:28:02 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 23:01:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
