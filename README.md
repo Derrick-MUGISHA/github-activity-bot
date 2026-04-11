@@ -154,17 +154,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg" width="200" alt="I tried to make DevFest Ireland accessible - and ended up building a SaaS" />
-      <br/>
-      <b>I tried to make DevFest Ireland accessible - and e...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-3df3">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1k1c8l8nb7sqxte4xzeh.jpg" width="200" alt="What was your win this week??" />
       <br/>
@@ -173,6 +162,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI" />
@@ -191,6 +182,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png" width="200" alt="I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself." />
+      <br/>
+      <b>I Keep Telling Claude the Same Things. So He Start...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -200,7 +200,6 @@ npm run test
 
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
 - [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
-- [I tried to make DevFest Ireland accessible - and ended up building a SaaS](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
@@ -209,6 +208,7 @@ npm run test
 - [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2) _[Dev.to]_
 - [Your AI Is Lying to You Because You Trained It to and a New Study Proves It](https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5) _[Dev.to]_
 - [On-Device AI with the Google AI Edge Gallery and Gemma 4](https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena) _[Dev.to]_
+- [I tried to make DevFest Ireland accessible - and ended up building a SaaS](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b) _[Dev.to]_
 - [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 01:01:16 CAT_
+_Last automated update: Sun, 12 Apr 2026 01:49:48 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 12 Apr 2026 01:01:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 23:01:16 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 23:49:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
