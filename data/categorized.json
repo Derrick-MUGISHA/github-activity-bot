@@ -16,6 +16,21 @@
       "user": "Jordan Harrison"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
+      "published_at": "2026-04-11T13:00:37Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "awseks",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
       "published_at": "2026-04-08T13:15:23Z",
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 603,
       "user": "QLHazyCoder"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41352,
+      "stars": 41395,
       "user": "milla-jovovich"
     },
     {
@@ -781,23 +796,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7307,
+      "stars": 7325,
       "user": "alchaincyf"
     },
     {
-      "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "url": "https://github.com/joeynyc/hermes-hudui",
-      "published_at": "2026-04-09T00:22:33Z",
-      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "title": "coleam00/claude-memory-compiler - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+      "url": "https://github.com/coleam00/claude-memory-compiler",
+      "published_at": "2026-04-06T14:28:45Z",
+      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 541,
-      "user": "joeynyc"
+      "stars": 542,
+      "user": "coleam00"
     }
   ],
   "JavaScript": [
@@ -1066,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3147,
+      "stars": 3149,
       "user": "xixu-me"
     },
     {
@@ -1081,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 603,
       "user": "QLHazyCoder"
     },
     {
@@ -1111,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "zacdcook"
     },
     {
@@ -1131,6 +1146,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
+      "published_at": "2026-04-11T13:00:37Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "awseks",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
@@ -1350,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41352,
+      "stars": 41395,
       "user": "milla-jovovich"
     },
     {
@@ -1365,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7307,
+      "stars": 7325,
       "user": "alchaincyf"
     },
     {
@@ -1380,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1188,
       "user": "mattmireles"
     },
     {
@@ -1395,23 +1425,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "phuryn"
     },
     {
-      "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "url": "https://github.com/joeynyc/hermes-hudui",
-      "published_at": "2026-04-09T00:22:33Z",
-      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "title": "coleam00/claude-memory-compiler - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+      "url": "https://github.com/coleam00/claude-memory-compiler",
+      "published_at": "2026-04-06T14:28:45Z",
+      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 541,
-      "user": "joeynyc"
+      "stars": 542,
+      "user": "coleam00"
     }
   ],
   "DevOps": [
@@ -1507,6 +1537,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
+      "published_at": "2026-04-11T13:00:37Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "awseks",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
@@ -1845,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 603,
       "user": "QLHazyCoder"
     },
     {
@@ -1967,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3147,
+      "stars": 3149,
       "user": "xixu-me"
     },
     {
@@ -1982,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 603,
       "user": "QLHazyCoder"
     },
     {
@@ -2012,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "zacdcook"
     },
     {
@@ -2042,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41352,
+      "stars": 41395,
       "user": "milla-jovovich"
     },
     {
@@ -2057,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7307,
+      "stars": 7325,
       "user": "alchaincyf"
     },
     {
@@ -2072,7 +2117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1188,
       "user": "mattmireles"
     },
     {
@@ -2087,23 +2132,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "phuryn"
     },
     {
-      "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "url": "https://github.com/joeynyc/hermes-hudui",
-      "published_at": "2026-04-09T00:22:33Z",
-      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "title": "coleam00/claude-memory-compiler - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+      "url": "https://github.com/coleam00/claude-memory-compiler",
+      "published_at": "2026-04-06T14:28:45Z",
+      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 541,
-      "user": "joeynyc"
+      "stars": 542,
+      "user": "coleam00"
     },
     {
       "title": "retlehs/quien - A better WHOIS lookup tool",
@@ -2117,7 +2162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "retlehs"
     },
     {

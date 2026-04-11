@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-11-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 14 (13.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Security**: 🟦🟦🟦 8 (7.7%)
+**Security**: 🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.1 (26.1%)
-Go              ███████████████████████████ 23.9 (23.9%)
-Python          ██████████████████████████ 22.8 (22.8%)
-Java            ████████████████████████ 20.7 (20.7%)
-Rust            ███ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 25.5 (25.5%)
+Go              █████████████████████████████ 24.5 (24.5%)
+Python          ████████████████████████████ 23.4 (23.4%)
+Java            ████████████████████████ 20.2 (20.2%)
+Rust            ██ 2.1 (2.1%)
 Swift           █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
@@ -75,8 +75,8 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 22
-    "Python" : 21
+    "Go" : 23
+    "Python" : 22
     "Java" : 19
     "Rust" : 2
     "Swift" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![showdev](https://img.shields.io/badge/showdev-4-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) 
 
 
 
@@ -145,15 +145,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-3df3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1k1c8l8nb7sqxte4xzeh.jpg" width="200" alt="What was your win this week??" />
-      <br/>
-      <b>What was your win this week??</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg" width="200" alt="I tried to make DevFest Ireland accessible - and ended up building a SaaS" />
       <br/>
@@ -162,8 +153,26 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-3df3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1k1c8l8nb7sqxte4xzeh.jpg" width="200" alt="What was your win this week??" />
+      <br/>
+      <b>What was your win this week??</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI" />
+      <br/>
+      <b>Building a Multimodal Cross Cloud Live Agent with ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI" />
@@ -182,15 +191,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg" width="200" alt="Tracking, Propagation Attacks, and What We Found in Real Email Traffic" />
-      <br/>
-      <b>Tracking, Propagation Attacks, and What We Found i...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -199,8 +199,9 @@ npm run test
 ### 📰 Top Headlines
 
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
 - [I tried to make DevFest Ireland accessible - and ended up building a SaaS](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) _[Dev.to]_
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.](https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9) _[Dev.to]_
 - [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2) _[Dev.to]_
@@ -217,9 +218,8 @@ npm run test
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 - [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m) _[Dev.to]_
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 
-_Last automated update: Sat, 11 Apr 2026 19:17:00 CAT_
+_Last automated update: Sat, 11 Apr 2026 19:56:17 CAT_
 
 
 
@@ -227,18 +227,7 @@ _Last automated update: Sat, 11 Apr 2026 19:17:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
-
-**Difficulty**: Hard | **Topics**: design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Users, posts, relationships, indexes, partitioning
-
-</details>
-
-### 2. NodeJS: How do you handle errors in async/await?
+### 1. NodeJS: How do you handle errors in async/await?
 
 **Difficulty**: Medium | **Topics**: error handling, async
 
@@ -249,14 +238,25 @@ try/catch, .catch(), error middleware
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Call stack, callback queue, microtask queue
+
+</details>
+
+### 3. Python: Explain decorators in Python with an example
+
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
+
+<details>
+<summary>💡 Hint</summary>
+
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 17:17:00 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 17:56:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
