@@ -219,7 +219,7 @@ npm run test
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 
-_Last automated update: Sat, 11 Apr 2026 11:01:39 CAT_
+_Last automated update: Sat, 11 Apr 2026 11:56:34 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 11 Apr 2026 11:01:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 09:01:39 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 09:56:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
