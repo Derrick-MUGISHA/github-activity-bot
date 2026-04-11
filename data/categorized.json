@@ -165,21 +165,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
-      "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
-      "published_at": "2026-04-07T20:35:44Z",
-      "description": "Heroku was great when I started. Push code, get a URL, done. Platform-as-a-Service won the last...",
-      "tags": [
-        "devops",
-        "selfhosting",
-        "typescript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
-      "source": "Dev.to",
-      "user": "Benny Code"
-    },
-    {
       "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
       "published_at": "2026-04-09T13:07:00Z",
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275135684?v=4",
       "source": "GitHub",
-      "stars": 41640,
+      "stars": 41675,
       "user": "MemPalace"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7368,
+      "stars": 7371,
       "user": "alchaincyf"
     },
     {
@@ -764,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "joeynyc"
     }
   ],
@@ -826,21 +811,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
-      "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
-      "published_at": "2026-04-07T20:35:44Z",
-      "description": "Heroku was great when I started. Push code, get a URL, done. Platform-as-a-Service won the last...",
-      "tags": [
-        "devops",
-        "selfhosting",
-        "typescript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
-      "source": "Dev.to",
-      "user": "Benny Code"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -1079,7 +1049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "zacdcook"
     },
     {
@@ -1318,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275135684?v=4",
       "source": "GitHub",
-      "stars": 41640,
+      "stars": 41675,
       "user": "MemPalace"
     },
     {
@@ -1333,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7368,
+      "stars": 7371,
       "user": "alchaincyf"
     },
     {
@@ -1363,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "phuryn"
     },
     {
@@ -1378,26 +1348,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "joeynyc"
     }
   ],
   "DevOps": [
-    {
-      "title": "How I Save $1,463 per Month Using Claude Code as My Server Admin",
-      "url": "https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb",
-      "published_at": "2026-04-07T20:35:44Z",
-      "description": "Heroku was great when I started. Push code, get a URL, done. Platform-as-a-Service won the last...",
-      "tags": [
-        "devops",
-        "selfhosting",
-        "typescript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
-      "source": "Dev.to",
-      "user": "Benny Code"
-    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1965,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248946058?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "zacdcook"
     },
     {
@@ -1995,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275135684?v=4",
       "source": "GitHub",
-      "stars": 41640,
+      "stars": 41675,
       "user": "MemPalace"
     },
     {
@@ -2010,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7368,
+      "stars": 7371,
       "user": "alchaincyf"
     },
     {
@@ -2040,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "phuryn"
     },
     {
@@ -2055,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "joeynyc"
     },
     {
@@ -2070,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 263,
       "user": "retlehs"
     },
     {
@@ -2130,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "mitchellh"
     }
   ]
