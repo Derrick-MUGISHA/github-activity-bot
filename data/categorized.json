@@ -16,21 +16,6 @@
       "user": "Jordan Harrison"
     },
     {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
       "published_at": "2026-04-08T13:15:23Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
+      "tags": [
+        "angular",
+        "ai",
+        "claude",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
+      "source": "Dev.to",
+      "user": "Eli_coding"
     },
     {
       "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 400,
       "user": "QLHazyCoder"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 310,
       "user": "NyxTides"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 40235,
+      "stars": 40373,
       "user": "milla-jovovich"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6705,
+      "stars": 6772,
       "user": "alchaincyf"
     },
     {
@@ -811,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "coleam00"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672711?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "PlayerYK"
     }
   ],
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2893,
+      "stars": 2924,
       "user": "xixu-me"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 400,
       "user": "QLHazyCoder"
     },
     {
@@ -1126,8 +1126,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 310,
       "user": "NyxTides"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "S-Trespassing"
     },
     {
       "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
@@ -1143,21 +1158,6 @@
       "source": "GitHub",
       "stars": 299,
       "user": "zacdcook"
-    },
-    {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "S-Trespassing"
     }
   ],
   "Python": [
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 40235,
+      "stars": 40373,
       "user": "milla-jovovich"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6705,
+      "stars": 6772,
       "user": "alchaincyf"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1160,
       "user": "mattmireles"
     },
     {
@@ -1440,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "coleam00"
     }
   ],
@@ -1744,6 +1744,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
       "source": "Dev.to",
       "user": "Fernando"
+    },
+    {
+      "title": "Why I'm building a free, open-source AWS emulator",
+      "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
+      "published_at": "2026-04-06T22:27:35Z",
+      "description": "LocalStack went proprietary. Our builds broke. So I built a free, open-source replacement in Rust — 13 AWS services, 983 API operations, 100% conformance.",
+      "tags": [
+        "aws",
+        "rust",
+        "testing",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png",
+      "source": "Dev.to",
+      "user": "Lucas Vieira"
     }
   ],
   "Database": [
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 400,
       "user": "QLHazyCoder"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 310,
       "user": "NyxTides"
     }
   ],
@@ -2000,6 +2015,21 @@
       "user": "Ivelin (Ivo)"
     },
     {
+      "title": "Why I'm building a free, open-source AWS emulator",
+      "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
+      "published_at": "2026-04-06T22:27:35Z",
+      "description": "LocalStack went proprietary. Our builds broke. So I built a free, open-source replacement in Rust — 13 AWS services, 983 API operations, 100% conformance.",
+      "tags": [
+        "aws",
+        "rust",
+        "testing",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png",
+      "source": "Dev.to",
+      "user": "Lucas Vieira"
+    },
+    {
       "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "published_at": "2026-04-06T20:02:21Z",
@@ -2011,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2893,
+      "stars": 2924,
       "user": "xixu-me"
     },
     {
@@ -2026,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 400,
       "user": "QLHazyCoder"
     },
     {
@@ -2041,8 +2071,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 310,
       "user": "NyxTides"
+    },
+    {
+      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "url": "https://github.com/S-Trespassing/claw-in-chrome",
+      "published_at": "2026-04-05T13:21:44Z",
+      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "S-Trespassing"
     },
     {
       "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
@@ -2060,21 +2105,6 @@
       "user": "zacdcook"
     },
     {
-      "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "url": "https://github.com/S-Trespassing/claw-in-chrome",
-      "published_at": "2026-04-05T13:21:44Z",
-      "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "S-Trespassing"
-    },
-    {
       "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
       "url": "https://github.com/milla-jovovich/mempalace",
       "published_at": "2026-04-05T01:12:07Z",
@@ -2086,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 40235,
+      "stars": 40373,
       "user": "milla-jovovich"
     },
     {
@@ -2101,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6705,
+      "stars": 6772,
       "user": "alchaincyf"
     },
     {
@@ -2116,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1160,
       "user": "mattmireles"
     },
     {
@@ -2146,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "coleam00"
     },
     {
@@ -2191,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "remoteoss"
     },
     {
@@ -2206,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 43,
       "user": "mitchellh"
     },
     {
@@ -2221,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672711?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "PlayerYK"
     }
   ]
