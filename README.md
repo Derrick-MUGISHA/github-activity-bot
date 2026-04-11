@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-11-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 14 (13.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
 
-**Security**: 🟦🟦🟦 8 (7.7%)
+**Security**: 🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-11 12:00 CAT)
+## 📅 Latest Updates (2026-04-11 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 
-_Last automated update: Sat, 11 Apr 2026 12:34:17 CAT_
+_Last automated update: Sat, 11 Apr 2026 13:06:34 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 11 Apr 2026 12:34:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 10:34:17 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 11:06:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
