@@ -1,13 +1,13 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 57,
-    "JavaScript": 23,
+    "AI": 58,
+    "JavaScript": 24,
     "Python": 21,
     "DevOps": 5,
     "WebDev": 1,
@@ -18,7 +18,7 @@
     "Tools": 22
   },
   "by_language": {
-    "JavaScript": 23,
+    "JavaScript": 24,
     "Go": 22,
     "Python": 21,
     "Swift": 1,
@@ -28,8 +28,8 @@
     "PHP": 1
   },
   "by_date": {
-    "2026-04-09": 14,
-    "2026-04-10": 7,
+    "2026-04-09": 15,
+    "2026-04-10": 8,
     "2026-04-08": 11,
     "2026-04-07": 14,
     "2026-04-06": 6,
@@ -39,7 +39,7 @@
     "2026-03-30": 3,
     "2026-03-29": 3,
     "2026-03-31": 2,
-    "2026-04-05": 7,
+    "2026-04-05": 6,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -71,7 +71,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 23,
+    "ai": 24,
     "github": 15,
     "open-source": 15,
     "python": 11,
@@ -89,17 +89,17 @@
     "azure": 4,
     "googleadk": 4,
     "security": 4,
-    "llm": 3,
-    "productivity": 3
+    "showdev": 3,
+    "llm": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.8",
-    "Go": "24.7",
-    "Python": "23.6",
+    "JavaScript": "26.7",
+    "Go": "24.4",
+    "Python": "23.3",
     "Swift": "1.1",
     "Kotlin": "1.1",
-    "Java": "21.3",
+    "Java": "21.1",
     "Ruby": "1.1",
     "PHP": "1.1"
   }
