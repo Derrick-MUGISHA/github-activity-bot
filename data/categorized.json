@@ -195,21 +195,6 @@
       "user": "Daniel Schroeder"
     },
     {
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
-      "published_at": "2026-04-08T19:46:46Z",
-      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
-      "tags": [
-        "tutorial",
-        "cloudflare",
-        "dvd",
-        "ripping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "The \"Stateless\" AI Era is a Massive Engineering Tax",
       "url": "https://dev.to/mlh/the-stateless-ai-era-is-a-massive-engineering-tax-49ic",
       "published_at": "2026-04-09T15:42:13Z",
@@ -414,6 +399,21 @@
       "user": "Lakhan Samani"
     },
     {
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
+      "published_at": "2026-04-08T19:46:46Z",
+      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
+      "tags": [
+        "tutorial",
+        "cloudflare",
+        "dvd",
+        "ripping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
+    },
+    {
       "title": "Working with JWTs in Laravel (Without the Magic)",
       "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
       "published_at": "2026-03-30T18:36:33Z",
@@ -442,6 +442,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
       "source": "Dev.to",
       "user": "PracticeOverflow"
+    },
+    {
+      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
+      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+      "published_at": "2026-04-09T03:19:37Z",
+      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
+      "tags": [
+        "ai",
+        "nlp",
+        "node",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
+      "source": "Dev.to",
+      "user": "tronghieuit"
     },
     {
       "title": "My AI Agent Keeps Forgetting Everything",
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 369,
       "user": "QLHazyCoder"
     },
     {
@@ -751,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 305,
       "user": "NyxTides"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39993,
+      "stars": 40235,
       "user": "milla-jovovich"
     },
     {
@@ -781,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6591,
+      "stars": 6705,
       "user": "alchaincyf"
     },
     {
@@ -796,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 506,
       "user": "coleam00"
     },
     {
@@ -811,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672711?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 36,
       "user": "PlayerYK"
     }
   ],
@@ -903,6 +918,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
+    },
+    {
+      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
+      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+      "published_at": "2026-04-09T03:19:37Z",
+      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
+      "tags": [
+        "ai",
+        "nlp",
+        "node",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
+      "source": "Dev.to",
+      "user": "tronghieuit"
     },
     {
       "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
@@ -1055,10 +1085,10 @@
       "user": "velmu"
     },
     {
-      "title": "xixu-me/awesome-persona-distill-skills - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+      "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "published_at": "2026-04-06T20:02:21Z",
-      "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+      "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "tags": [
         "javascript",
         "github",
@@ -1066,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2818,
+      "stars": 2893,
       "user": "xixu-me"
     },
     {
@@ -1081,8 +1111,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 369,
       "user": "QLHazyCoder"
+    },
+    {
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "NyxTides"
     },
     {
       "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
@@ -1100,21 +1145,6 @@
       "user": "zacdcook"
     },
     {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "NyxTides"
-    },
-    {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
       "url": "https://github.com/S-Trespassing/claw-in-chrome",
       "published_at": "2026-04-05T13:21:44Z",
@@ -1126,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "S-Trespassing"
     }
   ],
@@ -1350,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39993,
+      "stars": 40235,
       "user": "milla-jovovich"
     },
     {
@@ -1365,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6591,
+      "stars": 6705,
       "user": "alchaincyf"
     },
     {
@@ -1380,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1157,
       "user": "mattmireles"
     },
     {
@@ -1395,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "phuryn"
     },
     {
@@ -1410,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 506,
       "user": "coleam00"
     }
   ],
@@ -1582,21 +1612,6 @@
       "user": "xbill"
     },
     {
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
-      "published_at": "2026-04-08T19:46:46Z",
-      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
-      "tags": [
-        "tutorial",
-        "cloudflare",
-        "dvd",
-        "ripping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j",
       "published_at": "2026-04-07T13:16:14Z",
@@ -1655,6 +1670,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
+      "published_at": "2026-04-08T19:46:46Z",
+      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
+      "tags": [
+        "tutorial",
+        "cloudflare",
+        "dvd",
+        "ripping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1844,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 369,
       "user": "QLHazyCoder"
     },
     {
@@ -1859,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 305,
       "user": "NyxTides"
     }
   ],
@@ -1970,10 +2000,10 @@
       "user": "Ivelin (Ivo)"
     },
     {
-      "title": "xixu-me/awesome-persona-distill-skills - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+      "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "published_at": "2026-04-06T20:02:21Z",
-      "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+      "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "tags": [
         "javascript",
         "github",
@@ -1981,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 2818,
+      "stars": 2893,
       "user": "xixu-me"
     },
     {
@@ -1996,8 +2026,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 369,
       "user": "QLHazyCoder"
+    },
+    {
+      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow",
+      "published_at": "2026-04-07T06:15:18Z",
+      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "NyxTides"
     },
     {
       "title": "zacdcook/openclaw-billing-proxy - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage",
@@ -2015,21 +2060,6 @@
       "user": "zacdcook"
     },
     {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 298,
-      "user": "NyxTides"
-    },
-    {
       "title": "S-Trespassing/claw-in-chrome - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!",
       "url": "https://github.com/S-Trespassing/claw-in-chrome",
       "published_at": "2026-04-05T13:21:44Z",
@@ -2041,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "S-Trespassing"
     },
     {
@@ -2056,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 39993,
+      "stars": 40235,
       "user": "milla-jovovich"
     },
     {
@@ -2071,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 6591,
+      "stars": 6705,
       "user": "alchaincyf"
     },
     {
@@ -2086,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1157,
       "user": "mattmireles"
     },
     {
@@ -2101,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "phuryn"
     },
     {
@@ -2116,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 506,
       "user": "coleam00"
     },
     {
@@ -2161,8 +2191,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "remoteoss"
+    },
+    {
+      "title": "mitchellh/go-libghostty - Go bindings for libghostty-vt.",
+      "url": "https://github.com/mitchellh/go-libghostty",
+      "published_at": "2026-04-10T15:39:00Z",
+      "description": "Go bindings for libghostty-vt.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
+      "source": "GitHub",
+      "stars": 40,
+      "user": "mitchellh"
     },
     {
       "title": "PlayerYK/dmcheck - Free domain availability checker",
@@ -2176,23 +2221,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672711?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 36,
       "user": "PlayerYK"
-    },
-    {
-      "title": "EXBO-Community/stalcraft-jvm-optimization - Простая вещь которая должна убирать микрофризы за счет оптимизации GC, heap, а так же JIT.",
-      "url": "https://github.com/EXBO-Community/stalcraft-jvm-optimization",
-      "published_at": "2026-04-05T07:28:03Z",
-      "description": "Простая вещь которая должна убирать микрофризы за счет оптимизации GC, heap, а так же JIT.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274260448?v=4",
-      "source": "GitHub",
-      "stars": 32,
-      "user": "EXBO-Community"
     }
   ]
 }
