@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-10-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-11-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
@@ -36,17 +36,17 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Cloud**: 🟦🟦🟦🟦 13 (12.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.5%)
 
-**Security**: 🟦🟦 7 (6.7%)
+**Security**: 🟦🟦🟦 8 (7.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
-
-**Mobile**: 🟦 2 (1.9%)
 
 **Database**: 🟦 2 (1.9%)
 
 **WebDev**:  1 (1.0%)
+
+**Mobile**:  1 (1.0%)
 
 
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.3 (25.3%)
-Go              ██████████████████████████████ 25.3 (25.3%)
-Python          ███████████████████████████ 23.1 (23.1%)
-Java            █████████████████████████ 20.9 (20.9%)
-Kotlin          ███ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Go              █████████████████████████████ 24.7 (24.7%)
+Python          ███████████████████████████ 23.6 (23.6%)
+Java            █████████████████████████ 21.3 (21.3%)
 Swift           █ 1.1 (1.1%)
+Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -74,11 +74,11 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Go" : 23
+    "Go" : 22
     "Python" : 21
     "Java" : 19
-    "Kotlin" : 2
     "Swift" : 1
+    "Kotlin" : 1
     "Ruby" : 1
     "PHP" : 1
 ```
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-11 1:00 CAT)
+## 📅 Latest Updates (2026-04-11 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 
-_Last automated update: Sat, 11 Apr 2026 01:33:45 CAT_
+_Last automated update: Sat, 11 Apr 2026 02:04:29 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 11 Apr 2026 01:33:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 10 Apr 2026 23:33:45 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 00:04:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
