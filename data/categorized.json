@@ -90,21 +90,6 @@
       "user": "Bejie Paulo Aclao"
     },
     {
-      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
-      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
-      "published_at": "2026-04-09T15:06:56Z",
-      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
-      "tags": [
-        "sideprojects",
-        "ai",
-        "vibecoding",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
-      "source": "Dev.to",
-      "user": "Maria Dunning"
-    },
-    {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
       "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
       "published_at": "2026-04-07T20:06:35Z",
@@ -165,21 +150,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
-      "published_at": "2026-04-10T12:57:32Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "geminilive",
-        "python",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -191,6 +161,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -300,31 +285,19 @@
       "user": "Rob Simpson"
     },
     {
-      "title": "Beyond Pixels: How Modern Emails Embed the Same Identifier Everywhere",
-      "url": "https://dev.to/wadco/beyond-pixels-how-modern-emails-embed-the-same-identifier-everywhere-4228",
-      "published_at": "2026-04-02T19:58:01Z",
-      "description": "A few days ago I received a promotional-style email asking for lobbying help on upcoming state...",
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
+      "published_at": "2026-04-09T15:06:56Z",
+      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
       "tags": [
-        "privacy"
+        "sideprojects",
+        "ai",
+        "vibecoding",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
       "source": "Dev.to",
-      "user": "William Weiner"
-    },
-    {
-      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
-      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
-      "published_at": "2026-04-09T18:46:30Z",
-      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
-      "tags": [
-        "docker",
-        "linux",
-        "mcp",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
-      "source": "Dev.to",
-      "user": "Daniel Schroeder"
+      "user": "Maria Dunning"
     },
     {
       "title": "New Site, Who Dis?",
@@ -751,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "QLHazyCoder"
     },
     {
@@ -781,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41395,
+      "stars": 41449,
       "user": "milla-jovovich"
     },
     {
@@ -796,23 +769,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7325,
+      "stars": 7334,
       "user": "alchaincyf"
     },
     {
-      "title": "coleam00/claude-memory-compiler - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "url": "https://github.com/coleam00/claude-memory-compiler",
-      "published_at": "2026-04-06T14:28:45Z",
-      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+      "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "url": "https://github.com/joeynyc/hermes-hudui",
+      "published_at": "2026-04-09T00:22:33Z",
+      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 542,
-      "user": "coleam00"
+      "stars": 546,
+      "user": "joeynyc"
     }
   ],
   "JavaScript": [
@@ -1081,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3149,
+      "stars": 3154,
       "user": "xixu-me"
     },
     {
@@ -1096,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "QLHazyCoder"
     },
     {
@@ -1141,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "S-Trespassing"
     }
   ],
@@ -1177,21 +1150,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
-      "published_at": "2026-04-10T12:57:32Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "geminilive",
-        "python",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -1203,6 +1161,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1380,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41395,
+      "stars": 41449,
       "user": "milla-jovovich"
     },
     {
@@ -1395,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7325,
+      "stars": 7334,
       "user": "alchaincyf"
     },
     {
@@ -1410,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1189,
       "user": "mattmireles"
     },
     {
@@ -1425,23 +1398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 836,
       "user": "phuryn"
     },
     {
-      "title": "coleam00/claude-memory-compiler - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "url": "https://github.com/coleam00/claude-memory-compiler",
-      "published_at": "2026-04-06T14:28:45Z",
-      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+      "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "url": "https://github.com/joeynyc/hermes-hudui",
+      "published_at": "2026-04-09T00:22:33Z",
+      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 542,
-      "user": "coleam00"
+      "stars": 546,
+      "user": "joeynyc"
     }
   ],
   "DevOps": [
@@ -1459,21 +1432,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu4cuiwjl1naxqrgtnbyb.png",
       "source": "Dev.to",
       "user": "Benny Code"
-    },
-    {
-      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
-      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
-      "published_at": "2026-04-09T18:46:30Z",
-      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
-      "tags": [
-        "docker",
-        "linux",
-        "mcp",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
-      "source": "Dev.to",
-      "user": "Daniel Schroeder"
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1583,21 +1541,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
-      "published_at": "2026-04-10T12:57:32Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "geminilive",
-        "python",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -1609,6 +1552,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1890,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "QLHazyCoder"
     },
     {
@@ -1910,6 +1868,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
+      "published_at": "2026-04-11T15:55:53Z",
+      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "tags": [
+        "github",
+        "opensource",
+        "development",
+        "repository"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
     {
       "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
       "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
@@ -1956,21 +1929,6 @@
       "user": "Polliog"
     },
     {
-      "title": "Running Docker MCP Gateway on Linux (Without Docker Desktop)",
-      "url": "https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2",
-      "published_at": "2026-04-09T18:46:30Z",
-      "description": "Docker's MCP Toolkit is a great way to expose Model Context Protocol servers to AI clients like...",
-      "tags": [
-        "docker",
-        "linux",
-        "mcp",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F72mt1gdt6bamzmgn3q32.png",
-      "source": "Dev.to",
-      "user": "Daniel Schroeder"
-    },
-    {
       "title": "My AI Agent Keeps Forgetting Everything",
       "url": "https://dev.to/snewhouse/my-ai-agent-keeps-forgetting-everything-3p2k",
       "published_at": "2026-04-07T15:52:28Z",
@@ -2012,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3149,
+      "stars": 3154,
       "user": "xixu-me"
     },
     {
@@ -2027,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "QLHazyCoder"
     },
     {
@@ -2072,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108928321?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "S-Trespassing"
     },
     {
@@ -2087,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232237854?v=4",
       "source": "GitHub",
-      "stars": 41395,
+      "stars": 41449,
       "user": "milla-jovovich"
     },
     {
@@ -2102,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 7325,
+      "stars": 7334,
       "user": "alchaincyf"
     },
     {
@@ -2117,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1189,
       "user": "mattmireles"
     },
     {
@@ -2132,23 +2090,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 836,
       "user": "phuryn"
     },
     {
-      "title": "coleam00/claude-memory-compiler - Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "url": "https://github.com/coleam00/claude-memory-compiler",
-      "published_at": "2026-04-06T14:28:45Z",
-      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
+      "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "url": "https://github.com/joeynyc/hermes-hudui",
+      "published_at": "2026-04-09T00:22:33Z",
+      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 542,
-      "user": "coleam00"
+      "stars": 546,
+      "user": "joeynyc"
     },
     {
       "title": "retlehs/quien - A better WHOIS lookup tool",
@@ -2162,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 241,
       "user": "retlehs"
     },
     {
@@ -2177,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20258973?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "boratanrikulu"
     },
     {
@@ -2222,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "mitchellh"
     }
   ]

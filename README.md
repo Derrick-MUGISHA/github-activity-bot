@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
 **Security**: 🟦🟦🟦 8 (7.6%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.5 (25.5%)
-Go              █████████████████████████████ 24.5 (24.5%)
-Python          ████████████████████████████ 23.4 (23.4%)
-Java            ████████████████████████ 20.2 (20.2%)
-Rust            ██ 2.1 (2.1%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Go              ████████████████████████████ 23.7 (23.7%)
+Python          ████████████████████████████ 23.7 (23.7%)
+Java            ████████████████████████ 20.4 (20.4%)
+Rust            ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
@@ -75,7 +75,7 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 23
+    "Go" : 22
     "Python" : 22
     "Java" : 19
     "Rust" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-11 19:00 CAT)
+## 📅 Latest Updates (2026-04-11 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -145,6 +145,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg" width="200" alt="The Final 1% of Every GitHub Project: Sealing It Properly" />
+      <br/>
+      <b>The Final 1% of Every GitHub Project: Sealing It P...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg" width="200" alt="I tried to make DevFest Ireland accessible - and ended up building a SaaS" />
       <br/>
@@ -153,6 +162,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-3df3">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1k1c8l8nb7sqxte4xzeh.jpg" width="200" alt="What was your win this week??" />
@@ -162,8 +173,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI" />
@@ -182,15 +191,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png" width="200" alt="I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself." />
-      <br/>
-      <b>I Keep Telling Claude the Same Things. So He Start...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -199,27 +199,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
+- [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
 - [I tried to make DevFest Ireland accessible - and ended up building a SaaS](https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.](https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9) _[Dev.to]_
+- [I'm a bit lost.](https://dev.to/hubedav/im-a-bit-lost-2dko) _[Dev.to]_
 - [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2) _[Dev.to]_
 - [Your AI Is Lying to You Because You Trained It to and a New Study Proves It](https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5) _[Dev.to]_
-- [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
 - [Forem (Dev.to) is slow, so I del...optimized it.](https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln) _[Dev.to]_
 - [On-Device AI with the Google AI Edge Gallery and Gemma 4](https://dev.to/googleai/on-device-ai-with-the-google-ai-edge-gallery-and-gemma-4-ena) _[Dev.to]_
 - [What is an LLM actually doing when it's "thinking"?](https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8) _[Dev.to]_
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 - [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m) _[Dev.to]_
-- [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb) _[Dev.to]_
 
-_Last automated update: Sat, 11 Apr 2026 19:56:17 CAT_
+_Last automated update: Sat, 11 Apr 2026 20:43:02 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 11 Apr 2026 19:56:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 17:56:17 GMT</b><br/>
+  <b>Last automated update: Sat, 11 Apr 2026 18:43:02 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
