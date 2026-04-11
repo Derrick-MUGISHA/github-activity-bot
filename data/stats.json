@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 24,
     "Python": 21,
     "DevOps": 3,
@@ -33,8 +33,8 @@
     "2026-04-11": 2,
     "2026-04-10": 9,
     "2026-04-08": 12,
-    "2026-04-07": 11,
     "2026-04-06": 5,
+    "2026-04-07": 10,
     "2026-04-04": 2,
     "2026-04-01": 4,
     "2026-04-02": 1,
@@ -83,16 +83,16 @@
     "gemini": 8,
     "webdev": 8,
     "opensource": 7,
-    "discuss": 7,
     "go": 7,
     "javascript": 7,
+    "discuss": 6,
     "tutorial": 5,
-    "showdev": 4,
     "googleadk": 4,
     "azure": 4,
     "career": 4,
     "security": 4,
-    "programming": 4
+    "programming": 4,
+    "showdev": 3
   },
   "trending_topics": [],
   "language_percentages": {
