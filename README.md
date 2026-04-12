@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-12 10:00 CAT)
+## 📅 Latest Updates (2026-04-12 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.](https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 10:01:23 CAT_
+_Last automated update: Sun, 12 Apr 2026 11:04:32 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 12 Apr 2026 10:01:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Execution timing, event loop phases
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 08:01:23 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 09:04:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
