@@ -214,7 +214,7 @@ npm run test
 - [I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.](https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 11:04:32 CAT_
+_Last automated update: Sun, 12 Apr 2026 11:59:49 CAT_
 
 
 
@@ -222,7 +222,18 @@ _Last automated update: Sun, 12 Apr 2026 11:04:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Python: What are generators and when would you use them?
+
+**Difficulty**: Medium | **Topics**: iterators, memory
+
+<details>
+<summary>💡 Hint</summary>
+
+yield keyword, lazy evaluation, memory efficiency
+
+</details>
+
+### 2. Database: Design a database schema for a social media platform
 
 **Difficulty**: Hard | **Topics**: design, scalability
 
@@ -233,7 +244,7 @@ Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -241,17 +252,6 @@ Users, posts, relationships, indexes, partitioning
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
-
-</details>
-
-### 3. Python: Explain GIL and its implications for multithreading
-
-**Difficulty**: Hard | **Topics**: concurrency, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 09:04:32 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 09:59:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
