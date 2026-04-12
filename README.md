@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-11-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-12-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (51.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (53.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.6%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 14 (13.6%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.7%)
 
 **Security**: 🟦🟦🟦 8 (7.8%)
 
-**DevOps**: 🟦 2 (1.9%)
+**DevOps**: 🟦 2 (2.0%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (2.0%)
 
 **WebDev**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 57 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-12 1:00 CAT)
+## 📅 Latest Updates (2026-04-12 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b) _[Dev.to]_
 - [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 01:49:48 CAT_
+_Last automated update: Sun, 12 Apr 2026 04:11:27 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 12 Apr 2026 01:49:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 11 Apr 2026 23:49:48 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 02:11:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
