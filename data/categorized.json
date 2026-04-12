@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1539,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 688,
       "user": "joeynyc"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "wh0amitz"
     }
   ],
@@ -1078,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3404,
+      "stars": 3406,
       "user": "xixu-me"
     },
     {
@@ -1422,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1539,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 688,
       "user": "joeynyc"
     }
   ],
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3404,
+      "stars": 3406,
       "user": "xixu-me"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1539,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2099,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 688,
       "user": "joeynyc"
     },
     {
@@ -2114,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 366,
       "user": "retlehs"
     },
     {
@@ -2133,6 +2133,21 @@
       "user": "rvitorper"
     },
     {
+      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "url": "https://github.com/wh0amitz/TailVNC",
+      "published_at": "2026-04-11T16:13:15Z",
+      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "wh0amitz"
+    },
+    {
       "title": "mitchellh/go-libghostty - Go bindings for libghostty-vt.",
       "url": "https://github.com/mitchellh/go-libghostty",
       "published_at": "2026-04-10T15:39:00Z",
@@ -2148,21 +2163,6 @@
       "user": "mitchellh"
     },
     {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "wh0amitz"
-    },
-    {
       "title": "remoteoss/dexter - A fast, full-featured Elixir LSP optimized for large codebases.",
       "url": "https://github.com/remoteoss/dexter",
       "published_at": "2026-04-07T20:27:28Z",
@@ -2174,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "remoteoss"
     }
   ]

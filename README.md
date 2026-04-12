@@ -214,7 +214,7 @@ npm run test
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 
-_Last automated update: Mon, 13 Apr 2026 01:04:51 CAT_
+_Last automated update: Mon, 13 Apr 2026 01:51:27 CAT_
 
 
 
@@ -222,7 +222,29 @@ _Last automated update: Mon, 13 Apr 2026 01:04:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
+
+</details>
+
+### 2. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. JavaScript: What is the event loop and how does it work?
 
 **Difficulty**: Hard | **Topics**: async, runtime
 
@@ -230,28 +252,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Call stack, callback queue, microtask queue
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
-
-<details>
-<summary>💡 Hint</summary>
-
-Call stack, callback queue, microtask queue
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 23:04:51 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 23:51:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
