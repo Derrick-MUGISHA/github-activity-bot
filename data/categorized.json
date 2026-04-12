@@ -293,6 +293,21 @@
       "user": "xbill"
     },
     {
+      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
+      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
+      "published_at": "2026-04-10T13:18:59Z",
+      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
+      "tags": [
+        "a11y",
+        "saas",
+        "showdev",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
+      "source": "Dev.to",
+      "user": "Jordan Harrison"
+    },
+    {
       "title": "Working with JWTs in Laravel (Without the Magic)",
       "url": "https://dev.to/mtownsend5512/working-with-jwts-in-laravel-without-the-magic-36oh",
       "published_at": "2026-03-30T18:36:33Z",
@@ -308,21 +323,6 @@
       "user": "Mark Townsend"
     },
     {
-      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
-      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
-      "published_at": "2026-03-31T02:37:02Z",
-      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
-      "tags": [
-        "agents",
-        "ai",
-        "cybersecurity",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
-      "source": "Dev.to",
-      "user": "PracticeOverflow"
-    },
-    {
       "title": "Forem (Dev.to) is slow, so I del...optimized it.",
       "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
       "published_at": "2026-04-07T20:06:35Z",
@@ -336,6 +336,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2vx642lv13fati2gj9b.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Securing the Agentic Era: AI Agents as First-Class Security Principals",
+      "url": "https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f",
+      "published_at": "2026-03-31T02:37:02Z",
+      "description": "Securing the Agentic Era: AI Agents as First-Class Security Principals            47 Agents,...",
+      "tags": [
+        "agents",
+        "ai",
+        "cybersecurity",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
+      "source": "Dev.to",
+      "user": "PracticeOverflow"
     },
     {
       "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
@@ -688,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 828,
       "user": "QLHazyCoder"
     },
     {
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1397,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -748,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 634,
       "user": "joeynyc"
     },
     {
@@ -763,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "coleam00"
     },
     {
@@ -1033,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3359,
+      "stars": 3367,
       "user": "xixu-me"
     },
     {
@@ -1048,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 828,
       "user": "QLHazyCoder"
     },
     {
@@ -1347,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1397,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1362,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1209,
+      "stars": 1210,
       "user": "mattmireles"
     },
     {
@@ -1377,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 872,
       "user": "phuryn"
     },
     {
@@ -1392,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 634,
       "user": "joeynyc"
     },
     {
@@ -1407,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "coleam00"
     }
   ],
@@ -1797,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 828,
       "user": "QLHazyCoder"
     },
     {
@@ -1919,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3359,
+      "stars": 3367,
       "user": "xixu-me"
     },
     {
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 828,
       "user": "QLHazyCoder"
     },
     {
@@ -1994,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1397,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2009,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1209,
+      "stars": 1210,
       "user": "mattmireles"
     },
     {
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 872,
       "user": "phuryn"
     },
     {
@@ -2039,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 634,
       "user": "joeynyc"
     },
     {
@@ -2054,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "coleam00"
     },
     {
@@ -2069,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 326,
       "user": "retlehs"
     },
     {
@@ -2084,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "rvitorper"
     },
     {
@@ -2114,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "remoteoss"
     },
     {
