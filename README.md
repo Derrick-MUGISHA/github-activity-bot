@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-12-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 15 (14.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-12 16:00 CAT)
+## 📅 Latest Updates (2026-04-12 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 - [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 16:24:28 CAT_
+_Last automated update: Sun, 12 Apr 2026 17:03:30 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 12 Apr 2026 16:24:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Mutability, performance, use cases
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 14:24:28 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 15:03:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
