@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-12 19:00 CAT)
+## 📅 Latest Updates (2026-04-12 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
 - [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 19:59:22 CAT_
+_Last automated update: Sun, 12 Apr 2026 21:01:09 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 12 Apr 2026 19:59:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Heap, stack, garbage collection
 
 </details>
 
-### 3. Python: What is the difference between list and tuple in Python?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 17:59:22 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 19:01:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
