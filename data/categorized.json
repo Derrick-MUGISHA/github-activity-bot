@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
+      "published_at": "2026-04-12T14:57:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
+      "published_at": "2026-04-12T14:56:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "python",
+        "geminilive",
+        "adk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
       "published_at": "2026-04-08T13:15:23Z",
@@ -428,21 +458,6 @@
       "user": "xbill"
     },
     {
-      "title": "Clawshier OpenClaw Skill",
-      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
-      "published_at": "2026-04-08T12:45:00Z",
-      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "opensource",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
-      "source": "Dev.to",
-      "user": "Fernando"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -703,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 840,
       "user": "QLHazyCoder"
     },
     {
@@ -718,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 347,
       "user": "NyxTides"
     },
     {
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "cporter202"
     },
     {
@@ -748,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1439,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -763,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 640,
       "user": "joeynyc"
     },
     {
@@ -778,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "coleam00"
     },
     {
@@ -1048,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3367,
+      "stars": 3377,
       "user": "xixu-me"
     },
     {
@@ -1063,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 840,
       "user": "QLHazyCoder"
     },
     {
@@ -1078,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 347,
       "user": "NyxTides"
     },
     {
@@ -1093,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "cporter202"
     },
     {
@@ -1113,6 +1128,36 @@
     }
   ],
   "Python": [
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
+      "published_at": "2026-04-12T14:57:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
+      "published_at": "2026-04-12T14:56:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "python",
+        "geminilive",
+        "adk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
@@ -1362,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1439,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1377,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1212,
       "user": "mattmireles"
     },
     {
@@ -1407,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 640,
       "user": "joeynyc"
     },
     {
@@ -1422,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "coleam00"
     }
   ],
@@ -1668,21 +1713,6 @@
       "user": "xbill"
     },
     {
-      "title": "Clawshier OpenClaw Skill",
-      "url": "https://dev.to/fdocr/clawshier-openclaw-skill-l1n",
-      "published_at": "2026-04-08T12:45:00Z",
-      "description": "I've been meaning to take a stab at this idea of automating a process to take a picture of any...",
-      "tags": [
-        "ai",
-        "openclaw",
-        "opensource",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F47i2aegyo7ei8ul5q8cp.png",
-      "source": "Dev.to",
-      "user": "Fernando"
-    },
-    {
       "title": "Why I'm building a free, open-source AWS emulator",
       "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
       "published_at": "2026-04-06T22:27:35Z",
@@ -1812,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 840,
       "user": "QLHazyCoder"
     },
     {
@@ -1827,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 347,
       "user": "NyxTides"
     }
   ],
@@ -1934,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3367,
+      "stars": 3377,
       "user": "xixu-me"
     },
     {
@@ -1949,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 840,
       "user": "QLHazyCoder"
     },
     {
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 347,
       "user": "NyxTides"
     },
     {
@@ -1979,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "cporter202"
     },
     {
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1439,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2024,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1212,
       "user": "mattmireles"
     },
     {
@@ -2054,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 640,
       "user": "joeynyc"
     },
     {
@@ -2069,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47287758?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "coleam00"
     },
     {
@@ -2084,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 331,
       "user": "retlehs"
     },
     {
