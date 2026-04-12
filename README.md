@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-12 8:00 CAT)
+## 📅 Latest Updates (2026-04-12 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.](https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 
-_Last automated update: Sun, 12 Apr 2026 08:48:02 CAT_
+_Last automated update: Sun, 12 Apr 2026 10:01:23 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 12 Apr 2026 08:48:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 06:48:02 GMT</b><br/>
+  <b>Last automated update: Sun, 12 Apr 2026 08:01:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
