@@ -293,21 +293,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
-      "published_at": "2026-04-08T19:46:46Z",
-      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
-      "tags": [
-        "tutorial",
-        "cloudflare",
-        "dvd",
-        "ripping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "What is an LLM actually doing when it's \"thinking\"?",
       "url": "https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5",
       "published_at": "2026-04-10T16:42:45Z",
@@ -338,21 +323,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
-      "published_at": "2026-04-10T12:57:32Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "geminilive",
-        "python",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
       "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
       "published_at": "2026-04-10T13:18:59Z",
@@ -366,6 +336,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
       "source": "Dev.to",
       "user": "Jordan Harrison"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -473,21 +458,6 @@
       "user": "Deola Adediran"
     },
     {
-      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
-      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
-      "published_at": "2026-04-07T19:57:35Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "eks",
-        "python",
-        "gemini",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -560,6 +530,49 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
+    },
+    {
+      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
+      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
+      "published_at": "2026-03-26T21:05:21Z",
+      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
+      "tags": [
+        "langchain",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
+      "source": "Dev.to",
+      "user": "Scarlett Attensil"
+    },
+    {
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
+      "tags": [
+        "opensource",
+        "python",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
+      "source": "Dev.to",
+      "user": "Matheus Luz"
+    },
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -705,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 863,
       "user": "QLHazyCoder"
     },
     {
@@ -735,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "cporter202"
     },
     {
@@ -765,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1526,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -780,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "joeynyc"
     },
     {
@@ -795,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 77,
       "user": "wh0amitz"
     }
   ],
@@ -1065,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3401,
+      "stars": 3403,
       "user": "xixu-me"
     },
     {
@@ -1080,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 863,
       "user": "QLHazyCoder"
     },
     {
@@ -1110,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "cporter202"
     },
     {
@@ -1248,19 +1261,19 @@
       "user": "Kelvin Wangonya"
     },
     {
-      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
-      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
-      "published_at": "2026-04-07T19:57:35Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
+      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
+      "published_at": "2026-04-04T15:01:52Z",
+      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
       "tags": [
-        "eks",
+        "opensource",
         "python",
-        "gemini",
-        "mcps"
+        "ai",
+        "gamedev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Matheus Luz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1409,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1526,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1439,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 877,
       "user": "phuryn"
     },
     {
@@ -1454,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "joeynyc"
     }
   ],
@@ -1626,21 +1639,6 @@
       "user": "xbill"
     },
     {
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
-      "published_at": "2026-04-08T19:46:46Z",
-      "description": "A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....",
-      "tags": [
-        "tutorial",
-        "cloudflare",
-        "dvd",
-        "ripping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyia9i5a1wa8hlkdhoiwy.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
       "published_at": "2026-03-29T04:13:52Z",
@@ -1700,21 +1698,6 @@
       "user": "Edward Muya Mwangi"
     },
     {
-      "title": "MCP Development with Gemini CLI, and Amazon AWS EKS",
-      "url": "https://dev.to/gde/mcp-development-with-gemini-cli-and-amazon-aws-eks-bm",
-      "published_at": "2026-04-07T19:57:35Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "eks",
-        "python",
-        "gemini",
-        "mcps"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why I'm building a free, open-source AWS emulator",
       "url": "https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl",
       "published_at": "2026-04-06T22:27:35Z",
@@ -1731,6 +1714,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1844,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 863,
       "user": "QLHazyCoder"
     },
     {
@@ -1940,6 +1938,21 @@
       "user": "Jessica Temporal"
     },
     {
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
+      "published_at": "2026-04-09T13:32:32Z",
+      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "tags": [
+        "postgres",
+        "database",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "source": "Dev.to",
+      "user": "Polliog"
+    },
+    {
       "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "published_at": "2026-04-06T20:02:21Z",
@@ -1951,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3401,
+      "stars": 3403,
       "user": "xixu-me"
     },
     {
@@ -1966,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 863,
       "user": "QLHazyCoder"
     },
     {
@@ -1996,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "cporter202"
     },
     {
@@ -2041,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1526,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2071,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 877,
       "user": "phuryn"
     },
     {
@@ -2086,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "joeynyc"
     },
     {
@@ -2101,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "retlehs"
     },
     {
@@ -2135,6 +2148,21 @@
       "user": "mitchellh"
     },
     {
+      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "url": "https://github.com/wh0amitz/TailVNC",
+      "published_at": "2026-04-11T16:13:15Z",
+      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "wh0amitz"
+    },
+    {
       "title": "remoteoss/dexter - A fast, full-featured Elixir LSP optimized for large codebases.",
       "url": "https://github.com/remoteoss/dexter",
       "published_at": "2026-04-07T20:27:28Z",
@@ -2148,21 +2176,6 @@
       "source": "GitHub",
       "stars": 76,
       "user": "remoteoss"
-    },
-    {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 71,
-      "user": "wh0amitz"
     }
   ]
 }
