@@ -264,21 +264,6 @@
       "user": "tomas maiorino"
     },
     {
-      "title": "Red, Green, Refactor… and AI: How I Turned AI Into a Reliable Pair Programming Partner",
-      "url": "https://dev.to/jijonivan/red-green-refactor-and-ai-how-i-turned-ai-into-a-reliable-pair-programming-partner-95g",
-      "published_at": "2026-04-10T19:56:29Z",
-      "description": "AI generates code fast, but without structure it produces bloated PRs, unnecessary abstractions, and code nobody understands. I applied TDD as a framework for human-AI collaboration: one failing test, minimum code to pass, refactor, repeat. A guidelines file trains the AI to follow the cycle, and a set of context files give it project memory between sessions. The result: smaller PRs, faster reviews, real ownership, and predictable quality. The human thinks, the AI implements. At the end of the article you'll find an example of the guidelines I give the AI to work together doing TDD.",
-      "tags": [
-        "tdd",
-        "ai",
-        "tui",
-        "bubbletea"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjv97jp5kfj80p17kc8t.jpeg",
-      "source": "Dev.to",
-      "user": "Ivan Jijon"
-    },
-    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -765,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1708,
       "user": "KKKKhazix"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1512,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -795,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 668,
       "user": "joeynyc"
     },
     {
@@ -810,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 61,
       "user": "wh0amitz"
     }
   ],
@@ -1080,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3398,
+      "stars": 3401,
       "user": "xixu-me"
     },
     {
@@ -1140,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93314148?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "WenXiaoWendy"
     }
   ],
@@ -1409,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1708,
       "user": "KKKKhazix"
     },
     {
@@ -1424,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1512,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1439,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1221,
+      "stars": 1225,
       "user": "mattmireles"
     },
     {
@@ -1469,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 668,
       "user": "joeynyc"
     }
   ],
@@ -1966,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3398,
+      "stars": 3401,
       "user": "xixu-me"
     },
     {
@@ -2026,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93314148?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "WenXiaoWendy"
     },
     {
@@ -2041,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1708,
       "user": "KKKKhazix"
     },
     {
@@ -2056,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1512,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2071,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1221,
+      "stars": 1225,
       "user": "mattmireles"
     },
     {
@@ -2101,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 668,
       "user": "joeynyc"
     },
     {
@@ -2116,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 358,
       "user": "retlehs"
     },
     {
@@ -2176,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 61,
       "user": "wh0amitz"
     }
   ]
