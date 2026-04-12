@@ -1,21 +1,21 @@
 {
-  "total": 102,
+  "total": 101,
   "by_source": {
-    "Dev.to": 57,
+    "Dev.to": 56,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 23,
     "Python": 21,
     "DevOps": 2,
     "WebDev": 1,
     "Mobile": 1,
     "Cloud": 14,
-    "Database": 2,
+    "Database": 1,
     "Security": 8,
-    "Tools": 21
+    "Tools": 20
   },
   "by_language": {
     "JavaScript": 23,
@@ -29,7 +29,7 @@
     "Rust": 2
   },
   "by_date": {
-    "2026-04-09": 14,
+    "2026-04-09": 13,
     "2026-04-11": 2,
     "2026-04-10": 9,
     "2026-04-08": 12,
@@ -73,7 +73,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 19,
     "github": 16,
     "open-source": 15,
     "python": 11,
