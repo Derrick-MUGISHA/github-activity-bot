@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
-      "published_at": "2026-04-12T14:57:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
       "published_at": "2026-04-12T14:56:08Z",
@@ -27,6 +12,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
+      "published_at": "2026-04-12T14:57:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -46,19 +46,19 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
-      "published_at": "2026-04-11T13:00:37Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "title": "Why I’m Afraid to Ship Code I Haven’t Read",
+      "url": "https://dev.to/distalx/why-im-afraid-to-ship-code-i-havent-read-53ha",
+      "published_at": "2026-04-11T17:07:57Z",
+      "description": "I’ve been watching the rapid rise of \"vibe coding\" and agentic engineering over the last few months,...",
       "tags": [
-        "python",
-        "awseks",
-        "gemini",
-        "googleadk"
+        "softwareengineering",
+        "agenticcoding",
+        "techdebt",
+        "cybersecurity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ur4pv9umj7f2co4gk2h.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "D"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -221,6 +221,21 @@
       "user": "William Weiner"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
+      "published_at": "2026-04-11T13:00:37Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "awseks",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "New Site, Who Dis?",
       "url": "https://dev.to/robearlam/new-site-who-dis-592h",
       "published_at": "2026-03-30T00:00:00Z",
@@ -247,6 +262,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fissdyt8g5ho5zslocp7p.png",
       "source": "Dev.to",
       "user": "tomas maiorino"
+    },
+    {
+      "title": "Red, Green, Refactor… and AI: How I Turned AI Into a Reliable Pair Programming Partner",
+      "url": "https://dev.to/jijonivan/red-green-refactor-and-ai-how-i-turned-ai-into-a-reliable-pair-programming-partner-95g",
+      "published_at": "2026-04-10T19:56:29Z",
+      "description": "AI generates code fast, but without structure it produces bloated PRs, unnecessary abstractions, and code nobody understands. I applied TDD as a framework for human-AI collaboration: one failing test, minimum code to pass, refactor, repeat. A guidelines file trains the AI to follow the cycle, and a set of context files give it project memory between sessions. The result: smaller PRs, faster reviews, real ownership, and predictable quality. The human thinks, the AI implements. At the end of the article you'll find an example of the guidelines I give the AI to work together doing TDD.",
+      "tags": [
+        "tdd",
+        "ai",
+        "tui",
+        "bubbletea"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjv97jp5kfj80p17kc8t.jpeg",
+      "source": "Dev.to",
+      "user": "Ivan Jijon"
     },
     {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
@@ -306,6 +336,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lg0c431k73y8ijnsy88.png",
       "source": "Dev.to",
       "user": "Nikita Namjoshi"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Azure ACA, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aca-and-gemini-flash-live-31-24ii",
+      "published_at": "2026-04-10T14:28:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "geminilive",
+        "azureaca",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs26ji5va3i0k0cq0d2s.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
@@ -532,49 +577,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
-    },
-    {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -718,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "QLHazyCoder"
     },
     {
@@ -733,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "NyxTides"
     },
     {
@@ -763,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1461,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -778,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 646,
       "user": "joeynyc"
     },
     {
@@ -808,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672711?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "PlayerYK"
     }
   ],
@@ -885,6 +887,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
+    },
+    {
+      "title": "What if you could reverse a template engine?",
+      "url": "https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk",
+      "published_at": "2026-04-10T16:23:32Z",
+      "description": "I've been building software for over 20 years across banking, healthcare, financial SaaS, and media....",
+      "tags": [
+        "javascript",
+        "webdev",
+        "ejs",
+        "template"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1e6i6yacijiv2bneqnp.png",
+      "source": "Dev.to",
+      "user": "Lucas Rainett"
     },
     {
       "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
@@ -1063,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3377,
+      "stars": 3384,
       "user": "xixu-me"
     },
     {
@@ -1078,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "QLHazyCoder"
     },
     {
@@ -1093,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "NyxTides"
     },
     {
@@ -1123,26 +1140,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93314148?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 211,
       "user": "WenXiaoWendy"
     }
   ],
   "Python": [
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
-      "published_at": "2026-04-12T14:57:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
@@ -1159,17 +1161,17 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
-      "published_at": "2026-04-11T13:00:37Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
+      "published_at": "2026-04-12T14:57:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
       "tags": [
-        "python",
-        "awseks",
+        "googleadk",
         "gemini",
-        "googleadk"
+        "geminilive",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1219,6 +1221,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
+      "published_at": "2026-04-11T13:00:37Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "awseks",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
       "published_at": "2026-04-10T12:57:32Z",
@@ -1259,21 +1276,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cmehhy1x3jtif9lggiv.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1407,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1461,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1422,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1212,
+      "stars": 1213,
       "user": "mattmireles"
     },
     {
@@ -1437,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 871,
       "user": "phuryn"
     },
     {
@@ -1452,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 646,
       "user": "joeynyc"
     },
     {
@@ -1530,21 +1532,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
-      "published_at": "2026-04-11T13:00:37Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "awseks",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1639,6 +1626,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
+      "published_at": "2026-04-11T13:00:37Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "python",
+        "awseks",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Converting old home movie DVDs into a private streaming site",
       "url": "https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb",
       "published_at": "2026-04-08T19:46:46Z",
@@ -1666,6 +1668,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mxquyg6ihn7x4o41zcd.png",
       "source": "Dev.to",
       "user": "Ajadi Olalekan Jamiu"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Azure ACA, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aca-and-gemini-flash-live-31-24ii",
+      "published_at": "2026-04-10T14:28:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "geminilive",
+        "azureaca",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs26ji5va3i0k0cq0d2s.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
@@ -1730,21 +1747,6 @@
   ],
   "Database": [
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1758,6 +1760,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Why I’m Afraid to Ship Code I Haven’t Read",
+      "url": "https://dev.to/distalx/why-im-afraid-to-ship-code-i-havent-read-53ha",
+      "published_at": "2026-04-11T17:07:57Z",
+      "description": "I’ve been watching the rapid rise of \"vibe coding\" and agentic engineering over the last few months,...",
+      "tags": [
+        "softwareengineering",
+        "agenticcoding",
+        "techdebt",
+        "cybersecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ur4pv9umj7f2co4gk2h.png",
+      "source": "Dev.to",
+      "user": "D"
+    },
     {
       "title": "Mastering Error Handling in Go",
       "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
@@ -1842,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "QLHazyCoder"
     },
     {
@@ -1857,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "NyxTides"
     }
   ],
@@ -1938,21 +1955,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "published_at": "2026-04-06T20:02:21Z",
@@ -1964,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
       "source": "GitHub",
-      "stars": 3377,
+      "stars": 3384,
       "user": "xixu-me"
     },
     {
@@ -1979,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "QLHazyCoder"
     },
     {
@@ -1994,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 348,
       "user": "NyxTides"
     },
     {
@@ -2024,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93314148?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 211,
       "user": "WenXiaoWendy"
     },
     {
@@ -2039,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1461,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2054,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1212,
+      "stars": 1213,
       "user": "mattmireles"
     },
     {
@@ -2069,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 871,
       "user": "phuryn"
     },
     {
@@ -2084,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 646,
       "user": "joeynyc"
     },
     {
@@ -2114,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 336,
       "user": "retlehs"
     },
     {
@@ -2144,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "mitchellh"
     },
     {
@@ -2174,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/672711?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "PlayerYK"
     }
   ]
