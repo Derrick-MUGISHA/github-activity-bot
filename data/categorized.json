@@ -428,6 +428,21 @@
       "user": "Helder Burato Berto"
     },
     {
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
+      "published_at": "2026-04-09T13:07:00Z",
+      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
+      "tags": [
+        "nvidia",
+        "ai",
+        "gemma",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "0. Why I’m Growing HAID in Public, Not Building in Public",
       "url": "https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l",
       "published_at": "2026-04-05T16:00:00Z",
@@ -456,6 +471,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
+    },
+    {
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
+      "tags": [
+        "angular",
+        "ai",
+        "claude",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
+      "source": "Dev.to",
+      "user": "Eli_coding"
     },
     {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
@@ -658,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1137,
       "user": "QLHazyCoder"
     },
     {
@@ -673,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NyxTides"
     },
     {
@@ -688,23 +718,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 201,
       "user": "V-IOLE-T"
-    },
-    {
-      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
-      "url": "https://github.com/Kunkun2116/AI-Truth",
-      "published_at": "2026-04-07T17:57:14Z",
-      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "Kunkun2116"
     },
     {
       "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
@@ -718,8 +733,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 162,
       "user": "xaspx"
+    },
+    {
+      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
+      "url": "https://github.com/Kunkun2116/AI-Truth",
+      "published_at": "2026-04-07T17:57:14Z",
+      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "Kunkun2116"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -733,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1854,
+      "stars": 1910,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -748,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 788,
       "user": "joeynyc"
     },
     {
@@ -763,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 625,
       "user": "whwangovo"
     },
     {
@@ -778,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 149,
       "user": "wh0amitz"
     }
   ],
@@ -870,6 +900,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
       "source": "Dev.to",
       "user": "Deola Adediran"
+    },
+    {
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
+      "tags": [
+        "angular",
+        "ai",
+        "claude",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
+      "source": "Dev.to",
+      "user": "Eli_coding"
     },
     {
       "title": "What if you could reverse a template engine?",
@@ -1018,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1137,
       "user": "QLHazyCoder"
     },
     {
@@ -1033,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NyxTides"
     },
     {
@@ -1048,23 +1093,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 201,
       "user": "V-IOLE-T"
-    },
-    {
-      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
-      "url": "https://github.com/Kunkun2116/AI-Truth",
-      "published_at": "2026-04-07T17:57:14Z",
-      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "Kunkun2116"
     },
     {
       "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
@@ -1078,8 +1108,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 162,
       "user": "xaspx"
+    },
+    {
+      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
+      "url": "https://github.com/Kunkun2116/AI-Truth",
+      "published_at": "2026-04-07T17:57:14Z",
+      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "Kunkun2116"
     }
   ],
   "Python": [
@@ -1347,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1854,
+      "stars": 1910,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1362,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1245,
       "user": "mattmireles"
     },
     {
@@ -1377,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 893,
       "user": "phuryn"
     },
     {
@@ -1392,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 788,
       "user": "joeynyc"
     },
     {
@@ -1407,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 625,
       "user": "whwangovo"
     }
   ],
@@ -1636,6 +1681,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjb3jt9ayicjtokpcuin.png",
       "source": "Dev.to",
       "user": "Lucas Vieira"
+    },
+    {
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b",
+      "published_at": "2026-04-09T13:07:00Z",
+      "description": "Architectural worklow: fine tuning Gemma 3 27B on Cloud Run Jobs     Recently, I was inspired by a...",
+      "tags": [
+        "nvidia",
+        "ai",
+        "gemma",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femlurvlljf6ja7xu1ed3.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     }
   ],
   "Database": [
@@ -1781,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1137,
       "user": "QLHazyCoder"
     },
     {
@@ -1796,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NyxTides"
     },
     {
@@ -1811,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 201,
       "user": "V-IOLE-T"
     }
   ],
@@ -1877,6 +1937,21 @@
       "user": "Jessica Temporal"
     },
     {
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
+      "tags": [
+        "angular",
+        "ai",
+        "claude",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
+      "source": "Dev.to",
+      "user": "Eli_coding"
+    },
+    {
       "title": "TigerFS: A Filesystem Backed by PostgreSQL",
       "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
       "published_at": "2026-04-09T13:32:32Z",
@@ -1903,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1137,
       "user": "QLHazyCoder"
     },
     {
@@ -1918,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NyxTides"
     },
     {
@@ -1933,23 +2008,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 201,
       "user": "V-IOLE-T"
-    },
-    {
-      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
-      "url": "https://github.com/Kunkun2116/AI-Truth",
-      "published_at": "2026-04-07T17:57:14Z",
-      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "Kunkun2116"
     },
     {
       "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
@@ -1963,8 +2023,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 162,
       "user": "xaspx"
+    },
+    {
+      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
+      "url": "https://github.com/Kunkun2116/AI-Truth",
+      "published_at": "2026-04-07T17:57:14Z",
+      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "Kunkun2116"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -1978,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1854,
+      "stars": 1910,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1993,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1245,
       "user": "mattmireles"
     },
     {
@@ -2008,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 893,
       "user": "phuryn"
     },
     {
@@ -2023,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 788,
       "user": "joeynyc"
     },
     {
@@ -2038,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 625,
       "user": "whwangovo"
     },
     {
@@ -2053,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 396,
       "user": "retlehs"
     },
     {
@@ -2068,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 149,
       "user": "wh0amitz"
     },
     {
@@ -2083,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 104,
       "user": "remoteoss"
     },
     {
@@ -2113,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "mitchellh"
     }
   ]
