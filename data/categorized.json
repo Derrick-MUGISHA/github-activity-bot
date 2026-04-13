@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
-      "published_at": "2026-04-12T14:57:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
       "published_at": "2026-04-12T14:56:08Z",
@@ -42,6 +27,21 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
+      "published_at": "2026-04-12T14:57:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1087,
       "user": "QLHazyCoder"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "NyxTides"
     },
     {
@@ -718,8 +718,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 149,
       "user": "V-IOLE-T"
+    },
+    {
+      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
+      "url": "https://github.com/Kunkun2116/AI-Truth",
+      "published_at": "2026-04-07T17:57:14Z",
+      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "Kunkun2116"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1727,
+      "stars": 1772,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -748,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 766,
       "user": "joeynyc"
     },
     {
@@ -763,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 613,
       "user": "whwangovo"
     },
     {
@@ -778,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 130,
       "user": "wh0amitz"
     }
   ],
@@ -1033,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1087,
       "user": "QLHazyCoder"
     },
     {
@@ -1048,8 +1063,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "NyxTides"
+    },
+    {
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "V-IOLE-T"
     },
     {
       "title": "pithings/coderaft - 🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
@@ -1067,52 +1097,22 @@
       "user": "pithings"
     },
     {
-      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
-      "url": "https://github.com/professor-lee/StoneBadge",
-      "published_at": "2026-04-08T16:50:39Z",
-      "description": "Add a Rotating Stone in your README file.",
+      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
+      "url": "https://github.com/Kunkun2116/AI-Truth",
+      "published_at": "2026-04-07T17:57:14Z",
+      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 130,
-      "user": "professor-lee"
-    },
-    {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
-      "source": "GitHub",
-      "stars": 123,
-      "user": "V-IOLE-T"
+      "stars": 132,
+      "user": "Kunkun2116"
     }
   ],
   "Python": [
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
-      "published_at": "2026-04-12T14:57:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
@@ -1125,6 +1125,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
+      "published_at": "2026-04-12T14:57:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1362,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1727,
+      "stars": 1772,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1377,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1238,
+      "stars": 1240,
       "user": "mattmireles"
     },
     {
@@ -1392,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 885,
       "user": "phuryn"
     },
     {
@@ -1407,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 766,
       "user": "joeynyc"
     },
     {
@@ -1422,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 613,
       "user": "whwangovo"
     }
   ],
@@ -1797,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1087,
       "user": "QLHazyCoder"
     },
     {
@@ -1812,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "NyxTides"
     },
     {
@@ -1827,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 149,
       "user": "V-IOLE-T"
     }
   ],
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1087,
       "user": "QLHazyCoder"
     },
     {
@@ -1949,8 +1964,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "NyxTides"
+    },
+    {
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "V-IOLE-T"
     },
     {
       "title": "pithings/coderaft - 🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
@@ -1968,34 +1998,19 @@
       "user": "pithings"
     },
     {
-      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
-      "url": "https://github.com/professor-lee/StoneBadge",
-      "published_at": "2026-04-08T16:50:39Z",
-      "description": "Add a Rotating Stone in your README file.",
+      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
+      "url": "https://github.com/Kunkun2116/AI-Truth",
+      "published_at": "2026-04-07T17:57:14Z",
+      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 130,
-      "user": "professor-lee"
-    },
-    {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
-      "source": "GitHub",
-      "stars": 123,
-      "user": "V-IOLE-T"
+      "stars": 132,
+      "user": "Kunkun2116"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -2009,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1727,
+      "stars": 1772,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1238,
+      "stars": 1240,
       "user": "mattmireles"
     },
     {
@@ -2039,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 885,
       "user": "phuryn"
     },
     {
@@ -2054,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 766,
       "user": "joeynyc"
     },
     {
@@ -2069,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 613,
       "user": "whwangovo"
     },
     {
@@ -2084,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 387,
       "user": "retlehs"
     },
     {
@@ -2099,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 130,
       "user": "wh0amitz"
     },
     {
@@ -2118,6 +2133,21 @@
       "user": "rvitorper"
     },
     {
+      "title": "remoteoss/dexter - A fast, full-featured Elixir LSP optimized for large codebases.",
+      "url": "https://github.com/remoteoss/dexter",
+      "published_at": "2026-04-07T20:27:28Z",
+      "description": "A fast, full-featured Elixir LSP optimized for large codebases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
+      "source": "GitHub",
+      "stars": 81,
+      "user": "remoteoss"
+    },
+    {
       "title": "mitchellh/go-libghostty - Go bindings for libghostty-vt.",
       "url": "https://github.com/mitchellh/go-libghostty",
       "published_at": "2026-04-10T15:39:00Z",
@@ -2131,21 +2161,6 @@
       "source": "GitHub",
       "stars": 81,
       "user": "mitchellh"
-    },
-    {
-      "title": "remoteoss/dexter - A fast, full-featured Elixir LSP optimized for large codebases.",
-      "url": "https://github.com/remoteoss/dexter",
-      "published_at": "2026-04-07T20:27:28Z",
-      "description": "A fast, full-featured Elixir LSP optimized for large codebases.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "remoteoss"
     }
   ]
 }
