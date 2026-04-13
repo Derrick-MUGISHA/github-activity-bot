@@ -76,6 +76,16 @@
       "user": "D"
     },
     {
+      "title": "AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.",
+      "url": "https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi",
+      "published_at": "2026-04-13T17:12:41Z",
+      "description": "Your coding agent is a slot machine                                                            ...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fny2gvjsvzpoldxdlb7av.png",
+      "source": "Dev.to",
+      "user": "Wojciech Wentland"
+    },
+    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -246,6 +256,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
       "source": "Dev.to",
       "user": "Lakhan Samani"
+    },
+    {
+      "title": "I Couldn’t Afford Earth, So I Built Something Better",
+      "url": "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
+      "published_at": "2026-04-11T13:20:05Z",
+      "description": "This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...",
+      "tags": [
+        "devchallenge",
+        "showdev",
+        "418challenge",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1hqypa84cifpqf3zyeg.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
     },
     {
       "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
@@ -516,20 +541,6 @@
       "user": "Matheus Luz"
     },
     {
-      "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
-      "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
-      "published_at": "2026-04-09T20:07:24Z",
-      "description": "A few weeks ago I posted about finding the same per-recipient identifier in three independent places...",
-      "tags": [
-        "privacy",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
-      "source": "Dev.to",
-      "user": "William Weiner"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -673,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1170,
       "user": "QLHazyCoder"
     },
     {
@@ -703,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "V-IOLE-T"
     },
     {
@@ -718,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 200,
       "user": "xaspx"
     },
     {
@@ -733,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "Kunkun2116"
     },
     {
@@ -748,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1980,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -763,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "joeynyc"
     },
     {
@@ -778,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "whwangovo"
     },
     {
@@ -793,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 157,
       "user": "wh0amitz"
     }
   ],
@@ -900,21 +911,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
       "source": "Dev.to",
       "user": "Eli_coding"
-    },
-    {
-      "title": "What if you could reverse a template engine?",
-      "url": "https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk",
-      "published_at": "2026-04-10T16:23:32Z",
-      "description": "I've been building software for over 20 years across banking, healthcare, financial SaaS, and media....",
-      "tags": [
-        "javascript",
-        "webdev",
-        "ejs",
-        "template"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1e6i6yacijiv2bneqnp.png",
-      "source": "Dev.to",
-      "user": "Lucas Rainett"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1048,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1170,
       "user": "QLHazyCoder"
     },
     {
@@ -1078,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "V-IOLE-T"
     },
     {
@@ -1093,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 200,
       "user": "xaspx"
     },
     {
@@ -1108,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "Kunkun2116"
     }
   ],
@@ -1362,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1980,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1377,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1251,
       "user": "mattmireles"
     },
     {
@@ -1407,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "joeynyc"
     },
     {
@@ -1422,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "whwangovo"
     }
   ],
@@ -1744,20 +1740,6 @@
       "user": "PracticeOverflow"
     },
     {
-      "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
-      "url": "https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2",
-      "published_at": "2026-04-09T20:07:24Z",
-      "description": "A few weeks ago I posted about finding the same per-recipient identifier in three independent places...",
-      "tags": [
-        "privacy",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcoy3fapad9rylkgf56pd.jpeg",
-      "source": "Dev.to",
-      "user": "William Weiner"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1781,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1170,
       "user": "QLHazyCoder"
     },
     {
@@ -1811,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "V-IOLE-T"
     }
   ],
@@ -1918,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1170,
       "user": "QLHazyCoder"
     },
     {
@@ -1948,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "V-IOLE-T"
     },
     {
@@ -1963,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 200,
       "user": "xaspx"
     },
     {
@@ -1978,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "Kunkun2116"
     },
     {
@@ -1993,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1980,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2008,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1251,
       "user": "mattmireles"
     },
     {
@@ -2038,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "joeynyc"
     },
     {
@@ -2053,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "whwangovo"
     },
     {
@@ -2068,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 413,
       "user": "retlehs"
     },
     {
@@ -2083,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 157,
       "user": "wh0amitz"
     },
     {
@@ -2098,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 122,
       "user": "remoteoss"
     },
     {
