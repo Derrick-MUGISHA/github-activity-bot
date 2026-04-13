@@ -248,6 +248,21 @@
       "user": "Lakhan Samani"
     },
     {
+      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
+      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
+      "published_at": "2026-04-10T13:18:59Z",
+      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
+      "tags": [
+        "a11y",
+        "saas",
+        "showdev",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
+      "source": "Dev.to",
+      "user": "Jordan Harrison"
+    },
+    {
       "title": "Building a Multimodal Agent with the ADK, Azure ACA, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aca-and-gemini-flash-live-31-24ii",
       "published_at": "2026-04-10T14:28:04Z",
@@ -276,21 +291,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
-      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
-      "published_at": "2026-04-10T13:18:59Z",
-      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
-      "tags": [
-        "a11y",
-        "saas",
-        "showdev",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
-      "source": "Dev.to",
-      "user": "Jordan Harrison"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -473,6 +473,21 @@
       "user": "Eli_coding"
     },
     {
+      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
+      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
+      "published_at": "2026-04-09T20:36:04Z",
+      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
+      "tags": [
+        "ai",
+        "programming",
+        "discuss",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
+      "source": "Dev.to",
+      "user": "Bejie Paulo Aclao"
+    },
+    {
       "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
       "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
       "published_at": "2026-03-26T21:05:21Z",
@@ -499,21 +514,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
       "source": "Dev.to",
       "user": "Matheus Luz"
-    },
-    {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
     },
     {
       "title": "Tracking, Propagation Attacks, and What We Found in Real Email Traffic",
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1165,
       "user": "QLHazyCoder"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 226,
       "user": "V-IOLE-T"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 187,
       "user": "xaspx"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1960,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 807,
       "user": "joeynyc"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "whwangovo"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "wh0amitz"
     }
   ],
@@ -1048,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1165,
       "user": "QLHazyCoder"
     },
     {
@@ -1078,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 226,
       "user": "V-IOLE-T"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 187,
       "user": "xaspx"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1960,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 807,
       "user": "joeynyc"
     },
     {
@@ -1422,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "whwangovo"
     }
   ],
@@ -1655,21 +1655,6 @@
   ],
   "Database": [
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
-      "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
-      "source": "Dev.to",
-      "user": "Polliog"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1796,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1165,
       "user": "QLHazyCoder"
     },
     {
@@ -1826,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 226,
       "user": "V-IOLE-T"
     }
   ],
@@ -1907,19 +1892,19 @@
       "user": "Eli_coding"
     },
     {
-      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
-      "url": "https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i",
-      "published_at": "2026-04-09T13:32:32Z",
-      "description": "TigerFS is a filesystem backed by PostgreSQL, built by the Timescale team. It mounts a database as a...",
+      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
+      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
+      "published_at": "2026-04-09T20:36:04Z",
+      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
       "tags": [
-        "postgres",
-        "database",
-        "devtools",
-        "ai"
+        "ai",
+        "programming",
+        "discuss",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg9xfnkc6fojb82up38r.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
       "source": "Dev.to",
-      "user": "Polliog"
+      "user": "Bejie Paulo Aclao"
     },
     {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
@@ -1933,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1165,
       "user": "QLHazyCoder"
     },
     {
@@ -1963,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 226,
       "user": "V-IOLE-T"
     },
     {
@@ -1978,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 187,
       "user": "xaspx"
     },
     {
@@ -2008,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1960,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2053,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 807,
       "user": "joeynyc"
     },
     {
@@ -2068,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "whwangovo"
     },
     {
@@ -2083,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 407,
       "user": "retlehs"
     },
     {
@@ -2098,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "wh0amitz"
     },
     {
@@ -2113,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 114,
       "user": "remoteoss"
     },
     {
