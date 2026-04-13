@@ -15,7 +15,7 @@
     "Cloud": 12,
     "Database": 1,
     "Security": 10,
-    "Tools": 20
+    "Tools": 19
   },
   "by_language": {
     "JavaScript": 21,
@@ -27,8 +27,8 @@
     "Rust": 2
   },
   "by_date": {
-    "2026-04-09": 9,
-    "2026-04-13": 9,
+    "2026-04-09": 8,
+    "2026-04-13": 10,
     "2026-04-11": 5,
     "2026-04-10": 12,
     "2026-04-08": 8,
@@ -82,17 +82,17 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "webdev": 7,
     "go": 7,
     "javascript": 7,
     "opensource": 6,
-    "webdev": 6,
-    "discuss": 6,
     "devchallenge": 6,
+    "discuss": 6,
     "googleadk": 6,
-    "programming": 5,
     "418challenge": 5,
     "showdev": 5,
     "tutorial": 5,
+    "programming": 4,
     "security": 4
   },
   "trending_topics": [],
