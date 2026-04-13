@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
-      "published_at": "2026-04-12T14:56:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
+      "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
+      "published_at": "2026-04-13T15:00:23Z",
+      "description": "Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...",
       "tags": [
-        "python",
-        "geminilive",
-        "adk",
-        "gemini"
+        "ai",
+        "robotics",
+        "gemini",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -42,6 +42,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
+      "published_at": "2026-04-12T14:56:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "python",
+        "geminilive",
+        "adk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -151,21 +166,6 @@
       "user": "Rob Simpson"
     },
     {
-      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
-      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
-      "published_at": "2026-04-09T15:06:56Z",
-      "description": "I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...",
-      "tags": [
-        "sideprojects",
-        "ai",
-        "vibecoding",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmcntojyaoipmfp5m7skr.PNG",
-      "source": "Dev.to",
-      "user": "Maria Dunning"
-    },
-    {
       "title": "The Honest Climate Case for AI",
       "url": "https://dev.to/dcc/the-honest-climate-case-for-ai-5hg5",
       "published_at": "2026-04-10T15:02:50Z",
@@ -189,21 +189,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9nl28dep0enkzjd3kg2b.jpg",
       "source": "Dev.to",
       "user": "William Weiner"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
-      "published_at": "2026-04-11T13:00:37Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "awseks",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "New Site, Who Dis?",
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1156,
       "user": "QLHazyCoder"
     },
     {
@@ -703,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "NyxTides"
     },
     {
@@ -718,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 217,
       "user": "V-IOLE-T"
     },
     {
@@ -733,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 181,
       "user": "xaspx"
     },
     {
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "Kunkun2116"
     },
     {
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1910,
+      "stars": 1945,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 794,
       "user": "joeynyc"
     },
     {
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 627,
       "user": "whwangovo"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "wh0amitz"
     }
   ],
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1156,
       "user": "QLHazyCoder"
     },
     {
@@ -1078,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "NyxTides"
     },
     {
@@ -1093,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 217,
       "user": "V-IOLE-T"
     },
     {
@@ -1108,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 181,
       "user": "xaspx"
     },
     {
@@ -1123,26 +1108,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "Kunkun2116"
     }
   ],
   "Python": [
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
-      "published_at": "2026-04-12T14:56:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "python",
-        "geminilive",
-        "adk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
@@ -1155,6 +1125,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
+      "published_at": "2026-04-12T14:56:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "python",
+        "geminilive",
+        "adk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1200,21 +1185,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
-      "published_at": "2026-04-11T13:00:37Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "awseks",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1392,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1910,
+      "stars": 1945,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1407,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1250,
       "user": "mattmireles"
     },
     {
@@ -1422,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 896,
       "user": "phuryn"
     },
     {
@@ -1437,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 794,
       "user": "joeynyc"
     },
     {
@@ -1452,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 627,
       "user": "whwangovo"
     }
   ],
@@ -1590,21 +1560,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8",
-      "published_at": "2026-04-11T13:00:37Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "python",
-        "awseks",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi82k2awj0cywm0x1cki4.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1841,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1156,
       "user": "QLHazyCoder"
     },
     {
@@ -1856,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "NyxTides"
     },
     {
@@ -1871,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 217,
       "user": "V-IOLE-T"
     }
   ],
@@ -1978,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1156,
       "user": "QLHazyCoder"
     },
     {
@@ -1993,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "NyxTides"
     },
     {
@@ -2008,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 217,
       "user": "V-IOLE-T"
     },
     {
@@ -2023,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 181,
       "user": "xaspx"
     },
     {
@@ -2038,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "Kunkun2116"
     },
     {
@@ -2053,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1910,
+      "stars": 1945,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2068,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1250,
       "user": "mattmireles"
     },
     {
@@ -2083,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 896,
       "user": "phuryn"
     },
     {
@@ -2098,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 794,
       "user": "joeynyc"
     },
     {
@@ -2113,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 627,
       "user": "whwangovo"
     },
     {
@@ -2128,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 404,
       "user": "retlehs"
     },
     {
@@ -2143,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "wh0amitz"
     },
     {
@@ -2158,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 110,
       "user": "remoteoss"
     },
     {
@@ -2188,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "mitchellh"
     }
   ]
