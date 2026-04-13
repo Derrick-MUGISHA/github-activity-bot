@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-13-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.5%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
+**Security**: 🟦🟦🟦 8 (7.7%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -58,11 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.5 (26.5%)
-JavaScript      ████████████████████████████ 24.5 (24.5%)
-Python          ████████████████████████████ 24.5 (24.5%)
-Java            ███████████████████████ 20.4 (20.4%)
-Rust            ██ 2.0 (2.0%)
+Go              ██████████████████████████████ 27.1 (27.1%)
+Python          ████████████████████████████ 25.0 (25.0%)
+JavaScript      ███████████████████████████ 24.0 (24.0%)
+Java            ██████████████████████ 19.8 (19.8%)
+Rust            ██ 2.1 (2.1%)
 Ruby            █ 1.0 (1.0%)
 PHP             █ 1.0 (1.0%)
 
@@ -71,9 +71,9 @@ PHP             █ 1.0 (1.0%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 26
-    "JavaScript" : 24
     "Python" : 24
-    "Java" : 20
+    "JavaScript" : 23
+    "Java" : 19
     "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-14-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-14-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googleadk](https://img.shields.io/badge/googleadk-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-13 4:00 CAT)
+## 📅 Latest Updates (2026-04-13 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
 
-_Last automated update: Mon, 13 Apr 2026 04:24:07 CAT_
+_Last automated update: Mon, 13 Apr 2026 07:26:06 CAT_
 
 
 
@@ -233,18 +233,7 @@ Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
+### 2. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -252,6 +241,17 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 3. React: What are hooks and why were they introduced?
+
+**Difficulty**: Medium | **Topics**: hooks, functional components
+
+<details>
+<summary>💡 Hint</summary>
+
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 13 Apr 2026 02:24:07 GMT</b><br/>
+  <b>Last automated update: Mon, 13 Apr 2026 05:26:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
