@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
+      "published_at": "2026-04-13T18:42:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "kubernetes",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "published_at": "2026-04-13T15:00:23Z",
@@ -14,6 +29,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Gemini Thinking: How \"Brainy\" Models Unexpectedly Blew My Budget",
+      "url": "https://dev.to/gdg/gemini-thinking-how-new-brainy-models-unexpectedly-blew-my-budget-1c85",
+      "published_at": "2026-04-13T07:29:03Z",
+      "description": "Recently, Google notified me that the Gemini 2.0 models I was using are retiring. This was...",
+      "tags": [
+        "gemini",
+        "vertexai",
+        "infrastructure",
+        "finops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj05whyr26ixyp2lp4l7w.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
+      "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
+      "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
+      "published_at": "2026-04-13T17:59:00Z",
+      "description": "Andrej Karpathy's LLM Wiki pattern went viral this month. 5,000+ stars, 3,700 forks, dozens of...",
+      "tags": [
+        "ai",
+        "aimemory",
+        "wiki",
+        "obsidian"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
+      "source": "Dev.to",
+      "user": "Penfield"
+    },
+    {
+      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
+      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
+      "published_at": "2026-04-13T17:45:50Z",
+      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
+      "source": "Dev.to",
+      "user": "Nishkarsh Pandey"
+    },
+    {
+      "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
+      "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
+      "published_at": "2026-04-13T17:35:25Z",
+      "description": "The UK's AI Security Institute confirmed this week that Claude Mythos, an Anthropic model, became the...",
+      "tags": [
+        "security",
+        "ai",
+        "architecture",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxy7zvanyrwyppx2b1sa.webp",
+      "source": "Dev.to",
+      "user": "Sameer Khan"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -229,6 +304,21 @@
       "user": "tomas maiorino"
     },
     {
+      "title": "I Couldn’t Afford Earth, So I Built Something Better",
+      "url": "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
+      "published_at": "2026-04-11T13:20:05Z",
+      "description": "This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...",
+      "tags": [
+        "devchallenge",
+        "showdev",
+        "418challenge",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1hqypa84cifpqf3zyeg.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
+    },
+    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -256,21 +346,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
       "source": "Dev.to",
       "user": "Lakhan Samani"
-    },
-    {
-      "title": "I Couldn’t Afford Earth, So I Built Something Better",
-      "url": "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
-      "published_at": "2026-04-11T13:20:05Z",
-      "description": "This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...",
-      "tags": [
-        "devchallenge",
-        "showdev",
-        "418challenge",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1hqypa84cifpqf3zyeg.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
     },
     {
       "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
@@ -483,64 +558,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
-    },
-    {
-      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
-      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
-      "published_at": "2026-04-09T20:36:04Z",
-      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
-      "source": "Dev.to",
-      "user": "Bejie Paulo Aclao"
-    },
-    {
-      "title": "Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm",
-      "url": "https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip",
-      "published_at": "2026-03-26T21:05:21Z",
-      "description": "Build a 3-agent research analysis swarm that runs across three orchestrators. Learn how LaunchDarkly AI Configs enable framework-agnostic agent definitions, per-agent cost tracking, and silent failure detection.",
-      "tags": [
-        "langchain",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk31czblkr41ag97p3mkh.png",
-      "source": "Dev.to",
-      "user": "Scarlett Attensil"
-    },
-    {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -684,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "QLHazyCoder"
     },
     {
@@ -714,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "V-IOLE-T"
     },
     {
@@ -729,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 211,
       "user": "xaspx"
     },
     {
@@ -759,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1985,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -774,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 815,
       "user": "joeynyc"
     },
     {
@@ -789,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 632,
       "user": "whwangovo"
     },
     {
@@ -896,21 +913,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
       "source": "Dev.to",
       "user": "Deola Adediran"
-    },
-    {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1044,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "QLHazyCoder"
     },
     {
@@ -1074,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "V-IOLE-T"
     },
     {
@@ -1089,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 211,
       "user": "xaspx"
     },
     {
@@ -1109,6 +1111,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
+      "published_at": "2026-04-13T18:42:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "kubernetes",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
@@ -1210,21 +1227,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F252vf9p6b5zw9z1u32cw.png",
       "source": "Dev.to",
       "user": "Kelvin Wangonya"
-    },
-    {
-      "title": "LoreKit - AI That GMs Full TTRPG Campaigns",
-      "url": "https://dev.to/matluz/i-built-an-ai-that-gms-full-ttrpg-campaigns-774",
-      "published_at": "2026-04-04T15:01:52Z",
-      "description": "An open-source engine that turns AI into a real Game Master - with deterministic dice, persistent NPCs, and full campaign tracking.",
-      "tags": [
-        "opensource",
-        "python",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fimqw4xub80f093i2okxr.png",
-      "source": "Dev.to",
-      "user": "Matheus Luz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1358,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1985,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1388,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 900,
       "user": "phuryn"
     },
     {
@@ -1403,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 815,
       "user": "joeynyc"
     },
     {
@@ -1418,11 +1420,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 632,
       "user": "whwangovo"
     }
   ],
   "DevOps": [
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
+      "published_at": "2026-04-13T18:42:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "kubernetes",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
       "url": "https://dev.to/cafedeluv/building-for-production-a-guide-to-deploying-a-3-tier-app-on-azure-chb",
@@ -1665,6 +1682,21 @@
   ],
   "Security": [
     {
+      "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
+      "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
+      "published_at": "2026-04-13T17:35:25Z",
+      "description": "The UK's AI Security Institute confirmed this week that Claude Mythos, an Anthropic model, became the...",
+      "tags": [
+        "security",
+        "ai",
+        "architecture",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxy7zvanyrwyppx2b1sa.webp",
+      "source": "Dev.to",
+      "user": "Sameer Khan"
+    },
+    {
       "title": "Why I’m Afraid to Ship Code I Haven’t Read",
       "url": "https://dev.to/distalx/why-im-afraid-to-ship-code-i-havent-read-53ha",
       "published_at": "2026-04-11T17:07:57Z",
@@ -1763,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "QLHazyCoder"
     },
     {
@@ -1793,11 +1825,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "V-IOLE-T"
     }
   ],
   "Tools": [
+    {
+      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
+      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
+      "published_at": "2026-04-13T17:45:50Z",
+      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
+      "source": "Dev.to",
+      "user": "Nishkarsh Pandey"
+    },
     {
       "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
       "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
@@ -1859,36 +1906,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
-    },
-    {
-      "title": "Your AI Is Lying to You Because You Trained It to and a New Study Proves It",
-      "url": "https://dev.to/serkingiii/your-ai-is-lying-to-you-because-you-trained-it-to-and-a-new-study-proves-it-4gc5",
-      "published_at": "2026-04-09T20:36:04Z",
-      "description": "I asked ChatGPT to review some code last week that I knew had a pretty bad architectural decision in...",
-      "tags": [
-        "ai",
-        "programming",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqml7pyvgmml919qxbyc7.png",
-      "source": "Dev.to",
-      "user": "Bejie Paulo Aclao"
-    },
-    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -1900,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1176,
       "user": "QLHazyCoder"
     },
     {
@@ -1930,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "V-IOLE-T"
     },
     {
@@ -1945,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 211,
       "user": "xaspx"
     },
     {
@@ -1975,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1985,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2005,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 900,
       "user": "phuryn"
     },
     {
@@ -2020,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 815,
       "user": "joeynyc"
     },
     {
@@ -2035,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 632,
       "user": "whwangovo"
     },
     {
@@ -2050,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 417,
       "user": "retlehs"
     },
     {
@@ -2080,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 127,
       "user": "remoteoss"
     },
     {
