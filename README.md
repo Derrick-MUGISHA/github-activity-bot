@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
-
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**Security**: 🟦🟦🟦🟦 10 (9.5%)
+**Security**: 🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -58,22 +58,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.1 (27.1%)
-JavaScript      ███████████████████████████ 24.0 (24.0%)
-Python          ███████████████████████████ 24.0 (24.0%)
-Java            ███████████████████████ 20.8 (20.8%)
-Rust            ██ 2.1 (2.1%)
-Ruby            █ 1.0 (1.0%)
-PHP             █ 1.0 (1.0%)
+Go              ██████████████████████████████ 26.9 (26.9%)
+Python          ████████████████████████████ 24.7 (24.7%)
+JavaScript      ██████████████████████████ 23.7 (23.7%)
+Java            ███████████████████████ 20.4 (20.4%)
+Rust            ██ 2.2 (2.2%)
+Ruby            █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "JavaScript" : 23
+    "Go" : 25
     "Python" : 23
-    "Java" : 20
+    "JavaScript" : 22
+    "Java" : 19
     "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-13 18:00 CAT)
+## 📅 Latest Updates (2026-04-13 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -160,19 +160,19 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI" />
+    <a href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg" width="200" alt="The Final 1% of Every GitHub Project: Sealing It Properly" />
       <br/>
-      <b>Building a Multimodal Cross Cloud Live Agent with ...</b>
+      <b>The Final 1% of Every GitHub Project: Sealing It P...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg" width="200" alt="The Final 1% of Every GitHub Project: Sealing It Properly" />
+    <a href="https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png" width="200" alt="Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI" />
       <br/>
-      <b>The Final 1% of Every GitHub Project: Sealing It P...</b>
+      <b>Building a Multimodal Cross Cloud Live Agent with ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,11 +196,12 @@ npm run test
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
 - [Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-2kee) _[Dev.to]_
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek) _[Dev.to]_
 - [Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j) _[Dev.to]_
 - [Why I’m Afraid to Ship Code I Haven’t Read](https://dev.to/distalx/why-im-afraid-to-ship-code-i-havent-read-53ha) _[Dev.to]_
+- [AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.](https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
@@ -208,13 +209,12 @@ npm run test
 - [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 - [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 - [I'm a bit lost.](https://dev.to/hubedav/im-a-bit-lost-2dko) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
-- [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 
-_Last automated update: Mon, 13 Apr 2026 18:47:08 CAT_
+_Last automated update: Mon, 13 Apr 2026 19:56:42 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Mon, 13 Apr 2026 18:47:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 13 Apr 2026 16:47:08 GMT</b><br/>
+  <b>Last automated update: Mon, 13 Apr 2026 17:56:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
