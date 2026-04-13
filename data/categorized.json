@@ -293,21 +293,6 @@
       "user": "Lakhan Samani"
     },
     {
-      "title": "What is an LLM actually doing when it's \"thinking\"?",
-      "url": "https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5",
-      "published_at": "2026-04-10T16:42:45Z",
-      "description": "Ever wondered what an LLM is doing when it's \"thinking\"?  In this episode of Release Notes Explained,...",
-      "tags": [
-        "gemini",
-        "llm",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lg0c431k73y8ijnsy88.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
-    },
-    {
       "title": "Building a Multimodal Agent with the ADK, Azure ACA, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aca-and-gemini-flash-live-31-24ii",
       "published_at": "2026-04-10T14:28:04Z",
@@ -319,6 +304,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs26ji5va3i0k0cq0d2s.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
+      "published_at": "2026-04-10T12:57:32Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "geminilive",
+        "python",
+        "gemini",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -336,21 +336,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
       "source": "Dev.to",
       "user": "Jordan Harrison"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-ecs-express-and-gemini-cli-30a8",
-      "published_at": "2026-04-10T12:57:32Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "geminilive",
-        "python",
-        "gemini",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22cqfyiql3673xjt6lo0.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Working with JWTs in Laravel (Without the Magic)",
@@ -396,21 +381,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1eum5mtqpk3dz92l94x7.png",
       "source": "Dev.to",
       "user": "PracticeOverflow"
-    },
-    {
-      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
-      "published_at": "2026-04-09T03:19:37Z",
-      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
-      "tags": [
-        "ai",
-        "nlp",
-        "node",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
-      "source": "Dev.to",
-      "user": "tronghieuit"
     },
     {
       "title": "Your vibe coding app works. That's exactly the problem.",
@@ -718,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1050,
       "user": "QLHazyCoder"
     },
     {
@@ -733,23 +703,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "NyxTides"
     },
     {
-      "title": "iBUHub/CanvasToAPI - A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
-      "url": "https://github.com/iBUHub/CanvasToAPI",
-      "published_at": "2026-04-07T11:39:06Z",
-      "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255295353?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 119,
-      "user": "iBUHub"
+      "stars": 123,
+      "user": "V-IOLE-T"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -763,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1727,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -778,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 753,
       "user": "joeynyc"
     },
     {
@@ -793,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 605,
       "user": "whwangovo"
     },
     {
@@ -808,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 119,
       "user": "wh0amitz"
     }
   ],
@@ -887,21 +857,6 @@
       "user": "Rob Simpson"
     },
     {
-      "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-      "url": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
-      "published_at": "2026-04-09T03:19:37Z",
-      "description": "Hi everyone! I'm a developer passionate about making AI accessible on low-resource devices. I've been...",
-      "tags": [
-        "ai",
-        "nlp",
-        "node",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklr28l2b9gucrpv80300.png",
-      "source": "Dev.to",
-      "user": "tronghieuit"
-    },
-    {
       "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
       "url": "https://dev.to/chefgs/how-to-avoid-vulnerabilities-in-ai-generated-javascript-and-nodejs-projects-4ggi",
       "published_at": "2026-04-08T07:48:15Z",
@@ -930,6 +885,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
       "source": "Dev.to",
       "user": "Deola Adediran"
+    },
+    {
+      "title": "What if you could reverse a template engine?",
+      "url": "https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk",
+      "published_at": "2026-04-10T16:23:32Z",
+      "description": "I've been building software for over 20 years across banking, healthcare, financial SaaS, and media....",
+      "tags": [
+        "javascript",
+        "webdev",
+        "ejs",
+        "template"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1e6i6yacijiv2bneqnp.png",
+      "source": "Dev.to",
+      "user": "Lucas Rainett"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1063,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1050,
       "user": "QLHazyCoder"
     },
     {
@@ -1078,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "NyxTides"
     },
     {
@@ -1108,23 +1078,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "professor-lee"
     },
     {
-      "title": "iBUHub/CanvasToAPI - A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
-      "url": "https://github.com/iBUHub/CanvasToAPI",
-      "published_at": "2026-04-07T11:39:06Z",
-      "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255295353?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 119,
-      "user": "iBUHub"
+      "stars": 123,
+      "user": "V-IOLE-T"
     }
   ],
   "Python": [
@@ -1392,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1727,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1407,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1238,
       "user": "mattmireles"
     },
     {
@@ -1422,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 882,
       "user": "phuryn"
     },
     {
@@ -1437,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 753,
       "user": "joeynyc"
     },
     {
@@ -1452,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 605,
       "user": "whwangovo"
     }
   ],
@@ -1827,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1050,
       "user": "QLHazyCoder"
     },
     {
@@ -1842,8 +1812,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "NyxTides"
+    },
+    {
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "V-IOLE-T"
     }
   ],
   "Tools": [
@@ -1949,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1050,
       "user": "QLHazyCoder"
     },
     {
@@ -1964,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "NyxTides"
     },
     {
@@ -1994,23 +1979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "professor-lee"
     },
     {
-      "title": "iBUHub/CanvasToAPI - A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
-      "url": "https://github.com/iBUHub/CanvasToAPI",
-      "published_at": "2026-04-07T11:39:06Z",
-      "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255295353?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 119,
-      "user": "iBUHub"
+      "stars": 123,
+      "user": "V-IOLE-T"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -2024,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1727,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2039,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1238,
       "user": "mattmireles"
     },
     {
@@ -2054,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 882,
       "user": "phuryn"
     },
     {
@@ -2069,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 753,
       "user": "joeynyc"
     },
     {
@@ -2084,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 605,
       "user": "whwangovo"
     },
     {
@@ -2099,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "retlehs"
     },
     {
@@ -2114,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 119,
       "user": "wh0amitz"
     },
     {
