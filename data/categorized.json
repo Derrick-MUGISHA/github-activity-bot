@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "published_at": "2026-04-13T15:00:23Z",
@@ -29,21 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
-      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
-      "published_at": "2026-04-13T17:45:50Z",
-      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
-      "source": "Dev.to",
-      "user": "Nishkarsh Pandey"
     },
     {
       "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
@@ -61,6 +31,21 @@
       "user": "Penfield"
     },
     {
+      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
+      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
+      "published_at": "2026-04-13T17:45:50Z",
+      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
+      "source": "Dev.to",
+      "user": "Nishkarsh Pandey"
+    },
+    {
       "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
       "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
       "published_at": "2026-04-13T09:11:53Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
       "source": "Dev.to",
       "user": "kanta13jp1"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
+      "published_at": "2026-04-13T18:42:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "kubernetes",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1180,
       "user": "QLHazyCoder"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "xaspx"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1997,
+      "stars": 2003,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "joeynyc"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "whwangovo"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "wh0amitz"
     }
   ],
@@ -1046,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1180,
       "user": "QLHazyCoder"
     },
     {
@@ -1091,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "xaspx"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1997,
+      "stars": 2003,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "phuryn"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "joeynyc"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "whwangovo"
     }
   ],
@@ -1795,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1180,
       "user": "QLHazyCoder"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1180,
       "user": "QLHazyCoder"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 227,
       "user": "xaspx"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1997,
+      "stars": 2003,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "phuryn"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "joeynyc"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "whwangovo"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 436,
       "user": "retlehs"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "wh0amitz"
     },
     {
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "remoteoss"
     },
     {
