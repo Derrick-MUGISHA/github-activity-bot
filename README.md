@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-12-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-13-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -58,11 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.8 (25.8%)
-JavaScript      █████████████████████████████ 24.7 (24.7%)
-Python          █████████████████████████████ 24.7 (24.7%)
-Java            ████████████████████████ 20.6 (20.6%)
-Rust            ██ 2.1 (2.1%)
+Go              ██████████████████████████████ 26.5 (26.5%)
+JavaScript      ████████████████████████████ 24.5 (24.5%)
+Python          ████████████████████████████ 24.5 (24.5%)
+Java            ███████████████████████ 20.4 (20.4%)
+Rust            ██ 2.0 (2.0%)
 Ruby            █ 1.0 (1.0%)
 PHP             █ 1.0 (1.0%)
 
@@ -70,7 +70,7 @@ PHP             █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 26
     "JavaScript" : 24
     "Python" : 24
     "Java" : 20
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-13 1:00 CAT)
+## 📅 Latest Updates (2026-04-13 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,13 +208,13 @@ npm run test
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc) _[Dev.to]_
 - [Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-248b) _[Dev.to]_
+- [I'm a bit lost.](https://dev.to/hubedav/im-a-bit-lost-2dko) _[Dev.to]_
 - [Deploying ADK Agents on Azure Kubernates Service (AKS)](https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf) _[Dev.to]_
 - [I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.](https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9) _[Dev.to]_
 - [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme) _[Dev.to]_
 - [Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5) _[Dev.to]_
-- [What are your goals for the week? #173](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-173-597n) _[Dev.to]_
 
-_Last automated update: Mon, 13 Apr 2026 01:51:27 CAT_
+_Last automated update: Mon, 13 Apr 2026 04:24:07 CAT_
 
 
 
@@ -222,18 +222,7 @@ _Last automated update: Mon, 13 Apr 2026 01:51:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
-
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
-
-</details>
-
-### 2. SystemDesign: Design Twitter's timeline feature
+### 1. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -244,14 +233,25 @@ Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+try/catch, .catch(), error middleware
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 12 Apr 2026 23:51:27 GMT</b><br/>
+  <b>Last automated update: Mon, 13 Apr 2026 02:24:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

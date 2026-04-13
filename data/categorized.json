@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 939,
       "user": "QLHazyCoder"
     },
     {
@@ -737,34 +737,19 @@
       "user": "NyxTides"
     },
     {
-      "title": "cporter202/agentic-ai-apis - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
-      "url": "https://github.com/cporter202/agentic-ai-apis",
-      "published_at": "2026-04-06T18:55:04Z",
-      "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+      "title": "iBUHub/CanvasToAPI - A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "url": "https://github.com/iBUHub/CanvasToAPI",
+      "published_at": "2026-04-07T11:39:06Z",
+      "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/255295353?v=4",
       "source": "GitHub",
-      "stars": 273,
-      "user": "cporter202"
-    },
-    {
-      "title": "KKKKhazix/khazix-skills - 数字生命卡兹克开源的 AI Skills 合集",
-      "url": "https://github.com/KKKKhazix/khazix-skills",
-      "published_at": "2026-04-06T07:37:02Z",
-      "description": "数字生命卡兹克开源的 AI Skills 合集",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 1709,
-      "user": "KKKKhazix"
+      "stars": 116,
+      "user": "iBUHub"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1610,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -793,8 +778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 711,
       "user": "joeynyc"
+    },
+    {
+      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "url": "https://github.com/whwangovo/pyre-code",
+      "published_at": "2026-04-09T06:02:53Z",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
+      "source": "GitHub",
+      "stars": 583,
+      "user": "whwangovo"
     },
     {
       "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 101,
       "user": "wh0amitz"
     }
   ],
@@ -1067,21 +1067,6 @@
       "user": "velmu"
     },
     {
-      "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
-      "published_at": "2026-04-06T20:02:21Z",
-      "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
-      "source": "GitHub",
-      "stars": 3406,
-      "user": "xixu-me"
-    },
-    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -1093,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 939,
       "user": "QLHazyCoder"
     },
     {
@@ -1112,34 +1097,49 @@
       "user": "NyxTides"
     },
     {
-      "title": "cporter202/agentic-ai-apis - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
-      "url": "https://github.com/cporter202/agentic-ai-apis",
-      "published_at": "2026-04-06T18:55:04Z",
-      "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+      "title": "pithings/coderaft - 🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
+      "url": "https://github.com/pithings/coderaft",
+      "published_at": "2026-04-07T22:45:49Z",
+      "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263128954?v=4",
       "source": "GitHub",
-      "stars": 273,
-      "user": "cporter202"
+      "stars": 134,
+      "user": "pithings"
     },
     {
-      "title": "WenXiaoWendy/cyberboss - GitHub Repository",
-      "url": "https://github.com/WenXiaoWendy/cyberboss",
-      "published_at": "2026-04-06T14:42:51Z",
-      "description": "Trending GitHub Repository",
+      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
+      "url": "https://github.com/professor-lee/StoneBadge",
+      "published_at": "2026-04-08T16:50:39Z",
+      "description": "Add a Rotating Stone in your README file.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93314148?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
       "source": "GitHub",
-      "stars": 214,
-      "user": "WenXiaoWendy"
+      "stars": 129,
+      "user": "professor-lee"
+    },
+    {
+      "title": "iBUHub/CanvasToAPI - A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "url": "https://github.com/iBUHub/CanvasToAPI",
+      "published_at": "2026-04-07T11:39:06Z",
+      "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/255295353?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "iBUHub"
     }
   ],
   "Python": [
@@ -1396,21 +1396,6 @@
       "user": "gilad"
     },
     {
-      "title": "KKKKhazix/khazix-skills - 数字生命卡兹克开源的 AI Skills 合集",
-      "url": "https://github.com/KKKKhazix/khazix-skills",
-      "published_at": "2026-04-06T07:37:02Z",
-      "description": "数字生命卡兹克开源的 AI Skills 合集",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 1709,
-      "user": "KKKKhazix"
-    },
-    {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
       "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "published_at": "2026-04-10T15:07:10Z",
@@ -1422,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1610,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1437,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1232,
       "user": "mattmireles"
     },
     {
@@ -1467,8 +1452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 711,
       "user": "joeynyc"
+    },
+    {
+      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "url": "https://github.com/whwangovo/pyre-code",
+      "published_at": "2026-04-09T06:02:53Z",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
+      "source": "GitHub",
+      "stars": 583,
+      "user": "whwangovo"
     }
   ],
   "DevOps": [
@@ -1842,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 939,
       "user": "QLHazyCoder"
     },
     {
@@ -1953,21 +1953,6 @@
       "user": "Polliog"
     },
     {
-      "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
-      "published_at": "2026-04-06T20:02:21Z",
-      "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109734945?v=4",
-      "source": "GitHub",
-      "stars": 3406,
-      "user": "xixu-me"
-    },
-    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -1979,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 939,
       "user": "QLHazyCoder"
     },
     {
@@ -1998,49 +1983,49 @@
       "user": "NyxTides"
     },
     {
-      "title": "cporter202/agentic-ai-apis - The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
-      "url": "https://github.com/cporter202/agentic-ai-apis",
-      "published_at": "2026-04-06T18:55:04Z",
-      "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+      "title": "pithings/coderaft - 🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
+      "url": "https://github.com/pithings/coderaft",
+      "published_at": "2026-04-07T22:45:49Z",
+      "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163957687?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263128954?v=4",
       "source": "GitHub",
-      "stars": 273,
-      "user": "cporter202"
+      "stars": 134,
+      "user": "pithings"
     },
     {
-      "title": "WenXiaoWendy/cyberboss - GitHub Repository",
-      "url": "https://github.com/WenXiaoWendy/cyberboss",
-      "published_at": "2026-04-06T14:42:51Z",
-      "description": "Trending GitHub Repository",
+      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
+      "url": "https://github.com/professor-lee/StoneBadge",
+      "published_at": "2026-04-08T16:50:39Z",
+      "description": "Add a Rotating Stone in your README file.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93314148?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
       "source": "GitHub",
-      "stars": 214,
-      "user": "WenXiaoWendy"
+      "stars": 129,
+      "user": "professor-lee"
     },
     {
-      "title": "KKKKhazix/khazix-skills - 数字生命卡兹克开源的 AI Skills 合集",
-      "url": "https://github.com/KKKKhazix/khazix-skills",
-      "published_at": "2026-04-06T07:37:02Z",
-      "description": "数字生命卡兹克开源的 AI Skills 合集",
+      "title": "iBUHub/CanvasToAPI - A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+      "url": "https://github.com/iBUHub/CanvasToAPI",
+      "published_at": "2026-04-07T11:39:06Z",
+      "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/255295353?v=4",
       "source": "GitHub",
-      "stars": 1709,
-      "user": "KKKKhazix"
+      "stars": 116,
+      "user": "iBUHub"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -2054,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1610,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2069,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1232,
       "user": "mattmireles"
     },
     {
@@ -2099,8 +2084,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 711,
       "user": "joeynyc"
+    },
+    {
+      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "url": "https://github.com/whwangovo/pyre-code",
+      "published_at": "2026-04-09T06:02:53Z",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
+      "source": "GitHub",
+      "stars": 583,
+      "user": "whwangovo"
     },
     {
       "title": "retlehs/quien - A better WHOIS lookup tool",
@@ -2114,8 +2114,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "retlehs"
+    },
+    {
+      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "url": "https://github.com/wh0amitz/TailVNC",
+      "published_at": "2026-04-11T16:13:15Z",
+      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "wh0amitz"
     },
     {
       "title": "rvitorper/go-bt - Minimalist BT implementation in Go",
@@ -2131,21 +2146,6 @@
       "source": "GitHub",
       "stars": 91,
       "user": "rvitorper"
-    },
-    {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "wh0amitz"
     },
     {
       "title": "mitchellh/go-libghostty - Go bindings for libghostty-vt.",
@@ -2174,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "remoteoss"
     }
   ]
