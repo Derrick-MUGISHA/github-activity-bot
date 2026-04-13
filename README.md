@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**Security**: 🟦🟦🟦🟦 10 (9.5%)
+**Security**: 🟦🟦🟦 10 (9.5%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-13 23:00 CAT)
+## 📅 Latest Updates (2026-04-14 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -199,6 +199,7 @@ npm run test
 - [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf) _[Dev.to]_
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
 - [I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖](https://dev.to/anik2812/i-built-a-platformer-that-gaslights-you-coins-steal-spikes-heal-and-the-exit-door-kills-you-2a5h) _[Dev.to]_
+- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-2kee) _[Dev.to]_
 - [Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End](https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
@@ -212,9 +213,8 @@ npm run test
 - [AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.](https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
-- [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
 
-_Last automated update: Mon, 13 Apr 2026 23:09:15 CAT_
+_Last automated update: Tue, 14 Apr 2026 00:01:54 CAT_
 
 
 
@@ -222,29 +222,7 @@ _Last automated update: Mon, 13 Apr 2026 23:09:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 2. NodeJS: Explain middleware in Express.js
-
-**Difficulty**: Easy | **Topics**: express, architecture
-
-<details>
-<summary>💡 Hint</summary>
-
-Request/response cycle, next(), chain of functions
-
-</details>
-
-### 3. React: Explain the difference between state and props
+### 1. React: Explain the difference between state and props
 
 **Difficulty**: Easy | **Topics**: data flow, components
 
@@ -252,6 +230,28 @@ Request/response cycle, next(), chain of functions
 <summary>💡 Hint</summary>
 
 Ownership, mutability, data flow direction
+
+</details>
+
+### 2. DataStructures: Find the longest substring without repeating characters
+
+**Difficulty**: Medium | **Topics**: strings, sliding window
+
+<details>
+<summary>💡 Hint</summary>
+
+Sliding window, hash map, two pointers
+
+</details>
+
+### 3. JavaScript: What is the event loop and how does it work?
+
+**Difficulty**: Hard | **Topics**: async, runtime
+
+<details>
+<summary>💡 Hint</summary>
+
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 13 Apr 2026 21:09:15 GMT</b><br/>
+  <b>Last automated update: Mon, 13 Apr 2026 22:01:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
