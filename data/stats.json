@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 20,
     "Python": 23,
     "DevOps": 3,
@@ -27,10 +27,10 @@
     "Rust": 1
   },
   "by_date": {
+    "2026-04-14": 5,
     "2026-04-13": 12,
-    "2026-04-14": 4,
     "2026-04-12": 8,
-    "2026-04-11": 4,
+    "2026-04-11": 3,
     "2026-04-08": 8,
     "2026-04-09": 6,
     "2026-04-10": 13,
@@ -74,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 19,
     "github": 16,
     "open-source": 15,
     "gemini": 14,
@@ -86,14 +86,14 @@
     "googleadk": 9,
     "go": 7,
     "opensource": 6,
-    "devchallenge": 6,
     "javascript": 6,
-    "showdev": 5,
-    "418challenge": 5,
+    "discuss": 5,
+    "devchallenge": 5,
+    "showdev": 4,
     "programming": 4,
     "azure": 4,
     "security": 4,
-    "tutorial": 4
+    "418challenge": 4
   },
   "trending_topics": [],
   "language_percentages": {
