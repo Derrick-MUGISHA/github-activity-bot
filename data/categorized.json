@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
-      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
-      "published_at": "2026-04-13T17:45:50Z",
-      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
-      "source": "Dev.to",
-      "user": "Nishkarsh Pandey"
-    },
-    {
       "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "published_at": "2026-04-13T15:00:23Z",
@@ -61,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
-      "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
-      "published_at": "2026-04-13T17:35:25Z",
-      "description": "The UK's AI Security Institute confirmed this week that Claude Mythos, an Anthropic model, became the...",
-      "tags": [
-        "security",
-        "ai",
-        "architecture",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxy7zvanyrwyppx2b1sa.webp",
-      "source": "Dev.to",
-      "user": "Sameer Khan"
-    },
-    {
       "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
       "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
       "published_at": "2026-04-13T17:59:00Z",
@@ -89,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
       "source": "Dev.to",
       "user": "Penfield"
+    },
+    {
+      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
+      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
+      "published_at": "2026-04-13T17:45:50Z",
+      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
+      "source": "Dev.to",
+      "user": "Nishkarsh Pandey"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
@@ -134,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlt5j9py32rreqofn88w.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
+    },
+    {
+      "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
+      "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
+      "published_at": "2026-04-13T17:35:25Z",
+      "description": "The UK's AI Security Institute confirmed this week that Claude Mythos, an Anthropic model, became the...",
+      "tags": [
+        "security",
+        "ai",
+        "architecture",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxy7zvanyrwyppx2b1sa.webp",
+      "source": "Dev.to",
+      "user": "Sameer Khan"
     },
     {
       "title": "AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.",
@@ -281,21 +281,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
-      "published_at": "2026-04-12T14:56:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "python",
-        "geminilive",
-        "adk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
       "published_at": "2026-04-12T14:57:16Z",
@@ -307,6 +292,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
+      "published_at": "2026-04-12T14:56:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "python",
+        "geminilive",
+        "adk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -351,6 +351,21 @@
       "user": "tomas maiorino"
     },
     {
+      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
+      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
+      "published_at": "2026-04-10T13:18:59Z",
+      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
+      "tags": [
+        "a11y",
+        "saas",
+        "showdev",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
+      "source": "Dev.to",
+      "user": "Jordan Harrison"
+    },
+    {
       "title": "Why Rails Still Feels Like a Startup’s Best Friend in the AI Era",
       "url": "https://dev.to/mezbahalam/why-rails-still-feels-like-a-startups-best-friend-in-the-ai-era-45hn",
       "published_at": "2026-03-29T09:59:19Z",
@@ -378,21 +393,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wieggxvt8ft41rkyph9.png",
       "source": "Dev.to",
       "user": "Lakhan Samani"
-    },
-    {
-      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
-      "url": "https://dev.to/gdg/i-tried-to-make-devfest-ireland-accessible-and-ended-up-building-a-saas-1o87",
-      "published_at": "2026-04-10T13:18:59Z",
-      "description": "The email I couldn't ignore   A few months into organising DevFest Ireland 2025, I received...",
-      "tags": [
-        "a11y",
-        "saas",
-        "showdev",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkngf7yjtjwp7o69yh3nw.jpg",
-      "source": "Dev.to",
-      "user": "Jordan Harrison"
     },
     {
       "title": "Building a Multimodal Agent with the ADK, Azure ACA, and Gemini Flash Live 3.1",
@@ -500,21 +500,6 @@
       "user": "Saravanan Gnanaguru"
     },
     {
-      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
-      "published_at": "2026-04-05T16:04:44Z",
-      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
-      "tags": [
-        "ai",
-        "javascript",
-        "openai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
-      "source": "Dev.to",
-      "user": "Deola Adediran"
-    },
-    {
       "title": "Your AI agent can't fetch behind logins. I built a <400kb fix in Zig.",
       "url": "https://dev.to/ancs21/your-ai-agent-cant-fetch-behind-logins-i-built-a-400kb-fix-in-zig-4d31",
       "published_at": "2026-03-29T02:34:36Z",
@@ -543,6 +528,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qn68rgtln7mr9jgs7wv.png",
       "source": "Dev.to",
       "user": "Jessica Temporal"
+    },
+    {
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
+      "tags": [
+        "angular",
+        "ai",
+        "claude",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
+      "source": "Dev.to",
+      "user": "Eli_coding"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1282,
       "user": "QLHazyCoder"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "V-IOLE-T"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2169,
+      "stars": 2203,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 853,
       "user": "joeynyc"
     },
     {
@@ -763,8 +763,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 663,
       "user": "whwangovo"
+    },
+    {
+      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "published_at": "2026-04-10T16:25:07Z",
+      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
+      "source": "GitHub",
+      "stars": 534,
+      "user": "OpenMOSS"
     },
     {
       "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
@@ -778,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "wh0amitz"
     }
   ],
@@ -857,19 +872,19 @@
       "user": "Saravanan Gnanaguru"
     },
     {
-      "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
-      "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
-      "published_at": "2026-04-05T16:04:44Z",
-      "description": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
       "tags": [
+        "angular",
         "ai",
-        "javascript",
-        "openai",
-        "tutorial"
+        "claude",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx4de2j1yr8z06a91eqam.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
       "source": "Dev.to",
-      "user": "Deola Adediran"
+      "user": "Eli_coding"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1003,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1282,
       "user": "QLHazyCoder"
     },
     {
@@ -1018,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "V-IOLE-T"
     },
     {
@@ -1048,23 +1063,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "MangoLion"
     },
     {
-      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
-      "url": "https://github.com/professor-lee/StoneBadge",
-      "published_at": "2026-04-08T16:50:39Z",
-      "description": "Add a Rotating Stone in your README file.",
+      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "published_at": "2026-04-13T07:45:24Z",
+      "description": "A Palantir-ish dashboard for family trip planning.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "professor-lee"
+      "stars": 158,
+      "user": "andrewjiang"
     }
   ],
   "Python": [
@@ -1129,21 +1144,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
-      "published_at": "2026-04-12T14:56:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "python",
-        "geminilive",
-        "adk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
       "published_at": "2026-04-12T14:57:16Z",
@@ -1155,6 +1155,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
+      "published_at": "2026-04-12T14:56:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "python",
+        "geminilive",
+        "adk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1317,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2169,
+      "stars": 2203,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1332,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 853,
       "user": "joeynyc"
     },
     {
@@ -1347,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 663,
       "user": "whwangovo"
     },
     {
@@ -1362,23 +1377,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 569,
       "user": "sterlingcrispin"
     },
     {
-      "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
-      "url": "https://github.com/AMAP-ML/SkillClaw",
-      "published_at": "2026-04-10T03:25:47Z",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "published_at": "2026-04-10T16:25:07Z",
+      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 510,
-      "user": "AMAP-ML"
+      "stars": 534,
+      "user": "OpenMOSS"
     }
   ],
   "DevOps": [
@@ -1752,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1282,
       "user": "QLHazyCoder"
     },
     {
@@ -1767,26 +1782,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "V-IOLE-T"
     }
   ],
   "Tools": [
-    {
-      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
-      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
-      "published_at": "2026-04-13T17:45:50Z",
-      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
-      "source": "Dev.to",
-      "user": "Nishkarsh Pandey"
-    },
     {
       "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
       "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
@@ -1801,6 +1801,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
       "source": "Dev.to",
       "user": "kanta13jp1"
+    },
+    {
+      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
+      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
+      "published_at": "2026-04-13T17:45:50Z",
+      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
+      "source": "Dev.to",
+      "user": "Nishkarsh Pandey"
     },
     {
       "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
@@ -1848,6 +1863,21 @@
       "user": "Jessica Temporal"
     },
     {
+      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
+      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
+      "published_at": "2026-04-10T11:24:23Z",
+      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
+      "tags": [
+        "angular",
+        "ai",
+        "claude",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
+      "source": "Dev.to",
+      "user": "Eli_coding"
+    },
+    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -1859,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1282,
       "user": "QLHazyCoder"
     },
     {
@@ -1874,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "V-IOLE-T"
     },
     {
@@ -1904,23 +1934,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "MangoLion"
     },
     {
-      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
-      "url": "https://github.com/professor-lee/StoneBadge",
-      "published_at": "2026-04-08T16:50:39Z",
-      "description": "Add a Rotating Stone in your README file.",
+      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "published_at": "2026-04-13T07:45:24Z",
+      "description": "A Palantir-ish dashboard for family trip planning.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "professor-lee"
+      "stars": 158,
+      "user": "andrewjiang"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -1934,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2169,
+      "stars": 2203,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1949,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 853,
       "user": "joeynyc"
     },
     {
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 663,
       "user": "whwangovo"
     },
     {
@@ -1979,23 +2009,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 569,
       "user": "sterlingcrispin"
     },
     {
-      "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
-      "url": "https://github.com/AMAP-ML/SkillClaw",
-      "published_at": "2026-04-10T03:25:47Z",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "published_at": "2026-04-10T16:25:07Z",
+      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 510,
-      "user": "AMAP-ML"
+      "stars": 534,
+      "user": "OpenMOSS"
     },
     {
       "title": "retlehs/quien - A better WHOIS lookup tool",
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 482,
       "user": "retlehs"
     },
     {
@@ -2024,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "wh0amitz"
     },
     {
@@ -2043,6 +2073,21 @@
       "user": "rvitorper"
     },
     {
+      "title": "Nyarime/NRUP - 🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS",
+      "url": "https://github.com/Nyarime/NRUP",
+      "published_at": "2026-04-10T20:53:07Z",
+      "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "Nyarime"
+    },
+    {
       "title": "mitchellh/go-libghostty - Go bindings for libghostty-vt.",
       "url": "https://github.com/mitchellh/go-libghostty",
       "published_at": "2026-04-10T15:39:00Z",
@@ -2056,21 +2101,6 @@
       "source": "GitHub",
       "stars": 85,
       "user": "mitchellh"
-    },
-    {
-      "title": "Nyarime/NRUP - 🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS",
-      "url": "https://github.com/Nyarime/NRUP",
-      "published_at": "2026-04-10T20:53:07Z",
-      "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "Nyarime"
     }
   ]
 }
