@@ -16,6 +16,20 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
+    {
       "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
       "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
       "published_at": "2026-04-13T17:59:00Z",
@@ -29,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
       "source": "Dev.to",
       "user": "Penfield"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
+      "published_at": "2026-04-13T20:09:45Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "ak",
+        "googleadk",
+        "gemini",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
@@ -232,36 +261,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Two Ways to Think of AI Without Outsourcing Your Mind",
-      "url": "https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1",
-      "published_at": "2026-04-13T05:00:00Z",
-      "description": "#1. AI is a powerful calculator in math class   In school, you only use a calculator after...",
-      "tags": [
-        "coding",
-        "beginners",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlt5j9py32rreqofn88w.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "Multi-Agent Deployment with the Agent Development Kit(ADK), GKE, GKE MCP Server, and Gemini CLI",
@@ -671,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1362,
       "user": "QLHazyCoder"
     },
     {
@@ -701,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "xaspx"
     },
     {
@@ -716,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2353,
+      "stars": 2358,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -731,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "whwangovo"
     },
     {
@@ -746,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 680,
       "user": "OpenMOSS"
     },
     {
@@ -766,6 +765,20 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
     {
       "title": "You’re a Real Software Developer Only If…",
       "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
@@ -810,19 +823,19 @@
       "user": "Sofiane Hamlaoui"
     },
     {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "title": "Build a Movie Watchlist with Node.js, TypeScript, and MongoDB",
+      "url": "https://dev.to/mongodb/build-a-movie-watchlist-with-nodejs-typescript-and-mongodb-41gj",
+      "published_at": "2026-04-13T15:19:10Z",
+      "description": "Almost every modern web application will need a REST API for a client to talk to, and in almost every...",
       "tags": [
+        "webdev",
         "typescript",
-        "eslint",
-        "ai",
-        "llm"
+        "nosql",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F202mdiwqz7xyj86u5lep.png",
       "source": "Dev.to",
-      "user": "Rob Simpson"
+      "user": "Nic Raboy"
     },
     {
       "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
@@ -971,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1362,
       "user": "QLHazyCoder"
     },
     {
@@ -986,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 318,
       "user": "andrewjiang"
     },
     {
@@ -1016,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "xaspx"
     },
     {
@@ -1285,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2353,
+      "stars": 2358,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1300,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 695,
       "user": "sterlingcrispin"
     },
     {
@@ -1315,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "whwangovo"
     },
     {
@@ -1330,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 680,
       "user": "OpenMOSS"
     },
     {
@@ -1345,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "AMAP-ML"
     }
   ],
@@ -1411,6 +1424,21 @@
   ],
   "Mobile": [],
   "Cloud": [
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
+      "published_at": "2026-04-13T20:09:45Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "ak",
+        "googleadk",
+        "gemini",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
       "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
@@ -1622,6 +1650,21 @@
   ],
   "Database": [
     {
+      "title": "Build a Movie Watchlist with Node.js, TypeScript, and MongoDB",
+      "url": "https://dev.to/mongodb/build-a-movie-watchlist-with-nodejs-typescript-and-mongodb-41gj",
+      "published_at": "2026-04-13T15:19:10Z",
+      "description": "Almost every modern web application will need a REST API for a client to talk to, and in almost every...",
+      "tags": [
+        "webdev",
+        "typescript",
+        "nosql",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F202mdiwqz7xyj86u5lep.png",
+      "source": "Dev.to",
+      "user": "Nic Raboy"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1749,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1362,
       "user": "QLHazyCoder"
     },
     {
@@ -1870,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1360,
+      "stars": 1362,
       "user": "QLHazyCoder"
     },
     {
@@ -1885,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 318,
       "user": "andrewjiang"
     },
     {
@@ -1915,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "xaspx"
     },
     {
@@ -1945,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2353,
+      "stars": 2358,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1960,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 695,
       "user": "sterlingcrispin"
     },
     {
@@ -1975,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "whwangovo"
     },
     {
@@ -1990,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 680,
       "user": "OpenMOSS"
     },
     {
@@ -2005,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "AMAP-ML"
     },
     {
@@ -2020,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 511,
       "user": "retlehs"
     },
     {
@@ -2080,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "mitchellh"
     }
   ]
