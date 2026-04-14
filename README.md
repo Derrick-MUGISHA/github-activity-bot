@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-14 12:00 CAT)
+## 📅 Latest Updates (2026-04-14 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -199,8 +199,8 @@ npm run test
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
 - [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
-- [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h) _[Dev.to]_
 - [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
+- [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h) _[Dev.to]_
 - [Integrating Remote Subagents Built by Google Apps Script with Gemini CLI](https://dev.to/gde/integrating-remote-subagents-built-by-google-apps-script-with-gemini-cli-h36) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [Two Ways to Think of AI Without Outsourcing Your Mind](https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 
-_Last automated update: Tue, 14 Apr 2026 12:13:00 CAT_
+_Last automated update: Tue, 14 Apr 2026 13:20:05 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 14 Apr 2026 12:13:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 14 Apr 2026 10:13:00 GMT</b><br/>
+  <b>Last automated update: Tue, 14 Apr 2026 11:20:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
