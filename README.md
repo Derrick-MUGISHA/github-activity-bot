@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
@@ -38,7 +38,7 @@
 
 **Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
+**Security**: 🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-14 14:00 CAT)
+## 📅 Latest Updates (2026-04-14 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,10 +140,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png" width="200" alt="Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative" />
+    <a href="https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tjygbchauxkay6tnecv.png" width="200" alt="Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup" />
       <br/>
-      <b>Adding Persistent Memory to Claude Code with claud...</b>
+      <b>Schrödinger's Backup: If You Haven't Tested a Rest...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -178,10 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-3df3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1k1c8l8nb7sqxte4xzeh.jpg" width="200" alt="What was your win this week??" />
+    <a href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg" width="200" alt="The Final 1% of Every GitHub Project: Sealing It Properly" />
       <br/>
-      <b>What was your win this week??</b>
+      <b>The Final 1% of Every GitHub Project: Sealing It P...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,14 +194,12 @@ npm run test
 ### 📰 Top Headlines
 
 - [Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2) _[Dev.to]_
-- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha) _[Dev.to]_
+- [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h) _[Dev.to]_
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
 - [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf) _[Dev.to]_
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3df3) _[Dev.to]_
 - [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h) _[Dev.to]_
-- [Integrating Remote Subagents Built by Google Apps Script with Gemini CLI](https://dev.to/gde/integrating-remote-subagents-built-by-google-apps-script-with-gemini-cli-h36) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [Two Ways to Think of AI Without Outsourcing Your Mind](https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-2kee) _[Dev.to]_
@@ -211,10 +209,12 @@ npm run test
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖](https://dev.to/anik2812/i-built-a-platformer-that-gaslights-you-coins-steal-spikes-heal-and-the-exit-door-kills-you-2a5h) _[Dev.to]_
+- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha) _[Dev.to]_
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
+- [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 
-_Last automated update: Tue, 14 Apr 2026 14:12:25 CAT_
+_Last automated update: Tue, 14 Apr 2026 16:13:27 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 14 Apr 2026 14:12:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 14 Apr 2026 12:12:25 GMT</b><br/>
+  <b>Last automated update: Tue, 14 Apr 2026 14:13:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
