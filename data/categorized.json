@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
-    },
-    {
       "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "published_at": "2026-04-13T15:00:23Z",
@@ -28,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
+      "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
+      "published_at": "2026-04-13T17:59:00Z",
+      "description": "Andrej Karpathy's LLM Wiki pattern went viral this month. 5,000+ stars, 3,700 forks, dozens of...",
+      "tags": [
+        "ai",
+        "aimemory",
+        "wiki",
+        "obsidian"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
+      "source": "Dev.to",
+      "user": "Penfield"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
@@ -45,19 +46,18 @@
       "user": "xbill"
     },
     {
-      "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
-      "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
-      "published_at": "2026-04-13T17:59:00Z",
-      "description": "Andrej Karpathy's LLM Wiki pattern went viral this month. 5,000+ stars, 3,700 forks, dozens of...",
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
       "tags": [
         "ai",
-        "aimemory",
-        "wiki",
-        "obsidian"
+        "machinelearning",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
       "source": "Dev.to",
-      "user": "Penfield"
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
@@ -88,21 +88,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Two Ways to Think of AI Without Outsourcing Your Mind",
-      "url": "https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1",
-      "published_at": "2026-04-13T05:00:00Z",
-      "description": "#1. AI is a powerful calculator in math class   In school, you only use a calculator after...",
-      "tags": [
-        "coding",
-        "beginners",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlt5j9py32rreqofn88w.png",
-      "source": "Dev.to",
-      "user": "Cesar Aguirre"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
@@ -233,6 +218,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Two Ways to Think of AI Without Outsourcing Your Mind",
+      "url": "https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1",
+      "published_at": "2026-04-13T05:00:00Z",
+      "description": "#1. AI is a powerful calculator in math class   In school, you only use a calculator after...",
+      "tags": [
+        "coding",
+        "beginners",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlt5j9py32rreqofn88w.png",
+      "source": "Dev.to",
+      "user": "Cesar Aguirre"
     },
     {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1354,
       "user": "QLHazyCoder"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "xaspx"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2316,
+      "stars": 2332,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 651,
       "user": "OpenMOSS"
     },
     {
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1354,
       "user": "QLHazyCoder"
     },
     {
@@ -991,21 +991,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
-      "url": "https://github.com/xaspx/hermes-control-interface",
-      "published_at": "2026-04-08T17:13:25Z",
-      "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "xaspx"
-    },
-    {
       "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "published_at": "2026-04-13T07:45:24Z",
@@ -1017,8 +1002,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 269,
       "user": "andrewjiang"
+    },
+    {
+      "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+      "url": "https://github.com/xaspx/hermes-control-interface",
+      "published_at": "2026-04-08T17:13:25Z",
+      "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "xaspx"
     },
     {
       "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
@@ -1032,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "MangoLion"
     }
   ],
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2316,
+      "stars": 2332,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1305,10 +1305,10 @@
       "user": "whwangovo"
     },
     {
-      "title": "sterlingcrispin/nothing-ever-happens - GitHub Repository",
+      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "published_at": "2026-04-12T18:26:00Z",
-      "description": "Trending GitHub Repository",
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
       "tags": [
         "python",
         "github",
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 665,
       "user": "sterlingcrispin"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 651,
       "user": "OpenMOSS"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "AMAP-ML"
     }
   ],
@@ -1736,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1354,
       "user": "QLHazyCoder"
     },
     {
@@ -1757,19 +1757,18 @@
   ],
   "Tools": [
     {
-      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
-      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
-      "published_at": "2026-04-11T15:55:53Z",
-      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "title": "From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It",
+      "url": "https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6",
+      "published_at": "2026-04-14T15:21:50Z",
+      "description": "I was having a conversation with a friend, sharing how I have achieved so much in tech but still...",
       "tags": [
-        "github",
-        "opensource",
-        "development",
-        "repository"
+        "webdev",
+        "productivity",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbhbc1n23664hgrkz10o.png",
       "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
+      "user": "Christian Hitchcock"
     },
     {
       "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
@@ -1785,6 +1784,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
       "source": "Dev.to",
       "user": "Nishkarsh Pandey"
+    },
+    {
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
+      "published_at": "2026-04-11T15:55:53Z",
+      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "tags": [
+        "github",
+        "opensource",
+        "development",
+        "repository"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
     },
     {
       "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
@@ -1843,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1354,
       "user": "QLHazyCoder"
     },
     {
@@ -1862,21 +1876,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
-      "url": "https://github.com/xaspx/hermes-control-interface",
-      "published_at": "2026-04-08T17:13:25Z",
-      "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
-      "source": "GitHub",
-      "stars": 256,
-      "user": "xaspx"
-    },
-    {
       "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
       "url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "published_at": "2026-04-13T07:45:24Z",
@@ -1888,8 +1887,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 269,
       "user": "andrewjiang"
+    },
+    {
+      "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+      "url": "https://github.com/xaspx/hermes-control-interface",
+      "published_at": "2026-04-08T17:13:25Z",
+      "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "xaspx"
     },
     {
       "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
@@ -1903,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "MangoLion"
     },
     {
@@ -1918,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2316,
+      "stars": 2332,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1937,10 +1951,10 @@
       "user": "whwangovo"
     },
     {
-      "title": "sterlingcrispin/nothing-ever-happens - GitHub Repository",
+      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "published_at": "2026-04-12T18:26:00Z",
-      "description": "Trending GitHub Repository",
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
       "tags": [
         "python",
         "github",
@@ -1948,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 665,
       "user": "sterlingcrispin"
     },
     {
@@ -1963,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 651,
       "user": "OpenMOSS"
     },
     {
@@ -1978,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "AMAP-ML"
     },
     {
@@ -1993,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 504,
       "user": "retlehs"
     },
     {
@@ -2023,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 113,
       "user": "Nyarime"
     },
     {
@@ -2038,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "rvitorper"
     },
     {
@@ -2053,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "mitchellh"
     }
   ]
