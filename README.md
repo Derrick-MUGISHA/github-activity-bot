@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-14-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (55.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 17 (17.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦 16 (16.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (12.0%)
+**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
 
-**Security**: 🟦🟦🟦 9 (9.0%)
+**Security**: 🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 5 (5.0%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦 2 (2.0%)
+**WebDev**: 🟦 2 (1.9%)
 
-**Database**: 🟦 2 (2.0%)
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -52,28 +52,28 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 10 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.4 (29.4%)
-Java            ████████████████████████ 23.5 (23.5%)
-JavaScript      ███████████████████████ 22.4 (22.4%)
-Python          ████████████████████ 20.0 (20.0%)
-Rust            ██ 2.4 (2.4%)
-Ruby            █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
+Go              ██████████████████████████████ 28.6 (28.6%)
+Python          █████████████████████████ 24.2 (24.2%)
+Java            ███████████████████████ 22.0 (22.0%)
+JavaScript      ██████████████████████ 20.9 (20.9%)
+Rust            ██ 2.2 (2.2%)
+Ruby            █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 26
+    "Python" : 22
     "Java" : 20
     "JavaScript" : 19
-    "Python" : 17
     "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![github](https://img.shields.io/badge/github-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-12-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-8-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-14 23:00 CAT)
+## 📅 Latest Updates (2026-04-15 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,6 +140,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbhbc1n23664hgrkz10o.png" width="200" alt="From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It" />
+      <br/>
+      <b>From Software Engineer to Developer Advocate: The ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png" width="200" alt="How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)" />
       <br/>
@@ -148,22 +157,13 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png" width="200" alt="Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)" />
       <br/>
       <b>Things You're Overengineering in Your AI Agent (Th...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbhbc1n23664hgrkz10o.png" width="200" alt="From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It" />
-      <br/>
-      <b>From Software Engineer to Developer Advocate: The ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,9 +194,9 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) _[Dev.to]_
+- [From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It](https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6) _[Dev.to]_
 - [How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280) _[Dev.to]_
 - [Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) _[Dev.to]_
-- [From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It](https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6) _[Dev.to]_
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o) _[Dev.to]_
 - [They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee) _[Dev.to]_
@@ -208,13 +208,13 @@ npm run test
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 - [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf) _[Dev.to]_
 - [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm) _[Dev.to]_
-- [My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator](https://dev.to/nikitavolkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-5c3j) _[Dev.to]_
 - [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
+- [My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator](https://dev.to/nikitavolkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-5c3j) _[Dev.to]_
 - [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0) _[Dev.to]_
 - [Web scraping for AI agents: How to give your agents web access](https://dev.to/asaoluelijah/web-scraping-for-ai-agents-how-to-give-your-agents-web-access-4577) _[Dev.to]_
 - [Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f) _[Dev.to]_
 
-_Last automated update: Tue, 14 Apr 2026 23:33:37 CAT_
+_Last automated update: Wed, 15 Apr 2026 00:29:31 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 14 Apr 2026 23:33:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 14 Apr 2026 21:33:37 GMT</b><br/>
+  <b>Last automated update: Tue, 14 Apr 2026 22:29:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
