@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
 
 **Security**: 🟦🟦🟦 9 (8.6%)
 
@@ -58,10 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.9 (31.9%)
-Python          ███████████████████████ 24.5 (24.5%)
-JavaScript      ████████████████████ 21.3 (21.3%)
-Java            ██████████████████ 19.1 (19.1%)
+Go              ██████████████████████████████ 31.5 (31.5%)
+Python          ████████████████████████ 25.0 (25.0%)
+JavaScript      █████████████████████ 21.7 (21.7%)
+Java            ██████████████████ 18.5 (18.5%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 Rust            █ 1.1 (1.1%)
@@ -70,10 +70,10 @@ Rust            █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 30
+    "Go" : 29
     "Python" : 23
     "JavaScript" : 20
-    "Java" : 18
+    "Java" : 17
     "Ruby" : 1
     "PHP" : 1
     "Rust" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-14-blue) ![python](https://img.shields.io/badge/python-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googleadk](https://img.shields.io/badge/googleadk-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-14-blue) ![python](https://img.shields.io/badge/python-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![googleadk](https://img.shields.io/badge/googleadk-9-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-14 18:00 CAT)
+## 📅 Latest Updates (2026-04-14 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31mhl31x3m4pynuhx126.png" width="200" alt="Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI" />
+    <a href="https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun5je0knwab01939fgjy.png" width="200" alt="Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖" />
       <br/>
-      <b>Multi-Agent A2A with the Agent Development Kit(ADK...</b>
+      <b>Building a Privacy-First Voice-Controlled AI Agent...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/how-do-ai-video-generation-models-work-a82">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png" width="200" alt="How do AI video generation models work?" />
+    <a href="https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31mhl31x3m4pynuhx126.png" width="200" alt="Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI" />
       <br/>
-      <b>How do AI video generation models work?</b>
+      <b>Multi-Agent A2A with the Agent Development Kit(ADK...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,6 +197,7 @@ npm run test
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 - [From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It](https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6) _[Dev.to]_
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
+- [Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖](https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h) _[Dev.to]_
 - [How do AI video generation models work?](https://dev.to/googleai/how-do-ai-video-generation-models-work-a82) _[Dev.to]_
 - [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf) _[Dev.to]_
@@ -204,17 +205,16 @@ npm run test
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h) _[Dev.to]_
 - [Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End](https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5) _[Dev.to]_
+- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha) _[Dev.to]_
 - [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
 - [I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖](https://dev.to/anik2812/i-built-a-platformer-that-gaslights-you-coins-steal-spikes-heal-and-the-exit-door-kills-you-2a5h) _[Dev.to]_
-- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
 - [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
 - [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j) _[Dev.to]_
 - [AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.](https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi) _[Dev.to]_
-- [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g) _[Dev.to]_
 
-_Last automated update: Tue, 14 Apr 2026 18:45:41 CAT_
+_Last automated update: Tue, 14 Apr 2026 20:01:44 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 14 Apr 2026 18:45:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 14 Apr 2026 16:45:41 GMT</b><br/>
+  <b>Last automated update: Tue, 14 Apr 2026 18:01:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
