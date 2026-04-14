@@ -31,6 +31,20 @@
       "user": "Penfield"
     },
     {
+      "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
+      "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
+      "published_at": "2026-04-14T04:49:51Z",
+      "description": "The era of shipping all your personal data to cloud APIs just to turn down the thermostat or write a...",
+      "tags": [
+        "webdev",
+        "ai",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun5je0knwab01939fgjy.png",
+      "source": "Dev.to",
+      "user": "Deep Bartaria"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
       "published_at": "2026-04-12T15:03:26Z",
@@ -672,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1354,
+      "stars": 1356,
       "user": "QLHazyCoder"
     },
     {
@@ -702,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "xaspx"
     },
     {
@@ -717,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2332,
+      "stars": 2343,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -732,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "whwangovo"
     },
     {
@@ -747,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 664,
       "user": "OpenMOSS"
     },
     {
@@ -762,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "wh0amitz"
     }
   ],
@@ -972,8 +986,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1354,
+      "stars": 1356,
       "user": "QLHazyCoder"
+    },
+    {
+      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "published_at": "2026-04-13T07:45:24Z",
+      "description": "A Palantir-ish dashboard for family trip planning.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "andrewjiang"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -991,21 +1020,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
-      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
-      "published_at": "2026-04-13T07:45:24Z",
-      "description": "A Palantir-ish dashboard for family trip planning.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
-      "source": "GitHub",
-      "stars": 269,
-      "user": "andrewjiang"
-    },
-    {
       "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
       "url": "https://github.com/xaspx/hermes-control-interface",
       "published_at": "2026-04-08T17:13:25Z",
@@ -1017,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "xaspx"
     },
     {
@@ -1286,23 +1300,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2332,
+      "stars": 2343,
       "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "url": "https://github.com/whwangovo/pyre-code",
-      "published_at": "2026-04-09T06:02:53Z",
-      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
-      "source": "GitHub",
-      "stars": 681,
-      "user": "whwangovo"
     },
     {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
@@ -1316,8 +1315,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 683,
       "user": "sterlingcrispin"
+    },
+    {
+      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "url": "https://github.com/whwangovo/pyre-code",
+      "published_at": "2026-04-09T06:02:53Z",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
+      "source": "GitHub",
+      "stars": 682,
+      "user": "whwangovo"
     },
     {
       "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
@@ -1331,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 664,
       "user": "OpenMOSS"
     },
     {
@@ -1412,6 +1426,20 @@
   ],
   "Mobile": [],
   "Cloud": [
+    {
+      "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
+      "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
+      "published_at": "2026-04-14T04:49:51Z",
+      "description": "The era of shipping all your personal data to cloud APIs just to turn down the thermostat or write a...",
+      "tags": [
+        "webdev",
+        "ai",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun5je0knwab01939fgjy.png",
+      "source": "Dev.to",
+      "user": "Deep Bartaria"
+    },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
@@ -1736,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1354,
+      "stars": 1356,
       "user": "QLHazyCoder"
     },
     {
@@ -1857,8 +1885,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1354,
+      "stars": 1356,
       "user": "QLHazyCoder"
+    },
+    {
+      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "published_at": "2026-04-13T07:45:24Z",
+      "description": "A Palantir-ish dashboard for family trip planning.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "andrewjiang"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -1876,21 +1919,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
-      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
-      "published_at": "2026-04-13T07:45:24Z",
-      "description": "A Palantir-ish dashboard for family trip planning.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
-      "source": "GitHub",
-      "stars": 269,
-      "user": "andrewjiang"
-    },
-    {
       "title": "xaspx/hermes-control-interface - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
       "url": "https://github.com/xaspx/hermes-control-interface",
       "published_at": "2026-04-08T17:13:25Z",
@@ -1902,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "xaspx"
     },
     {
@@ -1932,23 +1960,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2332,
+      "stars": 2343,
       "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "url": "https://github.com/whwangovo/pyre-code",
-      "published_at": "2026-04-09T06:02:53Z",
-      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
-      "source": "GitHub",
-      "stars": 681,
-      "user": "whwangovo"
     },
     {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
@@ -1962,8 +1975,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 683,
       "user": "sterlingcrispin"
+    },
+    {
+      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "url": "https://github.com/whwangovo/pyre-code",
+      "published_at": "2026-04-09T06:02:53Z",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
+      "source": "GitHub",
+      "stars": 682,
+      "user": "whwangovo"
     },
     {
       "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
@@ -1977,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 664,
       "user": "OpenMOSS"
     },
     {
@@ -2007,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 505,
       "user": "retlehs"
     },
     {
@@ -2022,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "wh0amitz"
     },
     {
@@ -2037,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "Nyarime"
     },
     {
@@ -2052,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7038285?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "rvitorper"
     },
     {
@@ -2067,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "mitchellh"
     }
   ]
