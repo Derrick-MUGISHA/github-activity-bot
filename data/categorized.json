@@ -61,6 +61,21 @@
       "user": "kanta13jp1"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
+      "published_at": "2026-04-12T15:03:26Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googlecloudrun",
+        "googleadk",
+        "a2aprotocol",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31mhl31x3m4pynuhx126.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
       "published_at": "2026-04-13T18:42:04Z",
@@ -119,51 +134,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjlt5j9py32rreqofn88w.png",
       "source": "Dev.to",
       "user": "Cesar Aguirre"
-    },
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
-      "published_at": "2026-04-12T14:57:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
-      "published_at": "2026-04-12T14:56:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "python",
-        "geminilive",
-        "adk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why I’m Afraid to Ship Code I Haven’t Read",
-      "url": "https://dev.to/distalx/why-im-afraid-to-ship-code-i-havent-read-53ha",
-      "published_at": "2026-04-11T17:07:57Z",
-      "description": "I’ve been watching the rapid rise of \"vibe coding\" and agentic engineering over the last few months,...",
-      "tags": [
-        "softwareengineering",
-        "agenticcoding",
-        "techdebt",
-        "cybersecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ur4pv9umj7f2co4gk2h.png",
-      "source": "Dev.to",
-      "user": "D"
     },
     {
       "title": "AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.",
@@ -279,6 +249,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1hqypa84cifpqf3zyeg.png",
       "source": "Dev.to",
       "user": "Konark Sharma"
+    },
+    {
+      "title": "Multi-Agent Deployment with the Agent Development Kit(ADK), GKE, GKE MCP Server, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-deployment-with-the-agent-development-kitadk-gke-gke-mcp-server-and-gemini-cli-4ame",
+      "published_at": "2026-04-12T20:05:02Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googleadk",
+        "gke",
+        "mcpserver",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs9w5ajgd483pjy4fjw8v.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-and-gemini-cli-e8c",
+      "published_at": "2026-04-12T15:03:26Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googlecloudrun",
+        "googleadk",
+        "a2aprotocol",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fill7e18qaxkwy0fgggqa.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "The Honest Climate Case for AI",
@@ -701,23 +701,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1225,
       "user": "QLHazyCoder"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 353,
-      "user": "NyxTides"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 256,
       "user": "V-IOLE-T"
     },
     {
@@ -746,23 +731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 239,
       "user": "xaspx"
-    },
-    {
-      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
-      "url": "https://github.com/Kunkun2116/AI-Truth",
-      "published_at": "2026-04-07T17:57:14Z",
-      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "Kunkun2116"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -776,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2078,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -791,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 841,
       "user": "joeynyc"
     },
     {
@@ -806,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 639,
       "user": "whwangovo"
     },
     {
@@ -821,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "wh0amitz"
     }
   ],
@@ -1046,23 +1016,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1225,
       "user": "QLHazyCoder"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 353,
-      "user": "NyxTides"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -1076,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 256,
       "user": "V-IOLE-T"
     },
     {
@@ -1091,23 +1046,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 239,
       "user": "xaspx"
     },
     {
-      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
-      "url": "https://github.com/Kunkun2116/AI-Truth",
-      "published_at": "2026-04-07T17:57:14Z",
-      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+      "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
+      "url": "https://github.com/MangoLion/stretchystudio",
+      "published_at": "2026-04-12T15:51:53Z",
+      "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
       "stars": 149,
-      "user": "Kunkun2116"
+      "user": "MangoLion"
+    },
+    {
+      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
+      "url": "https://github.com/professor-lee/StoneBadge",
+      "published_at": "2026-04-08T16:50:39Z",
+      "description": "Add a Rotating Stone in your README file.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "professor-lee"
     }
   ],
   "Python": [
@@ -1123,36 +1093,6 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon ECS Express, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-ecs-express-and-gemini-flash-live-31-15ek",
-      "published_at": "2026-04-12T14:57:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faft6e3djt7ysbfm076gy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-31-4p6j",
-      "published_at": "2026-04-12T14:56:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "python",
-        "geminilive",
-        "adk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx8al5s3haxty7kozzoad.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1360,38 +1300,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2078,
       "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "mattmireles/gemma-tuner-multimodal - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "published_at": "2026-04-07T05:14:58Z",
-      "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
-      "source": "GitHub",
-      "stars": 1254,
-      "user": "mattmireles"
-    },
-    {
-      "title": "phuryn/claude-usage - A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "url": "https://github.com/phuryn/claude-usage",
-      "published_at": "2026-04-07T18:49:32Z",
-      "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
-      "source": "GitHub",
-      "stars": 907,
-      "user": "phuryn"
     },
     {
       "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
@@ -1405,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 841,
       "user": "joeynyc"
     },
     {
@@ -1420,8 +1330,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 639,
       "user": "whwangovo"
+    },
+    {
+      "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "published_at": "2026-04-10T03:25:47Z",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 507,
+      "user": "AMAP-ML"
+    },
+    {
+      "title": "sterlingcrispin/nothing-ever-happens - GitHub Repository",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published_at": "2026-04-12T18:26:00Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "sterlingcrispin"
     }
   ],
   "DevOps": [
@@ -1486,6 +1426,21 @@
   ],
   "Mobile": [],
   "Cloud": [
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
+      "published_at": "2026-04-12T15:03:26Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googlecloudrun",
+        "googleadk",
+        "a2aprotocol",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31mhl31x3m4pynuhx126.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
@@ -1573,6 +1528,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-and-gemini-cli-e8c",
+      "published_at": "2026-04-12T15:03:26Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googlecloudrun",
+        "googleadk",
+        "a2aprotocol",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fill7e18qaxkwy0fgggqa.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1697,21 +1667,6 @@
       "user": "Sameer Khan"
     },
     {
-      "title": "Why I’m Afraid to Ship Code I Haven’t Read",
-      "url": "https://dev.to/distalx/why-im-afraid-to-ship-code-i-havent-read-53ha",
-      "published_at": "2026-04-11T17:07:57Z",
-      "description": "I’ve been watching the rapid rise of \"vibe coding\" and agentic engineering over the last few months,...",
-      "tags": [
-        "softwareengineering",
-        "agenticcoding",
-        "techdebt",
-        "cybersecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ur4pv9umj7f2co4gk2h.png",
-      "source": "Dev.to",
-      "user": "D"
-    },
-    {
       "title": "Mastering Error Handling in Go",
       "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
       "published_at": "2026-04-09T13:54:17Z",
@@ -1795,23 +1750,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1225,
       "user": "QLHazyCoder"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 353,
-      "user": "NyxTides"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -1825,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 256,
       "user": "V-IOLE-T"
     }
   ],
@@ -1917,23 +1857,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1225,
       "user": "QLHazyCoder"
-    },
-    {
-      "title": "NyxTides/SimpleAuthFlow - A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "published_at": "2026-04-07T06:15:18Z",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 353,
-      "user": "NyxTides"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -1947,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 256,
       "user": "V-IOLE-T"
     },
     {
@@ -1962,23 +1887,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 239,
       "user": "xaspx"
     },
     {
-      "title": "Kunkun2116/AI-Truth - See when AI is making things up.Make AI more honest — and show its receipts.",
-      "url": "https://github.com/Kunkun2116/AI-Truth",
-      "published_at": "2026-04-07T17:57:14Z",
-      "description": "See when AI is making things up.Make AI more honest — and show its receipts.",
+      "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
+      "url": "https://github.com/MangoLion/stretchystudio",
+      "published_at": "2026-04-12T15:51:53Z",
+      "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258886174?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
       "stars": 149,
-      "user": "Kunkun2116"
+      "user": "MangoLion"
+    },
+    {
+      "title": "professor-lee/StoneBadge - Add a Rotating Stone in your README file.",
+      "url": "https://github.com/professor-lee/StoneBadge",
+      "published_at": "2026-04-08T16:50:39Z",
+      "description": "Add a Rotating Stone in your README file.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89632742?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "professor-lee"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -1992,38 +1932,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2078,
       "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "mattmireles/gemma-tuner-multimodal - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "published_at": "2026-04-07T05:14:58Z",
-      "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4949789?v=4",
-      "source": "GitHub",
-      "stars": 1254,
-      "user": "mattmireles"
-    },
-    {
-      "title": "phuryn/claude-usage - A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "url": "https://github.com/phuryn/claude-usage",
-      "published_at": "2026-04-07T18:49:32Z",
-      "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7837354?v=4",
-      "source": "GitHub",
-      "stars": 907,
-      "user": "phuryn"
     },
     {
       "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
@@ -2037,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17919866?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 841,
       "user": "joeynyc"
     },
     {
@@ -2052,8 +1962,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 639,
       "user": "whwangovo"
+    },
+    {
+      "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "published_at": "2026-04-10T03:25:47Z",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 507,
+      "user": "AMAP-ML"
+    },
+    {
+      "title": "sterlingcrispin/nothing-ever-happens - GitHub Repository",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published_at": "2026-04-12T18:26:00Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "sterlingcrispin"
     },
     {
       "title": "retlehs/quien - A better WHOIS lookup tool",
@@ -2067,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 457,
       "user": "retlehs"
     },
     {
@@ -2082,23 +2022,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "wh0amitz"
-    },
-    {
-      "title": "remoteoss/dexter - A fast, full-featured Elixir LSP optimized for large codebases.",
-      "url": "https://github.com/remoteoss/dexter",
-      "published_at": "2026-04-07T20:27:28Z",
-      "description": "A fast, full-featured Elixir LSP optimized for large codebases.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88157212?v=4",
-      "source": "GitHub",
-      "stars": 135,
-      "user": "remoteoss"
     },
     {
       "title": "rvitorper/go-bt - Minimalist BT implementation in Go",
@@ -2129,6 +2054,21 @@
       "source": "GitHub",
       "stars": 85,
       "user": "mitchellh"
+    },
+    {
+      "title": "dgr8akki/nano-ffmpeg - nano-ffmpeg wraps the full power of ffmpeg in a beautiful, keyboard-driven terminal dashboard. No more googling flags. Browse your files, pick what you want to do, tweak settings with presets, and watch a live progress bar while it encodes.",
+      "url": "https://github.com/dgr8akki/nano-ffmpeg",
+      "published_at": "2026-04-11T17:34:33Z",
+      "description": "nano-ffmpeg wraps the full power of ffmpeg in a beautiful, keyboard-driven terminal dashboard. No more googling flags. Browse your files, pick what you want to do, tweak settings with presets, and watch a live progress bar while it encodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "dgr8akki"
     }
   ]
 }
