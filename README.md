@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-14-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (55.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦 17 (17.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦 16 (16.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦 12 (12.0%)
 
-**Security**: 🟦🟦🟦 9 (8.6%)
+**Security**: 🟦🟦🟦 9 (9.0%)
 
-**DevOps**: 🟦 3 (2.9%)
+**DevOps**: 🟦🟦 5 (5.0%)
 
-**Database**: 🟦 2 (1.9%)
+**WebDev**: 🟦 2 (2.0%)
 
-**WebDev**:  1 (1.0%)
+**Database**: 🟦 2 (2.0%)
 
 
 
@@ -52,38 +52,38 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 15 articles
+- **GitHub**: 10 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.0 (32.0%)
-Python          ██████████████████████ 23.7 (23.7%)
-JavaScript      ████████████████████ 21.6 (21.6%)
-Java            ██████████████████ 19.6 (19.6%)
-Ruby            █ 1.0 (1.0%)
-PHP             █ 1.0 (1.0%)
-Rust            █ 1.0 (1.0%)
+Go              ██████████████████████████████ 29.4 (29.4%)
+Java            ████████████████████████ 23.5 (23.5%)
+JavaScript      ███████████████████████ 22.4 (22.4%)
+Python          ████████████████████ 20.0 (20.0%)
+Rust            ██ 2.4 (2.4%)
+Ruby            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 31
-    "Python" : 23
-    "JavaScript" : 21
-    "Java" : 19
+    "Go" : 25
+    "Java" : 20
+    "JavaScript" : 19
+    "Python" : 17
+    "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
-    "Rust" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![googleadk](https://img.shields.io/badge/googleadk-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![discuss](https://img.shields.io/badge/discuss-4-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![github](https://img.shields.io/badge/github-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-14 22:00 CAT)
+## 📅 Latest Updates (2026-04-14 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,10 +140,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png" width="200" alt="Build a Talking Robot with Gemini Live and Reachy Mini" />
+    <a href="https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png" width="200" alt="How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)" />
       <br/>
-      <b>Build a Talking Robot with Gemini Live and Reachy ...</b>
+      <b>How I Built an Autonomous Dataset Generator with C...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,27 +194,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) _[Dev.to]_
-- [Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2) _[Dev.to]_
+- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280) _[Dev.to]_
 - [Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) _[Dev.to]_
 - [From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It](https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6) _[Dev.to]_
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o) _[Dev.to]_
+- [They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee) _[Dev.to]_
 - [Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖](https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0) _[Dev.to]_
+- [We Had 6 Hours, a Dying API, and I'm Ran rm -rf. We Still Won. 🏆](https://dev.to/md8_habibullah/we-had-6-hours-a-dying-api-and-im-ran-rm-rf-we-still-won-gdf) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h) _[Dev.to]_
+- [FastAPI Async+Pytest, Event Loop Trap](https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c) _[Dev.to]_
 - [How do AI video generation models work?](https://dev.to/googleai/how-do-ai-video-generation-models-work-a82) _[Dev.to]_
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 - [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf) _[Dev.to]_
+- [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm) _[Dev.to]_
+- [My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator](https://dev.to/nikitavolkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-5c3j) _[Dev.to]_
 - [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app) _[Dev.to]_
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
-- [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h) _[Dev.to]_
-- [Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End](https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5) _[Dev.to]_
-- [Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative](https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha) _[Dev.to]_
-- [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8) _[Dev.to]_
-- [I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖](https://dev.to/anik2812/i-built-a-platformer-that-gaslights-you-coins-steal-spikes-heal-and-the-exit-door-kills-you-2a5h) _[Dev.to]_
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10) _[Dev.to]_
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) _[Dev.to]_
+- [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0) _[Dev.to]_
+- [Web scraping for AI agents: How to give your agents web access](https://dev.to/asaoluelijah/web-scraping-for-ai-agents-how-to-give-your-agents-web-access-4577) _[Dev.to]_
+- [Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f) _[Dev.to]_
 
-_Last automated update: Tue, 14 Apr 2026 22:34:21 CAT_
+_Last automated update: Tue, 14 Apr 2026 23:33:37 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 14 Apr 2026 22:34:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 14 Apr 2026 20:34:21 GMT</b><br/>
+  <b>Last automated update: Tue, 14 Apr 2026 21:33:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
