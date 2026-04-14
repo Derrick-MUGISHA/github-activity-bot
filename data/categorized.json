@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
+    },
+    {
       "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
       "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
       "published_at": "2026-04-13T15:00:23Z",
@@ -61,21 +75,6 @@
       "user": "Nishkarsh Pandey"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
       "published_at": "2026-04-08T13:15:23Z",
@@ -106,6 +105,21 @@
       "user": "Cesar Aguirre"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
+      "published_at": "2026-04-13T18:42:04Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "agents",
+        "ai",
+        "kubernetes",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
       "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
       "published_at": "2026-04-13T17:35:25Z",
@@ -121,14 +135,19 @@
       "user": "Sameer Khan"
     },
     {
-      "title": "AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.",
-      "url": "https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi",
-      "published_at": "2026-04-13T17:12:41Z",
-      "description": "Your coding agent is a slot machine                                                            ...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fny2gvjsvzpoldxdlb7av.png",
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
+      "published_at": "2026-04-13T09:11:53Z",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
       "source": "Dev.to",
-      "user": "Wojciech Wentland"
+      "user": "kanta13jp1"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -161,21 +180,6 @@
       "user": "xbill"
     },
     {
-      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
-      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
-      "published_at": "2026-04-13T09:11:53Z",
-      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
-      "source": "Dev.to",
-      "user": "kanta13jp1"
-    },
-    {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
       "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
       "published_at": "2026-04-09T17:15:51Z",
@@ -204,6 +208,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob6hrb6cleaearnb995b.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.",
+      "url": "https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi",
+      "published_at": "2026-04-13T17:12:41Z",
+      "description": "Your coding agent is a slot machine                                                            ...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fny2gvjsvzpoldxdlb7av.png",
+      "source": "Dev.to",
+      "user": "Wojciech Wentland"
     },
     {
       "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
@@ -515,21 +529,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -673,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1352,
       "user": "QLHazyCoder"
     },
     {
@@ -688,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "V-IOLE-T"
     },
     {
@@ -703,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "xaspx"
     },
     {
@@ -718,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2316,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -733,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 681,
       "user": "whwangovo"
     },
     {
@@ -748,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 645,
       "user": "OpenMOSS"
     },
     {
@@ -763,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "wh0amitz"
     }
   ],
@@ -840,21 +839,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F33eqi53oc0bs427nzqc6.png",
       "source": "Dev.to",
       "user": "Saravanan Gnanaguru"
-    },
-    {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -988,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1352,
       "user": "QLHazyCoder"
     },
     {
@@ -1003,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "V-IOLE-T"
     },
     {
@@ -1018,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "xaspx"
     },
     {
@@ -1033,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 253,
       "user": "andrewjiang"
     },
     {
@@ -1048,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 183,
       "user": "MangoLion"
     }
   ],
@@ -1302,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2316,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1317,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 681,
       "user": "whwangovo"
     },
     {
@@ -1332,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 648,
       "user": "sterlingcrispin"
     },
     {
@@ -1347,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 645,
       "user": "OpenMOSS"
     },
     {
@@ -1362,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 530,
       "user": "AMAP-ML"
     }
   ],
@@ -1752,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1352,
       "user": "QLHazyCoder"
     },
     {
@@ -1767,26 +1751,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "V-IOLE-T"
     }
   ],
   "Tools": [
-    {
-      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
-      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
-      "published_at": "2026-04-13T17:45:50Z",
-      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
-      "tags": [
-        "webdev",
-        "ai",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
-      "source": "Dev.to",
-      "user": "Nishkarsh Pandey"
-    },
     {
       "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
       "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
@@ -1801,6 +1770,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
+      "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
+      "published_at": "2026-04-13T17:45:50Z",
+      "description": "Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...",
+      "tags": [
+        "webdev",
+        "ai",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png",
+      "source": "Dev.to",
+      "user": "Nishkarsh Pandey"
     },
     {
       "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
@@ -1848,21 +1832,6 @@
       "user": "Jessica Temporal"
     },
     {
-      "title": "I Keep Telling Claude the Same Things. So He Started Writing Them Down Himself.",
-      "url": "https://dev.to/eli_coding/i-keep-telling-claude-the-same-things-so-he-started-writing-them-down-himself-1i9",
-      "published_at": "2026-04-10T11:24:23Z",
-      "description": "A small moment that changed how I think about AI coding tools.     If you've used Claude Code for...",
-      "tags": [
-        "angular",
-        "ai",
-        "claude",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyinfjoq92rt8wsvcolmj.png",
-      "source": "Dev.to",
-      "user": "Eli_coding"
-    },
-    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -1874,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1352,
       "user": "QLHazyCoder"
     },
     {
@@ -1889,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "V-IOLE-T"
     },
     {
@@ -1904,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38959282?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "xaspx"
     },
     {
@@ -1919,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 253,
       "user": "andrewjiang"
     },
     {
@@ -1934,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 183,
       "user": "MangoLion"
     },
     {
@@ -1949,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2316,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1964,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 681,
       "user": "whwangovo"
     },
     {
@@ -1979,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 648,
       "user": "sterlingcrispin"
     },
     {
@@ -1994,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 645,
       "user": "OpenMOSS"
     },
     {
@@ -2009,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 530,
       "user": "AMAP-ML"
     },
     {
@@ -2024,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 500,
       "user": "retlehs"
     },
     {
@@ -2039,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "wh0amitz"
     },
     {
@@ -2054,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 107,
       "user": "Nyarime"
     },
     {
@@ -2084,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "mitchellh"
     }
   ]
