@@ -15,7 +15,7 @@
     "Cloud": 13,
     "Database": 2,
     "Security": 8,
-    "Tools": 21
+    "Tools": 20
   },
   "by_language": {
     "Go": 28,
@@ -74,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 24,
+    "ai": 23,
     "github": 16,
     "open-source": 15,
     "python": 13,
@@ -88,12 +88,12 @@
     "opensource": 7,
     "go": 6,
     "machinelearning": 4,
-    "llm": 4,
     "showdev": 4,
     "programming": 4,
     "geminilive": 4,
     "devchallenge": 4,
-    "productivity": 3
+    "llm": 3,
+    "devops": 3
   },
   "trending_topics": [],
   "language_percentages": {
