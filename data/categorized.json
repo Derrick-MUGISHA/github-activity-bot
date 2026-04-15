@@ -16,6 +16,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "How to prompt Gemini 3.1's new text to speech model",
+      "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
+      "published_at": "2026-04-15T16:12:25Z",
+      "description": "Gemini 3.1 Flash text to speech (TTS) is a new model that you can direct to get the precise audio...",
+      "tags": [
+        "ai",
+        "gemini",
+        "promptengineering",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2go6updsvkkoozbimzqb.png",
+      "source": "Dev.to",
+      "user": "fofr"
+    },
+    {
       "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
       "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
       "published_at": "2026-04-14T20:15:22Z",
@@ -57,21 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
-    },
-    {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
     },
     {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
@@ -132,6 +132,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfkse2vmhc7tyt374pf.png",
       "source": "Dev.to",
       "user": "Morgan Willis"
+    },
+    {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
+    },
+    {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
     },
     {
       "title": "FastAPI Async+Pytest, Event Loop Trap",
@@ -574,36 +604,6 @@
       "user": "xbill"
     },
     {
-      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
-      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
-      "published_at": "2026-04-13T09:11:53Z",
-      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
-      "source": "Dev.to",
-      "user": "kanta13jp1"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-and-gemini-cli-e8c",
-      "published_at": "2026-04-12T15:03:26Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googlecloudrun",
-        "googleadk",
-        "a2aprotocol",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fill7e18qaxkwy0fgggqa.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1483,
       "user": "QLHazyCoder"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2840,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 987,
       "user": "OpenMOSS"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "whwangovo"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 191,
       "user": "xataio"
     }
   ],
@@ -870,6 +870,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Building the DEV Community Homepage with Pure Canvas",
+      "url": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
+      "published_at": "2026-04-14T08:35:24Z",
+      "description": "Building the DEV Community Homepage with Pure Canvas   In modern frontend development, we...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "react",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbq1q7m05t7z7ci5v4gm.png",
+      "source": "Dev.to",
+      "user": "ouzz"
+    },
+    {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
       "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
       "published_at": "2026-04-09T17:15:51Z",
@@ -898,21 +913,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "Building the DEV Community Homepage with Pure Canvas",
-      "url": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
-      "published_at": "2026-04-14T08:35:24Z",
-      "description": "Building the DEV Community Homepage with Pure Canvas   In modern frontend development, we...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "react",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbq1q7m05t7z7ci5v4gm.png",
-      "source": "Dev.to",
-      "user": "ouzz"
     },
     {
       "title": "How I Built state-in-url: My Journey Turning the URL Bar into Real React State",
@@ -1106,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1483,
       "user": "QLHazyCoder"
     },
     {
@@ -1121,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 461,
       "user": "andrewjiang"
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "MangoLion"
     },
     {
@@ -1166,7 +1166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "nesaminua"
     }
   ],
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2840,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1393,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 987,
       "user": "OpenMOSS"
     },
     {
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 761,
       "user": "sterlingcrispin"
     },
     {
@@ -1423,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "whwangovo"
     },
     {
@@ -1743,21 +1743,6 @@
       "user": "xbill"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-and-gemini-cli-e8c",
-      "published_at": "2026-04-12T15:03:26Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googlecloudrun",
-        "googleadk",
-        "a2aprotocol",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fill7e18qaxkwy0fgggqa.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -1769,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 191,
       "user": "xataio"
     }
   ],
@@ -1917,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1483,
       "user": "QLHazyCoder"
     },
     {
@@ -1961,6 +1946,21 @@
         "ai",
         "productivity",
         "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
+    },
+    {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
         "showdev"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
@@ -2027,21 +2027,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
-      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
-      "published_at": "2026-04-13T09:11:53Z",
-      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
-      "source": "Dev.to",
-      "user": "kanta13jp1"
-    },
-    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -2053,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1483,
       "user": "QLHazyCoder"
     },
     {
@@ -2068,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 461,
       "user": "andrewjiang"
     },
     {
@@ -2098,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "MangoLion"
     },
     {
@@ -2113,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "nesaminua"
     },
     {
@@ -2128,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2840,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2143,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 987,
       "user": "OpenMOSS"
     },
     {
@@ -2158,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 761,
       "user": "sterlingcrispin"
     },
     {
@@ -2173,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "whwangovo"
     },
     {
@@ -2203,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 545,
       "user": "retlehs"
     },
     {
@@ -2233,7 +2218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 191,
       "user": "xataio"
     },
     {

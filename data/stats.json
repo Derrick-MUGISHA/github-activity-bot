@@ -12,7 +12,7 @@
     "DevOps": 4,
     "WebDev": 3,
     "Mobile": 0,
-    "Cloud": 15,
+    "Cloud": 14,
     "Database": 4,
     "Security": 7,
     "Tools": 22
@@ -20,22 +20,22 @@
   "by_language": {
     "JavaScript": 24,
     "Java": 22,
-    "Go": 29,
+    "Go": 28,
     "Rust": 3,
     "Python": 20,
     "Ruby": 1
   },
   "by_date": {
     "2026-04-14": 15,
-    "2026-04-15": 6,
-    "2026-04-13": 24,
+    "2026-04-15": 8,
+    "2026-04-13": 23,
     "2026-04-08": 1,
     "2026-04-09": 6,
     "2026-04-10": 8,
     "2026-04-07": 1,
     "2026-04-06": 2,
     "2026-04-11": 3,
-    "2026-04-12": 7,
+    "2026-04-12": 6,
     "2026-04-04": 2,
     "2026-03-11": 1,
     "2024-02-27": 1,
@@ -68,10 +68,10 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 27,
     "github": 16,
     "open-source": 15,
-    "gemini": 11,
+    "gemini": 12,
     "python": 10,
     "AI": 10,
     "JavaScript": 10,
@@ -79,23 +79,23 @@
     "javascript": 9,
     "webdev": 9,
     "go": 8,
-    "googleadk": 7,
+    "tutorial": 6,
+    "googleadk": 6,
     "programming": 6,
     "discuss": 5,
     "productivity": 5,
     "aws": 5,
-    "llm": 5,
-    "tutorial": 5,
+    "showdev": 5,
     "opensource": 5,
-    "showdev": 4
+    "llm": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "24.2",
-    "Java": "22.2",
-    "Go": "29.3",
-    "Rust": "3.0",
-    "Python": "20.2",
+    "JavaScript": "24.5",
+    "Java": "22.4",
+    "Go": "28.6",
+    "Rust": "3.1",
+    "Python": "20.4",
     "Ruby": "1.0"
   }
 }
