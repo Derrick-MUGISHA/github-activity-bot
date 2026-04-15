@@ -75,21 +75,6 @@
       "user": "xbill"
     },
     {
-      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
-      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
-      "published_at": "2026-04-14T13:08:46Z",
-      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
-      "tags": [
-        "kubernetes",
-        "opensource",
-        "devops",
-        "coolify"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
-      "source": "Dev.to",
-      "user": "drtobbyas"
-    },
-    {
       "title": "We Had 6 Hours, a Dying API, and I'm Ran rm -rf. We Still Won. 🏆",
       "url": "https://dev.to/md8_habibullah/we-had-6-hours-a-dying-api-and-im-ran-rm-rf-we-still-won-gdf",
       "published_at": "2026-04-14T03:57:41Z",
@@ -176,6 +161,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
       "source": "Dev.to",
       "user": "Neha Sharma "
+    },
+    {
+      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
+      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
+      "published_at": "2026-04-14T13:08:46Z",
+      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
+      "tags": [
+        "kubernetes",
+        "opensource",
+        "devops",
+        "coolify"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
+      "source": "Dev.to",
+      "user": "drtobbyas"
     },
     {
       "title": "Deploy OpenClaw on AWS: Choose the right options for your AI workload",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1411,
       "user": "QLHazyCoder"
     },
     {
@@ -753,51 +753,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "published_at": "2026-04-10T15:07:10Z",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 2549,
-      "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "published_at": "2026-04-10T16:25:07Z",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 801,
-      "user": "OpenMOSS"
-    },
-    {
-      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "url": "https://github.com/whwangovo/pyre-code",
-      "published_at": "2026-04-09T06:02:53Z",
-      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
-      "source": "GitHub",
-      "stars": 693,
-      "user": "whwangovo"
-    },
-    {
       "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
       "url": "https://github.com/wh0amitz/TailVNC",
       "published_at": "2026-04-11T16:13:15Z",
@@ -809,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "wh0amitz"
     }
   ],
@@ -1003,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1411,
       "user": "QLHazyCoder"
     },
     {
@@ -1018,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 389,
       "user": "andrewjiang"
     },
     {
@@ -1048,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "MangoLion"
     },
     {
@@ -1063,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54725?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 151,
       "user": "xsawyerx"
     }
   ],
@@ -1304,81 +1259,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "gilad"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "published_at": "2026-04-10T15:07:10Z",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 2549,
-      "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "published_at": "2026-04-10T16:25:07Z",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 801,
-      "user": "OpenMOSS"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 713,
-      "user": "sterlingcrispin"
-    },
-    {
-      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "url": "https://github.com/whwangovo/pyre-code",
-      "published_at": "2026-04-09T06:02:53Z",
-      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
-      "source": "GitHub",
-      "stars": 693,
-      "user": "whwangovo"
-    },
-    {
-      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "published_at": "2026-04-12T10:47:30Z",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
-      "source": "GitHub",
-      "stars": 560,
-      "user": "patterniha"
     }
   ],
   "DevOps": [
@@ -1825,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1411,
       "user": "QLHazyCoder"
     },
     {
@@ -1931,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1411,
       "user": "QLHazyCoder"
     },
     {
@@ -1946,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 389,
       "user": "andrewjiang"
     },
     {
@@ -1976,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "MangoLion"
     },
     {
@@ -1991,83 +1871,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54725?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 151,
       "user": "xsawyerx"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "published_at": "2026-04-10T15:07:10Z",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 2549,
-      "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "published_at": "2026-04-10T16:25:07Z",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 801,
-      "user": "OpenMOSS"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 713,
-      "user": "sterlingcrispin"
-    },
-    {
-      "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "url": "https://github.com/whwangovo/pyre-code",
-      "published_at": "2026-04-09T06:02:53Z",
-      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
-      "source": "GitHub",
-      "stars": 693,
-      "user": "whwangovo"
-    },
-    {
-      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "published_at": "2026-04-12T10:47:30Z",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
-      "source": "GitHub",
-      "stars": 560,
-      "user": "patterniha"
     },
     {
       "title": "retlehs/quien - A better WHOIS lookup tool",
@@ -2081,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 526,
       "user": "retlehs"
     },
     {
@@ -2096,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "wh0amitz"
     },
     {
@@ -2111,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "Nyarime"
     },
     {
@@ -2126,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "mitchellh"
     },
     {
@@ -2141,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "vavallee"
     }
   ]
