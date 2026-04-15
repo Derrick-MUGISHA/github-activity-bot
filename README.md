@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-45-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-4-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-15-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,31 +28,26 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (40.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15 (33.3%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15 (33.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 15 (33.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Security**: 🟦🟦🟦 3 (6.7%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦 1 (2.2%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**Cloud**: 🟦 1 (2.2%)
 
-**DevOps**: 🟦 4 (3.8%)
-
-**Database**: 🟦 4 (3.8%)
-
-**Mobile**:  1 (1.0%)
+**Database**: 🟦 1 (2.2%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,30 +55,26 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.6 (30.6%)
-JavaScript      ████████████████████████ 24.5 (24.5%)
-Java            ████████████████████ 20.4 (20.4%)
-Python          ████████████████████ 20.4 (20.4%)
-Rust            ███ 3.1 (3.1%)
-Swift           █ 1.0 (1.0%)
+JavaScript      ██████████████████████████████ 27.8 (27.8%)
+Java            ██████████████████████████████ 27.8 (27.8%)
+Python          ██████████████████████████████ 27.8 (27.8%)
+Go              ██████████████████ 16.7 (16.7%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 30
-    "JavaScript" : 24
-    "Java" : 20
-    "Python" : 20
-    "Rust" : 3
-    "Swift" : 1
+    "JavaScript" : 15
+    "Java" : 15
+    "Python" : 15
+    "Go" : 9
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![go](https://img.shields.io/badge/go-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) 
+![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![python](https://img.shields.io/badge/python-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -131,60 +122,60 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggomac4l9ucufofvxw2s.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://github.com/QLHazyCoder/codex-oauth-automation-extension">
+      <img src="https://avatars.githubusercontent.com/u/109800873?v=4" width="200" alt="QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>QLHazyCoder/codex-oauth-automation-extension - Chr...</b>
     </a>
     <br/>
-    <sub>Dev.to</sub>
+    <sub>GitHub</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2go6updsvkkoozbimzqb.png" width="200" alt="How to prompt Gemini 3.1's new text to speech model" />
+    <a href="https://github.com/andrewjiang/palantir-for-family-trips">
+      <img src="https://avatars.githubusercontent.com/u/906752?v=4" width="200" alt="andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning." />
       <br/>
-      <b>How to prompt Gemini 3.1's new text to speech mode...</b>
+      <b>andrewjiang/palantir-for-family-trips - A Palantir...</b>
     </a>
     <br/>
-    <sub>Dev.to</sub>
+    <sub>GitHub</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png" width="200" alt="Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)" />
+    <a href="https://github.com/V-IOLE-T/hotmail-register-extension">
+      <img src="https://avatars.githubusercontent.com/u/168922623?v=4" width="200" alt="V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理" />
       <br/>
-      <b>Things You're Overengineering in Your AI Agent (Th...</b>
+      <b>V-IOLE-T/hotmail-register-extension - 基于Outlook Em...</b>
     </a>
     <br/>
-    <sub>Dev.to</sub>
+    <sub>GitHub</sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png" width="200" alt="Lost in the AI Hype, I Started Small" />
+    <a href="https://github.com/Manavarya09/design-extract">
+      <img src="https://avatars.githubusercontent.com/u/144777973?v=4" width="200" alt="Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin." />
       <br/>
-      <b>Lost in the AI Hype, I Started Small</b>
+      <b>Manavarya09/design-extract - Extract the complete ...</b>
     </a>
     <br/>
-    <sub>Dev.to</sub>
+    <sub>GitHub</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png" width="200" alt="How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠" />
+    <a href="https://github.com/MangoLion/stretchystudio">
+      <img src="https://avatars.githubusercontent.com/u/9015144?v=4" width="200" alt="MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters" />
       <br/>
-      <b>How I'm using ASTs and Gemini to solve the "Codeba...</b>
+      <b>MangoLion/stretchystudio - FOSS 2D animation tool ...</b>
     </a>
     <br/>
-    <sub>Dev.to</sub>
+    <sub>GitHub</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png" width="200" alt="Local AI Will Save Us All (The Math Says So, Trust Me)" />
+    <a href="https://github.com/yizhiyanhua-ai/fireworks-tech-graph">
+      <img src="https://avatars.githubusercontent.com/u/251871046?v=4" width="200" alt="yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge." />
       <br/>
-      <b>Local AI Will Save Us All (The Math Says So, Trust...</b>
+      <b>yizhiyanhua-ai/fireworks-tech-graph - Claude Code ...</b>
     </a>
     <br/>
-    <sub>Dev.to</sub>
+    <sub>GitHub</sub>
   </td>
 </tr>
 </table>
@@ -193,28 +184,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) _[Dev.to]_
-- [How to prompt Gemini 3.1's new text to speech model](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb) _[Dev.to]_
-- [Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) _[Dev.to]_
-- [Lost in the AI Hype, I Started Small](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72) _[Dev.to]_
-- [How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9) _[Dev.to]_
-- [Local AI Will Save Us All (The Math Says So, Trust Me)](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22) _[Dev.to]_
-- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280) _[Dev.to]_
-- [Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment](https://dev.to/gde/building-with-the-google-cloud-run-mcp-server-for-multi-agent-a2a-deployment-fop) _[Dev.to]_
-- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o) _[Dev.to]_
-- [Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)](https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln) _[Dev.to]_
-- [How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca) _[Dev.to]_
-- [Steer GitHub Copilot CLI Sessions Remotely from Any Device](https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee) _[Dev.to]_
-- [From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It](https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6) _[Dev.to]_
-- [Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1](https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5) _[Dev.to]_
-- [Designing a CLI for Both Humans and Agents](https://dev.to/alpic/designing-a-cli-for-both-humans-and-agents-4069) _[Dev.to]_
-- [Playwright in Pictures: Fully Parallel Mode](https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj) _[Dev.to]_
-- [FastAPI Async+Pytest, Event Loop Trap](https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c) _[Dev.to]_
-- [Building a Replay-Tested Interactive Brokers Client in Go](https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i) _[Dev.to]_
-- [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
-- [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm) _[Dev.to]_
+- [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated) _[HackerNews]_
+- [Airfoil](https://ciechanow.ski/airfoil/) _[HackerNews]_
+- [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) _[HackerNews]_
+- [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/) _[HackerNews]_
+- [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) _[HackerNews]_
+- [Gemini AI](https://deepmind.google/technologies/gemini/) _[HackerNews]_
+- [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot) _[HackerNews]_
+- [Bypassing airport security via SQL injection](https://ian.sh/tsa) _[HackerNews]_
+- [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/) _[HackerNews]_
+- [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html) _[HackerNews]_
+- [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360) _[HackerNews]_
+- [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/) _[HackerNews]_
+- [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch) _[HackerNews]_
+- [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/) _[HackerNews]_
+- [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com) _[HackerNews]_
+- [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) _[HackerNews]_
+- [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) _[HackerNews]_
+- [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/) _[HackerNews]_
+- [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/) _[HackerNews]_
+- [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/) _[HackerNews]_
 
-_Last automated update: Thu, 16 Apr 2026 01:02:39 CAT_
+_Last automated update: Thu, 16 Apr 2026 01:58:45 CAT_
 
 
 
@@ -222,36 +213,36 @@ _Last automated update: Thu, 16 Apr 2026 01:02:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Heap, stack, garbage collection
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +276,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 15 Apr 2026 23:02:39 GMT</b><br/>
+  <b>Last automated update: Wed, 15 Apr 2026 23:58:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
