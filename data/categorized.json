@@ -30,21 +30,6 @@
       "user": "Serhii Panchyshyn"
     },
     {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
-    },
-    {
       "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
       "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
       "published_at": "2026-04-15T14:05:13Z",
@@ -72,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
+    },
+    {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
     },
     {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
@@ -500,21 +500,6 @@
       "user": "i-like-tree"
     },
     {
-      "title": "I Couldn’t Afford Earth, So I Built Something Better",
-      "url": "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
-      "published_at": "2026-04-11T13:20:05Z",
-      "description": "This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...",
-      "tags": [
-        "devchallenge",
-        "showdev",
-        "418challenge",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1hqypa84cifpqf3zyeg.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
-    },
-    {
       "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
       "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
       "published_at": "2026-04-04T01:49:02Z",
@@ -587,6 +572,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs9w5ajgd483pjy4fjw8v.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
+      "published_at": "2026-04-13T09:11:53Z",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
+      "source": "Dev.to",
+      "user": "kanta13jp1"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1480,
       "user": "QLHazyCoder"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2807,
+      "stars": 2823,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 983,
       "user": "OpenMOSS"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "whwangovo"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 209,
       "user": "wh0amitz"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 165,
       "user": "xataio"
     }
   ],
@@ -1106,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1480,
       "user": "QLHazyCoder"
     },
     {
@@ -1121,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "andrewjiang"
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "MangoLion"
     },
     {
@@ -1166,7 +1166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "nesaminua"
     }
   ],
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2807,
+      "stars": 2823,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1393,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 983,
       "user": "OpenMOSS"
     },
     {
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 757,
       "user": "sterlingcrispin"
     },
     {
@@ -1423,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "whwangovo"
     },
     {
@@ -1438,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 596,
       "user": "patterniha"
     }
   ],
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 165,
       "user": "xataio"
     }
   ],
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1480,
       "user": "QLHazyCoder"
     },
     {
@@ -1953,21 +1953,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
-    },
-    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
       "published_at": "2026-04-15T14:41:03Z",
@@ -1983,6 +1968,21 @@
       "user": "tworrell"
     },
     {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
       "title": "From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It",
       "url": "https://dev.to/ceohitchcock/from-software-engineer-to-developer-advocate-the-silent-transition-ive-been-making-for-years-4jc6",
       "published_at": "2026-04-14T15:21:50Z",
@@ -1995,21 +1995,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbhbc1n23664hgrkz10o.png",
       "source": "Dev.to",
       "user": "Christian Hitchcock"
-    },
-    {
-      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
-      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
-      "published_at": "2026-04-11T15:55:53Z",
-      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
-      "tags": [
-        "github",
-        "opensource",
-        "development",
-        "repository"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
     },
     {
       "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
@@ -2027,6 +2012,36 @@
       "user": "Nishkarsh Pandey"
     },
     {
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
+      "published_at": "2026-04-11T15:55:53Z",
+      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "tags": [
+        "github",
+        "opensource",
+        "development",
+        "repository"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
+      "published_at": "2026-04-13T09:11:53Z",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
+      "source": "Dev.to",
+      "user": "kanta13jp1"
+    },
+    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -2038,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1480,
       "user": "QLHazyCoder"
     },
     {
@@ -2053,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "andrewjiang"
     },
     {
@@ -2083,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "MangoLion"
     },
     {
@@ -2098,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "nesaminua"
     },
     {
@@ -2113,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2807,
+      "stars": 2823,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2128,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 983,
       "user": "OpenMOSS"
     },
     {
@@ -2143,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 757,
       "user": "sterlingcrispin"
     },
     {
@@ -2158,7 +2173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "whwangovo"
     },
     {
@@ -2173,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 596,
       "user": "patterniha"
     },
     {
@@ -2188,7 +2203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 544,
       "user": "retlehs"
     },
     {
@@ -2203,7 +2218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 209,
       "user": "wh0amitz"
     },
     {
@@ -2218,7 +2233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 165,
       "user": "xataio"
     },
     {
@@ -2248,7 +2263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "vavallee"
     }
   ]
