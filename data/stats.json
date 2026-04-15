@@ -15,7 +15,7 @@
     "Cloud": 15,
     "Database": 4,
     "Security": 7,
-    "Tools": 21
+    "Tools": 22
   },
   "by_language": {
     "JavaScript": 24,
@@ -28,13 +28,13 @@
   "by_date": {
     "2026-04-14": 15,
     "2026-04-15": 6,
-    "2026-04-13": 23,
-    "2026-04-11": 4,
+    "2026-04-13": 24,
     "2026-04-08": 1,
     "2026-04-09": 6,
     "2026-04-10": 8,
     "2026-04-07": 1,
     "2026-04-06": 2,
+    "2026-04-11": 3,
     "2026-04-12": 7,
     "2026-04-04": 2,
     "2026-03-11": 1,
@@ -82,12 +82,12 @@
     "googleadk": 7,
     "programming": 6,
     "discuss": 5,
+    "productivity": 5,
     "aws": 5,
+    "llm": 5,
     "tutorial": 5,
-    "showdev": 5,
     "opensource": 5,
-    "productivity": 4,
-    "llm": 4
+    "showdev": 4
   },
   "trending_topics": [],
   "language_percentages": {
