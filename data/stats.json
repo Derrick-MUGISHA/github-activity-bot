@@ -7,7 +7,7 @@
   },
   "by_category": {
     "AI": 57,
-    "JavaScript": 20,
+    "JavaScript": 19,
     "Python": 23,
     "DevOps": 5,
     "WebDev": 2,
@@ -18,9 +18,9 @@
     "Tools": 20
   },
   "by_language": {
-    "JavaScript": 20,
+    "JavaScript": 19,
     "Java": 20,
-    "Go": 28,
+    "Go": 27,
     "Python": 23,
     "Rust": 2,
     "Ruby": 1,
@@ -28,11 +28,12 @@
   },
   "by_date": {
     "2026-04-14": 14,
+    "2026-04-15": 1,
     "2026-04-13": 10,
     "2026-04-12": 9,
     "2026-04-11": 4,
     "2026-04-08": 6,
-    "2026-04-09": 4,
+    "2026-04-09": 3,
     "2026-04-10": 12,
     "2026-04-01": 4,
     "2026-04-02": 1,
@@ -73,7 +74,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 23,
+    "ai": 24,
     "github": 16,
     "open-source": 15,
     "python": 13,
@@ -81,26 +82,26 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "webdev": 8,
     "javascript": 8,
     "googleadk": 8,
-    "opensource": 7,
-    "go": 6,
+    "webdev": 7,
+    "opensource": 6,
     "showdev": 5,
     "devchallenge": 5,
+    "go": 5,
     "llm": 4,
+    "machinelearning": 4,
     "security": 4,
     "418challenge": 4,
-    "geminilive": 4,
-    "machinelearning": 3
+    "geminilive": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "21.1",
-    "Java": "21.1",
-    "Go": "29.5",
-    "Python": "24.2",
-    "Rust": "2.1",
+    "JavaScript": "20.4",
+    "Java": "21.5",
+    "Go": "29.0",
+    "Python": "24.7",
+    "Rust": "2.2",
     "Ruby": "1.1",
     "PHP": "1.1"
   }
