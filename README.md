@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-15-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -30,19 +30,19 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Security**: 🟦🟦🟦 8 (7.6%)
 
-**DevOps**: 🟦 4 (3.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦 4 (3.8%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Database**: 🟦 4 (3.8%)
 
@@ -60,32 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.9 (30.9%)
-JavaScript      ███████████████████████ 23.4 (23.4%)
-Java            █████████████████████ 21.3 (21.3%)
-Python          ███████████████████ 19.1 (19.1%)
-Rust            ███ 3.2 (3.2%)
-Swift           █ 1.1 (1.1%)
-Ruby            █ 1.1 (1.1%)
+Go              ██████████████████████████████ 30.6 (30.6%)
+JavaScript      ████████████████████████ 24.5 (24.5%)
+Java            ████████████████████ 20.4 (20.4%)
+Python          ████████████████████ 20.4 (20.4%)
+Rust            ███ 3.1 (3.1%)
+Swift           █ 1.0 (1.0%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
-    "JavaScript" : 22
+    "Go" : 30
+    "JavaScript" : 24
     "Java" : 20
-    "Python" : 18
+    "Python" : 20
     "Rust" : 3
     "Swift" : 1
-    "Ruby" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) 
 
 
 
@@ -125,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-15 23:00 CAT)
+## 📅 Latest Updates (2026-04-16 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +214,7 @@ npm run test
 - [Building a Replay-Tested Interactive Brokers Client in Go](https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i) _[Dev.to]_
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 
-_Last automated update: Wed, 15 Apr 2026 23:28:25 CAT_
+_Last automated update: Thu, 16 Apr 2026 00:10:46 CAT_
 
 
 
@@ -224,36 +222,36 @@ _Last automated update: Wed, 15 Apr 2026 23:28:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 15 Apr 2026 21:28:25 GMT</b><br/>
+  <b>Last automated update: Wed, 15 Apr 2026 22:10:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
