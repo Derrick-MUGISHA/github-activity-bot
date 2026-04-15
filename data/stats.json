@@ -14,8 +14,8 @@
     "Mobile": 0,
     "Cloud": 13,
     "Database": 2,
-    "Security": 9,
-    "Tools": 20
+    "Security": 8,
+    "Tools": 21
   },
   "by_language": {
     "Go": 28,
@@ -82,18 +82,18 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "webdev": 9,
     "googleadk": 8,
     "javascript": 8,
-    "webdev": 8,
     "opensource": 7,
     "go": 6,
     "machinelearning": 4,
     "llm": 4,
     "showdev": 4,
-    "security": 4,
+    "programming": 4,
     "geminilive": 4,
     "devchallenge": 4,
-    "programming": 3
+    "productivity": 3
   },
   "trending_topics": [],
   "language_percentages": {
