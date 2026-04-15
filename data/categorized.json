@@ -16,6 +16,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "productivity",
+        "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
+    },
+    {
       "title": "How to prompt Gemini 3.1's new text to speech model",
       "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
       "published_at": "2026-04-15T16:12:25Z",
@@ -57,21 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
       "source": "Dev.to",
       "user": "Sebastian Schürmann"
-    },
-    {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
     },
     {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
@@ -280,36 +280,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftv8stu1zwsjzvku972y2.png",
       "source": "Dev.to",
       "user": "Serhii Panchyshyn"
-    },
-    {
-      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
-      "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
-      "published_at": "2026-04-13T15:00:23Z",
-      "description": "Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...",
-      "tags": [
-        "ai",
-        "robotics",
-        "gemini",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
-      "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
-      "published_at": "2026-04-13T17:59:00Z",
-      "description": "Andrej Karpathy's LLM Wiki pattern went viral this month. 5,000+ stars, 3,700 forks, dozens of...",
-      "tags": [
-        "ai",
-        "aimemory",
-        "wiki",
-        "obsidian"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
-      "source": "Dev.to",
-      "user": "Penfield"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -604,6 +574,51 @@
       "user": "xbill"
     },
     {
+      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
+      "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
+      "published_at": "2026-04-13T15:00:23Z",
+      "description": "Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...",
+      "tags": [
+        "ai",
+        "robotics",
+        "gemini",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbr8pwufki7xmua8ahpn4.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
+      "published_at": "2026-04-13T09:11:53Z",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
+      "source": "Dev.to",
+      "user": "kanta13jp1"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-and-gemini-cli-e8c",
+      "published_at": "2026-04-12T15:03:26Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googlecloudrun",
+        "googleadk",
+        "a2aprotocol",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fill7e18qaxkwy0fgggqa.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1483,
+      "stars": 1487,
       "user": "QLHazyCoder"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2840,
+      "stars": 2870,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 994,
       "user": "OpenMOSS"
     },
     {
@@ -807,23 +822,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 722,
       "user": "whwangovo"
-    },
-    {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 209,
-      "user": "wh0amitz"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -837,8 +837,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 213,
       "user": "xataio"
+    },
+    {
+      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "url": "https://github.com/wh0amitz/TailVNC",
+      "published_at": "2026-04-11T16:13:15Z",
+      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "wh0amitz"
     }
   ],
   "JavaScript": [
@@ -1106,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1483,
+      "stars": 1487,
       "user": "QLHazyCoder"
     },
     {
@@ -1121,7 +1136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 465,
       "user": "andrewjiang"
     },
     {
@@ -1140,6 +1155,21 @@
       "user": "V-IOLE-T"
     },
     {
+      "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "published_at": "2026-04-15T10:11:22Z",
+      "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "Manavarya09"
+    },
+    {
       "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
       "url": "https://github.com/MangoLion/stretchystudio",
       "published_at": "2026-04-12T15:51:53Z",
@@ -1151,23 +1181,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "MangoLion"
-    },
-    {
-      "title": "nesaminua/claude-code-lsp-enforcement-kit - Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
-      "url": "https://github.com/nesaminua/claude-code-lsp-enforcement-kit",
-      "published_at": "2026-04-10T11:02:12Z",
-      "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "nesaminua"
     }
   ],
   "Python": [
@@ -1378,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2840,
+      "stars": 2870,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1393,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 994,
       "user": "OpenMOSS"
     },
     {
@@ -1408,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 765,
       "user": "sterlingcrispin"
     },
     {
@@ -1423,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 722,
       "user": "whwangovo"
     },
     {
@@ -1438,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 598,
       "user": "patterniha"
     }
   ],
@@ -1743,6 +1758,21 @@
       "user": "xbill"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-and-gemini-cli-e8c",
+      "published_at": "2026-04-12T15:03:26Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googlecloudrun",
+        "googleadk",
+        "a2aprotocol",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fill7e18qaxkwy0fgggqa.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -1754,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 213,
       "user": "xataio"
     }
   ],
@@ -1902,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1483,
+      "stars": 1487,
       "user": "QLHazyCoder"
     },
     {
@@ -2027,6 +2057,21 @@
       "user": "Giorgi Kobaidze"
     },
     {
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "url": "https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha",
+      "published_at": "2026-04-13T09:11:53Z",
+      "description": "The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...",
+      "tags": [
+        "claudecode",
+        "ai",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36dcdcycrbn3gdli48ea.png",
+      "source": "Dev.to",
+      "user": "kanta13jp1"
+    },
+    {
       "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
       "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "published_at": "2026-04-09T03:23:02Z",
@@ -2038,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1483,
+      "stars": 1487,
       "user": "QLHazyCoder"
     },
     {
@@ -2053,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 465,
       "user": "andrewjiang"
     },
     {
@@ -2072,6 +2117,21 @@
       "user": "V-IOLE-T"
     },
     {
+      "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "published_at": "2026-04-15T10:11:22Z",
+      "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "Manavarya09"
+    },
+    {
       "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
       "url": "https://github.com/MangoLion/stretchystudio",
       "published_at": "2026-04-12T15:51:53Z",
@@ -2083,23 +2143,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "MangoLion"
-    },
-    {
-      "title": "nesaminua/claude-code-lsp-enforcement-kit - Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
-      "url": "https://github.com/nesaminua/claude-code-lsp-enforcement-kit",
-      "published_at": "2026-04-10T11:02:12Z",
-      "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "nesaminua"
     },
     {
       "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
@@ -2113,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2840,
+      "stars": 2870,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2128,7 +2173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 994,
       "user": "OpenMOSS"
     },
     {
@@ -2143,7 +2188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 765,
       "user": "sterlingcrispin"
     },
     {
@@ -2158,7 +2203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 722,
       "user": "whwangovo"
     },
     {
@@ -2173,7 +2218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 598,
       "user": "patterniha"
     },
     {
@@ -2188,23 +2233,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 548,
       "user": "retlehs"
-    },
-    {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 209,
-      "user": "wh0amitz"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -2218,8 +2248,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 213,
       "user": "xataio"
+    },
+    {
+      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "url": "https://github.com/wh0amitz/TailVNC",
+      "published_at": "2026-04-11T16:13:15Z",
+      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "wh0amitz"
     },
     {
       "title": "Nyarime/NRUP - 🥤 NRUP - A reliable encrypted UDP transport protocol built on DTLS",
@@ -2248,7 +2293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "vavallee"
     }
   ]
