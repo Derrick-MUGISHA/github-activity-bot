@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
+    {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
       "url": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
       "published_at": "2026-04-14T16:39:36Z",
@@ -46,20 +60,6 @@
       "user": "xbill"
     },
     {
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "published_at": "2026-04-14T20:15:22Z",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
-      "tags": [
-        "ai",
-        "llm",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
-      "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
-    },
-    {
       "title": "FastAPI Async+Pytest, Event Loop Trap",
       "url": "https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c",
       "published_at": "2026-04-14T14:18:21Z",
@@ -73,20 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png",
       "source": "Dev.to",
       "user": "Neeraj Kansal"
-    },
-    {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
     },
     {
       "title": "Claude skills vs Commands",
@@ -163,6 +149,20 @@
       "user": "spac3gh0st"
     },
     {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
+    },
+    {
       "title": "My First RAG System Had No Evals. 40% of Answers Were Wrong.",
       "url": "https://dev.to/serhiip/my-first-rag-system-had-no-evals-40-of-answers-were-wrong-ab",
       "published_at": "2026-04-13T20:58:06Z",
@@ -176,21 +176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftv8stu1zwsjzvku972y2.png",
       "source": "Dev.to",
       "user": "Serhii Panchyshyn"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
@@ -744,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1465,
       "user": "QLHazyCoder"
     },
     {
@@ -774,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2756,
+      "stars": 2778,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -789,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 965,
       "user": "OpenMOSS"
     },
     {
@@ -804,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 715,
       "user": "whwangovo"
     },
     {
@@ -819,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "wh0amitz"
     }
   ],
@@ -1028,7 +1013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1465,
       "user": "QLHazyCoder"
     },
     {
@@ -1043,7 +1028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 453,
       "user": "andrewjiang"
     },
     {
@@ -1088,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "nesaminua"
     }
   ],
@@ -1107,21 +1092,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png",
       "source": "Dev.to",
       "user": "Neeraj Kansal"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -1342,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2756,
+      "stars": 2778,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1357,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 965,
       "user": "OpenMOSS"
     },
     {
@@ -1372,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 750,
       "user": "sterlingcrispin"
     },
     {
@@ -1387,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 715,
       "user": "whwangovo"
     },
     {
@@ -1402,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 590,
       "user": "patterniha"
     }
   ],
@@ -1436,21 +1406,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
       "source": "Dev.to",
       "user": "spac3gh0st"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Building for Production: A Guide to Deploying a 3-Tier App on Azure",
@@ -1767,6 +1722,21 @@
       "user": "spac3gh0st"
     },
     {
+      "title": "Mastering Error Handling in Go",
+      "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
+      "published_at": "2026-04-09T13:54:17Z",
+      "description": "Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...",
+      "tags": [
+        "go",
+        "programming",
+        "tutorial",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
+      "source": "Dev.to",
+      "user": "Aditya"
+    },
+    {
       "title": "Authorizer v2 Is Here: Self-Hosted Auth, Rebuilt From the Ground Up",
       "url": "https://dev.to/lakhansamani/authorizer-v2-is-here-self-hosted-auth-rebuilt-from-the-ground-up-184a",
       "published_at": "2026-04-01T12:41:18Z",
@@ -1835,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1465,
       "user": "QLHazyCoder"
     },
     {
@@ -1941,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1459,
+      "stars": 1465,
       "user": "QLHazyCoder"
     },
     {
@@ -1956,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 453,
       "user": "andrewjiang"
     },
     {
@@ -2001,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "nesaminua"
     },
     {
@@ -2016,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2756,
+      "stars": 2778,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2031,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 965,
       "user": "OpenMOSS"
     },
     {
@@ -2046,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 750,
       "user": "sterlingcrispin"
     },
     {
@@ -2061,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 715,
       "user": "whwangovo"
     },
     {
@@ -2076,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 590,
       "user": "patterniha"
     },
     {
@@ -2091,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "retlehs"
     },
     {
@@ -2106,14 +2076,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "wh0amitz"
     },
     {
-      "title": "Nyarime/NRUP - 🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS",
+      "title": "Nyarime/NRUP - 🥤 NRUP - A reliable encrypted UDP transport protocol built on DTLS",
       "url": "https://github.com/Nyarime/NRUP",
       "published_at": "2026-04-10T20:53:07Z",
-      "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on nDTLS",
+      "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on DTLS",
       "tags": [
         "go",
         "github",
