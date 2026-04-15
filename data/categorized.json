@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
+    {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
       "url": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
       "published_at": "2026-04-14T16:39:36Z",
@@ -16,18 +30,19 @@
       "user": "Bernabé Puente Moure"
     },
     {
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "published_at": "2026-04-14T20:15:22Z",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
+      "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
+      "published_at": "2026-04-15T00:49:38Z",
+      "description": "Regex-based safety classification fails in both directions. It flags \"the bank of the river\" as...",
       "tags": [
         "ai",
-        "llm",
-        "javascript"
+        "machinelearning",
+        "nlp",
+        "rag"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhicm9isu4mkpi9caeetu.png",
       "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
+      "user": "Radu C."
     },
     {
       "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
@@ -75,20 +90,6 @@
       "user": "drtobbyas"
     },
     {
-      "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
-      "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
-      "published_at": "2026-04-14T04:49:51Z",
-      "description": "The era of shipping all your personal data to cloud APIs just to turn down the thermostat or write a...",
-      "tags": [
-        "webdev",
-        "ai",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun5je0knwab01939fgjy.png",
-      "source": "Dev.to",
-      "user": "Deep Bartaria"
-    },
-    {
       "title": "We Had 6 Hours, a Dying API, and I'm Ran rm -rf. We Still Won. 🏆",
       "url": "https://dev.to/md8_habibullah/we-had-6-hours-a-dying-api-and-im-ran-rm-rf-we-still-won-gdf",
       "published_at": "2026-04-14T03:57:41Z",
@@ -102,6 +103,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folupffm6xsr92wndhxsg.jpg",
       "source": "Dev.to",
       "user": "MD. HABIBULLAH SHARIF"
+    },
+    {
+      "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
+      "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
+      "published_at": "2026-04-14T04:49:51Z",
+      "description": "The era of shipping all your personal data to cloud APIs just to turn down the thermostat or write a...",
+      "tags": [
+        "webdev",
+        "ai",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun5je0knwab01939fgjy.png",
+      "source": "Dev.to",
+      "user": "Deep Bartaria"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
@@ -310,21 +325,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "A Go + React monorepo starter with auth and multi-tenancy",
-      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
-      "published_at": "2026-04-09T17:15:51Z",
-      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
-      "tags": [
-        "go",
-        "react",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
-      "source": "Dev.to",
-      "user": "Calebe Aires"
     },
     {
       "title": "Multi-Agent Deployment with the Agent Development Kit(ADK), GKE, GKE MCP Server, and Gemini CLI",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1401,
       "user": "QLHazyCoder"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "V-IOLE-T"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2389,
+      "stars": 2549,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 801,
       "user": "OpenMOSS"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 693,
       "user": "whwangovo"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "wh0amitz"
     }
   ],
@@ -855,21 +855,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "A Go + React monorepo starter with auth and multi-tenancy",
-      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
-      "published_at": "2026-04-09T17:15:51Z",
-      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
-      "tags": [
-        "go",
-        "react",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
-      "source": "Dev.to",
-      "user": "Calebe Aires"
     },
     {
       "title": "How to Avoid Vulnerabilities in AI-Generated JavaScript and Node.js Projects",
@@ -1018,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1401,
       "user": "QLHazyCoder"
     },
     {
@@ -1033,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 376,
       "user": "andrewjiang"
     },
     {
@@ -1048,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "V-IOLE-T"
     },
     {
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "MangoLion"
     },
     {
@@ -1078,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54725?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "xsawyerx"
     }
   ],
@@ -1332,23 +1317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2389,
+      "stars": 2549,
       "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "sterlingcrispin"
     },
     {
       "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
@@ -1362,8 +1332,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 801,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published_at": "2026-04-12T18:26:00Z",
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
+      "source": "GitHub",
+      "stars": 713,
+      "user": "sterlingcrispin"
     },
     {
       "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
@@ -1377,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 693,
       "user": "whwangovo"
     },
     {
@@ -1392,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 560,
       "user": "patterniha"
     }
   ],
@@ -1840,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1401,
       "user": "QLHazyCoder"
     },
     {
@@ -1855,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "V-IOLE-T"
     }
   ],
@@ -1946,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1401,
       "user": "QLHazyCoder"
     },
     {
@@ -1961,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 376,
       "user": "andrewjiang"
     },
     {
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "V-IOLE-T"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "MangoLion"
     },
     {
@@ -2006,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54725?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "xsawyerx"
     },
     {
@@ -2021,23 +2006,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2389,
+      "stars": 2549,
       "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "sterlingcrispin"
     },
     {
       "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
@@ -2051,8 +2021,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 801,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published_at": "2026-04-12T18:26:00Z",
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
+      "source": "GitHub",
+      "stars": 713,
+      "user": "sterlingcrispin"
     },
     {
       "title": "whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
@@ -2066,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 693,
       "user": "whwangovo"
     },
     {
@@ -2081,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 560,
       "user": "patterniha"
     },
     {
@@ -2096,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 523,
       "user": "retlehs"
     },
     {
@@ -2111,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "wh0amitz"
     },
     {
@@ -2126,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "Nyarime"
     },
     {
@@ -2141,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1299?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "mitchellh"
     },
     {
@@ -2156,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 91,
       "user": "vavallee"
     }
   ]
