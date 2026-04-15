@@ -1335506,3 +1335506,539 @@ Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Ins
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-16 1:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (18 articles)
+
+#### 1. [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated)
+📅 Wed, 11 Mar 2026 19:29:29 GMT
+👤 By: usefulposter | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 2. [Airfoil](https://ciechanow.ski/airfoil/)
+📅 Tue, 27 Feb 2024 16:32:49 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 3. [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+📅 Tue, 23 Jul 2024 15:08:41 GMT
+👤 By: atgctg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 4. [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
+📅 Mon, 02 Jun 2025 21:09:53 GMT
+👤 By: tabletcorry | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 5. [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+📅 Thu, 12 Feb 2026 16:23:24 GMT
+👤 By: scottshambaugh | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 6. [Gemini AI](https://deepmind.google/technologies/gemini/)
+📅 Wed, 06 Dec 2023 15:03:47 GMT
+👤 By: dmotz | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 7. [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+📅 Tue, 24 Feb 2026 12:16:45 GMT
+👤 By: Qem | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 8. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 9. [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
+📅 Thu, 29 Aug 2024 01:28:01 GMT
+👤 By: ranebo | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 10. [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
+📅 Tue, 08 May 2018 17:51:44 GMT
+👤 By: ivank | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ JavaScript (15 articles)
+
+#### 1. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (15 articles)
+
+#### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 2. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+📅 Wed, 07 May 2025 17:32:26 GMT
+👤 By: arathore | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Python Is Eating the World](https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/)
+📅 Mon, 12 Aug 2019 03:00:14 GMT
+👤 By: gilad | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ WebDev (1 articles)
+
+#### 1. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Cloud (1 articles)
+
+#### 1. [xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero](https://github.com/xataio/xata)
+📅 Wed, 15 Apr 2026 08:49:42 GMT
+👤 By: xataio | 📌 Source: GitHub
+
+![xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero](https://avatars.githubusercontent.com/u/74420131?v=4)
+
+Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 293
+
+---
+
+### 🏷️ Database (1 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (3 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 2. [QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复](https://github.com/QLHazyCoder/codex-oauth-automation-extension)
+📅 Thu, 09 Apr 2026 03:23:02 GMT
+👤 By: QLHazyCoder | 📌 Source: GitHub
+
+![QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复](https://avatars.githubusercontent.com/u/109800873?v=4)
+
+Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,498
+
+---
+
+#### 3. [V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理](https://github.com/V-IOLE-T/hotmail-register-extension)
+📅 Sun, 12 Apr 2026 20:53:26 GMT
+👤 By: V-IOLE-T | 📌 Source: GitHub
+
+![V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理](https://avatars.githubusercontent.com/u/168922623?v=4)
+
+基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 284
+
+---
+
+### 🏷️ Tools (15 articles)
+
+#### 1. [QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复](https://github.com/QLHazyCoder/codex-oauth-automation-extension)
+📅 Thu, 09 Apr 2026 03:23:02 GMT
+👤 By: QLHazyCoder | 📌 Source: GitHub
+
+![QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复](https://avatars.githubusercontent.com/u/109800873?v=4)
+
+Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,498
+
+---
+
+#### 2. [andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.](https://github.com/andrewjiang/palantir-for-family-trips)
+📅 Mon, 13 Apr 2026 07:45:24 GMT
+👤 By: andrewjiang | 📌 Source: GitHub
+
+![andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.](https://avatars.githubusercontent.com/u/906752?v=4)
+
+A Palantir-ish dashboard for family trip planning.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 470
+
+---
+
+#### 3. [V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理](https://github.com/V-IOLE-T/hotmail-register-extension)
+📅 Sun, 12 Apr 2026 20:53:26 GMT
+👤 By: V-IOLE-T | 📌 Source: GitHub
+
+![V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理](https://avatars.githubusercontent.com/u/168922623?v=4)
+
+基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 284
+
+---
+
+#### 4. [Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.](https://github.com/Manavarya09/design-extract)
+📅 Wed, 15 Apr 2026 10:11:22 GMT
+👤 By: Manavarya09 | 📌 Source: GitHub
+
+![Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.](https://avatars.githubusercontent.com/u/144777973?v=4)
+
+Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 272
+
+---
+
+#### 5. [MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters](https://github.com/MangoLion/stretchystudio)
+📅 Sun, 12 Apr 2026 15:51:53 GMT
+👤 By: MangoLion | 📌 Source: GitHub
+
+![MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters](https://avatars.githubusercontent.com/u/9015144?v=4)
+
+FOSS 2D animation tool for turning static illustrations into mesh-deformable characters
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 199
+
+---
+
+#### 6. [yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
+📅 Fri, 10 Apr 2026 15:07:10 GMT
+👤 By: yizhiyanhua-ai | 📌 Source: GitHub
+
+![yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.](https://avatars.githubusercontent.com/u/251871046?v=4)
+
+Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 2,943
+
+---
+
+#### 7. [OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.](https://github.com/OpenMOSS/MOSS-TTS-Nano)
+📅 Fri, 10 Apr 2026 16:25:07 GMT
+👤 By: OpenMOSS | 📌 Source: GitHub
+
+![OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.](https://avatars.githubusercontent.com/u/156300419?v=4)
+
+MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 1,018
+
+---
+
+#### 8. [sterlingcrispin/nothing-ever-happens - Polymarket bot that buys "No" on all non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+📅 Sun, 12 Apr 2026 18:26:00 GMT
+👤 By: sterlingcrispin | 📌 Source: GitHub
+
+![sterlingcrispin/nothing-ever-happens - Polymarket bot that buys "No" on all non-sports markets](https://avatars.githubusercontent.com/u/2976761?v=4)
+
+Polymarket bot that buys "No" on all non-sports markets
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 770
+
+---
+
+#### 9. [whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.](https://github.com/whwangovo/pyre-code)
+📅 Thu, 09 Apr 2026 06:02:53 GMT
+👤 By: whwangovo | 📌 Source: GitHub
+
+![whwangovo/pyre-code - A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.](https://avatars.githubusercontent.com/u/79965746?v=4)
+
+A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 723
+
+---
+
+#### 10. [patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation](https://github.com/patterniha/SNI-Spoofing)
+📅 Sun, 12 Apr 2026 10:47:30 GMT
+👤 By: patterniha | 📌 Source: GitHub
+
+![patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation](https://avatars.githubusercontent.com/u/71074308?v=4)
+
+Bypass DPI with IP/TCP-Header manipulation
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 603
+
+---
+
