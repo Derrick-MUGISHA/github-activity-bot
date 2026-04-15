@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-15 21:00 CAT)
+## 📅 Latest Updates (2026-04-15 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
 - [I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944) _[Dev.to]_
 
-_Last automated update: Wed, 15 Apr 2026 21:42:24 CAT_
+_Last automated update: Wed, 15 Apr 2026 22:29:12 CAT_
 
 
 
@@ -220,7 +220,18 @@ _Last automated update: Wed, 15 Apr 2026 21:42:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Java: What is the difference between abstract class and interface?
+
+**Difficulty**: Easy | **Topics**: OOP, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Multiple inheritance, method implementation, use cases
+
+</details>
+
+### 2. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -231,25 +242,14 @@ Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: events, DOM
-
-<details>
-<summary>💡 Hint</summary>
-
-Event bubbling, single listener for multiple elements
-
-</details>
-
-### 3. React: Explain the difference between state and props
-
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 15 Apr 2026 19:42:24 GMT</b><br/>
+  <b>Last automated update: Wed, 15 Apr 2026 20:29:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
