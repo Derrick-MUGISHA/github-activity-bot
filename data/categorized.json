@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "published_at": "2026-04-14T20:15:22Z",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
-      "tags": [
-        "ai",
-        "llm",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
-      "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
-    },
-    {
       "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
       "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
       "published_at": "2026-04-15T00:49:38Z",
@@ -73,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
     },
     {
       "title": "FastAPI Async+Pytest, Event Loop Trap",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1449,
       "user": "QLHazyCoder"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "V-IOLE-T"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2691,
+      "stars": 2726,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 918,
       "user": "OpenMOSS"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "whwangovo"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "wh0amitz"
     }
   ],
@@ -1033,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1449,
       "user": "QLHazyCoder"
     },
     {
@@ -1048,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 424,
       "user": "andrewjiang"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "V-IOLE-T"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 168,
       "user": "nesaminua"
     }
   ],
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2691,
+      "stars": 2726,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 918,
       "user": "OpenMOSS"
     },
     {
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "sterlingcrispin"
     },
     {
@@ -1392,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "whwangovo"
     },
     {
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "patterniha"
     }
   ],
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1449,
       "user": "QLHazyCoder"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "V-IOLE-T"
     }
   ],
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109800873?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1449,
       "user": "QLHazyCoder"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 424,
       "user": "andrewjiang"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "V-IOLE-T"
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 168,
       "user": "nesaminua"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 2691,
+      "stars": 2726,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2051,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 918,
       "user": "OpenMOSS"
     },
     {
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "sterlingcrispin"
     },
     {
@@ -2081,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79965746?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "whwangovo"
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "patterniha"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 531,
       "user": "retlehs"
     },
     {
@@ -2126,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "wh0amitz"
     },
     {
