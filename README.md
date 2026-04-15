@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-15-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (54.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦 15 (15.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (13.0%)
+**Cloud**: 🟦🟦🟦🟦 13 (12.4%)
 
-**Security**: 🟦🟦🟦 9 (9.0%)
+**Security**: 🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 5 (5.0%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦 2 (2.0%)
+**WebDev**: 🟦 2 (1.9%)
 
-**Database**: 🟦 2 (2.0%)
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -52,17 +52,17 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 10 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.9 (29.9%)
-Java            ███████████████████████ 23.0 (23.0%)
-JavaScript      ██████████████████████ 21.8 (21.8%)
-Python          █████████████████████ 20.7 (20.7%)
-Rust            ██ 2.3 (2.3%)
+Go              ██████████████████████████████ 29.5 (29.5%)
+Python          █████████████████████████ 24.2 (24.2%)
+JavaScript      █████████████████████ 21.1 (21.1%)
+Java            █████████████████████ 21.1 (21.1%)
+Rust            ██ 2.1 (2.1%)
 Ruby            █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -70,10 +70,10 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
+    "Go" : 28
+    "Python" : 23
+    "JavaScript" : 20
     "Java" : 20
-    "JavaScript" : 19
-    "Python" : 18
     "Rust" : 2
     "Ruby" : 1
     "PHP" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![github](https://img.shields.io/badge/github-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![showdev](https://img.shields.io/badge/showdev-5-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![python](https://img.shields.io/badge/python-13-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googleadk](https://img.shields.io/badge/googleadk-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![llm](https://img.shields.io/badge/llm-4-blue) ![machinelearning](https://img.shields.io/badge/machinelearning-4-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-15 7:00 CAT)
+## 📅 Latest Updates (2026-04-15 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,10 +149,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png" width="200" alt="How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)" />
+    <a href="https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhicm9isu4mkpi9caeetu.png" width="200" alt="Your AI Memory System Can't Tell a River Bank from a Savings Account" />
       <br/>
-      <b>How I Built an Autonomous Dataset Generator with C...</b>
+      <b>Your AI Memory System Can't Tell a River Bank from...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -160,10 +160,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhicm9isu4mkpi9caeetu.png" width="200" alt="Your AI Memory System Can't Tell a River Bank from a Savings Account" />
+    <a href="https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png" width="200" alt="How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)" />
       <br/>
-      <b>Your AI Memory System Can't Tell a River Bank from...</b>
+      <b>How I Built an Autonomous Dataset Generator with C...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,11 +195,10 @@ npm run test
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) _[Dev.to]_
 - [Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop) _[Dev.to]_
-- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280) _[Dev.to]_
 - [Your AI Memory System Can't Tell a River Bank from a Savings Account](https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j) _[Dev.to]_
+- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280) _[Dev.to]_
 - [What Karpathy's LLM Wiki Is Missing (And How to Fix It)](https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o) _[Dev.to]_
-- [We Had 6 Hours, a Dying API, and I'm Ran rm -rf. We Still Won. 🏆](https://dev.to/md8_habibullah/we-had-6-hours-a-dying-api-and-im-ran-rm-rf-we-still-won-gdf) _[Dev.to]_
 - [Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖](https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h) _[Dev.to]_
 - [FastAPI Async+Pytest, Event Loop Trap](https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c) _[Dev.to]_
@@ -213,8 +212,9 @@ npm run test
 - [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0) _[Dev.to]_
 - [Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f) _[Dev.to]_
 - [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a) _[Dev.to]_
+- [I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944) _[Dev.to]_
 
-_Last automated update: Wed, 15 Apr 2026 07:50:02 CAT_
+_Last automated update: Wed, 15 Apr 2026 09:26:22 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 15 Apr 2026 07:50:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Execution timing, event loop phases
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 15 Apr 2026 05:50:02 GMT</b><br/>
+  <b>Last automated update: Wed, 15 Apr 2026 07:26:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
