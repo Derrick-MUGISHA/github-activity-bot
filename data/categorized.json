@@ -75,19 +75,19 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "TPU Mythbusting: the general perception",
-      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
-      "published_at": "2026-04-16T18:50:29Z",
-      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
+      "published_at": "2026-04-16T18:13:14Z",
+      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
       "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
+        "miniscript",
+        "minimicro",
+        "agents",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
       "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
+      "user": "JoeStrout"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -103,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
+    },
+    {
+      "title": "TPU Mythbusting: the general perception",
+      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
+      "published_at": "2026-04-16T18:50:29Z",
+      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
@@ -610,20 +625,6 @@
       "user": "xbill"
     },
     {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -782,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "bergside"
     },
     {
@@ -797,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3322,
+      "stars": 3328,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -812,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1218,
       "user": "OpenMOSS"
     },
     {
@@ -827,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "retlehs"
     },
     {
@@ -842,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 473,
       "user": "xataio"
     },
     {
@@ -1111,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 639,
       "user": "Manavarya09"
     },
     {
@@ -1126,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "andrewjiang"
     },
     {
@@ -1156,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "bergside"
     },
     {
@@ -1368,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3322,
+      "stars": 3328,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1383,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1218,
       "user": "OpenMOSS"
     },
     {
@@ -1398,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "sterlingcrispin"
     },
     {
@@ -1413,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 734,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1428,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "AMAP-ML"
     }
   ],
@@ -1878,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 473,
       "user": "xataio"
     }
   ],
@@ -2206,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 639,
       "user": "Manavarya09"
     },
     {
@@ -2221,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "andrewjiang"
     },
     {
@@ -2251,7 +2252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "bergside"
     },
     {
@@ -2281,7 +2282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3322,
+      "stars": 3328,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2296,7 +2297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1218,
       "user": "OpenMOSS"
     },
     {
@@ -2311,7 +2312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "sterlingcrispin"
     },
     {
@@ -2326,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 734,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2341,7 +2342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "AMAP-ML"
     },
     {
@@ -2356,7 +2357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "retlehs"
     },
     {
@@ -2371,7 +2372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 473,
       "user": "xataio"
     },
     {
