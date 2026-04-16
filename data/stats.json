@@ -1,28 +1,43 @@
 {
-  "total": 45,
+  "total": 105,
   "by_source": {
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 18,
-    "JavaScript": 15,
-    "Python": 15,
-    "DevOps": 0,
-    "WebDev": 1,
-    "Mobile": 0,
-    "Cloud": 1,
-    "Database": 1,
-    "Security": 3,
-    "Tools": 15
+    "AI": 57,
+    "JavaScript": 24,
+    "Python": 20,
+    "DevOps": 4,
+    "WebDev": 5,
+    "Mobile": 1,
+    "Cloud": 17,
+    "Database": 4,
+    "Security": 7,
+    "Tools": 26
   },
   "by_language": {
-    "Go": 9,
-    "JavaScript": 15,
-    "Java": 15,
-    "Python": 15
+    "Go": 29,
+    "Rust": 3,
+    "Python": 20,
+    "JavaScript": 24,
+    "Swift": 1,
+    "Java": 20,
+    "Ruby": 1
   },
   "by_date": {
+    "2026-04-15": 16,
+    "2026-04-14": 18,
+    "2026-04-13": 15,
+    "2026-04-08": 1,
+    "2026-04-09": 4,
+    "2026-04-10": 9,
+    "2026-04-07": 1,
+    "2026-04-06": 1,
+    "2026-04-11": 3,
+    "2026-04-12": 5,
+    "2026-04-04": 2,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -51,29 +66,38 @@
     "2021-08-25": 1,
     "2017-11-27": 1,
     "2025-05-07": 1,
-    "2019-08-12": 1,
-    "2026-04-09": 2,
-    "2026-04-13": 1,
-    "2026-04-12": 4,
-    "2026-04-15": 2,
-    "2026-04-10": 4,
-    "2026-04-11": 2
+    "2019-08-12": 1
   },
   "top_tags": {
-    "github": 15,
+    "ai": 27,
+    "github": 16,
     "open-source": 15,
+    "gemini": 11,
+    "python": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "javascript": 5,
-    "python": 5,
-    "go": 5
+    "webdev": 9,
+    "go": 9,
+    "programming": 9,
+    "javascript": 9,
+    "opensource": 7,
+    "googleadk": 6,
+    "productivity": 5,
+    "aws": 5,
+    "tutorial": 5,
+    "showdev": 5,
+    "llm": 4,
+    "machinelearning": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "16.7",
-    "JavaScript": "27.8",
-    "Java": "27.8",
-    "Python": "27.8"
+    "Go": "29.6",
+    "Rust": "3.1",
+    "Python": "20.4",
+    "JavaScript": "24.5",
+    "Swift": "1.0",
+    "Java": "20.4",
+    "Ruby": "1.0"
   }
 }
