@@ -1345358,3 +1345358,839 @@ You know that feeling when the thought in your head is simple and clear — "go 
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-16 22:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (60 articles)
+
+#### 1. [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682)
+📅 Thu, 16 Apr 2026 15:38:54 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join the OpenClaw Challenge: $1,200 Prize Pool!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png)
+
+If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...
+
+🏷️ Tags: `devchallenge`, `openclawchallenge`, `openclaw`, `ai`
+
+---
+
+#### 2. [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5)
+📅 Thu, 16 Apr 2026 15:03:04 GMT
+👤 By: Thor 雷神 Schaeff | 📌 Source: Dev.to
+
+![Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png)
+
+What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...
+
+🏷️ Tags: `ai`, `gemini`, `python`, `tutorial`
+
+---
+
+#### 3. [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak)
+📅 Thu, 16 Apr 2026 13:50:47 GMT
+👤 By: Jono Herrington | 📌 Source: Dev.to
+
+![AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png)
+
+"Weak engineers with AI still produce weak output. Just faster." That was the whole point. AI changes...
+
+🏷️ Tags: `ai`, `leadership`, `discuss`
+
+---
+
+#### 4. [Architecture Documentation as a First-Class Engineering Asset](https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j)
+📅 Thu, 16 Apr 2026 09:49:24 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![Architecture Documentation as a First-Class Engineering Asset](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png)
+
+How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...
+
+🏷️ Tags: `architecture`, `security`, `ai`, `agents`
+
+---
+
+#### 5. [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch)
+📅 Thu, 16 Apr 2026 18:54:26 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![TPU Mythbusting: cost and usage](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp)
+
+TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...
+
+🏷️ Tags: `ai`, `googlecloud`, `kaggle`, `tpu`
+
+---
+
+#### 6. [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585)
+📅 Thu, 16 Apr 2026 18:50:29 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![TPU Mythbusting: the general perception](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp)
+
+The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...
+
+🏷️ Tags: `ai`, `googlecloud`, `kaggle`, `tpu`
+
+---
+
+#### 7. [How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9)
+📅 Wed, 15 Apr 2026 14:41:03 GMT
+👤 By: tworrell | 📌 Source: Dev.to
+
+![How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png)
+
+Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...
+
+🏷️ Tags: `ai`, `productivity`, `webdev`, `showdev`
+
+---
+
+#### 8. [Building Serverless APIs with TDD and AI-Powered Spec Generation](https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36)
+📅 Thu, 16 Apr 2026 14:44:03 GMT
+👤 By: Salih Guler  | 📌 Source: Dev.to
+
+![Building Serverless APIs with TDD and AI-Powered Spec Generation](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg)
+
+Test-Driven Development has been around for decades, but most teams still struggle to adopt it...
+
+🏷️ Tags: `tdd`, `spec`, `serverless`, `aidlc`
+
+---
+
+#### 9. [Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg)
+📅 Thu, 16 Apr 2026 13:12:53 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `gemini`, `a2aprotocol`, `amazonlightsail`, `multiagentsystems`
+
+---
+
+#### 10. [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd)
+📅 Thu, 16 Apr 2026 13:11:52 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `multiagentsystems`, `gemini`, `a2aprotocol`, `awsfargate`
+
+---
+
+### 🏷️ JavaScript (23 articles)
+
+#### 1. [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj)
+📅 Thu, 16 Apr 2026 13:16:31 GMT
+👤 By: Marko Smiljanic | 📌 Source: Dev.to
+
+![Beyond Marker Clustering](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08t55ut0ocyw4gpfyekg.png)
+
+Learn about a better way to manage thousands of map markers by using priority-based ranking instead of traditional clustering.
+
+🏷️ Tags: `webdev`, `javascript`, `maps`, `performance`
+
+---
+
+#### 2. [Creating a Vertical Area Chart with JavaScript: 80+ Years of U.S. Presidential Approval Data](https://dev.to/anychart/creating-a-vertical-area-chart-with-javascript-80-years-of-us-presidential-approval-data-ei5)
+📅 Wed, 15 Apr 2026 19:12:50 GMT
+👤 By: andreykh | 📌 Source: Dev.to
+
+![Creating a Vertical Area Chart with JavaScript: 80+ Years of U.S. Presidential Approval Data](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8mu7lb0mp3hjkxbwnnu.png)
+
+Traditionally, charts that visualize data over time are horizontal. But sometimes a vertical layout...
+
+🏷️ Tags: `javascript`, `datascience`, `webdev`, `tutorial`
+
+---
+
+#### 3. [Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop)
+📅 Tue, 14 Apr 2026 20:15:22 GMT
+👤 By: Serhii Panchyshyn | 📌 Source: Dev.to
+
+![Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png)
+
+I've been building AI agents in production for the past two years. Not demos. Not weekend projects....
+
+🏷️ Tags: `ai`, `llm`, `javascript`
+
+---
+
+#### 4. [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8)
+📅 Thu, 09 Apr 2026 21:07:21 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![You’re a Real Software Developer Only If…](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png)
+
+Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...
+
+🏷️ Tags: `jokes`, `devlive`
+
+---
+
+#### 5. [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
+📅 Thu, 09 Apr 2026 17:15:51 GMT
+👤 By: Calebe Aires | 📌 Source: Dev.to
+
+![A Go + React monorepo starter with auth and multi-tenancy](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png)
+
+A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.
+
+🏷️ Tags: `go`, `react`, `webdev`, `opensource`
+
+---
+
+#### 6. [How Claude Code Uses React in the Terminal](https://dev.to/vilvaathibanpb/how-claude-code-uses-react-in-the-terminal-2f3b)
+📅 Wed, 15 Apr 2026 04:01:01 GMT
+👤 By: Vilva Athiban P B | 📌 Source: Dev.to
+
+![How Claude Code Uses React in the Terminal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabgpd8d7ucmwj3n92fqb.png)
+
+React handles reconciliation. A custom renderer handles layout, screen buffers, diffing, and high-FPS...
+
+🏷️ Tags: `ai`, `claude`, `react`, `programming`
+
+---
+
+#### 7. [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m)
+📅 Thu, 09 Apr 2026 01:19:42 GMT
+👤 By: Sofiane Hamlaoui | 📌 Source: Dev.to
+
+![EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png)
+
+Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...
+
+🏷️ Tags: `sofianehamlaoui`, `aws`, `tutorial`, `programming`
+
+---
+
+#### 8. [You Don’t Always Need React — Sometimes You Just Need Structure](https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j)
+📅 Mon, 13 Apr 2026 16:51:07 GMT
+👤 By: Volker Schukai | 📌 Source: Dev.to
+
+![You Don’t Always Need React — Sometimes You Just Need Structure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png)
+
+A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.
+
+🏷️ Tags: `javascript`, `webdev`, `opensource`, `webcomponents`
+
+---
+
+#### 9. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (19 articles)
+
+#### 1. [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5)
+📅 Thu, 16 Apr 2026 15:03:04 GMT
+👤 By: Thor 雷神 Schaeff | 📌 Source: Dev.to
+
+![Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png)
+
+What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...
+
+🏷️ Tags: `ai`, `gemini`, `python`, `tutorial`
+
+---
+
+#### 2. [Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10)
+📅 Fri, 10 Apr 2026 12:56:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...
+
+🏷️ Tags: `gemini`, `googleadk`, `python`, `aws`
+
+---
+
+#### 3. [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me)
+📅 Fri, 10 Apr 2026 12:54:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...
+
+🏷️ Tags: `google`, `gemini`, `ecsexpress`, `python`
+
+---
+
+#### 4. [FastAPI Async+Pytest, Event Loop Trap](https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c)
+📅 Tue, 14 Apr 2026 14:18:21 GMT
+👤 By: Neeraj Kansal | 📌 Source: Dev.to
+
+![FastAPI Async+Pytest, Event Loop Trap](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png)
+
+Async FastAPI tests fail with different loop errors due to connection pool behavior. Here is what actually works.
+
+🏷️ Tags: `python`, `fastapi`, `pytest`, `asyncio`
+
+---
+
+#### 5. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (3 articles)
+
+#### 1. [Steer GitHub Copilot CLI Sessions Remotely from Any Device](https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee)
+📅 Wed, 15 Apr 2026 14:27:00 GMT
+👤 By: Marcel.L | 📌 Source: Dev.to
+
+![Steer GitHub Copilot CLI Sessions Remotely from Any Device](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png)
+
+Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.
+
+🏷️ Tags: `githubcopilot`, `ai`, `tutorial`, `devops`
+
+---
+
+#### 2. [I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944)
+📅 Mon, 13 Apr 2026 23:02:25 GMT
+👤 By: spac3gh0st | 📌 Source: Dev.to
+
+![I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png)
+
+How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...
+
+🏷️ Tags: `security`, `ai`, `docker`, `bugbounty`
+
+---
+
+#### 3. [They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee)
+📅 Tue, 14 Apr 2026 13:08:46 GMT
+👤 By: drtobbyas | 📌 Source: Dev.to
+
+![They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg)
+
+After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.
+
+🏷️ Tags: `kubernetes`, `opensource`, `devops`, `coolify`
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk)
+📅 Wed, 15 Apr 2026 08:26:53 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png)
+
+Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...
+
+🏷️ Tags: `ai`, `rag`, `vectordatabase`, `programming`
+
+---
+
+#### 2. [Partial Password Authentication](https://dev.to/muhamadhhassan/partial-password-authentication-34j4)
+📅 Tue, 14 Apr 2026 21:23:40 GMT
+👤 By: Muhammad Hassan | 📌 Source: Dev.to
+
+![Partial Password Authentication](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png)
+
+Recently, I switched to another bank, and after setting up the online banking credentials and trying...
+
+🏷️ Tags: `security`, `backend`
+
+---
+
+#### 3. [You Don’t Always Need React — Sometimes You Just Need Structure](https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j)
+📅 Mon, 13 Apr 2026 16:51:07 GMT
+👤 By: Volker Schukai | 📌 Source: Dev.to
+
+![You Don’t Always Need React — Sometimes You Just Need Structure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png)
+
+A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.
+
+🏷️ Tags: `javascript`, `webdev`, `opensource`, `webcomponents`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40)
+📅 Thu, 16 Apr 2026 11:53:47 GMT
+👤 By: Massimo Moffa | 📌 Source: Dev.to
+
+![Android desktop mode: features, device support, and the OLED screen burn-in problem](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png)
+
+A true "PC in your pocket" closer to reality
+
+🏷️ Tags: `android`, `google`, `mobile`, `productivity`
+
+---
+
+#### 2. [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd)
+📅 Thu, 16 Apr 2026 03:07:52 GMT
+👤 By: Daksh Gargas | 📌 Source: Dev.to
+
+![Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png)
+
+500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...
+
+🏷️ Tags: `ios`, `swiftui`, `testing`, `cicd`
+
+---
+
+#### 3. [Stop Building AI Features Nobody Asked For](https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa)
+📅 Wed, 15 Apr 2026 08:40:03 GMT
+👤 By: Peter Strauss | 📌 Source: Dev.to
+
+![Stop Building AI Features Nobody Asked For](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8y7mnpkxffhpaq6k21x.png)
+
+In an era where AI makes prototyping dangerously fast, this piece serves as a wake-up call for builders to stop "polishing curiosity" and start solving actual pain.
+
+🏷️ Tags: `ai`, `softwaredevelopment`, `startup`
+
+---
+
+### 🏷️ Cloud (20 articles)
+
+#### 1. [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch)
+📅 Thu, 16 Apr 2026 18:54:26 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![TPU Mythbusting: cost and usage](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp)
+
+TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...
+
+🏷️ Tags: `ai`, `googlecloud`, `kaggle`, `tpu`
+
+---
+
+#### 2. [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585)
+📅 Thu, 16 Apr 2026 18:50:29 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![TPU Mythbusting: the general perception](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp)
+
+The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...
+
+🏷️ Tags: `ai`, `googlecloud`, `kaggle`, `tpu`
+
+---
+
+#### 3. [Building Serverless APIs with TDD and AI-Powered Spec Generation](https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36)
+📅 Thu, 16 Apr 2026 14:44:03 GMT
+👤 By: Salih Guler  | 📌 Source: Dev.to
+
+![Building Serverless APIs with TDD and AI-Powered Spec Generation](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg)
+
+Test-Driven Development has been around for decades, but most teams still struggle to adopt it...
+
+🏷️ Tags: `tdd`, `spec`, `serverless`, `aidlc`
+
+---
+
+#### 4. [Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg)
+📅 Thu, 16 Apr 2026 13:12:53 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `gemini`, `a2aprotocol`, `amazonlightsail`, `multiagentsystems`
+
+---
+
+#### 5. [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd)
+📅 Thu, 16 Apr 2026 13:11:52 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `multiagentsystems`, `gemini`, `a2aprotocol`, `awsfargate`
+
+---
+
+#### 6. [Local AI Will Save Us All (The Math Says So, Trust Me)](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22)
+📅 Wed, 15 Apr 2026 14:05:13 GMT
+👤 By: Sebastian Schürmann | 📌 Source: Dev.to
+
+![Local AI Will Save Us All (The Math Says So, Trust Me)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png)
+
+Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...
+
+🏷️ Tags: `ai`, `mba`, `operations`
+
+---
+
+#### 7. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o)
+📅 Mon, 13 Apr 2026 20:09:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `ak`, `googleadk`, `gemini`, `a2a`
+
+---
+
+#### 8. [Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f)
+📅 Tue, 14 Apr 2026 06:43:29 GMT
+👤 By: Channy Yun | 📌 Source: Dev.to
+
+![Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9en7vcktkug7rdj7rf6u.jpg)
+
+Since introducing OpenClaw on Amazon Lightsail on March 4, 2026, customers ranging from individual...
+
+🏷️ Tags: `openclaw`, `aws`, `ai`
+
+---
+
+#### 9. [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a)
+📅 Wed, 08 Apr 2026 13:15:23 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googlecloudplatform`, `adk`, `gemini`, `azure`
+
+---
+
+#### 10. [Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1](https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5)
+📅 Tue, 14 Apr 2026 21:55:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `gemini`, `geminilive`, `azureaks`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk)
+📅 Wed, 15 Apr 2026 08:26:53 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png)
+
+Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...
+
+🏷️ Tags: `ai`, `rag`, `vectordatabase`, `programming`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (7 articles)
+
+#### 1. [Architecture Documentation as a First-Class Engineering Asset](https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j)
+📅 Thu, 16 Apr 2026 09:49:24 GMT
+👤 By: Alexander Tyutin | 📌 Source: Dev.to
+
+![Architecture Documentation as a First-Class Engineering Asset](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png)
+
+How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...
+
+🏷️ Tags: `architecture`, `security`, `ai`, `agents`
+
+---
+
+#### 2. [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53)
+📅 Tue, 14 Apr 2026 12:33:03 GMT
+👤 By: Hugo | DevOps | Cybersecurity | 📌 Source: Dev.to
+
+![Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tjygbchauxkay6tnecv.png)
+
+Let me introduce you to Schrödinger's Backup: the condition of your corporate data is simultaneously...
+
+🏷️ Tags: `cybersecurity`, `disasterrecovery`, `backups`, `ransomware`
+
+---
+
+#### 3. [I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944)
+📅 Mon, 13 Apr 2026 23:02:25 GMT
+👤 By: spac3gh0st | 📌 Source: Dev.to
+
+![I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png)
+
+How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...
+
+🏷️ Tags: `security`, `ai`, `docker`, `bugbounty`
+
+---
+
+#### 4. [Partial Password Authentication](https://dev.to/muhamadhhassan/partial-password-authentication-34j4)
+📅 Tue, 14 Apr 2026 21:23:40 GMT
+👤 By: Muhammad Hassan | 📌 Source: Dev.to
+
+![Partial Password Authentication](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png)
+
+Recently, I switched to another bank, and after setting up the online banking credentials and trying...
+
+🏷️ Tags: `security`, `backend`
+
+---
+
+#### 5. [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g)
+📅 Thu, 09 Apr 2026 13:54:17 GMT
+👤 By: Aditya | 📌 Source: Dev.to
+
+![Mastering Error Handling in Go](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png)
+
+Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...
+
+🏷️ Tags: `go`, `programming`, `tutorial`, `security`
+
+---
+
+#### 6. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 7. [V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理](https://github.com/V-IOLE-T/hotmail-register-extension)
+📅 Sun, 12 Apr 2026 20:53:26 GMT
+👤 By: V-IOLE-T | 📌 Source: GitHub
+
+![V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理](https://avatars.githubusercontent.com/u/168922623?v=4)
+
+基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 291
+
+---
+
+### 🏷️ Tools (27 articles)
+
+#### 1. [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40)
+📅 Thu, 16 Apr 2026 11:53:47 GMT
+👤 By: Massimo Moffa | 📌 Source: Dev.to
+
+![Android desktop mode: features, device support, and the OLED screen burn-in problem](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png)
+
+A true "PC in your pocket" closer to reality
+
+🏷️ Tags: `android`, `google`, `mobile`, `productivity`
+
+---
+
+#### 2. [How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9)
+📅 Wed, 15 Apr 2026 14:41:03 GMT
+👤 By: tworrell | 📌 Source: Dev.to
+
+![How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png)
+
+Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...
+
+🏷️ Tags: `ai`, `productivity`, `webdev`, `showdev`
+
+---
+
+#### 3. [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd)
+📅 Thu, 16 Apr 2026 03:07:52 GMT
+👤 By: Daksh Gargas | 📌 Source: Dev.to
+
+![Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png)
+
+500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...
+
+🏷️ Tags: `ios`, `swiftui`, `testing`, `cicd`
+
+---
+
+#### 4. [Playwright in Pictures: Fully Parallel Mode](https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj)
+📅 Wed, 15 Apr 2026 13:01:43 GMT
+👤 By: Vitaliy Potapov | 📌 Source: Dev.to
+
+![Playwright in Pictures: Fully Parallel Mode](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png)
+
+Playwright’s fullyParallel mode is often treated as a simple performance switch. In practice, it...
+
+🏷️ Tags: `playwright`, `testing`, `webdev`, `automation`
+
+---
+
+#### 5. [How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca)
+📅 Wed, 15 Apr 2026 14:41:03 GMT
+👤 By: tworrell | 📌 Source: Dev.to
+
+![How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png)
+
+Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...
+
+🏷️ Tags: `ai`, `gemini`, `productivity`, `showdev`
+
+---
+
+#### 6. [Steer GitHub Copilot CLI Sessions Remotely from Any Device](https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee)
+📅 Wed, 15 Apr 2026 14:27:00 GMT
+👤 By: Marcel.L | 📌 Source: Dev.to
+
+![Steer GitHub Copilot CLI Sessions Remotely from Any Device](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png)
+
+Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.
+
+🏷️ Tags: `githubcopilot`, `ai`, `tutorial`, `devops`
+
+---
+
+#### 7. [Lost in the AI Hype, I Started Small](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72)
+📅 Wed, 15 Apr 2026 14:32:01 GMT
+👤 By: Rohini Gaonkar | 📌 Source: Dev.to
+
+![Lost in the AI Hype, I Started Small](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png)
+
+And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...
+
+🏷️ Tags: `ai`, `beginners`, `productivity`, `aws`
+
+---
+
+#### 8. [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf)
+📅 Mon, 13 Apr 2026 17:45:50 GMT
+👤 By: Nishkarsh Pandey | 📌 Source: Dev.to
+
+![🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv24yzil9debblnc9g6qk.png)
+
+Imagine this:  You land in Rio at 11PM, solo, tired, and slightly paranoid.  Instead of opening 10...
+
+🏷️ Tags: `webdev`, `ai`, `programming`, `productivity`
+
+---
+
+#### 9. [Building a Replay-Tested Interactive Brokers Client in Go](https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i)
+📅 Wed, 15 Apr 2026 11:35:19 GMT
+👤 By: Thomas Marcelis | 📌 Source: Dev.to
+
+![Building a Replay-Tested Interactive Brokers Client in Go](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsflyo6oc49h76o3lsg.png)
+
+I wanted an IBKR library that felt like Go and had testing I could trust. So I wrote one.
+
+🏷️ Tags: `go`, `testing`, `ibkr`, `opensource`
+
+---
+
+#### 10. [Shik — I finally feel joy writing scripts](https://dev.to/pungy/shik-i-finally-feel-joy-writing-scripts-5b2e)
+📅 Wed, 15 Apr 2026 09:16:34 GMT
+👤 By: Maksim Iakovlev | 📌 Source: Dev.to
+
+![Shik — I finally feel joy writing scripts](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08ojevjv6ktygahpcm0r.png)
+
+You know that feeling when the thought in your head is simple and clear — "go through files, find the...
+
+🏷️ Tags: `programming`, `showdev`, `tooling`, `opensource`
+
+---
+

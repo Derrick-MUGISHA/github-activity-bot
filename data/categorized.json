@@ -60,21 +60,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "TPU Mythbusting: the general perception",
-      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
-      "published_at": "2026-04-16T18:50:29Z",
-      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "TPU Mythbusting: cost and usage",
       "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
       "published_at": "2026-04-16T18:54:26Z",
@@ -86,6 +71,21 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
+    },
+    {
+      "title": "TPU Mythbusting: the general perception",
+      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
+      "published_at": "2026-04-16T18:50:29Z",
+      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
     },
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "bergside"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3312,
+      "stars": 3322,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1216,
       "user": "OpenMOSS"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 469,
       "user": "xataio"
     },
     {
@@ -857,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "wh0amitz"
     }
   ],
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 632,
       "user": "Manavarya09"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "andrewjiang"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "bergside"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "MangoLion"
     }
   ],
@@ -1368,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3312,
+      "stars": 3322,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1383,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1216,
       "user": "OpenMOSS"
     },
     {
@@ -1398,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 795,
       "user": "sterlingcrispin"
     },
     {
@@ -1413,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 730,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1584,21 +1584,6 @@
   ],
   "Cloud": [
     {
-      "title": "TPU Mythbusting: the general perception",
-      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
-      "published_at": "2026-04-16T18:50:29Z",
-      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "TPU Mythbusting: cost and usage",
       "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
       "published_at": "2026-04-16T18:54:26Z",
@@ -1610,6 +1595,21 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
+    },
+    {
+      "title": "TPU Mythbusting: the general perception",
+      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
+      "published_at": "2026-04-16T18:50:29Z",
+      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
     },
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 469,
       "user": "xataio"
     }
   ],
@@ -2206,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 632,
       "user": "Manavarya09"
     },
     {
@@ -2221,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "andrewjiang"
     },
     {
@@ -2251,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "bergside"
     },
     {
@@ -2266,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "MangoLion"
     },
     {
@@ -2281,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3312,
+      "stars": 3322,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2296,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1216,
       "user": "OpenMOSS"
     },
     {
@@ -2311,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 795,
       "user": "sterlingcrispin"
     },
     {
@@ -2326,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 730,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2371,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 469,
       "user": "xataio"
     },
     {
@@ -2386,7 +2386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "wh0amitz"
     },
     {
