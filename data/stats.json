@@ -6,8 +6,8 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 58,
-    "JavaScript": 24,
+    "AI": 59,
+    "JavaScript": 23,
     "Python": 20,
     "DevOps": 4,
     "WebDev": 5,
@@ -18,12 +18,12 @@
     "Tools": 26
   },
   "by_language": {
-    "Go": 29,
-    "Rust": 3,
+    "Go": 28,
+    "Rust": 4,
     "Python": 20,
-    "JavaScript": 24,
+    "JavaScript": 23,
     "Swift": 1,
-    "Java": 20,
+    "Java": 19,
     "Ruby": 1
   },
   "by_date": {
@@ -77,10 +77,10 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "webdev": 9,
     "go": 9,
     "programming": 9,
-    "javascript": 9,
+    "webdev": 8,
+    "javascript": 8,
     "opensource": 7,
     "googleadk": 6,
     "productivity": 5,
@@ -92,12 +92,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "29.6",
-    "Rust": "3.1",
-    "Python": "20.4",
-    "JavaScript": "24.5",
+    "Go": "29.2",
+    "Rust": "4.2",
+    "Python": "20.8",
+    "JavaScript": "24.0",
     "Swift": "1.0",
-    "Java": "20.4",
+    "Java": "19.8",
     "Ruby": "1.0"
   }
 }

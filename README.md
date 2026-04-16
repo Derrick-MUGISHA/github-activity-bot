@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.6 (29.6%)
-JavaScript      █████████████████████████ 24.5 (24.5%)
-Python          █████████████████████ 20.4 (20.4%)
-Java            █████████████████████ 20.4 (20.4%)
-Rust            ███ 3.1 (3.1%)
+Go              ██████████████████████████████ 29.2 (29.2%)
+JavaScript      █████████████████████████ 24.0 (24.0%)
+Python          █████████████████████ 20.8 (20.8%)
+Java            ████████████████████ 19.8 (19.8%)
+Rust            ████ 4.2 (4.2%)
 Swift           █ 1.0 (1.0%)
 Ruby            █ 1.0 (1.0%)
 
@@ -72,11 +72,11 @@ Ruby            █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
-    "JavaScript" : 24
+    "Go" : 28
+    "JavaScript" : 23
     "Python" : 20
-    "Java" : 20
-    "Rust" : 3
+    "Java" : 19
+    "Rust" : 4
     "Swift" : 1
     "Ruby" : 1
 ```
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![go](https://img.shields.io/badge/go-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-16 9:00 CAT)
+## 📅 Latest Updates (2026-04-16 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk) _[Dev.to]_
 - [They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee) _[Dev.to]_
 
-_Last automated update: Thu, 16 Apr 2026 09:12:24 CAT_
+_Last automated update: Thu, 16 Apr 2026 10:56:12 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Thu, 16 Apr 2026 09:12:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Heap, stack, garbage collection
 
 </details>
 
@@ -246,14 +246,14 @@ Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 16 Apr 2026 07:12:24 GMT</b><br/>
+  <b>Last automated update: Thu, 16 Apr 2026 08:56:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
