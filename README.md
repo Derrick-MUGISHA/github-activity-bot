@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-16 10:00 CAT)
+## 📅 Latest Updates (2026-04-16 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk) _[Dev.to]_
 - [They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee) _[Dev.to]_
 
-_Last automated update: Thu, 16 Apr 2026 10:56:12 CAT_
+_Last automated update: Thu, 16 Apr 2026 12:14:36 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Thu, 16 Apr 2026 10:56:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
+
+</details>
+
+### 2. Java: Explain the Java memory model
 
 **Difficulty**: Hard | **Topics**: memory, JVM
 
@@ -235,25 +246,14 @@ Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
-
-<details>
-<summary>💡 Hint</summary>
-
-Sliding window, hash map, two pointers
-
-</details>
-
-### 3. NodeJS: Implement rate limiting for an API
-
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 16 Apr 2026 08:56:12 GMT</b><br/>
+  <b>Last automated update: Thu, 16 Apr 2026 10:14:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
