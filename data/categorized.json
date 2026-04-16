@@ -60,21 +60,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "TPU Mythbusting: cost and usage",
-      "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
-      "published_at": "2026-04-16T18:54:26Z",
-      "description": "TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
       "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
       "published_at": "2026-04-16T18:13:14Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
       "source": "Dev.to",
       "user": "JoeStrout"
+    },
+    {
+      "title": "TPU Mythbusting: cost and usage",
+      "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
+      "published_at": "2026-04-16T18:54:26Z",
+      "description": "TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "TPU Mythbusting: the general perception",
@@ -177,21 +177,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
       "source": "Dev.to",
       "user": "Daksh Gargas"
-    },
-    {
-      "title": "How to prompt Gemini 3.1's new text to speech model",
-      "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
-      "published_at": "2026-04-15T16:12:25Z",
-      "description": "Gemini 3.1 Flash text to speech (TTS) is a new model that you can direct to get the precise audio...",
-      "tags": [
-        "ai",
-        "gemini",
-        "promptengineering",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2go6updsvkkoozbimzqb.png",
-      "source": "Dev.to",
-      "user": "fofr"
     },
     {
       "title": "Claude skills vs Commands",
@@ -767,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 262,
       "user": "bergside"
     },
     {
@@ -782,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3344,
+      "stars": 3350,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -797,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1224,
       "user": "OpenMOSS"
     },
     {
@@ -827,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "xataio"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 669,
       "user": "Manavarya09"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 262,
       "user": "bergside"
     },
     {
@@ -1156,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "MangoLion"
     }
   ],
@@ -1353,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3344,
+      "stars": 3350,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1368,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1224,
       "user": "OpenMOSS"
     },
     {
@@ -1398,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 752,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1863,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "xataio"
     }
   ],
@@ -2176,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 669,
       "user": "Manavarya09"
     },
     {
@@ -2221,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 262,
       "user": "bergside"
     },
     {
@@ -2236,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "MangoLion"
     },
     {
@@ -2251,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3344,
+      "stars": 3350,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2266,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1224,
       "user": "OpenMOSS"
     },
     {
@@ -2296,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 752,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2341,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 483,
       "user": "xataio"
     },
     {
