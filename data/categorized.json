@@ -16,19 +16,18 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
-      "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
-      "published_at": "2026-04-16T15:03:04Z",
-      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
       "tags": [
         "ai",
-        "gemini",
-        "python",
-        "tutorial"
+        "leadership",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
       "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
+      "user": "Jono Herrington"
     },
     {
       "title": "Architecture Documentation as a First-Class Engineering Asset",
@@ -46,48 +45,34 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
+      "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
+      "published_at": "2026-04-16T15:03:04Z",
+      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
       "tags": [
         "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
         "gemini",
-        "a2aprotocol",
-        "awsfargate"
+        "python",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
+      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
+      "published_at": "2026-04-16T14:44:03Z",
+      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
       "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
+        "tdd",
+        "spec",
+        "serverless",
+        "aidlc"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Salih Guler "
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -105,19 +90,19 @@
       "user": "tworrell"
     },
     {
-      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
-      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
-      "published_at": "2026-04-16T14:44:03Z",
-      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "tdd",
-        "spec",
-        "serverless",
-        "aidlc"
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
-      "user": "Salih Guler "
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -310,6 +295,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
       "source": "Dev.to",
       "user": "spac3gh0st"
+    },
+    {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "My First RAG System Had No Evals. 40% of Answers Were Wrong.",
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 230,
       "user": "bergside"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3281,
+      "stars": 3302,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1207,
       "user": "OpenMOSS"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 464,
       "user": "xataio"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "wh0amitz"
     }
   ],
@@ -1077,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 608,
       "user": "Manavarya09"
     },
     {
@@ -1092,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 533,
       "user": "andrewjiang"
     },
     {
@@ -1122,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 230,
       "user": "bergside"
     },
     {
@@ -1137,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "MangoLion"
     }
   ],
@@ -1334,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3281,
+      "stars": 3302,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1349,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1207,
       "user": "OpenMOSS"
     },
     {
@@ -1364,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 793,
       "user": "sterlingcrispin"
     },
     {
@@ -1379,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 709,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1394,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 672,
       "user": "AMAP-ML"
     }
   ],
@@ -1550,36 +1550,6 @@
   ],
   "Cloud": [
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
-      "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
       "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
       "published_at": "2026-04-16T14:44:03Z",
@@ -1593,6 +1563,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
       "source": "Dev.to",
       "user": "Salih Guler "
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -1681,6 +1666,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
@@ -1799,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 464,
       "user": "xataio"
     }
   ],
@@ -1936,19 +1936,19 @@
   ],
   "Tools": [
     {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
+      "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
+      "published_at": "2026-04-16T11:53:47Z",
+      "description": "A true \"PC in your pocket\" closer to reality",
       "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
+        "android",
+        "google",
+        "mobile",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Massimo Moffa"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -1964,21 +1964,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
-    },
-    {
-      "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
-      "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
-      "published_at": "2026-04-16T11:53:47Z",
-      "description": "A true \"PC in your pocket\" closer to reality",
-      "tags": [
-        "android",
-        "google",
-        "mobile",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
-      "source": "Dev.to",
-      "user": "Massimo Moffa"
     },
     {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
@@ -2039,6 +2024,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
       "source": "Dev.to",
       "user": "Marcel.L"
+    },
+    {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It",
@@ -2141,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 608,
       "user": "Manavarya09"
     },
     {
@@ -2156,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 533,
       "user": "andrewjiang"
     },
     {
@@ -2186,7 +2186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 230,
       "user": "bergside"
     },
     {
@@ -2201,7 +2201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "MangoLion"
     },
     {
@@ -2216,7 +2216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3281,
+      "stars": 3302,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2231,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1207,
       "user": "OpenMOSS"
     },
     {
@@ -2246,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 793,
       "user": "sterlingcrispin"
     },
     {
@@ -2261,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 709,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2276,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 672,
       "user": "AMAP-ML"
     },
     {
@@ -2306,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 464,
       "user": "xataio"
     },
     {
@@ -2321,7 +2321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "wh0amitz"
     },
     {
@@ -2351,7 +2351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "vavallee"
     }
   ]

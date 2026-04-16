@@ -19,9 +19,9 @@
   },
   "by_language": {
     "Python": 19,
-    "Go": 29,
     "JavaScript": 23,
     "Java": 19,
+    "Go": 29,
     "Kotlin": 1,
     "Rust": 2,
     "Swift": 2
@@ -84,8 +84,8 @@
     "tutorial": 7,
     "productivity": 6,
     "opensource": 6,
-    "aws": 5,
     "showdev": 5,
+    "aws": 5,
     "discuss": 4,
     "security": 4,
     "googleadk": 4
@@ -93,9 +93,9 @@
   "trending_topics": [],
   "language_percentages": {
     "Python": "20.0",
-    "Go": "30.5",
     "JavaScript": "24.2",
     "Java": "20.0",
+    "Go": "30.5",
     "Kotlin": "1.1",
     "Rust": "2.1",
     "Swift": "2.1"
