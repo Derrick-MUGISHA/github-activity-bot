@@ -16,6 +16,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
       "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
       "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
       "published_at": "2026-04-16T15:03:04Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
     },
     {
       "title": "Architecture Documentation as a First-Class Engineering Asset",
@@ -177,21 +177,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
       "source": "Dev.to",
       "user": "Sebastian Schürmann"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
-      "published_at": "2026-04-13T20:09:45Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "ak",
-        "googleadk",
-        "gemini",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
@@ -625,6 +610,20 @@
       "user": "xbill"
     },
     {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -783,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 246,
       "user": "bergside"
     },
     {
@@ -798,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3328,
+      "stars": 3337,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -813,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1219,
       "user": "OpenMOSS"
     },
     {
@@ -843,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 478,
       "user": "xataio"
     },
     {
@@ -908,19 +907,6 @@
       "user": "Serhii Panchyshyn"
     },
     {
-      "title": "You’re a Real Software Developer Only If…",
-      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
-      "published_at": "2026-04-09T21:07:21Z",
-      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
-      "tags": [
-        "jokes",
-        "devlive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
       "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
       "published_at": "2026-04-09T17:15:51Z",
@@ -949,6 +935,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabgpd8d7ucmwj3n92fqb.png",
       "source": "Dev.to",
       "user": "Vilva Athiban P B"
+    },
+    {
+      "title": "You’re a Real Software Developer Only If…",
+      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
+      "published_at": "2026-04-09T21:07:21Z",
+      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
+      "tags": [
+        "jokes",
+        "devlive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
@@ -1112,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 648,
       "user": "Manavarya09"
     },
     {
@@ -1127,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 548,
       "user": "andrewjiang"
     },
     {
@@ -1157,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 246,
       "user": "bergside"
     },
     {
@@ -1369,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3328,
+      "stars": 3337,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1384,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1219,
       "user": "OpenMOSS"
     },
     {
@@ -1414,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 744,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1481,6 +1480,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Congrats to the 2026 WeCoded Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee",
+      "published_at": "2026-04-16T21:34:36Z",
+      "description": "The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...",
+      "tags": [
+        "devchallenge",
+        "wecoded",
+        "frontend",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
     {
       "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
       "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
@@ -1674,21 +1688,6 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
-      "published_at": "2026-04-13T20:09:45Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "ak",
-        "googleadk",
-        "gemini",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploy OpenClaw on AWS: Choose the right options for your AI workload",
       "url": "https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f",
       "published_at": "2026-04-14T06:43:29Z",
@@ -1879,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 478,
       "user": "xataio"
     }
   ],
@@ -2207,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 648,
       "user": "Manavarya09"
     },
     {
@@ -2222,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 548,
       "user": "andrewjiang"
     },
     {
@@ -2252,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 246,
       "user": "bergside"
     },
     {
@@ -2282,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3328,
+      "stars": 3337,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2297,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1219,
       "user": "OpenMOSS"
     },
     {
@@ -2327,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 744,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2372,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 478,
       "user": "xataio"
     },
     {
@@ -2417,7 +2416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "vavallee"
     }
   ]
