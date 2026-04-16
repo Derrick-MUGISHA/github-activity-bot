@@ -1,19 +1,48 @@
 {
   "AI": [
     {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
+      "published_at": "2026-04-16T09:49:24Z",
+      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
+      "tags": [
+        "architecture",
+        "security",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
       "tags": [
         "ai",
-        "beginners",
-        "productivity",
-        "aws"
+        "leadership",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Jono Herrington"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -31,17 +60,47 @@
       "user": "tworrell"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
-      "published_at": "2026-04-13T20:09:45Z",
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
+      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
+      "published_at": "2026-04-16T03:07:52Z",
+      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
+      "tags": [
+        "ios",
+        "swiftui",
+        "testing",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
+      "source": "Dev.to",
+      "user": "Daksh Gargas"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
       "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "ak",
-        "googleadk",
         "gemini",
-        "a2a"
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -60,6 +119,21 @@
       "user": "Sebastian Schürmann"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
+      "published_at": "2026-04-13T20:09:45Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "ak",
+        "googleadk",
+        "gemini",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How to prompt Gemini 3.1's new text to speech model",
       "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
       "published_at": "2026-04-15T16:12:25Z",
@@ -73,36 +147,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2go6updsvkkoozbimzqb.png",
       "source": "Dev.to",
       "user": "fofr"
-    },
-    {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
-    },
-    {
-      "title": "Claude skills vs Commands",
-      "url": "https://dev.to/hellonehha/claude-skills-vs-commands-1dcm",
-      "published_at": "2026-04-14T10:13:02Z",
-      "description": "If you are using Claude for “vibe coding”, you may have come across Skills and Commands. Both are...",
-      "tags": [
-        "claude",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
-      "source": "Dev.to",
-      "user": "Neha Sharma "
     },
     {
       "title": "Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment",
@@ -120,6 +164,21 @@
       "user": "xbill"
     },
     {
+      "title": "Claude skills vs Commands",
+      "url": "https://dev.to/hellonehha/claude-skills-vs-commands-1dcm",
+      "published_at": "2026-04-14T10:13:02Z",
+      "description": "If you are using Claude for “vibe coding”, you may have come across Skills and Commands. Both are...",
+      "tags": [
+        "claude",
+        "ai",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
+      "source": "Dev.to",
+      "user": "Neha Sharma "
+    },
+    {
       "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
       "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
       "published_at": "2026-04-14T20:15:22Z",
@@ -132,6 +191,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
       "source": "Dev.to",
       "user": "Serhii Panchyshyn"
+    },
+    {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
     },
     {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
@@ -208,20 +282,6 @@
       "user": "spac3gh0st"
     },
     {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
-    },
-    {
       "title": "My First RAG System Had No Evals. 40% of Answers Were Wrong.",
       "url": "https://dev.to/serhiip/my-first-rag-system-had-no-evals-40-of-answers-were-wrong-ab",
       "published_at": "2026-04-13T20:58:06Z",
@@ -235,21 +295,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftv8stu1zwsjzvku972y2.png",
       "source": "Dev.to",
       "user": "Serhii Panchyshyn"
-    },
-    {
-      "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
-      "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
-      "published_at": "2026-04-15T08:26:53Z",
-      "description": "Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...",
-      "tags": [
-        "ai",
-        "rag",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
@@ -267,21 +312,6 @@
       "user": "Bernabé Puente Moure"
     },
     {
-      "title": "Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)",
-      "url": "https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln",
-      "published_at": "2026-04-14T21:14:17Z",
-      "description": "So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...",
-      "tags": [
-        "ai",
-        "aws",
-        "agents",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfkse2vmhc7tyt374pf.png",
-      "source": "Dev.to",
-      "user": "Morgan Willis"
-    },
-    {
       "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
       "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
       "published_at": "2026-04-15T00:49:38Z",
@@ -297,19 +327,34 @@
       "user": "Radu C."
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
+      "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
+      "published_at": "2026-04-15T08:26:53Z",
+      "description": "Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...",
       "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
+        "ai",
+        "rag",
+        "vectordatabase",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)",
+      "url": "https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln",
+      "published_at": "2026-04-14T21:14:17Z",
+      "description": "So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...",
+      "tags": [
+        "ai",
+        "aws",
+        "agents",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfkse2vmhc7tyt374pf.png",
+      "source": "Dev.to",
+      "user": "Morgan Willis"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
@@ -323,6 +368,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -371,6 +431,21 @@
       "user": "Calebe Aires"
     },
     {
+      "title": "How Claude Code Uses React in the Terminal",
+      "url": "https://dev.to/vilvaathibanpb/how-claude-code-uses-react-in-the-terminal-2f3b",
+      "published_at": "2026-04-15T04:01:01Z",
+      "description": "React handles reconciliation. A custom renderer handles layout, screen buffers, diffing, and high-FPS...",
+      "tags": [
+        "ai",
+        "claude",
+        "react",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabgpd8d7ucmwj3n92fqb.png",
+      "source": "Dev.to",
+      "user": "Vilva Athiban P B"
+    },
+    {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j",
       "published_at": "2026-04-07T13:16:14Z",
@@ -411,6 +486,65 @@
       "user": "Wojciech Wentland"
     },
     {
+      "title": "Stop Building AI Features Nobody Asked For",
+      "url": "https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa",
+      "published_at": "2026-04-15T08:40:03Z",
+      "description": "In an era where AI makes prototyping dangerously fast, this piece serves as a wake-up call for builders to stop \"polishing curiosity\" and start solving actual pain.",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8y7mnpkxffhpaq6k21x.png",
+      "source": "Dev.to",
+      "user": "Peter Strauss"
+    },
+    {
+      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
+      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
+      "published_at": "2026-04-14T13:08:46Z",
+      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
+      "tags": [
+        "kubernetes",
+        "opensource",
+        "devops",
+        "coolify"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
+      "source": "Dev.to",
+      "user": "drtobbyas"
+    },
+    {
+      "title": "FastAPI Async+Pytest, Event Loop Trap",
+      "url": "https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c",
+      "published_at": "2026-04-14T14:18:21Z",
+      "description": "Async FastAPI tests fail with different loop errors due to connection pool behavior. Here is what actually works.",
+      "tags": [
+        "python",
+        "fastapi",
+        "pytest",
+        "asyncio"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png",
+      "source": "Dev.to",
+      "user": "Neeraj Kansal"
+    },
+    {
+      "title": "Designing a CLI for Both Humans and Agents",
+      "url": "https://dev.to/alpic/designing-a-cli-for-both-humans-and-agents-4069",
+      "published_at": "2026-04-15T10:03:17Z",
+      "description": "Learn how Alpic designed its CLI for both human developers and AI agents — covering tradeoffs like polling, context windows, interactivity, and statelessness.",
+      "tags": [
+        "cli",
+        "ai",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxzu2uzm524lr9a8hqdfz.jpg",
+      "source": "Dev.to",
+      "user": "Julien Vallini"
+    },
+    {
       "title": "Understanding Go: part 13 – Methods",
       "url": "https://dev.to/aurelievache/understanding-go-part-13-methods-585a",
       "published_at": "2026-04-13T07:30:00Z",
@@ -440,108 +574,18 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "python",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
-      "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
-      "published_at": "2026-04-13T17:35:25Z",
-      "description": "The UK's AI Security Institute confirmed this week that Claude Mythos, an Anthropic model, became the...",
-      "tags": [
-        "security",
-        "ai",
-        "architecture",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxy7zvanyrwyppx2b1sa.webp",
-      "source": "Dev.to",
-      "user": "Sameer Khan"
-    },
-    {
-      "title": "Alignment is the wrong frame: a structural argument from Φ-IIT",
-      "url": "https://dev.to/iliketree/alignment-is-the-wrong-frame-a-structural-argument-from-ph-iit-1h61",
-      "published_at": "2026-04-13T13:02:33Z",
-      "description": "TL;DR    Rule-based alignment is bypassable in time O(1/ε) where ε is the gap between the...",
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
       "tags": [
         "ai",
-        "alignment",
-        "consciousness",
-        "safety"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1cl2t71j9cnzu33mubs.png",
-      "source": "Dev.to",
-      "user": "i-like-tree"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
+        "machinelearning",
         "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
       "source": "Dev.to",
-      "user": "Rob Simpson"
-    },
-    {
-      "title": "The Hidden Cost: AI's Time Complexity Trap",
-      "url": "https://dev.to/eayurt/the-hidden-cost-ais-time-complexity-trap-57h2",
-      "published_at": "2026-04-13T06:07:09Z",
-      "description": "These days, the moment a problem gets stuck in our heads, we turn to AI for help.",
-      "tags": [
-        "ai",
-        "ruby",
-        "programming",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvq9as4tbio3tal25qzup.jpg",
-      "source": "Dev.to",
-      "user": "Ender Ahmet Yurt"
-    },
-    {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
-    },
-    {
-      "title": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner",
-      "url": "https://dev.to/theoklitosbam7/pi-coding-agent-a-self-documenting-extensible-ai-partner-dn",
-      "published_at": "2026-04-13T11:40:30Z",
-      "description": "Exploring Pi's ability to read its own documentation, understand its codebase, and help extend or modify its behavior through natural conversation",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50akj24ratqwzqjsytct.png",
-      "source": "Dev.to",
-      "user": "Theoklitos Bampouris"
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -687,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "V-IOLE-T"
     },
     {
@@ -702,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3214,
+      "stars": 3254,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -717,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1183,
       "user": "OpenMOSS"
     },
     {
@@ -732,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 567,
       "user": "retlehs"
     },
     {
@@ -747,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 445,
       "user": "xataio"
     },
     {
@@ -767,6 +811,36 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Beyond Marker Clustering",
+      "url": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
+      "published_at": "2026-04-16T13:16:31Z",
+      "description": "Learn about a better way to manage thousands of map markers by using priority-based ranking instead of traditional clustering.",
+      "tags": [
+        "webdev",
+        "javascript",
+        "maps",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08t55ut0ocyw4gpfyekg.png",
+      "source": "Dev.to",
+      "user": "Marko Smiljanic"
+    },
+    {
+      "title": "Creating a Vertical Area Chart with JavaScript: 80+ Years of U.S. Presidential Approval Data",
+      "url": "https://dev.to/anychart/creating-a-vertical-area-chart-with-javascript-80-years-of-us-presidential-approval-data-ei5",
+      "published_at": "2026-04-15T19:12:50Z",
+      "description": "Traditionally, charts that visualize data over time are horizontal. But sometimes a vertical layout...",
+      "tags": [
+        "javascript",
+        "datascience",
+        "webdev",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8mu7lb0mp3hjkxbwnnu.png",
+      "source": "Dev.to",
+      "user": "andreykh"
+    },
     {
       "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
       "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
@@ -825,6 +899,21 @@
       "user": "Calebe Aires"
     },
     {
+      "title": "How Claude Code Uses React in the Terminal",
+      "url": "https://dev.to/vilvaathibanpb/how-claude-code-uses-react-in-the-terminal-2f3b",
+      "published_at": "2026-04-15T04:01:01Z",
+      "description": "React handles reconciliation. A custom renderer handles layout, screen buffers, diffing, and high-FPS...",
+      "tags": [
+        "ai",
+        "claude",
+        "react",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabgpd8d7ucmwj3n92fqb.png",
+      "source": "Dev.to",
+      "user": "Vilva Athiban P B"
+    },
+    {
       "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
       "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
       "published_at": "2026-04-09T01:19:42Z",
@@ -853,21 +942,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1001,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 567,
       "user": "Manavarya09"
     },
     {
@@ -1016,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 523,
       "user": "andrewjiang"
     },
     {
@@ -1031,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "V-IOLE-T"
     },
     {
@@ -1046,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "MangoLion"
     },
     {
@@ -1061,26 +1135,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "nesaminua"
     }
   ],
   "Python": [
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
@@ -1097,19 +1156,34 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "azure",
-        "python",
+        "gemini",
         "googleadk",
-        "gemini"
+        "python",
+        "aws"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "FastAPI Async+Pytest, Event Loop Trap",
+      "url": "https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c",
+      "published_at": "2026-04-14T14:18:21Z",
+      "description": "Async FastAPI tests fail with different loop errors due to connection pool behavior. Here is what actually works.",
+      "tags": [
+        "python",
+        "fastapi",
+        "pytest",
+        "asyncio"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png",
+      "source": "Dev.to",
+      "user": "Neeraj Kansal"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1243,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3214,
+      "stars": 3254,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1258,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1183,
       "user": "OpenMOSS"
     },
     {
@@ -1273,8 +1347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 786,
       "user": "sterlingcrispin"
+    },
+    {
+      "title": "Tencent-Hunyuan/HY-World-2.0 - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+      "published_at": "2026-04-10T07:09:43Z",
+      "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
@@ -1288,23 +1377,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 661,
       "user": "AMAP-ML"
-    },
-    {
-      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "published_at": "2026-04-12T10:47:30Z",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
-      "source": "GitHub",
-      "stars": 617,
-      "user": "patterniha"
     }
   ],
   "DevOps": [
@@ -1337,6 +1411,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
       "source": "Dev.to",
       "user": "spac3gh0st"
+    },
+    {
+      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
+      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
+      "published_at": "2026-04-14T13:08:46Z",
+      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
+      "tags": [
+        "kubernetes",
+        "opensource",
+        "devops",
+        "coolify"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
+      "source": "Dev.to",
+      "user": "drtobbyas"
     }
   ],
   "WebDev": [
@@ -1371,6 +1460,19 @@
       "user": "ouzz"
     },
     {
+      "title": "Partial Password Authentication",
+      "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
+      "published_at": "2026-04-14T21:23:40Z",
+      "description": "Recently, I switched to another bank, and after setting up the online banking credentials and trying...",
+      "tags": [
+        "security",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
+      "source": "Dev.to",
+      "user": "Muhammad Hassan"
+    },
+    {
       "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
       "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
       "published_at": "2026-04-13T16:51:07Z",
@@ -1398,8 +1500,68 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
+      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
+      "published_at": "2026-04-16T03:07:52Z",
+      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
+      "tags": [
+        "ios",
+        "swiftui",
+        "testing",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
+      "source": "Dev.to",
+      "user": "Daksh Gargas"
+    },
+    {
+      "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
+      "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
+      "published_at": "2026-04-16T11:53:47Z",
+      "description": "A true \"PC in your pocket\" closer to reality",
+      "tags": [
+        "android",
+        "google",
+        "mobile",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
+      "source": "Dev.to",
+      "user": "Massimo Moffa"
+    },
+    {
+      "title": "Stop Building AI Features Nobody Asked For",
+      "url": "https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa",
+      "published_at": "2026-04-15T08:40:03Z",
+      "description": "In an era where AI makes prototyping dangerously fast, this piece serves as a wake-up call for builders to stop \"polishing curiosity\" and start solving actual pain.",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8y7mnpkxffhpaq6k21x.png",
+      "source": "Dev.to",
+      "user": "Peter Strauss"
+    }
+  ],
   "Cloud": [
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
@@ -1416,17 +1578,17 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
-      "published_at": "2026-04-13T20:09:45Z",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
       "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "ak",
-        "googleadk",
         "gemini",
-        "a2a"
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1443,6 +1605,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
       "source": "Dev.to",
       "user": "Sebastian Schürmann"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
+      "published_at": "2026-04-13T20:09:45Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "ak",
+        "googleadk",
+        "gemini",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment",
@@ -1534,21 +1711,6 @@
       "user": "Morgan Willis"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -1560,6 +1722,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1623,21 +1800,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying ADK Agents on Azure Kubernates Service (AKS)",
-      "url": "https://dev.to/gde/deploying-adk-agents-on-azure-kubernates-service-aks-1lpf",
-      "published_at": "2026-04-04T22:47:18Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agents in...",
-      "tags": [
-        "azure",
-        "python",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -1649,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 445,
       "user": "xataio"
     }
   ],
@@ -1670,36 +1832,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator",
-      "url": "https://dev.to/nikitavolkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-5c3j",
-      "published_at": "2026-04-14T09:47:03Z",
-      "description": "Story about how I went from shipping a popular ORM in 2012… to throwing it all away… to realizing that the database itself should be the single source of truth.",
-      "tags": [
-        "postgres",
-        "java",
-        "rust",
-        "haskell"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5wa09zmfy9gcaq7bwl0.png",
-      "source": "Dev.to",
-      "user": "Nikita Volkov"
-    },
-    {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1713,6 +1845,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
+      "published_at": "2026-04-16T09:49:24Z",
+      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
+      "tags": [
+        "architecture",
+        "security",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
     {
       "title": "Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup",
       "url": "https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53",
@@ -1759,19 +1906,17 @@
       "user": "Aditya"
     },
     {
-      "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
-      "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
-      "published_at": "2026-04-13T17:35:25Z",
-      "description": "The UK's AI Security Institute confirmed this week that Claude Mythos, an Anthropic model, became the...",
+      "title": "Partial Password Authentication",
+      "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
+      "published_at": "2026-04-14T21:23:40Z",
+      "description": "Recently, I switched to another bank, and after setting up the online banking credentials and trying...",
       "tags": [
         "security",
-        "ai",
-        "architecture",
-        "news"
+        "backend"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxy7zvanyrwyppx2b1sa.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
       "source": "Dev.to",
-      "user": "Sameer Khan"
+      "user": "Muhammad Hassan"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1797,26 +1942,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "V-IOLE-T"
     }
   ],
   "Tools": [
-    {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
-      "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
@@ -1833,34 +1963,49 @@
       "user": "tworrell"
     },
     {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
       "tags": [
         "ai",
-        "gemini",
+        "beginners",
         "productivity",
-        "showdev"
+        "aws"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
       "source": "Dev.to",
-      "user": "tworrell"
+      "user": "Rohini Gaonkar"
     },
     {
-      "title": "Building a Replay-Tested Interactive Brokers Client in Go",
-      "url": "https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i",
-      "published_at": "2026-04-15T11:35:19Z",
-      "description": "I wanted an IBKR library that felt like Go and had testing I could trust. So I wrote one.",
+      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
+      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
+      "published_at": "2026-04-16T03:07:52Z",
+      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
       "tags": [
-        "go",
+        "ios",
+        "swiftui",
         "testing",
-        "ibkr",
-        "opensource"
+        "cicd"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsflyo6oc49h76o3lsg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
       "source": "Dev.to",
-      "user": "Thomas Marcelis"
+      "user": "Daksh Gargas"
+    },
+    {
+      "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
+      "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
+      "published_at": "2026-04-16T11:53:47Z",
+      "description": "A true \"PC in your pocket\" closer to reality",
+      "tags": [
+        "android",
+        "google",
+        "mobile",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
+      "source": "Dev.to",
+      "user": "Massimo Moffa"
     },
     {
       "title": "Playwright in Pictures: Fully Parallel Mode",
@@ -1876,6 +2021,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
       "source": "Dev.to",
       "user": "Vitaliy Potapov"
+    },
+    {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
     },
     {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
@@ -1922,6 +2082,51 @@
       "user": "Nishkarsh Pandey"
     },
     {
+      "title": "Shik — I finally feel joy writing scripts",
+      "url": "https://dev.to/pungy/shik-i-finally-feel-joy-writing-scripts-5b2e",
+      "published_at": "2026-04-15T09:16:34Z",
+      "description": "You know that feeling when the thought in your head is simple and clear — \"go through files, find the...",
+      "tags": [
+        "programming",
+        "showdev",
+        "tooling",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08ojevjv6ktygahpcm0r.png",
+      "source": "Dev.to",
+      "user": "Maksim Iakovlev"
+    },
+    {
+      "title": "Designing a CLI for Both Humans and Agents",
+      "url": "https://dev.to/alpic/designing-a-cli-for-both-humans-and-agents-4069",
+      "published_at": "2026-04-15T10:03:17Z",
+      "description": "Learn how Alpic designed its CLI for both human developers and AI agents — covering tradeoffs like polling, context windows, interactivity, and statelessness.",
+      "tags": [
+        "cli",
+        "ai",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxzu2uzm524lr9a8hqdfz.jpg",
+      "source": "Dev.to",
+      "user": "Julien Vallini"
+    },
+    {
+      "title": "Building a Replay-Tested Interactive Brokers Client in Go",
+      "url": "https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i",
+      "published_at": "2026-04-15T11:35:19Z",
+      "description": "I wanted an IBKR library that felt like Go and had testing I could trust. So I wrote one.",
+      "tags": [
+        "go",
+        "testing",
+        "ibkr",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsflyo6oc49h76o3lsg.png",
+      "source": "Dev.to",
+      "user": "Thomas Marcelis"
+    },
+    {
       "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
       "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
       "published_at": "2026-04-11T15:55:53Z",
@@ -1948,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 567,
       "user": "Manavarya09"
     },
     {
@@ -1963,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 523,
       "user": "andrewjiang"
     },
     {
@@ -1978,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "V-IOLE-T"
     },
     {
@@ -1993,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "MangoLion"
     },
     {
@@ -2008,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "nesaminua"
     },
     {
@@ -2023,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3214,
+      "stars": 3254,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2038,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1183,
       "user": "OpenMOSS"
     },
     {
@@ -2053,8 +2258,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 786,
       "user": "sterlingcrispin"
+    },
+    {
+      "title": "Tencent-Hunyuan/HY-World-2.0 - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+      "published_at": "2026-04-10T07:09:43Z",
+      "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
@@ -2068,23 +2288,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 661,
       "user": "AMAP-ML"
-    },
-    {
-      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "published_at": "2026-04-12T10:47:30Z",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
-      "source": "GitHub",
-      "stars": 617,
-      "user": "patterniha"
     },
     {
       "title": "retlehs/quien - A better whois and domain intelligence toolkit",
@@ -2098,7 +2303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 567,
       "user": "retlehs"
     },
     {
@@ -2113,7 +2318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 445,
       "user": "xataio"
     },
     {
@@ -2158,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "vavallee"
     }
   ]
