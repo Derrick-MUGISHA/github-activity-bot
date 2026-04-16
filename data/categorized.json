@@ -90,21 +90,6 @@
       "user": "JoeStrout"
     },
     {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
-    },
-    {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
       "published_at": "2026-04-16T18:50:29Z",
@@ -782,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 252,
       "user": "bergside"
     },
     {
@@ -797,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3337,
+      "stars": 3344,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -812,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1222,
       "user": "OpenMOSS"
     },
     {
@@ -842,7 +827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "xataio"
     },
     {
@@ -1111,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 660,
       "user": "Manavarya09"
     },
     {
@@ -1126,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "andrewjiang"
     },
     {
@@ -1156,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 252,
       "user": "bergside"
     },
     {
@@ -1368,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3337,
+      "stars": 3344,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1383,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1222,
       "user": "OpenMOSS"
     },
     {
@@ -1398,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "sterlingcrispin"
     },
     {
@@ -1413,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 749,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -1878,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "xataio"
     }
   ],
@@ -2028,21 +2013,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
       "source": "Dev.to",
       "user": "Massimo Moffa"
-    },
-    {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
     },
     {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
@@ -2206,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 660,
       "user": "Manavarya09"
     },
     {
@@ -2221,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "andrewjiang"
     },
     {
@@ -2251,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 252,
       "user": "bergside"
     },
     {
@@ -2281,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3337,
+      "stars": 3344,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2296,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1222,
       "user": "OpenMOSS"
     },
     {
@@ -2311,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "sterlingcrispin"
     },
     {
@@ -2326,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 749,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2371,7 +2341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "xataio"
     },
     {
