@@ -34,7 +34,7 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -42,9 +42,9 @@
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦 4 (3.8%)
-
 **Database**: 🟦 4 (3.8%)
+
+**DevOps**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,21 +60,21 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.2 (29.2%)
-JavaScript      █████████████████████████ 24.0 (24.0%)
-Python          █████████████████████ 20.8 (20.8%)
-Java            ████████████████████ 19.8 (19.8%)
-Rust            ████ 4.2 (4.2%)
-Swift           █ 1.0 (1.0%)
-Ruby            █ 1.0 (1.0%)
+Go              ██████████████████████████████ 28.7 (28.7%)
+JavaScript      ██████████████████████████ 24.5 (24.5%)
+Python          █████████████████████ 20.2 (20.2%)
+Java            █████████████████████ 20.2 (20.2%)
+Rust            ████ 4.3 (4.3%)
+Swift           █ 1.1 (1.1%)
+Ruby            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
+    "Go" : 27
     "JavaScript" : 23
-    "Python" : 20
+    "Python" : 19
     "Java" : 19
     "Rust" : 4
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![python](https://img.shields.io/badge/python-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![go](https://img.shields.io/badge/go-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![googleadk](https://img.shields.io/badge/googleadk-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-16 12:00 CAT)
+## 📅 Latest Updates (2026-04-16 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB](https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk) _[Dev.to]_
 - [They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.](https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee) _[Dev.to]_
 
-_Last automated update: Thu, 16 Apr 2026 12:14:36 CAT_
+_Last automated update: Thu, 16 Apr 2026 13:32:05 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 16 Apr 2026 12:14:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 16 Apr 2026 10:14:36 GMT</b><br/>
+  <b>Last automated update: Thu, 16 Apr 2026 11:32:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

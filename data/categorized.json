@@ -529,21 +529,6 @@
       "user": "xbill"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Claude Mythos Is the First AI to Complete a Full Corporate Cyberattack End-to-End",
       "url": "https://dev.to/monkfromearth/claude-mythos-is-the-first-ai-to-complete-a-full-corporate-cyberattack-end-to-end-3mk5",
       "published_at": "2026-04-13T17:35:25Z",
@@ -617,6 +602,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
       "source": "Dev.to",
       "user": " Ramakrishna Chilaka"
+    },
+    {
+      "title": "Pi Coding Agent: A Self-Documenting, Extensible AI Partner",
+      "url": "https://dev.to/theoklitosbam7/pi-coding-agent-a-self-documenting-extensible-ai-partner-dn",
+      "published_at": "2026-04-13T11:40:30Z",
+      "description": "Exploring Pi's ability to read its own documentation, understand its codebase, and help extend or modify its behavior through natural conversation",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F50akj24ratqwzqjsytct.png",
+      "source": "Dev.to",
+      "user": "Theoklitos Bampouris"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -762,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "V-IOLE-T"
     },
     {
@@ -777,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3181,
+      "stars": 3195,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -792,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1129,
+      "stars": 1146,
       "user": "OpenMOSS"
     },
     {
@@ -822,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 409,
       "user": "xataio"
     },
     {
@@ -837,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "wh0amitz"
     }
   ],
@@ -1080,21 +1079,6 @@
       "user": "velmu"
     },
     {
-      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
-      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
-      "published_at": "2026-04-13T07:45:24Z",
-      "description": "A Palantir-ish dashboard for family trip planning.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "andrewjiang"
-    },
-    {
       "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -1106,8 +1090,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 506,
       "user": "Manavarya09"
+    },
+    {
+      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "published_at": "2026-04-13T07:45:24Z",
+      "description": "A Palantir-ish dashboard for family trip planning.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
+      "source": "GitHub",
+      "stars": 505,
+      "user": "andrewjiang"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -1121,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "V-IOLE-T"
     },
     {
@@ -1136,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "MangoLion"
     },
     {
@@ -1151,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "nesaminua"
     }
   ],
@@ -1213,21 +1212,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsa9p14ymgep25sgo1c6i.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1363,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3181,
+      "stars": 3195,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1378,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1129,
+      "stars": 1146,
       "user": "OpenMOSS"
     },
     {
@@ -1393,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "sterlingcrispin"
     },
     {
@@ -1423,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 613,
       "user": "patterniha"
     }
   ],
@@ -1472,21 +1456,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
       "source": "Dev.to",
       "user": "spac3gh0st"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-eks-and-gemini-cli-5b6h",
-      "published_at": "2026-04-13T18:42:04Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "agents",
-        "ai",
-        "kubernetes",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5et9o8ib1thjo9twuk6.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "WebDev": [
@@ -1827,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 409,
       "user": "xataio"
     }
   ],
@@ -1988,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "V-IOLE-T"
     }
   ],
@@ -2158,21 +2127,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
-      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
-      "published_at": "2026-04-13T07:45:24Z",
-      "description": "A Palantir-ish dashboard for family trip planning.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "andrewjiang"
-    },
-    {
       "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2184,8 +2138,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 506,
       "user": "Manavarya09"
+    },
+    {
+      "title": "andrewjiang/palantir-for-family-trips - A Palantir-ish dashboard for family trip planning.",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+      "published_at": "2026-04-13T07:45:24Z",
+      "description": "A Palantir-ish dashboard for family trip planning.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
+      "source": "GitHub",
+      "stars": 505,
+      "user": "andrewjiang"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -2199,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "V-IOLE-T"
     },
     {
@@ -2214,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "MangoLion"
     },
     {
@@ -2229,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "nesaminua"
     },
     {
@@ -2244,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3181,
+      "stars": 3195,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2259,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1129,
+      "stars": 1146,
       "user": "OpenMOSS"
     },
     {
@@ -2274,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 782,
       "user": "sterlingcrispin"
     },
     {
@@ -2304,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 613,
       "user": "patterniha"
     },
     {
@@ -2334,7 +2303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 409,
       "user": "xataio"
     },
     {
@@ -2349,7 +2318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "wh0amitz"
     },
     {
