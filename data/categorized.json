@@ -16,21 +16,6 @@
       "user": "Bernabé Puente Moure"
     },
     {
-      "title": "Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment",
-      "url": "https://dev.to/gde/building-with-the-google-cloud-run-mcp-server-for-multi-agent-a2a-deployment-fop",
-      "published_at": "2026-04-14T16:35:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "mcpserver",
-        "adk",
-        "a2aprotocol",
-        "googlecloudrun"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6wci07oh8xzuu9mywm4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
       "published_at": "2026-04-15T14:32:01Z",
@@ -46,6 +31,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment",
+      "url": "https://dev.to/gde/building-with-the-google-cloud-run-mcp-server-for-multi-agent-a2a-deployment-fop",
+      "published_at": "2026-04-14T16:35:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "mcpserver",
+        "adk",
+        "a2aprotocol",
+        "googlecloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6wci07oh8xzuu9mywm4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
       "published_at": "2026-04-13T20:09:45Z",
@@ -59,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfwuffg858dgjt6yc9mo.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
+      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
+      "published_at": "2026-04-15T14:05:13Z",
+      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
+      "tags": [
+        "ai",
+        "mba",
+        "operations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
     },
     {
       "title": "How to prompt Gemini 3.1's new text to speech model",
@@ -119,20 +133,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
-    },
-    {
-      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
-      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
-      "published_at": "2026-04-15T14:05:13Z",
-      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
-      "tags": [
-        "ai",
-        "mba",
-        "operations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
     },
     {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3116,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1082,
       "user": "OpenMOSS"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "retlehs"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 360,
       "user": "xataio"
     },
     {
@@ -1091,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 499,
       "user": "andrewjiang"
     },
     {
@@ -1106,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 423,
       "user": "Manavarya09"
     },
     {
@@ -1136,7 +1136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "MangoLion"
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "nesaminua"
     }
   ],
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3116,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1082,
       "user": "OpenMOSS"
     },
     {
@@ -1393,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "sterlingcrispin"
     },
     {
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "AMAP-ML"
     },
     {
@@ -1579,21 +1579,6 @@
   ],
   "Cloud": [
     {
-      "title": "Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment",
-      "url": "https://dev.to/gde/building-with-the-google-cloud-run-mcp-server-for-multi-agent-a2a-deployment-fop",
-      "published_at": "2026-04-14T16:35:08Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "mcpserver",
-        "adk",
-        "a2aprotocol",
-        "googlecloudrun"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6wci07oh8xzuu9mywm4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
       "published_at": "2026-04-15T14:32:01Z",
@@ -1607,6 +1592,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Building with the Google Cloud Run MCP Server for Multi-Agent A2A Deployment",
+      "url": "https://dev.to/gde/building-with-the-google-cloud-run-mcp-server-for-multi-agent-a2a-deployment-fop",
+      "published_at": "2026-04-14T16:35:08Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "mcpserver",
+        "adk",
+        "a2aprotocol",
+        "googlecloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw6wci07oh8xzuu9mywm4.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure AKS, and Gemini CLI",
@@ -1827,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 360,
       "user": "xataio"
     }
   ],
@@ -2069,21 +2069,6 @@
       "user": "Julien Vallini"
     },
     {
-      "title": "Playwright in Pictures: Fully Parallel Mode",
-      "url": "https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj",
-      "published_at": "2026-04-15T13:01:43Z",
-      "description": "Playwright’s fullyParallel mode is often treated as a simple performance switch. In practice, it...",
-      "tags": [
-        "playwright",
-        "testing",
-        "webdev",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
-      "source": "Dev.to",
-      "user": "Vitaliy Potapov"
-    },
-    {
       "title": "Building a Replay-Tested Interactive Brokers Client in Go",
       "url": "https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i",
       "published_at": "2026-04-15T11:35:19Z",
@@ -2097,6 +2082,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsflyo6oc49h76o3lsg.png",
       "source": "Dev.to",
       "user": "Thomas Marcelis"
+    },
+    {
+      "title": "Playwright in Pictures: Fully Parallel Mode",
+      "url": "https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj",
+      "published_at": "2026-04-15T13:01:43Z",
+      "description": "Playwright’s fullyParallel mode is often treated as a simple performance switch. In practice, it...",
+      "tags": [
+        "playwright",
+        "testing",
+        "webdev",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
+      "source": "Dev.to",
+      "user": "Vitaliy Potapov"
     },
     {
       "title": "Shik — I finally feel joy writing scripts",
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 499,
       "user": "andrewjiang"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 423,
       "user": "Manavarya09"
     },
     {
@@ -2214,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 205,
       "user": "MangoLion"
     },
     {
@@ -2229,7 +2229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86781810?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "nesaminua"
     },
     {
@@ -2244,7 +2244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3116,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -2259,7 +2259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1082,
       "user": "OpenMOSS"
     },
     {
@@ -2274,7 +2274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "sterlingcrispin"
     },
     {
@@ -2289,7 +2289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "AMAP-ML"
     },
     {
@@ -2319,7 +2319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "retlehs"
     },
     {
@@ -2334,7 +2334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 360,
       "user": "xataio"
     },
     {
@@ -2379,7 +2379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 107,
       "user": "vavallee"
     }
   ]
