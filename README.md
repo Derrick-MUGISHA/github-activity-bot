@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-16-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
 **Security**: 🟦🟦 7 (6.7%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![go](https://img.shields.io/badge/go-9-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![aws](https://img.shields.io/badge/aws-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-16 23:00 CAT)
+## 📅 Latest Updates (2026-04-17 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -201,12 +201,11 @@ npm run test
 - [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5) _[Dev.to]_
 - [Architecture Documentation as a First-Class Engineering Asset](https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j) _[Dev.to]_
 - [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch) _[Dev.to]_
-- [Turning the Raspberry Pi Zero into a Hacking Gadget](https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl) _[Dev.to]_
 - [MiniClaw: A Tiny LLM Agent for Mini Micro](https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf) _[Dev.to]_
+- [Turning the Raspberry Pi Zero into a Hacking Gadget](https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl) _[Dev.to]_
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
-- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
-- [How I'm using ASTs and Gemini to solve the "Codebase Onboarding" problem 🧠](https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9) _[Dev.to]_
+- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) _[Dev.to]_
 - [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585) _[Dev.to]_
 - [Building Serverless APIs with TDD and AI-Powered Spec Generation](https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Local AI Will Save Us All (The Math Says So, Trust Me)](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22) _[Dev.to]_
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 - [How to prompt Gemini 3.1's new text to speech model](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb) _[Dev.to]_
+- [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Thu, 16 Apr 2026 23:58:33 CAT_
+_Last automated update: Fri, 17 Apr 2026 00:49:30 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Thu, 16 Apr 2026 23:58:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 16 Apr 2026 21:58:33 GMT</b><br/>
+  <b>Last automated update: Thu, 16 Apr 2026 22:49:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
