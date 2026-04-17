@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
-      "published_at": "2026-04-16T15:38:54Z",
-      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Congrats to the Notion MCP Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
       "published_at": "2026-04-17T16:30:22Z",
@@ -27,6 +12,21 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -101,6 +101,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
       "source": "Dev.to",
       "user": "christine"
+    },
+    {
+      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
+      "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
+      "published_at": "2026-04-17T18:03:04Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition           What I Built   GheiaGrid is a...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "agriculture",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4l50plts4azjefrc5m4.png",
+      "source": "Dev.to",
+      "user": "Kai Chew"
+    },
+    {
+      "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
+      "url": "https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846",
+      "published_at": "2026-04-17T16:59:49Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition (April 22)           What I Built   I...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "earthday",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
+      "source": "Dev.to",
+      "user": "Sushan Shetty"
     },
     {
       "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
@@ -207,19 +237,19 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
+      "published_at": "2026-04-16T09:49:24Z",
+      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
       "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
+        "architecture",
+        "security",
+        "ai",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Alexander Tyutin"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -237,19 +267,19 @@
       "user": "xbill"
     },
     {
-      "title": "Architecture Documentation as a First-Class Engineering Asset",
-      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
-      "published_at": "2026-04-16T09:49:24Z",
-      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "architecture",
-        "security",
-        "ai",
-        "agents"
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
-      "user": "Alexander Tyutin"
+      "user": "xbill"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -342,21 +372,6 @@
       "user": "Serhii Panchyshyn"
     },
     {
-      "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
-      "url": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
-      "published_at": "2026-04-14T16:39:36Z",
-      "description": "Background   I needed high-quality instruction datasets for fine-tuning local LLMs, but...",
-      "tags": [
-        "ai",
-        "automation",
-        "llm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png",
-      "source": "Dev.to",
-      "user": "Bernabé Puente Moure"
-    },
-    {
       "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
       "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
       "published_at": "2026-04-15T00:49:38Z",
@@ -387,21 +402,6 @@
       "user": "fofr"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -413,6 +413,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -738,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 292,
       "user": "assai-id"
     },
     {
@@ -753,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 551,
       "user": "xataio"
     },
     {
@@ -1022,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 840,
       "user": "Manavarya09"
     },
     {
@@ -1037,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "andrewjiang"
     },
     {
@@ -1082,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 292,
       "user": "assai-id"
     }
   ],
@@ -1103,21 +1118,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -1129,6 +1129,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1264,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 872,
       "user": "browser-use"
     },
     {
@@ -1279,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 818,
       "user": "sterlingcrispin"
     },
     {
@@ -1294,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 746,
       "user": "patterniha"
     },
     {
@@ -1309,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 741,
       "user": "Robbyant"
     },
     {
@@ -1324,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "wbh604"
     }
   ],
@@ -1386,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "joao-zanutto"
     }
   ],
@@ -1555,21 +1570,6 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
       "published_at": "2026-04-16T13:12:53Z",
@@ -1581,6 +1581,21 @@
         "multiagentsystems"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1615,21 +1630,6 @@
       "user": "xbill"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -1641,6 +1641,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1716,7 +1731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 551,
       "user": "xataio"
     }
   ],
@@ -2014,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 840,
       "user": "Manavarya09"
     },
     {
@@ -2029,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "andrewjiang"
     },
     {
@@ -2074,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 292,
       "user": "assai-id"
     },
     {
@@ -2089,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 872,
       "user": "browser-use"
     },
     {
@@ -2104,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 818,
       "user": "sterlingcrispin"
     },
     {
@@ -2119,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 746,
       "user": "patterniha"
     },
     {
@@ -2134,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 741,
       "user": "Robbyant"
     },
     {
@@ -2149,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "wbh604"
     },
     {
@@ -2164,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 551,
       "user": "xataio"
     },
     {
@@ -2224,7 +2239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "joao-zanutto"
     }
   ]
