@@ -30,6 +30,21 @@
       "user": "Jono Herrington"
     },
     {
+      "title": "100 Daily Challenges to Learn Web3 and Solana",
+      "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
+      "published_at": "2026-04-17T15:14:12Z",
+      "description": "Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.",
+      "tags": [
+        "web3",
+        "solana",
+        "programming",
+        "blockchain"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
+    {
       "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
       "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
       "published_at": "2026-04-16T15:03:04Z",
@@ -117,6 +132,21 @@
       "user": "Neha Sharma "
     },
     {
+      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
+      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
+      "published_at": "2026-04-16T14:44:03Z",
+      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "tags": [
+        "tdd",
+        "spec",
+        "serverless",
+        "aidlc"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "source": "Dev.to",
+      "user": "Salih Guler "
+    },
+    {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
       "published_at": "2026-04-16T18:50:29Z",
@@ -147,19 +177,19 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
-      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
-      "published_at": "2026-04-16T14:44:03Z",
-      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "tdd",
-        "spec",
-        "serverless",
-        "aidlc"
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
-      "user": "Salih Guler "
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -173,21 +203,6 @@
         "multiagentsystems"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -295,21 +310,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftv8stu1zwsjzvku972y2.png",
       "source": "Dev.to",
       "user": "Serhii Panchyshyn"
-    },
-    {
-      "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
-      "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
-      "published_at": "2026-04-15T08:26:53Z",
-      "description": "Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...",
-      "tags": [
-        "ai",
-        "rag",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
@@ -535,20 +535,6 @@
       "user": "Aurélie Vache"
     },
     {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
-    },
-    {
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
       "published_at": "2026-04-15T14:32:01Z",
@@ -562,6 +548,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "bergside"
     },
     {
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "V-IOLE-T"
     },
     {
@@ -737,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 285,
       "user": "assai-id"
     },
     {
@@ -752,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 541,
       "user": "xataio"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "wh0amitz"
     }
   ],
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 820,
       "user": "Manavarya09"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 586,
       "user": "andrewjiang"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "bergside"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "V-IOLE-T"
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 285,
       "user": "assai-id"
     }
   ],
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 816,
       "user": "sterlingcrispin"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 801,
       "user": "browser-use"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 726,
       "user": "patterniha"
     },
     {
@@ -1308,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 705,
       "user": "Robbyant"
     },
     {
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 651,
       "user": "wbh604"
     }
   ],
@@ -1404,21 +1404,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
-      "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
-      "published_at": "2026-04-15T08:26:53Z",
-      "description": "Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...",
-      "tags": [
-        "ai",
-        "rag",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "Partial Password Authentication",
@@ -1509,6 +1494,21 @@
       "user": "Sebastian Schürmann"
     },
     {
+      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
+      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
+      "published_at": "2026-04-16T14:44:03Z",
+      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "tags": [
+        "tdd",
+        "spec",
+        "serverless",
+        "aidlc"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "source": "Dev.to",
+      "user": "Salih Guler "
+    },
+    {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
       "published_at": "2026-04-16T18:50:29Z",
@@ -1539,19 +1539,19 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
-      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
-      "published_at": "2026-04-16T14:44:03Z",
-      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "tdd",
-        "spec",
-        "serverless",
-        "aidlc"
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
-      "user": "Salih Guler "
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -1565,21 +1565,6 @@
         "multiagentsystems"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1612,21 +1597,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
-      "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
-      "published_at": "2026-04-15T08:26:53Z",
-      "description": "Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...",
-      "tags": [
-        "ai",
-        "rag",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -1730,26 +1700,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 541,
       "user": "xataio"
     }
   ],
   "Database": [
-    {
-      "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
-      "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
-      "published_at": "2026-04-15T08:26:53Z",
-      "description": "Building a Retrieval-Augmented Generation (RAG) sounds easy with all the available tutorials. You...",
-      "tags": [
-        "ai",
-        "rag",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4jrjqe5jj6v41hav9p1.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
     {
       "title": "My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator",
       "url": "https://dev.to/nikitavolkov/my-14-year-journey-away-from-orms-how-i-built-pgenie-the-sql-first-postgres-code-generator-5c3j",
@@ -1876,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "V-IOLE-T"
     }
   ],
@@ -2058,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 820,
       "user": "Manavarya09"
     },
     {
@@ -2073,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 586,
       "user": "andrewjiang"
     },
     {
@@ -2088,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "bergside"
     },
     {
@@ -2103,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "V-IOLE-T"
     },
     {
@@ -2118,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 285,
       "user": "assai-id"
     },
     {
@@ -2133,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 816,
       "user": "sterlingcrispin"
     },
     {
@@ -2148,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 801,
       "user": "browser-use"
     },
     {
@@ -2163,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 726,
       "user": "patterniha"
     },
     {
@@ -2178,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 705,
       "user": "Robbyant"
     },
     {
@@ -2193,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 651,
       "user": "wbh604"
     },
     {
@@ -2208,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 541,
       "user": "xataio"
     },
     {
@@ -2223,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "wh0amitz"
     },
     {
@@ -2253,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 100,
       "user": "dgr8akki"
     },
     {
