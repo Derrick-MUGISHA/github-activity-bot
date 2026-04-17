@@ -45,21 +45,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
-      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
-      "published_at": "2026-04-16T18:13:14Z",
-      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
-      "tags": [
-        "miniscript",
-        "minimicro",
-        "agents",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
-      "source": "Dev.to",
-      "user": "JoeStrout"
-    },
-    {
       "title": "Watching RubyGems.org in Real Time",
       "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
       "published_at": "2026-04-16T21:46:47Z",
@@ -73,19 +58,19 @@
       "user": "christine"
     },
     {
-      "title": "TPU Mythbusting: the general perception",
-      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
-      "published_at": "2026-04-16T18:50:29Z",
-      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
+      "published_at": "2026-04-16T18:13:14Z",
+      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
       "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
+        "miniscript",
+        "minimicro",
+        "agents",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
       "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
+      "user": "JoeStrout"
     },
     {
       "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
@@ -130,6 +115,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
       "source": "Dev.to",
       "user": "Neha Sharma "
+    },
+    {
+      "title": "TPU Mythbusting: the general perception",
+      "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
+      "published_at": "2026-04-16T18:50:29Z",
+      "description": "The IT world has been deeply immersed in the AI revolution over the past two years. Terms like GenAI,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "TPU Mythbusting: cost and usage",
@@ -192,21 +192,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "gemini",
-        "productivity",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
-    },
-    {
       "title": "Architecture Documentation as a First-Class Engineering Asset",
       "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
       "published_at": "2026-04-16T09:49:24Z",
@@ -220,6 +205,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
       "source": "Dev.to",
       "user": "Alexander Tyutin"
+    },
+    {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "gemini",
+        "productivity",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -250,21 +250,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
-      "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
@@ -355,20 +340,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhicm9isu4mkpi9caeetu.png",
       "source": "Dev.to",
       "user": "Radu C."
-    },
-    {
-      "title": "Stop Building AI Features Nobody Asked For",
-      "url": "https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa",
-      "published_at": "2026-04-15T08:40:03Z",
-      "description": "In an era where AI makes prototyping dangerously fast, this piece serves as a wake-up call for builders to stop \"polishing curiosity\" and start solving actual pain.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8y7mnpkxffhpaq6k21x.png",
-      "source": "Dev.to",
-      "user": "Peter Strauss"
     },
     {
       "title": "How to prompt Gemini 3.1's new text to speech model",
@@ -506,21 +477,6 @@
       "user": "drtobbyas"
     },
     {
-      "title": "FastAPI Async+Pytest, Event Loop Trap",
-      "url": "https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c",
-      "published_at": "2026-04-14T14:18:21Z",
-      "description": "Async FastAPI tests fail with different loop errors due to connection pool behavior. Here is what actually works.",
-      "tags": [
-        "python",
-        "fastapi",
-        "pytest",
-        "asyncio"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png",
-      "source": "Dev.to",
-      "user": "Neeraj Kansal"
-    },
-    {
       "title": "Designing a CLI for Both Humans and Agents",
       "url": "https://dev.to/alpic/designing-a-cli-for-both-humans-and-agents-4069",
       "published_at": "2026-04-15T10:03:17Z",
@@ -591,6 +547,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
       "source": "Dev.to",
       "user": "Nikita Namjoshi"
+    },
+    {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -736,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "bergside"
     },
     {
@@ -766,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "assai-id"
     },
     {
@@ -781,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 537,
       "user": "xataio"
     },
     {
@@ -796,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 225,
       "user": "wh0amitz"
     }
   ],
@@ -1050,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 807,
       "user": "Manavarya09"
     },
     {
@@ -1065,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 583,
       "user": "andrewjiang"
     },
     {
@@ -1080,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "bergside"
     },
     {
@@ -1110,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "assai-id"
     }
   ],
@@ -1159,21 +1130,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "FastAPI Async+Pytest, Event Loop Trap",
-      "url": "https://dev.to/neerajkansal9/fastapi-asyncpytest-event-loop-trap-295c",
-      "published_at": "2026-04-14T14:18:21Z",
-      "description": "Async FastAPI tests fail with different loop errors due to connection pool behavior. Here is what actually works.",
-      "tags": [
-        "python",
-        "fastapi",
-        "pytest",
-        "asyncio"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa25a1ydqvbup1speivmo.png",
-      "source": "Dev.to",
-      "user": "Neeraj Kansal"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1307,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 815,
       "user": "sterlingcrispin"
     },
     {
@@ -1322,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 778,
       "user": "browser-use"
     },
     {
@@ -1337,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 719,
       "user": "patterniha"
     },
     {
@@ -1352,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 698,
       "user": "Robbyant"
     },
     {
@@ -1367,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 637,
       "user": "wbh604"
     }
   ],
@@ -1429,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "joao-zanutto"
     }
   ],
@@ -1535,23 +1491,23 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
       "source": "Dev.to",
       "user": "Daksh Gargas"
-    },
-    {
-      "title": "Stop Building AI Features Nobody Asked For",
-      "url": "https://dev.to/strauss/stop-building-ai-features-nobody-asked-for-koa",
-      "published_at": "2026-04-15T08:40:03Z",
-      "description": "In an era where AI makes prototyping dangerously fast, this piece serves as a wake-up call for builders to stop \"polishing curiosity\" and start solving actual pain.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8y7mnpkxffhpaq6k21x.png",
-      "source": "Dev.to",
-      "user": "Peter Strauss"
     }
   ],
   "Cloud": [
+    {
+      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
+      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
+      "published_at": "2026-04-15T14:05:13Z",
+      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
+      "tags": [
+        "ai",
+        "mba",
+        "operations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
+    },
     {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
@@ -1566,20 +1522,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F847ehu5b5ilv7lagtopa.webp",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
-    },
-    {
-      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
-      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
-      "published_at": "2026-04-15T14:05:13Z",
-      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
-      "tags": [
-        "ai",
-        "mba",
-        "operations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
     },
     {
       "title": "TPU Mythbusting: cost and usage",
@@ -1672,21 +1614,6 @@
       "user": "xbill"
     },
     {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
-      "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "Building a Scalable RAG Backend with Cloud Run Jobs and AlloyDB",
       "url": "https://dev.to/googleai/building-a-scalable-rag-backend-with-cloud-run-jobs-and-alloydb-59pk",
       "published_at": "2026-04-15T08:26:53Z",
@@ -1777,6 +1704,21 @@
       "user": "Sofiane Hamlaoui"
     },
     {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -1788,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 537,
       "user": "xataio"
     }
   ],
@@ -1985,21 +1927,6 @@
       "user": "tworrell"
     },
     {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "published_at": "2026-04-15T14:32:01Z",
-      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
-      "tags": [
-        "ai",
-        "beginners",
-        "productivity",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
       "published_at": "2026-04-15T14:41:03Z",
@@ -2105,6 +2032,21 @@
       "user": "Marcel.L"
     },
     {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2116,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 807,
       "user": "Manavarya09"
     },
     {
@@ -2131,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 583,
       "user": "andrewjiang"
     },
     {
@@ -2146,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "bergside"
     },
     {
@@ -2176,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "assai-id"
     },
     {
@@ -2191,7 +2133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 815,
       "user": "sterlingcrispin"
     },
     {
@@ -2206,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 778,
       "user": "browser-use"
     },
     {
@@ -2221,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 719,
       "user": "patterniha"
     },
     {
@@ -2236,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 698,
       "user": "Robbyant"
     },
     {
@@ -2251,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 637,
       "user": "wbh604"
     },
     {
@@ -2266,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 537,
       "user": "xataio"
     },
     {
@@ -2281,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 225,
       "user": "wh0amitz"
     },
     {
@@ -2311,7 +2253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 97,
       "user": "dgr8akki"
     },
     {
@@ -2326,7 +2268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "joao-zanutto"
     }
   ]
