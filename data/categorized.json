@@ -16,6 +16,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Congrats to the Notion MCP Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
+      "published_at": "2026-04-17T16:30:22Z",
+      "description": "The results are in!  We're thrilled to announce our winners for the Notion MCP Challenge! From...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "100 Daily Challenges to Learn Web3 and Solana",
       "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
       "published_at": "2026-04-17T15:14:12Z",
@@ -45,21 +60,6 @@
       "user": "Jono Herrington"
     },
     {
-      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
-      "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
-      "published_at": "2026-04-16T15:03:04Z",
-      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl",
       "published_at": "2026-04-17T14:42:33Z",
@@ -75,6 +75,21 @@
       "user": "xbill"
     },
     {
+      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
+      "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
+      "published_at": "2026-04-16T15:03:04Z",
+      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
       "title": "Watching RubyGems.org in Real Time",
       "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
       "published_at": "2026-04-16T21:46:47Z",
@@ -86,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
       "source": "Dev.to",
       "user": "christine"
-    },
-    {
-      "title": "Congrats to the Notion MCP Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
-      "published_at": "2026-04-17T16:30:22Z",
-      "description": "The results are in!  We're thrilled to announce our winners for the Notion MCP Challenge! From...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
@@ -536,20 +536,6 @@
       "user": "Serhii Panchyshyn"
     },
     {
-      "title": "Understanding Go: part 13 – Methods",
-      "url": "https://dev.to/aurelievache/understanding-go-part-13-methods-585a",
-      "published_at": "2026-04-13T07:30:00Z",
-      "description": "Serie of sketchnotes about Go. Explaining in a visual way Go/Golang concepts.",
-      "tags": [
-        "go",
-        "tutorial",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsd8oipatvyixm3e16gh2.jpg",
-      "source": "Dev.to",
-      "user": "Aurélie Vache"
-    },
-    {
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
       "published_at": "2026-04-15T14:32:01Z",
@@ -722,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "bergside"
     },
     {
@@ -752,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "assai-id"
     },
     {
@@ -767,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 547,
       "user": "xataio"
     },
     {
@@ -782,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 231,
       "user": "wh0amitz"
     }
   ],
@@ -1036,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "Manavarya09"
     },
     {
@@ -1051,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "andrewjiang"
     },
     {
@@ -1066,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "bergside"
     },
     {
@@ -1096,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "assai-id"
     }
   ],
@@ -1278,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 846,
       "user": "browser-use"
     },
     {
@@ -1293,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "sterlingcrispin"
     },
     {
@@ -1308,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 740,
       "user": "patterniha"
     },
     {
@@ -1323,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 727,
       "user": "Robbyant"
     },
     {
@@ -1338,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 668,
       "user": "wbh604"
     }
   ],
@@ -1400,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "joao-zanutto"
     }
   ],
@@ -1730,7 +1716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 547,
       "user": "xataio"
     }
   ],
@@ -2028,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "Manavarya09"
     },
     {
@@ -2043,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "andrewjiang"
     },
     {
@@ -2058,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "bergside"
     },
     {
@@ -2088,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "assai-id"
     },
     {
@@ -2103,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 846,
       "user": "browser-use"
     },
     {
@@ -2118,7 +2104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "sterlingcrispin"
     },
     {
@@ -2133,7 +2119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 740,
       "user": "patterniha"
     },
     {
@@ -2148,7 +2134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 727,
       "user": "Robbyant"
     },
     {
@@ -2163,7 +2149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 668,
       "user": "wbh604"
     },
     {
@@ -2178,7 +2164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 547,
       "user": "xataio"
     },
     {
@@ -2193,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 231,
       "user": "wh0amitz"
     },
     {
@@ -2208,7 +2194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "vavallee"
     },
     {
@@ -2223,7 +2209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "dgr8akki"
     },
     {
@@ -2238,7 +2224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "joao-zanutto"
     }
   ]
