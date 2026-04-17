@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-17 12:00 CAT)
+## 📅 Latest Updates (2026-04-17 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
+    <a href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg" width="200" alt="Congrats to the 2026 WeCoded Challenge Winners!" />
       <br/>
-      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
+      <b>Congrats to the 2026 WeCoded Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,10 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg" width="200" alt="Congrats to the 2026 WeCoded Challenge Winners!" />
+    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
       <br/>
-      <b>Congrats to the 2026 WeCoded Challenge Winners!</b>
+      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 
 - [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682) _[Dev.to]_
 - [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3) _[Dev.to]_
-- [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
+- [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
 - [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5) _[Dev.to]_
 - [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Turning the Raspberry Pi Zero into a Hacking Gadget](https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl) _[Dev.to]_
 - [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch) _[Dev.to]_
 
-_Last automated update: Fri, 17 Apr 2026 12:51:41 CAT_
+_Last automated update: Fri, 17 Apr 2026 13:49:16 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 17 Apr 2026 12:51:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 17 Apr 2026 10:51:41 GMT</b><br/>
+  <b>Last automated update: Fri, 17 Apr 2026 11:49:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
