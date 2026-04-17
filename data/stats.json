@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 4,
@@ -18,8 +18,8 @@
     "Tools": 25
   },
   "by_language": {
+    "Go": 28,
     "Python": 18,
-    "Go": 29,
     "Ruby": 1,
     "Kotlin": 1,
     "Rust": 3,
@@ -28,13 +28,13 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-04-16": 20,
     "2026-04-17": 5,
+    "2026-04-16": 20,
     "2026-04-15": 15,
     "2026-04-14": 12,
     "2026-04-08": 1,
-    "2026-04-13": 5,
-    "2026-04-10": 2,
+    "2026-04-13": 4,
+    "2026-04-10": 3,
     "2026-04-09": 4,
     "2026-04-07": 1,
     "2026-04-11": 4,
@@ -79,13 +79,13 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
-    "go": 9,
     "programming": 8,
     "python": 8,
-    "tutorial": 7,
+    "go": 8,
     "webdev": 7,
+    "discuss": 6,
+    "tutorial": 6,
     "opensource": 6,
-    "discuss": 5,
     "devchallenge": 4,
     "googleadk": 4,
     "a2aprotocol": 4,
@@ -94,13 +94,13 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "18.8",
-    "Go": "30.2",
-    "Ruby": "1.0",
-    "Kotlin": "1.0",
-    "Rust": "3.1",
-    "JavaScript": "24.0",
-    "Java": "20.8",
-    "Swift": "1.0"
+    "Go": "29.5",
+    "Python": "18.9",
+    "Ruby": "1.1",
+    "Kotlin": "1.1",
+    "Rust": "3.2",
+    "JavaScript": "24.2",
+    "Java": "21.1",
+    "Swift": "1.1"
   }
 }
