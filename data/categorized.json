@@ -120,6 +120,35 @@
       "user": "Salih Guler "
     },
     {
+      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
+      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
+      "published_at": "2026-04-15T14:05:13Z",
+      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
+      "tags": [
+        "ai",
+        "mba",
+        "operations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
+    },
+    {
+      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
+      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
+      "published_at": "2026-04-16T03:07:52Z",
+      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
+      "tags": [
+        "ios",
+        "swiftui",
+        "testing",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
+      "source": "Dev.to",
+      "user": "Daksh Gargas"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
       "published_at": "2026-04-16T13:12:53Z",
@@ -148,35 +177,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
-      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
-      "published_at": "2026-04-15T14:05:13Z",
-      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
-      "tags": [
-        "ai",
-        "mba",
-        "operations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
-    },
-    {
-      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
-      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
-      "published_at": "2026-04-16T03:07:52Z",
-      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
-      "tags": [
-        "ios",
-        "swiftui",
-        "testing",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
-      "source": "Dev.to",
-      "user": "Daksh Gargas"
     },
     {
       "title": "Claude skills vs Commands",
@@ -312,6 +312,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "productivity",
+        "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
+    },
+    {
       "title": "My First RAG System Had No Evals. 40% of Answers Were Wrong.",
       "url": "https://dev.to/serhiip/my-first-rag-system-had-no-evals-40-of-answers-were-wrong-ab",
       "published_at": "2026-04-13T20:58:06Z",
@@ -399,6 +414,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8y7mnpkxffhpaq6k21x.png",
       "source": "Dev.to",
       "user": "Peter Strauss"
+    },
+    {
+      "title": "How to prompt Gemini 3.1's new text to speech model",
+      "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
+      "published_at": "2026-04-15T16:12:25Z",
+      "description": "Gemini 3.1 Flash text to speech (TTS) is a new model that you can direct to get the precise audio...",
+      "tags": [
+        "ai",
+        "gemini",
+        "promptengineering",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2go6updsvkkoozbimzqb.png",
+      "source": "Dev.to",
+      "user": "fofr"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -752,53 +782,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 271,
       "user": "bergside"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "published_at": "2026-04-10T15:07:10Z",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 3350,
-      "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "published_at": "2026-04-10T16:25:07Z",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1224,
-      "user": "OpenMOSS"
-    },
-    {
-      "title": "retlehs/quien - A better whois and domain intelligence toolkit",
-      "url": "https://github.com/retlehs/quien",
-      "published_at": "2026-04-10T02:53:42Z",
-      "description": "A better whois and domain intelligence toolkit",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "retlehs"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -812,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "xataio"
     },
     {
@@ -1081,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 675,
       "user": "Manavarya09"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 552,
       "user": "andrewjiang"
     },
     {
@@ -1126,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 271,
       "user": "bergside"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "MangoLion"
     }
   ],
@@ -1327,36 +1312,6 @@
       "user": "gilad"
     },
     {
-      "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "published_at": "2026-04-10T15:07:10Z",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 3350,
-      "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "published_at": "2026-04-10T16:25:07Z",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1224,
-      "user": "OpenMOSS"
-    },
-    {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "published_at": "2026-04-12T18:26:00Z",
@@ -1368,38 +1323,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 799,
       "user": "sterlingcrispin"
     },
     {
-      "title": "Tencent-Hunyuan/HY-World-2.0 - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
-      "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-      "published_at": "2026-04-10T07:09:43Z",
-      "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
+      "url": "https://github.com/patterniha/SNI-Spoofing",
+      "published_at": "2026-04-12T10:47:30Z",
+      "description": "Bypass DPI with IP/TCP-Header manipulation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 752,
-      "user": "Tencent-Hunyuan"
+      "stars": 665,
+      "user": "patterniha"
     },
     {
-      "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
-      "url": "https://github.com/AMAP-ML/SkillClaw",
-      "published_at": "2026-04-10T03:25:47Z",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "title": "bstnxbt/dflash-mlx - Lossless DFlash speculative decoding for MLX on Apple Silicon",
+      "url": "https://github.com/bstnxbt/dflash-mlx",
+      "published_at": "2026-04-11T17:25:41Z",
+      "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6129548?v=4",
       "source": "GitHub",
-      "stars": 678,
-      "user": "AMAP-ML"
+      "stars": 445,
+      "user": "bstnxbt"
+    },
+    {
+      "title": "browser-use/video-use - GitHub Repository",
+      "url": "https://github.com/browser-use/video-use",
+      "published_at": "2026-04-12T01:34:42Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 433,
+      "user": "browser-use"
+    },
+    {
+      "title": "stanford-iris-lab/meta-harness - Reference code for the Meta-Harness paper.",
+      "url": "https://github.com/stanford-iris-lab/meta-harness",
+      "published_at": "2026-04-15T05:31:36Z",
+      "description": "Reference code for the Meta-Harness paper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63766302?v=4",
+      "source": "GitHub",
+      "stars": 381,
+      "user": "stanford-iris-lab"
     }
   ],
   "DevOps": [
@@ -1447,6 +1432,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
       "source": "Dev.to",
       "user": "drtobbyas"
+    },
+    {
+      "title": "joao-zanutto/easydocker - GitHub Repository",
+      "url": "https://github.com/joao-zanutto/easydocker",
+      "published_at": "2026-04-12T01:02:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "joao-zanutto"
     }
   ],
   "WebDev": [
@@ -1614,6 +1614,20 @@
       "user": "Salih Guler "
     },
     {
+      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
+      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
+      "published_at": "2026-04-15T14:05:13Z",
+      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
+      "tags": [
+        "ai",
+        "mba",
+        "operations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
       "published_at": "2026-04-16T13:12:53Z",
@@ -1642,20 +1656,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
-      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
-      "published_at": "2026-04-15T14:05:13Z",
-      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
-      "tags": [
-        "ai",
-        "mba",
-        "operations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
     },
     {
       "title": "Deploy OpenClaw on AWS: Choose the right options for your AI workload",
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "xataio"
     }
   ],
@@ -2075,6 +2075,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
+      "published_at": "2026-04-15T14:41:03Z",
+      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
+      "tags": [
+        "ai",
+        "productivity",
+        "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
+      "source": "Dev.to",
+      "user": "tworrell"
+    },
+    {
       "title": "🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety (Brutal Feedback Needed)",
       "url": "https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf",
       "published_at": "2026-04-13T17:45:50Z",
@@ -2161,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 675,
       "user": "Manavarya09"
     },
     {
@@ -2176,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 552,
       "user": "andrewjiang"
     },
     {
@@ -2206,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 271,
       "user": "bergside"
     },
     {
@@ -2221,38 +2236,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "MangoLion"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "published_at": "2026-04-10T15:07:10Z",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 3350,
-      "user": "yizhiyanhua-ai"
-    },
-    {
-      "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "published_at": "2026-04-10T16:25:07Z",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1224,
-      "user": "OpenMOSS"
     },
     {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
@@ -2266,53 +2251,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 799,
       "user": "sterlingcrispin"
     },
     {
-      "title": "Tencent-Hunyuan/HY-World-2.0 - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
-      "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
-      "published_at": "2026-04-10T07:09:43Z",
-      "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
+      "url": "https://github.com/patterniha/SNI-Spoofing",
+      "published_at": "2026-04-12T10:47:30Z",
+      "description": "Bypass DPI with IP/TCP-Header manipulation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 752,
-      "user": "Tencent-Hunyuan"
+      "stars": 665,
+      "user": "patterniha"
     },
     {
-      "title": "AMAP-ML/SkillClaw - Let Skills Evolve Collectively with Agentic Evolver ",
-      "url": "https://github.com/AMAP-ML/SkillClaw",
-      "published_at": "2026-04-10T03:25:47Z",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "title": "bstnxbt/dflash-mlx - Lossless DFlash speculative decoding for MLX on Apple Silicon",
+      "url": "https://github.com/bstnxbt/dflash-mlx",
+      "published_at": "2026-04-11T17:25:41Z",
+      "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6129548?v=4",
       "source": "GitHub",
-      "stars": 678,
-      "user": "AMAP-ML"
+      "stars": 445,
+      "user": "bstnxbt"
     },
     {
-      "title": "retlehs/quien - A better whois and domain intelligence toolkit",
-      "url": "https://github.com/retlehs/quien",
-      "published_at": "2026-04-10T02:53:42Z",
-      "description": "A better whois and domain intelligence toolkit",
+      "title": "browser-use/video-use - GitHub Repository",
+      "url": "https://github.com/browser-use/video-use",
+      "published_at": "2026-04-12T01:34:42Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/115911?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 568,
-      "user": "retlehs"
+      "stars": 433,
+      "user": "browser-use"
+    },
+    {
+      "title": "stanford-iris-lab/meta-harness - Reference code for the Meta-Harness paper.",
+      "url": "https://github.com/stanford-iris-lab/meta-harness",
+      "published_at": "2026-04-15T05:31:36Z",
+      "description": "Reference code for the Meta-Harness paper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63766302?v=4",
+      "source": "GitHub",
+      "stars": 381,
+      "user": "stanford-iris-lab"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -2326,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 486,
       "user": "xataio"
     },
     {
@@ -2345,21 +2345,6 @@
       "user": "wh0amitz"
     },
     {
-      "title": "Nyarime/NRUP - 🥤 NRUP - A reliable encrypted UDP transport protocol built on DTLS",
-      "url": "https://github.com/Nyarime/NRUP",
-      "published_at": "2026-04-10T20:53:07Z",
-      "description": "🥤 NRUP - A reliable encrypted UDP transport protocol built on DTLS",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "Nyarime"
-    },
-    {
       "title": "vavallee/bindery - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.",
       "url": "https://github.com/vavallee/bindery",
       "published_at": "2026-04-11T21:40:44Z",
@@ -2373,6 +2358,36 @@
       "source": "GitHub",
       "stars": 112,
       "user": "vavallee"
+    },
+    {
+      "title": "dgr8akki/nano-ffmpeg - nano-ffmpeg wraps the full power of ffmpeg in a beautiful, keyboard-driven terminal dashboard. No more googling flags. Browse your files, pick what you want to do, tweak settings with presets, and watch a live progress bar while it encodes.",
+      "url": "https://github.com/dgr8akki/nano-ffmpeg",
+      "published_at": "2026-04-11T17:34:33Z",
+      "description": "nano-ffmpeg wraps the full power of ffmpeg in a beautiful, keyboard-driven terminal dashboard. No more googling flags. Browse your files, pick what you want to do, tweak settings with presets, and watch a live progress bar while it encodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "dgr8akki"
+    },
+    {
+      "title": "joao-zanutto/easydocker - GitHub Repository",
+      "url": "https://github.com/joao-zanutto/easydocker",
+      "published_at": "2026-04-12T01:02:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "joao-zanutto"
     }
   ]
 }

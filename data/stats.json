@@ -1,21 +1,21 @@
 {
-  "total": 103,
+  "total": 105,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 58,
+    "AI": 57,
     "JavaScript": 23,
     "Python": 19,
-    "DevOps": 3,
+    "DevOps": 4,
     "WebDev": 5,
     "Mobile": 3,
     "Cloud": 19,
     "Database": 2,
     "Security": 7,
-    "Tools": 26
+    "Tools": 27
   },
   "by_language": {
     "Python": 19,
@@ -29,14 +29,14 @@
   "by_date": {
     "2026-04-16": 17,
     "2026-04-14": 14,
-    "2026-04-15": 15,
+    "2026-04-15": 18,
     "2026-04-08": 1,
     "2026-04-13": 6,
-    "2026-04-10": 8,
+    "2026-04-10": 2,
     "2026-04-09": 4,
     "2026-04-07": 1,
-    "2026-04-11": 3,
-    "2026-04-12": 4,
+    "2026-04-11": 5,
+    "2026-04-12": 7,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -68,10 +68,10 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 24,
+    "ai": 26,
     "github": 16,
     "open-source": 15,
-    "gemini": 10,
+    "gemini": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
@@ -79,12 +79,12 @@
     "programming": 9,
     "javascript": 9,
     "go": 9,
-    "webdev": 7,
+    "webdev": 8,
+    "tutorial": 7,
     "opensource": 7,
-    "tutorial": 6,
+    "productivity": 5,
     "aws": 5,
     "security": 4,
-    "productivity": 4,
     "a2aprotocol": 4,
     "googleadk": 4,
     "machinelearning": 4
