@@ -162,21 +162,6 @@
       "user": "Daksh Gargas"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Claude skills vs Commands",
       "url": "https://dev.to/hellonehha/claude-skills-vs-commands-1dcm",
       "published_at": "2026-04-14T10:13:02Z",
@@ -203,6 +188,21 @@
         "multiagentsystems"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -279,6 +279,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
+      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
+      "published_at": "2026-04-13T23:02:25Z",
+      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
+      "tags": [
+        "security",
+        "ai",
+        "docker",
+        "bugbounty"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
+      "source": "Dev.to",
+      "user": "spac3gh0st"
     },
     {
       "title": "Lost in the AI Hype, I Started Small",
@@ -415,21 +430,6 @@
       "user": "fofr"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -441,6 +441,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -565,6 +580,20 @@
       "user": "Julien Vallini"
     },
     {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
+    {
       "title": "Understanding Go: part 13 – Methods",
       "url": "https://dev.to/aurelievache/understanding-go-part-13-methods-585a",
       "published_at": "2026-04-13T07:30:00Z",
@@ -577,35 +606,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsd8oipatvyixm3e16gh2.jpg",
       "source": "Dev.to",
       "user": "Aurélie Vache"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
-      "published_at": "2026-04-12T15:03:26Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googlecloudrun",
-        "googleadk",
-        "a2aprotocol",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31mhl31x3m4pynuhx126.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 309,
       "user": "bergside"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 236,
       "user": "assai-id"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 497,
       "user": "xataio"
     },
     {
@@ -847,6 +847,19 @@
       "user": "andreykh"
     },
     {
+      "title": "You’re a Real Software Developer Only If…",
+      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
+      "published_at": "2026-04-09T21:07:21Z",
+      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
+      "tags": [
+        "jokes",
+        "devlive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
       "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
       "published_at": "2026-04-09T17:15:51Z",
@@ -877,19 +890,6 @@
       "user": "Vilva Athiban P B"
     },
     {
-      "title": "You’re a Real Software Developer Only If…",
-      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
-      "published_at": "2026-04-09T21:07:21Z",
-      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
-      "tags": [
-        "jokes",
-        "devlive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
       "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
       "published_at": "2026-04-09T01:19:42Z",
@@ -903,6 +903,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
+    },
+    {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
     },
     {
       "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
@@ -1051,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 715,
       "user": "Manavarya09"
     },
     {
@@ -1066,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "andrewjiang"
     },
     {
@@ -1081,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 309,
       "user": "bergside"
     },
     {
@@ -1111,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 236,
       "user": "assai-id"
     }
   ],
@@ -1132,21 +1146,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -1158,6 +1157,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1323,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 680,
       "user": "patterniha"
     },
     {
@@ -1338,23 +1352,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 568,
       "user": "browser-use"
-    },
-    {
-      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "published_at": "2026-04-16T07:36:06Z",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "wbh604"
     },
     {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
@@ -1368,8 +1367,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 534,
       "user": "Robbyant"
+    },
+    {
+      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "url": "https://github.com/wbh604/UZI-Skill",
+      "published_at": "2026-04-16T07:36:06Z",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
+      "source": "GitHub",
+      "stars": 501,
+      "user": "wbh604"
     }
   ],
   "DevOps": [
@@ -1387,6 +1401,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
       "source": "Dev.to",
       "user": "Marcel.L"
+    },
+    {
+      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
+      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
+      "published_at": "2026-04-13T23:02:25Z",
+      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
+      "tags": [
+        "security",
+        "ai",
+        "docker",
+        "bugbounty"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
+      "source": "Dev.to",
+      "user": "spac3gh0st"
     },
     {
       "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
@@ -1598,21 +1627,6 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
       "published_at": "2026-04-16T13:12:53Z",
@@ -1624,6 +1638,21 @@
         "multiagentsystems"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1717,21 +1746,6 @@
       "user": "Morgan Willis"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -1743,6 +1757,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "gemini",
+        "googleadk",
+        "python",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1792,21 +1821,6 @@
       "user": "Sofiane Hamlaoui"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Cloud Run, Agent Skills, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
-      "published_at": "2026-04-12T15:03:26Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googlecloudrun",
-        "googleadk",
-        "a2aprotocol",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31mhl31x3m4pynuhx126.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -1818,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 497,
       "user": "xataio"
     }
   ],
@@ -1881,6 +1895,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tjygbchauxkay6tnecv.png",
       "source": "Dev.to",
       "user": "Hugo | DevOps | Cybersecurity"
+    },
+    {
+      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
+      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
+      "published_at": "2026-04-13T23:02:25Z",
+      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
+      "tags": [
+        "security",
+        "ai",
+        "docker",
+        "bugbounty"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
+      "source": "Dev.to",
+      "user": "spac3gh0st"
     },
     {
       "title": "Partial Password Authentication",
@@ -2131,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 715,
       "user": "Manavarya09"
     },
     {
@@ -2146,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "andrewjiang"
     },
     {
@@ -2161,7 +2190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 309,
       "user": "bergside"
     },
     {
@@ -2191,7 +2220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 236,
       "user": "assai-id"
     },
     {
@@ -2221,7 +2250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 680,
       "user": "patterniha"
     },
     {
@@ -2236,23 +2265,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 568,
       "user": "browser-use"
-    },
-    {
-      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "published_at": "2026-04-16T07:36:06Z",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "wbh604"
     },
     {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
@@ -2266,8 +2280,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 534,
       "user": "Robbyant"
+    },
+    {
+      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "url": "https://github.com/wbh604/UZI-Skill",
+      "published_at": "2026-04-16T07:36:06Z",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
+      "source": "GitHub",
+      "stars": 501,
+      "user": "wbh604"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -2281,7 +2310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 497,
       "user": "xataio"
     },
     {
@@ -2326,7 +2355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "dgr8akki"
     },
     {
