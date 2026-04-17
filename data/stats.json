@@ -12,14 +12,14 @@
     "DevOps": 4,
     "WebDev": 5,
     "Mobile": 3,
-    "Cloud": 18,
+    "Cloud": 17,
     "Database": 2,
     "Security": 7,
     "Tools": 27
   },
   "by_language": {
-    "Ruby": 1,
     "Python": 19,
+    "Ruby": 1,
     "Go": 28,
     "Kotlin": 1,
     "JavaScript": 23,
@@ -85,16 +85,16 @@
     "tutorial": 7,
     "opensource": 7,
     "productivity": 5,
-    "aws": 5,
     "security": 4,
+    "aws": 4,
+    "machinelearning": 4,
     "devchallenge": 3,
-    "discuss": 3,
-    "agents": 3
+    "discuss": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Ruby": "1.1",
     "Python": "20.0",
+    "Ruby": "1.1",
     "Go": "29.5",
     "Kotlin": "1.1",
     "JavaScript": "24.2",
