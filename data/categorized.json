@@ -73,21 +73,6 @@
       "user": "christine"
     },
     {
-      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
-      "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
-      "published_at": "2026-04-17T18:03:04Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition           What I Built   GheiaGrid is a...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "agriculture",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4l50plts4azjefrc5m4.png",
-      "source": "Dev.to",
-      "user": "Kai Chew"
-    },
-    {
       "title": "Embarrassment is cheap. Token spend isn't.",
       "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
       "published_at": "2026-04-17T20:17:12Z",
@@ -101,6 +86,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
+      "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
+      "published_at": "2026-04-17T18:03:04Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition           What I Built   GheiaGrid is a...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "agriculture",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4l50plts4azjefrc5m4.png",
+      "source": "Dev.to",
+      "user": "Kai Chew"
     },
     {
       "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
@@ -710,8 +710,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 360,
       "user": "bergside"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "assai-id"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -729,21 +744,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 293,
-      "user": "assai-id"
-    },
-    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "xataio"
     },
     {
@@ -770,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "wh0amitz"
     }
   ],
@@ -995,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 866,
       "user": "Manavarya09"
     },
     {
@@ -1010,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "andrewjiang"
     },
     {
@@ -1025,8 +1025,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 360,
       "user": "bergside"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "assai-id"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -1042,21 +1057,6 @@
       "source": "GitHub",
       "stars": 295,
       "user": "V-IOLE-T"
-    },
-    {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 293,
-      "user": "assai-id"
     }
   ],
   "Python": [
@@ -1237,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 915,
       "user": "browser-use"
     },
     {
@@ -1252,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 851,
       "user": "Robbyant"
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "sterlingcrispin"
     },
     {
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 787,
       "user": "patterniha"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 675,
       "user": "wbh604"
     }
   ],
@@ -1705,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "xataio"
     }
   ],
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 866,
       "user": "Manavarya09"
     },
     {
@@ -2018,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "andrewjiang"
     },
     {
@@ -2033,8 +2033,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 360,
       "user": "bergside"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "assai-id"
     },
     {
       "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
@@ -2052,21 +2067,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 293,
-      "user": "assai-id"
-    },
-    {
       "title": "browser-use/video-use - GitHub Repository",
       "url": "https://github.com/browser-use/video-use",
       "published_at": "2026-04-12T01:34:42Z",
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 915,
       "user": "browser-use"
     },
     {
@@ -2093,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 851,
       "user": "Robbyant"
     },
     {
@@ -2108,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "sterlingcrispin"
     },
     {
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 787,
       "user": "patterniha"
     },
     {
@@ -2138,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 675,
       "user": "wbh604"
     },
     {
@@ -2153,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "xataio"
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "wh0amitz"
     },
     {
@@ -2183,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "vavallee"
     },
     {
@@ -2213,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "selfishblackberry177"
     }
   ]
