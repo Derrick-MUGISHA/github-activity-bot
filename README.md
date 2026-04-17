@@ -30,13 +30,13 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
@@ -46,7 +46,7 @@
 
 **Mobile**: 🟦 2 (1.9%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**:  1 (1.0%)
 
 
 
@@ -60,34 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.0 (29.0%)
-JavaScript      ██████████████████████████ 24.7 (24.7%)
-Java            ██████████████████████ 21.5 (21.5%)
-Python          ████████████████████ 19.4 (19.4%)
-Rust            ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 30.8 (30.8%)
+JavaScript      ████████████████████████ 24.2 (24.2%)
+Java            ████████████████████ 20.9 (20.9%)
+Python          ███████████████████ 19.8 (19.8%)
 Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
+Rust            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 27
-    "JavaScript" : 23
-    "Java" : 20
+    "Go" : 28
+    "JavaScript" : 22
+    "Java" : 19
     "Python" : 18
-    "Rust" : 2
     "Ruby" : 1
     "Kotlin" : 1
     "Swift" : 1
+    "Rust" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-17 21:00 CAT)
+## 📅 Latest Updates (2026-04-17 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,20 +205,20 @@ npm run test
 - [100 Daily Challenges to Learn Web3 and Solana](https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl) _[Dev.to]_
-- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) _[Dev.to]_
 - [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5) _[Dev.to]_
+- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) _[Dev.to]_
 - [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o) _[Dev.to]_
 - [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3) _[Dev.to]_
 - [GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining](https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934) _[Dev.to]_
 - [🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.](https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846) _[Dev.to]_
 - [MiniClaw: A Tiny LLM Agent for Mini Micro](https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
-- [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
-- [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
-- [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
-- [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
+- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5) _[Dev.to]_
+- [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
+- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
+- [Don't be mad, BMAD instead](https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i) _[Dev.to]_
 
-_Last automated update: Fri, 17 Apr 2026 21:44:48 CAT_
+_Last automated update: Fri, 17 Apr 2026 22:28:41 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 17 Apr 2026 21:44:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Hash function, database design, caching, analytics
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 17 Apr 2026 19:44:48 GMT</b><br/>
+  <b>Last automated update: Fri, 17 Apr 2026 20:28:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
