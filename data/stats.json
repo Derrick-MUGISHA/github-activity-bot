@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 54,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 4,
@@ -18,22 +18,22 @@
     "Tools": 25
   },
   "by_language": {
-    "Go": 28,
+    "Go": 27,
     "Python": 18,
     "Ruby": 1,
     "Kotlin": 1,
-    "Rust": 3,
     "JavaScript": 23,
     "Java": 20,
-    "Swift": 1
+    "Swift": 1,
+    "Rust": 2
   },
   "by_date": {
-    "2026-04-17": 7,
+    "2026-04-17": 8,
     "2026-04-16": 20,
-    "2026-04-15": 15,
     "2026-04-14": 11,
+    "2026-04-15": 14,
     "2026-04-08": 1,
-    "2026-04-13": 4,
+    "2026-04-13": 5,
     "2026-04-10": 2,
     "2026-04-09": 4,
     "2026-04-07": 1,
@@ -68,10 +68,10 @@
     "2017-11-27": 1,
     "2025-05-07": 1,
     "2019-08-12": 1,
-    "2026-04-12": 5
+    "2026-04-12": 4
   },
   "top_tags": {
-    "ai": 21,
+    "ai": 20,
     "github": 16,
     "open-source": 15,
     "gemini": 12,
@@ -87,20 +87,20 @@
     "tutorial": 6,
     "opensource": 6,
     "discuss": 5,
+    "aws": 5,
     "googleadk": 4,
     "a2aprotocol": 4,
-    "aws": 4,
     "productivity": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "29.5",
-    "Python": "18.9",
+    "Go": "29.0",
+    "Python": "19.4",
     "Ruby": "1.1",
     "Kotlin": "1.1",
-    "Rust": "3.2",
-    "JavaScript": "24.2",
-    "Java": "21.1",
-    "Swift": "1.1"
+    "JavaScript": "24.7",
+    "Java": "21.5",
+    "Swift": "1.1",
+    "Rust": "2.2"
   }
 }
