@@ -22,9 +22,9 @@
     "Ruby": 1,
     "Go": 28,
     "Kotlin": 1,
+    "Rust": 2,
     "JavaScript": 23,
     "Java": 19,
-    "Rust": 2,
     "Swift": 2
   },
   "by_date": {
@@ -78,8 +78,8 @@
     "JavaScript": 10,
     "Python": 10,
     "python": 9,
-    "javascript": 9,
     "programming": 9,
+    "javascript": 9,
     "go": 9,
     "webdev": 8,
     "tutorial": 7,
@@ -97,9 +97,9 @@
     "Ruby": "1.1",
     "Go": "29.5",
     "Kotlin": "1.1",
+    "Rust": "2.1",
     "JavaScript": "24.2",
     "Java": "20.0",
-    "Rust": "2.1",
     "Swift": "2.1"
   }
 }
