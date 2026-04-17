@@ -30,21 +30,6 @@
       "user": "Jono Herrington"
     },
     {
-      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
-      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
-      "published_at": "2026-04-16T18:13:14Z",
-      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
-      "tags": [
-        "miniscript",
-        "minimicro",
-        "agents",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
-      "source": "Dev.to",
-      "user": "JoeStrout"
-    },
-    {
       "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
       "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
       "published_at": "2026-04-16T15:03:04Z",
@@ -86,6 +71,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
       "source": "Dev.to",
       "user": "Alexander Tyutin"
+    },
+    {
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
+      "published_at": "2026-04-16T18:13:14Z",
+      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
+      "tags": [
+        "miniscript",
+        "minimicro",
+        "agents",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
+      "source": "Dev.to",
+      "user": "JoeStrout"
     },
     {
       "title": "TPU Mythbusting: cost and usage",
@@ -220,21 +220,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
-    },
-    {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
     },
     {
       "title": "Deploy OpenClaw on AWS: Choose the right options for your AI workload",
@@ -520,6 +505,21 @@
       "user": "Nishkarsh Pandey"
     },
     {
+      "title": "Playwright in Pictures: Fully Parallel Mode",
+      "url": "https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj",
+      "published_at": "2026-04-15T13:01:43Z",
+      "description": "Playwright in Pictures is a series of articles where I use playwright-timeline-reporter to explain...",
+      "tags": [
+        "playwright",
+        "testing",
+        "webdev",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
+      "source": "Dev.to",
+      "user": "Vitaliy Potapov"
+    },
+    {
       "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
       "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
       "published_at": "2026-04-14T13:08:46Z",
@@ -563,6 +563,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxzu2uzm524lr9a8hqdfz.jpg",
       "source": "Dev.to",
       "user": "Julien Vallini"
+    },
+    {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
     },
     {
       "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
@@ -750,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 332,
       "user": "bergside"
     },
     {
@@ -780,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 259,
       "user": "assai-id"
     },
     {
@@ -795,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 516,
       "user": "xataio"
     },
     {
@@ -1064,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 738,
       "user": "Manavarya09"
     },
     {
@@ -1079,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "andrewjiang"
     },
     {
@@ -1094,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 332,
       "user": "bergside"
     },
     {
@@ -1124,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 259,
       "user": "assai-id"
     }
   ],
@@ -1321,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "sterlingcrispin"
     },
     {
@@ -1336,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 693,
       "user": "patterniha"
     },
     {
@@ -1351,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 656,
       "user": "browser-use"
     },
     {
@@ -1366,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 633,
       "user": "Robbyant"
     },
     {
@@ -1381,26 +1396,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 610,
       "user": "wbh604"
     }
   ],
   "DevOps": [
-    {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
-    },
     {
       "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
       "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
@@ -1432,6 +1432,21 @@
       "user": "drtobbyas"
     },
     {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
       "title": "joao-zanutto/easydocker - GitHub Repository",
       "url": "https://github.com/joao-zanutto/easydocker",
       "published_at": "2026-04-12T01:02:32Z",
@@ -1443,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "joao-zanutto"
     }
   ],
@@ -1816,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 516,
       "user": "xataio"
     }
   ],
@@ -1983,21 +1998,6 @@
       "user": "Daksh Gargas"
     },
     {
-      "title": "Playwright in Pictures: Fully Parallel Mode",
-      "url": "https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj",
-      "published_at": "2026-04-15T13:01:43Z",
-      "description": "Playwright’s fullyParallel mode is often treated as a simple performance switch. In practice, it...",
-      "tags": [
-        "playwright",
-        "testing",
-        "webdev",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
-      "source": "Dev.to",
-      "user": "Vitaliy Potapov"
-    },
-    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
       "published_at": "2026-04-15T14:41:03Z",
@@ -2011,21 +2011,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
-    },
-    {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
     },
     {
       "title": "Lost in the AI Hype, I Started Small",
@@ -2088,6 +2073,21 @@
       "user": "Thomas Marcelis"
     },
     {
+      "title": "Playwright in Pictures: Fully Parallel Mode",
+      "url": "https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj",
+      "published_at": "2026-04-15T13:01:43Z",
+      "description": "Playwright in Pictures is a series of articles where I use playwright-timeline-reporter to explain...",
+      "tags": [
+        "playwright",
+        "testing",
+        "webdev",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
+      "source": "Dev.to",
+      "user": "Vitaliy Potapov"
+    },
+    {
       "title": "Shik — I finally feel joy writing scripts",
       "url": "https://dev.to/pungy/shik-i-finally-feel-joy-writing-scripts-5b2e",
       "published_at": "2026-04-15T09:16:34Z",
@@ -2133,6 +2133,21 @@
       "user": "Giorgi Kobaidze"
     },
     {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
       "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2144,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 738,
       "user": "Manavarya09"
     },
     {
@@ -2159,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "andrewjiang"
     },
     {
@@ -2174,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 332,
       "user": "bergside"
     },
     {
@@ -2204,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 259,
       "user": "assai-id"
     },
     {
@@ -2219,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "sterlingcrispin"
     },
     {
@@ -2234,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 693,
       "user": "patterniha"
     },
     {
@@ -2249,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 656,
       "user": "browser-use"
     },
     {
@@ -2264,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 633,
       "user": "Robbyant"
     },
     {
@@ -2279,7 +2294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 610,
       "user": "wbh604"
     },
     {
@@ -2294,7 +2309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 516,
       "user": "xataio"
     },
     {
@@ -2339,7 +2354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "dgr8akki"
     },
     {
@@ -2354,7 +2369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "joao-zanutto"
     }
   ]
