@@ -537,21 +537,6 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
-    },
-    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
       "published_at": "2026-04-15T14:41:03Z",
@@ -565,6 +550,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
       "source": "Dev.to",
       "user": "tworrell"
+    },
+    {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -710,7 +710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 359,
       "user": "bergside"
     },
     {
@@ -755,7 +755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "xataio"
     },
     {
@@ -770,7 +770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 237,
       "user": "wh0amitz"
     }
   ],
@@ -995,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 859,
       "user": "Manavarya09"
     },
     {
@@ -1025,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 359,
       "user": "bergside"
     },
     {
@@ -1237,23 +1237,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 903,
       "user": "browser-use"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 818,
-      "user": "sterlingcrispin"
     },
     {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
@@ -1267,8 +1252,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 833,
       "user": "Robbyant"
+    },
+    {
+      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published_at": "2026-04-12T18:26:00Z",
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
+      "source": "GitHub",
+      "stars": 820,
+      "user": "sterlingcrispin"
     },
     {
       "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
@@ -1282,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 782,
       "user": "patterniha"
     },
     {
@@ -1297,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "wbh604"
     }
   ],
@@ -1705,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "xataio"
     }
   ],
@@ -1962,21 +1962,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
-      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
-      "published_at": "2026-04-15T14:27:00Z",
-      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
-      "tags": [
-        "githubcopilot",
-        "ai",
-        "tutorial",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Marcel.L"
-    },
-    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
       "published_at": "2026-04-15T14:41:03Z",
@@ -1992,6 +1977,21 @@
       "user": "tworrell"
     },
     {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
       "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 859,
       "user": "Manavarya09"
     },
     {
@@ -2033,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 359,
       "user": "bergside"
     },
     {
@@ -2078,23 +2078,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 903,
       "user": "browser-use"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 818,
-      "user": "sterlingcrispin"
     },
     {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
@@ -2108,8 +2093,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 833,
       "user": "Robbyant"
+    },
+    {
+      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "published_at": "2026-04-12T18:26:00Z",
+      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
+      "source": "GitHub",
+      "stars": 820,
+      "user": "sterlingcrispin"
     },
     {
       "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 782,
       "user": "patterniha"
     },
     {
@@ -2138,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "wbh604"
     },
     {
@@ -2153,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "xataio"
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 237,
       "user": "wh0amitz"
     },
     {
@@ -2183,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "vavallee"
     },
     {
@@ -2198,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "dgr8akki"
     },
     {
@@ -2213,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "selfishblackberry177"
     }
   ]
