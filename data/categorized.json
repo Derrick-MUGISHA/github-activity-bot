@@ -88,21 +88,6 @@
       "user": "JoeStrout"
     },
     {
-      "title": "TPU Mythbusting: cost and usage",
-      "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
-      "published_at": "2026-04-16T18:54:26Z",
-      "description": "TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
       "published_at": "2026-04-16T18:50:29Z",
@@ -160,6 +145,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
       "source": "Dev.to",
       "user": "Neha Sharma "
+    },
+    {
+      "title": "TPU Mythbusting: cost and usage",
+      "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
+      "published_at": "2026-04-16T18:54:26Z",
+      "description": "TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 337,
       "user": "bergside"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "V-IOLE-T"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "assai-id"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "xataio"
     },
     {
@@ -1079,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 753,
       "user": "Manavarya09"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 337,
       "user": "bergside"
     },
     {
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "V-IOLE-T"
     },
     {
@@ -1139,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "assai-id"
     }
   ],
@@ -1351,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 695,
       "user": "patterniha"
     },
     {
@@ -1366,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 679,
       "user": "browser-use"
     },
     {
@@ -1381,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 653,
       "user": "Robbyant"
     },
     {
@@ -1396,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 620,
       "user": "wbh604"
     }
   ],
@@ -1582,21 +1582,6 @@
   ],
   "Cloud": [
     {
-      "title": "TPU Mythbusting: cost and usage",
-      "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
-      "published_at": "2026-04-16T18:54:26Z",
-      "description": "TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kaggle",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
       "published_at": "2026-04-16T18:50:29Z",
@@ -1624,6 +1609,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
       "source": "Dev.to",
       "user": "Sebastian Schürmann"
+    },
+    {
+      "title": "TPU Mythbusting: cost and usage",
+      "url": "https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch",
+      "published_at": "2026-04-16T18:54:26Z",
+      "description": "TPUs are foundational to Google’s AI capabilities and can be equally transformative for your...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kaggle",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
@@ -1831,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "xataio"
     }
   ],
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "V-IOLE-T"
     }
   ],
@@ -2159,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 753,
       "user": "Manavarya09"
     },
     {
@@ -2189,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 337,
       "user": "bergside"
     },
     {
@@ -2204,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "V-IOLE-T"
     },
     {
@@ -2219,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "assai-id"
     },
     {
@@ -2249,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 695,
       "user": "patterniha"
     },
     {
@@ -2264,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 679,
       "user": "browser-use"
     },
     {
@@ -2279,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 653,
       "user": "Robbyant"
     },
     {
@@ -2294,7 +2294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 620,
       "user": "wbh604"
     },
     {
@@ -2309,7 +2309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 518,
       "user": "xataio"
     },
     {
@@ -2339,7 +2339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "vavallee"
     },
     {
@@ -2354,7 +2354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "dgr8akki"
     },
     {
