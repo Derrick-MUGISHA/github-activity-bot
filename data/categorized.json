@@ -45,19 +45,6 @@
       "user": "JoeStrout"
     },
     {
-      "title": "Watching RubyGems.org in Real Time",
-      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
-      "published_at": "2026-04-16T21:46:47Z",
-      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
-      "tags": [
-        "ruby",
-        "rails"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
       "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
       "published_at": "2026-04-16T15:03:04Z",
@@ -71,6 +58,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "Architecture Documentation as a First-Class Engineering Asset",
@@ -118,21 +118,6 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
-      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
-      "published_at": "2026-04-16T14:44:03Z",
-      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
-      "tags": [
-        "tdd",
-        "spec",
-        "serverless",
-        "aidlc"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
-      "source": "Dev.to",
-      "user": "Salih Guler "
-    },
-    {
       "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
       "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
       "published_at": "2026-04-15T14:05:13Z",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
       "source": "Dev.to",
       "user": "Neha Sharma "
+    },
+    {
+      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
+      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
+      "published_at": "2026-04-16T14:44:03Z",
+      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "tags": [
+        "tdd",
+        "spec",
+        "serverless",
+        "aidlc"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "source": "Dev.to",
+      "user": "Salih Guler "
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -281,21 +281,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
-      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
-      "published_at": "2026-04-13T23:02:25Z",
-      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
-      "tags": [
-        "security",
-        "ai",
-        "docker",
-        "bugbounty"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
-      "source": "Dev.to",
-      "user": "spac3gh0st"
-    },
-    {
       "title": "Lost in the AI Hype, I Started Small",
       "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
       "published_at": "2026-04-15T14:32:01Z",
@@ -309,6 +294,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
+      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
+      "published_at": "2026-04-13T23:02:25Z",
+      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
+      "tags": [
+        "security",
+        "ai",
+        "docker",
+        "bugbounty"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
+      "source": "Dev.to",
+      "user": "spac3gh0st"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -384,21 +384,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhicm9isu4mkpi9caeetu.png",
       "source": "Dev.to",
       "user": "Radu C."
-    },
-    {
-      "title": "Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)",
-      "url": "https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln",
-      "published_at": "2026-04-14T21:14:17Z",
-      "description": "So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...",
-      "tags": [
-        "ai",
-        "aws",
-        "agents",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfkse2vmhc7tyt374pf.png",
-      "source": "Dev.to",
-      "user": "Morgan Willis"
     },
     {
       "title": "Stop Building AI Features Nobody Asked For",
@@ -608,6 +593,20 @@
       "user": "Aurélie Vache"
     },
     {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -751,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 324,
       "user": "bergside"
     },
     {
@@ -766,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "V-IOLE-T"
     },
     {
@@ -781,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 247,
       "user": "assai-id"
     },
     {
@@ -796,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 505,
       "user": "xataio"
     },
     {
@@ -1065,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 728,
       "user": "Manavarya09"
     },
     {
@@ -1080,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "andrewjiang"
     },
     {
@@ -1095,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 324,
       "user": "bergside"
     },
     {
@@ -1110,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "V-IOLE-T"
     },
     {
@@ -1125,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 247,
       "user": "assai-id"
     }
   ],
@@ -1322,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "sterlingcrispin"
     },
     {
@@ -1337,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 685,
       "user": "patterniha"
     },
     {
@@ -1352,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 618,
       "user": "browser-use"
     },
     {
@@ -1367,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 587,
       "user": "Robbyant"
     },
     {
@@ -1382,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 543,
       "user": "wbh604"
     }
   ],
@@ -1444,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "joao-zanutto"
     }
   ],
@@ -1598,6 +1597,20 @@
       "user": "Maciej Strzelczyk"
     },
     {
+      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
+      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
+      "published_at": "2026-04-15T14:05:13Z",
+      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
+      "tags": [
+        "ai",
+        "mba",
+        "operations"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
+      "source": "Dev.to",
+      "user": "Sebastian Schürmann"
+    },
+    {
       "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
       "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
       "published_at": "2026-04-16T14:44:03Z",
@@ -1611,20 +1624,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
       "source": "Dev.to",
       "user": "Salih Guler "
-    },
-    {
-      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
-      "url": "https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22",
-      "published_at": "2026-04-15T14:05:13Z",
-      "description": "Every few weeks a take goes viral in tech circles making the case for ditching cloud AI and running...",
-      "tags": [
-        "ai",
-        "mba",
-        "operations"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmu29n2yg6zfxb628f3qj.png",
-      "source": "Dev.to",
-      "user": "Sebastian Schürmann"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -1731,21 +1730,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)",
-      "url": "https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln",
-      "published_at": "2026-04-14T21:14:17Z",
-      "description": "So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...",
-      "tags": [
-        "ai",
-        "aws",
-        "agents",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnbfkse2vmhc7tyt374pf.png",
-      "source": "Dev.to",
-      "user": "Morgan Willis"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
       "published_at": "2026-04-10T12:54:24Z",
@@ -1832,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 505,
       "user": "xataio"
     }
   ],
@@ -1963,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "V-IOLE-T"
     }
   ],
@@ -2160,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 728,
       "user": "Manavarya09"
     },
     {
@@ -2175,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "andrewjiang"
     },
     {
@@ -2190,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 324,
       "user": "bergside"
     },
     {
@@ -2205,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 293,
       "user": "V-IOLE-T"
     },
     {
@@ -2220,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 247,
       "user": "assai-id"
     },
     {
@@ -2235,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "sterlingcrispin"
     },
     {
@@ -2250,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 685,
       "user": "patterniha"
     },
     {
@@ -2265,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 618,
       "user": "browser-use"
     },
     {
@@ -2280,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 587,
       "user": "Robbyant"
     },
     {
@@ -2295,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 543,
       "user": "wbh604"
     },
     {
@@ -2310,7 +2294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 505,
       "user": "xataio"
     },
     {
@@ -2355,7 +2339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "dgr8akki"
     },
     {
@@ -2370,7 +2354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "joao-zanutto"
     }
   ]

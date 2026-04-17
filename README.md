@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Security**: 🟦🟦 7 (6.7%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-17 8:00 CAT)
+## 📅 Latest Updates (2026-04-17 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -173,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7iw45v46gyxvdsrpux5o.jpg" width="200" alt="Turning the Raspberry Pi Zero into a Hacking Gadget" />
+    <a href="https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png" width="200" alt="MiniClaw: A Tiny LLM Agent for Mini Micro" />
       <br/>
-      <b>Turning the Raspberry Pi Zero into a Hacking Gadge...</b>
+      <b>MiniClaw: A Tiny LLM Agent for Mini Micro</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png" width="200" alt="MiniClaw: A Tiny LLM Agent for Mini Micro" />
+    <a href="https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png" width="200" alt="Build a voice-enabled Telegram Bot with the Gemini Interactions API" />
       <br/>
-      <b>MiniClaw: A Tiny LLM Agent for Mini Micro</b>
+      <b>Build a voice-enabled Telegram Bot with the Gemini...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,24 +201,24 @@ npm run test
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
-- [Turning the Raspberry Pi Zero into a Hacking Gadget](https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl) _[Dev.to]_
 - [MiniClaw: A Tiny LLM Agent for Mini Micro](https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf) _[Dev.to]_
+- [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5) _[Dev.to]_
 - [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
-- [Build a voice-enabled Telegram Bot with the Gemini Interactions API](https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5) _[Dev.to]_
 - [Architecture Documentation as a First-Class Engineering Asset](https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38) _[Dev.to]_
 - [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch) _[Dev.to]_
 - [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585) _[Dev.to]_
-- [Building Serverless APIs with TDD and AI-Powered Spec Generation](https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36) _[Dev.to]_
 - [Local AI Will Save Us All (The Math Says So, Trust Me)](https://dev.to/sebs/local-ai-will-save-us-all-the-math-says-so-trust-me-4m22) _[Dev.to]_
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
+- [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm) _[Dev.to]_
+- [Playwright in Pictures: Fully Parallel Mode](https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj) _[Dev.to]_
 
-_Last automated update: Fri, 17 Apr 2026 08:18:18 CAT_
+_Last automated update: Fri, 17 Apr 2026 10:10:28 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Fri, 17 Apr 2026 08:18:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -248,14 +248,14 @@ Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 17 Apr 2026 06:18:18 GMT</b><br/>
+  <b>Last automated update: Fri, 17 Apr 2026 08:10:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
