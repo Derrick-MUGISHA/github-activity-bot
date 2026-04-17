@@ -30,6 +30,34 @@
       "user": "Jono Herrington"
     },
     {
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
+      "published_at": "2026-04-16T18:13:14Z",
+      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
+      "tags": [
+        "miniscript",
+        "minimicro",
+        "agents",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
+      "source": "Dev.to",
+      "user": "JoeStrout"
+    },
+    {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
       "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
       "published_at": "2026-04-16T15:03:04Z",
@@ -58,21 +86,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
       "source": "Dev.to",
       "user": "Alexander Tyutin"
-    },
-    {
-      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
-      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
-      "published_at": "2026-04-16T18:13:14Z",
-      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
-      "tags": [
-        "miniscript",
-        "minimicro",
-        "agents",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
-      "source": "Dev.to",
-      "user": "JoeStrout"
     },
     {
       "title": "TPU Mythbusting: cost and usage",
@@ -149,21 +162,6 @@
       "user": "Daksh Gargas"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
-      "published_at": "2026-04-16T13:12:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "amazonlightsail",
-        "multiagentsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
       "published_at": "2026-04-16T13:11:52Z",
@@ -194,18 +192,19 @@
       "user": "Neha Sharma "
     },
     {
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "published_at": "2026-04-14T20:15:22Z",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "ai",
-        "llm",
-        "javascript"
+        "gemini",
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
       "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
+      "user": "xbill"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -280,21 +279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
-      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
-      "published_at": "2026-04-13T23:02:25Z",
-      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
-      "tags": [
-        "security",
-        "ai",
-        "docker",
-        "bugbounty"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
-      "source": "Dev.to",
-      "user": "spac3gh0st"
     },
     {
       "title": "Lost in the AI Hype, I Started Small",
@@ -756,21 +740,6 @@
       "user": "veesahni"
     },
     {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "V-IOLE-T"
-    },
-    {
       "title": "bergside/design-md-chrome - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
       "url": "https://github.com/bergside/design-md-chrome",
       "published_at": "2026-04-14T14:10:22Z",
@@ -782,8 +751,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 292,
       "user": "bergside"
+    },
+    {
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "V-IOLE-T"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 226,
+      "user": "assai-id"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -797,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 490,
       "user": "xataio"
     },
     {
@@ -812,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "wh0amitz"
     }
   ],
@@ -846,20 +845,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo8mu7lb0mp3hjkxbwnnu.png",
       "source": "Dev.to",
       "user": "andreykh"
-    },
-    {
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "published_at": "2026-04-14T20:15:22Z",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
-      "tags": [
-        "ai",
-        "llm",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
-      "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
     },
     {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
@@ -1066,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 699,
       "user": "Manavarya09"
     },
     {
@@ -1081,23 +1066,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 560,
       "user": "andrewjiang"
-    },
-    {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "V-IOLE-T"
     },
     {
       "title": "bergside/design-md-chrome - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
@@ -1111,23 +1081,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 292,
       "user": "bergside"
     },
     {
-      "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
-      "url": "https://github.com/MangoLion/stretchystudio",
-      "published_at": "2026-04-12T15:51:53Z",
-      "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 216,
-      "user": "MangoLion"
+      "stars": 292,
+      "user": "V-IOLE-T"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 226,
+      "user": "assai-id"
     }
   ],
   "Python": [
@@ -1323,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 805,
       "user": "sterlingcrispin"
     },
     {
@@ -1338,23 +1323,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 672,
       "user": "patterniha"
-    },
-    {
-      "title": "bstnxbt/dflash-mlx - Lossless DFlash speculative decoding for MLX on Apple Silicon",
-      "url": "https://github.com/bstnxbt/dflash-mlx",
-      "published_at": "2026-04-11T17:25:41Z",
-      "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6129548?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "bstnxbt"
     },
     {
       "title": "browser-use/video-use - GitHub Repository",
@@ -1368,23 +1338,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 524,
       "user": "browser-use"
     },
     {
-      "title": "stanford-iris-lab/meta-harness - Reference code for the Meta-Harness paper.",
-      "url": "https://github.com/stanford-iris-lab/meta-harness",
-      "published_at": "2026-04-15T05:31:36Z",
-      "description": "Reference code for the Meta-Harness paper.",
+      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "url": "https://github.com/wbh604/UZI-Skill",
+      "published_at": "2026-04-16T07:36:06Z",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63766302?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 381,
-      "user": "stanford-iris-lab"
+      "stars": 477,
+      "user": "wbh604"
+    },
+    {
+      "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "published_at": "2026-04-15T17:59:48Z",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 475,
+      "user": "Robbyant"
     }
   ],
   "DevOps": [
@@ -1402,21 +1387,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
       "source": "Dev.to",
       "user": "Marcel.L"
-    },
-    {
-      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
-      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
-      "published_at": "2026-04-13T23:02:25Z",
-      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
-      "tags": [
-        "security",
-        "ai",
-        "docker",
-        "bugbounty"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
-      "source": "Dev.to",
-      "user": "spac3gh0st"
     },
     {
       "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
@@ -1445,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "joao-zanutto"
     }
   ],
@@ -1628,21 +1598,6 @@
       "user": "Sebastian Schürmann"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
-      "published_at": "2026-04-16T13:12:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "amazonlightsail",
-        "multiagentsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
       "published_at": "2026-04-16T13:11:52Z",
@@ -1654,6 +1609,21 @@
         "awsfargate"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1848,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 490,
       "user": "xataio"
     }
   ],
@@ -1913,21 +1883,6 @@
       "user": "Hugo | DevOps | Cybersecurity"
     },
     {
-      "title": "I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.",
-      "url": "https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944",
-      "published_at": "2026-04-13T23:02:25Z",
-      "description": "How a conference demo turned into a full bug bounty lab with Claude Desktop, Discord remote access,...",
-      "tags": [
-        "security",
-        "ai",
-        "docker",
-        "bugbounty"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqyy4kozq7bazhlylv2rw.png",
-      "source": "Dev.to",
-      "user": "spac3gh0st"
-    },
-    {
       "title": "Partial Password Authentication",
       "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
       "published_at": "2026-04-14T21:23:40Z",
@@ -1979,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 292,
       "user": "V-IOLE-T"
     }
   ],
@@ -2176,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 699,
       "user": "Manavarya09"
     },
     {
@@ -2191,23 +2146,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 560,
       "user": "andrewjiang"
-    },
-    {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "V-IOLE-T"
     },
     {
       "title": "bergside/design-md-chrome - Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
@@ -2221,23 +2161,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 292,
       "user": "bergside"
     },
     {
-      "title": "MangoLion/stretchystudio - FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
-      "url": "https://github.com/MangoLion/stretchystudio",
-      "published_at": "2026-04-12T15:51:53Z",
-      "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters",
+      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+      "published_at": "2026-04-12T20:53:26Z",
+      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9015144?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
       "source": "GitHub",
-      "stars": 216,
-      "user": "MangoLion"
+      "stars": 292,
+      "user": "V-IOLE-T"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 226,
+      "user": "assai-id"
     },
     {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
@@ -2251,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 805,
       "user": "sterlingcrispin"
     },
     {
@@ -2266,23 +2221,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 672,
       "user": "patterniha"
-    },
-    {
-      "title": "bstnxbt/dflash-mlx - Lossless DFlash speculative decoding for MLX on Apple Silicon",
-      "url": "https://github.com/bstnxbt/dflash-mlx",
-      "published_at": "2026-04-11T17:25:41Z",
-      "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6129548?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "bstnxbt"
     },
     {
       "title": "browser-use/video-use - GitHub Repository",
@@ -2296,23 +2236,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 524,
       "user": "browser-use"
     },
     {
-      "title": "stanford-iris-lab/meta-harness - Reference code for the Meta-Harness paper.",
-      "url": "https://github.com/stanford-iris-lab/meta-harness",
-      "published_at": "2026-04-15T05:31:36Z",
-      "description": "Reference code for the Meta-Harness paper.",
+      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "url": "https://github.com/wbh604/UZI-Skill",
+      "published_at": "2026-04-16T07:36:06Z",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63766302?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 381,
-      "user": "stanford-iris-lab"
+      "stars": 477,
+      "user": "wbh604"
+    },
+    {
+      "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "published_at": "2026-04-15T17:59:48Z",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
+      "source": "GitHub",
+      "stars": 475,
+      "user": "Robbyant"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -2326,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 490,
       "user": "xataio"
     },
     {
@@ -2341,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "wh0amitz"
     },
     {
@@ -2356,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "vavallee"
     },
     {
@@ -2386,7 +2341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "joao-zanutto"
     }
   ]
