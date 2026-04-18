@@ -16,6 +16,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
       "published_at": "2026-04-16T15:38:54Z",
@@ -44,20 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
-    },
-    {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
     },
     {
       "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
@@ -116,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
       "source": "Dev.to",
       "user": "Sushan Shetty"
-    },
-    {
-      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
-      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
-      "published_at": "2026-04-16T18:13:14Z",
-      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
-      "tags": [
-        "miniscript",
-        "minimicro",
-        "agents",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
-      "source": "Dev.to",
-      "user": "JoeStrout"
     },
     {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
@@ -267,21 +252,6 @@
       "user": "Alexander Tyutin"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
-      "published_at": "2026-04-16T13:12:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "amazonlightsail",
-        "multiagentsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
       "published_at": "2026-04-16T13:11:52Z",
@@ -293,6 +263,21 @@
         "awsfargate"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -342,19 +327,19 @@
       "user": "xbill"
     },
     {
-      "title": "My First RAG System Had No Evals. 40% of Answers Were Wrong.",
-      "url": "https://dev.to/serhiip/my-first-rag-system-had-no-evals-40-of-answers-were-wrong-ab",
-      "published_at": "2026-04-13T20:58:06Z",
-      "description": "How to actually measure and improve your RAG pipeline. Retrieval metrics, synthetic evals, hybrid search, and the fixes ",
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
+      "published_at": "2026-04-16T18:13:14Z",
+      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
       "tags": [
-        "ai",
-        "rag",
-        "machinelearning",
+        "miniscript",
+        "minimicro",
+        "agents",
         "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftv8stu1zwsjzvku972y2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
       "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
+      "user": "JoeStrout"
     },
     {
       "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
@@ -567,6 +552,20 @@
       "user": "Marcel.L"
     },
     {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -710,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "bergside"
     },
     {
@@ -725,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 301,
       "user": "assai-id"
     },
     {
@@ -755,23 +754,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 563,
       "user": "xataio"
-    },
-    {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "wh0amitz"
     }
   ],
   "JavaScript": [
@@ -862,6 +846,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
+    },
+    {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -995,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 883,
       "user": "Manavarya09"
     },
     {
@@ -1010,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "andrewjiang"
     },
     {
@@ -1025,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "bergside"
     },
     {
@@ -1040,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 301,
       "user": "assai-id"
     },
     {
@@ -1237,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 961,
       "user": "browser-use"
     },
     {
@@ -1252,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 926,
       "user": "Robbyant"
     },
     {
@@ -1267,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "sterlingcrispin"
     },
     {
@@ -1282,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 797,
       "user": "patterniha"
     },
     {
@@ -1297,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 687,
       "user": "wbh604"
     }
   ],
@@ -1361,6 +1359,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
       "source": "Dev.to",
       "user": "Marcel.L"
+    },
+    {
+      "title": "joao-zanutto/easydocker - GitHub Repository",
+      "url": "https://github.com/joao-zanutto/easydocker",
+      "published_at": "2026-04-12T01:02:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "joao-zanutto"
     }
   ],
   "WebDev": [
@@ -1514,21 +1527,6 @@
       "user": "Evertson Croes"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
-      "published_at": "2026-04-16T13:12:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "amazonlightsail",
-        "multiagentsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
       "published_at": "2026-04-16T13:11:52Z",
@@ -1540,6 +1538,21 @@
         "awsfargate"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1705,7 +1718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 563,
       "user": "xataio"
     }
   ],
@@ -2003,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 883,
       "user": "Manavarya09"
     },
     {
@@ -2018,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "andrewjiang"
     },
     {
@@ -2033,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "bergside"
     },
     {
@@ -2048,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 301,
       "user": "assai-id"
     },
     {
@@ -2078,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 961,
       "user": "browser-use"
     },
     {
@@ -2093,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 926,
       "user": "Robbyant"
     },
     {
@@ -2108,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "sterlingcrispin"
     },
     {
@@ -2123,7 +2136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 797,
       "user": "patterniha"
     },
     {
@@ -2138,7 +2151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 687,
       "user": "wbh604"
     },
     {
@@ -2153,53 +2166,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 563,
       "user": "xataio"
-    },
-    {
-      "title": "wh0amitz/TailVNC - Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "url": "https://github.com/wh0amitz/TailVNC",
-      "published_at": "2026-04-11T16:13:15Z",
-      "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60350435?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "wh0amitz"
-    },
-    {
-      "title": "vavallee/bindery - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.",
-      "url": "https://github.com/vavallee/bindery",
-      "published_at": "2026-04-11T21:40:44Z",
-      "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75899046?v=4",
-      "source": "GitHub",
-      "stars": 120,
-      "user": "vavallee"
-    },
-    {
-      "title": "dgr8akki/nano-ffmpeg - nano-ffmpeg wraps the full power of ffmpeg in a beautiful, keyboard-driven terminal dashboard. No more googling flags. Browse your files, pick what you want to do, tweak settings with presets, and watch a live progress bar while it encodes.",
-      "url": "https://github.com/dgr8akki/nano-ffmpeg",
-      "published_at": "2026-04-11T17:34:33Z",
-      "description": "nano-ffmpeg wraps the full power of ffmpeg in a beautiful, keyboard-driven terminal dashboard. No more googling flags. Browse your files, pick what you want to do, tweak settings with presets, and watch a live progress bar while it encodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17708157?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "dgr8akki"
     },
     {
       "title": "selfishblackberry177/sni-spoof - Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)",
@@ -2213,8 +2181,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "selfishblackberry177"
+    },
+    {
+      "title": "joao-zanutto/easydocker - GitHub Repository",
+      "url": "https://github.com/joao-zanutto/easydocker",
+      "published_at": "2026-04-12T01:02:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "joao-zanutto"
+    },
+    {
+      "title": "PechenyeRU/FakeSNI - A fake SNI injector for linux, written in pure golang",
+      "url": "https://github.com/PechenyeRU/FakeSNI",
+      "published_at": "2026-04-13T20:48:39Z",
+      "description": "A fake SNI injector for linux, written in pure golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "PechenyeRU"
+    },
+    {
+      "title": "tranhaonguyendev/Za-go - Unofficial Zalo API for Golang",
+      "url": "https://github.com/tranhaonguyendev/Za-go",
+      "published_at": "2026-04-15T05:47:28Z",
+      "description": "Unofficial Zalo API for Golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/244822761?v=4",
+      "source": "GitHub",
+      "stars": 46,
+      "user": "tranhaonguyendev"
     }
   ]
 }

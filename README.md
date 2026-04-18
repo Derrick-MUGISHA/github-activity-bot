@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-17-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-18-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -40,9 +40,9 @@
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦 4 (3.8%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.5 (31.5%)
-JavaScript      ██████████████████████ 23.6 (23.6%)
-Java            ███████████████████ 20.2 (20.2%)
-Python          ███████████████████ 20.2 (20.2%)
+Go              ██████████████████████████████ 30.8 (30.8%)
+JavaScript      ████████████████████████ 24.2 (24.2%)
+Java            ████████████████████ 20.9 (20.9%)
+Python          ███████████████████ 19.8 (19.8%)
 Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -74,8 +74,8 @@ Rust            █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 28
-    "JavaScript" : 21
-    "Java" : 18
+    "JavaScript" : 22
+    "Java" : 19
     "Python" : 18
     "Ruby" : 1
     "Kotlin" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-18 1:00 CAT)
+## 📅 Latest Updates (2026-04-18 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,6 +153,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbm29vv1zvth46xjd0a6z.png" width="200" alt="Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC." />
+      <br/>
+      <b>Join our DEV Weekend Challenge — $1,000 in Prizes ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png" width="200" alt="Congrats to the Notion MCP Challenge Winners!" />
       <br/>
@@ -161,13 +172,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbm29vv1zvth46xjd0a6z.png" width="200" alt="Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC." />
+    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
       <br/>
-      <b>Join our DEV Weekend Challenge — $1,000 in Prizes ...</b>
+      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png" width="200" alt="100 Daily Challenges to Learn Web3 and Solana" />
-      <br/>
-      <b>100 Daily Challenges to Learn Web3 and Solana</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -199,26 +199,26 @@ npm run test
 
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
-- [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
+- [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
+- [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
 - [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682) _[Dev.to]_
 - [100 Daily Challenges to Learn Web3 and Solana](https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i) _[Dev.to]_
-- [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
-- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) _[Dev.to]_
 - [GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining](https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934) _[Dev.to]_
+- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) _[Dev.to]_
 - [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o) _[Dev.to]_
 - [Embarrassment is cheap. Token spend isn't.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3) _[Dev.to]_
 - [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3) _[Dev.to]_
 - [🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.](https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846) _[Dev.to]_
-- [MiniClaw: A Tiny LLM Agent for Mini Micro](https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
 - [Don't be mad, BMAD instead](https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i) _[Dev.to]_
+- [Processing long running events on AWS API Gateway](https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4) _[Dev.to]_
 
-_Last automated update: Sat, 18 Apr 2026 01:50:41 CAT_
+_Last automated update: Sat, 18 Apr 2026 04:02:19 CAT_
 
 
 
@@ -237,25 +237,25 @@ Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Execution timing, event loop phases
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 17 Apr 2026 23:50:41 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 02:02:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
