@@ -216,7 +216,7 @@ npm run test
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 - [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm) _[Dev.to]_
 
-_Last automated update: Sat, 18 Apr 2026 23:17:42 CAT_
+_Last automated update: Sat, 18 Apr 2026 23:57:01 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 18 Apr 2026 23:17:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Mutability, performance, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 21:17:42 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 21:57:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
