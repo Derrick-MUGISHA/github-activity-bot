@@ -45,6 +45,19 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "100 Daily Challenges to Learn Web3 and Solana",
       "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
       "published_at": "2026-04-17T15:14:12Z",
@@ -75,19 +88,6 @@
       "user": "Kai Chew"
     },
     {
-      "title": "Watching RubyGems.org in Real Time",
-      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
-      "published_at": "2026-04-16T21:46:47Z",
-      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
-      "tags": [
-        "ruby",
-        "rails"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Embarrassment is cheap. Token spend isn't.",
       "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
       "published_at": "2026-04-17T20:17:12Z",
@@ -101,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
-      "url": "https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846",
-      "published_at": "2026-04-17T16:59:49Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition (April 22)           What I Built   I...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "earthday",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
-      "source": "Dev.to",
-      "user": "Sushan Shetty"
     },
     {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw73qbb5zdl2vcummdih6.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
+      "url": "https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846",
+      "published_at": "2026-04-17T16:59:49Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition (April 22)           What I Built   I...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "earthday",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
+      "source": "Dev.to",
+      "user": "Sushan Shetty"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "bergside"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "assai-id"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 571,
       "user": "xataio"
     }
   ],
@@ -993,7 +993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 901,
       "user": "Manavarya09"
     },
     {
@@ -1008,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "andrewjiang"
     },
     {
@@ -1023,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "bergside"
     },
     {
@@ -1038,7 +1038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "assai-id"
     },
     {
@@ -1224,21 +1224,6 @@
       "user": "gilad"
     },
     {
-      "title": "browser-use/video-use - GitHub Repository",
-      "url": "https://github.com/browser-use/video-use",
-      "published_at": "2026-04-12T01:34:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 1015,
-      "user": "browser-use"
-    },
-    {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "url": "https://github.com/Robbyant/lingbot-map",
       "published_at": "2026-04-15T17:59:48Z",
@@ -1250,8 +1235,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1038,
       "user": "Robbyant"
+    },
+    {
+      "title": "browser-use/video-use - GitHub Repository",
+      "url": "https://github.com/browser-use/video-use",
+      "published_at": "2026-04-12T01:34:42Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 1036,
+      "user": "browser-use"
     },
     {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
@@ -1280,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 811,
       "user": "patterniha"
     },
     {
@@ -1295,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 706,
       "user": "wbh604"
     }
   ],
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "joao-zanutto"
     }
   ],
@@ -1718,7 +1718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 571,
       "user": "xataio"
     }
   ],
@@ -2016,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 901,
       "user": "Manavarya09"
     },
     {
@@ -2031,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "andrewjiang"
     },
     {
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "bergside"
     },
     {
@@ -2061,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "assai-id"
     },
     {
@@ -2080,21 +2080,6 @@
       "user": "V-IOLE-T"
     },
     {
-      "title": "browser-use/video-use - GitHub Repository",
-      "url": "https://github.com/browser-use/video-use",
-      "published_at": "2026-04-12T01:34:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 1015,
-      "user": "browser-use"
-    },
-    {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "url": "https://github.com/Robbyant/lingbot-map",
       "published_at": "2026-04-15T17:59:48Z",
@@ -2106,8 +2091,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1038,
       "user": "Robbyant"
+    },
+    {
+      "title": "browser-use/video-use - GitHub Repository",
+      "url": "https://github.com/browser-use/video-use",
+      "published_at": "2026-04-12T01:34:42Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 1036,
+      "user": "browser-use"
     },
     {
       "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
@@ -2136,7 +2136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 811,
       "user": "patterniha"
     },
     {
@@ -2151,7 +2151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 706,
       "user": "wbh604"
     },
     {
@@ -2166,7 +2166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 571,
       "user": "xataio"
     },
     {
@@ -2181,7 +2181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "selfishblackberry177"
     },
     {
@@ -2196,7 +2196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "joao-zanutto"
     },
     {
@@ -2211,7 +2211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "PechenyeRU"
     },
     {
