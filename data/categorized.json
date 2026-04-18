@@ -357,21 +357,6 @@
       "user": "Radu C."
     },
     {
-      "title": "How to prompt Gemini 3.1's new text to speech model",
-      "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
-      "published_at": "2026-04-15T16:12:25Z",
-      "description": "Gemini 3.1 Flash text to speech (TTS) is a new model that you can direct to get the precise audio...",
-      "tags": [
-        "ai",
-        "gemini",
-        "promptengineering",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2go6updsvkkoozbimzqb.png",
-      "source": "Dev.to",
-      "user": "fofr"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -462,21 +447,6 @@
       "user": "Vitaliy Potapov"
     },
     {
-      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
-      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
-      "published_at": "2026-04-14T13:08:46Z",
-      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
-      "tags": [
-        "kubernetes",
-        "opensource",
-        "devops",
-        "coolify"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
-      "source": "Dev.to",
-      "user": "drtobbyas"
-    },
-    {
       "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
       "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
       "published_at": "2026-04-16T14:44:03Z",
@@ -537,6 +507,20 @@
       "user": "tworrell"
     },
     {
+      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+      "published_at": "2026-04-14T20:15:22Z",
+      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "tags": [
+        "ai",
+        "llm",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "source": "Dev.to",
+      "user": "Serhii Panchyshyn"
+    },
+    {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
       "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
       "published_at": "2026-04-15T14:27:00Z",
@@ -552,18 +536,33 @@
       "user": "Marcel.L"
     },
     {
-      "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "published_at": "2026-04-14T20:15:22Z",
-      "description": "I've been building AI agents in production for the past two years. Not demos. Not weekend projects....",
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
       "tags": [
         "ai",
-        "llm",
-        "javascript"
+        "beginners",
+        "productivity",
+        "aws"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
       "source": "Dev.to",
-      "user": "Serhii Panchyshyn"
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -709,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 385,
       "user": "bergside"
     },
     {
@@ -724,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 328,
       "user": "assai-id"
     },
     {
@@ -754,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "xataio"
     },
     {
@@ -769,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 84,
       "user": "Quorinex"
     }
   ],
@@ -875,6 +874,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
       "source": "Dev.to",
       "user": "Serhii Panchyshyn"
+    },
+    {
+      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
+      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+      "published_at": "2026-04-13T16:51:07Z",
+      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "opensource",
+        "webcomponents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
+      "source": "Dev.to",
+      "user": "Volker Schukai"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1008,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 936,
       "user": "Manavarya09"
     },
     {
@@ -1023,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "andrewjiang"
     },
     {
@@ -1038,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 385,
       "user": "bergside"
     },
     {
@@ -1053,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 328,
       "user": "assai-id"
     },
     {
@@ -1250,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1194,
       "user": "Robbyant"
     },
     {
@@ -1265,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1092,
       "user": "browser-use"
     },
     {
@@ -1280,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 856,
       "user": "patterniha"
     },
     {
@@ -1295,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 826,
       "user": "sterlingcrispin"
     },
     {
@@ -1310,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 742,
       "user": "wbh604"
     }
   ],
@@ -1344,21 +1358,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
-    },
-    {
-      "title": "They Said Kubernetes Isn't Coming to Coolify. I'm Going to Find Out If That's True.",
-      "url": "https://dev.to/drtobbyas/they-said-kubernetes-isnt-coming-to-coolify-im-going-to-find-out-if-thats-true-4eee",
-      "published_at": "2026-04-14T13:08:46Z",
-      "description": "After 22 months and a $250 bounty, Coolify maintainers said no to Kubernetes support. But they never said it was impossible. I'm investigating if the community's most-requested feature can actually be built.",
-      "tags": [
-        "kubernetes",
-        "opensource",
-        "devops",
-        "coolify"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.imgur.com%2FDirjDvO.jpeg",
-      "source": "Dev.to",
-      "user": "drtobbyas"
     },
     {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
@@ -1402,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 84,
       "user": "Quorinex"
     }
   ],
@@ -1449,6 +1448,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
       "source": "Dev.to",
       "user": "Muhammad Hassan"
+    },
+    {
+      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
+      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+      "published_at": "2026-04-13T16:51:07Z",
+      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "opensource",
+        "webcomponents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
+      "source": "Dev.to",
+      "user": "Volker Schukai"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1737,6 +1751,21 @@
       "user": "Maciej Strzelczyk"
     },
     {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
       "url": "https://github.com/xataio/xata",
       "published_at": "2026-04-15T08:49:42Z",
@@ -1748,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "xataio"
     }
   ],
@@ -1945,21 +1974,6 @@
       "user": "tworrell"
     },
     {
-      "title": "Building a Replay-Tested Interactive Brokers Client in Go",
-      "url": "https://dev.to/thomasmarcelis/building-a-replay-tested-interactive-brokers-client-in-go-c3i",
-      "published_at": "2026-04-15T11:35:19Z",
-      "description": "I wanted an IBKR library that felt like Go and had testing I could trust. So I wrote one.",
-      "tags": [
-        "go",
-        "testing",
-        "ibkr",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnsflyo6oc49h76o3lsg.png",
-      "source": "Dev.to",
-      "user": "Thomas Marcelis"
-    },
-    {
       "title": "Playwright in Pictures: Fully Parallel Mode",
       "url": "https://dev.to/vitalets/playwright-in-pictures-fully-parallel-mode-3ecj",
       "published_at": "2026-04-15T13:01:43Z",
@@ -1973,21 +1987,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffd949qfpkmlnaqrcxuke.png",
       "source": "Dev.to",
       "user": "Vitaliy Potapov"
-    },
-    {
-      "title": "Shik — I finally feel joy writing scripts",
-      "url": "https://dev.to/pungy/shik-i-finally-feel-joy-writing-scripts-5b2e",
-      "published_at": "2026-04-15T09:16:34Z",
-      "description": "You know that feeling when the thought in your head is simple and clear — \"go through files, find the...",
-      "tags": [
-        "programming",
-        "showdev",
-        "tooling",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08ojevjv6ktygahpcm0r.png",
-      "source": "Dev.to",
-      "user": "Maksim Iakovlev"
     },
     {
       "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
@@ -2035,6 +2034,21 @@
       "user": "Marcel.L"
     },
     {
+      "title": "Lost in the AI Hype, I Started Small",
+      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "published_at": "2026-04-15T14:32:01Z",
+      "description": "And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "productivity",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Manavarya09/design-extract - Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2046,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 936,
       "user": "Manavarya09"
     },
     {
@@ -2061,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "andrewjiang"
     },
     {
@@ -2076,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 385,
       "user": "bergside"
     },
     {
@@ -2091,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 328,
       "user": "assai-id"
     },
     {
@@ -2121,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1194,
       "user": "Robbyant"
     },
     {
@@ -2136,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1092,
       "user": "browser-use"
     },
     {
@@ -2151,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 856,
       "user": "patterniha"
     },
     {
@@ -2166,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 826,
       "user": "sterlingcrispin"
     },
     {
@@ -2181,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 742,
       "user": "wbh604"
     },
     {
@@ -2196,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "xataio"
     },
     {
@@ -2211,7 +2225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "selfishblackberry177"
     },
     {
@@ -2256,7 +2270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 84,
       "user": "Quorinex"
     }
   ]
