@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-18 12:00 CAT)
+## 📅 Latest Updates (2026-04-18 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -208,15 +208,15 @@ npm run test
 - [Embarrassment is cheap. Token spend isn't.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining](https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934) _[Dev.to]_
-- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.](https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
 - [Don't be mad, BMAD instead](https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i) _[Dev.to]_
 - [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
+- [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 
-_Last automated update: Sat, 18 Apr 2026 12:59:46 CAT_
+_Last automated update: Sat, 18 Apr 2026 13:41:29 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 18 Apr 2026 12:59:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 10:59:46 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 11:41:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

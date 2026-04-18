@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "bergside"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "assai-id"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "xataio"
     },
     {
@@ -768,26 +768,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 94,
       "user": "Quorinex"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
-      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
-      "published_at": "2026-04-17T18:38:12Z",
-      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
-      "tags": [
-        "nestjs",
-        "javascript",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
-      "source": "Dev.to",
-      "user": "Oladele David "
-    },
     {
       "title": "Beyond Marker Clustering",
       "url": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
@@ -802,6 +787,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08t55ut0ocyw4gpfyekg.png",
       "source": "Dev.to",
       "user": "Marko Smiljanic"
+    },
+    {
+      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
+      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
+      "published_at": "2026-04-17T18:38:12Z",
+      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
+      "tags": [
+        "nestjs",
+        "javascript",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
+      "source": "Dev.to",
+      "user": "Oladele David "
     },
     {
       "title": "Creating a Vertical Area Chart with JavaScript: 80+ Years of U.S. Presidential Approval Data",
@@ -1022,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 939,
       "user": "Manavarya09"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "andrewjiang"
     },
     {
@@ -1052,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "bergside"
     },
     {
@@ -1067,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "assai-id"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1231,
       "user": "Robbyant"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1092,
+      "stars": 1099,
       "user": "browser-use"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "patterniha"
     },
     {
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 743,
       "user": "wbh604"
     }
   ],
@@ -1375,6 +1375,21 @@
       "user": "Marcel.L"
     },
     {
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "Quorinex"
+    },
+    {
       "title": "joao-zanutto/easydocker - GitHub Repository",
       "url": "https://github.com/joao-zanutto/easydocker",
       "published_at": "2026-04-12T01:02:32Z",
@@ -1388,21 +1403,6 @@
       "source": "GitHub",
       "stars": 87,
       "user": "joao-zanutto"
-    },
-    {
-      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "url": "https://github.com/Quorinex/Freebuff2API",
-      "published_at": "2026-04-18T01:08:34Z",
-      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "Quorinex"
     }
   ],
   "WebDev": [
@@ -1777,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "xataio"
     }
   ],
@@ -2060,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 939,
       "user": "Manavarya09"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "andrewjiang"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "bergside"
     },
     {
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 330,
       "user": "assai-id"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1231,
       "user": "Robbyant"
     },
     {
@@ -2150,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1092,
+      "stars": 1099,
       "user": "browser-use"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 859,
       "user": "patterniha"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 743,
       "user": "wbh604"
     },
     {
@@ -2210,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "xataio"
     },
     {
@@ -2227,6 +2227,21 @@
       "source": "GitHub",
       "stars": 95,
       "user": "selfishblackberry177"
+    },
+    {
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "Quorinex"
     },
     {
       "title": "joao-zanutto/easydocker - GitHub Repository",
@@ -2255,23 +2270,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "PechenyeRU"
-    },
-    {
-      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "url": "https://github.com/Quorinex/Freebuff2API",
-      "published_at": "2026-04-18T01:08:34Z",
-      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "Quorinex"
     }
   ]
 }
