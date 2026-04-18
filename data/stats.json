@@ -6,12 +6,12 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 56,
+    "AI": 57,
     "JavaScript": 24,
     "Python": 18,
     "DevOps": 5,
-    "WebDev": 6,
-    "Mobile": 3,
+    "WebDev": 7,
+    "Mobile": 4,
     "Cloud": 20,
     "Database": 1,
     "Security": 7,
@@ -21,8 +21,8 @@
     "JavaScript": 24,
     "Java": 20,
     "Go": 29,
-    "Kotlin": 1,
-    "Swift": 1,
+    "Kotlin": 2,
+    "Swift": 2,
     "Python": 18,
     "Ruby": 1
   },
@@ -92,12 +92,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.5",
-    "Java": "21.3",
-    "Go": "30.9",
-    "Kotlin": "1.1",
-    "Swift": "1.1",
-    "Python": "19.1",
-    "Ruby": "1.1"
+    "JavaScript": "25.0",
+    "Java": "20.8",
+    "Go": "30.2",
+    "Kotlin": "2.1",
+    "Swift": "2.1",
+    "Python": "18.8",
+    "Ruby": "1.0"
   }
 }
