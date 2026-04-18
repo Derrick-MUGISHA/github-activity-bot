@@ -73,21 +73,6 @@
       "user": "Matthew Revell"
     },
     {
-      "title": "Embarrassment is cheap. Token spend isn't.",
-      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
-      "published_at": "2026-04-17T20:17:12Z",
-      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
-      "tags": [
-        "ai",
-        "founder",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
       "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
       "published_at": "2026-04-17T18:03:04Z",
@@ -103,20 +88,6 @@
       "user": "Kai Chew"
     },
     {
-      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
-      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
-      "published_at": "2026-04-17T13:18:29Z",
-      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
-      "tags": [
-        "drupal",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
-      "source": "Dev.to",
-      "user": "James Candan"
-    },
-    {
       "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
       "url": "https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846",
       "published_at": "2026-04-17T16:59:49Z",
@@ -130,6 +101,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
       "source": "Dev.to",
       "user": "Sushan Shetty"
+    },
+    {
+      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
+      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
+      "published_at": "2026-04-17T13:18:29Z",
+      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
+      "tags": [
+        "drupal",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
+      "source": "Dev.to",
+      "user": "James Candan"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1ztl1ihpf12fkfn4npb.png",
       "source": "Dev.to",
       "user": "Tiziano Basile"
+    },
+    {
+      "title": "Embarrassment is cheap. Token spend isn't.",
+      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
+      "published_at": "2026-04-17T20:17:12Z",
+      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
+      "tags": [
+        "ai",
+        "founder",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "bergside"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 336,
       "user": "assai-id"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 586,
       "user": "xataio"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 123,
       "user": "Quorinex"
     }
   ],
@@ -1007,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 950,
       "user": "Manavarya09"
     },
     {
@@ -1022,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 618,
       "user": "andrewjiang"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "bergside"
     },
     {
@@ -1052,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 336,
       "user": "assai-id"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1349,
       "user": "Robbyant"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1119,
       "user": "browser-use"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 882,
       "user": "patterniha"
     },
     {
@@ -1309,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 746,
       "user": "wbh604"
     }
   ],
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 123,
       "user": "Quorinex"
     },
     {
@@ -1762,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 586,
       "user": "xataio"
     }
   ],
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 950,
       "user": "Manavarya09"
     },
     {
@@ -2045,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 618,
       "user": "andrewjiang"
     },
     {
@@ -2060,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "bergside"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 336,
       "user": "assai-id"
     },
     {
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1349,
       "user": "Robbyant"
     },
     {
@@ -2120,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1119,
       "user": "browser-use"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 882,
       "user": "patterniha"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 746,
       "user": "wbh604"
     },
     {
@@ -2180,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 586,
       "user": "xataio"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 123,
       "user": "Quorinex"
     },
     {
@@ -2240,7 +2240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 86,
       "user": "PechenyeRU"
     }
   ]
