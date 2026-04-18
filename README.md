@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-18-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -30,19 +30,19 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦 4 (3.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -60,34 +60,32 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.8 (30.8%)
-JavaScript      ████████████████████████ 24.2 (24.2%)
-Java            ████████████████████ 20.9 (20.9%)
-Python          ███████████████████ 19.8 (19.8%)
+Go              ██████████████████████████████ 28.1 (28.1%)
+JavaScript      ████████████████████████████ 25.8 (25.8%)
+Java            ████████████████████████ 22.5 (22.5%)
+Python          ██████████████████████ 20.2 (20.2%)
 Ruby            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
-Rust            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
-    "JavaScript" : 22
-    "Java" : 19
+    "Go" : 25
+    "JavaScript" : 23
+    "Java" : 20
     "Python" : 18
     "Ruby" : 1
     "Kotlin" : 1
     "Swift" : 1
-    "Rust" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![aws](https://img.shields.io/badge/aws-6-blue) 
 
 
 
@@ -218,7 +216,7 @@ npm run test
 - [Don't be mad, BMAD instead](https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i) _[Dev.to]_
 - [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
 
-_Last automated update: Sat, 18 Apr 2026 12:01:15 CAT_
+_Last automated update: Sat, 18 Apr 2026 12:59:46 CAT_
 
 
 
@@ -226,36 +224,36 @@ _Last automated update: Sat, 18 Apr 2026 12:01:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 10:01:15 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 10:59:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
