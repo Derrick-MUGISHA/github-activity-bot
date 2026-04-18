@@ -216,7 +216,7 @@ npm run test
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 01:18:40 CAT_
+_Last automated update: Sun, 19 Apr 2026 01:59:10 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 19 Apr 2026 01:18:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Mutability, performance, use cases
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 23:18:40 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 23:59:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
