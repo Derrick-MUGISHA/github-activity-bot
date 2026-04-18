@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-18 21:00 CAT)
+## 📅 Latest Updates (2026-04-18 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,10 +151,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg" width="200" alt="Congrats to the 2026 WeCoded Challenge Winners!" />
+    <a href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png" width="200" alt="Congrats to the Notion MCP Challenge Winners!" />
       <br/>
-      <b>Congrats to the 2026 WeCoded Challenge Winners!</b>
+      <b>Congrats to the Notion MCP Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,10 +162,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png" width="200" alt="Congrats to the Notion MCP Challenge Winners!" />
+    <a href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg" width="200" alt="Congrats to the 2026 WeCoded Challenge Winners!" />
       <br/>
-      <b>Congrats to the Notion MCP Challenge Winners!</b>
+      <b>Congrats to the 2026 WeCoded Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,8 +197,8 @@ npm run test
 
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
-- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
+- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53) _[Dev.to]_
 
-_Last automated update: Sat, 18 Apr 2026 21:52:40 CAT_
+_Last automated update: Sat, 18 Apr 2026 22:32:36 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 18 Apr 2026 21:52:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 19:52:40 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 20:32:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
