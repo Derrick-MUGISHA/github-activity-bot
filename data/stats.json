@@ -18,13 +18,13 @@
     "Tools": 24
   },
   "by_language": {
-    "Ruby": 1,
     "Go": 25,
     "Kotlin": 1,
     "JavaScript": 23,
     "Java": 20,
     "Swift": 1,
-    "Python": 18
+    "Python": 18,
+    "Ruby": 1
   },
   "by_date": {
     "2026-04-17": 13,
@@ -84,8 +84,8 @@
     "webdev": 7,
     "go": 7,
     "devchallenge": 6,
-    "programming": 6,
     "aws": 6,
+    "programming": 6,
     "tutorial": 6,
     "a2aprotocol": 5,
     "productivity": 4,
@@ -94,12 +94,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Ruby": "1.1",
     "Go": "28.1",
     "Kotlin": "1.1",
     "JavaScript": "25.8",
     "Java": "22.5",
     "Swift": "1.1",
-    "Python": "20.2"
+    "Python": "20.2",
+    "Ruby": "1.1"
   }
 }

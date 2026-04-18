@@ -16,34 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Watching RubyGems.org in Real Time",
-      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
-      "published_at": "2026-04-16T21:46:47Z",
-      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
-      "tags": [
-        "ruby",
-        "rails"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "100 Daily Challenges to Learn Web3 and Solana",
-      "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
-      "published_at": "2026-04-17T15:14:12Z",
-      "description": "Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.",
-      "tags": [
-        "web3",
-        "solana",
-        "programming",
-        "blockchain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
-      "source": "Dev.to",
-      "user": "Matthew Revell"
-    },
-    {
       "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
       "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
       "published_at": "2026-04-16T13:50:47Z",
@@ -237,6 +209,34 @@
       "user": "kotakanbe"
     },
     {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
+      "title": "100 Daily Challenges to Learn Web3 and Solana",
+      "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
+      "published_at": "2026-04-17T15:14:12Z",
+      "description": "Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.",
+      "tags": [
+        "web3",
+        "solana",
+        "programming",
+        "blockchain"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
       "published_at": "2026-04-16T13:12:53Z",
@@ -310,21 +310,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
-      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
-      "published_at": "2026-04-16T18:13:14Z",
-      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
-      "tags": [
-        "miniscript",
-        "minimicro",
-        "agents",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
-      "source": "Dev.to",
-      "user": "JoeStrout"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
@@ -520,6 +505,21 @@
       "user": "Nikita Namjoshi"
     },
     {
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
+      "published_at": "2026-04-16T18:13:14Z",
+      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
+      "tags": [
+        "miniscript",
+        "minimicro",
+        "agents",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
+      "source": "Dev.to",
+      "user": "JoeStrout"
+    },
+    {
       "title": "Alignment is the wrong frame: a structural argument from Φ-IIT",
       "url": "https://dev.to/iliketree/alignment-is-the-wrong-frame-a-structural-argument-from-ph-iit-1h61",
       "published_at": "2026-04-13T13:02:33Z",
@@ -678,7 +678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "bergside"
     },
     {
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "assai-id"
     },
     {
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "xataio"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 158,
       "user": "Quorinex"
     }
   ],
@@ -992,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 977,
       "user": "Manavarya09"
     },
     {
@@ -1007,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 628,
       "user": "andrewjiang"
     },
     {
@@ -1022,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "bergside"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "assai-id"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1675,
       "user": "Robbyant"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1188,
       "user": "browser-use"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 934,
       "user": "patterniha"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 831,
       "user": "sterlingcrispin"
     },
     {
@@ -1356,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 158,
       "user": "Quorinex"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "joao-zanutto"
     }
   ],
@@ -1732,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "xataio"
     }
   ],
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 977,
       "user": "Manavarya09"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 628,
       "user": "andrewjiang"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "bergside"
     },
     {
@@ -2045,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "assai-id"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1675,
       "user": "Robbyant"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1188,
       "user": "browser-use"
     },
     {
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 934,
       "user": "patterniha"
     },
     {
@@ -2120,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 831,
       "user": "sterlingcrispin"
     },
     {
@@ -2150,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "xataio"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 158,
       "user": "Quorinex"
     },
     {
@@ -2180,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "selfishblackberry177"
     },
     {
@@ -2210,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "joao-zanutto"
     }
   ]
