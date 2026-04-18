@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-18 17:00 CAT)
+## 📅 Latest Updates (2026-04-18 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-28fb">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9g0ggokz5bnmths1ktot.jpg" width="200" alt="What was your win this week?!" />
+    <a href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png" width="200" alt="Congrats to the Notion MCP Challenge Winners!" />
       <br/>
-      <b>What was your win this week?!</b>
+      <b>Congrats to the Notion MCP Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png" width="200" alt="Congrats to the Notion MCP Challenge Winners!" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-28fb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9g0ggokz5bnmths1ktot.jpg" width="200" alt="What was your win this week?!" />
       <br/>
-      <b>Congrats to the Notion MCP Challenge Winners!</b>
+      <b>What was your win this week?!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,8 +195,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [Watching RubyGems.org in Real Time](https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Beyond Marker Clustering](https://dev.to/markosmilja/beyond-marker-clustering-1jmj) _[Dev.to]_
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 
-_Last automated update: Sat, 18 Apr 2026 17:53:31 CAT_
+_Last automated update: Sat, 18 Apr 2026 18:35:16 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 18 Apr 2026 17:53:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 15:53:31 GMT</b><br/>
+  <b>Last automated update: Sat, 18 Apr 2026 16:35:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
