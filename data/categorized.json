@@ -117,21 +117,6 @@
       "user": "James Candan"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl",
-      "published_at": "2026-04-17T14:42:33Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "a2aprotocol",
-        "gemini",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw73qbb5zdl2vcummdih6.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
       "url": "https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846",
       "published_at": "2026-04-17T16:59:49Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
       "source": "Dev.to",
       "user": "Sushan Shetty"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl",
+      "published_at": "2026-04-17T14:42:33Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googleadk",
+        "a2aprotocol",
+        "gemini",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw73qbb5zdl2vcummdih6.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
@@ -754,8 +754,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "xataio"
+    },
+    {
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "Quorinex"
     }
   ],
   "JavaScript": [
@@ -993,7 +1008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 922,
       "user": "Manavarya09"
     },
     {
@@ -1008,7 +1023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "andrewjiang"
     },
     {
@@ -1235,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1140,
       "user": "Robbyant"
     },
     {
@@ -1250,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1066,
       "user": "browser-use"
     },
     {
@@ -1265,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 833,
       "user": "patterniha"
     },
     {
@@ -1280,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "sterlingcrispin"
     },
     {
@@ -1295,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 734,
       "user": "wbh604"
     }
   ],
@@ -1374,6 +1389,21 @@
       "source": "GitHub",
       "stars": 87,
       "user": "joao-zanutto"
+    },
+    {
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "Quorinex"
     }
   ],
   "WebDev": [
@@ -1718,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "xataio"
     }
   ],
@@ -2016,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 922,
       "user": "Manavarya09"
     },
     {
@@ -2031,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "andrewjiang"
     },
     {
@@ -2091,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1140,
       "user": "Robbyant"
     },
     {
@@ -2106,7 +2136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1066,
       "user": "browser-use"
     },
     {
@@ -2121,7 +2151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 833,
       "user": "patterniha"
     },
     {
@@ -2136,7 +2166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "sterlingcrispin"
     },
     {
@@ -2151,7 +2181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 734,
       "user": "wbh604"
     },
     {
@@ -2166,7 +2196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "xataio"
     },
     {
@@ -2181,7 +2211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "selfishblackberry177"
     },
     {
@@ -2211,23 +2241,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "PechenyeRU"
     },
     {
-      "title": "zhf883680/clash-traffic-monitor - 一个 clash 流量监控工具  适配 mihomo 内核 go 语言编写",
-      "url": "https://github.com/zhf883680/clash-traffic-monitor",
-      "published_at": "2026-04-14T07:33:28Z",
-      "description": "一个 clash 流量监控工具  适配 mihomo 内核 go 语言编写",
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23031238?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 48,
-      "user": "zhf883680"
+      "stars": 58,
+      "user": "Quorinex"
     }
   ]
 }
