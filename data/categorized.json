@@ -535,6 +535,21 @@
       "user": "i-like-tree"
     },
     {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -678,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "bergside"
     },
     {
@@ -743,21 +758,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "Beyond Marker Clustering",
-      "url": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
-      "published_at": "2026-04-16T13:16:31Z",
-      "description": "Learn about a better way to manage thousands of map markers by using priority-based ranking instead of traditional clustering.",
-      "tags": [
-        "webdev",
-        "javascript",
-        "maps",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F08t55ut0ocyw4gpfyekg.png",
-      "source": "Dev.to",
-      "user": "Marko Smiljanic"
-    },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
@@ -859,6 +859,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
+    },
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -992,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "Manavarya09"
     },
     {
@@ -1022,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "bergside"
     },
     {
@@ -1234,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1753,
       "user": "Robbyant"
     },
     {
@@ -1249,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1204,
       "user": "browser-use"
     },
     {
@@ -1264,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 957,
       "user": "patterniha"
     },
     {
@@ -2000,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "Manavarya09"
     },
     {
@@ -2030,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "bergside"
     },
     {
@@ -2075,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1753,
       "user": "Robbyant"
     },
     {
@@ -2090,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1204,
       "user": "browser-use"
     },
     {
@@ -2105,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 957,
       "user": "patterniha"
     },
     {
@@ -2180,23 +2195,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 108,
       "user": "selfishblackberry177"
-    },
-    {
-      "title": "PechenyeRU/FakeSNI - A fake SNI injector for linux, written in pure golang",
-      "url": "https://github.com/PechenyeRU/FakeSNI",
-      "published_at": "2026-04-13T20:48:39Z",
-      "description": "A fake SNI injector for linux, written in pure golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
-      "source": "GitHub",
-      "stars": 89,
-      "user": "PechenyeRU"
     },
     {
       "title": "joao-zanutto/easydocker - GitHub Repository",
@@ -2212,6 +2212,21 @@
       "source": "GitHub",
       "stars": 91,
       "user": "joao-zanutto"
+    },
+    {
+      "title": "PechenyeRU/FakeSNI - A fake SNI injector for linux, written in pure golang",
+      "url": "https://github.com/PechenyeRU/FakeSNI",
+      "published_at": "2026-04-13T20:48:39Z",
+      "description": "A fake SNI injector for linux, written in pure golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/274735446?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "PechenyeRU"
     }
   ]
 }
