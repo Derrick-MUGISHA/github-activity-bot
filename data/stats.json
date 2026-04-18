@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -12,9 +12,9 @@
     "DevOps": 5,
     "WebDev": 5,
     "Mobile": 2,
-    "Cloud": 18,
+    "Cloud": 17,
     "Database": 1,
-    "Security": 6,
+    "Security": 7,
     "Tools": 24
   },
   "by_language": {
@@ -30,13 +30,13 @@
     "2026-04-17": 13,
     "2026-04-16": 22,
     "2026-04-14": 9,
-    "2026-04-15": 9,
+    "2026-04-15": 8,
     "2026-04-08": 1,
     "2026-04-09": 4,
     "2026-04-10": 3,
     "2026-04-07": 1,
     "2026-04-11": 1,
-    "2026-04-13": 4,
+    "2026-04-13": 6,
     "2026-04-06": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
@@ -71,7 +71,7 @@
     "2026-04-18": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 19,
     "github": 16,
     "open-source": 15,
     "gemini": 11,
@@ -90,7 +90,7 @@
     "a2aprotocol": 5,
     "productivity": 4,
     "googleadk": 4,
-    "opensource": 4
+    "security": 4
   },
   "trending_topics": [],
   "language_percentages": {
