@@ -327,21 +327,6 @@
       "user": "JoeStrout"
     },
     {
-      "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
-      "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
-      "published_at": "2026-04-15T00:49:38Z",
-      "description": "Regex-based safety classification fails in both directions. It flags \"the bank of the river\" as...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "nlp",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhicm9isu4mkpi9caeetu.png",
-      "source": "Dev.to",
-      "user": "Radu C."
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -417,19 +402,19 @@
       "user": "xbill"
     },
     {
-      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
-      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
-      "published_at": "2026-04-16T14:44:03Z",
-      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
+      "published_at": "2026-04-16T09:49:24Z",
+      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
       "tags": [
-        "tdd",
-        "spec",
-        "serverless",
-        "aidlc"
+        "architecture",
+        "security",
+        "ai",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
       "source": "Dev.to",
-      "user": "Salih Guler "
+      "user": "Alexander Tyutin"
     },
     {
       "title": "TPU Mythbusting: the general perception",
@@ -533,6 +518,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
       "source": "Dev.to",
       "user": "Nikita Namjoshi"
+    },
+    {
+      "title": "Alignment is the wrong frame: a structural argument from Φ-IIT",
+      "url": "https://dev.to/iliketree/alignment-is-the-wrong-frame-a-structural-argument-from-ph-iit-1h61",
+      "published_at": "2026-04-13T13:02:33Z",
+      "description": "TL;DR    Rule-based alignment is bypassable in time O(1/ε) where ε is the gap between the...",
+      "tags": [
+        "ai",
+        "alignment",
+        "consciousness",
+        "safety"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1cl2t71j9cnzu33mubs.png",
+      "source": "Dev.to",
+      "user": "i-like-tree"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -693,7 +693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "assai-id"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 154,
       "user": "Quorinex"
     }
   ],
@@ -992,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 975,
       "user": "Manavarya09"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "assai-id"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1581,
+      "stars": 1615,
       "user": "Robbyant"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1179,
       "user": "browser-use"
     },
     {
@@ -1264,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 923,
       "user": "patterniha"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 830,
       "user": "sterlingcrispin"
     },
     {
@@ -1294,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 754,
       "user": "wbh604"
     }
   ],
@@ -1356,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 154,
       "user": "Quorinex"
     },
     {
@@ -1676,21 +1676,6 @@
       "user": "Sofiane Hamlaoui"
     },
     {
-      "title": "Building Serverless APIs with TDD and AI-Powered Spec Generation",
-      "url": "https://dev.to/aws/building-serverless-apis-with-tdd-and-ai-powered-spec-generation-2c36",
-      "published_at": "2026-04-16T14:44:03Z",
-      "description": "Test-Driven Development has been around for decades, but most teams still struggle to adopt it...",
-      "tags": [
-        "tdd",
-        "spec",
-        "serverless",
-        "aidlc"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F74kyhuk4uqq2i9wv5fzn.jpg",
-      "source": "Dev.to",
-      "user": "Salih Guler "
-    },
-    {
       "title": "TPU Mythbusting: the general perception",
       "url": "https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585",
       "published_at": "2026-04-16T18:50:29Z",
@@ -1823,6 +1808,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
       "source": "Dev.to",
       "user": "Aditya"
+    },
+    {
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
+      "published_at": "2026-04-16T09:49:24Z",
+      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
+      "tags": [
+        "architecture",
+        "security",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 975,
       "user": "Manavarya09"
     },
     {
@@ -2045,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "assai-id"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1581,
+      "stars": 1615,
       "user": "Robbyant"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1179,
       "user": "browser-use"
     },
     {
@@ -2105,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 923,
       "user": "patterniha"
     },
     {
@@ -2120,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 830,
       "user": "sterlingcrispin"
     },
     {
@@ -2135,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 754,
       "user": "wbh604"
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 154,
       "user": "Quorinex"
     },
     {
@@ -2180,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "selfishblackberry177"
     },
     {
