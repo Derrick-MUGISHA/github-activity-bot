@@ -6,23 +6,23 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 61,
-    "JavaScript": 22,
+    "AI": 60,
+    "JavaScript": 23,
     "Python": 19,
     "DevOps": 4,
-    "WebDev": 6,
+    "WebDev": 7,
     "Mobile": 4,
-    "Cloud": 20,
+    "Cloud": 19,
     "Database": 1,
     "Security": 6,
-    "Tools": 24
+    "Tools": 23
   },
   "by_language": {
     "Python": 19,
     "Go": 30,
     "Kotlin": 2,
-    "JavaScript": 22,
-    "Java": 18,
+    "JavaScript": 23,
+    "Java": 19,
     "Swift": 2,
     "Ruby": 1
   },
@@ -32,11 +32,12 @@
     "2026-04-16": 20,
     "2026-04-18": 8,
     "2026-04-14": 8,
-    "2026-04-15": 8,
+    "2026-04-15": 7,
     "2026-04-08": 1,
     "2026-04-09": 4,
     "2026-04-10": 2,
     "2026-04-07": 1,
+    "2026-04-13": 4,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -65,11 +66,10 @@
     "2021-08-25": 1,
     "2017-11-27": 1,
     "2025-05-07": 1,
-    "2019-08-12": 1,
-    "2026-04-13": 3
+    "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 19,
     "gemini": 15,
     "github": 15,
     "open-source": 15,
@@ -78,26 +78,26 @@
     "JavaScript": 10,
     "Python": 10,
     "python": 9,
-    "javascript": 8,
+    "javascript": 9,
     "weekendchallenge": 7,
-    "aws": 7,
+    "webdev": 7,
     "tutorial": 7,
     "go": 7,
-    "webdev": 6,
+    "aws": 6,
     "discuss": 5,
-    "productivity": 5,
     "a2aprotocol": 5,
     "programming": 5,
+    "productivity": 4,
     "googleadk": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "20.2",
-    "Go": "31.9",
+    "Python": "19.8",
+    "Go": "31.3",
     "Kotlin": "2.1",
-    "JavaScript": "23.4",
-    "Java": "19.1",
+    "JavaScript": "24.0",
+    "Java": "19.8",
     "Swift": "2.1",
-    "Ruby": "1.1"
+    "Ruby": "1.0"
   }
 }
