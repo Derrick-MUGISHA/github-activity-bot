@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1040,
       "user": "Manavarya09"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "bergside"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "assai-id"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1198,
       "user": "browser-use"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "Lazarus-AI"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "xataio"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "Quorinex"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 63,
       "user": "432539"
     }
   ],
@@ -1098,7 +1098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1040,
       "user": "Manavarya09"
     },
     {
@@ -1113,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "andrewjiang"
     },
     {
@@ -1128,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "bergside"
     },
     {
@@ -1143,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "assai-id"
     },
     {
@@ -1340,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2233,
+      "stars": 2281,
       "user": "Robbyant"
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1198,
       "user": "browser-use"
     },
     {
@@ -1370,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "wbh604"
     },
     {
@@ -1385,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "Lazarus-AI"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "Quorinex"
     }
   ],
@@ -1564,26 +1564,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1040,
       "user": "Manavarya09"
     }
   ],
   "Mobile": [
-    {
-      "title": "How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App",
-      "url": "https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk",
-      "published_at": "2026-04-18T20:29:11Z",
-      "description": "If you use Meta’s Threads app on a mobile device, you may have noticed an interesting effect: the...",
-      "tags": [
-        "webdev",
-        "css",
-        "javascript",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi0.wp.com%2Ferikscode.space%2Fwp-content%2Fuploads%2F2026%2F04%2Fpexels-zba-banner-2156097684-34036475-scaled.jpg%3Ffit%3D2560%252C1697%26ssl%3D1",
-      "source": "Dev.to",
-      "user": "Erik"
-    },
     {
       "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
       "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
@@ -1598,6 +1583,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
       "source": "Dev.to",
       "user": "Massimo Moffa"
+    },
+    {
+      "title": "How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App",
+      "url": "https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk",
+      "published_at": "2026-04-18T20:29:11Z",
+      "description": "If you use Meta’s Threads app on a mobile device, you may have noticed an interesting effect: the...",
+      "tags": [
+        "webdev",
+        "css",
+        "javascript",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi0.wp.com%2Ferikscode.space%2Fwp-content%2Fuploads%2F2026%2F04%2Fpexels-zba-banner-2156097684-34036475-scaled.jpg%3Ffit%3D2560%252C1697%26ssl%3D1",
+      "source": "Dev.to",
+      "user": "Erik"
     },
     {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
@@ -1626,7 +1626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1040,
       "user": "Manavarya09"
     }
   ],
@@ -1928,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "xataio"
     }
   ],
@@ -2210,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1040,
       "user": "Manavarya09"
     },
     {
@@ -2225,7 +2225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "andrewjiang"
     },
     {
@@ -2240,7 +2240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "bergside"
     },
     {
@@ -2255,7 +2255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "assai-id"
     },
     {
@@ -2285,7 +2285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2233,
+      "stars": 2281,
       "user": "Robbyant"
     },
     {
@@ -2300,7 +2300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1198,
       "user": "browser-use"
     },
     {
@@ -2315,7 +2315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "wbh604"
     },
     {
@@ -2330,7 +2330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "Lazarus-AI"
     },
     {
@@ -2360,7 +2360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "xataio"
     },
     {
@@ -2375,7 +2375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 258,
       "user": "Quorinex"
     },
     {
@@ -2390,7 +2390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "selfishblackberry177"
     },
     {
@@ -2420,7 +2420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 63,
       "user": "432539"
     }
   ]
