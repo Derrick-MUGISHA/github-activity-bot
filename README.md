@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-18-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
 **WebDev**: 🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 7 (6.7%)
+**Security**: 🟦🟦 6 (5.8%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Mobile**: 🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.2 (30.2%)
-JavaScript      █████████████████████████ 25.0 (25.0%)
-Java            █████████████████████ 20.8 (20.8%)
-Python          ███████████████████ 18.8 (18.8%)
+Go              ██████████████████████████████ 30.5 (30.5%)
+JavaScript      █████████████████████████ 25.3 (25.3%)
+Java            █████████████████████ 21.1 (21.1%)
+Python          ██████████████████ 17.9 (17.9%)
 Kotlin          ██ 2.1 (2.1%)
 Swift           ██ 2.1 (2.1%)
-Ruby            █ 1.0 (1.0%)
+Ruby            █ 1.1 (1.1%)
 
 ```
 
@@ -75,7 +75,7 @@ pie title Programming Languages Distribution
     "Go" : 29
     "JavaScript" : 24
     "Java" : 20
-    "Python" : 18
+    "Python" : 17
     "Kotlin" : 2
     "Swift" : 2
     "Ruby" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-14-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 1:00 CAT)
+## 📅 Latest Updates (2026-04-19 5:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,7 +207,6 @@ npm run test
 - [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) _[Dev.to]_
 - [🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.](https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
-- [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl) _[Dev.to]_
 - [Building a Multimodal Agent with the ADK, Azure ACI, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aci-and-gemini-flash-live-31-3hp6) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Embarrassment is cheap. Token spend isn't.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3) _[Dev.to]_
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
+- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 01:59:10 CAT_
+_Last automated update: Sun, 19 Apr 2026 05:36:24 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 19 Apr 2026 01:59:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 18 Apr 2026 23:59:10 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 03:36:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

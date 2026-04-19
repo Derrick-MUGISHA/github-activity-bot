@@ -89,21 +89,6 @@
       "user": "James Candan"
     },
     {
-      "title": "Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017",
-      "published_at": "2026-04-18T13:41:02Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "gemini",
-        "multimodal",
-        "aws",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8ldii2sry0m47i54c3m.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl",
       "published_at": "2026-04-17T14:42:33Z",
@@ -208,6 +193,21 @@
       "user": "Jimmy McBride"
     },
     {
+      "title": "Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017",
+      "published_at": "2026-04-18T13:41:02Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "gemini",
+        "multimodal",
+        "aws",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8ldii2sry0m47i54c3m.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage [GDE]",
       "url": "https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9",
       "published_at": "2026-04-18T06:50:21Z",
@@ -251,21 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqt25has9xuyuus32ul2.png",
       "source": "Dev.to",
       "user": "hasanmn"
-    },
-    {
-      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
-      "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
-      "published_at": "2026-04-16T15:03:04Z",
-      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -386,21 +371,6 @@
       "user": "xbill"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
-      "published_at": "2026-04-10T12:54:24Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "google",
-        "gemini",
-        "ecsexpress",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -412,6 +382,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
+      "published_at": "2026-04-10T12:54:24Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "google",
+        "gemini",
+        "ecsexpress",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -737,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1013,
       "user": "Manavarya09"
     },
     {
@@ -752,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 429,
       "user": "bergside"
     },
     {
@@ -767,23 +752,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 376,
       "user": "assai-id"
     },
     {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "title": "Lazarus-AI/clearwing - GitHub Repository",
+      "url": "https://github.com/Lazarus-AI/clearwing",
+      "published_at": "2026-04-14T20:00:22Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 294,
-      "user": "V-IOLE-T"
+      "stars": 655,
+      "user": "Lazarus-AI"
+    },
+    {
+      "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+      "url": "https://github.com/browser-use/browser-harness",
+      "published_at": "2026-04-17T01:56:15Z",
+      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "browser-use"
+    },
+    {
+      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "published_at": "2026-04-15T13:45:41Z",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "source": "GitHub",
+      "stars": 510,
+      "user": "codejunkie99"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -797,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 610,
       "user": "xataio"
     },
     {
@@ -812,7 +827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 178,
       "user": "Quorinex"
     }
   ],
@@ -1081,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1013,
       "user": "Manavarya09"
     },
     {
@@ -1096,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "andrewjiang"
     },
     {
@@ -1111,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 429,
       "user": "bergside"
     },
     {
@@ -1126,40 +1141,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 376,
       "user": "assai-id"
     },
     {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "title": "activetheory/activeframe - Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
+      "url": "https://github.com/activetheory/activeframe",
+      "published_at": "2026-04-15T22:40:52Z",
+      "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 294,
-      "user": "V-IOLE-T"
+      "stars": 264,
+      "user": "activetheory"
     }
   ],
   "Python": [
     {
-      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
-      "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
-      "published_at": "2026-04-16T15:03:04Z",
-      "description": "What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
+      "published_at": "2026-04-10T12:56:03Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "ai",
         "gemini",
+        "googleadk",
         "python",
-        "tutorial"
+        "aws"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6gnjjkbvndwu5j6drsch.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
+      "user": "xbill"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
@@ -1173,21 +1188,6 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
-      "published_at": "2026-04-10T12:56:03Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "gemini",
-        "googleadk",
-        "python",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1323,53 +1323,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1847,
+      "stars": 1983,
       "user": "Robbyant"
-    },
-    {
-      "title": "browser-use/video-use - GitHub Repository",
-      "url": "https://github.com/browser-use/video-use",
-      "published_at": "2026-04-12T01:34:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 1235,
-      "user": "browser-use"
-    },
-    {
-      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "published_at": "2026-04-12T10:47:30Z",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
-      "source": "GitHub",
-      "stars": 975,
-      "user": "patterniha"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "sterlingcrispin"
     },
     {
       "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
@@ -1383,8 +1338,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 765,
       "user": "wbh604"
+    },
+    {
+      "title": "Lazarus-AI/clearwing - GitHub Repository",
+      "url": "https://github.com/Lazarus-AI/clearwing",
+      "published_at": "2026-04-14T20:00:22Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
+      "source": "GitHub",
+      "stars": 655,
+      "user": "Lazarus-AI"
+    },
+    {
+      "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+      "url": "https://github.com/browser-use/browser-harness",
+      "published_at": "2026-04-17T01:56:15Z",
+      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "browser-use"
+    },
+    {
+      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "published_at": "2026-04-15T13:45:41Z",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "source": "GitHub",
+      "stars": 510,
+      "user": "codejunkie99"
     }
   ],
   "DevOps": [
@@ -1445,23 +1445,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 178,
       "user": "Quorinex"
-    },
-    {
-      "title": "joao-zanutto/easydocker - GitHub Repository",
-      "url": "https://github.com/joao-zanutto/easydocker",
-      "published_at": "2026-04-12T01:02:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
-      "source": "GitHub",
-      "stars": 91,
-      "user": "joao-zanutto"
     }
   ],
   "WebDev": [
@@ -1562,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1013,
       "user": "Manavarya09"
     }
   ],
@@ -1624,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1013,
       "user": "Manavarya09"
     }
   ],
@@ -1643,21 +1628,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98ecdssbss16lzbrrncd.png",
       "source": "Dev.to",
       "user": "Robert J. Berger"
-    },
-    {
-      "title": "Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017",
-      "published_at": "2026-04-18T13:41:02Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
-      "tags": [
-        "gemini",
-        "multimodal",
-        "aws",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8ldii2sry0m47i54c3m.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
@@ -1701,6 +1671,21 @@
         "a2aprotocol"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqt7gu1e6q371roqkeh7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017",
+      "published_at": "2026-04-18T13:41:02Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "tags": [
+        "gemini",
+        "multimodal",
+        "aws",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8ldii2sry0m47i54c3m.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1795,21 +1780,6 @@
       "user": "xbill"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
-      "published_at": "2026-04-10T12:54:24Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "google",
-        "gemini",
-        "ecsexpress",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -1821,6 +1791,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fty41k4n92j312we9ukgr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
+      "published_at": "2026-04-10T12:54:24Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "google",
+        "gemini",
+        "ecsexpress",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg85vthteyugo4s1e1b7q.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1926,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 610,
       "user": "xataio"
     }
   ],
@@ -2029,21 +2014,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "V-IOLE-T"
     }
   ],
   "Tools": [
@@ -2208,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1013,
       "user": "Manavarya09"
     },
     {
@@ -2223,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "andrewjiang"
     },
     {
@@ -2238,7 +2208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 429,
       "user": "bergside"
     },
     {
@@ -2253,23 +2223,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 376,
       "user": "assai-id"
     },
     {
-      "title": "V-IOLE-T/hotmail-register-extension - 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
-      "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
-      "published_at": "2026-04-12T20:53:26Z",
-      "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理",
+      "title": "activetheory/activeframe - Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
+      "url": "https://github.com/activetheory/activeframe",
+      "published_at": "2026-04-15T22:40:52Z",
+      "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/168922623?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 294,
-      "user": "V-IOLE-T"
+      "stars": 264,
+      "user": "activetheory"
     },
     {
       "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
@@ -2283,53 +2253,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1847,
+      "stars": 1983,
       "user": "Robbyant"
-    },
-    {
-      "title": "browser-use/video-use - GitHub Repository",
-      "url": "https://github.com/browser-use/video-use",
-      "published_at": "2026-04-12T01:34:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 1235,
-      "user": "browser-use"
-    },
-    {
-      "title": "patterniha/SNI-Spoofing - Bypass DPI with IP/TCP-Header manipulation",
-      "url": "https://github.com/patterniha/SNI-Spoofing",
-      "published_at": "2026-04-12T10:47:30Z",
-      "description": "Bypass DPI with IP/TCP-Header manipulation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71074308?v=4",
-      "source": "GitHub",
-      "stars": 975,
-      "user": "patterniha"
-    },
-    {
-      "title": "sterlingcrispin/nothing-ever-happens - Polymarket bot that buys \"No\" on all non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "published_at": "2026-04-12T18:26:00Z",
-      "description": "Polymarket bot that buys \"No\" on all non-sports markets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2976761?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "sterlingcrispin"
     },
     {
       "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
@@ -2343,8 +2268,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 765,
       "user": "wbh604"
+    },
+    {
+      "title": "Lazarus-AI/clearwing - GitHub Repository",
+      "url": "https://github.com/Lazarus-AI/clearwing",
+      "published_at": "2026-04-14T20:00:22Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
+      "source": "GitHub",
+      "stars": 655,
+      "user": "Lazarus-AI"
+    },
+    {
+      "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+      "url": "https://github.com/browser-use/browser-harness",
+      "published_at": "2026-04-17T01:56:15Z",
+      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "browser-use"
+    },
+    {
+      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "published_at": "2026-04-15T13:45:41Z",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "source": "GitHub",
+      "stars": 510,
+      "user": "codejunkie99"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -2358,7 +2328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 610,
       "user": "xataio"
     },
     {
@@ -2373,7 +2343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 178,
       "user": "Quorinex"
     },
     {
@@ -2392,21 +2362,6 @@
       "user": "selfishblackberry177"
     },
     {
-      "title": "joao-zanutto/easydocker - GitHub Repository",
-      "url": "https://github.com/joao-zanutto/easydocker",
-      "published_at": "2026-04-12T01:02:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11475695?v=4",
-      "source": "GitHub",
-      "stars": 91,
-      "user": "joao-zanutto"
-    },
-    {
       "title": "PechenyeRU/FakeSNI - A fake SNI injector for linux, written in pure golang",
       "url": "https://github.com/PechenyeRU/FakeSNI",
       "published_at": "2026-04-13T20:48:39Z",
@@ -2420,6 +2375,21 @@
       "source": "GitHub",
       "stars": 91,
       "user": "PechenyeRU"
+    },
+    {
+      "title": "zhf883680/clash-traffic-monitor - 一个 clash 流量监控工具  适配 mihomo 内核 go 语言编写",
+      "url": "https://github.com/zhf883680/clash-traffic-monitor",
+      "published_at": "2026-04-14T07:33:28Z",
+      "description": "一个 clash 流量监控工具  适配 mihomo 内核 go 语言编写",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23031238?v=4",
+      "source": "GitHub",
+      "stars": 50,
+      "user": "zhf883680"
     }
   ]
 }
