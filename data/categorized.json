@@ -16,6 +16,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini",
+      "url": "https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih",
+      "published_at": "2026-04-19T14:20:42Z",
+      "description": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard +...",
+      "tags": [
+        "weekendchallenge",
+        "webdev",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg",
+      "source": "Dev.to",
+      "user": "Dev Rajput"
+    },
+    {
+      "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
+      "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
+      "published_at": "2026-04-19T13:12:54Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition           Background               ...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png",
+      "source": "Dev.to",
+      "user": "Ranjan Dailata"
+    },
+    {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
       "published_at": "2026-04-16T15:38:54Z",
@@ -29,6 +59,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
+      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
+      "published_at": "2026-04-19T06:21:26Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
+      "source": "Dev.to",
+      "user": "Setiaji"
     },
     {
       "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
@@ -117,6 +160,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1ztl1ihpf12fkfn4npb.png",
       "source": "Dev.to",
       "user": "Tiziano Basile"
+    },
+    {
+      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
+      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
+      "published_at": "2026-04-19T03:11:23Z",
+      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
+      "source": "Dev.to",
+      "user": "vaidehi Warghat"
     },
     {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
@@ -221,64 +277,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
-      "title": "Watching RubyGems.org in Real Time",
-      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
-      "published_at": "2026-04-16T21:46:47Z",
-      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
-      "tags": [
-        "ruby",
-        "rails"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
-      "published_at": "2026-04-16T13:12:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "amazonlightsail",
-        "multiagentsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
@@ -723,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Manavarya09"
     },
     {
@@ -738,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "bergside"
     },
     {
@@ -753,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "assai-id"
     },
     {
@@ -768,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1521,
+      "stars": 1611,
       "user": "browser-use"
     },
     {
@@ -783,23 +781,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 702,
       "user": "Lazarus-AI"
     },
     {
-      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "url": "https://github.com/codejunkie99/agentic-stack",
-      "published_at": "2026-04-15T13:45:41Z",
-      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "published_at": "2026-04-18T12:57:52Z",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 545,
-      "user": "codejunkie99"
+      "stars": 600,
+      "user": "kyegomez"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -813,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 626,
       "user": "xataio"
     },
     {
@@ -828,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 300,
       "user": "Quorinex"
     },
     {
@@ -843,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "432539"
     }
   ],
@@ -1098,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Manavarya09"
     },
     {
@@ -1113,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "andrewjiang"
     },
     {
@@ -1128,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "bergside"
     },
     {
@@ -1143,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "assai-id"
     },
     {
@@ -1163,6 +1161,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
+      "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
+      "published_at": "2026-04-19T13:12:54Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition           Background               ...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png",
+      "source": "Dev.to",
+      "user": "Ranjan Dailata"
+    },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me",
@@ -1340,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2423,
+      "stars": 2451,
       "user": "Robbyant"
     },
     {
@@ -1355,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1521,
+      "stars": 1611,
       "user": "browser-use"
     },
     {
@@ -1385,23 +1398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 702,
       "user": "Lazarus-AI"
     },
     {
-      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "url": "https://github.com/codejunkie99/agentic-stack",
-      "published_at": "2026-04-15T13:45:41Z",
-      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "published_at": "2026-04-18T12:57:52Z",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 545,
-      "user": "codejunkie99"
+      "stars": 600,
+      "user": "kyegomez"
     }
   ],
   "DevOps": [
@@ -1419,21 +1432,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98ecdssbss16lzbrrncd.png",
       "source": "Dev.to",
       "user": "Robert J. Berger"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
     },
     {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
@@ -1462,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 300,
       "user": "Quorinex"
     }
   ],
@@ -1564,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Manavarya09"
     }
   ],
@@ -1626,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Manavarya09"
     }
   ],
@@ -1735,36 +1733,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrpzqe4wlyh1ofbtost9.png",
       "source": "Dev.to",
       "user": "Evertson Croes"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
-      "published_at": "2026-04-16T13:11:52Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "a2aprotocol",
-        "awsfargate"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
-      "published_at": "2026-04-16T13:12:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "amazonlightsail",
-        "multiagentsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -1928,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 626,
       "user": "xataio"
     }
   ],
@@ -1961,21 +1929,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tjygbchauxkay6tnecv.png",
       "source": "Dev.to",
       "user": "Hugo | DevOps | Cybersecurity"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
     },
     {
       "title": "Partial Password Authentication",
@@ -2094,21 +2047,6 @@
       "user": "Jimmy McBride"
     },
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
       "published_at": "2026-04-15T14:41:03Z",
@@ -2210,7 +2148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Manavarya09"
     },
     {
@@ -2225,7 +2163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "andrewjiang"
     },
     {
@@ -2240,7 +2178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "bergside"
     },
     {
@@ -2255,7 +2193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "assai-id"
     },
     {
@@ -2285,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2423,
+      "stars": 2451,
       "user": "Robbyant"
     },
     {
@@ -2300,7 +2238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1521,
+      "stars": 1611,
       "user": "browser-use"
     },
     {
@@ -2330,23 +2268,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 702,
       "user": "Lazarus-AI"
     },
     {
-      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "url": "https://github.com/codejunkie99/agentic-stack",
-      "published_at": "2026-04-15T13:45:41Z",
-      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "published_at": "2026-04-18T12:57:52Z",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 545,
-      "user": "codejunkie99"
+      "stars": 600,
+      "user": "kyegomez"
     },
     {
       "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
@@ -2360,7 +2298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 626,
       "user": "xataio"
     },
     {
@@ -2375,7 +2313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 300,
       "user": "Quorinex"
     },
     {
@@ -2390,7 +2328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255408031?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "selfishblackberry177"
     },
     {
@@ -2420,7 +2358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "432539"
     }
   ]
