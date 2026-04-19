@@ -18,10 +18,10 @@
     "Tools": 26
   },
   "by_language": {
-    "JavaScript": 23,
-    "Java": 19,
     "Go": 29,
     "Kotlin": 2,
+    "JavaScript": 23,
+    "Java": 19,
     "Swift": 2,
     "Ruby": 1,
     "Python": 18
@@ -78,9 +78,9 @@
     "Python": 10,
     "javascript": 9,
     "python": 8,
+    "aws": 7,
     "webdev": 7,
     "tutorial": 7,
-    "aws": 7,
     "go": 7,
     "devchallenge": 6,
     "productivity": 6,
@@ -92,10 +92,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "24.5",
-    "Java": "20.2",
     "Go": "30.9",
     "Kotlin": "2.1",
+    "JavaScript": "24.5",
+    "Java": "20.2",
     "Swift": "2.1",
     "Ruby": "1.1",
     "Python": "19.1"
