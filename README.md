@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**WebDev**: 🟦🟦 7 (6.7%)
+**Security**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦 4 (3.8%)
 
 **Mobile**: 🟦 4 (3.8%)
-
-**DevOps**: 🟦 3 (2.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,30 +60,32 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.1 (30.1%)
-JavaScript      █████████████████████████ 24.7 (24.7%)
-Python          ████████████████████ 20.4 (20.4%)
-Java            ████████████████████ 20.4 (20.4%)
-Kotlin          ██ 2.2 (2.2%)
-Swift           ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 31.9 (31.9%)
+JavaScript      ██████████████████████ 23.4 (23.4%)
+Python          ███████████████████ 20.2 (20.2%)
+Java            ██████████████████ 19.1 (19.1%)
+Kotlin          ██ 2.1 (2.1%)
+Swift           ██ 2.1 (2.1%)
+Ruby            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
-    "JavaScript" : 23
+    "Go" : 30
+    "JavaScript" : 22
     "Python" : 19
-    "Java" : 19
+    "Java" : 18
     "Kotlin" : 2
     "Swift" : 2
+    "Ruby" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-13-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![go](https://img.shields.io/badge/go-7-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
 
 
 
@@ -123,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 17:00 CAT)
+## 📅 Latest Updates (2026-04-19 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,17 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png" width="200" alt="Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search" />
-      <br/>
-      <b>Building a Smarter Hiring Engine: AI Recruiter wit...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png" width="200" alt="Join the OpenClaw Challenge: $1,200 Prize Pool!" />
       <br/>
@@ -168,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png" width="200" alt="I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱" />
@@ -186,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png" width="200" alt="Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search" />
+      <br/>
+      <b>Building a Smarter Hiring Engine: AI Recruiter wit...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -195,10 +197,10 @@ npm run test
 
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
 - [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih) _[Dev.to]_
-- [Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search](https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe) _[Dev.to]_
 - [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
+- [Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search](https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
@@ -214,7 +216,7 @@ npm run test
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 - [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 17:53:27 CAT_
+_Last automated update: Sun, 19 Apr 2026 18:35:47 CAT_
 
 
 
@@ -222,29 +224,18 @@ _Last automated update: Sun, 19 Apr 2026 17:53:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 2. Database: Explain database indexing and when to use it
-
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 2. Java: What are Java Streams and how do they work?
 
 **Difficulty**: Medium | **Topics**: functional programming, collections
 
@@ -252,6 +243,17 @@ B-tree, trade-offs, query performance
 <summary>💡 Hint</summary>
 
 Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 3. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 19 Apr 2026 15:53:27 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 16:35:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

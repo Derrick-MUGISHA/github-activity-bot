@@ -31,21 +31,6 @@
       "user": "Dev Rajput"
     },
     {
-      "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
-      "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
-      "published_at": "2026-04-19T13:12:54Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition           Background               ...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png",
-      "source": "Dev.to",
-      "user": "Ranjan Dailata"
-    },
-    {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
       "published_at": "2026-04-16T15:38:54Z",
@@ -72,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
       "source": "Dev.to",
       "user": "Setiaji"
+    },
+    {
+      "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
+      "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
+      "published_at": "2026-04-19T13:12:54Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition           Background               ...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png",
+      "source": "Dev.to",
+      "user": "Ranjan Dailata"
     },
     {
       "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
@@ -279,6 +279,64 @@
       "user": "Matthew Revell"
     },
     {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
+    },
+    {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
       "published_at": "2026-04-15T14:41:03Z",
@@ -324,6 +382,21 @@
       "user": "xbill"
     },
     {
+      "title": "Embarrassment is cheap. Token spend isn't.",
+      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
+      "published_at": "2026-04-17T20:17:12Z",
+      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
+      "tags": [
+        "ai",
+        "founder",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
       "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
       "published_at": "2026-04-17T18:03:04Z",
@@ -352,21 +425,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
       "source": "Dev.to",
       "user": "Sushan Shetty"
-    },
-    {
-      "title": "Embarrassment is cheap. Token spend isn't.",
-      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
-      "published_at": "2026-04-17T20:17:12Z",
-      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
-      "tags": [
-        "ai",
-        "founder",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI",
@@ -519,21 +577,6 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
-    },
-    {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
       "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
       "published_at": "2026-04-15T14:27:00Z",
@@ -562,20 +605,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6vs09dve3h1i5fw0fmg0.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "How do AI video generation models work?",
-      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
-      "published_at": "2026-04-14T15:24:42Z",
-      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
-      "source": "Dev.to",
-      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -721,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1057,
       "user": "Manavarya09"
     },
     {
@@ -736,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "bergside"
     },
     {
@@ -766,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1673,
       "user": "browser-use"
     },
     {
@@ -781,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "Lazarus-AI"
     },
     {
@@ -796,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 679,
       "user": "kyegomez"
     },
     {
@@ -811,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "xataio"
     },
     {
@@ -841,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "432539"
     }
   ],
@@ -948,21 +977,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-      "published_at": "2026-04-13T16:51:07Z",
-      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "webcomponents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
-      "source": "Dev.to",
-      "user": "Volker Schukai"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1096,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1057,
       "user": "Manavarya09"
     },
     {
@@ -1111,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "andrewjiang"
     },
     {
@@ -1126,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "bergside"
     },
     {
@@ -1353,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2451,
+      "stars": 2471,
       "user": "Robbyant"
     },
     {
@@ -1368,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1673,
       "user": "browser-use"
     },
     {
@@ -1383,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 783,
       "user": "wbh604"
     },
     {
@@ -1398,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "Lazarus-AI"
     },
     {
@@ -1413,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 679,
       "user": "kyegomez"
     }
   ],
@@ -1432,6 +1446,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98ecdssbss16lzbrrncd.png",
       "source": "Dev.to",
       "user": "Robert J. Berger"
+    },
+    {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
     },
     {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
@@ -1524,21 +1553,6 @@
       "user": "Muhammad Hassan"
     },
     {
-      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-      "published_at": "2026-04-13T16:51:07Z",
-      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "webcomponents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
-      "source": "Dev.to",
-      "user": "Volker Schukai"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1562,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1057,
       "user": "Manavarya09"
     }
   ],
@@ -1624,7 +1638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1057,
       "user": "Manavarya09"
     }
   ],
@@ -1733,6 +1747,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrpzqe4wlyh1ofbtost9.png",
       "source": "Dev.to",
       "user": "Evertson Croes"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
+      "published_at": "2026-04-16T13:11:52Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "a2aprotocol",
+        "awsfargate"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
+      "published_at": "2026-04-16T13:12:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "amazonlightsail",
+        "multiagentsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F050v6o60r3h49nahzopo.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -1896,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "xataio"
     }
   ],
@@ -1929,6 +1973,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tjygbchauxkay6tnecv.png",
       "source": "Dev.to",
       "user": "Hugo | DevOps | Cybersecurity"
+    },
+    {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
     },
     {
       "title": "Partial Password Authentication",
@@ -2047,6 +2106,21 @@
       "user": "Jimmy McBride"
     },
     {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
+    },
+    {
       "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
       "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-bca",
       "published_at": "2026-04-15T14:41:03Z",
@@ -2075,21 +2149,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
       "source": "Dev.to",
       "user": "Abhishek"
-    },
-    {
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "url": "https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9",
-      "published_at": "2026-04-15T14:41:03Z",
-      "description": "Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I've jumped...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm37nzzxvvzuu5yg3ue07.png",
-      "source": "Dev.to",
-      "user": "tworrell"
     },
     {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
@@ -2122,21 +2181,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
-      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
-      "published_at": "2026-04-11T15:55:53Z",
-      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
-      "tags": [
-        "github",
-        "opensource",
-        "development",
-        "repository"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2148,7 +2192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1057,
       "user": "Manavarya09"
     },
     {
@@ -2163,7 +2207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "andrewjiang"
     },
     {
@@ -2178,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "bergside"
     },
     {
@@ -2223,7 +2267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2451,
+      "stars": 2471,
       "user": "Robbyant"
     },
     {
@@ -2238,7 +2282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1673,
       "user": "browser-use"
     },
     {
@@ -2253,7 +2297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 783,
       "user": "wbh604"
     },
     {
@@ -2268,7 +2312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "Lazarus-AI"
     },
     {
@@ -2283,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 679,
       "user": "kyegomez"
     },
     {
@@ -2298,7 +2342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "xataio"
     },
     {
@@ -2358,7 +2402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "432539"
     }
   ]
