@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 15:00 CAT)
+## 📅 Latest Updates (2026-04-19 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -162,19 +162,19 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png" width="200" alt="Android desktop mode: features, device support, and the OLED screen burn-in problem" />
+    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
       <br/>
-      <b>Android desktop mode: features, device support, an...</b>
+      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
+    <a href="https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png" width="200" alt="Android desktop mode: features, device support, and the OLED screen burn-in problem" />
       <br/>
-      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
+      <b>Android desktop mode: features, device support, an...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
 - [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
-- [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
+- [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
 - [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017) _[Dev.to]_
 - [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage [GDE]](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 15:34:06 CAT_
+_Last automated update: Sun, 19 Apr 2026 16:24:32 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 19 Apr 2026 15:34:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 19 Apr 2026 13:34:06 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 14:24:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
