@@ -294,19 +294,6 @@
       "user": "xbill"
     },
     {
-      "title": "Watching RubyGems.org in Real Time",
-      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
-      "published_at": "2026-04-16T21:46:47Z",
-      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
-      "tags": [
-        "ruby",
-        "rails"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lightsail-and-gemini-cli-dkg",
       "published_at": "2026-04-16T13:12:53Z",
@@ -365,21 +352,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Embarrassment is cheap. Token spend isn't.",
-      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
-      "published_at": "2026-04-17T20:17:12Z",
-      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
-      "tags": [
-        "ai",
-        "founder",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
@@ -517,6 +489,19 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Architecture Documentation as a First-Class Engineering Asset",
       "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
       "published_at": "2026-04-16T09:49:24Z",
@@ -562,6 +547,21 @@
       "user": "Maciej Strzelczyk"
     },
     {
+      "title": "100 Daily Challenges to Learn Web3 and Solana",
+      "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
+      "published_at": "2026-04-17T15:14:12Z",
+      "description": "Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.",
+      "tags": [
+        "web3",
+        "solana",
+        "programming",
+        "blockchain"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
+    {
       "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
       "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
       "published_at": "2026-04-15T14:27:00Z",
@@ -575,6 +575,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
       "source": "Dev.to",
       "user": "Marcel.L"
+    },
+    {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -720,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1084,
       "user": "Manavarya09"
     },
     {
@@ -765,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 2026,
       "user": "browser-use"
     },
     {
@@ -780,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1116,
       "user": "kyegomez"
     },
     {
@@ -795,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 727,
       "user": "Lazarus-AI"
     },
     {
@@ -825,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "Quorinex"
     },
     {
@@ -840,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "432539"
     }
   ],
@@ -1095,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1084,
       "user": "Manavarya09"
     },
     {
@@ -1110,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 661,
       "user": "andrewjiang"
     },
     {
@@ -1352,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2584,
+      "stars": 2594,
       "user": "Robbyant"
     },
     {
@@ -1367,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 2026,
       "user": "browser-use"
     },
     {
@@ -1382,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1116,
       "user": "kyegomez"
     },
     {
@@ -1412,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 727,
       "user": "Lazarus-AI"
     }
   ],
@@ -1474,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "Quorinex"
     }
   ],
@@ -1576,7 +1590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1084,
       "user": "Manavarya09"
     }
   ],
@@ -1638,7 +1652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1084,
       "user": "Manavarya09"
     }
   ],
@@ -2136,6 +2150,21 @@
       "user": "Marcel.L"
     },
     {
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
+      "published_at": "2026-04-11T15:55:53Z",
+      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "tags": [
+        "github",
+        "opensource",
+        "development",
+        "repository"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
       "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2147,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1084,
       "user": "Manavarya09"
     },
     {
@@ -2162,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 661,
       "user": "andrewjiang"
     },
     {
@@ -2222,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2584,
+      "stars": 2594,
       "user": "Robbyant"
     },
     {
@@ -2237,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 2026,
       "user": "browser-use"
     },
     {
@@ -2252,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1116,
       "user": "kyegomez"
     },
     {
@@ -2282,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 727,
       "user": "Lazarus-AI"
     },
     {
@@ -2312,7 +2341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "Quorinex"
     },
     {
@@ -2357,7 +2386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "432539"
     }
   ]
