@@ -162,19 +162,6 @@
       "user": "Tiziano Basile"
     },
     {
-      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
-      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
-      "published_at": "2026-04-19T03:11:23Z",
-      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
-      "source": "Dev.to",
-      "user": "vaidehi Warghat"
-    },
-    {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
       "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
       "published_at": "2026-04-16T03:07:52Z",
@@ -202,6 +189,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fop77w5d8cpzskr9q85lj.webp",
       "source": "Dev.to",
       "user": "Jimmy McBride"
+    },
+    {
+      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
+      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
+      "published_at": "2026-04-19T03:11:23Z",
+      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
+      "source": "Dev.to",
+      "user": "vaidehi Warghat"
     },
     {
       "title": "Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1",
@@ -264,21 +264,6 @@
       "user": "hasanmn"
     },
     {
-      "title": "100 Daily Challenges to Learn Web3 and Solana",
-      "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
-      "published_at": "2026-04-17T15:14:12Z",
-      "description": "Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.",
-      "tags": [
-        "web3",
-        "solana",
-        "programming",
-        "blockchain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
-      "source": "Dev.to",
-      "user": "Matthew Revell"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -294,19 +279,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "Watching RubyGems.org in Real Time",
-      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
-      "published_at": "2026-04-16T21:46:47Z",
-      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
-      "tags": [
-        "ruby",
-        "rails"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon Fargate, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-fargate-and-gemini-cli-5jd",
       "published_at": "2026-04-16T13:11:52Z",
@@ -320,6 +292,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslodybxja1fhhxxe5o5k.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Watching RubyGems.org in Real Time",
+      "url": "https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o",
+      "published_at": "2026-04-16T21:46:47Z",
+      "description": "RubyGems.org published its first public roadmap this week. That's new, and it's worth noticing.  I've...",
+      "tags": [
+        "ruby",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnrc4ha4dnxa3krrz3xz4.png",
+      "source": "Dev.to",
+      "user": "christine"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1073,
       "user": "Manavarya09"
     },
     {
@@ -750,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 464,
       "user": "bergside"
     },
     {
@@ -765,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "assai-id"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1872,
       "user": "browser-use"
     },
     {
@@ -795,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 922,
       "user": "kyegomez"
     },
     {
@@ -810,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 715,
       "user": "Lazarus-AI"
     },
     {
@@ -825,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 632,
       "user": "xataio"
     },
     {
@@ -840,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "Quorinex"
     },
     {
@@ -855,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 78,
       "user": "432539"
     }
   ],
@@ -1110,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1073,
       "user": "Manavarya09"
     },
     {
@@ -1140,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 464,
       "user": "bergside"
     },
     {
@@ -1155,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "assai-id"
     },
     {
@@ -1367,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2506,
+      "stars": 2539,
       "user": "Robbyant"
     },
     {
@@ -1382,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1872,
       "user": "browser-use"
     },
     {
@@ -1397,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 922,
       "user": "kyegomez"
     },
     {
@@ -1412,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 797,
       "user": "wbh604"
     },
     {
@@ -1427,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 715,
       "user": "Lazarus-AI"
     }
   ],
@@ -1489,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "Quorinex"
     }
   ],
@@ -1591,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1073,
       "user": "Manavarya09"
     }
   ],
@@ -1653,7 +1638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1073,
       "user": "Manavarya09"
     }
   ],
@@ -1940,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 632,
       "user": "xataio"
     }
   ],
@@ -1959,21 +1944,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup",
-      "url": "https://dev.to/hugovalters/schrodingers-backup-if-you-havent-tested-a-restore-you-dont-have-a-backup-1d53",
-      "published_at": "2026-04-14T12:33:03Z",
-      "description": "Let me introduce you to Schrödinger's Backup: the condition of your corporate data is simultaneously...",
-      "tags": [
-        "cybersecurity",
-        "disasterrecovery",
-        "backups",
-        "ransomware"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tjygbchauxkay6tnecv.png",
-      "source": "Dev.to",
-      "user": "Hugo | DevOps | Cybersecurity"
-    },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
@@ -2177,7 +2147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1073,
       "user": "Manavarya09"
     },
     {
@@ -2207,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 464,
       "user": "bergside"
     },
     {
@@ -2222,7 +2192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "assai-id"
     },
     {
@@ -2252,7 +2222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2506,
+      "stars": 2539,
       "user": "Robbyant"
     },
     {
@@ -2267,7 +2237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1872,
       "user": "browser-use"
     },
     {
@@ -2282,7 +2252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 922,
       "user": "kyegomez"
     },
     {
@@ -2297,7 +2267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 797,
       "user": "wbh604"
     },
     {
@@ -2312,7 +2282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 715,
       "user": "Lazarus-AI"
     },
     {
@@ -2327,7 +2297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 632,
       "user": "xataio"
     },
     {
@@ -2342,7 +2312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "Quorinex"
     },
     {
@@ -2387,7 +2357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 78,
       "user": "432539"
     }
   ]
