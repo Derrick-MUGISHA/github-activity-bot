@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-19-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (56.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.4%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦 7 (6.8%)
+**WebDev**: 🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 6 (5.8%)
+**Security**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦 4 (3.9%)
+**DevOps**: 🟦 4 (3.8%)
 
-**Mobile**: 🟦 4 (3.9%)
+**Mobile**: 🟦 4 (3.8%)
 
 **Database**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 11:00 CAT)
+## 📅 Latest Updates (2026-04-19 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017) _[Dev.to]_
 - [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage [GDE]](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 11:08:11 CAT_
+_Last automated update: Sun, 19 Apr 2026 12:00:33 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 19 Apr 2026 11:08:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 19 Apr 2026 09:08:11 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 10:00:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
