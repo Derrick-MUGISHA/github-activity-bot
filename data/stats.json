@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 59,
+    "AI": 58,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 4,
@@ -27,7 +27,7 @@
     "Python": 18
   },
   "by_date": {
-    "2026-04-17": 16,
+    "2026-04-17": 15,
     "2026-04-16": 20,
     "2026-04-18": 7,
     "2026-04-14": 9,
@@ -69,7 +69,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 19,
     "github": 16,
     "gemini": 15,
     "open-source": 15,
@@ -84,11 +84,11 @@
     "go": 7,
     "devchallenge": 6,
     "productivity": 6,
-    "discuss": 5,
     "a2aprotocol": 5,
-    "programming": 5,
     "opensource": 5,
-    "googleadk": 4
+    "discuss": 4,
+    "googleadk": 4,
+    "programming": 4
   },
   "trending_topics": [],
   "language_percentages": {
