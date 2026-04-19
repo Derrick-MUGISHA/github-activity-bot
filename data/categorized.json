@@ -119,21 +119,6 @@
       "user": "Tiziano Basile"
     },
     {
-      "title": "Embarrassment is cheap. Token spend isn't.",
-      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
-      "published_at": "2026-04-17T20:17:12Z",
-      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
-      "tags": [
-        "ai",
-        "founder",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
       "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
       "published_at": "2026-04-16T03:07:52Z",
@@ -223,21 +208,6 @@
       "user": "hasanmn"
     },
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
       "title": "100 Daily Challenges to Learn Web3 and Solana",
       "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
       "published_at": "2026-04-17T15:14:12Z",
@@ -251,6 +221,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
+    },
+    {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
     },
     {
       "title": "Watching RubyGems.org in Real Time",
@@ -723,7 +708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1033,
       "user": "Manavarya09"
     },
     {
@@ -738,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "bergside"
     },
     {
@@ -753,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "assai-id"
     },
     {
@@ -768,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 998,
       "user": "browser-use"
     },
     {
@@ -783,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 671,
       "user": "Lazarus-AI"
     },
     {
@@ -798,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 532,
       "user": "codejunkie99"
     },
     {
@@ -828,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 232,
       "user": "Quorinex"
     },
     {
@@ -843,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 58,
       "user": "432539"
     }
   ],
@@ -1098,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1033,
       "user": "Manavarya09"
     },
     {
@@ -1113,7 +1098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "andrewjiang"
     },
     {
@@ -1128,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "bergside"
     },
     {
@@ -1143,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "assai-id"
     },
     {
@@ -1158,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "activetheory"
     }
   ],
@@ -1340,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2098,
+      "stars": 2158,
       "user": "Robbyant"
     },
     {
@@ -1355,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 998,
       "user": "browser-use"
     },
     {
@@ -1370,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 770,
       "user": "wbh604"
     },
     {
@@ -1385,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 671,
       "user": "Lazarus-AI"
     },
     {
@@ -1400,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 532,
       "user": "codejunkie99"
     }
   ],
@@ -1462,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 232,
       "user": "Quorinex"
     }
   ],
@@ -1564,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1033,
       "user": "Manavarya09"
     }
   ],
@@ -1626,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1033,
       "user": "Manavarya09"
     }
   ],
@@ -2210,7 +2195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1033,
       "user": "Manavarya09"
     },
     {
@@ -2225,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/906752?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "andrewjiang"
     },
     {
@@ -2240,7 +2225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "bergside"
     },
     {
@@ -2255,7 +2240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 396,
       "user": "assai-id"
     },
     {
@@ -2270,7 +2255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "activetheory"
     },
     {
@@ -2285,7 +2270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2098,
+      "stars": 2158,
       "user": "Robbyant"
     },
     {
@@ -2300,7 +2285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 998,
       "user": "browser-use"
     },
     {
@@ -2315,7 +2300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 770,
       "user": "wbh604"
     },
     {
@@ -2330,7 +2315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 671,
       "user": "Lazarus-AI"
     },
     {
@@ -2345,7 +2330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 532,
       "user": "codejunkie99"
     },
     {
@@ -2375,7 +2360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 232,
       "user": "Quorinex"
     },
     {
@@ -2420,7 +2405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 58,
       "user": "432539"
     }
   ]
