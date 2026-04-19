@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 22:00 CAT)
+## 📅 Latest Updates (2026-04-19 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 22:33:15 CAT_
+_Last automated update: Sun, 19 Apr 2026 23:18:54 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 19 Apr 2026 22:33:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 19 Apr 2026 20:33:15 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 21:18:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
