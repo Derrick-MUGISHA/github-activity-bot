@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 13:00 CAT)
+## 📅 Latest Updates (2026-04-19 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017) _[Dev.to]_
 - [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage [GDE]](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 13:41:12 CAT_
+_Last automated update: Sun, 19 Apr 2026 14:03:16 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Sun, 19 Apr 2026 13:41:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
+
+</details>
+
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
 **Difficulty**: Easy | **Topics**: variables, scope
 
@@ -235,25 +246,14 @@ Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: async, runtime
-
-<details>
-<summary>💡 Hint</summary>
-
-Call stack, callback queue, microtask queue
-
-</details>
-
-### 3. SystemDesign: Design a URL shortening service like bit.ly
-
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 19 Apr 2026 11:41:12 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 12:03:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
