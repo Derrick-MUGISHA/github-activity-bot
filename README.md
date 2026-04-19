@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
-
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+
+**WebDev**: 🟦🟦 7 (6.7%)
 
 **Security**: 🟦🟦 6 (5.7%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.9 (31.9%)
-JavaScript      ██████████████████████ 23.4 (23.4%)
-Python          ███████████████████ 20.2 (20.2%)
-Java            ██████████████████ 19.1 (19.1%)
+Go              ██████████████████████████████ 31.3 (31.3%)
+JavaScript      ███████████████████████ 24.0 (24.0%)
+Python          ███████████████████ 19.8 (19.8%)
+Java            ███████████████████ 19.8 (19.8%)
 Kotlin          ██ 2.1 (2.1%)
 Swift           ██ 2.1 (2.1%)
-Ruby            █ 1.1 (1.1%)
+Ruby            █ 1.0 (1.0%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 30
-    "JavaScript" : 22
+    "JavaScript" : 23
     "Python" : 19
-    "Java" : 18
+    "Java" : 19
     "Kotlin" : 2
     "Swift" : 2
     "Ruby" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-7-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![gemini](https://img.shields.io/badge/gemini-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![aws](https://img.shields.io/badge/aws-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-19 19:00 CAT)
+## 📅 Latest Updates (2026-04-19 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd) _[Dev.to]_
 - [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
 
-_Last automated update: Sun, 19 Apr 2026 19:20:24 CAT_
+_Last automated update: Sun, 19 Apr 2026 20:00:51 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 19 Apr 2026 19:20:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 19 Apr 2026 17:20:24 GMT</b><br/>
+  <b>Last automated update: Sun, 19 Apr 2026 18:00:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
