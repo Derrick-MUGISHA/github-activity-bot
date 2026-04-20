@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
-      "published_at": "2026-04-16T15:38:54Z",
-      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "title": "TPU Mythbusting: vendor lock-in",
+      "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
+      "published_at": "2026-04-20T16:11:30Z",
+      "description": "Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...",
       "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
+        "tpu",
+        "googlecloud",
+        "ai",
+        "gcp"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
@@ -44,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
+      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
+      "published_at": "2026-04-20T08:30:19Z",
+      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
+      "tags": [
+        "database",
+        "postgres",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
+      "source": "Dev.to",
+      "user": "Mateusz Woźniak"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -89,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
       "source": "Dev.to",
       "user": "Basti Ortiz"
+    },
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "Congrats to the Notion MCP Challenge Winners!",
@@ -340,6 +369,21 @@
       "user": "xbill"
     },
     {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
       "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
       "published_at": "2026-04-16T13:50:47Z",
@@ -501,81 +545,6 @@
       "user": "JoeStrout"
     },
     {
-      "title": "Embarrassment is cheap. Token spend isn't.",
-      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
-      "published_at": "2026-04-17T20:17:12Z",
-      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
-      "tags": [
-        "ai",
-        "founder",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
-      "title": "Alignment is the wrong frame: a structural argument from Φ-IIT",
-      "url": "https://dev.to/iliketree/alignment-is-the-wrong-frame-a-structural-argument-from-ph-iit-1h61",
-      "published_at": "2026-04-13T13:02:33Z",
-      "description": "TL;DR    Rule-based alignment is bypassable in time O(1/ε) where ε is the gap between the...",
-      "tags": [
-        "ai",
-        "alignment",
-        "consciousness",
-        "safety"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1cl2t71j9cnzu33mubs.png",
-      "source": "Dev.to",
-      "user": "i-like-tree"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
-    },
-    {
-      "title": "The Hidden Cost: AI's Time Complexity Trap",
-      "url": "https://dev.to/eayurt/the-hidden-cost-ais-time-complexity-trap-57h2",
-      "published_at": "2026-04-13T06:07:09Z",
-      "description": "These days, the moment a problem gets stuck in our heads, we turn to AI for help.",
-      "tags": [
-        "ai",
-        "ruby",
-        "programming",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvq9as4tbio3tal25qzup.jpg",
-      "source": "Dev.to",
-      "user": "Ender Ahmet Yurt"
-    },
-    {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -719,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1128,
       "user": "Manavarya09"
     },
     {
@@ -734,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 568,
       "user": "bergside"
     },
     {
@@ -749,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 479,
       "user": "assai-id"
     },
     {
@@ -764,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 442,
       "user": "ZeroZ-lab"
     },
     {
@@ -779,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 3300,
+      "stars": 3481,
       "user": "kyegomez"
     },
     {
@@ -794,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3114,
+      "stars": 3206,
       "user": "browser-use"
     },
     {
@@ -809,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 792,
       "user": "Lazarus-AI"
     },
     {
@@ -824,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 673,
       "user": "xataio"
     },
     {
@@ -854,11 +823,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 141,
       "user": "432539"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I got tired of copy-pasting the same table code, so I built a library",
+      "url": "https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l",
+      "published_at": "2026-04-20T08:56:21Z",
+      "description": "Every Angular project I've worked on has a table. Usually more than one. And every single time I end...",
+      "tags": [
+        "angular",
+        "typescript",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png",
+      "source": "Dev.to",
+      "user": "Zonaib Bokhari"
+    },
     {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
@@ -961,21 +945,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1109,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1128,
       "user": "Manavarya09"
     },
     {
@@ -1124,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 568,
       "user": "bergside"
     },
     {
@@ -1139,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 479,
       "user": "assai-id"
     },
     {
@@ -1154,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 442,
       "user": "ZeroZ-lab"
     },
     {
@@ -1169,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "activetheory"
     }
   ],
@@ -1366,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 3300,
+      "stars": 3481,
       "user": "kyegomez"
     },
     {
@@ -1381,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3114,
+      "stars": 3206,
       "user": "browser-use"
     },
     {
@@ -1396,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3014,
+      "stars": 3060,
       "user": "Robbyant"
     },
     {
@@ -1411,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 960,
       "user": "wbh604"
     },
     {
@@ -1426,11 +1395,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 792,
       "user": "Lazarus-AI"
     }
   ],
   "DevOps": [
+    {
+      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
+      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
+      "published_at": "2026-04-20T08:30:19Z",
+      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
+      "tags": [
+        "database",
+        "postgres",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
+      "source": "Dev.to",
+      "user": "Mateusz Woźniak"
+    },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
@@ -1560,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1128,
       "user": "Manavarya09"
     },
     {
@@ -1575,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 442,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1622,11 +1605,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1128,
       "user": "Manavarya09"
     }
   ],
   "Cloud": [
+    {
+      "title": "TPU Mythbusting: vendor lock-in",
+      "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
+      "published_at": "2026-04-20T16:11:30Z",
+      "description": "Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "ai",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
+    },
     {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
@@ -1656,6 +1654,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS",
+      "url": "https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7",
+      "published_at": "2026-04-20T05:13:54Z",
+      "description": "A walkthrough of the full SQS listener lifecycle in Spring Cloud AWS SQS, from annotation detection at startup to the composable async pipeline that polls, processes, and acknowledges every message.",
+      "tags": [
+        "java",
+        "spring",
+        "aws",
+        "sqs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomazfernandes.dev%2Fposts%2Ffrom-sqslistener-to-your-method%2Findex.png",
+      "source": "Dev.to",
+      "user": "Tomaz Lemos"
     },
     {
       "title": "Building a Multimodal Agent with the ADK, Azure ACI, and Gemini Flash Live 3.1",
@@ -1834,25 +1847,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 673,
       "user": "xataio"
     }
   ],
   "Database": [
     {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
+      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
+      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
+      "published_at": "2026-04-20T08:30:19Z",
+      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
       "tags": [
-        "rust",
-        "sql",
         "database",
-        "elasticsearch"
+        "postgres",
+        "selfhosted"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
       "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
+      "user": "Mateusz Woźniak"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1868,6 +1880,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
@@ -1925,6 +1952,20 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Why Do I Keep Killing My Side Projects?",
+      "url": "https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh",
+      "published_at": "2026-04-20T05:20:35Z",
+      "description": "Two projects, two deaths. At some point, you need to stop blaming circumstances and start asking harder questions.",
+      "tags": [
+        "sideprojects",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjz456n9hmitex1za1vp.jpeg",
+      "source": "Dev.to",
+      "user": "Ender Ahmet Yurt"
+    },
     {
       "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
       "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
@@ -2041,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1128,
       "user": "Manavarya09"
     },
     {
@@ -2056,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 568,
       "user": "bergside"
     },
     {
@@ -2071,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 479,
       "user": "assai-id"
     },
     {
@@ -2086,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 442,
       "user": "ZeroZ-lab"
     },
     {
@@ -2101,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "activetheory"
     },
     {
@@ -2116,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 3300,
+      "stars": 3481,
       "user": "kyegomez"
     },
     {
@@ -2131,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3114,
+      "stars": 3206,
       "user": "browser-use"
     },
     {
@@ -2146,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3014,
+      "stars": 3060,
       "user": "Robbyant"
     },
     {
@@ -2161,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 960,
       "user": "wbh604"
     },
     {
@@ -2176,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 792,
       "user": "Lazarus-AI"
     },
     {
@@ -2191,7 +2232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 673,
       "user": "xataio"
     },
     {
@@ -2221,7 +2262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 141,
       "user": "432539"
     },
     {
@@ -2236,7 +2277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23031238?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "zhf883680"
     },
     {
