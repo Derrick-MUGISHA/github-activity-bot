@@ -125,22 +125,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-20 8:00 CAT)
+## 📅 Latest Updates (2026-04-20 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png" width="200" alt="The Mental Framework for Unlocking Agentic Workflows" />
-      <br/>
-      <b>The Mental Framework for Unlocking Agentic Workflo...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png" width="200" alt="Join the OpenClaw Challenge: $1,200 Prize Pool!" />
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-28fb">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9g0ggokz5bnmths1ktot.jpg" width="200" alt="What was your win this week?!" />
@@ -170,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/simme/boring-code-is-an-organizational-tell-4gca">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png" width="200" alt="Boring code is an organizational tell" />
@@ -188,6 +179,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
+      <br/>
+      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -195,7 +195,6 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [The Mental Framework for Unlocking Agentic Workflows](https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1) _[Dev.to]_
 - [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
@@ -203,8 +202,9 @@ npm run test
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
 - [Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search](https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe) _[Dev.to]_
-- [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih) _[Dev.to]_
+- [The Mental Framework for Unlocking Agentic Workflows](https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1) _[Dev.to]_
+- [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [I built an API in C, couldn't document it, so I accidentally created an open-source tool](https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn) _[Dev.to]_
 - [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
 
-_Last automated update: Mon, 20 Apr 2026 08:12:12 CAT_
+_Last automated update: Mon, 20 Apr 2026 10:27:10 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Mon, 20 Apr 2026 08:12:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 20 Apr 2026 06:12:12 GMT</b><br/>
+  <b>Last automated update: Mon, 20 Apr 2026 08:27:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
