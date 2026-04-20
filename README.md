@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 61 (58.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 60 (57.1%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **WebDev**: 🟦🟦🟦 8 (7.6%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.3 (32.3%)
-JavaScript      ██████████████████████ 24.2 (24.2%)
-Java            ███████████████████ 20.2 (20.2%)
-Python          ██████████████████ 19.2 (19.2%)
+Go              ██████████████████████████████ 31.6 (31.6%)
+JavaScript      ███████████████████████ 24.5 (24.5%)
+Java            ███████████████████ 20.4 (20.4%)
+Python          ██████████████████ 19.4 (19.4%)
 Kotlin          ██ 2.0 (2.0%)
 Ruby            █ 1.0 (1.0%)
 Swift           █ 1.0 (1.0%)
@@ -72,7 +72,7 @@ Swift           █ 1.0 (1.0%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 32
+    "Go" : 31
     "JavaScript" : 24
     "Java" : 20
     "Python" : 19
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-14-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-14-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![googleadk](https://img.shields.io/badge/googleadk-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-20 10:00 CAT)
+## 📅 Latest Updates (2026-04-20 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbm29vv1zvth46xjd0a6z.png" width="200" alt="Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC." />
+    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
       <br/>
-      <b>Join our DEV Weekend Challenge — $1,000 in Prizes ...</b>
+      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png" width="200" alt="AI Doesn't Fix Weak Engineering. It Just Speeds It Up." />
+    <a href="https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg" width="200" alt="Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini" />
       <br/>
-      <b>AI Doesn't Fix Weak Engineering. It Just Speeds It...</b>
+      <b>Every climate chatbot is amnesiac. So I built Aura...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,10 +199,9 @@ npm run test
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
-- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
 - [AI Doesn't Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak) _[Dev.to]_
-- [Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search](https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe) _[Dev.to]_
 - [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih) _[Dev.to]_
+- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
 - [The Mental Framework for Unlocking Agentic Workflows](https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1) _[Dev.to]_
 - [Android desktop mode: features, device support, and the OLED screen burn-in problem](https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40) _[Dev.to]_
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee) _[Dev.to]_
 - [I built an API in C, couldn't document it, so I accidentally created an open-source tool](https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn) _[Dev.to]_
 - [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
+- [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Mon, 20 Apr 2026 10:27:10 CAT_
+_Last automated update: Mon, 20 Apr 2026 12:16:17 CAT_
 
 
 
@@ -235,25 +235,25 @@ Hash function, database design, caching, analytics
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 20 Apr 2026 08:27:10 GMT</b><br/>
+  <b>Last automated update: Mon, 20 Apr 2026 10:16:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
