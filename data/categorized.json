@@ -207,21 +207,6 @@
       "user": "Tiziano Basile"
     },
     {
-      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
-      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
-      "published_at": "2026-04-16T03:07:52Z",
-      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
-      "tags": [
-        "ios",
-        "swiftui",
-        "testing",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
-      "source": "Dev.to",
-      "user": "Daksh Gargas"
-    },
-    {
       "title": "Brain, Explained",
       "url": "https://dev.to/jimmymcbride/brain-explained-757",
       "published_at": "2026-04-18T01:33:27Z",
@@ -399,36 +384,6 @@
       "user": "xbill"
     },
     {
-      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
-      "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
-      "published_at": "2026-04-17T18:03:04Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition           What I Built   GheiaGrid is a...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "agriculture",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4y1jjinfh62eh1ckxdaf.png",
-      "source": "Dev.to",
-      "user": "Khe Ai"
-    },
-    {
-      "title": "🌍 Deep-Time Mirror: An AI Lens into Our Ecological Soul For Earth Day Edition.",
-      "url": "https://dev.to/sushan_shetty_5ebec41a67d/deep-time-mirror-an-ai-lens-into-our-ecological-soul-for-earth-day-edition-1846",
-      "published_at": "2026-04-17T16:59:49Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition (April 22)           What I Built   I...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "earthday",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmveb9aqpwr34gl4xelxy.jpg",
-      "source": "Dev.to",
-      "user": "Sushan Shetty"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon EKS, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-eks-and-gemini-cli-4o10",
       "published_at": "2026-04-10T12:56:03Z",
@@ -519,6 +474,21 @@
       "user": "Abhishek"
     },
     {
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
+      "published_at": "2026-04-16T09:49:24Z",
+      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
+      "tags": [
+        "architecture",
+        "security",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
       "url": "https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5",
       "published_at": "2026-04-16T15:03:04Z",
@@ -547,21 +517,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
-    },
-    {
-      "title": "Architecture Documentation as a First-Class Engineering Asset",
-      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
-      "published_at": "2026-04-16T09:49:24Z",
-      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
-      "tags": [
-        "architecture",
-        "security",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7fqdvtdph5yhxgj4fh3.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
     },
     {
       "title": "Watching RubyGems.org in Real Time",
@@ -605,6 +560,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqloo98osv1nzssciiwm0.webp",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
+    },
+    {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
+      "title": "How do AI video generation models work?",
+      "url": "https://dev.to/googleai/how-do-ai-video-generation-models-work-a82",
+      "published_at": "2026-04-14T15:24:42Z",
+      "description": "Ever wondered what actually happens when you type a prompt and get back a video clip?  In this...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
+      "source": "Dev.to",
+      "user": "Nikita Namjoshi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -750,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1099,
       "user": "Manavarya09"
     },
     {
@@ -765,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 485,
       "user": "bergside"
     },
     {
@@ -780,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 449,
       "user": "assai-id"
     },
     {
@@ -795,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 343,
       "user": "ZeroZ-lab"
     },
     {
@@ -810,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2436,
+      "stars": 2610,
       "user": "browser-use"
     },
     {
@@ -825,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1938,
       "user": "kyegomez"
     },
     {
@@ -840,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 762,
       "user": "Lazarus-AI"
     },
     {
@@ -855,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 644,
       "user": "xataio"
     },
     {
@@ -870,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 345,
       "user": "Quorinex"
     },
     {
@@ -885,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "432539"
     }
   ],
@@ -1007,6 +991,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
+    },
+    {
+      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
+      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+      "published_at": "2026-04-13T16:51:07Z",
+      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "opensource",
+        "webcomponents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
+      "source": "Dev.to",
+      "user": "Volker Schukai"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1140,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1099,
       "user": "Manavarya09"
     },
     {
@@ -1155,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 485,
       "user": "bergside"
     },
     {
@@ -1170,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 449,
       "user": "assai-id"
     },
     {
@@ -1185,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 343,
       "user": "ZeroZ-lab"
     },
     {
@@ -1397,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2699,
+      "stars": 2742,
       "user": "Robbyant"
     },
     {
@@ -1412,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2436,
+      "stars": 2610,
       "user": "browser-use"
     },
     {
@@ -1427,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1938,
       "user": "kyegomez"
     },
     {
@@ -1442,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "wbh604"
     },
     {
@@ -1457,26 +1456,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 762,
       "user": "Lazarus-AI"
     }
   ],
   "DevOps": [
-    {
-      "title": "Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud",
-      "url": "https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17",
-      "published_at": "2026-04-17T18:39:06Z",
-      "description": "This is the first part of a multipart series introducing _tc Cloud Functors_",
-      "tags": [
-        "aws",
-        "serverless",
-        "devops",
-        "sre"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98ecdssbss16lzbrrncd.png",
-      "source": "Dev.to",
-      "user": "Robert J. Berger"
-    },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
@@ -1493,6 +1477,21 @@
       "user": "kotakanbe"
     },
     {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
       "url": "https://github.com/Quorinex/Freebuff2API",
       "published_at": "2026-04-18T01:08:34Z",
@@ -1504,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 345,
       "user": "Quorinex"
     }
   ],
@@ -1568,6 +1567,21 @@
       "user": "Muhammad Hassan"
     },
     {
+      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
+      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+      "published_at": "2026-04-13T16:51:07Z",
+      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "opensource",
+        "webcomponents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
+      "source": "Dev.to",
+      "user": "Volker Schukai"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1591,7 +1605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1099,
       "user": "Manavarya09"
     },
     {
@@ -1606,7 +1620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 343,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1625,21 +1639,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
       "source": "Dev.to",
       "user": "Massimo Moffa"
-    },
-    {
-      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
-      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
-      "published_at": "2026-04-16T03:07:52Z",
-      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
-      "tags": [
-        "ios",
-        "swiftui",
-        "testing",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
-      "source": "Dev.to",
-      "user": "Daksh Gargas"
     },
     {
       "title": "How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App",
@@ -1668,7 +1667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1099,
       "user": "Manavarya09"
     }
   ],
@@ -1687,21 +1686,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud",
-      "url": "https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17",
-      "published_at": "2026-04-17T18:39:06Z",
-      "description": "This is the first part of a multipart series introducing _tc Cloud Functors_",
-      "tags": [
-        "aws",
-        "serverless",
-        "devops",
-        "sre"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98ecdssbss16lzbrrncd.png",
-      "source": "Dev.to",
-      "user": "Robert J. Berger"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Amazon ECS Express, and Gemini CLI",
@@ -1970,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 644,
       "user": "xataio"
     }
   ],
@@ -2077,21 +2061,6 @@
       "user": "Massimo Moffa"
     },
     {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
-    },
-    {
       "title": "Don't be mad, BMAD instead",
       "url": "https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i",
       "published_at": "2026-04-17T10:06:47Z",
@@ -2107,19 +2076,19 @@
       "user": "Tiziano Basile"
     },
     {
-      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
-      "url": "https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd",
-      "published_at": "2026-04-16T03:07:52Z",
-      "description": "500+ snapshot tests, all green on every developer's Mac, all red on GitHub Actions. Sound...",
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
       "tags": [
-        "ios",
-        "swiftui",
-        "testing",
-        "cicd"
+        "webdev",
+        "programming",
+        "javascript",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5t7inyao9oag1cjtyk7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
       "source": "Dev.to",
-      "user": "Daksh Gargas"
+      "user": "Laura Durieux"
     },
     {
       "title": "Brain, Explained",
@@ -2166,6 +2135,36 @@
       "user": "Abhishek"
     },
     {
+      "title": "Steer GitHub Copilot CLI Sessions Remotely from Any Device",
+      "url": "https://dev.to/pwd9000/steer-github-copilot-cli-sessions-remotely-from-any-device-3mee",
+      "published_at": "2026-04-15T14:27:00Z",
+      "description": "Start a Copilot CLI session on your workstation, then monitor and steer it from the browser or your phone.",
+      "tags": [
+        "githubcopilot",
+        "ai",
+        "tutorial",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FPwd9000-ML%2Fblog-devto%2Fmain%2Fposts%2F2026%2FGitHub-Copilot-CLI-Remote-Access%2Fassets%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Marcel.L"
+    },
+    {
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
+      "published_at": "2026-04-11T15:55:53Z",
+      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "tags": [
+        "github",
+        "opensource",
+        "development",
+        "repository"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
       "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
       "url": "https://github.com/Manavarya09/design-extract",
       "published_at": "2026-04-15T10:11:22Z",
@@ -2177,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1099,
       "user": "Manavarya09"
     },
     {
@@ -2192,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 485,
       "user": "bergside"
     },
     {
@@ -2207,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 449,
       "user": "assai-id"
     },
     {
@@ -2222,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 343,
       "user": "ZeroZ-lab"
     },
     {
@@ -2252,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2699,
+      "stars": 2742,
       "user": "Robbyant"
     },
     {
@@ -2267,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2436,
+      "stars": 2610,
       "user": "browser-use"
     },
     {
@@ -2282,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1938,
       "user": "kyegomez"
     },
     {
@@ -2297,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 859,
       "user": "wbh604"
     },
     {
@@ -2312,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 762,
       "user": "Lazarus-AI"
     },
     {
@@ -2327,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 644,
       "user": "xataio"
     },
     {
@@ -2342,7 +2341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 345,
       "user": "Quorinex"
     },
     {
@@ -2357,23 +2356,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "432539"
-    },
-    {
-      "title": "tranhaonguyendev/Za-go - Unofficial Zalo API for Golang",
-      "url": "https://github.com/tranhaonguyendev/Za-go",
-      "published_at": "2026-04-15T05:47:28Z",
-      "description": "Unofficial Zalo API for Golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/244822761?v=4",
-      "source": "GitHub",
-      "stars": 50,
-      "user": "tranhaonguyendev"
     },
     {
       "title": "zhf883680/clash-traffic-monitor - 一个 clash 流量监控工具  适配 mihomo 内核 go 语言编写",
@@ -2387,8 +2371,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23031238?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "zhf883680"
+    },
+    {
+      "title": "tranhaonguyendev/Za-go - Unofficial Zalo API for Golang",
+      "url": "https://github.com/tranhaonguyendev/Za-go",
+      "published_at": "2026-04-15T05:47:28Z",
+      "description": "Unofficial Zalo API for Golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/244822761?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "tranhaonguyendev"
     }
   ]
 }
