@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.5 (30.5%)
-JavaScript      ████████████████████████ 24.2 (24.2%)
-Java            █████████████████████ 21.1 (21.1%)
-Python          ████████████████████ 20.0 (20.0%)
+Go              ██████████████████████████████ 30.9 (30.9%)
+JavaScript      ████████████████████████ 24.5 (24.5%)
+Java            █████████████████████ 21.3 (21.3%)
+Python          ███████████████████ 19.1 (19.1%)
 Kotlin          ██ 2.1 (2.1%)
 Ruby            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -75,7 +75,7 @@ pie title Programming Languages Distribution
     "Go" : 29
     "JavaScript" : 23
     "Java" : 20
-    "Python" : 19
+    "Python" : 18
     "Kotlin" : 2
     "Ruby" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-20 19:00 CAT)
+## 📅 Latest Updates (2026-04-20 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,26 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/100daysofsolana/web3-terminology-mapped-to-what-you-already-know-4afk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6i02cxeldlvkg1puk02c.png" width="200" alt="Web3 Terminology Mapped to What You Already Know" />
-      <br/>
-      <b>Web3 Terminology Mapped to What You Already Know</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjz456n9hmitex1za1vp.jpeg" width="200" alt="Why Do I Keep Killing My Side Projects?" />
-      <br/>
-      <b>Why Do I Keep Killing My Side Projects?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F654hldb1r3nzdfwhloal.png" width="200" alt="What does the term 'hacker' mean to you?" />
       <br/>
@@ -179,11 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png" width="200" alt="I Built a BaaS Where AI Agents Can Onboard Themselves" />
       <br/>
       <b>I Built a BaaS Where AI Agents Can Onboard Themsel...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg" width="200" alt="Watch Google Cloud NEXT Live Right Here on DEV!" />
+      <br/>
+      <b>Watch Google Cloud NEXT Live Right Here on DEV!</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png" width="200" alt="Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI" />
+      <br/>
+      <b>Multi-Agent A2A with the Agent Development Kit(ADK...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,15 +197,15 @@ npm run test
 
 - [Meme Monday](https://dev.to/ben/meme-monday-5ee) _[Dev.to]_
 - [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo) _[Dev.to]_
-- [Web3 Terminology Mapped to What You Already Know](https://dev.to/100daysofsolana/web3-terminology-mapped-to-what-you-already-know-4afk) _[Dev.to]_
-- [Why Do I Keep Killing My Side Projects?](https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh) _[Dev.to]_
 - [What does the term 'hacker' mean to you?](https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8) _[Dev.to]_
 - [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn) _[Dev.to]_
 - [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
+- [Web3 Terminology Mapped to What You Already Know](https://dev.to/100daysofsolana/web3-terminology-mapped-to-what-you-already-know-4afk) _[Dev.to]_
 - [I got tired of copy-pasting the same table code, so I built a library](https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l) _[Dev.to]_
 - [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm) _[Dev.to]_
+- [Why Do I Keep Killing My Side Projects?](https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 
-_Last automated update: Mon, 20 Apr 2026 19:34:23 CAT_
+_Last automated update: Mon, 20 Apr 2026 20:41:29 CAT_
 
 
 
@@ -224,18 +224,29 @@ _Last automated update: Mon, 20 Apr 2026 19:34:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -243,17 +254,6 @@ yield keyword, lazy evaluation, memory efficiency
 <summary>💡 Hint</summary>
 
 Multiple inheritance, method implementation, use cases
-
-</details>
-
-### 3. DataStructures: Implement a function to reverse a linked list
-
-**Difficulty**: Medium | **Topics**: linked lists, pointers
-
-<details>
-<summary>💡 Hint</summary>
-
-Iterative or recursive, three pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 20 Apr 2026 17:34:23 GMT</b><br/>
+  <b>Last automated update: Mon, 20 Apr 2026 18:41:29 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
