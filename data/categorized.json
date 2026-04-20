@@ -90,21 +90,6 @@
       "user": "Simme"
     },
     {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Congrats to the Notion MCP Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
       "published_at": "2026-04-17T16:30:22Z",
@@ -177,6 +162,21 @@
       "user": "xbill"
     },
     {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
       "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
       "published_at": "2026-04-19T13:12:54Z",
@@ -247,21 +247,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8ldii2sry0m47i54c3m.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Claude skills vs Commands",
-      "url": "https://dev.to/hellonehha/claude-skills-vs-commands-1dcm",
-      "published_at": "2026-04-14T10:13:02Z",
-      "description": "If you are using Claude for “vibe coding”, you may have come across Skills and Commands. Both are...",
-      "tags": [
-        "claude",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
-      "source": "Dev.to",
-      "user": "Neha Sharma "
     },
     {
       "title": "Using Gemini CLI with Vertex AI (Without Worrying About Your Data)",
@@ -673,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1142,
       "user": "Manavarya09"
     },
     {
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 667,
       "user": "bergside"
     },
     {
@@ -703,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 487,
       "user": "assai-id"
     },
     {
@@ -733,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4003,
+      "stars": 4058,
       "user": "kyegomez"
     },
     {
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3460,
+      "stars": 3492,
       "user": "browser-use"
     },
     {
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "Lazarus-AI"
     },
     {
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 683,
       "user": "xataio"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "432539"
     }
   ],
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1142,
       "user": "Manavarya09"
     },
     {
@@ -1078,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 667,
       "user": "bergside"
     },
     {
@@ -1093,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 487,
       "user": "assai-id"
     },
     {
@@ -1305,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4003,
+      "stars": 4058,
       "user": "kyegomez"
     },
     {
@@ -1320,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3460,
+      "stars": 3492,
       "user": "browser-use"
     },
     {
@@ -1335,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3198,
+      "stars": 3223,
       "user": "Robbyant"
     },
     {
@@ -1365,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "Lazarus-AI"
     }
   ],
@@ -1513,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1142,
       "user": "Manavarya09"
     },
     {
@@ -1560,7 +1545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1142,
       "user": "Manavarya09"
     }
   ],
@@ -1817,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 683,
       "user": "xataio"
     }
   ],
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1142,
       "user": "Manavarya09"
     },
     {
@@ -2037,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 667,
       "user": "bergside"
     },
     {
@@ -2052,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 487,
       "user": "assai-id"
     },
     {
@@ -2097,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4003,
+      "stars": 4058,
       "user": "kyegomez"
     },
     {
@@ -2112,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3460,
+      "stars": 3492,
       "user": "browser-use"
     },
     {
@@ -2127,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3198,
+      "stars": 3223,
       "user": "Robbyant"
     },
     {
@@ -2157,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "Lazarus-AI"
     },
     {
@@ -2172,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 683,
       "user": "xataio"
     },
     {
@@ -2202,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "432539"
     },
     {
