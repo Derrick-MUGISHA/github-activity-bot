@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "TPU Mythbusting: vendor lock-in",
-      "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
-      "published_at": "2026-04-20T16:11:30Z",
-      "description": "Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "ai",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
-    {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
       "published_at": "2026-04-20T12:59:00Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "TPU Mythbusting: vendor lock-in",
+      "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
+      "published_at": "2026-04-20T16:11:30Z",
+      "description": "Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "ai",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
@@ -205,21 +205,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqt7gu1e6q371roqkeh7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Don't be mad, BMAD instead",
-      "url": "https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i",
-      "published_at": "2026-04-17T10:06:47Z",
-      "description": "A few weeks ago I wrote about the tension I felt using AI coding tools, the fear that by outsourcing...",
-      "tags": [
-        "specdrivendevelopment",
-        "sdd",
-        "bmad",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1ztl1ihpf12fkfn4npb.png",
-      "source": "Dev.to",
-      "user": "Tiziano Basile"
     },
     {
       "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
@@ -530,6 +515,21 @@
       "user": "Nikita Namjoshi"
     },
     {
+      "title": "Embarrassment is cheap. Token spend isn't.",
+      "url": "https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3",
+      "published_at": "2026-04-17T20:17:12Z",
+      "description": "I was in a meeting today.  The team was walking me through a new feature. I was nodding. I'd used the...",
+      "tags": [
+        "ai",
+        "founder",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1137,
       "user": "Manavarya09"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 626,
       "user": "bergside"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "assai-id"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 455,
       "user": "ZeroZ-lab"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 3728,
+      "stars": 3841,
       "user": "kyegomez"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3339,
+      "stars": 3396,
       "user": "browser-use"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 800,
       "user": "Lazarus-AI"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 679,
       "user": "xataio"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "432539"
     }
   ],
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1137,
       "user": "Manavarya09"
     },
     {
@@ -1078,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 626,
       "user": "bergside"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "assai-id"
     },
     {
@@ -1108,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 455,
       "user": "ZeroZ-lab"
     },
     {
@@ -1123,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "activetheory"
     }
   ],
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 3728,
+      "stars": 3841,
       "user": "kyegomez"
     },
     {
@@ -1320,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3339,
+      "stars": 3396,
       "user": "browser-use"
     },
     {
@@ -1335,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3128,
+      "stars": 3151,
       "user": "Robbyant"
     },
     {
@@ -1365,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 800,
       "user": "Lazarus-AI"
     }
   ],
@@ -1513,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1137,
       "user": "Manavarya09"
     },
     {
@@ -1528,26 +1528,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 455,
       "user": "ZeroZ-lab"
     }
   ],
   "Mobile": [
-    {
-      "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
-      "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
-      "published_at": "2026-04-16T11:53:47Z",
-      "description": "A true \"PC in your pocket\" closer to reality",
-      "tags": [
-        "android",
-        "google",
-        "mobile",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
-      "source": "Dev.to",
-      "user": "Massimo Moffa"
-    },
     {
       "title": "How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App",
       "url": "https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk",
@@ -1575,26 +1560,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1137,
       "user": "Manavarya09"
     }
   ],
   "Cloud": [
-    {
-      "title": "TPU Mythbusting: vendor lock-in",
-      "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
-      "published_at": "2026-04-20T16:11:30Z",
-      "description": "Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "ai",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
-      "source": "Dev.to",
-      "user": "Maciej Strzelczyk"
-    },
     {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
@@ -1639,6 +1609,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "TPU Mythbusting: vendor lock-in",
+      "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
+      "published_at": "2026-04-20T16:11:30Z",
+      "description": "Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "ai",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
+      "source": "Dev.to",
+      "user": "Maciej Strzelczyk"
     },
     {
       "title": "What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS",
@@ -1832,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 679,
       "user": "xataio"
     }
   ],
@@ -1952,36 +1937,6 @@
       "user": "Ender Ahmet Yurt"
     },
     {
-      "title": "Android desktop mode: features, device support, and the OLED screen burn-in problem",
-      "url": "https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40",
-      "published_at": "2026-04-16T11:53:47Z",
-      "description": "A true \"PC in your pocket\" closer to reality",
-      "tags": [
-        "android",
-        "google",
-        "mobile",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppda3myswpp8gomikuil.png",
-      "source": "Dev.to",
-      "user": "Massimo Moffa"
-    },
-    {
-      "title": "Don't be mad, BMAD instead",
-      "url": "https://dev.to/basteez/dont-be-mad-bmad-instead-3d4i",
-      "published_at": "2026-04-17T10:06:47Z",
-      "description": "A few weeks ago I wrote about the tension I felt using AI coding tools, the fear that by outsourcing...",
-      "tags": [
-        "specdrivendevelopment",
-        "sdd",
-        "bmad",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1ztl1ihpf12fkfn4npb.png",
-      "source": "Dev.to",
-      "user": "Tiziano Basile"
-    },
-    {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
       "published_at": "2026-04-19T13:59:58Z",
@@ -2067,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1137,
       "user": "Manavarya09"
     },
     {
@@ -2082,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 626,
       "user": "bergside"
     },
     {
@@ -2097,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "assai-id"
     },
     {
@@ -2112,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 455,
       "user": "ZeroZ-lab"
     },
     {
@@ -2127,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "activetheory"
     },
     {
@@ -2142,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 3728,
+      "stars": 3841,
       "user": "kyegomez"
     },
     {
@@ -2157,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3339,
+      "stars": 3396,
       "user": "browser-use"
     },
     {
@@ -2172,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3128,
+      "stars": 3151,
       "user": "Robbyant"
     },
     {
@@ -2202,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 800,
       "user": "Lazarus-AI"
     },
     {
@@ -2217,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 679,
       "user": "xataio"
     },
     {
@@ -2247,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "432539"
     },
     {
