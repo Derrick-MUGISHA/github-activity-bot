@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
-      "published_at": "2026-04-19T15:22:44Z",
-      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
-      "source": "Dev.to",
-      "user": "Basti Ortiz"
-    },
-    {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
       "published_at": "2026-04-16T15:38:54Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg",
       "source": "Dev.to",
       "user": "Dev Rajput"
+    },
+    {
+      "title": "The Mental Framework for Unlocking Agentic Workflows",
+      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
+      "published_at": "2026-04-19T15:22:44Z",
+      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
+      "source": "Dev.to",
+      "user": "Basti Ortiz"
     },
     {
       "title": "Congrats to the Notion MCP Challenge Winners!",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1106,
       "user": "Manavarya09"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "bergside"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 457,
       "user": "assai-id"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 364,
       "user": "ZeroZ-lab"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2610,
+      "stars": 2757,
       "user": "browser-use"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1938,
+      "stars": 2240,
       "user": "kyegomez"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 771,
       "user": "Lazarus-AI"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 649,
       "user": "xataio"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 349,
       "user": "Quorinex"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 91,
       "user": "432539"
     }
   ],
@@ -1139,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1106,
       "user": "Manavarya09"
     },
     {
@@ -1154,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "bergside"
     },
     {
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 457,
       "user": "assai-id"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 364,
       "user": "ZeroZ-lab"
     },
     {
@@ -1199,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "activetheory"
     }
   ],
@@ -1396,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2742,
+      "stars": 2807,
       "user": "Robbyant"
     },
     {
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2610,
+      "stars": 2757,
       "user": "browser-use"
     },
     {
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1938,
+      "stars": 2240,
       "user": "kyegomez"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 908,
       "user": "wbh604"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 771,
       "user": "Lazarus-AI"
     }
   ],
@@ -1503,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 349,
       "user": "Quorinex"
     }
   ],
@@ -1605,7 +1605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1106,
       "user": "Manavarya09"
     },
     {
@@ -1620,7 +1620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 364,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1667,7 +1667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1106,
       "user": "Manavarya09"
     }
   ],
@@ -1954,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 649,
       "user": "xataio"
     }
   ],
@@ -2176,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1106,
       "user": "Manavarya09"
     },
     {
@@ -2191,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109292896?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "bergside"
     },
     {
@@ -2206,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 457,
       "user": "assai-id"
     },
     {
@@ -2221,7 +2221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 364,
       "user": "ZeroZ-lab"
     },
     {
@@ -2236,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "activetheory"
     },
     {
@@ -2251,7 +2251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 2742,
+      "stars": 2807,
       "user": "Robbyant"
     },
     {
@@ -2266,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2610,
+      "stars": 2757,
       "user": "browser-use"
     },
     {
@@ -2281,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 1938,
+      "stars": 2240,
       "user": "kyegomez"
     },
     {
@@ -2296,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 908,
       "user": "wbh604"
     },
     {
@@ -2311,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66968374?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 771,
       "user": "Lazarus-AI"
     },
     {
@@ -2326,7 +2326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 649,
       "user": "xataio"
     },
     {
@@ -2341,7 +2341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 349,
       "user": "Quorinex"
     },
     {
@@ -2356,7 +2356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 91,
       "user": "432539"
     },
     {
