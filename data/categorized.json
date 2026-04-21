@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Add Telephony to a Gemini Live Agent with Twilio",
-      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
-      "published_at": "2026-04-21T14:36:54Z",
-      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
-      "tags": [
-        "ai",
-        "voice",
-        "telephony",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
       "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
       "published_at": "2026-04-21T13:51:38Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Add Telephony to a Gemini Live Agent with Twilio",
+      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
+      "published_at": "2026-04-21T14:36:54Z",
+      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
+      "tags": [
+        "ai",
+        "voice",
+        "telephony",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "TPU Mythbusting: vendor lock-in",
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "Manavarya09"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "ZeroZ-lab"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6587,
+      "stars": 6650,
       "user": "kyegomez"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4343,
+      "stars": 4356,
       "user": "browser-use"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1239,
       "user": "codejunkie99"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1127,
       "user": "EvoLinkAI"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "432539"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 96,
       "user": "brexhq"
     }
   ],
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "Manavarya09"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "ZeroZ-lab"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6587,
+      "stars": 6650,
       "user": "kyegomez"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4343,
+      "stars": 4356,
       "user": "browser-use"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3857,
+      "stars": 3868,
       "user": "Robbyant"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1239,
       "user": "codejunkie99"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1127,
       "user": "EvoLinkAI"
     }
   ],
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "Manavarya09"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "Manavarya09"
     }
   ],
@@ -1891,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1272,
       "user": "Manavarya09"
     },
     {
@@ -1906,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "ZeroZ-lab"
     },
     {
@@ -1966,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6587,
+      "stars": 6650,
       "user": "kyegomez"
     },
     {
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4343,
+      "stars": 4356,
       "user": "browser-use"
     },
     {
@@ -1996,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3857,
+      "stars": 3868,
       "user": "Robbyant"
     },
     {
@@ -2011,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1239,
       "user": "codejunkie99"
     },
     {
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1127,
       "user": "EvoLinkAI"
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "432539"
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 96,
       "user": "brexhq"
     },
     {
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "nutcas3"
     }
   ]
