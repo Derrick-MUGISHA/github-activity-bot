@@ -368,21 +368,6 @@
       "user": "Calebe Aires"
     },
     {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
-      "tags": [
-        "ai",
-        "learning",
-        "productivity",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
-      "source": "Dev.to",
-      "user": "Abhishek"
-    },
-    {
       "title": "100 Daily Challenges to Learn Web3 and Solana",
       "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
       "published_at": "2026-04-17T15:14:12Z",
@@ -396,6 +381,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
+    },
+    {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "source": "Dev.to",
+      "user": "Abhishek"
     },
     {
       "title": "Watching RubyGems.org in Real Time",
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1202,
       "user": "Manavarya09"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 534,
       "user": "assai-id"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 521,
       "user": "ZeroZ-lab"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4921,
+      "stars": 5026,
       "user": "kyegomez"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3931,
+      "stars": 3991,
       "user": "browser-use"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1002,
       "user": "EvoLinkAI"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "xataio"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Quorinex"
     },
     {
@@ -763,23 +763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 302,
       "user": "432539"
-    },
-    {
-      "title": "s-zx/crest - An open source, AI-native terminal.",
-      "url": "https://github.com/s-zx/crest",
-      "published_at": "2026-04-18T10:48:28Z",
-      "description": "An open source, AI-native terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "s-zx"
     }
   ],
   "JavaScript": [
@@ -1033,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1202,
       "user": "Manavarya09"
     },
     {
@@ -1048,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 534,
       "user": "assai-id"
     },
     {
@@ -1063,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 521,
       "user": "ZeroZ-lab"
     },
     {
@@ -1078,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "activetheory"
     },
     {
@@ -1093,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 154,
       "user": "imtonyjaa"
     }
   ],
@@ -1245,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4921,
+      "stars": 5026,
       "user": "kyegomez"
     },
     {
@@ -1260,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3931,
+      "stars": 3991,
       "user": "browser-use"
     },
     {
@@ -1275,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3620,
+      "stars": 3672,
       "user": "Robbyant"
     },
     {
@@ -1290,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1040,
       "user": "wbh604"
     },
     {
@@ -1305,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1002,
       "user": "EvoLinkAI"
     }
   ],
@@ -1351,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Quorinex"
     }
   ],
@@ -1438,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1202,
       "user": "Manavarya09"
     },
     {
@@ -1453,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 521,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1470,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1202,
       "user": "Manavarya09"
     }
   ],
@@ -1637,7 +1622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "xataio"
     }
   ],
@@ -1842,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1202,
       "user": "Manavarya09"
     },
     {
@@ -1857,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 534,
       "user": "assai-id"
     },
     {
@@ -1872,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 521,
       "user": "ZeroZ-lab"
     },
     {
@@ -1887,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "activetheory"
     },
     {
@@ -1902,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 154,
       "user": "imtonyjaa"
     },
     {
@@ -1917,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4921,
+      "stars": 5026,
       "user": "kyegomez"
     },
     {
@@ -1932,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3931,
+      "stars": 3991,
       "user": "browser-use"
     },
     {
@@ -1947,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3620,
+      "stars": 3672,
       "user": "Robbyant"
     },
     {
@@ -1962,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1040,
       "user": "wbh604"
     },
     {
@@ -1977,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1002,
       "user": "EvoLinkAI"
     },
     {
@@ -1992,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "xataio"
     },
     {
@@ -2007,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "Quorinex"
     },
     {
@@ -2022,8 +2007,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 302,
       "user": "432539"
+    },
+    {
+      "title": "nutcas3/lets-bet - GitHub Repository",
+      "url": "https://github.com/nutcas3/lets-bet",
+      "published_at": "2026-04-15T00:19:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "nutcas3"
     },
     {
       "title": "tranhaonguyendev/Za-go - Unofficial Zalo API for Golang",
@@ -2039,21 +2039,6 @@
       "source": "GitHub",
       "stars": 52,
       "user": "tranhaonguyendev"
-    },
-    {
-      "title": "s-zx/crest - An open source, AI-native terminal.",
-      "url": "https://github.com/s-zx/crest",
-      "published_at": "2026-04-18T10:48:28Z",
-      "description": "An open source, AI-native terminal.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "s-zx"
     }
   ]
 }
