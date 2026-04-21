@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-22 0:00 CAT)
+## 📅 Latest Updates (2026-04-22 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Wed, 22 Apr 2026 00:25:24 CAT_
+_Last automated update: Wed, 22 Apr 2026 01:05:41 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 22 Apr 2026 00:25:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Python: What is the difference between list and tuple in Python?
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Iterative or recursive, three pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 21 Apr 2026 22:25:24 GMT</b><br/>
+  <b>Last automated update: Tue, 21 Apr 2026 23:05:41 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
