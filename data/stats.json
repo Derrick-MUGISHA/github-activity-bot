@@ -6,8 +6,8 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 54,
-    "JavaScript": 23,
+    "AI": 55,
+    "JavaScript": 24,
     "Python": 15,
     "DevOps": 4,
     "WebDev": 7,
@@ -19,7 +19,7 @@
   },
   "by_language": {
     "Go": 23,
-    "JavaScript": 23,
+    "JavaScript": 24,
     "Java": 19,
     "Rust": 1,
     "Python": 15,
@@ -28,8 +28,8 @@
   },
   "by_date": {
     "2026-04-20": 13,
-    "2026-04-21": 4,
-    "2026-04-19": 10,
+    "2026-04-21": 5,
+    "2026-04-19": 9,
     "2026-04-17": 11,
     "2026-04-16": 9,
     "2026-04-14": 5,
@@ -86,21 +86,21 @@
     "javascript": 8,
     "programming": 7,
     "opensource": 7,
+    "gemini": 5,
     "security": 5,
     "weekendchallenge": 5,
     "python": 5,
-    "gemini": 4,
     "tutorial": 4,
-    "agents": 4,
-    "top7": 3
+    "top7": 3,
+    "typescript": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "27.7",
-    "JavaScript": "27.7",
-    "Java": "22.9",
+    "Go": "27.4",
+    "JavaScript": "28.6",
+    "Java": "22.6",
     "Rust": "1.2",
-    "Python": "18.1",
+    "Python": "17.9",
     "Swift": "1.2",
     "Kotlin": "1.2"
   }

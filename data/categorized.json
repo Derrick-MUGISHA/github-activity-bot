@@ -90,21 +90,6 @@
       "user": "Simme"
     },
     {
-      "title": "Congrats to the Notion MCP Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
-      "published_at": "2026-04-17T16:30:22Z",
-      "description": "The results are in!  We're thrilled to announce our winners for the Notion MCP Challenge! From...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
       "published_at": "2026-04-20T12:59:00Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
       "source": "Dev.to",
       "user": "Setiaji"
+    },
+    {
+      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
+      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
+      "published_at": "2026-04-21T05:22:52Z",
+      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
+      "tags": [
+        "gemini",
+        "ai",
+        "typescript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
@@ -190,21 +190,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "Teaching Alfred to Remember with a Neuroscience-Inspired Memory System for AI Agents",
-      "url": "https://dev.to/joojodontoh/teaching-alfred-to-remember-with-a-neuroscience-inspired-memory-system-for-ai-agents-2o5l",
-      "published_at": "2026-04-19T07:38:31Z",
-      "description": "Introduction   My people, its me again. A few months back, I wrote about Alfred, my personal...",
-      "tags": [
-        "agents",
-        "ai",
-        "machinelearning",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovybvnt28rodsnyjqw98.png",
-      "source": "Dev.to",
-      "user": "JOOJO DONTOH"
     },
     {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
@@ -352,6 +337,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
+    },
+    {
+      "title": "Congrats to the Notion MCP Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
+      "published_at": "2026-04-17T16:30:22Z",
+      "description": "The results are in!  We're thrilled to announce our winners for the Notion MCP Challenge! From...",
+      "tags": [
+        "devchallenge",
+        "notionchallenge",
+        "mcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1256,
       "user": "Manavarya09"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "ZeroZ-lab"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6283,
+      "stars": 6403,
       "user": "kyegomez"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4265,
+      "stars": 4296,
       "user": "browser-use"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1207,
       "user": "codejunkie99"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1118,
       "user": "EvoLinkAI"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 478,
       "user": "432539"
     },
     {
@@ -768,6 +768,21 @@
       "source": "GitHub",
       "stars": 379,
       "user": "Quorinex"
+    },
+    {
+      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "url": "https://github.com/brexhq/CrabTrap",
+      "published_at": "2026-04-17T18:47:45Z",
+      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "brexhq"
     }
   ],
   "JavaScript": [
@@ -785,6 +800,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png",
       "source": "Dev.to",
       "user": "Zonaib Bokhari"
+    },
+    {
+      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
+      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
+      "published_at": "2026-04-21T05:22:52Z",
+      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
+      "tags": [
+        "gemini",
+        "ai",
+        "typescript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
@@ -1021,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1256,
       "user": "Manavarya09"
     },
     {
@@ -1036,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "ZeroZ-lab"
     },
     {
@@ -1218,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6283,
+      "stars": 6403,
       "user": "kyegomez"
     },
     {
@@ -1233,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4265,
+      "stars": 4296,
       "user": "browser-use"
     },
     {
@@ -1248,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3823,
+      "stars": 3842,
       "user": "Robbyant"
     },
     {
@@ -1263,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1207,
       "user": "codejunkie99"
     },
     {
@@ -1278,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1118,
       "user": "EvoLinkAI"
     }
   ],
@@ -1426,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1256,
       "user": "Manavarya09"
     },
     {
@@ -1441,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1458,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1256,
       "user": "Manavarya09"
     }
   ],
@@ -1876,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1256,
       "user": "Manavarya09"
     },
     {
@@ -1891,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "ZeroZ-lab"
     },
     {
@@ -1951,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6283,
+      "stars": 6403,
       "user": "kyegomez"
     },
     {
@@ -1966,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4265,
+      "stars": 4296,
       "user": "browser-use"
     },
     {
@@ -1981,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3823,
+      "stars": 3842,
       "user": "Robbyant"
     },
     {
@@ -1996,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1207,
       "user": "codejunkie99"
     },
     {
@@ -2011,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1118,
       "user": "EvoLinkAI"
     },
     {
@@ -2041,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 478,
       "user": "432539"
     },
     {
@@ -2071,23 +2101,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "nutcas3"
     },
     {
-      "title": "londek/ipadecrypt - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention.",
-      "url": "https://github.com/londek/ipadecrypt",
-      "published_at": "2026-04-17T22:42:33Z",
-      "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention.",
+      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "url": "https://github.com/brexhq/CrabTrap",
+      "published_at": "2026-04-17T18:47:45Z",
+      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 54,
-      "user": "londek"
+      "stars": 58,
+      "user": "brexhq"
     }
   ]
 }
