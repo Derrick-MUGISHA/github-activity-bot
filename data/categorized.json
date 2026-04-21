@@ -16,21 +16,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Migrating vector embeddings in production without downtime",
-      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
-      "published_at": "2026-04-21T15:41:50Z",
-      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
-      "tags": [
-        "rag",
-        "ai",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
       "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
       "published_at": "2026-04-21T13:51:38Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
+    },
+    {
+      "title": "Migrating vector embeddings in production without downtime",
+      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
+      "published_at": "2026-04-21T15:41:50Z",
+      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
+      "tags": [
+        "rag",
+        "ai",
+        "vectordatabase",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "TPU Mythbusting: vendor lock-in",
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1268,
       "user": "Manavarya09"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6504,
+      "stars": 6587,
       "user": "kyegomez"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4318,
+      "stars": 4343,
       "user": "browser-use"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1217,
+      "stars": 1227,
       "user": "codejunkie99"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1123,
       "user": "EvoLinkAI"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "xataio"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "432539"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 90,
       "user": "brexhq"
     }
   ],
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1268,
       "user": "Manavarya09"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6504,
+      "stars": 6587,
       "user": "kyegomez"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4318,
+      "stars": 4343,
       "user": "browser-use"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 3857,
       "user": "Robbyant"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1217,
+      "stars": 1227,
       "user": "codejunkie99"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1123,
       "user": "EvoLinkAI"
     }
   ],
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1268,
       "user": "Manavarya09"
     },
     {
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1268,
       "user": "Manavarya09"
     }
   ],
@@ -1655,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "xataio"
     }
   ],
@@ -1891,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1268,
       "user": "Manavarya09"
     },
     {
@@ -1966,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6504,
+      "stars": 6587,
       "user": "kyegomez"
     },
     {
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4318,
+      "stars": 4343,
       "user": "browser-use"
     },
     {
@@ -1996,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 3857,
       "user": "Robbyant"
     },
     {
@@ -2011,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1217,
+      "stars": 1227,
       "user": "codejunkie99"
     },
     {
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1123,
       "user": "EvoLinkAI"
     },
     {
@@ -2041,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "xataio"
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "432539"
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 90,
       "user": "brexhq"
     },
     {
