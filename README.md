@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-21 4:00 CAT)
+## 📅 Latest Updates (2026-04-21 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -141,26 +141,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F654hldb1r3nzdfwhloal.png" width="200" alt="What does the term 'hacker' mean to you?" />
-      <br/>
-      <b>What does the term 'hacker' mean to you?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxesdgj39010cufpd0oki.jpg" width="200" alt="What are your goals for the week? #175" />
-      <br/>
-      <b>What are your goals for the week? #175</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjz456n9hmitex1za1vp.jpeg" width="200" alt="Why Do I Keep Killing My Side Projects?" />
@@ -179,11 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxesdgj39010cufpd0oki.jpg" width="200" alt="What are your goals for the week? #175" />
+      <br/>
+      <b>What are your goals for the week? #175</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-28fb">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9g0ggokz5bnmths1ktot.jpg" width="200" alt="What was your win this week?!" />
       <br/>
       <b>What was your win this week?!</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg" width="200" alt="Watch Google Cloud NEXT Live Right Here on DEV!" />
+      <br/>
+      <b>Watch Google Cloud NEXT Live Right Here on DEV!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,16 +196,16 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
-- [What does the term 'hacker' mean to you?](https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8) _[Dev.to]_
-- [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [Why Do I Keep Killing My Side Projects?](https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh) _[Dev.to]_
 - [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn) _[Dev.to]_
+- [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84) _[Dev.to]_
 - [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo) _[Dev.to]_
 - [I got tired of copy-pasting the same table code, so I built a library](https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l) _[Dev.to]_
 - [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm) _[Dev.to]_
+- [What does the term 'hacker' mean to you?](https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Web3 Terminology Mapped to What You Already Know](https://dev.to/100daysofsolana/web3-terminology-mapped-to-what-you-already-know-4afk) _[Dev.to]_
 - [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Building a Multimodal Agent with the ADK, Azure ACI, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aci-and-gemini-flash-live-31-3hp6) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
 
-_Last automated update: Tue, 21 Apr 2026 04:54:09 CAT_
+_Last automated update: Tue, 21 Apr 2026 07:23:55 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 21 Apr 2026 04:54:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 21 Apr 2026 02:54:09 GMT</b><br/>
+  <b>Last automated update: Tue, 21 Apr 2026 05:23:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
