@@ -473,21 +473,6 @@
       "user": "Rob Simpson"
     },
     {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -631,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1262,
       "user": "Manavarya09"
     },
     {
@@ -676,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6403,
+      "stars": 6504,
       "user": "kyegomez"
     },
     {
@@ -691,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4296,
+      "stars": 4318,
       "user": "browser-use"
     },
     {
@@ -706,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1217,
       "user": "codejunkie99"
     },
     {
@@ -721,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1120,
       "user": "EvoLinkAI"
     },
     {
@@ -751,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "432539"
     },
     {
@@ -781,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 81,
       "user": "brexhq"
     }
   ],
@@ -1051,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1262,
       "user": "Manavarya09"
     },
     {
@@ -1248,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6403,
+      "stars": 6504,
       "user": "kyegomez"
     },
     {
@@ -1263,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4296,
+      "stars": 4318,
       "user": "browser-use"
     },
     {
@@ -1278,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3842,
+      "stars": 3851,
       "user": "Robbyant"
     },
     {
@@ -1293,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1217,
       "user": "codejunkie99"
     },
     {
@@ -1308,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1120,
       "user": "EvoLinkAI"
     }
   ],
@@ -1456,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1262,
       "user": "Manavarya09"
     },
     {
@@ -1488,11 +1473,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1262,
       "user": "Manavarya09"
     }
   ],
   "Cloud": [
+    {
+      "title": "Build your own blog post view counter on AWS Free Tier",
+      "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
+      "published_at": "2026-04-21T19:35:19Z",
+      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
+      "tags": [
+        "beginners",
+        "lambda",
+        "dynamodb",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
+      "source": "Dev.to",
+      "user": "Esin Saribudak"
+    },
     {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
@@ -1688,21 +1688,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
       "source": "Dev.to",
       "user": "Mateusz Woźniak"
-    },
-    {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1906,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1262,
       "user": "Manavarya09"
     },
     {
@@ -1981,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6403,
+      "stars": 6504,
       "user": "kyegomez"
     },
     {
@@ -1996,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4296,
+      "stars": 4318,
       "user": "browser-use"
     },
     {
@@ -2011,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3842,
+      "stars": 3851,
       "user": "Robbyant"
     },
     {
@@ -2026,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1217,
       "user": "codejunkie99"
     },
     {
@@ -2041,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1118,
+      "stars": 1120,
       "user": "EvoLinkAI"
     },
     {
@@ -2071,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "432539"
     },
     {
@@ -2090,21 +2075,6 @@
       "user": "Quorinex"
     },
     {
-      "title": "nutcas3/lets-bet - GitHub Repository",
-      "url": "https://github.com/nutcas3/lets-bet",
-      "published_at": "2026-04-15T00:19:16Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
-      "source": "GitHub",
-      "stars": 78,
-      "user": "nutcas3"
-    },
-    {
       "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
       "url": "https://github.com/brexhq/CrabTrap",
       "published_at": "2026-04-17T18:47:45Z",
@@ -2116,8 +2086,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 81,
       "user": "brexhq"
+    },
+    {
+      "title": "nutcas3/lets-bet - GitHub Repository",
+      "url": "https://github.com/nutcas3/lets-bet",
+      "published_at": "2026-04-15T00:19:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "nutcas3"
     }
   ]
 }
