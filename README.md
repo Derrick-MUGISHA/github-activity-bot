@@ -30,9 +30,9 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
@@ -44,7 +44,7 @@
 
 **DevOps**: 🟦 4 (3.8%)
 
-**Database**: 🟦 2 (1.9%)
+**Database**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.4 (28.4%)
-JavaScript      █████████████████████████████ 27.2 (27.2%)
-Java            █████████████████████████ 23.5 (23.5%)
-Python          ████████████████████ 18.5 (18.5%)
+Go              ██████████████████████████████ 28.0 (28.0%)
+JavaScript      ██████████████████████████████ 28.0 (28.0%)
+Java            █████████████████████████ 23.2 (23.2%)
+Python          ████████████████████ 18.3 (18.3%)
 Swift           █ 1.2 (1.2%)
 Kotlin          █ 1.2 (1.2%)
 
@@ -72,7 +72,7 @@ Kotlin          █ 1.2 (1.2%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 23
-    "JavaScript" : 22
+    "JavaScript" : 23
     "Java" : 19
     "Python" : 15
     "Swift" : 1
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-8-blue) ![opensource](https://img.shields.io/badge/opensource-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![security](https://img.shields.io/badge/security-5-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-21 17:00 CAT)
+## 📅 Latest Updates (2026-04-21 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,6 +149,17 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png" width="200" alt="Migrating vector embeddings in production without downtime" />
+      <br/>
+      <b>Migrating vector embeddings in production without ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png" width="200" alt="Add Telephony to a Gemini Live Agent with Twilio" />
       <br/>
@@ -157,8 +168,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png" width="200" alt="Atomic Scaffolding: How scbake Prevents Configuration Mishaps" />
@@ -177,15 +186,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp" width="200" alt="TPU Mythbusting: vendor lock-in" />
-      <br/>
-      <b>TPU Mythbusting: vendor lock-in</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -195,6 +195,7 @@ npm run test
 
 - [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
+- [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli) _[Dev.to]_
 - [Add Telephony to a Gemini Live Agent with Twilio](https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc) _[Dev.to]_
 - [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo) _[Dev.to]_
 - [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
@@ -212,9 +213,8 @@ npm run test
 - [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
-- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) _[Dev.to]_
 
-_Last automated update: Tue, 21 Apr 2026 17:00:21 CAT_
+_Last automated update: Tue, 21 Apr 2026 18:17:46 CAT_
 
 
 
@@ -222,18 +222,29 @@ _Last automated update: Tue, 21 Apr 2026 17:00:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
+
+</details>
+
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -241,17 +252,6 @@ State in functional components, reusable logic, cleaner code
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
-
-</details>
-
-### 3. DataStructures: Find the longest substring without repeating characters
-
-**Difficulty**: Medium | **Topics**: strings, sliding window
-
-<details>
-<summary>💡 Hint</summary>
-
-Sliding window, hash map, two pointers
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 21 Apr 2026 15:00:21 GMT</b><br/>
+  <b>Last automated update: Tue, 21 Apr 2026 16:17:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

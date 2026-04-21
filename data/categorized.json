@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Migrating vector embeddings in production without downtime",
+      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
+      "published_at": "2026-04-21T15:41:50Z",
+      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
+      "tags": [
+        "rag",
+        "ai",
+        "vectordatabase",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Add Telephony to a Gemini Live Agent with Twilio",
       "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
       "published_at": "2026-04-21T14:36:54Z",
@@ -177,20 +192,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Brain, Explained",
-      "url": "https://dev.to/jimmymcbride/brain-explained-757",
-      "published_at": "2026-04-18T01:33:27Z",
-      "description": "Alright, let’s talk about AI coding. If you’ve been using ChatGPT, Codex, Claude… whatever your...",
-      "tags": [
-        "ai",
-        "opensource",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fop77w5d8cpzskr9q85lj.webp",
-      "source": "Dev.to",
-      "user": "Jimmy McBride"
-    },
-    {
       "title": "Teaching Alfred to Remember with a Neuroscience-Inspired Memory System for AI Agents",
       "url": "https://dev.to/joojodontoh/teaching-alfred-to-remember-with-a-neuroscience-inspired-memory-system-for-ai-agents-2o5l",
       "published_at": "2026-04-19T07:38:31Z",
@@ -232,21 +233,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
       "source": "Dev.to",
       "user": "Neha Sharma "
-    },
-    {
-      "title": "Using Gemini CLI with Vertex AI (Without Worrying About Your Data)",
-      "url": "https://dev.to/hasanmn/using-gemini-cli-with-vertex-ai-without-worrying-about-your-data-4jb",
-      "published_at": "2026-04-17T22:24:28Z",
-      "description": "If you've been playing around with Gemini CLI, you might have glossed over a small but important...",
-      "tags": [
-        "cli",
-        "gemini",
-        "google",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqt25has9xuyuus32ul2.png",
-      "source": "Dev.to",
-      "user": "hasanmn"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -307,21 +293,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg",
       "source": "Dev.to",
       "user": "Dev Rajput"
-    },
-    {
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
-      "published_at": "2026-04-19T15:22:44Z",
-      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
-      "source": "Dev.to",
-      "user": "Basti Ortiz"
     },
     {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
@@ -442,6 +413,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "The Mental Framework for Unlocking Agentic Workflows",
+      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
+      "published_at": "2026-04-19T15:22:44Z",
+      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
+      "source": "Dev.to",
+      "user": "Basti Ortiz"
+    },
+    {
       "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
       "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
       "published_at": "2026-04-16T18:13:14Z",
@@ -485,6 +471,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4y1jjinfh62eh1ckxdaf.png",
       "source": "Dev.to",
       "user": "Khe Ai"
+    },
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -630,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1241,
       "user": "Manavarya09"
     },
     {
@@ -645,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 547,
       "user": "ZeroZ-lab"
     },
     {
@@ -660,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "assai-id"
     },
     {
@@ -675,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5789,
+      "stars": 5999,
       "user": "kyegomez"
     },
     {
@@ -690,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4132,
+      "stars": 4186,
       "user": "browser-use"
     },
     {
@@ -705,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1120,
       "user": "codejunkie99"
     },
     {
@@ -720,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1097,
       "user": "EvoLinkAI"
     },
     {
@@ -735,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 702,
       "user": "xataio"
     },
     {
@@ -750,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 429,
       "user": "432539"
     },
     {
@@ -872,6 +873,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
+    },
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1005,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1241,
       "user": "Manavarya09"
     },
     {
@@ -1020,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 547,
       "user": "ZeroZ-lab"
     },
     {
@@ -1035,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "assai-id"
     },
     {
@@ -1202,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5789,
+      "stars": 5999,
       "user": "kyegomez"
     },
     {
@@ -1217,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4132,
+      "stars": 4186,
       "user": "browser-use"
     },
     {
@@ -1232,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3767,
+      "stars": 3788,
       "user": "Robbyant"
     },
     {
@@ -1247,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1120,
       "user": "codejunkie99"
     },
     {
@@ -1262,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1097,
       "user": "EvoLinkAI"
     }
   ],
@@ -1410,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1241,
       "user": "Manavarya09"
     },
     {
@@ -1425,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 547,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1442,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1241,
       "user": "Manavarya09"
     }
   ],
@@ -1609,11 +1625,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 702,
       "user": "xataio"
     }
   ],
   "Database": [
+    {
+      "title": "Migrating vector embeddings in production without downtime",
+      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
+      "published_at": "2026-04-21T15:41:50Z",
+      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
+      "tags": [
+        "rag",
+        "ai",
+        "vectordatabase",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
     {
       "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
       "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
@@ -1745,20 +1776,6 @@
       "user": "Emin Salih Açıkgöz"
     },
     {
-      "title": "Brain, Explained",
-      "url": "https://dev.to/jimmymcbride/brain-explained-757",
-      "published_at": "2026-04-18T01:33:27Z",
-      "description": "Alright, let’s talk about AI coding. If you’ve been using ChatGPT, Codex, Claude… whatever your...",
-      "tags": [
-        "ai",
-        "opensource",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fop77w5d8cpzskr9q85lj.webp",
-      "source": "Dev.to",
-      "user": "Jimmy McBride"
-    },
-    {
       "title": "Why Do I Keep Killing My Side Projects?",
       "url": "https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh",
       "published_at": "2026-04-20T05:20:35Z",
@@ -1844,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1241,
       "user": "Manavarya09"
     },
     {
@@ -1859,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 547,
       "user": "ZeroZ-lab"
     },
     {
@@ -1874,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "assai-id"
     },
     {
@@ -1919,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5789,
+      "stars": 5999,
       "user": "kyegomez"
     },
     {
@@ -1934,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4132,
+      "stars": 4186,
       "user": "browser-use"
     },
     {
@@ -1949,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3767,
+      "stars": 3788,
       "user": "Robbyant"
     },
     {
@@ -1964,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1120,
       "user": "codejunkie99"
     },
     {
@@ -1979,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1097,
       "user": "EvoLinkAI"
     },
     {
@@ -1994,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 702,
       "user": "xataio"
     },
     {
@@ -2009,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 429,
       "user": "432539"
     },
     {
@@ -2039,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "nutcas3"
     },
     {
