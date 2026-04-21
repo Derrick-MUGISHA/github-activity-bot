@@ -147,21 +147,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15",
       "published_at": "2026-04-16T18:48:19Z",
@@ -322,6 +307,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
+      "tags": [
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1273,
       "user": "Manavarya09"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "ZeroZ-lab"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6696,
+      "stars": 6767,
       "user": "kyegomez"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4374,
+      "stars": 4383,
       "user": "browser-use"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1259,
       "user": "codejunkie99"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1133,
       "user": "EvoLinkAI"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "432539"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 119,
       "user": "brexhq"
     }
   ],
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1273,
       "user": "Manavarya09"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "ZeroZ-lab"
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 295,
       "user": "activetheory"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6696,
+      "stars": 6767,
       "user": "kyegomez"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4374,
+      "stars": 4383,
       "user": "browser-use"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3875,
+      "stars": 3880,
       "user": "Robbyant"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1259,
       "user": "codejunkie99"
     },
     {
@@ -1293,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1133,
       "user": "EvoLinkAI"
     }
   ],
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1273,
       "user": "Manavarya09"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1273,
       "user": "Manavarya09"
     }
   ],
@@ -1537,21 +1537,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
       "source": "Dev.to",
       "user": "Steve Emmerich"
-    },
-    {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
@@ -1627,6 +1612,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
+      "tags": [
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
@@ -1891,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1273,
       "user": "Manavarya09"
     },
     {
@@ -1906,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "ZeroZ-lab"
     },
     {
@@ -1936,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 295,
       "user": "activetheory"
     },
     {
@@ -1966,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6696,
+      "stars": 6767,
       "user": "kyegomez"
     },
     {
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4374,
+      "stars": 4383,
       "user": "browser-use"
     },
     {
@@ -1996,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3875,
+      "stars": 3880,
       "user": "Robbyant"
     },
     {
@@ -2011,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1259,
       "user": "codejunkie99"
     },
     {
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1133,
       "user": "EvoLinkAI"
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "432539"
     },
     {
@@ -2086,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 119,
       "user": "brexhq"
     },
     {
@@ -2101,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "nutcas3"
     }
   ]

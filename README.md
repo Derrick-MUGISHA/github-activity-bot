@@ -131,15 +131,6 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2679bjqfh2v9ypiktio0.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg" width="200" alt="Build your own blog post view counter on AWS Free Tier" />
       <br/>
@@ -153,6 +144,15 @@ npm run test
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png" width="200" alt="Atomic Scaffolding: How scbake Prevents Configuration Mishaps" />
       <br/>
       <b>Atomic Scaffolding: How scbake Prevents Configurat...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2679bjqfh2v9ypiktio0.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,9 +193,9 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
 - [Build your own blog post view counter on AWS Free Tier](https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f) _[Dev.to]_
 - [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
 - [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
 - [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli) _[Dev.to]_
@@ -209,12 +209,12 @@ npm run test
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 - [Orchestrating Agents via ADK for TypeScript and Gemini CLI](https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco) _[Dev.to]_
-- [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15) _[Dev.to]_
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
+- [EcoDo AI: Making Earth a Little Less Heavy 🌍✨](https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic) _[Dev.to]_
 
-_Last automated update: Wed, 22 Apr 2026 01:05:41 CAT_
+_Last automated update: Wed, 22 Apr 2026 01:50:51 CAT_
 
 
 
@@ -222,29 +222,18 @@ _Last automated update: Wed, 22 Apr 2026 01:05:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: security, middleware
-
-<details>
-<summary>💡 Hint</summary>
-
-Token bucket, sliding window, Redis
-
-</details>
-
-### 2. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 2. DataStructures: Implement a function to reverse a linked list
 
 **Difficulty**: Medium | **Topics**: linked lists, pointers
 
@@ -252,6 +241,17 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 Iterative or recursive, three pointers
+
+</details>
+
+### 3. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 21 Apr 2026 23:05:41 GMT</b><br/>
+  <b>Last automated update: Tue, 21 Apr 2026 23:50:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
