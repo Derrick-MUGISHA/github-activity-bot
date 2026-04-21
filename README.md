@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-21-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
@@ -40,7 +40,7 @@
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -60,11 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.7 (27.7%)
-Go              █████████████████████████████ 26.5 (26.5%)
-Java            █████████████████████████ 22.9 (22.9%)
-Python          █████████████████████ 19.3 (19.3%)
-Ruby            █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 28.0 (28.0%)
+Go              █████████████████████████████ 26.8 (26.8%)
+Java            █████████████████████████ 23.2 (23.2%)
+Python          █████████████████████ 19.5 (19.5%)
 Swift           █ 1.2 (1.2%)
 Kotlin          █ 1.2 (1.2%)
 
@@ -76,7 +75,6 @@ pie title Programming Languages Distribution
     "Go" : 22
     "Java" : 19
     "Python" : 16
-    "Ruby" : 1
     "Swift" : 1
     "Kotlin" : 1
 ```
@@ -85,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![weekendchallenge](https://img.shields.io/badge/weekendchallenge-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -125,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-21 13:00 CAT)
+## 📅 Latest Updates (2026-04-21 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,10 +140,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjz456n9hmitex1za1vp.jpeg" width="200" alt="Why Do I Keep Killing My Side Projects?" />
+    <a href="https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png" width="200" alt="What To Do If Your Project Was Affected By The Vercel Breach" />
       <br/>
-      <b>Why Do I Keep Killing My Side Projects?</b>
+      <b>What To Do If Your Project Was Affected By The Ver...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,7 +194,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
-- [Why Do I Keep Killing My Side Projects?](https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh) _[Dev.to]_
+- [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
 - [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb) _[Dev.to]_
 - [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo) _[Dev.to]_
@@ -216,7 +214,7 @@ npm run test
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 - [Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search](https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe) _[Dev.to]_
 
-_Last automated update: Tue, 21 Apr 2026 13:46:04 CAT_
+_Last automated update: Tue, 21 Apr 2026 15:17:56 CAT_
 
 
 
@@ -224,36 +222,36 @@ _Last automated update: Tue, 21 Apr 2026 13:46:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Mutability, performance, use cases
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 21 Apr 2026 11:46:04 GMT</b><br/>
+  <b>Last automated update: Tue, 21 Apr 2026 13:17:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
