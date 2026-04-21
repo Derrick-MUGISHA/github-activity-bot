@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Migrating vector embeddings in production without downtime",
-      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
-      "published_at": "2026-04-21T15:41:50Z",
-      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
-      "tags": [
-        "rag",
-        "ai",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Add Telephony to a Gemini Live Agent with Twilio",
       "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
       "published_at": "2026-04-21T14:36:54Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Migrating vector embeddings in production without downtime",
+      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
+      "published_at": "2026-04-21T15:41:50Z",
+      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
+      "tags": [
+        "rag",
+        "ai",
+        "vectordatabase",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
@@ -354,21 +354,6 @@
       "user": "Calebe Aires"
     },
     {
-      "title": "100 Daily Challenges to Learn Web3 and Solana",
-      "url": "https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i",
-      "published_at": "2026-04-17T15:14:12Z",
-      "description": "Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.",
-      "tags": [
-        "web3",
-        "solana",
-        "programming",
-        "blockchain"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6sjxm2ypw5k6i49c4id4.png",
-      "source": "Dev.to",
-      "user": "Matthew Revell"
-    },
-    {
       "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
       "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
       "published_at": "2026-04-17T19:26:57Z",
@@ -382,6 +367,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
       "source": "Dev.to",
       "user": "Abhishek"
+    },
+    {
+      "title": "The Mental Framework for Unlocking Agentic Workflows",
+      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
+      "published_at": "2026-04-19T15:22:44Z",
+      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
+      "source": "Dev.to",
+      "user": "Basti Ortiz"
     },
     {
       "title": "How do AI video generation models work?",
@@ -411,21 +411,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fecw3n0ppudgqsol2jtb4.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
-      "published_at": "2026-04-19T15:22:44Z",
-      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
-      "source": "Dev.to",
-      "user": "Basti Ortiz"
     },
     {
       "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
@@ -486,6 +471,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
       "source": "Dev.to",
       "user": "Rob Simpson"
+    },
+    {
+      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
+      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
+      "published_at": "2026-04-13T04:23:13Z",
+      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
+      "tags": [
+        "rust",
+        "sql",
+        "database",
+        "elasticsearch"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
+      "source": "Dev.to",
+      "user": " Ramakrishna Chilaka"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1247,
       "user": "Manavarya09"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 552,
       "user": "ZeroZ-lab"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 549,
       "user": "assai-id"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5999,
+      "stars": 6154,
       "user": "kyegomez"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4186,
+      "stars": 4234,
       "user": "browser-use"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1153,
       "user": "codejunkie99"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1106,
       "user": "EvoLinkAI"
     },
     {
@@ -736,14 +736,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "xataio"
     },
     {
-      "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
       "url": "https://github.com/432539/gpt2api",
       "published_at": "2026-04-18T06:02:44Z",
-      "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
       "tags": [
         "go",
         "github",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 457,
       "user": "432539"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1247,
       "user": "Manavarya09"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 552,
       "user": "ZeroZ-lab"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 549,
       "user": "assai-id"
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "activetheory"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5999,
+      "stars": 6154,
       "user": "kyegomez"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4186,
+      "stars": 4234,
       "user": "browser-use"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3788,
+      "stars": 3809,
       "user": "Robbyant"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1153,
       "user": "codejunkie99"
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1106,
       "user": "EvoLinkAI"
     }
   ],
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1247,
       "user": "Manavarya09"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 552,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1458,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1247,
       "user": "Manavarya09"
     }
   ],
@@ -1625,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "xataio"
     }
   ],
@@ -1658,6 +1658,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
       "source": "Dev.to",
       "user": "Mateusz Woźniak"
+    },
+    {
+      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
+      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
+      "published_at": "2026-04-13T04:23:13Z",
+      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
+      "tags": [
+        "rust",
+        "sql",
+        "database",
+        "elasticsearch"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
+      "source": "Dev.to",
+      "user": " Ramakrishna Chilaka"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1861,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1241,
+      "stars": 1247,
       "user": "Manavarya09"
     },
     {
@@ -1876,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 552,
       "user": "ZeroZ-lab"
     },
     {
@@ -1891,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 549,
       "user": "assai-id"
     },
     {
@@ -1906,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "activetheory"
     },
     {
@@ -1936,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5999,
+      "stars": 6154,
       "user": "kyegomez"
     },
     {
@@ -1951,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4186,
+      "stars": 4234,
       "user": "browser-use"
     },
     {
@@ -1966,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3788,
+      "stars": 3809,
       "user": "Robbyant"
     },
     {
@@ -1981,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1153,
       "user": "codejunkie99"
     },
     {
@@ -1996,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1106,
       "user": "EvoLinkAI"
     },
     {
@@ -2011,14 +2026,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 704,
       "user": "xataio"
     },
     {
-      "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
       "url": "https://github.com/432539/gpt2api",
       "published_at": "2026-04-18T06:02:44Z",
-      "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
       "tags": [
         "go",
         "github",
@@ -2026,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 457,
       "user": "432539"
     },
     {
@@ -2056,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 75,
       "user": "nutcas3"
     },
     {
