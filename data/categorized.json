@@ -1,51 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
-      "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
-      "published_at": "2026-04-20T12:59:00Z",
-      "description": "Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.",
-      "tags": [
-        "ai",
-        "agents",
-        "cloudflare",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
-      "source": "Dev.to",
-      "user": "Steve Emmerich"
-    },
-    {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84",
-      "published_at": "2026-04-19T01:17:31Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "multiagent",
-        "gemini",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -105,6 +60,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
+      "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
+      "published_at": "2026-04-20T12:59:00Z",
+      "description": "Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.",
+      "tags": [
+        "ai",
+        "agents",
+        "cloudflare",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
+      "source": "Dev.to",
+      "user": "Steve Emmerich"
+    },
+    {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
       "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
       "published_at": "2026-04-17T13:18:29Z",
@@ -132,19 +102,19 @@
       "user": "Setiaji"
     },
     {
-      "title": "Building a Multimodal Agent with the ADK, Azure ACI, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aci-and-gemini-flash-live-31-3hp6",
-      "published_at": "2026-04-18T03:07:51Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
       "tags": [
-        "geminilive",
-        "azureaci",
-        "gemini",
-        "appagent"
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdp7x9wokcltniu1hzkor.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "dev.to staff"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
@@ -368,6 +338,21 @@
       "user": "Jono Herrington"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84",
+      "published_at": "2026-04-19T01:17:31Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "googleadk",
+        "multiagent",
+        "gemini",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
       "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
       "published_at": "2026-04-09T17:15:51Z",
@@ -381,21 +366,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
-    },
-    {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j",
-      "published_at": "2026-04-07T13:16:14Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "azure",
-        "ak",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob6hrb6cleaearnb995b.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
@@ -498,6 +468,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1cl2t71j9cnzu33mubs.png",
       "source": "Dev.to",
       "user": "i-like-tree"
+    },
+    {
+      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
+      "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
+      "published_at": "2026-04-17T18:03:04Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition           What I Built   GheiaGrid is a...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "agriculture",
+        "kheai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4y1jjinfh62eh1ckxdaf.png",
+      "source": "Dev.to",
+      "user": "Khe Ai"
+    },
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1191,
       "user": "Manavarya09"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 527,
       "user": "assai-id"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 516,
       "user": "ZeroZ-lab"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4779,
+      "stars": 4921,
       "user": "kyegomez"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 3931,
       "user": "browser-use"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 973,
       "user": "EvoLinkAI"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 694,
       "user": "xataio"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "Quorinex"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 275,
       "user": "432539"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 46,
       "user": "s-zx"
     }
   ],
@@ -799,21 +799,6 @@
       "user": "Zonaib Bokhari"
     },
     {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
-    },
-    {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
       "published_at": "2026-04-17T18:38:12Z",
@@ -827,6 +812,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
+      "source": "Dev.to",
+      "user": "Laura Durieux"
     },
     {
       "title": "You’re a Real Software Developer Only If…",
@@ -885,6 +885,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
+    },
+    {
+      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
+      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
+      "published_at": "2026-04-04T01:49:02Z",
+      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
+      "tags": [
+        "typescript",
+        "eslint",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
+      "source": "Dev.to",
+      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1018,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1191,
       "user": "Manavarya09"
     },
     {
@@ -1033,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 527,
       "user": "assai-id"
     },
     {
@@ -1048,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 516,
       "user": "ZeroZ-lab"
     },
     {
@@ -1078,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "imtonyjaa"
     }
   ],
@@ -1230,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4779,
+      "stars": 4921,
       "user": "kyegomez"
     },
     {
@@ -1245,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 3931,
       "user": "browser-use"
     },
     {
@@ -1260,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3533,
+      "stars": 3620,
       "user": "Robbyant"
     },
     {
@@ -1275,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1024,
       "user": "wbh604"
     },
     {
@@ -1290,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 973,
       "user": "EvoLinkAI"
     }
   ],
@@ -1336,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "Quorinex"
     }
   ],
@@ -1423,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1191,
       "user": "Manavarya09"
     },
     {
@@ -1438,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 516,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1455,56 +1470,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1191,
       "user": "Manavarya09"
     }
   ],
   "Cloud": [
-    {
-      "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
-      "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
-      "published_at": "2026-04-20T12:59:00Z",
-      "description": "Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.",
-      "tags": [
-        "ai",
-        "agents",
-        "cloudflare",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
-      "source": "Dev.to",
-      "user": "Steve Emmerich"
-    },
-    {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84",
-      "published_at": "2026-04-19T01:17:31Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "multiagent",
-        "gemini",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
@@ -1536,19 +1506,34 @@
       "user": "Tomaz Lemos"
     },
     {
-      "title": "Building a Multimodal Agent with the ADK, Azure ACI, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-a-multimodal-agent-with-the-adk-azure-aci-and-gemini-flash-live-31-3hp6",
-      "published_at": "2026-04-18T03:07:51Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Agentic apps...",
+      "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
+      "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
+      "published_at": "2026-04-20T12:59:00Z",
+      "description": "Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.",
       "tags": [
-        "geminilive",
-        "azureaci",
-        "gemini",
-        "appagent"
+        "ai",
+        "agents",
+        "cloudflare",
+        "startup"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdp7x9wokcltniu1hzkor.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Steve Emmerich"
+    },
+    {
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
+      "tags": [
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
@@ -1611,17 +1596,17 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure AKS, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-aks-and-gemini-cli-5g9j",
-      "published_at": "2026-04-07T13:16:14Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84",
+      "published_at": "2026-04-19T01:17:31Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
         "googleadk",
-        "azure",
-        "ak",
-        "gemini"
+        "multiagent",
+        "gemini",
+        "a2a"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fob6hrb6cleaearnb995b.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1652,7 +1637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 694,
       "user": "xataio"
     }
   ],
@@ -1772,21 +1757,6 @@
       "user": "Ender Ahmet Yurt"
     },
     {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
-    },
-    {
       "title": "Brain, Explained",
       "url": "https://dev.to/jimmymcbride/brain-explained-757",
       "published_at": "2026-04-18T01:33:27Z",
@@ -1814,6 +1784,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
+      "source": "Dev.to",
+      "user": "Laura Durieux"
     },
     {
       "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
@@ -1857,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1191,
       "user": "Manavarya09"
     },
     {
@@ -1872,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 527,
       "user": "assai-id"
     },
     {
@@ -1887,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 516,
       "user": "ZeroZ-lab"
     },
     {
@@ -1917,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "imtonyjaa"
     },
     {
@@ -1932,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 4779,
+      "stars": 4921,
       "user": "kyegomez"
     },
     {
@@ -1947,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 3931,
       "user": "browser-use"
     },
     {
@@ -1962,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3533,
+      "stars": 3620,
       "user": "Robbyant"
     },
     {
@@ -1977,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1024,
       "user": "wbh604"
     },
     {
@@ -1992,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 973,
       "user": "EvoLinkAI"
     },
     {
@@ -2007,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 694,
       "user": "xataio"
     },
     {
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "Quorinex"
     },
     {
@@ -2037,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 275,
       "user": "432539"
     },
     {
@@ -2067,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 46,
       "user": "s-zx"
     }
   ]
