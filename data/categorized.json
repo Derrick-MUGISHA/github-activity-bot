@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Add Telephony to a Gemini Live Agent with Twilio",
+      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
+      "published_at": "2026-04-21T14:36:54Z",
+      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
+      "tags": [
+        "ai",
+        "voice",
+        "telephony",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
+    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -145,21 +175,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
-      "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
-      "published_at": "2026-04-19T13:12:54Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition           Background               ...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png",
-      "source": "Dev.to",
-      "user": "Ranjan Dailata"
     },
     {
       "title": "Brain, Explained",
@@ -472,21 +487,6 @@
       "user": "Khe Ai"
     },
     {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -630,23 +630,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1228,
       "user": "Manavarya09"
-    },
-    {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 541,
-      "user": "assai-id"
     },
     {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
@@ -660,8 +645,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 544,
       "user": "ZeroZ-lab"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 542,
+      "user": "assai-id"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5463,
+      "stars": 5789,
       "user": "kyegomez"
     },
     {
@@ -690,8 +690,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4072,
+      "stars": 4132,
       "user": "browser-use"
+    },
+    {
+      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "published_at": "2026-04-15T13:45:41Z",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "source": "GitHub",
+      "stars": 1082,
+      "user": "codejunkie99"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -705,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1077,
       "user": "EvoLinkAI"
     },
     {
@@ -720,23 +735,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 700,
       "user": "xataio"
-    },
-    {
-      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "url": "https://github.com/Quorinex/Freebuff2API",
-      "published_at": "2026-04-18T01:08:34Z",
-      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "Quorinex"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -750,8 +750,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 403,
       "user": "432539"
+    },
+    {
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "Quorinex"
     }
   ],
   "JavaScript": [
@@ -857,21 +872,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1005,23 +1005,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1228,
       "user": "Manavarya09"
-    },
-    {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 541,
-      "user": "assai-id"
     },
     {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
@@ -1035,8 +1020,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 544,
       "user": "ZeroZ-lab"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 542,
+      "user": "assai-id"
     },
     {
       "title": "activetheory/activeframe - Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
@@ -1065,26 +1065,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "imtonyjaa"
     }
   ],
   "Python": [
-    {
-      "title": "Building a Smarter Hiring Engine: AI Recruiter with RAG, Memory & Web Search",
-      "url": "https://dev.to/ranjancse/building-a-smarter-hiring-engine-ai-recruiter-with-rag-memory-web-search-4fpe",
-      "published_at": "2026-04-19T13:12:54Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition           Background               ...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02ckjhz18r8hcgczczaw.png",
-      "source": "Dev.to",
-      "user": "Ranjan Dailata"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1217,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5463,
+      "stars": 5789,
       "user": "kyegomez"
     },
     {
@@ -1232,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4072,
+      "stars": 4132,
       "user": "browser-use"
     },
     {
@@ -1247,23 +1232,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3728,
+      "stars": 3767,
       "user": "Robbyant"
     },
     {
-      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "published_at": "2026-04-16T07:36:06Z",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "published_at": "2026-04-15T13:45:41Z",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1058,
-      "user": "wbh604"
+      "stars": 1082,
+      "user": "codejunkie99"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -1277,11 +1262,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1077,
       "user": "EvoLinkAI"
     }
   ],
   "DevOps": [
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
     {
       "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
       "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "Quorinex"
     }
   ],
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1228,
       "user": "Manavarya09"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 544,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1442,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1228,
       "user": "Manavarya09"
     }
   ],
@@ -1609,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 700,
       "user": "xataio"
     }
   ],
@@ -1730,6 +1730,21 @@
   ],
   "Tools": [
     {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
+    {
       "title": "Brain, Explained",
       "url": "https://dev.to/jimmymcbride/brain-explained-757",
       "published_at": "2026-04-18T01:33:27Z",
@@ -1829,23 +1844,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1228,
       "user": "Manavarya09"
-    },
-    {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 541,
-      "user": "assai-id"
     },
     {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
@@ -1859,8 +1859,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 544,
       "user": "ZeroZ-lab"
+    },
+    {
+      "title": "assai-id/nemesis - GitHub Repository",
+      "url": "https://github.com/assai-id/nemesis",
+      "published_at": "2026-04-16T07:00:13Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
+      "source": "GitHub",
+      "stars": 542,
+      "user": "assai-id"
     },
     {
       "title": "activetheory/activeframe - Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "imtonyjaa"
     },
     {
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 5463,
+      "stars": 5789,
       "user": "kyegomez"
     },
     {
@@ -1919,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4072,
+      "stars": 4132,
       "user": "browser-use"
     },
     {
@@ -1934,23 +1949,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 3728,
+      "stars": 3767,
       "user": "Robbyant"
     },
     {
-      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "published_at": "2026-04-16T07:36:06Z",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "published_at": "2026-04-15T13:45:41Z",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 1058,
-      "user": "wbh604"
+      "stars": 1082,
+      "user": "codejunkie99"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -1964,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1077,
       "user": "EvoLinkAI"
     },
     {
@@ -1979,23 +1994,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 700,
       "user": "xataio"
-    },
-    {
-      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "url": "https://github.com/Quorinex/Freebuff2API",
-      "published_at": "2026-04-18T01:08:34Z",
-      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "Quorinex"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -2009,8 +2009,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 403,
       "user": "432539"
+    },
+    {
+      "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "published_at": "2026-04-18T01:08:34Z",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "Quorinex"
     },
     {
       "title": "nutcas3/lets-bet - GitHub Repository",
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 68,
       "user": "nutcas3"
     },
     {
