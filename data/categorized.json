@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Stop Worrying and Love AI",
       "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
       "published_at": "2026-04-22T14:17:41Z",
@@ -272,21 +287,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
-      "published_at": "2026-04-14T21:55:29Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "azureaks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8693,
+      "stars": 8737,
       "user": "kyegomez"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4957,
+      "stars": 4980,
       "user": "browser-use"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1673,
       "user": "EvoLinkAI"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "brexhq"
     }
   ],
@@ -1007,22 +1007,37 @@
       "user": "simoncirstoiu"
     },
     {
-      "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
-      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
-      "published_at": "2026-04-19T15:36:46Z",
-      "description": "a ggemu.com (play retro games online) sdk example",
+      "title": "vuciv/artblock - Every ad on the internet, replaced with fine art from public museum and NASA collections.",
+      "url": "https://github.com/vuciv/artblock",
+      "published_at": "2026-04-20T03:15:35Z",
+      "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 161,
-      "user": "imtonyjaa"
+      "stars": 164,
+      "user": "vuciv"
     }
   ],
   "Python": [
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Installing pygame for IDLE on Mac",
       "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
@@ -1170,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8693,
+      "stars": 8737,
       "user": "kyegomez"
     },
     {
@@ -1185,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4957,
+      "stars": 4980,
       "user": "browser-use"
     },
     {
@@ -1200,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1673,
       "user": "EvoLinkAI"
     },
     {
@@ -1230,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 828,
       "user": "the-hidden-fish"
     }
   ],
@@ -1414,6 +1429,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build your own blog post view counter on AWS Free Tier",
       "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
       "published_at": "2026-04-21T19:35:19Z",
@@ -1515,21 +1545,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
-      "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
-      "published_at": "2026-04-14T21:55:29Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googleadk",
-        "gemini",
-        "geminilive",
-        "azureaks"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1890,19 +1905,19 @@
       "user": "simoncirstoiu"
     },
     {
-      "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
-      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
-      "published_at": "2026-04-19T15:36:46Z",
-      "description": "a ggemu.com (play retro games online) sdk example",
+      "title": "vuciv/artblock - Every ad on the internet, replaced with fine art from public museum and NASA collections.",
+      "url": "https://github.com/vuciv/artblock",
+      "published_at": "2026-04-20T03:15:35Z",
+      "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 161,
-      "user": "imtonyjaa"
+      "stars": 164,
+      "user": "vuciv"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -1916,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8693,
+      "stars": 8737,
       "user": "kyegomez"
     },
     {
@@ -1931,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4957,
+      "stars": 4980,
       "user": "browser-use"
     },
     {
@@ -1946,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1673,
       "user": "EvoLinkAI"
     },
     {
@@ -1976,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 828,
       "user": "the-hidden-fish"
     },
     {
@@ -2021,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "brexhq"
     },
     {
@@ -2036,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "londek"
     },
     {
