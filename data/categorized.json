@@ -1,6 +1,33 @@
 {
   "AI": [
     {
+      "title": "Stop Worrying and Love AI",
+      "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
+      "published_at": "2026-04-22T14:17:41Z",
+      "description": "How to replace existential dread for the future of software development with hope for your own future",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp",
+      "source": "Dev.to",
+      "user": "Ryan Kahn"
+    },
+    {
+      "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
+      "url": "https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2",
+      "published_at": "2026-04-22T09:40:52Z",
+      "description": "Meta: Understand the common code-based security vulnerabilities, from SQL injection to XSS, and how...",
+      "tags": [
+        "ai",
+        "security",
+        "vulnerabilities",
+        "code"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7ijw8unazlc8wzyrxjs.png",
+      "source": "Dev.to",
+      "user": "Damilola Oshungboye"
+    },
+    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -45,6 +72,36 @@
       "user": "Simme"
     },
     {
+      "title": "I built a WordPress plugin that generates llms.txt from your sitemap",
+      "url": "https://dev.to/lboneluv/i-built-a-wordpress-plugin-that-generates-llmstxt-from-your-sitemap-idp",
+      "published_at": "2026-04-21T19:56:54Z",
+      "description": "If you've been following the GEO (Generative Engine Optimization) space, you've probably heard of...",
+      "tags": [
+        "wordpress",
+        "php",
+        "seo",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4j9xxmnoxjg696f1bu8.png",
+      "source": "Dev.to",
+      "user": "José Manuel Ramírez"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
+    },
+    {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
       "published_at": "2026-04-20T12:59:00Z",
@@ -58,6 +115,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
       "source": "Dev.to",
       "user": "Steve Emmerich"
+    },
+    {
+      "title": "Large Language Models and the Chinese Room",
+      "url": "https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d",
+      "published_at": "2026-04-21T10:08:00Z",
+      "description": "It’s very easy to fool humans. We love to fill in gaps.  We see patterns and assume intelligence. We...",
+      "tags": [
+        "ai",
+        "llms",
+        "development"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fwp-1582925757078.jpg%3Fw%3D1200",
+      "source": "Dev.to",
+      "user": "Craig Nicol (he/him)"
     },
     {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
@@ -218,80 +289,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini",
-      "url": "https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih",
-      "published_at": "2026-04-19T14:20:42Z",
-      "description": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard +...",
-      "tags": [
-        "weekendchallenge",
-        "webdev",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg",
-      "source": "Dev.to",
-      "user": "Dev Rajput"
-    },
-    {
-      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
-      "published_at": "2026-04-16T15:38:54Z",
-      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84",
-      "published_at": "2026-04-19T01:17:31Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "multiagent",
-        "gemini",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
-      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
-      "published_at": "2026-04-21T05:22:52Z",
-      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
-      "tags": [
-        "gemini",
-        "ai",
-        "typescript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
@@ -601,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "assai-id"
     },
     {
@@ -616,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "simoncirstoiu"
     },
     {
@@ -631,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8644,
+      "stars": 8693,
       "user": "kyegomez"
     },
     {
@@ -646,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4927,
+      "stars": 4957,
       "user": "browser-use"
     },
     {
@@ -661,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 1666,
       "user": "EvoLinkAI"
     },
     {
@@ -676,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 786,
       "user": "432539"
     },
     {
@@ -706,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "brexhq"
     }
   ],
@@ -725,21 +722,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
-    },
-    {
-      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
-      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
-      "published_at": "2026-04-21T05:22:52Z",
-      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
-      "tags": [
-        "gemini",
-        "ai",
-        "typescript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "I got tired of copy-pasting the same table code, so I built a library",
@@ -991,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "assai-id"
     },
     {
@@ -1021,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "simoncirstoiu"
     },
     {
@@ -1041,6 +1023,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Installing pygame for IDLE on Mac",
+      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
+      "published_at": "2026-04-21T19:13:08Z",
+      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
+      "tags": [
+        "beginners",
+        "gamedev",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
+      "source": "Dev.to",
+      "user": "David Newberry"
+    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1173,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8644,
+      "stars": 8693,
       "user": "kyegomez"
     },
     {
@@ -1188,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4927,
+      "stars": 4957,
       "user": "browser-use"
     },
     {
@@ -1203,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 1666,
       "user": "EvoLinkAI"
     },
     {
@@ -1233,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 819,
       "user": "the-hidden-fish"
     }
   ],
@@ -1251,6 +1248,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
       "source": "Dev.to",
       "user": "Mateusz Woźniak"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     },
     {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
@@ -1447,6 +1459,21 @@
       "user": "Tomaz Lemos"
     },
     {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
+    },
+    {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
       "published_at": "2026-04-20T12:59:00Z",
@@ -1507,21 +1534,6 @@
       "user": "xbill"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84",
-      "published_at": "2026-04-19T01:17:31Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "multiagent",
-        "gemini",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
       "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
       "published_at": "2026-04-20T16:50:30Z",
@@ -1553,6 +1565,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
+      "url": "https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2",
+      "published_at": "2026-04-22T09:40:52Z",
+      "description": "Meta: Understand the common code-based security vulnerabilities, from SQL injection to XSS, and how...",
+      "tags": [
+        "ai",
+        "security",
+        "vulnerabilities",
+        "code"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7ijw8unazlc8wzyrxjs.png",
+      "source": "Dev.to",
+      "user": "Damilola Oshungboye"
+    },
     {
       "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
       "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
@@ -1611,6 +1638,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
+      "url": "https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2",
+      "published_at": "2026-04-22T09:40:52Z",
+      "description": "Meta: Understand the common code-based security vulnerabilities, from SQL injection to XSS, and how...",
+      "tags": [
+        "ai",
+        "security",
+        "vulnerabilities",
+        "code"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7ijw8unazlc8wzyrxjs.png",
+      "source": "Dev.to",
+      "user": "Damilola Oshungboye"
+    },
     {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
@@ -1814,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "assai-id"
     },
     {
@@ -1844,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "simoncirstoiu"
     },
     {
@@ -1874,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8644,
+      "stars": 8693,
       "user": "kyegomez"
     },
     {
@@ -1889,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4927,
+      "stars": 4957,
       "user": "browser-use"
     },
     {
@@ -1904,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 1666,
       "user": "EvoLinkAI"
     },
     {
@@ -1934,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 819,
       "user": "the-hidden-fish"
     },
     {
@@ -1949,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 786,
       "user": "432539"
     },
     {
@@ -1979,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "brexhq"
     },
     {
@@ -1994,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "londek"
     },
     {
@@ -2009,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24260?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "montanaflynn"
     }
   ]
