@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-21-orange)
+![Languages](https://img.shields.io/badge/Languages-4-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-22-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 54 (51.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -36,17 +36,15 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Cloud**: 🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
 **Security**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
-
-**Mobile**:  1 (1.0%)
 
 
 
@@ -60,12 +58,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.9 (28.9%)
-Go              █████████████████████████████ 27.7 (27.7%)
-Java            ████████████████████████ 22.9 (22.9%)
-Python          ███████████████████ 18.1 (18.1%)
-Swift           █ 1.2 (1.2%)
-Kotlin          █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 29.6 (29.6%)
+Go              █████████████████████████████ 28.4 (28.4%)
+Java            ████████████████████████ 23.5 (23.5%)
+Python          ███████████████████ 18.5 (18.5%)
 
 ```
 
@@ -75,15 +71,13 @@ pie title Programming Languages Distribution
     "Go" : 23
     "Java" : 19
     "Python" : 15
-    "Swift" : 1
-    "Kotlin" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
 
 
 
@@ -123,7 +117,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-22 1:00 CAT)
+## 📅 Latest Updates (2026-04-22 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +134,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png" width="200" alt="Atomic Scaffolding: How scbake Prevents Configuration Mishaps" />
-      <br/>
-      <b>Atomic Scaffolding: How scbake Prevents Configurat...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2679bjqfh2v9ypiktio0.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
@@ -157,13 +142,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png" width="200" alt="What To Do If Your Project Was Affected By The Vercel Breach" />
       <br/>
       <b>What To Do If Your Project Was Affected By The Ver...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png" width="200" alt="Atomic Scaffolding: How scbake Prevents Configuration Mishaps" />
+      <br/>
+      <b>Atomic Scaffolding: How scbake Prevents Configurat...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,9 +188,9 @@ npm run test
 ### 📰 Top Headlines
 
 - [Build your own blog post view counter on AWS Free Tier](https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f) _[Dev.to]_
-- [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
 - [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
+- [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo) _[Dev.to]_
 - [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli) _[Dev.to]_
 - [Add Telephony to a Gemini Live Agent with Twilio](https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc) _[Dev.to]_
@@ -214,7 +208,7 @@ npm run test
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 - [EcoDo AI: Making Earth a Little Less Heavy 🌍✨](https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic) _[Dev.to]_
 
-_Last automated update: Wed, 22 Apr 2026 01:50:51 CAT_
+_Last automated update: Wed, 22 Apr 2026 04:10:10 CAT_
 
 
 
@@ -222,36 +216,36 @@ _Last automated update: Wed, 22 Apr 2026 01:50:51 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -285,7 +279,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 21 Apr 2026 23:50:51 GMT</b><br/>
+  <b>Last automated update: Wed, 22 Apr 2026 02:10:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
