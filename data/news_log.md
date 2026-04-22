@@ -1439528,3 +1439528,853 @@ a ggemu.com (play retro games online) sdk example
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-22 12:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (52 articles)
+
+#### 1. [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli)
+📅 Tue, 21 Apr 2026 15:41:50 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![Migrating vector embeddings in production without downtime](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png)
+
+In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...
+
+🏷️ Tags: `rag`, `ai`, `vectordatabase`, `programming`
+
+---
+
+#### 2. [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo)
+📅 Tue, 21 Apr 2026 13:51:38 GMT
+👤 By: Emin Salih Açıkgöz | 📌 Source: Dev.to
+
+![Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png)
+
+Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...
+
+🏷️ Tags: `go`, `devops`, `opensource`, `tools`
+
+---
+
+#### 3. [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo)
+📅 Mon, 20 Apr 2026 16:11:30 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![TPU Mythbusting: vendor lock-in](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp)
+
+Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...
+
+🏷️ Tags: `tpu`, `googlecloud`, `ai`, `gcp`
+
+---
+
+#### 4. [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm)
+📅 Mon, 20 Apr 2026 08:30:19 GMT
+👤 By: Mateusz Woźniak | 📌 Source: Dev.to
+
+![I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png)
+
+I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.
+
+🏷️ Tags: `database`, `postgres`, `selfhosted`
+
+---
+
+#### 5. [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca)
+📅 Sun, 19 Apr 2026 18:02:48 GMT
+👤 By: Simme | 📌 Source: Dev.to
+
+![Boring code is an organizational tell](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png)
+
+If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...
+
+🏷️ Tags: `ai`, `leadership`, `culture`, `management`
+
+---
+
+#### 6. [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn)
+📅 Mon, 20 Apr 2026 12:59:00 GMT
+👤 By: Steve Emmerich | 📌 Source: Dev.to
+
+![I Built a BaaS Where AI Agents Can Onboard Themselves](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png)
+
+Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.
+
+🏷️ Tags: `ai`, `agents`, `cloudflare`, `startup`
+
+---
+
+#### 7. [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8)
+📅 Fri, 17 Apr 2026 13:18:29 GMT
+👤 By: James Candan | 📌 Source: Dev.to
+
+![Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png)
+
+Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...
+
+🏷️ Tags: `drupal`, `ai`, `vibecoding`
+
+---
+
+#### 8. [Add Telephony to a Gemini Live Agent with Twilio](https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc)
+📅 Tue, 21 Apr 2026 14:36:54 GMT
+👤 By: Thor 雷神 Schaeff | 📌 Source: Dev.to
+
+![Add Telephony to a Gemini Live Agent with Twilio](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png)
+
+Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...
+
+🏷️ Tags: `ai`, `voice`, `telephony`, `gemini`
+
+---
+
+#### 9. [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9)
+📅 Sun, 19 Apr 2026 06:21:26 GMT
+👤 By: Setiaji | 📌 Source: Dev.to
+
+![I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png)
+
+This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...
+
+🏷️ Tags: `devchallenge`, `weekendchallenge`
+
+---
+
+#### 10. [Orchestrating Agents via ADK for TypeScript and Gemini CLI](https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco)
+📅 Tue, 21 Apr 2026 05:22:52 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Orchestrating Agents via ADK for TypeScript and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png)
+
+Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...
+
+🏷️ Tags: `gemini`, `ai`, `typescript`, `adk`
+
+---
+
+### 🏷️ JavaScript (24 articles)
+
+#### 1. [Orchestrating Agents via ADK for TypeScript and Gemini CLI](https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco)
+📅 Tue, 21 Apr 2026 05:22:52 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Orchestrating Agents via ADK for TypeScript and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png)
+
+Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...
+
+🏷️ Tags: `gemini`, `ai`, `typescript`, `adk`
+
+---
+
+#### 2. [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+📅 Fri, 17 Apr 2026 18:38:12 GMT
+👤 By: Oladele David  | 📌 Source: Dev.to
+
+![Designing Multi-Tenant Backends With Both Ownership and Team Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png)
+
+A practical architecture pattern for systems where one user can own, join, and operate multiple...
+
+🏷️ Tags: `nestjs`, `javascript`, `architecture`, `backend`
+
+---
+
+#### 3. [I got tired of copy-pasting the same table code, so I built a library](https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l)
+📅 Mon, 20 Apr 2026 08:56:21 GMT
+👤 By: Zonaib Bokhari | 📌 Source: Dev.to
+
+![I got tired of copy-pasting the same table code, so I built a library](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png)
+
+Every Angular project I've worked on has a table. Usually more than one. And every single time I end...
+
+🏷️ Tags: `angular`, `typescript`, `webdev`, `opensource`
+
+---
+
+#### 4. [I built an API in C, couldn't document it, so I accidentally created an open-source tool](https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn)
+📅 Sun, 19 Apr 2026 13:59:58 GMT
+👤 By: Laura Durieux | 📌 Source: Dev.to
+
+![I built an API in C, couldn't document it, so I accidentally created an open-source tool](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png)
+
+It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...
+
+🏷️ Tags: `webdev`, `programming`, `javascript`, `opensource`
+
+---
+
+#### 5. [You’re a Real Software Developer Only If…](https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8)
+📅 Thu, 09 Apr 2026 21:07:21 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![You’re a Real Software Developer Only If…](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png)
+
+Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...
+
+🏷️ Tags: `jokes`, `devlive`
+
+---
+
+#### 6. [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
+📅 Thu, 09 Apr 2026 17:15:51 GMT
+👤 By: Calebe Aires | 📌 Source: Dev.to
+
+![A Go + React monorepo starter with auth and multi-tenancy](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png)
+
+A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.
+
+🏷️ Tags: `go`, `react`, `webdev`, `opensource`
+
+---
+
+#### 7. [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m)
+📅 Thu, 09 Apr 2026 01:19:42 GMT
+👤 By: Sofiane Hamlaoui | 📌 Source: Dev.to
+
+![EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png)
+
+Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...
+
+🏷️ Tags: `sofianehamlaoui`, `aws`, `tutorial`, `programming`
+
+---
+
+#### 8. [You Don’t Always Need React — Sometimes You Just Need Structure](https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j)
+📅 Mon, 13 Apr 2026 16:51:07 GMT
+👤 By: Volker Schukai | 📌 Source: Dev.to
+
+![You Don’t Always Need React — Sometimes You Just Need Structure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png)
+
+A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.
+
+🏷️ Tags: `javascript`, `webdev`, `opensource`, `webcomponents`
+
+---
+
+#### 9. [I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme)
+📅 Sat, 04 Apr 2026 01:49:02 GMT
+👤 By: Rob Simpson | 📌 Source: Dev.to
+
+![I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png)
+
+After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.
+
+🏷️ Tags: `typescript`, `eslint`, `ai`, `llm`
+
+---
+
+#### 10. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (15 articles)
+
+#### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 2. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+📅 Wed, 07 May 2025 17:32:26 GMT
+👤 By: arathore | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Python Is Eating the World](https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/)
+📅 Mon, 12 Aug 2019 03:00:14 GMT
+👤 By: gilad | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (4 articles)
+
+#### 1. [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo)
+📅 Tue, 21 Apr 2026 13:51:38 GMT
+👤 By: Emin Salih Açıkgöz | 📌 Source: Dev.to
+
+![Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png)
+
+Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...
+
+🏷️ Tags: `go`, `devops`, `opensource`, `tools`
+
+---
+
+#### 2. [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm)
+📅 Mon, 20 Apr 2026 08:30:19 GMT
+👤 By: Mateusz Woźniak | 📌 Source: Dev.to
+
+![I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png)
+
+I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.
+
+🏷️ Tags: `database`, `postgres`, `selfhosted`
+
+---
+
+#### 3. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 4. [Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.](https://github.com/Quorinex/Freebuff2API)
+📅 Sat, 18 Apr 2026 01:08:34 GMT
+👤 By: Quorinex | 📌 Source: GitHub
+
+![Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.](https://avatars.githubusercontent.com/u/257893540?v=4)
+
+🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 380
+
+---
+
+### 🏷️ WebDev (6 articles)
+
+#### 1. [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+📅 Fri, 17 Apr 2026 18:38:12 GMT
+👤 By: Oladele David  | 📌 Source: Dev.to
+
+![Designing Multi-Tenant Backends With Both Ownership and Team Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png)
+
+A practical architecture pattern for systems where one user can own, join, and operate multiple...
+
+🏷️ Tags: `nestjs`, `javascript`, `architecture`, `backend`
+
+---
+
+#### 2. [Partial Password Authentication](https://dev.to/muhamadhhassan/partial-password-authentication-34j4)
+📅 Tue, 14 Apr 2026 21:23:40 GMT
+👤 By: Muhammad Hassan | 📌 Source: Dev.to
+
+![Partial Password Authentication](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png)
+
+Recently, I switched to another bank, and after setting up the online banking credentials and trying...
+
+🏷️ Tags: `security`, `backend`
+
+---
+
+#### 3. [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee)
+📅 Thu, 16 Apr 2026 21:34:36 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Congrats to the 2026 WeCoded Challenge Winners!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg)
+
+The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...
+
+🏷️ Tags: `devchallenge`, `wecoded`, `frontend`, `career`
+
+---
+
+#### 4. [You Don’t Always Need React — Sometimes You Just Need Structure](https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j)
+📅 Mon, 13 Apr 2026 16:51:07 GMT
+👤 By: Volker Schukai | 📌 Source: Dev.to
+
+![You Don’t Always Need React — Sometimes You Just Need Structure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png)
+
+A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.
+
+🏷️ Tags: `javascript`, `webdev`, `opensource`, `webcomponents`
+
+---
+
+#### 5. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents](https://github.com/ZeroZ-lab/cc-design)
+📅 Sun, 19 Apr 2026 01:35:57 GMT
+👤 By: ZeroZ-lab | 📌 Source: GitHub
+
+![ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents](https://avatars.githubusercontent.com/u/12062960?v=4)
+
+High-fidelity HTML design and prototype guidance skill for AI agents
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 585
+
+---
+
+### 🏷️ Cloud (10 articles)
+
+#### 1. [Build your own blog post view counter on AWS Free Tier](https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f)
+📅 Tue, 21 Apr 2026 19:35:19 GMT
+👤 By: Esin Saribudak | 📌 Source: Dev.to
+
+![Build your own blog post view counter on AWS Free Tier](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg)
+
+Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...
+
+🏷️ Tags: `beginners`, `lambda`, `dynamodb`, `tutorial`
+
+---
+
+#### 2. [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo)
+📅 Mon, 20 Apr 2026 16:11:30 GMT
+👤 By: Maciej Strzelczyk | 📌 Source: Dev.to
+
+![TPU Mythbusting: vendor lock-in](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp)
+
+Tensor Processing Units are a technology developed and owned by Google. While you can find GPUs in...
+
+🏷️ Tags: `tpu`, `googlecloud`, `ai`, `gcp`
+
+---
+
+#### 3. [What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS](https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7)
+📅 Mon, 20 Apr 2026 05:13:54 GMT
+👤 By: Tomaz Lemos | 📌 Source: Dev.to
+
+![What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomazfernandes.dev%2Fposts%2Ffrom-sqslistener-to-your-method%2Findex.png)
+
+A walkthrough of the full SQS listener lifecycle in Spring Cloud AWS SQS, from annotation detection at startup to the composable async pipeline that polls, processes, and acknowledges every message.
+
+🏷️ Tags: `java`, `spring`, `aws`, `sqs`
+
+---
+
+#### 4. [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn)
+📅 Mon, 20 Apr 2026 12:59:00 GMT
+👤 By: Steve Emmerich | 📌 Source: Dev.to
+
+![I Built a BaaS Where AI Agents Can Onboard Themselves](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png)
+
+Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.
+
+🏷️ Tags: `ai`, `agents`, `cloudflare`, `startup`
+
+---
+
+#### 5. [Processing long running events on AWS API Gateway](https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4)
+📅 Fri, 17 Apr 2026 08:19:51 GMT
+👤 By: Evertson Croes | 📌 Source: Dev.to
+
+![Processing long running events on AWS API Gateway](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrpzqe4wlyh1ofbtost9.png)
+
+Processing long running events on AWS API Gateway   AWS API Gateway is a managed HTTP/REST...
+
+🏷️ Tags: `aws`, `apigateway`, `architecture`, `eventdriven`
+
+---
+
+#### 6. [Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a)
+📅 Wed, 08 Apr 2026 13:15:23 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googlecloudplatform`, `adk`, `gemini`, `azure`
+
+---
+
+#### 7. [Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1](https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5)
+📅 Tue, 14 Apr 2026 21:55:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...
+
+🏷️ Tags: `googleadk`, `gemini`, `geminilive`, `azureaks`
+
+---
+
+#### 8. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aci-and-gemini-cli-1k84)
+📅 Sun, 19 Apr 2026 01:17:31 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACI, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `googleadk`, `multiagent`, `gemini`, `a2a`
+
+---
+
+#### 9. [Watch Google Cloud NEXT Live Right Here on DEV!](https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h)
+📅 Mon, 20 Apr 2026 16:50:30 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![Watch Google Cloud NEXT Live Right Here on DEV!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg)
+
+Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....
+
+🏷️ Tags: `googlecloud`, `google`, `ai`, `cloud`
+
+---
+
+#### 10. [EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m)
+📅 Thu, 09 Apr 2026 01:19:42 GMT
+👤 By: Sofiane Hamlaoui | 📌 Source: Dev.to
+
+![EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png)
+
+Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...
+
+🏷️ Tags: `sofianehamlaoui`, `aws`, `tutorial`, `programming`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli)
+📅 Tue, 21 Apr 2026 15:41:50 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![Migrating vector embeddings in production without downtime](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png)
+
+In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...
+
+🏷️ Tags: `rag`, `ai`, `vectordatabase`, `programming`
+
+---
+
+#### 2. [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm)
+📅 Mon, 20 Apr 2026 08:30:19 GMT
+👤 By: Mateusz Woźniak | 📌 Source: Dev.to
+
+![I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png)
+
+I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.
+
+🏷️ Tags: `database`, `postgres`, `selfhosted`
+
+---
+
+#### 3. [The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal](https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73)
+📅 Mon, 13 Apr 2026 04:23:13 GMT
+👤 By:  Ramakrishna Chilaka | 📌 Source: Dev.to
+
+![The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png)
+
+Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...
+
+🏷️ Tags: `rust`, `sql`, `database`, `elasticsearch`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (6 articles)
+
+#### 1. [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76)
+📅 Tue, 21 Apr 2026 11:57:58 GMT
+👤 By: Dumebi Okolo | 📌 Source: Dev.to
+
+![What To Do If Your Project Was Affected By The Vercel Breach](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png)
+
+Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....
+
+🏷️ Tags: `webdev`, `security`, `tutorial`, `beginners`
+
+---
+
+#### 2. [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh)
+📅 Mon, 20 Apr 2026 02:49:24 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png)
+
+If you deploy on Vercel, todays headlines about a security incident might have caused some stress....
+
+🏷️ Tags: `ai`, `vercel`, `security`, `hack`
+
+---
+
+#### 3. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 4. [Partial Password Authentication](https://dev.to/muhamadhhassan/partial-password-authentication-34j4)
+📅 Tue, 14 Apr 2026 21:23:40 GMT
+👤 By: Muhammad Hassan | 📌 Source: Dev.to
+
+![Partial Password Authentication](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png)
+
+Recently, I switched to another bank, and after setting up the online banking credentials and trying...
+
+🏷️ Tags: `security`, `backend`
+
+---
+
+#### 5. [Mastering Error Handling in Go](https://dev.to/adi73/mastering-error-handling-in-go-400g)
+📅 Thu, 09 Apr 2026 13:54:17 GMT
+👤 By: Aditya | 📌 Source: Dev.to
+
+![Mastering Error Handling in Go](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png)
+
+Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...
+
+🏷️ Tags: `go`, `programming`, `tutorial`, `security`
+
+---
+
+#### 6. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (21 articles)
+
+#### 1. [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo)
+📅 Tue, 21 Apr 2026 13:51:38 GMT
+👤 By: Emin Salih Açıkgöz | 📌 Source: Dev.to
+
+![Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png)
+
+Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...
+
+🏷️ Tags: `go`, `devops`, `opensource`, `tools`
+
+---
+
+#### 2. [Why Do I Keep Killing My Side Projects?](https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh)
+📅 Mon, 20 Apr 2026 05:20:35 GMT
+👤 By: Ender Ahmet Yurt | 📌 Source: Dev.to
+
+![Why Do I Keep Killing My Side Projects?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjz456n9hmitex1za1vp.jpeg)
+
+Two projects, two deaths. At some point, you need to stop blaming circumstances and start asking harder questions.
+
+🏷️ Tags: `sideprojects`, `career`, `productivity`
+
+---
+
+#### 3. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 4. [I built an API in C, couldn't document it, so I accidentally created an open-source tool](https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn)
+📅 Sun, 19 Apr 2026 13:59:58 GMT
+👤 By: Laura Durieux | 📌 Source: Dev.to
+
+![I built an API in C, couldn't document it, so I accidentally created an open-source tool](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png)
+
+It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...
+
+🏷️ Tags: `webdev`, `programming`, `javascript`, `opensource`
+
+---
+
+#### 5. [I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read](https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j)
+📅 Fri, 17 Apr 2026 19:26:57 GMT
+👤 By: Abhishek | 📌 Source: Dev.to
+
+![I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png)
+
+Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...
+
+🏷️ Tags: `ai`, `learning`, `productivity`, `startup`
+
+---
+
+#### 6. [The Final 1% of Every GitHub Project: Sealing It Properly](https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app)
+📅 Sat, 11 Apr 2026 15:55:53 GMT
+👤 By: Giorgi Kobaidze | 📌 Source: Dev.to
+
+![The Final 1% of Every GitHub Project: Sealing It Properly](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg)
+
+Table of Contents    Introduction What Does It Mean to "Seal" a Project?  The Release...
+
+🏷️ Tags: `github`, `opensource`, `development`, `repository`
+
+---
+
+#### 7. [ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents](https://github.com/ZeroZ-lab/cc-design)
+📅 Sun, 19 Apr 2026 01:35:57 GMT
+👤 By: ZeroZ-lab | 📌 Source: GitHub
+
+![ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents](https://avatars.githubusercontent.com/u/12062960?v=4)
+
+High-fidelity HTML design and prototype guidance skill for AI agents
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 585
+
+---
+
+#### 8. [assai-id/nemesis - GitHub Repository](https://github.com/assai-id/nemesis)
+📅 Thu, 16 Apr 2026 07:00:13 GMT
+👤 By: assai-id | 📌 Source: GitHub
+
+![assai-id/nemesis - GitHub Repository](https://avatars.githubusercontent.com/u/275414185?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 569
+
+---
+
+#### 9. [Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ](https://github.com/Ledger-Wallet-LLC/ledgerwallet)
+📅 Sun, 19 Apr 2026 21:09:49 GMT
+👤 By: Ledger-Wallet-LLC | 📌 Source: GitHub
+
+![Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ](https://avatars.githubusercontent.com/u/277556627?v=4)
+
+Official Ledger Wallet Repository 
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 281
+
+---
+
+#### 10. [imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example](https://github.com/imtonyjaa/ggemu-fishing-joy)
+📅 Sun, 19 Apr 2026 15:36:46 GMT
+👤 By: imtonyjaa | 📌 Source: GitHub
+
+![imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example](https://avatars.githubusercontent.com/u/208459185?v=4)
+
+a ggemu.com (play retro games online) sdk example
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 160
+
+---
+
