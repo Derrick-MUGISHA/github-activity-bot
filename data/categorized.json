@@ -16,21 +16,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -203,6 +188,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 575,
       "user": "assai-id"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "simoncirstoiu"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8432,
+      "stars": 8505,
       "user": "kyegomez"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4862,
+      "stars": 4891,
       "user": "browser-use"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1631,
       "user": "EvoLinkAI"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 783,
       "user": "432539"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 287,
       "user": "brexhq"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 575,
       "user": "assai-id"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "simoncirstoiu"
     }
   ],
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8432,
+      "stars": 8505,
       "user": "kyegomez"
     },
     {
@@ -1203,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4862,
+      "stars": 4891,
       "user": "browser-use"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1631,
       "user": "EvoLinkAI"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1155,
       "user": "wbh604"
     },
     {
@@ -1248,26 +1248,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 753,
       "user": "the-hidden-fish"
     }
   ],
   "DevOps": [
-    {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
     {
       "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
       "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
@@ -1296,6 +1281,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -1714,21 +1714,6 @@
   ],
   "Tools": [
     {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1742,6 +1727,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 575,
       "user": "assai-id"
     },
     {
@@ -1874,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "simoncirstoiu"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8432,
+      "stars": 8505,
       "user": "kyegomez"
     },
     {
@@ -1904,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4862,
+      "stars": 4891,
       "user": "browser-use"
     },
     {
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1631,
       "user": "EvoLinkAI"
     },
     {
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1155,
       "user": "wbh604"
     },
     {
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 753,
       "user": "the-hidden-fish"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 783,
       "user": "432539"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 287,
       "user": "brexhq"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "londek"
     },
     {
