@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
       "title": "Migrating vector embeddings in production without downtime",
       "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
       "published_at": "2026-04-21T15:41:50Z",
@@ -29,21 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Add Telephony to a Gemini Live Agent with Twilio",
-      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
-      "published_at": "2026-04-21T14:36:54Z",
-      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
-      "tags": [
-        "ai",
-        "voice",
-        "telephony",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "TPU Mythbusting: vendor lock-in",
@@ -90,6 +60,21 @@
       "user": "Simme"
     },
     {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
+    {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
       "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
       "published_at": "2026-04-20T12:59:00Z",
@@ -119,6 +104,21 @@
       "user": "James Candan"
     },
     {
+      "title": "Add Telephony to a Gemini Live Agent with Twilio",
+      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
+      "published_at": "2026-04-21T14:36:54Z",
+      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
+      "tags": [
+        "ai",
+        "voice",
+        "telephony",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
       "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
       "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
       "published_at": "2026-04-19T06:21:26Z",
@@ -145,21 +145,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15",
-      "published_at": "2026-04-16T18:48:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "azure",
-        "adk",
-        "multiagentsystems",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqt7gu1e6q371roqkeh7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
@@ -473,6 +458,21 @@
       "user": "Rob Simpson"
     },
     {
+      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
+      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
+      "published_at": "2026-04-13T04:23:13Z",
+      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
+      "tags": [
+        "rust",
+        "sql",
+        "database",
+        "elasticsearch"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
+      "source": "Dev.to",
+      "user": " Ramakrishna Chilaka"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 574,
       "user": "ZeroZ-lab"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 560,
       "user": "assai-id"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "simoncirstoiu"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7423,
       "user": "kyegomez"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4485,
+      "stars": 4566,
       "user": "browser-use"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1279,
       "user": "EvoLinkAI"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 620,
       "user": "432539"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 182,
       "user": "brexhq"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 574,
       "user": "ZeroZ-lab"
     },
     {
@@ -1036,8 +1036,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 560,
       "user": "assai-id"
+    },
+    {
+      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
+      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
+      "published_at": "2026-04-19T21:09:49Z",
+      "description": "Official Ledger Wallet Repository ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "Ledger-Wallet-LLC"
     },
     {
       "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
@@ -1055,21 +1070,6 @@
       "user": "imtonyjaa"
     },
     {
-      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
-      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
-      "published_at": "2026-04-19T21:09:49Z",
-      "description": "Official Ledger Wallet Repository ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "Ledger-Wallet-LLC"
-    },
-    {
       "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
       "url": "https://github.com/simoncirstoiu/alice",
       "published_at": "2026-04-19T09:32:31Z",
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "simoncirstoiu"
     }
   ],
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7423,
       "user": "kyegomez"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4485,
+      "stars": 4566,
       "user": "browser-use"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1279,
       "user": "EvoLinkAI"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1102,
       "user": "wbh604"
     },
     {
@@ -1278,11 +1278,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 580,
       "user": "the-hidden-fish"
     }
   ],
   "DevOps": [
+    {
+      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
+      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
+      "published_at": "2026-04-20T08:30:19Z",
+      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
+      "tags": [
+        "database",
+        "postgres",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
+      "source": "Dev.to",
+      "user": "Mateusz Woźniak"
+    },
     {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
       "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
@@ -1297,20 +1311,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
-    },
-    {
-      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
-      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
-      "published_at": "2026-04-20T08:30:19Z",
-      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
-      "tags": [
-        "database",
-        "postgres",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
-      "source": "Dev.to",
-      "user": "Mateusz Woźniak"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 574,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1491,21 +1491,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
       "source": "Dev.to",
       "user": "Steve Emmerich"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure ACA, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aca-and-gemini-cli-m15",
-      "published_at": "2026-04-16T18:48:19Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "azure",
-        "adk",
-        "multiagentsystems",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqt7gu1e6q371roqkeh7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Processing long running events on AWS API Gateway",
@@ -1627,6 +1612,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
       "source": "Dev.to",
       "user": "Mateusz Woźniak"
+    },
+    {
+      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
+      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
+      "published_at": "2026-04-13T04:23:13Z",
+      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
+      "tags": [
+        "rust",
+        "sql",
+        "database",
+        "elasticsearch"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
+      "source": "Dev.to",
+      "user": " Ramakrishna Chilaka"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 574,
       "user": "ZeroZ-lab"
     },
     {
@@ -1845,8 +1845,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 560,
       "user": "assai-id"
+    },
+    {
+      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
+      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
+      "published_at": "2026-04-19T21:09:49Z",
+      "description": "Official Ledger Wallet Repository ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "Ledger-Wallet-LLC"
     },
     {
       "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
@@ -1864,21 +1879,6 @@
       "user": "imtonyjaa"
     },
     {
-      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
-      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
-      "published_at": "2026-04-19T21:09:49Z",
-      "description": "Official Ledger Wallet Repository ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "Ledger-Wallet-LLC"
-    },
-    {
       "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
       "url": "https://github.com/simoncirstoiu/alice",
       "published_at": "2026-04-19T09:32:31Z",
@@ -1890,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "simoncirstoiu"
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7423,
       "user": "kyegomez"
     },
     {
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4485,
+      "stars": 4566,
       "user": "browser-use"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1279,
       "user": "EvoLinkAI"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1102,
       "user": "wbh604"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 580,
       "user": "the-hidden-fish"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 620,
       "user": "432539"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 182,
       "user": "brexhq"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 68,
       "user": "londek"
     },
     {
