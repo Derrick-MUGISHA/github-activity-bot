@@ -6,13 +6,13 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 54,
+    "AI": 53,
     "JavaScript": 24,
     "Python": 15,
     "DevOps": 4,
-    "WebDev": 7,
-    "Mobile": 1,
-    "Cloud": 12,
+    "WebDev": 6,
+    "Mobile": 0,
+    "Cloud": 11,
     "Database": 3,
     "Security": 6,
     "Tools": 21
@@ -21,16 +21,14 @@
     "Go": 23,
     "JavaScript": 24,
     "Java": 19,
-    "Python": 15,
-    "Swift": 1,
-    "Kotlin": 1
+    "Python": 15
   },
   "by_date": {
     "2026-04-21": 6,
     "2026-04-20": 13,
-    "2026-04-19": 9,
-    "2026-04-17": 11,
-    "2026-04-16": 9,
+    "2026-04-19": 12,
+    "2026-04-17": 12,
+    "2026-04-16": 10,
     "2026-04-14": 5,
     "2026-04-08": 1,
     "2026-04-09": 4,
@@ -68,8 +66,7 @@
     "2017-11-27": 1,
     "2025-05-07": 1,
     "2019-08-12": 1,
-    "2026-04-15": 6,
-    "2026-04-18": 4
+    "2026-04-18": 5
   },
   "top_tags": {
     "ai": 20,
@@ -79,8 +76,8 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "go": 8,
     "webdev": 8,
+    "go": 8,
     "devchallenge": 8,
     "javascript": 8,
     "opensource": 7,
@@ -95,11 +92,9 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "27.7",
-    "JavaScript": "28.9",
-    "Java": "22.9",
-    "Python": "18.1",
-    "Swift": "1.2",
-    "Kotlin": "1.2"
+    "Go": "28.4",
+    "JavaScript": "29.6",
+    "Java": "23.5",
+    "Python": "18.5"
   }
 }

@@ -605,21 +605,6 @@
       "user": "veesahni"
     },
     {
-      "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "url": "https://github.com/Manavarya09/design-extract",
-      "published_at": "2026-04-15T10:11:22Z",
-      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
-      "source": "GitHub",
-      "stars": 1273,
-      "user": "Manavarya09"
-    },
-    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -631,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "ZeroZ-lab"
     },
     {
@@ -646,8 +631,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "assai-id"
+    },
+    {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "simoncirstoiu"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6767,
+      "stars": 7066,
       "user": "kyegomez"
     },
     {
@@ -676,23 +676,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4383,
+      "stars": 4485,
       "user": "browser-use"
-    },
-    {
-      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "url": "https://github.com/codejunkie99/agentic-stack",
-      "published_at": "2026-04-15T13:45:41Z",
-      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
-      "source": "GitHub",
-      "stars": 1259,
-      "user": "codejunkie99"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -706,23 +691,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1170,
       "user": "EvoLinkAI"
-    },
-    {
-      "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "url": "https://github.com/xataio/xata",
-      "published_at": "2026-04-15T08:49:42Z",
-      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "xataio"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -736,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 538,
       "user": "432539"
     },
     {
@@ -751,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Quorinex"
     },
     {
@@ -766,8 +736,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 144,
       "user": "brexhq"
+    },
+    {
+      "title": "s-zx/crest - An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "published_at": "2026-04-18T10:48:28Z",
+      "description": "An open source, AI-native terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "s-zx"
     }
   ],
   "JavaScript": [
@@ -1025,21 +1010,6 @@
       "user": "velmu"
     },
     {
-      "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "url": "https://github.com/Manavarya09/design-extract",
-      "published_at": "2026-04-15T10:11:22Z",
-      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
-      "source": "GitHub",
-      "stars": 1273,
-      "user": "Manavarya09"
-    },
-    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1051,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "ZeroZ-lab"
     },
     {
@@ -1066,23 +1036,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "assai-id"
-    },
-    {
-      "title": "activetheory/activeframe - Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
-      "url": "https://github.com/activetheory/activeframe",
-      "published_at": "2026-04-15T22:40:52Z",
-      "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
-      "source": "GitHub",
-      "stars": 295,
-      "user": "activetheory"
     },
     {
       "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
@@ -1098,6 +1053,36 @@
       "source": "GitHub",
       "stars": 160,
       "user": "imtonyjaa"
+    },
+    {
+      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
+      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
+      "published_at": "2026-04-19T21:09:49Z",
+      "description": "Official Ledger Wallet Repository ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "Ledger-Wallet-LLC"
+    },
+    {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "simoncirstoiu"
     }
   ],
   "Python": [
@@ -1233,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6767,
+      "stars": 7066,
       "user": "kyegomez"
     },
     {
@@ -1248,38 +1233,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4383,
+      "stars": 4485,
       "user": "browser-use"
-    },
-    {
-      "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "published_at": "2026-04-15T17:59:48Z",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 3880,
-      "user": "Robbyant"
-    },
-    {
-      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "url": "https://github.com/codejunkie99/agentic-stack",
-      "published_at": "2026-04-15T13:45:41Z",
-      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
-      "source": "GitHub",
-      "stars": 1259,
-      "user": "codejunkie99"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -1293,8 +1248,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1170,
       "user": "EvoLinkAI"
+    },
+    {
+      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "url": "https://github.com/wbh604/UZI-Skill",
+      "published_at": "2026-04-16T07:36:06Z",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
+      "source": "GitHub",
+      "stars": 1082,
+      "user": "wbh604"
+    },
+    {
+      "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
+      "url": "https://github.com/the-hidden-fish/advisor-ledger",
+      "published_at": "2026-04-19T21:58:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
+      "source": "GitHub",
+      "stars": 559,
+      "user": "the-hidden-fish"
     }
   ],
   "DevOps": [
@@ -1354,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Quorinex"
     }
   ],
@@ -1430,21 +1415,6 @@
       "user": "velmu"
     },
     {
-      "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "url": "https://github.com/Manavarya09/design-extract",
-      "published_at": "2026-04-15T10:11:22Z",
-      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
-      "source": "GitHub",
-      "stars": 1273,
-      "user": "Manavarya09"
-    },
-    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1456,27 +1426,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "ZeroZ-lab"
     }
   ],
-  "Mobile": [
-    {
-      "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "url": "https://github.com/Manavarya09/design-extract",
-      "published_at": "2026-04-15T10:11:22Z",
-      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
-      "source": "GitHub",
-      "stars": 1273,
-      "user": "Manavarya09"
-    }
-  ],
+  "Mobile": [],
   "Cloud": [
     {
       "title": "Build your own blog post view counter on AWS Free Tier",
@@ -1642,21 +1596,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "url": "https://github.com/xataio/xata",
-      "published_at": "2026-04-15T08:49:42Z",
-      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "xataio"
     }
   ],
   "Database": [
@@ -1880,21 +1819,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "Manavarya09/design-extract - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "url": "https://github.com/Manavarya09/design-extract",
-      "published_at": "2026-04-15T10:11:22Z",
-      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/144777973?v=4",
-      "source": "GitHub",
-      "stars": 1273,
-      "user": "Manavarya09"
-    },
-    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1906,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "ZeroZ-lab"
     },
     {
@@ -1921,23 +1845,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "assai-id"
-    },
-    {
-      "title": "activetheory/activeframe - Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
-      "url": "https://github.com/activetheory/activeframe",
-      "published_at": "2026-04-15T22:40:52Z",
-      "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1118248?v=4",
-      "source": "GitHub",
-      "stars": 295,
-      "user": "activetheory"
     },
     {
       "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
@@ -1955,6 +1864,36 @@
       "user": "imtonyjaa"
     },
     {
+      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
+      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
+      "published_at": "2026-04-19T21:09:49Z",
+      "description": "Official Ledger Wallet Repository ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "Ledger-Wallet-LLC"
+    },
+    {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "simoncirstoiu"
+    },
+    {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "url": "https://github.com/kyegomez/OpenMythos",
       "published_at": "2026-04-18T12:57:52Z",
@@ -1966,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 6767,
+      "stars": 7066,
       "user": "kyegomez"
     },
     {
@@ -1981,38 +1920,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4383,
+      "stars": 4485,
       "user": "browser-use"
-    },
-    {
-      "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "published_at": "2026-04-15T17:59:48Z",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
-      "source": "GitHub",
-      "stars": 3880,
-      "user": "Robbyant"
-    },
-    {
-      "title": "codejunkie99/agentic-stack - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "url": "https://github.com/codejunkie99/agentic-stack",
-      "published_at": "2026-04-15T13:45:41Z",
-      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
-      "source": "GitHub",
-      "stars": 1259,
-      "user": "codejunkie99"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -2026,23 +1935,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1170,
       "user": "EvoLinkAI"
     },
     {
-      "title": "xataio/xata - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
-      "url": "https://github.com/xataio/xata",
-      "published_at": "2026-04-15T08:49:42Z",
-      "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "url": "https://github.com/wbh604/UZI-Skill",
+      "published_at": "2026-04-16T07:36:06Z",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74420131?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 707,
-      "user": "xataio"
+      "stars": 1082,
+      "user": "wbh604"
+    },
+    {
+      "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
+      "url": "https://github.com/the-hidden-fish/advisor-ledger",
+      "published_at": "2026-04-19T21:58:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
+      "source": "GitHub",
+      "stars": 559,
+      "user": "the-hidden-fish"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -2056,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 538,
       "user": "432539"
     },
     {
@@ -2071,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "Quorinex"
     },
     {
@@ -2086,23 +2010,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 144,
       "user": "brexhq"
     },
     {
-      "title": "nutcas3/lets-bet - GitHub Repository",
-      "url": "https://github.com/nutcas3/lets-bet",
-      "published_at": "2026-04-15T00:19:16Z",
-      "description": "Trending GitHub Repository",
+      "title": "londek/ipadecrypt - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention.",
+      "url": "https://github.com/londek/ipadecrypt",
+      "published_at": "2026-04-17T22:42:33Z",
+      "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143586703?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 82,
-      "user": "nutcas3"
+      "stars": 64,
+      "user": "londek"
+    },
+    {
+      "title": "s-zx/crest - An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "published_at": "2026-04-18T10:48:28Z",
+      "description": "An open source, AI-native terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "s-zx"
     }
   ]
 }
