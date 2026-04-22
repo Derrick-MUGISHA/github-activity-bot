@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "title": "Stop Worrying and Love AI",
+      "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
+      "published_at": "2026-04-22T14:17:41Z",
+      "description": "How to replace existential dread for the future of software development with hope for your own future",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp",
+      "source": "Dev.to",
+      "user": "Ryan Kahn"
+    },
+    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
       "published_at": "2026-04-22T20:42:16Z",
@@ -14,18 +26,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop Worrying and Love AI",
-      "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
-      "published_at": "2026-04-22T14:17:41Z",
-      "description": "How to replace existential dread for the future of software development with hope for your own future",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp",
-      "source": "Dev.to",
-      "user": "Ryan Kahn"
     },
     {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "simoncirstoiu"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8737,
+      "stars": 8760,
       "user": "kyegomez"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4980,
+      "stars": 4994,
       "user": "browser-use"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1674,
       "user": "EvoLinkAI"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 310,
       "user": "brexhq"
     }
   ],
@@ -1003,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "simoncirstoiu"
     },
     {
@@ -1018,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "vuciv"
     }
   ],
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8737,
+      "stars": 8760,
       "user": "kyegomez"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4980,
+      "stars": 4994,
       "user": "browser-use"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1674,
       "user": "EvoLinkAI"
     },
     {
@@ -1245,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 838,
       "user": "the-hidden-fish"
     }
   ],
@@ -1429,21 +1429,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
-      "published_at": "2026-04-22T20:42:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build your own blog post view counter on AWS Free Tier",
       "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
       "published_at": "2026-04-21T19:35:19Z",
@@ -1457,6 +1442,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
       "source": "Dev.to",
       "user": "Esin Saribudak"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "TPU Mythbusting: vendor lock-in",
@@ -1901,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "simoncirstoiu"
     },
     {
@@ -1916,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "vuciv"
     },
     {
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8737,
+      "stars": 8760,
       "user": "kyegomez"
     },
     {
@@ -1946,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4980,
+      "stars": 4994,
       "user": "browser-use"
     },
     {
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1674,
       "user": "EvoLinkAI"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 838,
       "user": "the-hidden-fish"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 310,
       "user": "brexhq"
     },
     {
@@ -2051,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "londek"
     },
     {
