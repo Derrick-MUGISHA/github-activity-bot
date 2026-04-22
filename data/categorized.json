@@ -398,21 +398,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
-      "url": "https://dev.to/joestrout/miniclaw-a-tiny-llm-agent-for-mini-micro-4akf",
-      "published_at": "2026-04-16T18:13:14Z",
-      "description": "Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...",
-      "tags": [
-        "miniscript",
-        "minimicro",
-        "agents",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfry8iil785s6guylq3i.png",
-      "source": "Dev.to",
-      "user": "JoeStrout"
-    },
-    {
       "title": "Alignment is the wrong frame: a structural argument from Φ-IIT",
       "url": "https://dev.to/iliketree/alignment-is-the-wrong-frame-a-structural-argument-from-ph-iit-1h61",
       "published_at": "2026-04-13T13:02:33Z",
@@ -616,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "ZeroZ-lab"
     },
     {
@@ -631,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "assai-id"
     },
     {
@@ -646,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "simoncirstoiu"
     },
     {
@@ -661,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7711,
+      "stars": 7968,
       "user": "kyegomez"
     },
     {
@@ -676,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4618,
+      "stars": 4660,
       "user": "browser-use"
     },
     {
@@ -691,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1388,
       "user": "EvoLinkAI"
     },
     {
@@ -706,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 699,
       "user": "432539"
     },
     {
@@ -721,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 380,
       "user": "Quorinex"
     },
     {
@@ -736,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 212,
       "user": "brexhq"
     },
     {
@@ -756,21 +741,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "I got tired of copy-pasting the same table code, so I built a library",
-      "url": "https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l",
-      "published_at": "2026-04-20T08:56:21Z",
-      "description": "Every Angular project I've worked on has a table. Usually more than one. And every single time I end...",
-      "tags": [
-        "angular",
-        "typescript",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png",
-      "source": "Dev.to",
-      "user": "Zonaib Bokhari"
-    },
     {
       "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
       "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
@@ -800,6 +770,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "I got tired of copy-pasting the same table code, so I built a library",
+      "url": "https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l",
+      "published_at": "2026-04-20T08:56:21Z",
+      "description": "Every Angular project I've worked on has a table. Usually more than one. And every single time I end...",
+      "tags": [
+        "angular",
+        "typescript",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png",
+      "source": "Dev.to",
+      "user": "Zonaib Bokhari"
     },
     {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
@@ -1021,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "ZeroZ-lab"
     },
     {
@@ -1036,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "assai-id"
     },
     {
@@ -1081,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "simoncirstoiu"
     }
   ],
@@ -1218,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7711,
+      "stars": 7968,
       "user": "kyegomez"
     },
     {
@@ -1233,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4618,
+      "stars": 4660,
       "user": "browser-use"
     },
     {
@@ -1248,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1388,
       "user": "EvoLinkAI"
     },
     {
@@ -1263,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1108,
+      "stars": 1116,
       "user": "wbh604"
     },
     {
@@ -1278,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 601,
       "user": "the-hidden-fish"
     }
   ],
@@ -1339,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 380,
       "user": "Quorinex"
     }
   ],
@@ -1426,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1830,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 583,
       "user": "ZeroZ-lab"
     },
     {
@@ -1845,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "assai-id"
     },
     {
@@ -1890,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "simoncirstoiu"
     },
     {
@@ -1905,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7711,
+      "stars": 7968,
       "user": "kyegomez"
     },
     {
@@ -1920,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4618,
+      "stars": 4660,
       "user": "browser-use"
     },
     {
@@ -1935,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1388,
       "user": "EvoLinkAI"
     },
     {
@@ -1950,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1108,
+      "stars": 1116,
       "user": "wbh604"
     },
     {
@@ -1965,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 601,
       "user": "the-hidden-fish"
     },
     {
@@ -1980,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 699,
       "user": "432539"
     },
     {
@@ -1995,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 380,
       "user": "Quorinex"
     },
     {
@@ -2010,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 212,
       "user": "brexhq"
     },
     {
@@ -2025,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 73,
       "user": "londek"
     },
     {
