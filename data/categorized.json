@@ -16,6 +16,21 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
+    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -58,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
       "source": "Dev.to",
       "user": "Simme"
-    },
-    {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "ZeroZ-lab"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "assai-id"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "simoncirstoiu"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7423,
+      "stars": 7711,
       "user": "kyegomez"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4566,
+      "stars": 4618,
       "user": "browser-use"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1333,
       "user": "EvoLinkAI"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 661,
       "user": "432539"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 203,
       "user": "brexhq"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "ZeroZ-lab"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "assai-id"
     },
     {
@@ -1051,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 280,
       "user": "Ledger-Wallet-LLC"
     },
     {
@@ -1081,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "simoncirstoiu"
     }
   ],
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7423,
+      "stars": 7711,
       "user": "kyegomez"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4566,
+      "stars": 4618,
       "user": "browser-use"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1333,
       "user": "EvoLinkAI"
     },
     {
@@ -1263,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1108,
       "user": "wbh604"
     },
     {
@@ -1278,25 +1278,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 594,
       "user": "the-hidden-fish"
     }
   ],
   "DevOps": [
-    {
-      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
-      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
-      "published_at": "2026-04-20T08:30:19Z",
-      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
-      "tags": [
-        "database",
-        "postgres",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
-      "source": "Dev.to",
-      "user": "Mateusz Woźniak"
-    },
     {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
       "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
@@ -1311,6 +1297,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
+    },
+    {
+      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
+      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
+      "published_at": "2026-04-20T08:30:19Z",
+      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
+      "tags": [
+        "database",
+        "postgres",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
+      "source": "Dev.to",
+      "user": "Mateusz Woźniak"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     }
   ],
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "ZeroZ-lab"
     },
     {
@@ -1845,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "assai-id"
     },
     {
@@ -1860,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 280,
       "user": "Ledger-Wallet-LLC"
     },
     {
@@ -1890,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "simoncirstoiu"
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 7423,
+      "stars": 7711,
       "user": "kyegomez"
     },
     {
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4566,
+      "stars": 4618,
       "user": "browser-use"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1333,
       "user": "EvoLinkAI"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1108,
       "user": "wbh604"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 594,
       "user": "the-hidden-fish"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 661,
       "user": "432539"
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 203,
       "user": "brexhq"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "londek"
     },
     {

@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![security](https://img.shields.io/badge/security-5-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-22 7:00 CAT)
+## 📅 Latest Updates (2026-04-22 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -165,19 +165,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp" width="200" alt="TPU Mythbusting: vendor lock-in" />
+    <a href="https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png" width="200" alt="Atomic Scaffolding: How scbake Prevents Configuration Mishaps" />
       <br/>
-      <b>TPU Mythbusting: vendor lock-in</b>
+      <b>Atomic Scaffolding: How scbake Prevents Configurat...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png" width="200" alt="I got tired of copy-pasting the same table code, so I built a library" />
+    <a href="https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp" width="200" alt="TPU Mythbusting: vendor lock-in" />
       <br/>
-      <b>I got tired of copy-pasting the same table code, s...</b>
+      <b>TPU Mythbusting: vendor lock-in</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,11 +193,11 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
 - [What are your goals for the week? #175](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-175-324a) _[Dev.to]_
 - [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli) _[Dev.to]_
+- [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo) _[Dev.to]_
 - [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo) _[Dev.to]_
 - [I got tired of copy-pasting the same table code, so I built a library](https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l) _[Dev.to]_
 - [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
-- [Atomic Scaffolding: How scbake Prevents Configuration Mishaps](https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo) _[Dev.to]_
 - [What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS](https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7) _[Dev.to]_
 - [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
 - [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn) _[Dev.to]_
@@ -210,7 +210,7 @@ npm run test
 - [EcoDo AI: Making Earth a Little Less Heavy 🌍✨](https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic) _[Dev.to]_
 - [Why Do I Keep Killing My Side Projects?](https://dev.to/eayurt/why-do-i-keep-killing-my-side-projects-31eh) _[Dev.to]_
 
-_Last automated update: Wed, 22 Apr 2026 07:07:42 CAT_
+_Last automated update: Wed, 22 Apr 2026 09:04:49 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Wed, 22 Apr 2026 07:07:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 22 Apr 2026 05:07:42 GMT</b><br/>
+  <b>Last automated update: Wed, 22 Apr 2026 07:04:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
