@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-22 19:00 CAT)
+## 📅 Latest Updates (2026-04-22 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5) _[Dev.to]_
 - [Processing long running events on AWS API Gateway](https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4) _[Dev.to]_
 
-_Last automated update: Wed, 22 Apr 2026 19:59:00 CAT_
+_Last automated update: Wed, 22 Apr 2026 21:22:14 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Wed, 22 Apr 2026 19:59:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 22 Apr 2026 17:59:00 GMT</b><br/>
+  <b>Last automated update: Wed, 22 Apr 2026 19:22:14 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
