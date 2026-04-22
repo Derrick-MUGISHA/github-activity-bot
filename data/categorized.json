@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Migrating vector embeddings in production without downtime",
-      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
-      "published_at": "2026-04-21T15:41:50Z",
-      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
-      "tags": [
-        "rag",
-        "ai",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -89,6 +74,21 @@
       "user": "James Candan"
     },
     {
+      "title": "Migrating vector embeddings in production without downtime",
+      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
+      "published_at": "2026-04-21T15:41:50Z",
+      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
+      "tags": [
+        "rag",
+        "ai",
+        "vectordatabase",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Add Telephony to a Gemini Live Agent with Twilio",
       "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
       "published_at": "2026-04-21T14:36:54Z",
@@ -115,21 +115,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
       "source": "Dev.to",
       "user": "Setiaji"
-    },
-    {
-      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
-      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
-      "published_at": "2026-04-21T05:22:52Z",
-      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
-      "tags": [
-        "gemini",
-        "ai",
-        "typescript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
@@ -160,6 +145,21 @@
       "user": "vaidehi Warghat"
     },
     {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
+    {
       "title": "Claude skills vs Commands",
       "url": "https://dev.to/hellonehha/claude-skills-vs-commands-1dcm",
       "published_at": "2026-04-14T10:13:02Z",
@@ -188,21 +188,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
-    },
-    {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
@@ -292,6 +277,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flat9f6iihvnchdnyiuah.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
+      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
+      "published_at": "2026-04-21T05:22:52Z",
+      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
+      "tags": [
+        "gemini",
+        "ai",
+        "typescript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "ZeroZ-lab"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "assai-id"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 164,
       "user": "simoncirstoiu"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8505,
+      "stars": 8577,
       "user": "kyegomez"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4891,
+      "stars": 4903,
       "user": "browser-use"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1652,
       "user": "EvoLinkAI"
     },
     {
@@ -676,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 784,
       "user": "432539"
     },
     {
@@ -706,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 296,
       "user": "brexhq"
     },
     {
@@ -727,21 +727,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
-      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
-      "published_at": "2026-04-21T05:22:52Z",
-      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
-      "tags": [
-        "gemini",
-        "ai",
-        "typescript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
       "published_at": "2026-04-17T18:38:12Z",
@@ -755,6 +740,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
+      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
+      "published_at": "2026-04-21T05:22:52Z",
+      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
+      "tags": [
+        "gemini",
+        "ai",
+        "typescript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "I got tired of copy-pasting the same table code, so I built a library",
@@ -991,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "ZeroZ-lab"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "assai-id"
     },
     {
@@ -1025,6 +1025,21 @@
       "user": "Ledger-Wallet-LLC"
     },
     {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "simoncirstoiu"
+    },
+    {
       "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
       "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
       "published_at": "2026-04-19T15:36:46Z",
@@ -1038,21 +1053,6 @@
       "source": "GitHub",
       "stars": 161,
       "user": "imtonyjaa"
-    },
-    {
-      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "url": "https://github.com/simoncirstoiu/alice",
-      "published_at": "2026-04-19T09:32:31Z",
-      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
-      "source": "GitHub",
-      "stars": 161,
-      "user": "simoncirstoiu"
     }
   ],
   "Python": [
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8505,
+      "stars": 8577,
       "user": "kyegomez"
     },
     {
@@ -1203,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4891,
+      "stars": 4903,
       "user": "browser-use"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1652,
       "user": "EvoLinkAI"
     },
     {
@@ -1248,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 781,
       "user": "the-hidden-fish"
     }
   ],
@@ -1268,21 +1268,6 @@
       "user": "Mateusz Woźniak"
     },
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
       "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
       "published_at": "2026-04-21T13:51:38Z",
@@ -1296,6 +1281,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
+    },
+    {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -1396,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1569,6 +1569,20 @@
   ],
   "Database": [
     {
+      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
+      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
+      "published_at": "2026-04-20T08:30:19Z",
+      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
+      "tags": [
+        "database",
+        "postgres",
+        "selfhosted"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
+      "source": "Dev.to",
+      "user": "Mateusz Woźniak"
+    },
+    {
       "title": "Migrating vector embeddings in production without downtime",
       "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
       "published_at": "2026-04-21T15:41:50Z",
@@ -1582,20 +1596,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
-      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
-      "published_at": "2026-04-20T08:30:19Z",
-      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
-      "tags": [
-        "database",
-        "postgres",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
-      "source": "Dev.to",
-      "user": "Mateusz Woźniak"
     },
     {
       "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
@@ -1627,21 +1627,6 @@
   ],
   "Security": [
     {
-      "title": "What To Do If Your Project Was Affected By The Vercel Breach",
-      "url": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76",
-      "published_at": "2026-04-21T11:57:58Z",
-      "description": "Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....",
-      "tags": [
-        "webdev",
-        "security",
-        "tutorial",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png",
-      "source": "Dev.to",
-      "user": "Dumebi Okolo"
-    },
-    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -1655,6 +1640,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "What To Do If Your Project Was Affected By The Vercel Breach",
+      "url": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76",
+      "published_at": "2026-04-21T11:57:58Z",
+      "description": "Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....",
+      "tags": [
+        "webdev",
+        "security",
+        "tutorial",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png",
+      "source": "Dev.to",
+      "user": "Dumebi Okolo"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1714,21 +1714,6 @@
   ],
   "Tools": [
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
       "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
       "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
       "published_at": "2026-04-21T13:51:38Z",
@@ -1742,6 +1727,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
+    },
+    {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
     },
     {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "ZeroZ-lab"
     },
     {
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "assai-id"
     },
     {
@@ -1848,6 +1848,21 @@
       "user": "Ledger-Wallet-LLC"
     },
     {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "simoncirstoiu"
+    },
+    {
       "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
       "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
       "published_at": "2026-04-19T15:36:46Z",
@@ -1863,21 +1878,6 @@
       "user": "imtonyjaa"
     },
     {
-      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "url": "https://github.com/simoncirstoiu/alice",
-      "published_at": "2026-04-19T09:32:31Z",
-      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
-      "source": "GitHub",
-      "stars": 161,
-      "user": "simoncirstoiu"
-    },
-    {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
       "url": "https://github.com/kyegomez/OpenMythos",
       "published_at": "2026-04-18T12:57:52Z",
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8505,
+      "stars": 8577,
       "user": "kyegomez"
     },
     {
@@ -1904,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4891,
+      "stars": 4903,
       "user": "browser-use"
     },
     {
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1652,
       "user": "EvoLinkAI"
     },
     {
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 781,
       "user": "the-hidden-fish"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 784,
       "user": "432539"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 296,
       "user": "brexhq"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 84,
       "user": "londek"
     },
     {
