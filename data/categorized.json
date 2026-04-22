@@ -291,6 +291,95 @@
       "user": "xbill"
     },
     {
+      "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
+      "published_at": "2026-04-14T21:55:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "azureaks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini",
+      "url": "https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih",
+      "published_at": "2026-04-19T14:20:42Z",
+      "description": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard +...",
+      "tags": [
+        "weekendchallenge",
+        "webdev",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg",
+      "source": "Dev.to",
+      "user": "Dev Rajput"
+    },
+    {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
+      "title": "What a VPN Actually Protects You From (A Developer's Threat Model)",
+      "url": "https://dev.to/ciokan/what-a-vpn-actually-protects-you-from-a-developers-threat-model-4h95",
+      "published_at": "2026-04-21T02:22:36Z",
+      "description": "What a VPN Actually Protects You From (A Developer's Threat Model)   Every \"VPN explained\"...",
+      "tags": [
+        "privacy",
+        "networking",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuk1za95wlnjgcjl9hlgp.png",
+      "source": "Dev.to",
+      "user": "Romeo Mihalcea"
+    },
+    {
+      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
+      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
+      "published_at": "2026-04-21T05:22:52Z",
+      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
+      "tags": [
+        "gemini",
+        "ai",
+        "typescript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
       "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
       "published_at": "2026-04-20T16:50:30Z",
@@ -378,66 +467,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqxfo2lsqxyqddzfobcuv.png",
       "source": "Dev.to",
       "user": "Nikita Namjoshi"
-    },
-    {
-      "title": "Alignment is the wrong frame: a structural argument from Φ-IIT",
-      "url": "https://dev.to/iliketree/alignment-is-the-wrong-frame-a-structural-argument-from-ph-iit-1h61",
-      "published_at": "2026-04-13T13:02:33Z",
-      "description": "TL;DR    Rule-based alignment is bypassable in time O(1/ε) where ε is the gap between the...",
-      "tags": [
-        "ai",
-        "alignment",
-        "consciousness",
-        "safety"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1cl2t71j9cnzu33mubs.png",
-      "source": "Dev.to",
-      "user": "i-like-tree"
-    },
-    {
-      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
-      "url": "https://dev.to/kheai/gheiagrid-reimagining-decentralized-urban-farming-carbon-mining-934",
-      "published_at": "2026-04-17T18:03:04Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition           What I Built   GheiaGrid is a...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "agriculture",
-        "kheai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4y1jjinfh62eh1ckxdaf.png",
-      "source": "Dev.to",
-      "user": "Khe Ai"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
-    },
-    {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -613,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "simoncirstoiu"
     },
     {
@@ -628,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8760,
+      "stars": 8796,
       "user": "kyegomez"
     },
     {
@@ -643,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4994,
+      "stars": 5006,
       "user": "browser-use"
     },
     {
@@ -658,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1684,
       "user": "EvoLinkAI"
     },
     {
@@ -673,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 788,
       "user": "432539"
     },
     {
@@ -703,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "brexhq"
     }
   ],
@@ -722,6 +751,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
+      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
+      "published_at": "2026-04-21T05:22:52Z",
+      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
+      "tags": [
+        "gemini",
+        "ai",
+        "typescript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "I got tired of copy-pasting the same table code, so I built a library",
@@ -810,21 +854,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
       "source": "Dev.to",
       "user": "Volker Schukai"
-    },
-    {
-      "title": "I Analyzed AI Coding Mistakes and Built an ESLint Plugin to Catch Them",
-      "url": "https://dev.to/pertrai1/i-analyzed-500-ai-coding-mistakes-and-built-an-eslint-plugin-to-catch-them-jme",
-      "published_at": "2026-04-04T01:49:02Z",
-      "description": "After reviewing empirical studies on LLM-generated bugs, I built eslint-plugin-llm-core — 20 rules designed to catch the mistakes AI coding assistants make most often.",
-      "tags": [
-        "typescript",
-        "eslint",
-        "ai",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jnaydbi6lb1ppptdz9n.png",
-      "source": "Dev.to",
-      "user": "Rob Simpson"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1003,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "simoncirstoiu"
     },
     {
@@ -1018,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "vuciv"
     }
   ],
@@ -1185,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8760,
+      "stars": 8796,
       "user": "kyegomez"
     },
     {
@@ -1200,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4994,
+      "stars": 5006,
       "user": "browser-use"
     },
     {
@@ -1215,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1684,
       "user": "EvoLinkAI"
     },
     {
@@ -1245,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 849,
       "user": "the-hidden-fish"
     }
   ],
@@ -1549,6 +1578,36 @@
       "user": "xbill"
     },
     {
+      "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
+      "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
+      "published_at": "2026-04-14T21:55:29Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
+      "tags": [
+        "googleadk",
+        "gemini",
+        "geminilive",
+        "azureaks"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "From Monolith State to Stateless Microservices: A Real-World Refactor",
+      "url": "https://dev.to/egenedy97/from-monolith-state-to-stateless-microservices-a-real-world-refactor-496l",
+      "published_at": "2026-04-21T10:59:12Z",
+      "description": "...",
+      "tags": [
+        "architecture",
+        "microservices",
+        "aws",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj8ztr09i9x5p9zly9vd.jpg",
+      "source": "Dev.to",
+      "user": "Eslam Genedy"
+    },
+    {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
       "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
       "published_at": "2026-04-20T16:50:30Z",
@@ -1625,21 +1684,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "The $15 Per Ride You Didn't Know About: What 243 Million NYC Taxi Rides Reveal",
-      "url": "https://dev.to/ramakrishnachilaka/the-15-per-ride-you-didnt-know-about-what-243-million-nyc-taxi-rides-reveal-2b73",
-      "published_at": "2026-04-13T04:23:13Z",
-      "description": "Lyft pays wheelchair-accessible drivers 204% of fare — a flat ~$15/ride bonus regardless of trip...",
-      "tags": [
-        "rust",
-        "sql",
-        "database",
-        "elasticsearch"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx85racvlcmei3zungqdh.png",
-      "source": "Dev.to",
-      "user": " Ramakrishna Chilaka"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1712,6 +1756,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "What a VPN Actually Protects You From (A Developer's Threat Model)",
+      "url": "https://dev.to/ciokan/what-a-vpn-actually-protects-you-from-a-developers-threat-model-4h95",
+      "published_at": "2026-04-21T02:22:36Z",
+      "description": "What a VPN Actually Protects You From (A Developer's Threat Model)   Every \"VPN explained\"...",
+      "tags": [
+        "privacy",
+        "networking",
+        "security",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuk1za95wlnjgcjl9hlgp.png",
+      "source": "Dev.to",
+      "user": "Romeo Mihalcea"
     },
     {
       "title": "Partial Password Authentication",
@@ -1901,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "simoncirstoiu"
     },
     {
@@ -1916,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 171,
       "user": "vuciv"
     },
     {
@@ -1931,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8760,
+      "stars": 8796,
       "user": "kyegomez"
     },
     {
@@ -1946,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 4994,
+      "stars": 5006,
       "user": "browser-use"
     },
     {
@@ -1961,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1684,
       "user": "EvoLinkAI"
     },
     {
@@ -1991,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 849,
       "user": "the-hidden-fish"
     },
     {
@@ -2006,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 788,
       "user": "432539"
     },
     {
@@ -2036,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "brexhq"
     },
     {
@@ -2051,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 95,
       "user": "londek"
     },
     {

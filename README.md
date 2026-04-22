@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-22-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
@@ -36,15 +36,15 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
-**Security**: 🟦🟦🟦 7 (6.7%)
+**Security**: 🟦🟦🟦 8 (7.6%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦🟦 5 (4.8%)
+**Database**: 🟦🟦 4 (3.8%)
 
 
 
@@ -58,12 +58,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.1 (27.1%)
-JavaScript      ██████████████████████████████ 27.1 (27.1%)
-Java            ██████████████████████████ 23.5 (23.5%)
-Python          ██████████████████████ 20.0 (20.0%)
+Go              ██████████████████████████████ 27.7 (27.7%)
+JavaScript      ██████████████████████████████ 27.7 (27.7%)
+Java            █████████████████████████ 22.9 (22.9%)
+Python          ██████████████████████ 20.5 (20.5%)
 PHP             █ 1.2 (1.2%)
-Rust            █ 1.2 (1.2%)
 
 ```
 
@@ -71,17 +70,16 @@ Rust            █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "Go" : 23
     "JavaScript" : 23
-    "Java" : 20
+    "Java" : 19
     "Python" : 17
     "PHP" : 1
-    "Rust" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![security](https://img.shields.io/badge/security-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
 
 
 
@@ -121,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-23 0:00 CAT)
+## 📅 Latest Updates (2026-04-23 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +210,7 @@ npm run test
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Thu, 23 Apr 2026 00:11:31 CAT_
+_Last automated update: Thu, 23 Apr 2026 01:06:31 CAT_
 
 
 
@@ -220,36 +218,36 @@ _Last automated update: Thu, 23 Apr 2026 00:11:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -283,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 22 Apr 2026 22:11:31 GMT</b><br/>
+  <b>Last automated update: Wed, 22 Apr 2026 23:06:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
