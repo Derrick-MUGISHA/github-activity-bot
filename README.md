@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
 
 **Security**: 🟦🟦🟦 8 (7.6%)
 
@@ -58,19 +58,19 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.7 (27.7%)
-JavaScript      ██████████████████████████████ 27.7 (27.7%)
-Java            █████████████████████████ 22.9 (22.9%)
-Python          ██████████████████████ 20.5 (20.5%)
+Go              ██████████████████████████████ 28.9 (28.9%)
+JavaScript      █████████████████████████████ 27.7 (27.7%)
+Java            ███████████████████████ 21.7 (21.7%)
+Python          █████████████████████ 20.5 (20.5%)
 PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 23
+    "Go" : 24
     "JavaScript" : 23
-    "Java" : 19
+    "Java" : 18
     "Python" : 17
     "PHP" : 1
 ```
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![security](https://img.shields.io/badge/security-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-23 14:00 CAT)
+## 📅 Latest Updates (2026-04-23 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -136,19 +136,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp" width="200" alt="Stop Worrying and Love AI" />
+    <a href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm3v993gqf46wv6jltobe.webp" width="200" alt="So, what am I doing after 22 years in tech?" />
       <br/>
-      <b>Stop Worrying and Love AI</b>
+      <b>So, what am I doing after 22 years in tech?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png" width="200" alt="Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI" />
+    <a href="https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp" width="200" alt="Stop Worrying and Love AI" />
       <br/>
-      <b>Cross Cloud Multi Agent Comic Builder with ADK, Am...</b>
+      <b>Stop Worrying and Love AI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -190,14 +190,14 @@ npm run test
 ### 📰 Top Headlines
 
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
+- [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) _[Dev.to]_
 - [Stop Worrying and Love AI](https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij) _[Dev.to]_
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
 - [TPU Mythbusting: vendor lock-in](https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo) _[Dev.to]_
 - [I built a self-hosted PostgreSQL Control Plane that runs on single Docker container](https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
-- [What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS](https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7) _[Dev.to]_
 - [I built a WordPress plugin that generates llms.txt from your sitemap](https://dev.to/lboneluv/i-built-a-wordpress-plugin-that-generates-llmstxt-from-your-sitemap-idp) _[Dev.to]_
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178) _[Dev.to]_
 - [How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p) _[Dev.to]_
 - [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn) _[Dev.to]_
 - [Large Language Models and the Chinese Room](https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d) _[Dev.to]_
@@ -210,7 +210,7 @@ npm run test
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
 
-_Last automated update: Thu, 23 Apr 2026 14:08:17 CAT_
+_Last automated update: Thu, 23 Apr 2026 16:09:53 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Thu, 23 Apr 2026 14:08:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 23 Apr 2026 12:08:17 GMT</b><br/>
+  <b>Last automated update: Thu, 23 Apr 2026 14:09:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

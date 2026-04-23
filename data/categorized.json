@@ -13,21 +13,6 @@
       "user": "Ryan Kahn"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
-      "published_at": "2026-04-22T20:42:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
       "url": "https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2",
       "published_at": "2026-04-22T09:40:52Z",
@@ -100,6 +85,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4j9xxmnoxjg696f1bu8.png",
       "source": "Dev.to",
       "user": "José Manuel Ramírez"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 608,
       "user": "ZeroZ-lab"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9332,
+      "stars": 9423,
       "user": "kyegomez"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5455,
+      "stars": 5548,
       "user": "browser-use"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2392,
+      "stars": 2461,
       "user": "EvoLinkAI"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 888,
       "user": "432539"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "brexhq"
     },
     {
@@ -958,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 608,
       "user": "ZeroZ-lab"
     },
     {
@@ -1003,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 202,
       "user": "vuciv"
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9332,
+      "stars": 9423,
       "user": "kyegomez"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5455,
+      "stars": 5548,
       "user": "browser-use"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2392,
+      "stars": 2461,
       "user": "EvoLinkAI"
     },
     {
@@ -1230,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1019,
       "user": "the-hidden-fish"
     },
     {
@@ -1245,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 807,
       "user": "masterking32"
     }
   ],
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 608,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1429,21 +1429,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
-      "published_at": "2026-04-22T20:42:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -1459,19 +1444,19 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS",
-      "url": "https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7",
-      "published_at": "2026-04-20T05:13:54Z",
-      "description": "A walkthrough of the full SQS listener lifecycle in Spring Cloud AWS SQS, from annotation detection at startup to the composable async pipeline that polls, processes, and acknowledges every message.",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "java",
-        "spring",
-        "aws",
-        "sqs"
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ftomazfernandes.dev%2Fposts%2Ffrom-sqslistener-to-your-method%2Findex.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
       "source": "Dev.to",
-      "user": "Tomaz Lemos"
+      "user": "xbill"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1886,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 608,
       "user": "ZeroZ-lab"
     },
     {
@@ -1931,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 202,
       "user": "vuciv"
     },
     {
@@ -1961,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9332,
+      "stars": 9423,
       "user": "kyegomez"
     },
     {
@@ -1976,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5455,
+      "stars": 5548,
       "user": "browser-use"
     },
     {
@@ -1991,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2392,
+      "stars": 2461,
       "user": "EvoLinkAI"
     },
     {
@@ -2006,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1019,
       "user": "the-hidden-fish"
     },
     {
@@ -2021,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 807,
       "user": "masterking32"
     },
     {
@@ -2036,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 888,
       "user": "432539"
     },
     {
@@ -2066,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "brexhq"
     },
     {
@@ -2081,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "londek"
     },
     {
