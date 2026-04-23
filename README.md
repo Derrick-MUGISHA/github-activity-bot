@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-23 10:00 CAT)
+## 📅 Latest Updates (2026-04-23 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Thu, 23 Apr 2026 10:09:29 CAT_
+_Last automated update: Thu, 23 Apr 2026 11:56:04 CAT_
 
 
 
@@ -218,18 +218,29 @@ _Last automated update: Thu, 23 Apr 2026 10:09:29 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. Python: What is the difference between list and tuple in Python?
+
+**Difficulty**: Easy | **Topics**: data structures, mutability
+
+<details>
+<summary>💡 Hint</summary>
+
+Mutability, performance, use cases
+
+</details>
+
+### 3. SystemDesign: Design a URL shortening service like bit.ly
 
 **Difficulty**: Medium | **Topics**: system design, scalability
 
@@ -237,17 +248,6 @@ State in functional components, reusable logic, cleaner code
 <summary>💡 Hint</summary>
 
 Hash function, database design, caching, analytics
-
-</details>
-
-### 3. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 23 Apr 2026 08:09:29 GMT</b><br/>
+  <b>Last automated update: Thu, 23 Apr 2026 09:56:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
