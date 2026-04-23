@@ -349,51 +349,6 @@
       "user": "Romeo Mihalcea"
     },
     {
-      "title": "Migrating vector embeddings in production without downtime",
-      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
-      "published_at": "2026-04-21T15:41:50Z",
-      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
-      "tags": [
-        "rag",
-        "ai",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Add Telephony to a Gemini Live Agent with Twilio",
-      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
-      "published_at": "2026-04-21T14:36:54Z",
-      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
-      "tags": [
-        "ai",
-        "voice",
-        "telephony",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
-      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
-      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
-      "published_at": "2026-04-21T05:22:52Z",
-      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
-      "tags": [
-        "gemini",
-        "ai",
-        "typescript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
       "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
       "published_at": "2026-04-20T16:50:30Z",
@@ -452,6 +407,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
       "source": "Dev.to",
       "user": "Abhishek"
+    },
+    {
+      "title": "The Mental Framework for Unlocking Agentic Workflows",
+      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
+      "published_at": "2026-04-19T15:22:44Z",
+      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
+      "source": "Dev.to",
+      "user": "Basti Ortiz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -612,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "simoncirstoiu"
     },
     {
@@ -627,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 199,
       "user": "levelsio"
     },
     {
@@ -642,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9579,
+      "stars": 9604,
       "user": "kyegomez"
     },
     {
@@ -657,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5756,
+      "stars": 5793,
       "user": "browser-use"
     },
     {
@@ -672,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2619,
+      "stars": 2631,
       "user": "EvoLinkAI"
     },
     {
@@ -687,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 888,
       "user": "openai"
     },
     {
@@ -702,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 924,
       "user": "432539"
     },
     {
@@ -717,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 390,
       "user": "brexhq"
     },
     {
@@ -747,41 +717,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "peiyizhi0724"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
-      "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
-      "published_at": "2026-04-21T05:22:52Z",
-      "description": "Abstract   Explore how to build and orchestrate production-ready, type-safe AI agents...",
-      "tags": [
-        "gemini",
-        "ai",
-        "typescript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhufil9naogxgv2epue09.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "I got tired of copy-pasting the same table code, so I built a library",
-      "url": "https://dev.to/zonaibbokhari/i-got-tired-of-copy-pasting-the-same-table-code-so-i-built-a-library-2c3l",
-      "published_at": "2026-04-20T08:56:21Z",
-      "description": "Every Angular project I've worked on has a table. Usually more than one. And every single time I end...",
-      "tags": [
-        "angular",
-        "typescript",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12pc6khpxvm03a6223u.png",
-      "source": "Dev.to",
-      "user": "Zonaib Bokhari"
-    },
     {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
@@ -839,6 +779,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
+    },
+    {
+      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
+      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+      "published_at": "2026-04-13T16:51:07Z",
+      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "opensource",
+        "webcomponents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
+      "source": "Dev.to",
+      "user": "Volker Schukai"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1002,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "simoncirstoiu"
     },
     {
@@ -1017,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "vuciv"
     },
     {
@@ -1032,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 199,
       "user": "levelsio"
     }
   ],
@@ -1199,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9579,
+      "stars": 9604,
       "user": "kyegomez"
     },
     {
@@ -1214,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5756,
+      "stars": 5793,
       "user": "browser-use"
     },
     {
@@ -1229,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2619,
+      "stars": 2631,
       "user": "EvoLinkAI"
     },
     {
@@ -1259,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 888,
       "user": "openai"
     }
   ],
@@ -1353,6 +1308,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
+      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+      "published_at": "2026-04-13T16:51:07Z",
+      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "opensource",
+        "webcomponents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
+      "source": "Dev.to",
+      "user": "Volker Schukai"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1626,21 +1596,6 @@
       "user": "Damilola Oshungboye"
     },
     {
-      "title": "Migrating vector embeddings in production without downtime",
-      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
-      "published_at": "2026-04-21T15:41:50Z",
-      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
-      "tags": [
-        "rag",
-        "ai",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1781,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 199,
       "user": "levelsio"
     }
   ],
@@ -1861,6 +1816,21 @@
       "user": "Abhishek"
     },
     {
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
+      "published_at": "2026-04-11T15:55:53Z",
+      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
+      "tags": [
+        "github",
+        "opensource",
+        "development",
+        "repository"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1902,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "simoncirstoiu"
     },
     {
@@ -1917,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "vuciv"
     },
     {
@@ -1932,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 199,
       "user": "levelsio"
     },
     {
@@ -1947,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9579,
+      "stars": 9604,
       "user": "kyegomez"
     },
     {
@@ -1962,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5756,
+      "stars": 5793,
       "user": "browser-use"
     },
     {
@@ -1977,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2619,
+      "stars": 2631,
       "user": "EvoLinkAI"
     },
     {
@@ -2007,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 888,
       "user": "openai"
     },
     {
@@ -2022,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 924,
       "user": "432539"
     },
     {
@@ -2037,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 390,
       "user": "brexhq"
     },
     {
@@ -2082,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "peiyizhi0724"
     }
   ]
