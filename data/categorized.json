@@ -160,21 +160,6 @@
       "user": "James Candan"
     },
     {
-      "title": "Add Telephony to a Gemini Live Agent with Twilio",
-      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
-      "published_at": "2026-04-21T14:36:54Z",
-      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
-      "tags": [
-        "ai",
-        "voice",
-        "telephony",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
       "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
       "published_at": "2026-04-19T06:21:26Z",
@@ -348,6 +333,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Add Telephony to a Gemini Live Agent with Twilio",
+      "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
+      "published_at": "2026-04-21T14:36:54Z",
+      "description": "Ever wanted to call an AI on the phone? Not through an app, not through a browser — just pick up your...",
+      "tags": [
+        "ai",
+        "voice",
+        "telephony",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf0s7ae986bo7umjtmyz.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "ZeroZ-lab"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "simoncirstoiu"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9226,
+      "stars": 9278,
       "user": "kyegomez"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5383,
+      "stars": 5430,
       "user": "browser-use"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2358,
       "user": "EvoLinkAI"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 876,
       "user": "432539"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 342,
       "user": "brexhq"
     },
     {
@@ -958,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "ZeroZ-lab"
     },
     {
@@ -988,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "simoncirstoiu"
     },
     {
@@ -1003,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "vuciv"
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9226,
+      "stars": 9278,
       "user": "kyegomez"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5383,
+      "stars": 5430,
       "user": "browser-use"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2358,
       "user": "EvoLinkAI"
     },
     {
@@ -1230,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1016,
       "user": "the-hidden-fish"
     },
     {
@@ -1245,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 774,
       "user": "masterking32"
     }
   ],
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1427,21 +1427,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Build your own blog post view counter on AWS Free Tier",
-      "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
-      "published_at": "2026-04-21T19:35:19Z",
-      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
-      "tags": [
-        "beginners",
-        "lambda",
-        "dynamodb",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
-      "source": "Dev.to",
-      "user": "Esin Saribudak"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
@@ -1517,6 +1502,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
       "source": "Dev.to",
       "user": "Steve Emmerich"
+    },
+    {
+      "title": "Build your own blog post view counter on AWS Free Tier",
+      "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
+      "published_at": "2026-04-21T19:35:19Z",
+      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
+      "tags": [
+        "beginners",
+        "lambda",
+        "dynamodb",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
+      "source": "Dev.to",
+      "user": "Esin Saribudak"
     },
     {
       "title": "Processing long running events on AWS API Gateway",
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "ZeroZ-lab"
     },
     {
@@ -1916,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "simoncirstoiu"
     },
     {
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "vuciv"
     },
     {
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9226,
+      "stars": 9278,
       "user": "kyegomez"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5383,
+      "stars": 5430,
       "user": "browser-use"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2358,
       "user": "EvoLinkAI"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1016,
       "user": "the-hidden-fish"
     },
     {
@@ -2021,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 774,
       "user": "masterking32"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 876,
       "user": "432539"
     },
     {
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 342,
       "user": "brexhq"
     },
     {
@@ -2081,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "londek"
     },
     {
