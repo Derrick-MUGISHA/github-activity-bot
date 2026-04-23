@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
-
-**WebDev**: 🟦🟦 5 (4.8%)
+**Security**: 🟦🟦🟦 9 (8.6%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
+
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 33.0 (33.0%)
-JavaScript      ███████████████████████ 25.0 (25.0%)
-Python          ██████████████████ 19.3 (19.3%)
-Java            ██████████████████ 19.3 (19.3%)
-Rust            █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
+Go              ██████████████████████████████ 33.7 (33.7%)
+JavaScript      ██████████████████████ 24.4 (24.4%)
+Python          ██████████████████ 19.8 (19.8%)
+Java            █████████████████ 18.6 (18.6%)
+Rust            █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 29
-    "JavaScript" : 22
+    "JavaScript" : 21
     "Python" : 17
-    "Java" : 17
+    "Java" : 16
     "Rust" : 1
     "Swift" : 1
     "PHP" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-8-blue) ![security](https://img.shields.io/badge/security-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-8-blue) ![security](https://img.shields.io/badge/security-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-23 19:00 CAT)
+## 📅 Latest Updates (2026-04-23 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,10 +151,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7xrp47km3bovby8weiq.png" width="200" alt="I let a kosher lobster run my Shabbat automations" />
+    <a href="https://dev.to/mindmagic/-trading-is-just-software-engineering-in-disguise-30lh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9fzd1kcpzrbb2rhejacm.JPG" width="200" alt="# Trading is Just Software Engineering in Disguise" />
       <br/>
-      <b>I let a kosher lobster run my Shabbat automations</b>
+      <b># Trading is Just Software Engineering in Disguise</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1nv6jhae5wpczq1qe28f.png" width="200" alt="tinyboot v0.4.0 Released — The API is Stable" />
+    <a href="https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7xrp47km3bovby8weiq.png" width="200" alt="I let a kosher lobster run my Shabbat automations" />
       <br/>
-      <b>tinyboot v0.4.0 Released — The API is Stable</b>
+      <b>I let a kosher lobster run my Shabbat automations</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,9 +197,10 @@ npm run test
 
 - [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
-- [I let a kosher lobster run my Shabbat automations](https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln) _[Dev.to]_
+- [# Trading is Just Software Engineering in Disguise](https://dev.to/mindmagic/-trading-is-just-software-engineering-in-disguise-30lh) _[Dev.to]_
 - [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 - [Stop Worrying and Love AI](https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij) _[Dev.to]_
+- [I let a kosher lobster run my Shabbat automations](https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln) _[Dev.to]_
 - [tinyboot v0.4.0 Released — The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76) _[Dev.to]_
 - [I Built a Mobile Game Without Retention Mechanics. Here's Why.](https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p) _[Dev.to]_
 - [Large Language Models and the Chinese Room](https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
-- [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Thu, 23 Apr 2026 19:44:04 CAT_
+_Last automated update: Thu, 23 Apr 2026 20:46:03 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 23 Apr 2026 19:44:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 3. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 23 Apr 2026 17:44:04 GMT</b><br/>
+  <b>Last automated update: Thu, 23 Apr 2026 18:46:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
