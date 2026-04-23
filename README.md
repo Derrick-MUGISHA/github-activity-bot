@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-23-orange)
 
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.5%)
 
-**Security**: 🟦🟦🟦 8 (7.6%)
+**Security**: 🟦🟦🟦 8 (7.7%)
 
-**WebDev**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 6 (5.8%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -50,7 +50,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -79,7 +79,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
 
 
 
@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-23 2:00 CAT)
+## 📅 Latest Updates (2026-04-23 5:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,14 +203,14 @@ npm run test
 - [I Built a BaaS Where AI Agents Can Onboard Themselves](https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn) _[Dev.to]_
 - [Large Language Models and the Chinese Room](https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
-- [Migrating vector embeddings in production without downtime](https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli) _[Dev.to]_
 - [Add Telephony to a Gemini Live Agent with Twilio](https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 - [Installing pygame for IDLE on Mac](https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb) _[Dev.to]_
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
+- [What To Do If Your Project Was Affected By The Vercel Breach](https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Thu, 23 Apr 2026 02:00:50 CAT_
+_Last automated update: Thu, 23 Apr 2026 05:46:06 CAT_
 
 
 
@@ -218,7 +218,18 @@ _Last automated update: Thu, 23 Apr 2026 02:00:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. SystemDesign: Design a distributed cache system
+
+**Difficulty**: Hard | **Topics**: distributed systems, caching
+
+<details>
+<summary>💡 Hint</summary>
+
+Consistency, partitioning, replication, eviction policies
+
+</details>
+
+### 2. JavaScript: What are closures and provide a practical example?
 
 **Difficulty**: Medium | **Topics**: functions, scope
 
@@ -229,25 +240,14 @@ Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
-
-<details>
-<summary>💡 Hint</summary>
-
-Function wrappers, @syntax, practical uses
-
-</details>
-
-### 3. React: Explain the difference between state and props
-
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 23 Apr 2026 00:00:50 GMT</b><br/>
+  <b>Last automated update: Thu, 23 Apr 2026 03:46:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
