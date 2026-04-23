@@ -616,21 +616,6 @@
       "user": "ZeroZ-lab"
     },
     {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 579,
-      "user": "assai-id"
-    },
-    {
       "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
       "url": "https://github.com/simoncirstoiu/alice",
       "published_at": "2026-04-19T09:32:31Z",
@@ -642,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 178,
       "user": "simoncirstoiu"
     },
     {
@@ -657,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8796,
+      "stars": 8816,
       "user": "kyegomez"
     },
     {
@@ -672,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5006,
+      "stars": 5021,
       "user": "browser-use"
     },
     {
@@ -687,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1699,
       "user": "EvoLinkAI"
     },
     {
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 789,
       "user": "432539"
     },
     {
@@ -732,8 +717,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "brexhq"
+    },
+    {
+      "title": "s-zx/crest - An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "published_at": "2026-04-18T10:48:28Z",
+      "description": "An open source, AI-native terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "s-zx"
     }
   ],
   "JavaScript": [
@@ -991,21 +991,6 @@
       "user": "ZeroZ-lab"
     },
     {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 579,
-      "user": "assai-id"
-    },
-    {
       "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
       "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
       "published_at": "2026-04-19T21:09:49Z",
@@ -1032,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 178,
       "user": "simoncirstoiu"
     },
     {
@@ -1047,8 +1032,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "vuciv"
+    },
+    {
+      "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
+      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
+      "published_at": "2026-04-19T15:36:46Z",
+      "description": "a ggemu.com (play retro games online) sdk example",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "imtonyjaa"
     }
   ],
   "Python": [
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8796,
+      "stars": 8816,
       "user": "kyegomez"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5006,
+      "stars": 5021,
       "user": "browser-use"
     },
     {
@@ -1244,23 +1244,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1699,
       "user": "EvoLinkAI"
-    },
-    {
-      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "published_at": "2026-04-16T07:36:06Z",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
-      "source": "GitHub",
-      "stars": 1155,
-      "user": "wbh604"
     },
     {
       "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
@@ -1274,8 +1259,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 860,
       "user": "the-hidden-fish"
+    },
+    {
+      "title": "masterking32/MasterHttpRelayVPN - GitHub Repository",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "published_at": "2026-04-20T10:32:26Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
+      "source": "GitHub",
+      "stars": 677,
+      "user": "masterking32"
     }
   ],
   "DevOps": [
@@ -1919,21 +1919,6 @@
       "user": "ZeroZ-lab"
     },
     {
-      "title": "assai-id/nemesis - GitHub Repository",
-      "url": "https://github.com/assai-id/nemesis",
-      "published_at": "2026-04-16T07:00:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275414185?v=4",
-      "source": "GitHub",
-      "stars": 579,
-      "user": "assai-id"
-    },
-    {
       "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
       "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
       "published_at": "2026-04-19T21:09:49Z",
@@ -1960,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 178,
       "user": "simoncirstoiu"
     },
     {
@@ -1975,8 +1960,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "vuciv"
+    },
+    {
+      "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
+      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
+      "published_at": "2026-04-19T15:36:46Z",
+      "description": "a ggemu.com (play retro games online) sdk example",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "imtonyjaa"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8796,
+      "stars": 8816,
       "user": "kyegomez"
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5006,
+      "stars": 5021,
       "user": "browser-use"
     },
     {
@@ -2020,23 +2020,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1699,
       "user": "EvoLinkAI"
-    },
-    {
-      "title": "wbh604/UZI-Skill - 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "url": "https://github.com/wbh604/UZI-Skill",
-      "published_at": "2026-04-16T07:36:06Z",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16127958?v=4",
-      "source": "GitHub",
-      "stars": 1155,
-      "user": "wbh604"
     },
     {
       "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
@@ -2050,8 +2035,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 860,
       "user": "the-hidden-fish"
+    },
+    {
+      "title": "masterking32/MasterHttpRelayVPN - GitHub Repository",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "published_at": "2026-04-20T10:32:26Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
+      "source": "GitHub",
+      "stars": 677,
+      "user": "masterking32"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -2065,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 789,
       "user": "432539"
     },
     {
@@ -2095,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "brexhq"
     },
     {
@@ -2110,23 +2110,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 100,
       "user": "londek"
     },
     {
-      "title": "montanaflynn/headless-terminal - Headless terminal — puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt",
-      "url": "https://github.com/montanaflynn/headless-terminal",
-      "published_at": "2026-04-16T19:41:11Z",
-      "description": "Headless terminal — puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt",
+      "title": "s-zx/crest - An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "published_at": "2026-04-18T10:48:28Z",
+      "description": "An open source, AI-native terminal.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24260?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "montanaflynn"
+      "stars": 48,
+      "user": "s-zx"
     }
   ]
 }
