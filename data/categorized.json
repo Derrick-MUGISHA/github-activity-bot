@@ -160,21 +160,6 @@
       "user": "James Candan"
     },
     {
-      "title": "Migrating vector embeddings in production without downtime",
-      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
-      "published_at": "2026-04-21T15:41:50Z",
-      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
-      "tags": [
-        "rag",
-        "ai",
-        "vectordatabase",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Add Telephony to a Gemini Live Agent with Twilio",
       "url": "https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc",
       "published_at": "2026-04-21T14:36:54Z",
@@ -244,21 +229,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
-    },
-    {
-      "title": "Claude skills vs Commands",
-      "url": "https://dev.to/hellonehha/claude-skills-vs-commands-1dcm",
-      "published_at": "2026-04-14T10:13:02Z",
-      "description": "If you are using Claude for “vibe coding”, you may have come across Skills and Commands. Both are...",
-      "tags": [
-        "claude",
-        "ai",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdqadnidh58y3kwnxcc8.png",
-      "source": "Dev.to",
-      "user": "Neha Sharma "
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -363,6 +333,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuk1za95wlnjgcjl9hlgp.png",
       "source": "Dev.to",
       "user": "Romeo Mihalcea"
+    },
+    {
+      "title": "Migrating vector embeddings in production without downtime",
+      "url": "https://dev.to/googleai/migrating-vector-embeddings-in-production-without-downtime-5bli",
+      "published_at": "2026-04-21T15:41:50Z",
+      "description": "In the fast-moving world of AI, models evolve rapidly. What was state-of-the-art six months ago is...",
+      "tags": [
+        "rag",
+        "ai",
+        "vectordatabase",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ts1gkodt41r7uo4l6fz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
@@ -612,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 597,
       "user": "ZeroZ-lab"
     },
     {
@@ -627,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 200,
       "user": "simoncirstoiu"
     },
     {
@@ -642,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8816,
+      "stars": 8974,
       "user": "kyegomez"
     },
     {
@@ -657,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5021,
+      "stars": 5125,
       "user": "browser-use"
     },
     {
@@ -672,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1910,
       "user": "EvoLinkAI"
     },
     {
@@ -687,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 817,
       "user": "432539"
     },
     {
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     },
     {
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 319,
       "user": "brexhq"
     },
     {
@@ -987,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 597,
       "user": "ZeroZ-lab"
     },
     {
@@ -1017,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 200,
       "user": "simoncirstoiu"
     },
     {
@@ -1032,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 178,
       "user": "vuciv"
     },
     {
@@ -1214,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8816,
+      "stars": 8974,
       "user": "kyegomez"
     },
     {
@@ -1229,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5021,
+      "stars": 5125,
       "user": "browser-use"
     },
     {
@@ -1244,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1910,
       "user": "EvoLinkAI"
     },
     {
@@ -1259,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 907,
       "user": "the-hidden-fish"
     },
     {
@@ -1274,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 691,
       "user": "masterking32"
     }
   ],
@@ -1350,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     }
   ],
@@ -1437,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 597,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1915,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 597,
       "user": "ZeroZ-lab"
     },
     {
@@ -1945,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 200,
       "user": "simoncirstoiu"
     },
     {
@@ -1960,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 178,
       "user": "vuciv"
     },
     {
@@ -1990,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 8816,
+      "stars": 8974,
       "user": "kyegomez"
     },
     {
@@ -2005,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5021,
+      "stars": 5125,
       "user": "browser-use"
     },
     {
@@ -2020,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1910,
       "user": "EvoLinkAI"
     },
     {
@@ -2035,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 907,
       "user": "the-hidden-fish"
     },
     {
@@ -2050,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 691,
       "user": "masterking32"
     },
     {
@@ -2065,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 817,
       "user": "432539"
     },
     {
@@ -2080,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     },
     {
@@ -2095,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 319,
       "user": "brexhq"
     },
     {
@@ -2110,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 114,
       "user": "londek"
     },
     {
