@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-23 13:00 CAT)
+## 📅 Latest Updates (2026-04-23 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a) _[Dev.to]_
 
-_Last automated update: Thu, 23 Apr 2026 13:06:40 CAT_
+_Last automated update: Thu, 23 Apr 2026 14:08:17 CAT_
 
 
 
@@ -229,25 +229,25 @@ Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 23 Apr 2026 11:06:40 GMT</b><br/>
+  <b>Last automated update: Thu, 23 Apr 2026 12:08:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
