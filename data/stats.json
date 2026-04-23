@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -37,6 +37,7 @@
     "2026-04-13": 1,
     "2026-04-11": 1,
     "2026-04-06": 1,
+    "2026-04-10": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -81,9 +82,9 @@
     "javascript": 8,
     "python": 7,
     "security": 7,
+    "discuss": 7,
     "opensource": 7,
     "tutorial": 6,
-    "discuss": 6,
     "gemini": 5,
     "aws": 5,
     "weekendchallenge": 4,
