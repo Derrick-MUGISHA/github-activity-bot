@@ -612,8 +612,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "simoncirstoiu"
+    },
+    {
+      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "url": "https://github.com/levelsio/superlevels",
+      "published_at": "2026-04-23T12:06:46Z",
+      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
+      "source": "GitHub",
+      "stars": 180,
+      "user": "levelsio"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -627,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9542,
+      "stars": 9579,
       "user": "kyegomez"
     },
     {
@@ -642,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5705,
+      "stars": 5756,
       "user": "browser-use"
     },
     {
@@ -657,8 +672,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2619,
       "user": "EvoLinkAI"
+    },
+    {
+      "title": "openai/privacy-filter - OpenAI Privacy Filter",
+      "url": "https://github.com/openai/privacy-filter",
+      "published_at": "2026-04-17T22:49:09Z",
+      "description": "OpenAI Privacy Filter",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 868,
+      "user": "openai"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -672,8 +702,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 921,
       "user": "432539"
+    },
+    {
+      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "url": "https://github.com/brexhq/CrabTrap",
+      "published_at": "2026-04-17T18:47:45Z",
+      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
+      "source": "GitHub",
+      "stars": 381,
+      "user": "brexhq"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -691,21 +736,6 @@
       "user": "Quorinex"
     },
     {
-      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "url": "https://github.com/brexhq/CrabTrap",
-      "published_at": "2026-04-17T18:47:45Z",
-      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "brexhq"
-    },
-    {
       "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
       "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
       "published_at": "2026-04-21T17:52:08Z",
@@ -717,26 +747,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "peiyizhi0724"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
-      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
-      "published_at": "2026-04-17T18:38:12Z",
-      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
-      "tags": [
-        "nestjs",
-        "javascript",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
-      "source": "Dev.to",
-      "user": "Oladele David "
-    },
     {
       "title": "Orchestrating Agents via ADK for TypeScript and Gemini CLI",
       "url": "https://dev.to/gde/orchestrating-agents-via-adk-for-typescript-and-gemini-cli-jco",
@@ -987,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "simoncirstoiu"
     },
     {
@@ -1006,19 +1021,19 @@
       "user": "vuciv"
     },
     {
-      "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
-      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
-      "published_at": "2026-04-19T15:36:46Z",
-      "description": "a ggemu.com (play retro games online) sdk example",
+      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "url": "https://github.com/levelsio/superlevels",
+      "published_at": "2026-04-23T12:06:46Z",
+      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 161,
-      "user": "imtonyjaa"
+      "stars": 180,
+      "user": "levelsio"
     }
   ],
   "Python": [
@@ -1184,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9542,
+      "stars": 9579,
       "user": "kyegomez"
     },
     {
@@ -1199,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5705,
+      "stars": 5756,
       "user": "browser-use"
     },
     {
@@ -1214,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2619,
       "user": "EvoLinkAI"
     },
     {
@@ -1229,23 +1244,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1022,
       "user": "the-hidden-fish"
     },
     {
-      "title": "masterking32/MasterHttpRelayVPN - GitHub Repository",
-      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-      "published_at": "2026-04-20T10:32:26Z",
-      "description": "Trending GitHub Repository",
+      "title": "openai/privacy-filter - OpenAI Privacy Filter",
+      "url": "https://github.com/openai/privacy-filter",
+      "published_at": "2026-04-17T22:49:09Z",
+      "description": "OpenAI Privacy Filter",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 848,
-      "user": "masterking32"
+      "stars": 868,
+      "user": "openai"
     }
   ],
   "DevOps": [
@@ -1311,21 +1326,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
-      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
-      "published_at": "2026-04-17T18:38:12Z",
-      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
-      "tags": [
-        "nestjs",
-        "javascript",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
-      "source": "Dev.to",
-      "user": "Oladele David "
-    },
     {
       "title": "Partial Password Authentication",
       "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
@@ -1768,6 +1768,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "url": "https://github.com/levelsio/superlevels",
+      "published_at": "2026-04-23T12:06:46Z",
+      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
+      "source": "GitHub",
+      "stars": 180,
+      "user": "levelsio"
     }
   ],
   "Tools": [
@@ -1887,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "simoncirstoiu"
     },
     {
@@ -1906,19 +1921,19 @@
       "user": "vuciv"
     },
     {
-      "title": "imtonyjaa/ggemu-fishing-joy - a ggemu.com (play retro games online) sdk example",
-      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy",
-      "published_at": "2026-04-19T15:36:46Z",
-      "description": "a ggemu.com (play retro games online) sdk example",
+      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "url": "https://github.com/levelsio/superlevels",
+      "published_at": "2026-04-23T12:06:46Z",
+      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208459185?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 161,
-      "user": "imtonyjaa"
+      "stars": 180,
+      "user": "levelsio"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -1932,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9542,
+      "stars": 9579,
       "user": "kyegomez"
     },
     {
@@ -1947,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5705,
+      "stars": 5756,
       "user": "browser-use"
     },
     {
@@ -1962,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2619,
       "user": "EvoLinkAI"
     },
     {
@@ -1977,23 +1992,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1022,
       "user": "the-hidden-fish"
     },
     {
-      "title": "masterking32/MasterHttpRelayVPN - GitHub Repository",
-      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-      "published_at": "2026-04-20T10:32:26Z",
-      "description": "Trending GitHub Repository",
+      "title": "openai/privacy-filter - OpenAI Privacy Filter",
+      "url": "https://github.com/openai/privacy-filter",
+      "published_at": "2026-04-17T22:49:09Z",
+      "description": "OpenAI Privacy Filter",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 848,
-      "user": "masterking32"
+      "stars": 868,
+      "user": "openai"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -2007,8 +2022,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 921,
       "user": "432539"
+    },
+    {
+      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "url": "https://github.com/brexhq/CrabTrap",
+      "published_at": "2026-04-17T18:47:45Z",
+      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
+      "source": "GitHub",
+      "stars": 381,
+      "user": "brexhq"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -2026,21 +2056,6 @@
       "user": "Quorinex"
     },
     {
-      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "url": "https://github.com/brexhq/CrabTrap",
-      "published_at": "2026-04-17T18:47:45Z",
-      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "brexhq"
-    },
-    {
       "title": "londek/ipadecrypt - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention.",
       "url": "https://github.com/londek/ipadecrypt",
       "published_at": "2026-04-17T22:42:33Z",
@@ -2052,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "londek"
     },
     {
@@ -2067,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "peiyizhi0724"
     }
   ]
