@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26",
+      "url": "https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574",
+      "published_at": "2026-04-23T15:45:10Z",
+      "description": "The era of “chatting with AI” has officially evolved into the era of “AI doing the work.” This year...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "agentskills",
+        "agentplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbt5b14kl7j4s76vvn5e.png",
+      "source": "Dev.to",
+      "user": "Ibtissem Hattab"
+    },
+    {
       "title": "Stop Worrying and Love AI",
       "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
       "published_at": "2026-04-22T14:17:41Z",
@@ -28,6 +43,21 @@
       "user": "Damilola Oshungboye"
     },
     {
+      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
+      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
+      "published_at": "2026-04-22T22:58:00Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
+    },
+    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -43,20 +73,6 @@
       "user": "Maciej Strzelczyk"
     },
     {
-      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
-      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
-      "published_at": "2026-04-20T08:30:19Z",
-      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
-      "tags": [
-        "database",
-        "postgres",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
-      "source": "Dev.to",
-      "user": "Mateusz Woźniak"
-    },
-    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -70,6 +86,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
       "source": "Dev.to",
       "user": "Simme"
+    },
+    {
+      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
+      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
+      "published_at": "2026-04-23T02:28:09Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
+      "source": "Dev.to",
+      "user": "Wan Satya"
+    },
+    {
+      "title": "Claude and I aren't vibing at all",
+      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
+      "published_at": "2026-04-23T02:48:08Z",
+      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
+      "tags": [
+        "claude",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
+      "source": "Dev.to",
+      "user": "Nikhil Sharma"
     },
     {
       "title": "I built a WordPress plugin that generates llms.txt from your sitemap",
@@ -115,21 +159,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
-      "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
-      "published_at": "2026-04-20T12:59:00Z",
-      "description": "Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.",
-      "tags": [
-        "ai",
-        "agents",
-        "cloudflare",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
-      "source": "Dev.to",
-      "user": "Steve Emmerich"
     },
     {
       "title": "Large Language Models and the Chinese Room",
@@ -425,21 +454,6 @@
       "user": "Abhishek"
     },
     {
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
-      "published_at": "2026-04-19T15:22:44Z",
-      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
-      "source": "Dev.to",
-      "user": "Basti Ortiz"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -583,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "ZeroZ-lab"
     },
     {
@@ -598,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 243,
       "user": "simoncirstoiu"
     },
     {
@@ -613,14 +627,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9423,
+      "stars": 9490,
       "user": "kyegomez"
     },
     {
-      "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+      "title": "browser-use/browser-harness - Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "url": "https://github.com/browser-use/browser-harness",
       "published_at": "2026-04-17T01:56:15Z",
-      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "tags": [
         "python",
         "github",
@@ -628,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5548,
+      "stars": 5626,
       "user": "browser-use"
     },
     {
@@ -643,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2556,
       "user": "EvoLinkAI"
     },
     {
@@ -658,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 907,
       "user": "432539"
     },
     {
@@ -673,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     },
     {
@@ -688,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 371,
       "user": "brexhq"
     },
     {
@@ -810,21 +824,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
       "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-      "published_at": "2026-04-13T16:51:07Z",
-      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "webcomponents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
-      "source": "Dev.to",
-      "user": "Volker Schukai"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -958,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "ZeroZ-lab"
     },
     {
@@ -988,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 243,
       "user": "simoncirstoiu"
     },
     {
@@ -1003,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 208,
       "user": "vuciv"
     },
     {
@@ -1185,14 +1184,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9423,
+      "stars": 9490,
       "user": "kyegomez"
     },
     {
-      "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+      "title": "browser-use/browser-harness - Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "url": "https://github.com/browser-use/browser-harness",
       "published_at": "2026-04-17T01:56:15Z",
-      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "tags": [
         "python",
         "github",
@@ -1200,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5548,
+      "stars": 5626,
       "user": "browser-use"
     },
     {
@@ -1215,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2556,
       "user": "EvoLinkAI"
     },
     {
@@ -1230,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1018,
       "user": "the-hidden-fish"
     },
     {
@@ -1245,25 +1244,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 837,
       "user": "masterking32"
     }
   ],
   "DevOps": [
-    {
-      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
-      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
-      "published_at": "2026-04-20T08:30:19Z",
-      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
-      "tags": [
-        "database",
-        "postgres",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
-      "source": "Dev.to",
-      "user": "Mateusz Woźniak"
-    },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
@@ -1321,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     }
   ],
@@ -1370,21 +1355,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-      "published_at": "2026-04-13T16:51:07Z",
-      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "webcomponents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
-      "source": "Dev.to",
-      "user": "Volker Schukai"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1408,11 +1378,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "ZeroZ-lab"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "I Built a Mobile Game Without Retention Mechanics. Here's Why.",
+      "url": "https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941",
+      "published_at": "2026-04-23T05:05:33Z",
+      "description": "I shipped Gapshot a few weeks ago. It's a small iOS arcade game one tap, rotating rings, you try to...",
+      "tags": [
+        "gamedev",
+        "ios",
+        "mobile",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fec7x4kgr69hg547ljhoz.png",
+      "source": "Dev.to",
+      "user": "Javier Morant"
+    }
+  ],
   "Cloud": [
     {
       "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
@@ -1429,6 +1415,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26",
+      "url": "https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574",
+      "published_at": "2026-04-23T15:45:10Z",
+      "description": "The era of “chatting with AI” has officially evolved into the era of “AI doing the work.” This year...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "agentskills",
+        "agentplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbt5b14kl7j4s76vvn5e.png",
+      "source": "Dev.to",
+      "user": "Ibtissem Hattab"
+    },
+    {
+      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
+      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
+      "published_at": "2026-04-22T22:58:00Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
+    },
+    {
       "title": "TPU Mythbusting: vendor lock-in",
       "url": "https://dev.to/googleai/tpu-mythbusting-vendor-lock-in-pbo",
       "published_at": "2026-04-20T16:11:30Z",
@@ -1442,6 +1458,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0o1i0c8tuycn16xywmr.webp",
       "source": "Dev.to",
       "user": "Maciej Strzelczyk"
+    },
+    {
+      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
+      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
+      "published_at": "2026-04-23T02:28:09Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
+      "source": "Dev.to",
+      "user": "Wan Satya"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
@@ -1472,21 +1502,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "I Built a BaaS Where AI Agents Can Onboard Themselves",
-      "url": "https://dev.to/steveemmerich/i-built-a-baas-where-ai-agents-can-onboard-themselves-11nn",
-      "published_at": "2026-04-20T12:59:00Z",
-      "description": "Vibebase gives AI agents identity, email, and service access without handing them raw API keys. Agents start autonomously and humans can claim them later.",
-      "tags": [
-        "ai",
-        "agents",
-        "cloudflare",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zyfz61htwz7wk1v0wrl.png",
-      "source": "Dev.to",
-      "user": "Steve Emmerich"
     },
     {
       "title": "Build your own blog post view counter on AWS Free Tier",
@@ -1609,20 +1624,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7ijw8unazlc8wzyrxjs.png",
       "source": "Dev.to",
       "user": "Damilola Oshungboye"
-    },
-    {
-      "title": "I built a self-hosted PostgreSQL Control Plane that runs on single Docker container",
-      "url": "https://dev.to/matisiekpl/i-built-a-self-hosted-postgresql-control-plane-that-runs-on-single-docker-container-30gm",
-      "published_at": "2026-04-20T08:30:19Z",
-      "description": "I built NeonD — an open-source, self-hosted control plane for PostgreSQL inspired by Neon. It gives you branching, point-in-time recovery, and S3-backed durability, all running from a single Docker container on dedicated server.",
-      "tags": [
-        "database",
-        "postgres",
-        "selfhosted"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9m34bvs9lod7p9wk6mn.png",
-      "source": "Dev.to",
-      "user": "Mateusz Woźniak"
     },
     {
       "title": "Migrating vector embeddings in production without downtime",
@@ -1845,21 +1846,6 @@
       "user": "Abhishek"
     },
     {
-      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
-      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
-      "published_at": "2026-04-11T15:55:53Z",
-      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
-      "tags": [
-        "github",
-        "opensource",
-        "development",
-        "repository"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1871,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "ZeroZ-lab"
     },
     {
@@ -1901,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 243,
       "user": "simoncirstoiu"
     },
     {
@@ -1916,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 208,
       "user": "vuciv"
     },
     {
@@ -1946,14 +1932,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9423,
+      "stars": 9490,
       "user": "kyegomez"
     },
     {
-      "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+      "title": "browser-use/browser-harness - Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "url": "https://github.com/browser-use/browser-harness",
       "published_at": "2026-04-17T01:56:15Z",
-      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "tags": [
         "python",
         "github",
@@ -1961,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5548,
+      "stars": 5626,
       "user": "browser-use"
     },
     {
@@ -1976,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2556,
       "user": "EvoLinkAI"
     },
     {
@@ -1991,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1018,
       "user": "the-hidden-fish"
     },
     {
@@ -2006,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 837,
       "user": "masterking32"
     },
     {
@@ -2021,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 907,
       "user": "432539"
     },
     {
@@ -2036,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Quorinex"
     },
     {
@@ -2051,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 371,
       "user": "brexhq"
     },
     {
@@ -2066,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 139,
       "user": "londek"
     },
     {
