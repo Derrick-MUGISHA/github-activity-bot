@@ -88,20 +88,6 @@
       "user": "Simme"
     },
     {
-      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
-      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
-      "published_at": "2026-04-23T02:28:09Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
-      "source": "Dev.to",
-      "user": "Wan Satya"
-    },
-    {
       "title": "Claude and I aren't vibing at all",
       "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
       "published_at": "2026-04-23T02:48:08Z",
@@ -114,6 +100,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
       "source": "Dev.to",
       "user": "Nikhil Sharma"
+    },
+    {
+      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
+      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
+      "published_at": "2026-04-23T02:28:09Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
+      "source": "Dev.to",
+      "user": "Wan Satya"
     },
     {
       "title": "I built a WordPress plugin that generates llms.txt from your sitemap",
@@ -597,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "ZeroZ-lab"
     },
     {
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "simoncirstoiu"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9490,
+      "stars": 9542,
       "user": "kyegomez"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5626,
+      "stars": 5705,
       "user": "browser-use"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2556,
+      "stars": 2603,
       "user": "EvoLinkAI"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 918,
       "user": "432539"
     },
     {
@@ -702,23 +702,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 378,
       "user": "brexhq"
     },
     {
-      "title": "s-zx/crest - An open source, AI-native terminal.",
-      "url": "https://github.com/s-zx/crest",
-      "published_at": "2026-04-18T10:48:28Z",
-      "description": "An open source, AI-native terminal.",
+      "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
+      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
+      "published_at": "2026-04-21T17:52:08Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 48,
-      "user": "s-zx"
+      "stars": 55,
+      "user": "peiyizhi0724"
     }
   ],
   "JavaScript": [
@@ -957,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "ZeroZ-lab"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "simoncirstoiu"
     },
     {
@@ -1002,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "vuciv"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9490,
+      "stars": 9542,
       "user": "kyegomez"
     },
     {
@@ -1199,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5626,
+      "stars": 5705,
       "user": "browser-use"
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2556,
+      "stars": 2603,
       "user": "EvoLinkAI"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1021,
       "user": "the-hidden-fish"
     },
     {
@@ -1244,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 848,
       "user": "masterking32"
     }
   ],
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1857,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 612,
       "user": "ZeroZ-lab"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "simoncirstoiu"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "vuciv"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9490,
+      "stars": 9542,
       "user": "kyegomez"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5626,
+      "stars": 5705,
       "user": "browser-use"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2556,
+      "stars": 2603,
       "user": "EvoLinkAI"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1021,
       "user": "the-hidden-fish"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 848,
       "user": "masterking32"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 918,
       "user": "432539"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 378,
       "user": "brexhq"
     },
     {
@@ -2052,23 +2052,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 141,
       "user": "londek"
     },
     {
-      "title": "s-zx/crest - An open source, AI-native terminal.",
-      "url": "https://github.com/s-zx/crest",
-      "published_at": "2026-04-18T10:48:28Z",
-      "description": "An open source, AI-native terminal.",
+      "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
+      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
+      "published_at": "2026-04-21T17:52:08Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 48,
-      "user": "s-zx"
+      "stars": 55,
+      "user": "peiyizhi0724"
     }
   ]
 }
