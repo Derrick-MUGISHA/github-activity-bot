@@ -16,6 +16,18 @@
       "user": "Matty Stratton"
     },
     {
+      "title": "Stop Worrying and Love AI",
+      "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
+      "published_at": "2026-04-22T14:17:41Z",
+      "description": "How to replace existential dread for the future of software development with hope for your own future",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp",
+      "source": "Dev.to",
+      "user": "Ryan Kahn"
+    },
+    {
       "title": "From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26",
       "url": "https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574",
       "published_at": "2026-04-23T15:45:10Z",
@@ -29,18 +41,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbt5b14kl7j4s76vvn5e.png",
       "source": "Dev.to",
       "user": "Ibtissem Hattab"
-    },
-    {
-      "title": "Stop Worrying and Love AI",
-      "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
-      "published_at": "2026-04-22T14:17:41Z",
-      "description": "How to replace existential dread for the future of software development with hope for your own future",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp",
-      "source": "Dev.to",
-      "user": "Ryan Kahn"
     },
     {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
@@ -552,23 +552,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "ZeroZ-lab"
-    },
-    {
-      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "url": "https://github.com/simoncirstoiu/alice",
-      "published_at": "2026-04-19T09:32:31Z",
-      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "simoncirstoiu"
     },
     {
       "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
@@ -582,8 +567,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 260,
       "user": "levelsio"
+    },
+    {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 256,
+      "user": "simoncirstoiu"
     },
     {
       "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
@@ -597,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9686,
+      "stars": 9779,
       "user": "kyegomez"
     },
     {
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2672,
+      "stars": 2866,
       "user": "EvoLinkAI"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 911,
       "user": "masterking32"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 768,
       "user": "OranAi-Ltd"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 945,
       "user": "432539"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "Quorinex"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 64,
       "user": "peiyizhi0724"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "ZeroZ-lab"
     },
     {
@@ -931,21 +931,6 @@
       "user": "Ledger-Wallet-LLC"
     },
     {
-      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "url": "https://github.com/simoncirstoiu/alice",
-      "published_at": "2026-04-19T09:32:31Z",
-      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "simoncirstoiu"
-    },
-    {
       "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
       "url": "https://github.com/levelsio/superlevels",
       "published_at": "2026-04-23T12:06:46Z",
@@ -957,8 +942,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 260,
       "user": "levelsio"
+    },
+    {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 256,
+      "user": "simoncirstoiu"
     },
     {
       "title": "vuciv/artblock - Every ad on the internet, replaced with fine art from public museum and NASA collections.",
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "vuciv"
     }
   ],
@@ -1139,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9686,
+      "stars": 9779,
       "user": "kyegomez"
     },
     {
@@ -1154,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2672,
+      "stars": 2866,
       "user": "EvoLinkAI"
     },
     {
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1035,
       "user": "the-hidden-fish"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 911,
       "user": "masterking32"
     },
     {
@@ -1199,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 768,
       "user": "OranAi-Ltd"
     }
   ],
@@ -1261,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "Quorinex"
     }
   ],
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1706,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 260,
       "user": "levelsio"
     }
   ],
@@ -1812,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "ZeroZ-lab"
     },
     {
@@ -1831,21 +1831,6 @@
       "user": "Ledger-Wallet-LLC"
     },
     {
-      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "url": "https://github.com/simoncirstoiu/alice",
-      "published_at": "2026-04-19T09:32:31Z",
-      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "simoncirstoiu"
-    },
-    {
       "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
       "url": "https://github.com/levelsio/superlevels",
       "published_at": "2026-04-23T12:06:46Z",
@@ -1857,8 +1842,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 260,
       "user": "levelsio"
+    },
+    {
+      "title": "simoncirstoiu/alice - Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "published_at": "2026-04-19T09:32:31Z",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
+      "source": "GitHub",
+      "stars": 256,
+      "user": "simoncirstoiu"
     },
     {
       "title": "vuciv/artblock - Every ad on the internet, replaced with fine art from public museum and NASA collections.",
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "vuciv"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9686,
+      "stars": 9779,
       "user": "kyegomez"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2672,
+      "stars": 2866,
       "user": "EvoLinkAI"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1035,
       "user": "the-hidden-fish"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 911,
       "user": "masterking32"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 768,
       "user": "OranAi-Ltd"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 945,
       "user": "432539"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/257893540?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "Quorinex"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 64,
       "user": "peiyizhi0724"
     },
     {
