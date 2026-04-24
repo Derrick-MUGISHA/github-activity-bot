@@ -134,20 +134,6 @@
       "user": "Nikhil Sharma"
     },
     {
-      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
-      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
-      "published_at": "2026-04-23T02:28:09Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
-      "source": "Dev.to",
-      "user": "Wan Satya"
-    },
-    {
       "title": "I built a WordPress plugin that generates llms.txt from your sitemap",
       "url": "https://dev.to/lboneluv/i-built-a-wordpress-plugin-that-generates-llmstxt-from-your-sitemap-idp",
       "published_at": "2026-04-21T19:56:54Z",
@@ -554,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "levelsio"
     },
     {
@@ -584,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10025,
+      "stars": 10041,
       "user": "kyegomez"
     },
     {
@@ -599,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3188,
+      "stars": 3192,
       "user": "EvoLinkAI"
     },
     {
@@ -614,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1050,
       "user": "deepseek-ai"
     },
     {
@@ -629,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1013,
       "user": "masterking32"
     },
     {
@@ -644,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1007,
       "user": "432539"
     },
     {
@@ -929,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "levelsio"
     },
     {
@@ -944,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 312,
       "user": "earthtojake"
     },
     {
@@ -1141,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10025,
+      "stars": 10041,
       "user": "kyegomez"
     },
     {
@@ -1156,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3188,
+      "stars": 3192,
       "user": "EvoLinkAI"
     },
     {
@@ -1171,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1053,
       "user": "the-hidden-fish"
     },
     {
@@ -1186,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1050,
       "user": "deepseek-ai"
     },
     {
@@ -1201,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1013,
       "user": "masterking32"
     }
   ],
@@ -1388,6 +1374,20 @@
   ],
   "Cloud": [
     {
+      "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.",
+      "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2",
+      "published_at": "2026-04-24T10:39:57Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  I'm running something called The...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
+    },
+    {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
       "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
       "published_at": "2026-04-24T14:41:58Z",
@@ -1447,20 +1447,6 @@
       "user": "Ibtissem Hattab"
     },
     {
-      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
-      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
-      "published_at": "2026-04-23T02:28:09Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
-      "source": "Dev.to",
-      "user": "Wan Satya"
-    },
-    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -1474,21 +1460,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "Build your own blog post view counter on AWS Free Tier",
-      "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
-      "published_at": "2026-04-21T19:35:19Z",
-      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
-      "tags": [
-        "beginners",
-        "lambda",
-        "dynamodb",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
-      "source": "Dev.to",
-      "user": "Esin Saribudak"
     },
     {
       "title": "Processing long running events on AWS API Gateway",
@@ -1753,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "levelsio"
     }
   ],
@@ -1884,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "levelsio"
     },
     {
@@ -1899,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 312,
       "user": "earthtojake"
     },
     {
@@ -1944,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10025,
+      "stars": 10041,
       "user": "kyegomez"
     },
     {
@@ -1959,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3188,
+      "stars": 3192,
       "user": "EvoLinkAI"
     },
     {
@@ -1974,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1053,
       "user": "the-hidden-fish"
     },
     {
@@ -1989,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1050,
       "user": "deepseek-ai"
     },
     {
@@ -2004,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1013,
       "user": "masterking32"
     },
     {
@@ -2019,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1007,
       "user": "432539"
     },
     {
@@ -2049,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 192,
       "user": "NV404"
     },
     {
