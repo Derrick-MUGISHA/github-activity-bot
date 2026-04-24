@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "A Map for the First-Time Software Creator",
+      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
+      "published_at": "2026-04-24T19:29:01Z",
+      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
+      "tags": [
+        "beginners",
+        "webdev",
+        "ai",
+        "nocode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
       "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
       "published_at": "2026-04-24T14:41:58Z",
@@ -75,21 +90,6 @@
       "user": "Damilola Oshungboye"
     },
     {
-      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
-      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
-      "published_at": "2026-04-22T22:58:00Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
-      "source": "Dev.to",
-      "user": "Sonika Janagill"
-    },
-    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -120,35 +120,6 @@
       "user": "Ibtissem Hattab"
     },
     {
-      "title": "Claude and I aren't vibing at all",
-      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
-      "published_at": "2026-04-23T02:48:08Z",
-      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
-      "tags": [
-        "claude",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
-      "source": "Dev.to",
-      "user": "Nikhil Sharma"
-    },
-    {
-      "title": "I built a WordPress plugin that generates llms.txt from your sitemap",
-      "url": "https://dev.to/lboneluv/i-built-a-wordpress-plugin-that-generates-llmstxt-from-your-sitemap-idp",
-      "published_at": "2026-04-21T19:56:54Z",
-      "description": "If you've been following the GEO (Generative Engine Optimization) space, you've probably heard of...",
-      "tags": [
-        "wordpress",
-        "php",
-        "seo",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4j9xxmnoxjg696f1bu8.png",
-      "source": "Dev.to",
-      "user": "José Manuel Ramírez"
-    },
-    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -162,20 +133,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "Large Language Models and the Chinese Room",
-      "url": "https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d",
-      "published_at": "2026-04-21T10:08:00Z",
-      "description": "It’s very easy to fool humans. We love to fill in gaps.  We see patterns and assume intelligence. We...",
-      "tags": [
-        "ai",
-        "llms",
-        "development"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fwp-1582925757078.jpg%3Fw%3D1200",
-      "source": "Dev.to",
-      "user": "Craig Nicol (he/him)"
     },
     {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
@@ -248,6 +205,21 @@
       "user": "kotakanbe"
     },
     {
+      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
+      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
+      "published_at": "2026-04-22T22:58:00Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
+    },
+    {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
       "published_at": "2026-04-14T21:55:29Z",
@@ -261,6 +233,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Claude and I aren't vibing at all",
+      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
+      "published_at": "2026-04-23T02:48:08Z",
+      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
+      "tags": [
+        "claude",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
+      "source": "Dev.to",
+      "user": "Nikhil Sharma"
+    },
+    {
+      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
+      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
+      "published_at": "2026-04-23T02:28:09Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
+      "source": "Dev.to",
+      "user": "Wan Satya"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
@@ -290,21 +290,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
       "source": "Dev.to",
       "user": "Jono Herrington"
-    },
-    {
-      "title": "What a VPN Actually Protects You From (A Developer's Threat Model)",
-      "url": "https://dev.to/ciokan/what-a-vpn-actually-protects-you-from-a-developers-threat-model-4h95",
-      "published_at": "2026-04-21T02:22:36Z",
-      "description": "What a VPN Actually Protects You From (A Developer's Threat Model)   Every \"VPN explained\"...",
-      "tags": [
-        "privacy",
-        "networking",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuk1za95wlnjgcjl9hlgp.png",
-      "source": "Dev.to",
-      "user": "Romeo Mihalcea"
     },
     {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
@@ -380,6 +365,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
+    },
+    {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "source": "Dev.to",
+      "user": "Abhishek"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -540,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "levelsio"
     },
     {
@@ -555,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "simoncirstoiu"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10041,
+      "stars": 10051,
       "user": "kyegomez"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3192,
+      "stars": 3196,
       "user": "EvoLinkAI"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1057,
       "user": "deepseek-ai"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1020,
       "user": "masterking32"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "peiyizhi0724"
     }
   ],
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "levelsio"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "earthtojake"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "simoncirstoiu"
     }
   ],
@@ -1127,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10041,
+      "stars": 10051,
       "user": "kyegomez"
     },
     {
@@ -1142,8 +1142,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3192,
+      "stars": 3196,
       "user": "EvoLinkAI"
+    },
+    {
+      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+      "url": "https://github.com/deepseek-ai/TileKernels",
+      "published_at": "2026-04-22T05:38:31Z",
+      "description": "A kernel library written in tilelang",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 1057,
+      "user": "deepseek-ai"
     },
     {
       "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
@@ -1161,21 +1176,6 @@
       "user": "the-hidden-fish"
     },
     {
-      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-      "url": "https://github.com/deepseek-ai/TileKernels",
-      "published_at": "2026-04-22T05:38:31Z",
-      "description": "A kernel library written in tilelang",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 1050,
-      "user": "deepseek-ai"
-    },
-    {
       "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "published_at": "2026-04-20T10:32:26Z",
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1020,
       "user": "masterking32"
     }
   ],
@@ -1313,6 +1313,21 @@
       "user": "Muhammad Hassan"
     },
     {
+      "title": "Congrats to the 2026 WeCoded Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee",
+      "published_at": "2026-04-16T21:34:36Z",
+      "description": "The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...",
+      "tags": [
+        "devchallenge",
+        "wecoded",
+        "frontend",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1403,21 +1418,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
-      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
-      "published_at": "2026-04-22T22:58:00Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
-      "source": "Dev.to",
-      "user": "Sonika Janagill"
-    },
-    {
       "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
       "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
       "published_at": "2026-04-22T14:09:18Z",
@@ -1477,6 +1477,21 @@
       "user": "Evertson Croes"
     },
     {
+      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
+      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
+      "published_at": "2026-04-22T22:58:00Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
+    },
+    {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
       "published_at": "2026-04-14T21:55:29Z",
@@ -1490,6 +1505,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
+      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
+      "published_at": "2026-04-23T02:28:09Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
+      "source": "Dev.to",
+      "user": "Wan Satya"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
@@ -1535,6 +1564,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Build your own blog post view counter on AWS Free Tier",
+      "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
+      "published_at": "2026-04-21T19:35:19Z",
+      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
+      "tags": [
+        "beginners",
+        "lambda",
+        "dynamodb",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
+      "source": "Dev.to",
+      "user": "Esin Saribudak"
     },
     {
       "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
@@ -1643,21 +1687,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "What a VPN Actually Protects You From (A Developer's Threat Model)",
-      "url": "https://dev.to/ciokan/what-a-vpn-actually-protects-you-from-a-developers-threat-model-4h95",
-      "published_at": "2026-04-21T02:22:36Z",
-      "description": "What a VPN Actually Protects You From (A Developer's Threat Model)   Every \"VPN explained\"...",
-      "tags": [
-        "privacy",
-        "networking",
-        "security",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuk1za95wlnjgcjl9hlgp.png",
-      "source": "Dev.to",
-      "user": "Romeo Mihalcea"
-    },
-    {
       "title": "What To Do If Your Project Was Affected By The Vercel Breach",
       "url": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76",
       "published_at": "2026-04-21T11:57:58Z",
@@ -1724,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "levelsio"
     }
   ],
@@ -1829,6 +1858,21 @@
       "user": "Ender Ahmet Yurt"
     },
     {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "source": "Dev.to",
+      "user": "Abhishek"
+    },
+    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1855,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "levelsio"
     },
     {
@@ -1870,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "earthtojake"
     },
     {
@@ -1900,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "simoncirstoiu"
     },
     {
@@ -1915,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10041,
+      "stars": 10051,
       "user": "kyegomez"
     },
     {
@@ -1930,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3192,
+      "stars": 3196,
       "user": "EvoLinkAI"
+    },
+    {
+      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+      "url": "https://github.com/deepseek-ai/TileKernels",
+      "published_at": "2026-04-22T05:38:31Z",
+      "description": "A kernel library written in tilelang",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 1057,
+      "user": "deepseek-ai"
     },
     {
       "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
@@ -1949,21 +2008,6 @@
       "user": "the-hidden-fish"
     },
     {
-      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-      "url": "https://github.com/deepseek-ai/TileKernels",
-      "published_at": "2026-04-22T05:38:31Z",
-      "description": "A kernel library written in tilelang",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 1050,
-      "user": "deepseek-ai"
-    },
-    {
       "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "published_at": "2026-04-20T10:32:26Z",
@@ -1975,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1020,
       "user": "masterking32"
     },
     {
@@ -2020,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 201,
       "user": "NV404"
     },
     {
@@ -2035,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "peiyizhi0724"
     },
     {
