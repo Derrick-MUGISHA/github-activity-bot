@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-24-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.5%)
 
-**Security**: 🟦🟦🟦🟦 9 (8.6%)
+**Security**: 🟦🟦🟦🟦 9 (8.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 34.4 (34.4%)
-JavaScript      ████████████████████ 23.3 (23.3%)
-Java            █████████████████ 20.0 (20.0%)
-Python          ████████████████ 18.9 (18.9%)
+Go              ██████████████████████████████ 33.7 (33.7%)
+JavaScript      █████████████████████ 23.6 (23.6%)
+Java            ██████████████████ 20.2 (20.2%)
+Python          █████████████████ 19.1 (19.1%)
 Rust            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
@@ -72,7 +72,7 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 31
+    "Go" : 30
     "JavaScript" : 21
     "Java" : 18
     "Python" : 17
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
+![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![security](https://img.shields.io/badge/security-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-24 17:00 CAT)
+## 📅 Latest Updates (2026-04-24 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -151,10 +151,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png" width="200" alt="Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!" />
+    <a href="https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp" width="200" alt="A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions" />
       <br/>
-      <b>Watch the Google Cloud NEXT '26 Sessions and Enter...</b>
+      <b>A Practical Guide to Flutter Accessibility Part 2:...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,10 +162,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp" width="200" alt="A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions" />
+    <a href="https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png" width="200" alt="Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!" />
       <br/>
-      <b>A Practical Guide to Flutter Accessibility Part 2:...</b>
+      <b>Watch the Google Cloud NEXT '26 Sessions and Enter...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,8 +201,8 @@ https://github.com/mat...</b>
 
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
 - [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
-- [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 - [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
+- [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 - [A Stitch at a time](https://dev.to/gde/a-stitch-at-a-time-j20) _[Dev.to]_
 - [This is pretty exciting!
 
@@ -222,7 +222,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 - [I built a minimal timing game for iOS without retention mechanics. Here’s why](https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941) _[Dev.to]_
 
-_Last automated update: Fri, 24 Apr 2026 17:45:37 CAT_
+_Last automated update: Fri, 24 Apr 2026 18:52:01 CAT_
 
 
 
@@ -230,36 +230,36 @@ _Last automated update: Fri, 24 Apr 2026 17:45:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Mutability, performance, use cases
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -293,7 +293,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 24 Apr 2026 15:45:37 GMT</b><br/>
+  <b>Last automated update: Fri, 24 Apr 2026 16:52:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
