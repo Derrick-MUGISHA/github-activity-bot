@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.2%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
@@ -40,7 +40,7 @@
 
 **Security**: 🟦🟦🟦 8 (7.7%)
 
-**WebDev**: 🟦🟦 6 (5.8%)
+**WebDev**: 🟦🟦🟦 6 (5.8%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-24 13:00 CAT)
+## 📅 Latest Updates (2026-04-24 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Fri, 24 Apr 2026 13:32:45 CAT_
+_Last automated update: Fri, 24 Apr 2026 14:42:28 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 24 Apr 2026 13:32:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 24 Apr 2026 11:32:45 GMT</b><br/>
+  <b>Last automated update: Fri, 24 Apr 2026 12:42:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
