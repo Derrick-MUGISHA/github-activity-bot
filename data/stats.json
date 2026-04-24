@@ -1,13 +1,13 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 49,
-    "JavaScript": 21,
+    "AI": 48,
+    "JavaScript": 22,
     "Python": 17,
     "DevOps": 5,
     "WebDev": 5,
@@ -20,7 +20,7 @@
   "by_language": {
     "Go": 30,
     "Rust": 1,
-    "JavaScript": 21,
+    "JavaScript": 22,
     "Java": 18,
     "Swift": 1,
     "PHP": 1,
@@ -33,11 +33,10 @@
     "2026-04-19": 9,
     "2026-04-21": 10,
     "2026-04-17": 6,
-    "2026-04-20": 5,
+    "2026-04-20": 6,
     "2026-04-16": 4,
-    "2026-04-08": 1,
     "2026-04-14": 3,
-    "2026-04-09": 3,
+    "2026-04-09": 4,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -79,26 +78,26 @@
     "Python": 10,
     "go": 9,
     "javascript": 8,
+    "discuss": 7,
     "security": 7,
     "python": 7,
-    "discuss": 6,
     "googlecloud": 6,
-    "gemini": 6,
     "webdev": 6,
+    "gemini": 5,
+    "programming": 5,
+    "tutorial": 5,
     "cloudnextchallenge": 4,
     "devops": 4,
-    "programming": 4,
-    "tutorial": 4,
-    "opensource": 4
+    "aws": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "33.7",
+    "Go": "33.3",
     "Rust": "1.1",
-    "JavaScript": "23.6",
-    "Java": "20.2",
+    "JavaScript": "24.4",
+    "Java": "20.0",
     "Swift": "1.1",
     "PHP": "1.1",
-    "Python": "19.1"
+    "Python": "18.9"
   }
 }
