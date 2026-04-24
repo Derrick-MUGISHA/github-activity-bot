@@ -131,21 +131,6 @@
       "user": "José Manuel Ramírez"
     },
     {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
-      "published_at": "2026-04-22T20:42:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -228,6 +213,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -552,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 618,
       "user": "ZeroZ-lab"
     },
     {
@@ -567,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 279,
       "user": "levelsio"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "simoncirstoiu"
     },
     {
@@ -597,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9779,
+      "stars": 9826,
       "user": "kyegomez"
     },
     {
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2866,
+      "stars": 2948,
       "user": "EvoLinkAI"
     },
     {
@@ -627,23 +627,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 918,
       "user": "masterking32"
     },
     {
-      "title": "OranAi-Ltd/oransim - Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
-      "url": "https://github.com/OranAi-Ltd/oransim",
-      "published_at": "2026-04-18T16:40:44Z",
-      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+      "url": "https://github.com/deepseek-ai/TileKernels",
+      "published_at": "2026-04-22T05:38:31Z",
+      "description": "A kernel library written in tilelang",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 768,
-      "user": "OranAi-Ltd"
+      "stars": 839,
+      "user": "deepseek-ai"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 952,
       "user": "432539"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 70,
       "user": "peiyizhi0724"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 618,
       "user": "ZeroZ-lab"
     },
     {
@@ -942,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 279,
       "user": "levelsio"
     },
     {
@@ -957,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "simoncirstoiu"
     },
     {
@@ -972,26 +972,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "vuciv"
     }
   ],
   "Python": [
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
-      "published_at": "2026-04-22T20:42:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Installing pygame for IDLE on Mac",
       "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
@@ -1139,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9779,
+      "stars": 9826,
       "user": "kyegomez"
     },
     {
@@ -1154,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2866,
+      "stars": 2948,
       "user": "EvoLinkAI"
     },
     {
@@ -1169,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1037,
       "user": "the-hidden-fish"
     },
     {
@@ -1184,23 +1169,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 918,
       "user": "masterking32"
     },
     {
-      "title": "OranAi-Ltd/oransim - Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
-      "url": "https://github.com/OranAi-Ltd/oransim",
-      "published_at": "2026-04-18T16:40:44Z",
-      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+      "url": "https://github.com/deepseek-ai/TileKernels",
+      "published_at": "2026-04-22T05:38:31Z",
+      "description": "A kernel library written in tilelang",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 768,
-      "user": "OranAi-Ltd"
+      "stars": 839,
+      "user": "deepseek-ai"
     }
   ],
   "DevOps": [
@@ -1233,6 +1218,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 618,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1412,21 +1412,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
       "source": "Dev.to",
       "user": "Wan Satya"
-    },
-    {
-      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
-      "published_at": "2026-04-22T20:42:16Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
-      "tags": [
-        "googleadk",
-        "python",
-        "gemini",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1706,7 +1691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 279,
       "user": "levelsio"
     }
   ],
@@ -1725,6 +1710,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1812,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 618,
       "user": "ZeroZ-lab"
     },
     {
@@ -1842,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 279,
       "user": "levelsio"
     },
     {
@@ -1857,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "simoncirstoiu"
     },
     {
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "vuciv"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9779,
+      "stars": 9826,
       "user": "kyegomez"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2866,
+      "stars": 2948,
       "user": "EvoLinkAI"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1037,
       "user": "the-hidden-fish"
     },
     {
@@ -1932,23 +1932,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 918,
       "user": "masterking32"
     },
     {
-      "title": "OranAi-Ltd/oransim - Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
-      "url": "https://github.com/OranAi-Ltd/oransim",
-      "published_at": "2026-04-18T16:40:44Z",
-      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+      "url": "https://github.com/deepseek-ai/TileKernels",
+      "published_at": "2026-04-22T05:38:31Z",
+      "description": "A kernel library written in tilelang",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 768,
-      "user": "OranAi-Ltd"
+      "stars": 839,
+      "user": "deepseek-ai"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 952,
       "user": "432539"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 70,
       "user": "peiyizhi0724"
     },
     {
@@ -2011,19 +2011,19 @@
       "user": "s-zx"
     },
     {
-      "title": "SamNet-dev/snix - Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
-      "url": "https://github.com/SamNet-dev/snix",
-      "published_at": "2026-04-18T19:25:07Z",
-      "description": "Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
+      "title": "immanuwell/pktz - pktz — eBPF-powered network traffic monitor — per process, per connection, live",
+      "url": "https://github.com/immanuwell/pktz",
+      "published_at": "2026-04-21T15:07:38Z",
+      "description": "pktz — eBPF-powered network traffic monitor — per process, per connection, live",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243033894?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/122638311?v=4",
       "source": "GitHub",
-      "stars": 42,
-      "user": "SamNet-dev"
+      "stars": 43,
+      "user": "immanuwell"
     }
   ]
 }
