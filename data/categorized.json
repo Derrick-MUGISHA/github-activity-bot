@@ -552,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "ZeroZ-lab"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 235,
       "user": "levelsio"
     },
     {
@@ -597,23 +597,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9672,
+      "stars": 9686,
       "user": "kyegomez"
-    },
-    {
-      "title": "browser-use/browser-harness - Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "url": "https://github.com/browser-use/browser-harness",
-      "published_at": "2026-04-17T01:56:15Z",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 5864,
-      "user": "browser-use"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -627,23 +612,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2656,
+      "stars": 2672,
       "user": "EvoLinkAI"
     },
     {
-      "title": "openai/privacy-filter - OpenAI Privacy Filter",
-      "url": "https://github.com/openai/privacy-filter",
-      "published_at": "2026-04-17T22:49:09Z",
-      "description": "OpenAI Privacy Filter",
+      "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "published_at": "2026-04-20T10:32:26Z",
+      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 918,
-      "user": "openai"
+      "stars": 899,
+      "user": "masterking32"
+    },
+    {
+      "title": "OranAi-Ltd/oransim - Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "url": "https://github.com/OranAi-Ltd/oransim",
+      "published_at": "2026-04-18T16:40:44Z",
+      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
+      "source": "GitHub",
+      "stars": 735,
+      "user": "OranAi-Ltd"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -657,23 +657,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 927,
       "user": "432539"
-    },
-    {
-      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "url": "https://github.com/brexhq/CrabTrap",
-      "published_at": "2026-04-17T18:47:45Z",
-      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "brexhq"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -691,21 +676,6 @@
       "user": "Quorinex"
     },
     {
-      "title": "londek/ipadecrypt - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
-      "url": "https://github.com/londek/ipadecrypt",
-      "published_at": "2026-04-17T22:42:33Z",
-      "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
-      "source": "GitHub",
-      "stars": 147,
-      "user": "londek"
-    },
-    {
       "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
       "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
       "published_at": "2026-04-21T17:52:08Z",
@@ -717,8 +687,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "peiyizhi0724"
+    },
+    {
+      "title": "s-zx/crest - An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "published_at": "2026-04-18T10:48:28Z",
+      "description": "An open source, AI-native terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "s-zx"
     }
   ],
   "JavaScript": [
@@ -927,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "ZeroZ-lab"
     },
     {
@@ -972,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 235,
       "user": "levelsio"
     },
     {
@@ -987,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "vuciv"
     }
   ],
@@ -1154,23 +1139,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9672,
+      "stars": 9686,
       "user": "kyegomez"
-    },
-    {
-      "title": "browser-use/browser-harness - Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "url": "https://github.com/browser-use/browser-harness",
-      "published_at": "2026-04-17T01:56:15Z",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 5864,
-      "user": "browser-use"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -1184,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2656,
+      "stars": 2672,
       "user": "EvoLinkAI"
     },
     {
@@ -1203,19 +1173,34 @@
       "user": "the-hidden-fish"
     },
     {
-      "title": "openai/privacy-filter - OpenAI Privacy Filter",
-      "url": "https://github.com/openai/privacy-filter",
-      "published_at": "2026-04-17T22:49:09Z",
-      "description": "OpenAI Privacy Filter",
+      "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "published_at": "2026-04-20T10:32:26Z",
+      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 918,
-      "user": "openai"
+      "stars": 899,
+      "user": "masterking32"
+    },
+    {
+      "title": "OranAi-Ltd/oransim - Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "url": "https://github.com/OranAi-Ltd/oransim",
+      "published_at": "2026-04-18T16:40:44Z",
+      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
+      "source": "GitHub",
+      "stars": 735,
+      "user": "OranAi-Ltd"
     }
   ],
   "DevOps": [
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1721,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 235,
       "user": "levelsio"
     }
   ],
@@ -1827,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "ZeroZ-lab"
     },
     {
@@ -1872,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 235,
       "user": "levelsio"
     },
     {
@@ -1887,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "vuciv"
     },
     {
@@ -1902,23 +1887,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9672,
+      "stars": 9686,
       "user": "kyegomez"
-    },
-    {
-      "title": "browser-use/browser-harness - Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "url": "https://github.com/browser-use/browser-harness",
-      "published_at": "2026-04-17T01:56:15Z",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 5864,
-      "user": "browser-use"
     },
     {
       "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
@@ -1932,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2656,
+      "stars": 2672,
       "user": "EvoLinkAI"
     },
     {
@@ -1951,19 +1921,34 @@
       "user": "the-hidden-fish"
     },
     {
-      "title": "openai/privacy-filter - OpenAI Privacy Filter",
-      "url": "https://github.com/openai/privacy-filter",
-      "published_at": "2026-04-17T22:49:09Z",
-      "description": "OpenAI Privacy Filter",
+      "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "published_at": "2026-04-20T10:32:26Z",
+      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 918,
-      "user": "openai"
+      "stars": 899,
+      "user": "masterking32"
+    },
+    {
+      "title": "OranAi-Ltd/oransim - Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "url": "https://github.com/OranAi-Ltd/oransim",
+      "published_at": "2026-04-18T16:40:44Z",
+      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237740540?v=4",
+      "source": "GitHub",
+      "stars": 735,
+      "user": "OranAi-Ltd"
     },
     {
       "title": "432539/gpt2api - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
@@ -1977,23 +1962,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 927,
       "user": "432539"
-    },
-    {
-      "title": "brexhq/CrabTrap - An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "url": "https://github.com/brexhq/CrabTrap",
-      "published_at": "2026-04-17T18:47:45Z",
-      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26666889?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "brexhq"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -2011,21 +1981,6 @@
       "user": "Quorinex"
     },
     {
-      "title": "londek/ipadecrypt - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
-      "url": "https://github.com/londek/ipadecrypt",
-      "published_at": "2026-04-17T22:42:33Z",
-      "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48859717?v=4",
-      "source": "GitHub",
-      "stars": 147,
-      "user": "londek"
-    },
-    {
       "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
       "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
       "published_at": "2026-04-21T17:52:08Z",
@@ -2037,8 +1992,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "peiyizhi0724"
+    },
+    {
+      "title": "s-zx/crest - An open source, AI-native terminal.",
+      "url": "https://github.com/s-zx/crest",
+      "published_at": "2026-04-18T10:48:28Z",
+      "description": "An open source, AI-native terminal.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72348999?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "s-zx"
+    },
+    {
+      "title": "SamNet-dev/snix - Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
+      "url": "https://github.com/SamNet-dev/snix",
+      "published_at": "2026-04-18T19:25:07Z",
+      "description": "Cross-platform SNI-spoofing DPI-bypass proxy. Single binary, no cgo. Go rewrite of patterniha/SNI-Spoofing.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/243033894?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "SamNet-dev"
     }
   ]
 }
