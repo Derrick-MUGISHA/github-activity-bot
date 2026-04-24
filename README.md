@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-24 12:00 CAT)
+## 📅 Latest Updates (2026-04-24 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,19 +133,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjld3057pg3xd4cc89lh.png" width="200" alt="Congrats to the April Fools Challenge Winners!!" />
+    <a href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm3v993gqf46wv6jltobe.webp" width="200" alt="So, what am I doing after 22 years in tech?" />
       <br/>
-      <b>Congrats to the April Fools Challenge Winners!!</b>
+      <b>So, what am I doing after 22 years in tech?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm3v993gqf46wv6jltobe.webp" width="200" alt="So, what am I doing after 22 years in tech?" />
+    <a href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjld3057pg3xd4cc89lh.png" width="200" alt="Congrats to the April Fools Challenge Winners!!" />
       <br/>
-      <b>So, what am I doing after 22 years in tech?</b>
+      <b>Congrats to the April Fools Challenge Winners!!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7xrp47km3bovby8weiq.png" width="200" alt="I let a kosher lobster run my Shabbat automations" />
+    <a href="https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp" width="200" alt="Stop Worrying and Love AI" />
       <br/>
-      <b>I let a kosher lobster run my Shabbat automations</b>
+      <b>Stop Worrying and Love AI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp" width="200" alt="Stop Worrying and Love AI" />
+    <a href="https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1nv6jhae5wpczq1qe28f.png" width="200" alt="tinyboot v0.4.0 Released — The API is Stable" />
       <br/>
-      <b>Stop Worrying and Love AI</b>
+      <b>tinyboot v0.4.0 Released — The API is Stable</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,18 +195,17 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
 - [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) _[Dev.to]_
+- [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
 - [How My Coworker Who Didn't Know 'cd' Shipped to Production](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j) _[Dev.to]_
-- [I let a kosher lobster run my Shabbat automations](https://dev.to/bengreenberg/i-let-a-kosher-lobster-run-my-shabbat-automations-5aln) _[Dev.to]_
 - [Stop Worrying and Love AI](https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij) _[Dev.to]_
-- [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 - [tinyboot v0.4.0 Released — The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
 - [Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part](https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Trading is Just Software Engineering in Disguise](https://dev.to/mindmagic/-trading-is-just-software-engineering-in-disguise-30lh) _[Dev.to]_
+- [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 - [I built a minimal timing game for iOS without retention mechanics. Here’s why](https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941) _[Dev.to]_
 - [Claude and I aren't vibing at all](https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h) _[Dev.to]_
 - [Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)](https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p) _[Dev.to]_
 - [Large Language Models and the Chinese Room](https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
+- [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Fri, 24 Apr 2026 12:02:09 CAT_
+_Last automated update: Fri, 24 Apr 2026 13:32:45 CAT_
 
 
 
@@ -224,7 +224,18 @@ _Last automated update: Fri, 24 Apr 2026 12:02:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: Explain the Java memory model
+
+**Difficulty**: Hard | **Topics**: memory, JVM
+
+<details>
+<summary>💡 Hint</summary>
+
+Heap, stack, garbage collection
+
+</details>
+
+### 2. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -235,25 +246,14 @@ Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 3. SystemDesign: Design a URL shortening service like bit.ly
-
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 24 Apr 2026 10:02:09 GMT</b><br/>
+  <b>Last automated update: Fri, 24 Apr 2026 11:32:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
