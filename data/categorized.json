@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "A Map for the First-Time Software Creator",
-      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
-      "published_at": "2026-04-24T19:29:01Z",
-      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
-      "tags": [
-        "beginners",
-        "webdev",
-        "ai",
-        "nocode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
       "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
       "published_at": "2026-04-24T14:41:58Z",
@@ -31,6 +16,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)",
+      "url": "https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik",
+      "published_at": "2026-04-24T20:18:05Z",
+      "description": "If you've tried building anything serious on top of large language models (LLMs) recently, you've...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8idq4d87y2ft0pxohaw5.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "published_at": "2026-04-24T20:19:51Z",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "A Stitch at a time",
       "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
       "published_at": "2026-04-24T06:52:18Z",
@@ -43,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png",
       "source": "Dev.to",
       "user": "Gbemisola Esho"
+    },
+    {
+      "title": "A Map for the First-Time Software Creator",
+      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
+      "published_at": "2026-04-24T19:29:01Z",
+      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
+      "tags": [
+        "beginners",
+        "webdev",
+        "ai",
+        "nocode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
@@ -175,19 +205,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
-      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
-      "published_at": "2026-04-19T03:11:23Z",
-      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
-      "source": "Dev.to",
-      "user": "vaidehi Warghat"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -525,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "ZeroZ-lab"
     },
     {
@@ -540,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "levelsio"
     },
     {
@@ -570,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10061,
+      "stars": 10069,
       "user": "kyegomez"
     },
     {
@@ -585,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3199,
+      "stars": 3202,
       "user": "EvoLinkAI"
     },
     {
@@ -600,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1062,
       "user": "deepseek-ai"
     },
     {
@@ -615,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1030,
       "user": "masterking32"
     },
     {
@@ -630,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1009,
       "user": "432539"
     },
     {
@@ -900,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "ZeroZ-lab"
     },
     {
@@ -915,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "levelsio"
     },
     {
@@ -930,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "earthtojake"
     },
     {
@@ -1141,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10061,
+      "stars": 10069,
       "user": "kyegomez"
     },
     {
@@ -1156,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3199,
+      "stars": 3202,
       "user": "EvoLinkAI"
     },
     {
@@ -1171,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1062,
       "user": "deepseek-ai"
     },
     {
@@ -1201,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1030,
       "user": "masterking32"
     }
   ],
@@ -1365,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1781,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "levelsio"
     }
   ],
@@ -1898,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "ZeroZ-lab"
     },
     {
@@ -1913,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "levelsio"
     },
     {
@@ -1928,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "earthtojake"
     },
     {
@@ -1973,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10061,
+      "stars": 10069,
       "user": "kyegomez"
     },
     {
@@ -1988,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3199,
+      "stars": 3202,
       "user": "EvoLinkAI"
     },
     {
@@ -2003,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1062,
       "user": "deepseek-ai"
     },
     {
@@ -2033,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1030,
       "user": "masterking32"
     },
     {
@@ -2048,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1009,
       "user": "432539"
     },
     {
@@ -2078,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "NV404"
     },
     {
