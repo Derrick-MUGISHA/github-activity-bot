@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -14,7 +14,7 @@
     "Mobile": 1,
     "Cloud": 12,
     "Database": 2,
-    "Security": 9,
+    "Security": 8,
     "Tools": 21
   },
   "by_language": {
@@ -28,11 +28,11 @@
   },
   "by_date": {
     "2026-04-23": 11,
-    "2026-04-22": 7,
+    "2026-04-22": 8,
     "2026-04-19": 11,
-    "2026-04-21": 9,
+    "2026-04-21": 8,
     "2026-04-17": 7,
-    "2026-04-20": 8,
+    "2026-04-20": 7,
     "2026-04-16": 6,
     "2026-04-08": 1,
     "2026-04-14": 3,
@@ -79,14 +79,14 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "webdev": 8,
     "javascript": 8,
     "discuss": 7,
-    "security": 7,
+    "webdev": 7,
     "go": 7,
+    "security": 6,
     "python": 6,
-    "tutorial": 6,
     "googlecloud": 5,
+    "tutorial": 5,
     "opensource": 5,
     "programming": 4,
     "aws": 4,
