@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -18,7 +18,7 @@
     "Tools": 22
   },
   "by_language": {
-    "Go": 31,
+    "Go": 30,
     "Rust": 1,
     "JavaScript": 21,
     "Java": 18,
@@ -33,7 +33,7 @@
     "2026-04-19": 9,
     "2026-04-21": 10,
     "2026-04-17": 6,
-    "2026-04-20": 6,
+    "2026-04-20": 5,
     "2026-04-16": 4,
     "2026-04-08": 1,
     "2026-04-14": 3,
@@ -79,9 +79,9 @@
     "Python": 10,
     "go": 9,
     "javascript": 8,
-    "discuss": 7,
     "security": 7,
     "python": 7,
+    "discuss": 6,
     "googlecloud": 6,
     "gemini": 6,
     "webdev": 6,
@@ -93,12 +93,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "34.4",
+    "Go": "33.7",
     "Rust": "1.1",
-    "JavaScript": "23.3",
-    "Java": "20.0",
+    "JavaScript": "23.6",
+    "Java": "20.2",
     "Swift": "1.1",
     "PHP": "1.1",
-    "Python": "18.9"
+    "Python": "19.1"
   }
 }
