@@ -262,21 +262,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
-      "published_at": "2026-04-08T13:15:23Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googlecloudplatform",
-        "adk",
-        "gemini",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
       "published_at": "2026-04-14T21:55:29Z",
@@ -569,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 359,
       "user": "levelsio"
     },
     {
@@ -584,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "simoncirstoiu"
     },
     {
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10009,
+      "stars": 10025,
       "user": "kyegomez"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3178,
+      "stars": 3188,
       "user": "EvoLinkAI"
     },
     {
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1045,
       "user": "deepseek-ai"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1004,
       "user": "masterking32"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1005,
       "user": "432539"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "peiyizhi0724"
     }
   ],
@@ -781,6 +766,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
+    },
+    {
+      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
+      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
+      "published_at": "2026-04-09T01:19:42Z",
+      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
+      "tags": [
+        "sofianehamlaoui",
+        "aws",
+        "tutorial",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
+      "source": "Dev.to",
+      "user": "Sofiane Hamlaoui"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -929,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 359,
       "user": "levelsio"
     },
     {
@@ -944,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "earthtojake"
     },
     {
@@ -974,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "simoncirstoiu"
     }
   ],
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10009,
+      "stars": 10025,
       "user": "kyegomez"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3178,
+      "stars": 3188,
       "user": "EvoLinkAI"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1045,
       "user": "deepseek-ai"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1004,
       "user": "masterking32"
     }
   ],
@@ -1506,21 +1506,6 @@
       "user": "Evertson Croes"
     },
     {
-      "title": "Building a Multimodal Cross Cloud Live Agent with ADK, Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-azure-fabric-and-gemini-cli-3k4a",
-      "published_at": "2026-04-08T13:15:23Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build cross cloud...",
-      "tags": [
-        "googlecloudplatform",
-        "adk",
-        "gemini",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz0sjen1vovwty7yzi8vu.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
       "published_at": "2026-04-14T21:55:29Z",
@@ -1579,6 +1564,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
+      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
+      "published_at": "2026-04-09T01:19:42Z",
+      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
+      "tags": [
+        "sofianehamlaoui",
+        "aws",
+        "tutorial",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
+      "source": "Dev.to",
+      "user": "Sofiane Hamlaoui"
     }
   ],
   "Database": [
@@ -1753,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 359,
       "user": "levelsio"
     }
   ],
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 359,
       "user": "levelsio"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "earthtojake"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "simoncirstoiu"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 10009,
+      "stars": 10025,
       "user": "kyegomez"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3178,
+      "stars": 3188,
       "user": "EvoLinkAI"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1045,
       "user": "deepseek-ai"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1004,
       "user": "masterking32"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1005,
       "user": "432539"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 180,
       "user": "NV404"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "peiyizhi0724"
     },
     {
