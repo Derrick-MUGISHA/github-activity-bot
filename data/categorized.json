@@ -1,6 +1,35 @@
 {
   "AI": [
     {
+      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
+      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
+      "published_at": "2026-04-24T14:41:58Z",
+      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "devchallenge",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "A Stitch at a time",
+      "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
+      "published_at": "2026-04-24T06:52:18Z",
+      "description": "Every UI idea starts the same way. A sentence. A sketch. A screenshot of something you saw and...",
+      "tags": [
+        "ui",
+        "design",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
+    },
+    {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
       "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
       "published_at": "2026-04-23T20:30:39Z",
@@ -16,16 +45,19 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "Stop Worrying and Love AI",
-      "url": "https://dev.to/shiftyp/stop-worrying-and-love-ai-9ij",
-      "published_at": "2026-04-22T14:17:41Z",
-      "description": "How to replace existential dread for the future of software development with hope for your own future",
+      "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
+      "url": "https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm",
+      "published_at": "2026-04-24T07:36:01Z",
+      "description": "Abstract   Welcome to the Agentic Enterprise era. This article explores a paradigm shift...",
       "tags": [
-        "ai"
+        "ai",
+        "gemini",
+        "agents",
+        "googleappsscript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqx12rvmcnp40nk05sxx.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvt1vdv27tqwe6b9b4itz.png",
       "source": "Dev.to",
-      "user": "Ryan Kahn"
+      "user": "Tanaike"
     },
     {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
@@ -379,21 +411,6 @@
       "user": "Emin Salih Açıkgöz"
     },
     {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
-      "tags": [
-        "ai",
-        "learning",
-        "productivity",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
-      "source": "Dev.to",
-      "user": "Abhishek"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -552,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "levelsio"
     },
     {
@@ -567,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "simoncirstoiu"
     },
     {
@@ -582,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9980,
+      "stars": 9995,
       "user": "kyegomez"
     },
     {
@@ -597,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3135,
+      "stars": 3166,
       "user": "EvoLinkAI"
     },
     {
@@ -612,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1025,
       "user": "deepseek-ai"
     },
     {
@@ -627,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 989,
       "user": "masterking32"
     },
     {
@@ -642,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 1002,
       "user": "432539"
     },
     {
@@ -672,11 +689,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 92,
       "user": "peiyizhi0724"
     }
   ],
   "JavaScript": [
+    {
+      "title": "How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)",
+      "url": "https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo",
+      "published_at": "2026-04-23T21:03:28Z",
+      "description": "The Problem: Why I Built My Own Logger   If you’ve ever tried to implement proper logging in...",
+      "tags": [
+        "programming",
+        "frontend",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bllzc9ycnrmvtqo6g5e.png",
+      "source": "Dev.to",
+      "user": "Felipe Camargo"
+    },
+    {
+      "title": "Finding a Practical Analytics Format for Structured JSON Logs",
+      "url": "https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1",
+      "published_at": "2026-04-23T17:01:17Z",
+      "description": "Structured JSON logs are easy to produce and hard to analyze at scale. They carry useful context, but...",
+      "tags": [
+        "json",
+        "go",
+        "analytics",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bx3clbs2q1mzlyec34a.png",
+      "source": "Dev.to",
+      "user": "Viacheslav Poturaev"
+    },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
@@ -734,36 +781,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
-    },
-    {
-      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
-      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
-      "published_at": "2026-04-09T01:19:42Z",
-      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
-      "tags": [
-        "sofianehamlaoui",
-        "aws",
-        "tutorial",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
-      "source": "Dev.to",
-      "user": "Sofiane Hamlaoui"
-    },
-    {
-      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-      "published_at": "2026-04-13T16:51:07Z",
-      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "webcomponents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
-      "source": "Dev.to",
-      "user": "Volker Schukai"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -912,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "levelsio"
     },
     {
@@ -942,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 294,
       "user": "earthtojake"
     },
     {
@@ -957,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "simoncirstoiu"
     }
   ],
@@ -1124,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9980,
+      "stars": 9995,
       "user": "kyegomez"
     },
     {
@@ -1139,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3135,
+      "stars": 3166,
       "user": "EvoLinkAI"
     },
     {
@@ -1169,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1025,
       "user": "deepseek-ai"
     },
     {
@@ -1184,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 989,
       "user": "masterking32"
     }
   ],
@@ -1267,6 +1284,21 @@
   ],
   "WebDev": [
     {
+      "title": "How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)",
+      "url": "https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo",
+      "published_at": "2026-04-23T21:03:28Z",
+      "description": "The Problem: Why I Built My Own Logger   If you’ve ever tried to implement proper logging in...",
+      "tags": [
+        "programming",
+        "frontend",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bllzc9ycnrmvtqo6g5e.png",
+      "source": "Dev.to",
+      "user": "Felipe Camargo"
+    },
+    {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
       "published_at": "2026-04-17T18:38:12Z",
@@ -1293,36 +1325,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
       "source": "Dev.to",
       "user": "Muhammad Hassan"
-    },
-    {
-      "title": "Congrats to the 2026 WeCoded Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee",
-      "published_at": "2026-04-16T21:34:36Z",
-      "description": "The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...",
-      "tags": [
-        "devchallenge",
-        "wecoded",
-        "frontend",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8b3junh2b39rs42z07ca.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-      "url": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-      "published_at": "2026-04-13T16:51:07Z",
-      "description": "A look at monsterjs, a JavaScript library that brings structure to complex UIs using Web Components, without the overhead of a full frontend framework.",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "webcomponents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2o117zpm2p97ktu1m7rv.png",
-      "source": "Dev.to",
-      "user": "Volker Schukai"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1354,6 +1356,21 @@
   ],
   "Mobile": [
     {
+      "title": "A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions",
+      "url": "https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i",
+      "published_at": "2026-04-24T11:14:27Z",
+      "description": "In Part 1 you learned the basics. Semantics for labels and hints. MergeSemantics to remove double...",
+      "tags": [
+        "flutter",
+        "a11y",
+        "mobile",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp",
+      "source": "Dev.to",
+      "user": "Karol Wrótniak"
+    },
+    {
       "title": "I built a minimal timing game for iOS without retention mechanics. Here’s why",
       "url": "https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941",
       "published_at": "2026-04-23T05:05:33Z",
@@ -1370,6 +1387,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
+      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
+      "published_at": "2026-04-24T14:41:58Z",
+      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "devchallenge",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
     {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
       "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
@@ -1547,21 +1579,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
       "source": "Dev.to",
       "user": "dev.to staff"
-    },
-    {
-      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
-      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
-      "published_at": "2026-04-09T01:19:42Z",
-      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
-      "tags": [
-        "sofianehamlaoui",
-        "aws",
-        "tutorial",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
-      "source": "Dev.to",
-      "user": "Sofiane Hamlaoui"
     }
   ],
   "Database": [
@@ -1579,6 +1596,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7ijw8unazlc8wzyrxjs.png",
       "source": "Dev.to",
       "user": "Damilola Oshungboye"
+    },
+    {
+      "title": "Finding a Practical Analytics Format for Structured JSON Logs",
+      "url": "https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1",
+      "published_at": "2026-04-23T17:01:17Z",
+      "description": "Structured JSON logs are easy to produce and hard to analyze at scale. They carry useful context, but...",
+      "tags": [
+        "json",
+        "go",
+        "analytics",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bx3clbs2q1mzlyec34a.png",
+      "source": "Dev.to",
+      "user": "Viacheslav Poturaev"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1721,11 +1753,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "levelsio"
     }
   ],
   "Tools": [
+    {
+      "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
+      "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
+      "published_at": "2026-04-24T14:39:33Z",
+      "description": "...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
       "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
@@ -1740,6 +1782,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
+      "url": "https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm",
+      "published_at": "2026-04-24T07:36:01Z",
+      "description": "Abstract   Welcome to the Agentic Enterprise era. This article explores a paradigm shift...",
+      "tags": [
+        "ai",
+        "gemini",
+        "agents",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvt1vdv27tqwe6b9b4itz.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1801,36 +1858,6 @@
       "user": "Ender Ahmet Yurt"
     },
     {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
-      "tags": [
-        "ai",
-        "learning",
-        "productivity",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
-      "source": "Dev.to",
-      "user": "Abhishek"
-    },
-    {
-      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
-      "url": "https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app",
-      "published_at": "2026-04-11T15:55:53Z",
-      "description": "Table of Contents    Introduction What Does It Mean to \"Seal\" a Project?  The Release...",
-      "tags": [
-        "github",
-        "opensource",
-        "development",
-        "repository"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvs7v3erpoj8nlyfnx97.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "ZeroZ-lab/cc-design - High-fidelity HTML design and prototype guidance skill for AI agents",
       "url": "https://github.com/ZeroZ-lab/cc-design",
       "published_at": "2026-04-19T01:35:57Z",
@@ -1857,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "levelsio"
     },
     {
@@ -1887,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 294,
       "user": "earthtojake"
     },
     {
@@ -1902,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "simoncirstoiu"
     },
     {
@@ -1917,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9980,
+      "stars": 9995,
       "user": "kyegomez"
     },
     {
@@ -1932,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3135,
+      "stars": 3166,
       "user": "EvoLinkAI"
     },
     {
@@ -1962,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1025,
       "user": "deepseek-ai"
     },
     {
@@ -1977,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 989,
       "user": "masterking32"
     },
     {
@@ -1992,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 1002,
       "user": "432539"
     },
     {
@@ -2022,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 151,
       "user": "NV404"
     },
     {
@@ -2037,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 92,
       "user": "peiyizhi0724"
     },
     {
@@ -2052,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169056304?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "ethical-buddy"
     }
   ]
