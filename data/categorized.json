@@ -260,34 +260,19 @@
       "user": "xbill"
     },
     {
-      "title": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini",
-      "url": "https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih",
-      "published_at": "2026-04-19T14:20:42Z",
-      "description": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard +...",
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
       "tags": [
-        "weekendchallenge",
-        "webdev",
-        "ai",
-        "devchallenge"
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh6x22grdadugg704pk0.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
       "source": "Dev.to",
-      "user": "Dev Rajput"
-    },
-    {
-      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
-      "published_at": "2026-04-16T15:38:54Z",
-      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "xbill"
     },
     {
       "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
@@ -317,6 +302,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuk1za95wlnjgcjl9hlgp.png",
       "source": "Dev.to",
       "user": "Romeo Mihalcea"
+    },
+    {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
@@ -364,6 +364,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
+    },
+    {
       "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
       "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
       "published_at": "2026-04-17T19:26:57Z",
@@ -377,21 +392,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
       "source": "Dev.to",
       "user": "Abhishek"
-    },
-    {
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "url": "https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1",
-      "published_at": "2026-04-19T15:22:44Z",
-      "description": "Long-running agentic workflows will inevitably hit a context wall: the context window fills, compaction runs, and layered summaries start replacing the details you still needed. In this article, we discuss the Principle of Least Context and what that looks like in practice, especially towards effective map-reduce workflows.",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bagnza4cotjrrlfvho9.png",
-      "source": "Dev.to",
-      "user": "Basti Ortiz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -537,7 +537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "ZeroZ-lab"
     },
     {
@@ -552,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 341,
       "user": "levelsio"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9951,
+      "stars": 9980,
       "user": "kyegomez"
     },
     {
@@ -597,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3106,
+      "stars": 3135,
       "user": "EvoLinkAI"
     },
     {
@@ -612,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 1010,
       "user": "deepseek-ai"
     },
     {
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 981,
       "user": "masterking32"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 990,
       "user": "432539"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "ZeroZ-lab"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 341,
       "user": "levelsio"
     },
     {
@@ -942,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 278,
       "user": "earthtojake"
     },
     {
@@ -976,6 +976,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
       "source": "Dev.to",
       "user": "David Newberry"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1109,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9951,
+      "stars": 9980,
       "user": "kyegomez"
     },
     {
@@ -1124,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3106,
+      "stars": 3135,
       "user": "EvoLinkAI"
     },
     {
@@ -1139,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1051,
       "user": "the-hidden-fish"
     },
     {
@@ -1154,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 1010,
       "user": "deepseek-ai"
     },
     {
@@ -1169,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 981,
       "user": "masterking32"
     }
   ],
@@ -1218,6 +1233,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Quorinex/Freebuff2API - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
@@ -1318,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1341,20 +1371,6 @@
   ],
   "Cloud": [
     {
-      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
-      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
-      "published_at": "2026-04-22T14:09:18Z",
-      "description": "Google Cloud NEXT '26 is kicking off today (April 22) and runs through April 24 – we're launching...",
-      "tags": [
-        "devchallenge",
-        "googlecloud",
-        "cloudnextchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
       "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
       "published_at": "2026-04-22T22:58:00Z",
@@ -1368,6 +1384,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
       "source": "Dev.to",
       "user": "Sonika Janagill"
+    },
+    {
+      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
+      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
+      "published_at": "2026-04-22T14:09:18Z",
+      "description": "Google Cloud NEXT '26 is kicking off today (April 22) and runs through April 24 – we're launching...",
+      "tags": [
+        "devchallenge",
+        "googlecloud",
+        "cloudnextchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26",
@@ -1470,6 +1500,21 @@
         "azureaks"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
+      "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
+      "published_at": "2026-04-22T20:42:16Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build low code...",
+      "tags": [
+        "googleadk",
+        "python",
+        "gemini",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v37xmrh5keows4vw1nr.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1610,6 +1655,21 @@
       "user": "Romeo Mihalcea"
     },
     {
+      "title": "What To Do If Your Project Was Affected By The Vercel Breach",
+      "url": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76",
+      "published_at": "2026-04-21T11:57:58Z",
+      "description": "Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....",
+      "tags": [
+        "webdev",
+        "security",
+        "tutorial",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png",
+      "source": "Dev.to",
+      "user": "Dumebi Okolo"
+    },
+    {
       "title": "Partial Password Authentication",
       "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
       "published_at": "2026-04-14T21:23:40Z",
@@ -1661,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 341,
       "user": "levelsio"
     }
   ],
@@ -1710,6 +1770,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
       "source": "Dev.to",
       "user": "Laura Durieux"
+    },
+    {
+      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
+      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
+      "published_at": "2026-04-21T13:51:38Z",
+      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "tags": [
+        "go",
+        "devops",
+        "opensource",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "source": "Dev.to",
+      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Why Do I Keep Killing My Side Projects?",
@@ -1767,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "ZeroZ-lab"
     },
     {
@@ -1782,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 341,
       "user": "levelsio"
     },
     {
@@ -1812,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 278,
       "user": "earthtojake"
     },
     {
@@ -1842,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9951,
+      "stars": 9980,
       "user": "kyegomez"
     },
     {
@@ -1857,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 3106,
+      "stars": 3135,
       "user": "EvoLinkAI"
     },
     {
@@ -1872,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1051,
       "user": "the-hidden-fish"
     },
     {
@@ -1887,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 1010,
       "user": "deepseek-ai"
     },
     {
@@ -1902,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 981,
       "user": "masterking32"
     },
     {
@@ -1917,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 990,
       "user": "432539"
     },
     {
@@ -1947,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 126,
       "user": "NV404"
     },
     {
