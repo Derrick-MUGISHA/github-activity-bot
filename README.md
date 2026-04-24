@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
 
 **Security**: 🟦🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.7 (31.7%)
-JavaScript      ███████████████████████ 24.4 (24.4%)
-Java            ████████████████████ 20.7 (20.7%)
-Python          ██████████████████ 19.5 (19.5%)
+Go              ██████████████████████████████ 30.1 (30.1%)
+JavaScript      █████████████████████████ 25.3 (25.3%)
+Java            ██████████████████████ 21.7 (21.7%)
+Python          ███████████████████ 19.3 (19.3%)
 Rust            █ 1.2 (1.2%)
 Swift           █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
@@ -72,9 +72,9 @@ PHP             █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "JavaScript" : 20
-    "Java" : 17
+    "Go" : 25
+    "JavaScript" : 21
+    "Java" : 18
     "Python" : 16
     "Rust" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-24 8:00 CAT)
+## 📅 Latest Updates (2026-04-24 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -206,7 +206,7 @@ npm run test
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
 - [Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part](https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
-- [# Trading is Just Software Engineering in Disguise](https://dev.to/mindmagic/-trading-is-just-software-engineering-in-disguise-30lh) _[Dev.to]_
+- [Trading is Just Software Engineering in Disguise](https://dev.to/mindmagic/-trading-is-just-software-engineering-in-disguise-30lh) _[Dev.to]_
 - [I built a minimal timing game for iOS without retention mechanics. Here’s why](https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941) _[Dev.to]_
 - [Claude and I aren't vibing at all](https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h) _[Dev.to]_
 - [Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)](https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Large Language Models and the Chinese Room](https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 
-_Last automated update: Fri, 24 Apr 2026 08:05:58 CAT_
+_Last automated update: Fri, 24 Apr 2026 10:21:31 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Fri, 24 Apr 2026 08:05:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
-
-**Difficulty**: Medium | **Topics**: functional programming, collections
-
-<details>
-<summary>💡 Hint</summary>
-
-Lazy evaluation, pipeline, terminal operations
-
-</details>
-
-### 2. SystemDesign: Design a URL shortening service like bit.ly
-
-**Difficulty**: Medium | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Hash function, database design, caching, analytics
-
-</details>
-
-### 3. DataStructures: Find the median of two sorted arrays
+### 1. DataStructures: Find the median of two sorted arrays
 
 **Difficulty**: Hard | **Topics**: arrays, binary search
 
@@ -254,6 +232,28 @@ Hash function, database design, caching, analytics
 <summary>💡 Hint</summary>
 
 Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 2. Database: Explain database indexing and when to use it
+
+**Difficulty**: Medium | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+B-tree, trade-offs, query performance
+
+</details>
+
+### 3. Java: What is the difference between abstract class and interface?
+
+**Difficulty**: Easy | **Topics**: OOP, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 24 Apr 2026 06:05:58 GMT</b><br/>
+  <b>Last automated update: Fri, 24 Apr 2026 08:21:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
