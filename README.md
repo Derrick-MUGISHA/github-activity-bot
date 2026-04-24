@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-24 22:00 CAT)
+## 📅 Latest Updates (2026-04-24 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,17 +149,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg" width="200" alt="A Map for the First-Time Software Creator" />
-      <br/>
-      <b>A Map for the First-Time Software Creator</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png" width="200" alt="I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It." />
       <br/>
@@ -168,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp" width="200" alt="A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions" />
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlo2wdgcln6mdf1i6l0t.png" width="200" alt="The Vonage Dev Discussion: Making mistakes" />
+      <br/>
+      <b>The Vonage Dev Discussion: Making mistakes</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -195,15 +195,17 @@ npm run test
 
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
 - [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
-- [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f) _[Dev.to]_
 - [I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2) _[Dev.to]_
 - [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
 - [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 - [The Vonage Dev Discussion: Making mistakes](https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc) _[Dev.to]_
+- [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
+- [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [A Stitch at a time](https://dev.to/gde/a-stitch-at-a-time-j20) _[Dev.to]_
 - [This is pretty exciting!
 
 https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl) _[Dev.to]_
+- [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f) _[Dev.to]_
 - [How My Coworker Who Didn't Know 'cd' Shipped to Production](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j) _[Dev.to]_
 - [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) _[Dev.to]_
 - [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) _[Dev.to]_
@@ -213,10 +215,8 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [How to Quickly Prepare for Software Engineering Interviews](https://dev.to/alikhil/how-to-quickly-prepare-for-software-engineering-interviews-2pk4) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
 - [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1) _[Dev.to]_
-- [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
-- [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 
-_Last automated update: Fri, 24 Apr 2026 22:28:47 CAT_
+_Last automated update: Fri, 24 Apr 2026 23:26:06 CAT_
 
 
 
@@ -224,18 +224,7 @@ _Last automated update: Fri, 24 Apr 2026 22:28:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 2. Java: What is the difference between abstract class and interface?
+### 1. Java: What is the difference between abstract class and interface?
 
 **Difficulty**: Easy | **Topics**: OOP, design
 
@@ -246,14 +235,25 @@ Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Database: Explain database indexing and when to use it
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Heap, stack, garbage collection
+
+</details>
+
+### 3. React: How would you optimize a React app's performance?
+
+**Difficulty**: Hard | **Topics**: optimization, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 24 Apr 2026 20:28:47 GMT</b><br/>
+  <b>Last automated update: Fri, 24 Apr 2026 21:26:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
