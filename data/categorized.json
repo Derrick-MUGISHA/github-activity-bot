@@ -215,21 +215,6 @@
       "user": "vaidehi Warghat"
     },
     {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -552,7 +537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "ZeroZ-lab"
     },
     {
@@ -567,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 296,
       "user": "levelsio"
     },
     {
@@ -582,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "simoncirstoiu"
     },
     {
@@ -597,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9826,
+      "stars": 9866,
       "user": "kyegomez"
     },
     {
@@ -612,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2948,
+      "stars": 3016,
       "user": "EvoLinkAI"
     },
     {
@@ -627,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 934,
       "user": "masterking32"
     },
     {
@@ -642,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 915,
       "user": "deepseek-ai"
     },
     {
@@ -657,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 965,
       "user": "432539"
     },
     {
@@ -687,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 73,
       "user": "peiyizhi0724"
     },
     {
@@ -707,6 +692,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
+      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
+      "published_at": "2026-04-17T18:38:12Z",
+      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
+      "tags": [
+        "nestjs",
+        "javascript",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
+      "source": "Dev.to",
+      "user": "Oladele David "
+    },
     {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "ZeroZ-lab"
     },
     {
@@ -942,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 296,
       "user": "levelsio"
     },
     {
@@ -957,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "simoncirstoiu"
     },
     {
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 225,
       "user": "vuciv"
     }
   ],
@@ -1124,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9826,
+      "stars": 9866,
       "user": "kyegomez"
     },
     {
@@ -1139,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2948,
+      "stars": 3016,
       "user": "EvoLinkAI"
     },
     {
@@ -1154,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1043,
       "user": "the-hidden-fish"
     },
     {
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 934,
       "user": "masterking32"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 915,
       "user": "deepseek-ai"
     }
   ],
@@ -1220,21 +1220,6 @@
       "user": "avinash"
     },
     {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1266,6 +1251,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
+      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
+      "published_at": "2026-04-17T18:38:12Z",
+      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
+      "tags": [
+        "nestjs",
+        "javascript",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
+      "source": "Dev.to",
+      "user": "Oladele David "
+    },
     {
       "title": "Partial Password Authentication",
       "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "ZeroZ-lab"
     }
   ],
@@ -1691,7 +1691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 296,
       "user": "levelsio"
     }
   ],
@@ -1710,21 +1710,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
-    },
-    {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1812,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12062960?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "ZeroZ-lab"
     },
     {
@@ -1842,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 296,
       "user": "levelsio"
     },
     {
@@ -1857,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "simoncirstoiu"
     },
     {
@@ -1872,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26664687?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 225,
       "user": "vuciv"
     },
     {
@@ -1887,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98760976?v=4",
       "source": "GitHub",
-      "stars": 9826,
+      "stars": 9866,
       "user": "kyegomez"
     },
     {
@@ -1902,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253253881?v=4",
       "source": "GitHub",
-      "stars": 2948,
+      "stars": 3016,
       "user": "EvoLinkAI"
     },
     {
@@ -1917,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1043,
       "user": "the-hidden-fish"
     },
     {
@@ -1932,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 934,
       "user": "masterking32"
     },
     {
@@ -1947,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 915,
       "user": "deepseek-ai"
     },
     {
@@ -1962,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 965,
       "user": "432539"
     },
     {
@@ -1992,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 73,
       "user": "peiyizhi0724"
     },
     {
@@ -2011,19 +1996,19 @@
       "user": "s-zx"
     },
     {
-      "title": "immanuwell/pktz - pktz — eBPF-powered network traffic monitor — per process, per connection, live",
-      "url": "https://github.com/immanuwell/pktz",
-      "published_at": "2026-04-21T15:07:38Z",
-      "description": "pktz — eBPF-powered network traffic monitor — per process, per connection, live",
+      "title": "ethical-buddy/VX6 - A decentralized IPv6-native self-hosting fabric that eliminates the need for tunnels, relays, and centralized infrastructure.",
+      "url": "https://github.com/ethical-buddy/VX6",
+      "published_at": "2026-04-19T11:57:30Z",
+      "description": "A decentralized IPv6-native self-hosting fabric that eliminates the need for tunnels, relays, and centralized infrastructure.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122638311?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/169056304?v=4",
       "source": "GitHub",
-      "stars": 43,
-      "user": "immanuwell"
+      "stars": 44,
+      "user": "ethical-buddy"
     }
   ]
 }
