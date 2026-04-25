@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
-      "published_at": "2026-04-24T20:19:51Z",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)",
       "url": "https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik",
       "published_at": "2026-04-24T20:18:05Z",
@@ -27,6 +12,21 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8idq4d87y2ft0pxohaw5.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "published_at": "2026-04-24T20:19:51Z",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
     },
@@ -75,21 +75,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
-      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
-      "published_at": "2026-04-24T14:41:58Z",
-      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "devchallenge",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
       "url": "https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm",
       "published_at": "2026-04-24T07:36:01Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvt1vdv27tqwe6b9b4itz.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
+      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
+      "published_at": "2026-04-24T14:41:58Z",
+      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "devchallenge",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
@@ -555,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 375,
       "user": "levelsio"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1085,
       "user": "deepseek-ai"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1055,
       "user": "masterking32"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 708,
       "user": "basketikun"
     },
     {
@@ -630,8 +630,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "peiyizhi0724"
+    },
+    {
+      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "url": "https://github.com/val1813/kaiwu",
+      "published_at": "2026-04-23T06:42:20Z",
+      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "val1813"
     }
   ],
   "JavaScript": [
@@ -885,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 375,
       "user": "levelsio"
     },
     {
@@ -900,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 362,
       "user": "earthtojake"
     },
     {
@@ -1111,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1085,
       "user": "deepseek-ai"
     },
     {
@@ -1126,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1061,
       "user": "the-hidden-fish"
     },
     {
@@ -1141,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1055,
       "user": "masterking32"
     },
     {
@@ -1156,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 796,
       "user": "Einsia"
     },
     {
@@ -1171,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 708,
       "user": "basketikun"
     }
   ],
@@ -1721,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 375,
       "user": "levelsio"
     }
   ],
@@ -1838,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 375,
       "user": "levelsio"
     },
     {
@@ -1853,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 362,
       "user": "earthtojake"
     },
     {
@@ -1898,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1085,
       "user": "deepseek-ai"
     },
     {
@@ -1913,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1061,
       "user": "the-hidden-fish"
     },
     {
@@ -1928,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1053,
+      "stars": 1055,
       "user": "masterking32"
     },
     {
@@ -1943,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 796,
       "user": "Einsia"
     },
     {
@@ -1958,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 708,
       "user": "basketikun"
     },
     {
@@ -1973,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 223,
       "user": "NV404"
     },
     {
@@ -1988,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 103,
       "user": "peiyizhi0724"
     },
     {
@@ -2003,8 +2018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 86,
       "user": "NullLatency"
+    },
+    {
+      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "url": "https://github.com/val1813/kaiwu",
+      "published_at": "2026-04-23T06:42:20Z",
+      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "val1813"
     },
     {
       "title": "ethical-buddy/VX6 - A decentralized IPv6-native self-hosting fabric that eliminates the need for tunnels, relays, and centralized infrastructure.",
@@ -2020,21 +2050,6 @@
       "source": "GitHub",
       "stars": 50,
       "user": "ethical-buddy"
-    },
-    {
-      "title": "immanuwell/pktz - pktz — eBPF-powered network traffic monitor — per process, per connection, live",
-      "url": "https://github.com/immanuwell/pktz",
-      "published_at": "2026-04-21T15:07:38Z",
-      "description": "pktz — eBPF-powered network traffic monitor — per process, per connection, live",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122638311?v=4",
-      "source": "GitHub",
-      "stars": 50,
-      "user": "immanuwell"
     }
   ]
 }

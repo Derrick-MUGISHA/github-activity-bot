@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-25 3:00 CAT)
+## 📅 Latest Updates (2026-04-25 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,10 +149,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp" width="200" alt="A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions" />
+    <a href="https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8idq4d87y2ft0pxohaw5.png" width="200" alt="Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)" />
       <br/>
-      <b>A Practical Guide to Flutter Accessibility Part 2:...</b>
+      <b>Why LLM Reasoning Is Breaking AI Infrastructure (A...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8idq4d87y2ft0pxohaw5.png" width="200" alt="Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)" />
+    <a href="https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png" width="200" alt="I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It." />
       <br/>
-      <b>Why LLM Reasoning Is Breaking AI Infrastructure (A...</b>
+      <b>I'm Running Gemini as an Autonomous Coding Agent. ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png" width="200" alt="I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It." />
+    <a href="https://dev.to/gde/a-stitch-at-a-time-j20">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png" width="200" alt="A Stitch at a time" />
       <br/>
-      <b>I'm Running Gemini as an Autonomous Coding Agent. ...</b>
+      <b>A Stitch at a time</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,9 +195,8 @@ npm run test
 
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
 - [The Vonage Dev Discussion: Making mistakes](https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc) _[Dev.to]_
-- [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
-- [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
+- [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2) _[Dev.to]_
 - [A Stitch at a time](https://dev.to/gde/a-stitch-at-a-time-j20) _[Dev.to]_
 - [This is pretty exciting!
@@ -206,9 +205,10 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f) _[Dev.to]_
 - [How My Coworker Who Didn't Know 'cd' Shipped to Production](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j) _[Dev.to]_
 - [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
-- [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 - [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) _[Dev.to]_
+- [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
 - [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) _[Dev.to]_
+- [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 - [tinyboot v0.4.0 Released — The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76) _[Dev.to]_
 - [How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)](https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
@@ -216,7 +216,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
 - [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1) _[Dev.to]_
 
-_Last automated update: Sat, 25 Apr 2026 03:05:21 CAT_
+_Last automated update: Sat, 25 Apr 2026 06:08:05 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sat, 25 Apr 2026 03:05:21 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Heap, stack, garbage collection
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 01:05:21 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 04:08:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
