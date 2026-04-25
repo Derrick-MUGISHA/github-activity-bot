@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-25-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (44.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.4%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.4%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.6%)
 
 **Security**: 🟦🟦🟦🟦 9 (8.7%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.9%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 33.3 (33.3%)
-JavaScript      ██████████████████████ 24.4 (24.4%)
-Python          ██████████████████ 20.0 (20.0%)
-Java            ██████████████████ 20.0 (20.0%)
+Go              ██████████████████████████████ 32.6 (32.6%)
+JavaScript      ███████████████████████ 24.7 (24.7%)
+Python          ███████████████████ 20.2 (20.2%)
+Java            ███████████████████ 20.2 (20.2%)
 Rust            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 
@@ -71,7 +71,7 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 30
+    "Go" : 29
     "JavaScript" : 22
     "Python" : 18
     "Java" : 18
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) 
+![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![go](https://img.shields.io/badge/go-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![security](https://img.shields.io/badge/security-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-25 15:00 CAT)
+## 📅 Latest Updates (2026-04-25 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,20 +207,20 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
 - [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) _[Dev.to]_
 - [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
-- [So, what am I doing after 22 years in tech?](https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic) _[Dev.to]_
 - [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [tinyboot v0.4.0 Released — The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76) _[Dev.to]_
 - [How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)](https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
 - [How to Quickly Prepare for Software Engineering Interviews](https://dev.to/alikhil/how-to-quickly-prepare-for-software-engineering-interviews-2pk4) _[Dev.to]_
-- [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
+- [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 - [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 - [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
+- [I built a minimal timing game for iOS without retention mechanics. Here’s why](https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941) _[Dev.to]_
 
-_Last automated update: Sat, 25 Apr 2026 15:23:52 CAT_
+_Last automated update: Sat, 25 Apr 2026 16:12:25 CAT_
 
 
 
@@ -228,36 +228,36 @@ _Last automated update: Sat, 25 Apr 2026 15:23:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -291,7 +291,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 13:23:52 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 14:12:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
