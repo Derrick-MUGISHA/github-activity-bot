@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-25 19:00 CAT)
+## 📅 Latest Updates (2026-04-25 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -220,7 +220,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 
-_Last automated update: Sat, 25 Apr 2026 19:23:56 CAT_
+_Last automated update: Sat, 25 Apr 2026 20:03:03 CAT_
 
 
 
@@ -228,36 +228,36 @@ _Last automated update: Sat, 25 Apr 2026 19:23:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Execution timing, event loop phases
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -291,7 +291,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 17:23:56 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 18:03:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
