@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
+      "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
+      "published_at": "2026-04-25T18:30:55Z",
+      "description": "Agent Skills Adoption    Prompt Bloat has a name and a fix. Skills are now load-bearing...",
+      "tags": [
+        "googleadk",
+        "googleagentplatform",
+        "enterpriseaistrategy",
+        "geminienterprise"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
+    },
+    {
       "title": "The Hidden Challenge of Multi-LLM Context Management",
       "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
       "published_at": "2026-04-24T20:19:51Z",
@@ -208,6 +223,34 @@
       "user": "Matty Stratton"
     },
     {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
+      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
+      "published_at": "2026-04-19T03:11:23Z",
+      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
+      "source": "Dev.to",
+      "user": "vaidehi Warghat"
+    },
+    {
       "title": "A Stitch at a time",
       "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
       "published_at": "2026-04-24T06:52:18Z",
@@ -237,6 +280,21 @@
       "user": "kotakanbe"
     },
     {
+      "title": "Ship Fast, Forget Faster",
+      "url": "https://dev.to/xde013/ship-fast-forget-faster-ll1",
+      "published_at": "2026-04-24T15:07:28Z",
+      "description": "If you work in software you've probably heard this a lot: we need to ship faster (teams usually...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy2gm3wgjjmn7imktvgx7.png",
+      "source": "Dev.to",
+      "user": "Ryan"
+    },
+    {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
       "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
       "published_at": "2026-04-22T22:58:00Z",
@@ -250,6 +308,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
       "source": "Dev.to",
       "user": "Sonika Janagill"
+    },
+    {
+      "title": "AI is replacing developers (just not the way you think)",
+      "url": "https://dev.to/ronaizacardoso/ai-is-replacing-developers-just-not-the-way-you-think-1h9a",
+      "published_at": "2026-04-24T14:57:55Z",
+      "description": "“AI is replacing developers” sounds exaggerated, but the market did change.  LLM tools can generate...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy090uv57iw6hh4xgds6t.png",
+      "source": "Dev.to",
+      "user": "Ronaiza Cardoso"
     },
     {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
@@ -279,20 +352,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
       "source": "Dev.to",
       "user": "Nikhil Sharma"
-    },
-    {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
     },
     {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
@@ -325,64 +384,18 @@
       "user": "dev.to staff"
     },
     {
-      "title": "A Go + React monorepo starter with auth and multi-tenancy",
-      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
-      "published_at": "2026-04-09T17:15:51Z",
-      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
-      "tags": [
-        "go",
-        "react",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
-      "source": "Dev.to",
-      "user": "Calebe Aires"
-    },
-    {
-      "title": "Congrats to the Notion MCP Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
-      "published_at": "2026-04-17T16:30:22Z",
-      "description": "The results are in!  We're thrilled to announce our winners for the Notion MCP Challenge! From...",
-      "tags": [
-        "devchallenge",
-        "notionchallenge",
-        "mcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzkp58f1xk079a1tmmtu8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
       "tags": [
         "ai",
-        "learning",
-        "productivity",
-        "startup"
+        "leadership",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
       "source": "Dev.to",
-      "user": "Abhishek"
+      "user": "Jono Herrington"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -558,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1234,
       "user": "masterking32"
     },
     {
@@ -573,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1155,
       "user": "deepseek-ai"
     },
     {
@@ -588,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 809,
       "user": "basketikun"
     },
     {
@@ -603,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 205,
       "user": "alash3al"
     },
     {
@@ -699,6 +712,36 @@
       "user": "Oladele David "
     },
     {
+      "title": "Spread vs Rest Operators in JavaScript: Expand or Collect Like a Pro",
+      "url": "https://dev.to/ritam369/spread-vs-rest-operators-in-javascript-expand-or-collect-like-a-pro-2mkj",
+      "published_at": "2026-04-24T18:24:54Z",
+      "description": "Introduction   Imagine you're juggling arrays and objects in JavaScript, and suddenly you...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcuxdxqybolob0vvtca01.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
+    },
+    {
+      "title": "Mastering Template Literals in JavaScript: Say Goodbye to String Concatenation Nightmares",
+      "url": "https://dev.to/ritam369/mastering-template-literals-in-javascript-13a4",
+      "published_at": "2026-04-24T11:28:32Z",
+      "description": "Introduction   Imagine you're building a dynamic dashboard for your full-stack app. You need...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0gbayac2hy6lya1ejpup.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
+    },
+    {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
       "published_at": "2026-04-19T13:59:58Z",
@@ -712,49 +755,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
       "source": "Dev.to",
       "user": "Laura Durieux"
-    },
-    {
-      "title": "You’re a Real Software Developer Only If…",
-      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
-      "published_at": "2026-04-09T21:07:21Z",
-      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
-      "tags": [
-        "jokes",
-        "devlive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "A Go + React monorepo starter with auth and multi-tenancy",
-      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
-      "published_at": "2026-04-09T17:15:51Z",
-      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
-      "tags": [
-        "go",
-        "react",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
-      "source": "Dev.to",
-      "user": "Calebe Aires"
-    },
-    {
-      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
-      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
-      "published_at": "2026-04-09T01:19:42Z",
-      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
-      "tags": [
-        "sofianehamlaoui",
-        "aws",
-        "tutorial",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
-      "source": "Dev.to",
-      "user": "Sofiane Hamlaoui"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -918,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 523,
       "user": "openclaw"
     },
     {
@@ -933,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 453,
       "user": "earthtojake"
     },
     {
@@ -966,6 +966,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlo2wdgcln6mdf1i6l0t.png",
       "source": "Dev.to",
       "user": "Liz Acosta"
+    },
+    {
+      "title": "Remade the 1991 Classic \"Gorillas\" in Python—and Survived the Snapcraft Journey",
+      "url": "https://dev.to/davdomin/remade-the-1991-classic-gorillas-in-python-and-survived-the-snapcraft-journey-2nfp",
+      "published_at": "2026-04-25T06:06:15Z",
+      "description": "The Nostalgia Hit 🍌    Remember the two gorillas standing on a skyline, tossing exploding bananas at...",
+      "tags": [
+        "python",
+        "pygame",
+        "linux",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87t29km5iirb342mrz6i.png",
+      "source": "Dev.to",
+      "user": "David Dominguez"
     },
     {
       "title": "Installing pygame for IDLE on Mac",
@@ -1114,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1234,
       "user": "masterking32"
     },
     {
@@ -1129,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1155,
       "user": "deepseek-ai"
     },
     {
@@ -1144,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1091,
       "user": "Einsia"
     },
     {
@@ -1174,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 809,
       "user": "basketikun"
     }
   ],
@@ -1225,19 +1240,19 @@
       "user": "kotakanbe"
     },
     {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
+      "title": "Audit WCAG 2.1 accessibility on every pull request (free GitHub Action)",
+      "url": "https://dev.to/jpatel3/audit-wcag-21-accessibility-on-every-pull-request-free-github-action-111b",
+      "published_at": "2026-04-24T18:03:40Z",
+      "description": "I build web apps and I always mean to audit accessibility before shipping,   and I never do. axe-core...",
       "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
+        "a11y",
+        "github",
+        "webdev",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe432cucgr5y7hyfpwgef.png",
       "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
+      "user": "Jaimin"
     }
   ],
   "WebDev": [
@@ -1270,19 +1285,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
-    },
-    {
-      "title": "Partial Password Authentication",
-      "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
-      "published_at": "2026-04-14T21:23:40Z",
-      "description": "Recently, I switched to another bank, and after setting up the online banking credentials and trying...",
-      "tags": [
-        "security",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
-      "source": "Dev.to",
-      "user": "Muhammad Hassan"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1524,21 +1526,6 @@
       "user": "Esin Saribudak"
     },
     {
-      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
-      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
-      "published_at": "2026-04-09T01:19:42Z",
-      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
-      "tags": [
-        "sofianehamlaoui",
-        "aws",
-        "tutorial",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
-      "source": "Dev.to",
-      "user": "Sofiane Hamlaoui"
-    },
-    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -1550,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 523,
       "user": "openclaw"
     },
     {
@@ -1565,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 205,
       "user": "alash3al"
     }
   ],
@@ -1659,6 +1646,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1672,49 +1674,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
-    },
-    {
-      "title": "What To Do If Your Project Was Affected By The Vercel Breach",
-      "url": "https://dev.to/dumebii/vercel-got-breached-heres-exactly-what-to-do-if-you-use-it-2026-guide-2k76",
-      "published_at": "2026-04-21T11:57:58Z",
-      "description": "Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....",
-      "tags": [
-        "webdev",
-        "security",
-        "tutorial",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkgalbfgvw832ipqsyb1l.png",
-      "source": "Dev.to",
-      "user": "Dumebi Okolo"
-    },
-    {
-      "title": "Partial Password Authentication",
-      "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
-      "published_at": "2026-04-14T21:23:40Z",
-      "description": "Recently, I switched to another bank, and after setting up the online banking credentials and trying...",
-      "tags": [
-        "security",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
-      "source": "Dev.to",
-      "user": "Muhammad Hassan"
-    },
-    {
-      "title": "Mastering Error Handling in Go",
-      "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
-      "published_at": "2026-04-09T13:54:17Z",
-      "description": "Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...",
-      "tags": [
-        "go",
-        "programming",
-        "tutorial",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
-      "source": "Dev.to",
-      "user": "Aditya"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1745,6 +1704,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
+      "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
+      "published_at": "2026-04-25T18:30:55Z",
+      "description": "Agent Skills Adoption    Prompt Bloat has a name and a fix. Skills are now load-bearing...",
+      "tags": [
+        "googleadk",
+        "googleagentplatform",
+        "enterpriseaistrategy",
+        "geminienterprise"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
+    },
     {
       "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
       "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
@@ -1831,6 +1805,51 @@
       "user": "kotakanbe"
     },
     {
+      "title": "Ship Fast, Forget Faster",
+      "url": "https://dev.to/xde013/ship-fast-forget-faster-ll1",
+      "published_at": "2026-04-24T15:07:28Z",
+      "description": "If you work in software you've probably heard this a lot: we need to ship faster (teams usually...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy2gm3wgjjmn7imktvgx7.png",
+      "source": "Dev.to",
+      "user": "Ryan"
+    },
+    {
+      "title": "AI is replacing developers (just not the way you think)",
+      "url": "https://dev.to/ronaizacardoso/ai-is-replacing-developers-just-not-the-way-you-think-1h9a",
+      "published_at": "2026-04-24T14:57:55Z",
+      "description": "“AI is replacing developers” sounds exaggerated, but the market did change.  LLM tools can generate...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy090uv57iw6hh4xgds6t.png",
+      "source": "Dev.to",
+      "user": "Ronaiza Cardoso"
+    },
+    {
+      "title": "Audit WCAG 2.1 accessibility on every pull request (free GitHub Action)",
+      "url": "https://dev.to/jpatel3/audit-wcag-21-accessibility-on-every-pull-request-free-github-action-111b",
+      "published_at": "2026-04-24T18:03:40Z",
+      "description": "I build web apps and I always mean to audit accessibility before shipping,   and I never do. axe-core...",
+      "tags": [
+        "a11y",
+        "github",
+        "webdev",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe432cucgr5y7hyfpwgef.png",
+      "source": "Dev.to",
+      "user": "Jaimin"
+    },
+    {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
       "published_at": "2026-04-19T13:59:58Z",
@@ -1844,36 +1863,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
       "source": "Dev.to",
       "user": "Laura Durieux"
-    },
-    {
-      "title": "Atomic Scaffolding: How scbake Prevents Configuration Mishaps",
-      "url": "https://dev.to/emin-acikgoz/atomic-scaffolding-how-scbake-prevents-configuration-mishaps-2gmo",
-      "published_at": "2026-04-21T13:51:38Z",
-      "description": "Project scaffolders help speed up development. Until they fail halfway. Now you're left with a messy...",
-      "tags": [
-        "go",
-        "devops",
-        "opensource",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
-      "source": "Dev.to",
-      "user": "Emin Salih Açıkgöz"
-    },
-    {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
-      "tags": [
-        "ai",
-        "learning",
-        "productivity",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
-      "source": "Dev.to",
-      "user": "Abhishek"
     },
     {
       "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
@@ -1917,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 523,
       "user": "openclaw"
     },
     {
@@ -1932,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 453,
       "user": "earthtojake"
     },
     {
@@ -1962,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1234,
       "user": "masterking32"
     },
     {
@@ -1977,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1155,
       "user": "deepseek-ai"
     },
     {
@@ -1992,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1091,
       "user": "Einsia"
     },
     {
@@ -2022,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 809,
       "user": "basketikun"
     },
     {
@@ -2037,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "NullLatency"
     },
     {
@@ -2052,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "NV404"
     },
     {
@@ -2067,8 +2056,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 205,
       "user": "alash3al"
+    },
+    {
+      "title": "nakagami/grdpwasm - GitHub Repository",
+      "url": "https://github.com/nakagami/grdpwasm",
+      "published_at": "2026-04-25T03:26:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "nakagami"
     },
     {
       "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
@@ -2084,21 +2088,6 @@
       "source": "GitHub",
       "stars": 141,
       "user": "peiyizhi0724"
-    },
-    {
-      "title": "nakagami/grdpwasm - GitHub Repository",
-      "url": "https://github.com/nakagami/grdpwasm",
-      "published_at": "2026-04-25T03:26:45Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
-      "source": "GitHub",
-      "stars": 139,
-      "user": "nakagami"
     }
   ]
 }
