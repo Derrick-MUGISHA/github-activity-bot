@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "A Map for the First-Time Software Creator",
-      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
-      "published_at": "2026-04-24T19:29:01Z",
-      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
-      "tags": [
-        "beginners",
-        "webdev",
-        "ai",
-        "nocode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
       "url": "https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm",
       "published_at": "2026-04-24T07:36:01Z",
@@ -61,6 +46,21 @@
       "user": "Damilola Oshungboye"
     },
     {
+      "title": "A Map for the First-Time Software Creator",
+      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
+      "published_at": "2026-04-24T19:29:01Z",
+      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
+      "tags": [
+        "beginners",
+        "webdev",
+        "ai",
+        "nocode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)",
       "url": "https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik",
       "published_at": "2026-04-24T20:18:05Z",
@@ -74,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8idq4d87y2ft0pxohaw5.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development",
+      "url": "https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0",
+      "published_at": "2026-04-24T15:26:04Z",
+      "description": "The landscape of software development is undergoing a seismic shift from simple chat interfaces to...",
+      "tags": [
+        "antigravity",
+        "agentic",
+        "gcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
     },
     {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
@@ -556,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "levelsio"
     },
     {
@@ -571,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1197,
       "user": "masterking32"
     },
     {
@@ -586,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1145,
       "user": "deepseek-ai"
     },
     {
@@ -601,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 794,
       "user": "basketikun"
     },
     {
@@ -616,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 146,
       "user": "alash3al"
     },
     {
@@ -631,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "peiyizhi0724"
     },
     {
@@ -646,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "val1813"
     }
   ],
@@ -886,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1201,
       "user": "ConardLi"
     },
     {
@@ -916,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 420,
       "user": "earthtojake"
     },
     {
@@ -931,23 +946,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "levelsio"
     },
     {
-      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
-      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
-      "published_at": "2026-04-19T21:09:49Z",
-      "description": "Official Ledger Wallet Repository ",
+      "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+      "url": "https://github.com/openclaw/clawsweeper",
+      "published_at": "2026-04-23T22:14:49Z",
+      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 297,
-      "user": "Ledger-Wallet-LLC"
+      "stars": 328,
+      "user": "openclaw"
     }
   ],
   "Python": [
@@ -1127,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1197,
       "user": "masterking32"
     },
     {
@@ -1142,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1145,
       "user": "deepseek-ai"
     },
     {
@@ -1157,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1075,
       "user": "the-hidden-fish"
     },
     {
@@ -1172,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1039,
       "user": "Einsia"
     },
     {
@@ -1187,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 794,
       "user": "basketikun"
     }
   ],
@@ -1387,6 +1402,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development",
+      "url": "https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0",
+      "published_at": "2026-04-24T15:26:04Z",
+      "description": "The landscape of software development is undergoing a seismic shift from simple chat interfaces to...",
+      "tags": [
+        "antigravity",
+        "agentic",
+        "gcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
+    },
+    {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
       "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
       "published_at": "2026-04-24T14:41:58Z",
@@ -1552,6 +1582,21 @@
       "user": "Sofiane Hamlaoui"
     },
     {
+      "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+      "url": "https://github.com/openclaw/clawsweeper",
+      "published_at": "2026-04-23T22:14:49Z",
+      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "source": "GitHub",
+      "stars": 328,
+      "user": "openclaw"
+    },
+    {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
       "url": "https://github.com/alash3al/stash",
       "published_at": "2026-04-24T22:05:12Z",
@@ -1563,7 +1608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 146,
       "user": "alash3al"
     }
   ],
@@ -1738,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "levelsio"
     }
   ],
@@ -1855,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1201,
       "user": "ConardLi"
     },
     {
@@ -1885,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 420,
       "user": "earthtojake"
     },
     {
@@ -1900,23 +1945,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "levelsio"
     },
     {
-      "title": "Ledger-Wallet-LLC/ledgerwallet - Official Ledger Wallet Repository ",
-      "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
-      "published_at": "2026-04-19T21:09:49Z",
-      "description": "Official Ledger Wallet Repository ",
+      "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+      "url": "https://github.com/openclaw/clawsweeper",
+      "published_at": "2026-04-23T22:14:49Z",
+      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277556627?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 297,
-      "user": "Ledger-Wallet-LLC"
+      "stars": 328,
+      "user": "openclaw"
     },
     {
       "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
@@ -1930,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1197,
       "user": "masterking32"
     },
     {
@@ -1945,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1145,
       "user": "deepseek-ai"
     },
     {
@@ -1960,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1075,
       "user": "the-hidden-fish"
     },
     {
@@ -1975,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1039,
       "user": "Einsia"
     },
     {
@@ -1990,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 794,
       "user": "basketikun"
     },
     {
@@ -2005,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 268,
       "user": "NullLatency"
     },
     {
@@ -2020,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "NV404"
     },
     {
@@ -2035,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 146,
       "user": "alash3al"
     },
     {
@@ -2050,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "peiyizhi0724"
     },
     {
@@ -2065,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "val1813"
     }
   ]
