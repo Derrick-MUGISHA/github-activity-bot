@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Cloud**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
@@ -220,7 +220,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 
-_Last automated update: Sat, 25 Apr 2026 21:10:55 CAT_
+_Last automated update: Sat, 25 Apr 2026 21:53:18 CAT_
 
 
 
@@ -228,36 +228,36 @@ _Last automated update: Sat, 25 Apr 2026 21:10:55 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -291,7 +291,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 19:10:55 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 19:53:18 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
