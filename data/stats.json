@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -12,7 +12,7 @@
     "DevOps": 4,
     "WebDev": 5,
     "Mobile": 2,
-    "Cloud": 14,
+    "Cloud": 15,
     "Database": 3,
     "Security": 9,
     "Tools": 21
@@ -31,7 +31,7 @@
     "2026-04-22": 8,
     "2026-04-19": 9,
     "2026-04-17": 6,
-    "2026-04-21": 9,
+    "2026-04-21": 8,
     "2026-04-20": 5,
     "2026-04-16": 4,
     "2026-04-14": 3,
@@ -67,7 +67,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 16,
+    "ai": 15,
     "github": 15,
     "open-source": 15,
     "devchallenge": 12,
@@ -76,12 +76,12 @@
     "Python": 10,
     "go": 9,
     "discuss": 8,
-    "webdev": 8,
     "python": 8,
+    "webdev": 8,
     "javascript": 8,
     "googlecloud": 7,
-    "programming": 7,
     "security": 7,
+    "programming": 7,
     "cloudnextchallenge": 5,
     "gemini": 5,
     "tutorial": 5,
