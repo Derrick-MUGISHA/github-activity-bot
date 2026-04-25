@@ -163,21 +163,6 @@
       "user": "Setiaji"
     },
     {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
       "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
       "published_at": "2026-04-23T20:30:39Z",
@@ -191,6 +176,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1146,
       "user": "masterking32"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1122,
       "user": "deepseek-ai"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "basketikun"
     },
     {
@@ -631,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "val1813"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 77,
       "user": "alash3al"
     }
   ],
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "earthtojake"
     },
     {
@@ -1127,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1146,
       "user": "masterking32"
     },
     {
@@ -1142,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1122,
       "user": "deepseek-ai"
     },
     {
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 929,
       "user": "Einsia"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "basketikun"
     }
   ],
@@ -1577,7 +1577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 77,
       "user": "alash3al"
     }
   ],
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "earthtojake"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1135,
+      "stars": 1146,
       "user": "masterking32"
     },
     {
@@ -1944,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1122,
       "user": "deepseek-ai"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 929,
       "user": "Einsia"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 765,
       "user": "basketikun"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 238,
       "user": "NV404"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 212,
       "user": "NullLatency"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "val1813"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 77,
       "user": "alash3al"
     }
   ]

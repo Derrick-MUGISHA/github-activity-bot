@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-25 13:00 CAT)
+## 📅 Latest Updates (2026-04-25 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -220,7 +220,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26](https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574) _[Dev.to]_
 
-_Last automated update: Sat, 25 Apr 2026 13:21:41 CAT_
+_Last automated update: Sat, 25 Apr 2026 14:00:07 CAT_
 
 
 
@@ -228,36 +228,36 @@ _Last automated update: Sat, 25 Apr 2026 13:21:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -291,7 +291,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 11:21:41 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 12:00:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
