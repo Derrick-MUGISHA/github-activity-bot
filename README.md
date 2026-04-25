@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 0:00 CAT)
+## 📅 Latest Updates (2026-04-26 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -222,7 +222,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
 - [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 00:48:57 CAT_
+_Last automated update: Sun, 26 Apr 2026 01:34:22 CAT_
 
 
 
@@ -230,36 +230,36 @@ _Last automated update: Sun, 26 Apr 2026 00:48:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Token bucket, sliding window, Redis
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -293,7 +293,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 22:48:57 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 23:34:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
