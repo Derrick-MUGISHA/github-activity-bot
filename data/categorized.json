@@ -60,21 +60,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
       "url": "https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm",
       "published_at": "2026-04-24T07:36:01Z",
@@ -205,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "published_at": "2026-04-23T20:30:39Z",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "tags": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
     },
     {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
@@ -555,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 381,
       "user": "levelsio"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "simoncirstoiu"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1094,
       "user": "deepseek-ai"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1066,
       "user": "masterking32"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 711,
       "user": "basketikun"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 75,
       "user": "val1813"
     }
   ],
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 381,
       "user": "levelsio"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 368,
       "user": "earthtojake"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "simoncirstoiu"
     }
   ],
@@ -1126,23 +1126,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1094,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
-      "url": "https://github.com/the-hidden-fish/advisor-ledger",
-      "published_at": "2026-04-19T21:58:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
-      "source": "GitHub",
-      "stars": 1061,
-      "user": "the-hidden-fish"
     },
     {
       "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
@@ -1156,8 +1141,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1066,
       "user": "masterking32"
+    },
+    {
+      "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
+      "url": "https://github.com/the-hidden-fish/advisor-ledger",
+      "published_at": "2026-04-19T21:58:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
+      "source": "GitHub",
+      "stars": 1064,
+      "user": "the-hidden-fish"
     },
     {
       "title": "Einsia/OpenChronicle - GitHub Repository",
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "Einsia"
     },
     {
@@ -1186,26 +1186,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 711,
       "user": "basketikun"
     }
   ],
   "DevOps": [
-    {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
@@ -1220,6 +1205,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "published_at": "2026-04-23T20:30:39Z",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "tags": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1736,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 381,
       "user": "levelsio"
     }
   ],
@@ -1752,21 +1752,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
       "url": "https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm",
       "published_at": "2026-04-24T07:36:01Z",
@@ -1780,6 +1765,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvt1vdv27tqwe6b9b4itz.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "published_at": "2026-04-23T20:30:39Z",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "tags": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1853,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 381,
       "user": "levelsio"
     },
     {
@@ -1868,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 368,
       "user": "earthtojake"
     },
     {
@@ -1898,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46245735?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 268,
       "user": "simoncirstoiu"
     },
     {
@@ -1913,23 +1913,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1085,
+      "stars": 1094,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
-      "url": "https://github.com/the-hidden-fish/advisor-ledger",
-      "published_at": "2026-04-19T21:58:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
-      "source": "GitHub",
-      "stars": 1061,
-      "user": "the-hidden-fish"
     },
     {
       "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
@@ -1943,8 +1928,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1066,
       "user": "masterking32"
+    },
+    {
+      "title": "the-hidden-fish/advisor-ledger - GitHub Repository",
+      "url": "https://github.com/the-hidden-fish/advisor-ledger",
+      "published_at": "2026-04-19T21:58:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277556120?v=4",
+      "source": "GitHub",
+      "stars": 1064,
+      "user": "the-hidden-fish"
     },
     {
       "title": "Einsia/OpenChronicle - GitHub Repository",
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "Einsia"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 711,
       "user": "basketikun"
     },
     {
@@ -1988,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "NV404"
     },
     {
@@ -2018,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 103,
       "user": "NullLatency"
     },
     {
@@ -2033,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 75,
       "user": "val1813"
     },
     {
