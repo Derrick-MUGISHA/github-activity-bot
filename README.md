@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-25-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (43.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.5%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
@@ -46,13 +46,13 @@
 
 **Database**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-25 23:00 CAT)
+## 📅 Latest Updates (2026-04-26 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -209,7 +209,6 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
 - [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) _[Dev.to]_
-- [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
 - [tinyboot v0.4.0 Released — The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76) _[Dev.to]_
 - [How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)](https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
@@ -221,8 +220,9 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f) _[Dev.to]_
 - [How to Quickly Prepare for Software Engineering Interviews](https://dev.to/alikhil/how-to-quickly-prepare-for-software-engineering-interviews-2pk4) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
+- [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 
-_Last automated update: Sat, 25 Apr 2026 23:59:38 CAT_
+_Last automated update: Sun, 26 Apr 2026 00:48:57 CAT_
 
 
 
@@ -230,36 +230,36 @@ _Last automated update: Sat, 25 Apr 2026 23:59:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -293,7 +293,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 25 Apr 2026 21:59:38 GMT</b><br/>
+  <b>Last automated update: Sat, 25 Apr 2026 22:48:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
