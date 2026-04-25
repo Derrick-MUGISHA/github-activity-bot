@@ -206,6 +206,20 @@
       "user": "vaidehi Warghat"
     },
     {
+      "title": "A Stitch at a time",
+      "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
+      "published_at": "2026-04-24T06:52:18Z",
+      "description": "Every UI idea starts the same way. A sentence. A sketch. A screenshot of something you saw and...",
+      "tags": [
+        "ui",
+        "design",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
+    },
+    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -263,20 +277,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
       "source": "Dev.to",
       "user": "Nikhil Sharma"
-    },
-    {
-      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
-      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
-      "published_at": "2026-04-23T02:28:09Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
-      "source": "Dev.to",
-      "user": "Wan Satya"
     },
     {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
@@ -381,6 +381,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1v7m9p8uh6v27a99m60x.png",
       "source": "Dev.to",
       "user": "Emin Salih Açıkgöz"
+    },
+    {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "source": "Dev.to",
+      "user": "Abhishek"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -556,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1193,
       "user": "masterking32"
     },
     {
@@ -571,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1144,
       "user": "deepseek-ai"
     },
     {
@@ -586,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 793,
       "user": "basketikun"
     },
     {
@@ -601,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 137,
       "user": "alash3al"
     },
     {
@@ -616,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 129,
       "user": "peiyizhi0724"
     },
     {
@@ -631,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 108,
       "user": "val1813"
     }
   ],
@@ -871,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1196,
       "user": "ConardLi"
     },
     {
@@ -901,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "earthtojake"
     },
     {
@@ -1112,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1193,
       "user": "masterking32"
     },
     {
@@ -1127,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1144,
       "user": "deepseek-ai"
     },
     {
@@ -1157,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1027,
       "user": "Einsia"
     },
     {
@@ -1172,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 793,
       "user": "basketikun"
     }
   ],
@@ -1462,20 +1477,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building Autonomous Apps on Google Cloud (Beyond Just “Deploying AI”)",
-      "url": "https://dev.to/wansatya/building-autonomous-apps-on-google-cloud-beyond-just-deploying-ai-543o",
-      "published_at": "2026-04-23T02:28:09Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge              The Shift:...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkffd7lkavjf8i6w5rx4.png",
-      "source": "Dev.to",
-      "user": "Wan Satya"
-    },
-    {
       "title": "Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI",
       "url": "https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178",
       "published_at": "2026-04-22T20:42:16Z",
@@ -1562,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 137,
       "user": "alash3al"
     }
   ],
@@ -1828,6 +1829,21 @@
       "user": "Emin Salih Açıkgöz"
     },
     {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "source": "Dev.to",
+      "user": "Abhishek"
+    },
+    {
       "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "url": "https://github.com/ConardLi/garden-skills",
       "published_at": "2026-04-21T11:56:17Z",
@@ -1839,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1196,
       "user": "ConardLi"
     },
     {
@@ -1869,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "earthtojake"
     },
     {
@@ -1914,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1193,
       "user": "masterking32"
     },
     {
@@ -1929,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1144,
       "user": "deepseek-ai"
     },
     {
@@ -1959,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1027,
       "user": "Einsia"
     },
     {
@@ -1974,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 793,
       "user": "basketikun"
     },
     {
@@ -1989,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 261,
       "user": "NullLatency"
     },
     {
@@ -2019,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 137,
       "user": "alash3al"
     },
     {
@@ -2034,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 129,
       "user": "peiyizhi0724"
     },
     {
@@ -2049,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 108,
       "user": "val1813"
     }
   ]

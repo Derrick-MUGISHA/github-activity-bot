@@ -1,21 +1,21 @@
 {
-  "total": 103,
+  "total": 105,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
+    "AI": 46,
     "JavaScript": 22,
     "Python": 18,
     "DevOps": 4,
     "WebDev": 5,
     "Mobile": 2,
-    "Cloud": 15,
+    "Cloud": 14,
     "Database": 3,
     "Security": 9,
-    "Tools": 21
+    "Tools": 22
   },
   "by_language": {
     "Go": 29,
@@ -26,11 +26,11 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-04-24": 11,
+    "2026-04-24": 12,
     "2026-04-23": 15,
     "2026-04-22": 8,
     "2026-04-19": 8,
-    "2026-04-17": 6,
+    "2026-04-17": 7,
     "2026-04-21": 9,
     "2026-04-20": 5,
     "2026-04-16": 4,
@@ -67,24 +67,24 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 15,
+    "ai": 17,
     "github": 15,
     "open-source": 15,
-    "devchallenge": 12,
+    "devchallenge": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "go": 9,
+    "discuss": 8,
     "python": 8,
     "webdev": 8,
     "javascript": 8,
-    "discuss": 7,
-    "googlecloud": 7,
     "security": 7,
     "programming": 7,
-    "cloudnextchallenge": 5,
+    "googlecloud": 6,
     "gemini": 5,
     "tutorial": 5,
+    "cloudnextchallenge": 4,
     "beginners": 4,
     "aws": 4
   },
