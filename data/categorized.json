@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1275,
       "user": "masterking32"
     },
     {
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1180,
       "user": "deepseek-ai"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 653,
       "user": "GammaLabTechnologies"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 254,
       "user": "alash3al"
     },
     {
@@ -873,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1291,
       "user": "ConardLi"
     },
     {
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 773,
       "user": "openclaw"
     },
     {
@@ -903,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 517,
       "user": "earthtojake"
     },
     {
@@ -933,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 277,
       "user": "Parallax-Trading"
     }
   ],
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1275,
       "user": "masterking32"
     },
     {
@@ -1129,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1221,
       "user": "Einsia"
     },
     {
@@ -1144,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1180,
       "user": "deepseek-ai"
     },
     {
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 653,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 528,
       "user": "Russell-cell"
     }
   ],
@@ -1299,6 +1299,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg21pwomxbrd3pgrbevqh.png",
       "source": "Dev.to",
       "user": "Javier Morant"
+    },
+    {
+      "title": "A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions",
+      "url": "https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i",
+      "published_at": "2026-04-24T11:14:27Z",
+      "description": "In Part 1 you learned the basics. Semantics for labels and hints. MergeSemantics to remove double...",
+      "tags": [
+        "flutter",
+        "a11y",
+        "mobile",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp",
+      "source": "Dev.to",
+      "user": "Karol Wrótniak"
     }
   ],
   "Cloud": [
@@ -1492,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 773,
       "user": "openclaw"
     },
     {
@@ -1507,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 254,
       "user": "alash3al"
     }
   ],
@@ -1660,16 +1675,6 @@
   ],
   "Tools": [
     {
-      "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
-      "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
-      "published_at": "2026-04-24T14:39:33Z",
-      "description": "...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
       "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
       "published_at": "2026-04-25T18:30:55Z",
@@ -1760,6 +1765,16 @@
       "user": "kotakanbe"
     },
     {
+      "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
+      "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
+      "published_at": "2026-04-24T14:39:33Z",
+      "description": "...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Ship Fast, Forget Faster",
       "url": "https://dev.to/xde013/ship-fast-forget-faster-ll1",
       "published_at": "2026-04-24T15:07:28Z",
@@ -1831,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1291,
       "user": "ConardLi"
     },
     {
@@ -1846,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 773,
       "user": "openclaw"
     },
     {
@@ -1861,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 517,
       "user": "earthtojake"
     },
     {
@@ -1891,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 277,
       "user": "Parallax-Trading"
     },
     {
@@ -1906,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1275,
       "user": "masterking32"
     },
     {
@@ -1921,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1221,
       "user": "Einsia"
     },
     {
@@ -1936,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1180,
       "user": "deepseek-ai"
     },
     {
@@ -1951,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 653,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1966,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 528,
       "user": "Russell-cell"
     },
     {
@@ -1981,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 326,
       "user": "NullLatency"
     },
     {
@@ -1996,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "NV404"
     },
     {
@@ -2011,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 254,
       "user": "alash3al"
     },
     {
