@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 14:00 CAT)
+## 📅 Latest Updates (2026-04-26 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 14:59:04 CAT_
+_Last automated update: Sun, 26 Apr 2026 16:06:36 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 26 Apr 2026 14:59:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 12:59:04 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 14:06:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
