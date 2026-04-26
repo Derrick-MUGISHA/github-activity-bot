@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
-      "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
-      "published_at": "2026-04-25T18:30:55Z",
-      "description": "Agent Skills Adoption    Prompt Bloat has a name and a fix. Skills are now load-bearing...",
-      "tags": [
-        "googleadk",
-        "googleagentplatform",
-        "enterpriseaistrategy",
-        "geminienterprise"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
-      "source": "Dev.to",
-      "user": "Sonika Janagill"
-    },
-    {
       "title": "The Hidden Challenge of Multi-LLM Context Management",
       "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
       "published_at": "2026-04-24T20:19:51Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
+      "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
+      "published_at": "2026-04-25T18:30:55Z",
+      "description": "Agent Skills Adoption    Prompt Bloat has a name and a fix. Skills are now load-bearing...",
+      "tags": [
+        "googleadk",
+        "googleagentplatform",
+        "enterpriseaistrategy",
+        "geminienterprise"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
     },
     {
       "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
@@ -541,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 407,
       "user": "levelsio"
     },
     {
@@ -556,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1253,
       "user": "masterking32"
     },
     {
@@ -571,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1171,
       "user": "deepseek-ai"
     },
     {
@@ -586,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 622,
       "user": "GammaLabTechnologies"
     },
     {
@@ -601,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 237,
       "user": "alash3al"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 151,
       "user": "peiyizhi0724"
     }
   ],
@@ -873,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1238,
+      "stars": 1262,
       "user": "ConardLi"
     },
     {
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 707,
       "user": "openclaw"
     },
     {
@@ -903,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 489,
       "user": "earthtojake"
     },
     {
@@ -918,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 407,
       "user": "levelsio"
     },
     {
@@ -933,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 278,
       "user": "Parallax-Trading"
     }
   ],
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1253,
       "user": "masterking32"
     },
     {
@@ -1129,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1171,
       "user": "deepseek-ai"
     },
     {
@@ -1144,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1160,
       "user": "Einsia"
     },
     {
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 622,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 484,
       "user": "Russell-cell"
     }
   ],
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 707,
       "user": "openclaw"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 237,
       "user": "alash3al"
     }
   ],
@@ -1654,11 +1654,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 407,
       "user": "levelsio"
     }
   ],
   "Tools": [
+    {
+      "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
+      "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
+      "published_at": "2026-04-24T14:39:33Z",
+      "description": "...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
       "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
@@ -1673,16 +1683,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
       "source": "Dev.to",
       "user": "Sonika Janagill"
-    },
-    {
-      "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
-      "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
-      "published_at": "2026-04-24T14:39:33Z",
-      "description": "...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Empowering Autonomous AI Agents through Dynamic Tool Creation",
@@ -1831,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1238,
+      "stars": 1262,
       "user": "ConardLi"
     },
     {
@@ -1846,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 707,
       "user": "openclaw"
     },
     {
@@ -1861,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 489,
       "user": "earthtojake"
     },
     {
@@ -1876,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 407,
       "user": "levelsio"
     },
     {
@@ -1891,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 278,
       "user": "Parallax-Trading"
     },
     {
@@ -1906,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1253,
       "user": "masterking32"
     },
     {
@@ -1921,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1171,
       "user": "deepseek-ai"
     },
     {
@@ -1936,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1160,
       "user": "Einsia"
     },
     {
@@ -1951,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 622,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1966,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 484,
       "user": "Russell-cell"
     },
     {
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 311,
       "user": "NullLatency"
     },
     {
@@ -1996,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "NV404"
     },
     {
@@ -2011,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 237,
       "user": "alash3al"
     },
     {
@@ -2026,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 174,
       "user": "nakagami"
     },
     {
@@ -2041,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 151,
       "user": "peiyizhi0724"
     }
   ]

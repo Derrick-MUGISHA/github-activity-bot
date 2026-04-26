@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 3:00 CAT)
+## 📅 Latest Updates (2026-04-26 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,15 +142,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png" width="200" alt="Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack" />
-      <br/>
-      <b>Instructions. Skills. Tools. How Google Embedded S...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png" width="200" alt="I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It." />
       <br/>
@@ -159,8 +150,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png" width="200" alt="This is pretty exciting!
@@ -174,6 +163,8 @@ https://github.com/mat...</b>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlo2wdgcln6mdf1i6l0t.png" width="200" alt="The Vonage Dev Discussion: Making mistakes" />
@@ -192,6 +183,15 @@ https://github.com/mat...</b>
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjld3057pg3xd4cc89lh.png" width="200" alt="Congrats to the April Fools Challenge Winners!!" />
+      <br/>
+      <b>Congrats to the April Fools Challenge Winners!!</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -200,7 +200,6 @@ https://github.com/mat...</b>
 ### 📰 Top Headlines
 
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
-- [Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack](https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415) _[Dev.to]_
 - [I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2) _[Dev.to]_
 - [This is pretty exciting!
 
@@ -208,6 +207,7 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [The Vonage Dev Discussion: Making mistakes](https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc) _[Dev.to]_
 - [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
+- [Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack](https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415) _[Dev.to]_
 - [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) _[Dev.to]_
 - [tinyboot v0.4.0 Released — The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76) _[Dev.to]_
 - [How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)](https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo) _[Dev.to]_
@@ -215,14 +215,14 @@ https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsg
 - [Building MCP Apps with Angular](https://dev.to/dalenguyen/building-mcp-apps-with-angular-3849) _[Dev.to]_
 - [How to make OpenClaw just work](https://dev.to/angeluz07/how-to-make-openclaw-just-work-2lm1) _[Dev.to]_
 - [Remade the 1991 Classic "Gorillas" in Python—and Survived the Snapcraft Journey](https://dev.to/davdomin/remade-the-1991-classic-gorillas-in-python-and-survived-the-snapcraft-journey-2nfp) _[Dev.to]_
-- [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [How to Filter and Sort Posts by Custom Field Value Using JetSmartFilters + Bricks Builder](https://dev.to/muazzami/how-to-filter-and-sort-posts-by-custom-field-value-using-jetsmartfilters-bricks-builder-57an) _[Dev.to]_
+- [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f) _[Dev.to]_
 - [How to Quickly Prepare for Software Engineering Interviews](https://dev.to/alikhil/how-to-quickly-prepare-for-software-engineering-interviews-2pk4) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
 - [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 03:12:59 CAT_
+_Last automated update: Sun, 26 Apr 2026 06:31:38 CAT_
 
 
 
@@ -230,29 +230,18 @@ _Last automated update: Sun, 26 Apr 2026 03:12:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
-
-</details>
-
-### 2. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 2. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -260,6 +249,17 @@ Multiple inheritance, method implementation, use cases
 <summary>💡 Hint</summary>
 
 Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. React: What are hooks and why were they introduced?
+
+**Difficulty**: Medium | **Topics**: hooks, functional components
+
+<details>
+<summary>💡 Hint</summary>
+
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -293,7 +293,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 01:12:59 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 04:31:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
