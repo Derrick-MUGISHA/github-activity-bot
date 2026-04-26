@@ -220,21 +220,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
-      "published_at": "2026-04-24T20:19:51Z",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
       "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
       "published_at": "2026-04-19T03:11:23Z",
@@ -613,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "levelsio"
     },
     {
@@ -628,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1374,
       "user": "masterking32"
     },
     {
@@ -722,6 +707,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwp.muazzam.dev%2Fwp-content%2Fuploads%2F2026%2F04%2Fjet-smart-filters.jpeg",
       "source": "Dev.to",
       "user": "Muazzam"
+    },
+    {
+      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
+      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
+      "published_at": "2026-04-17T18:38:12Z",
+      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
+      "tags": [
+        "nestjs",
+        "javascript",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
+      "source": "Dev.to",
+      "user": "Oladele David "
     },
     {
       "title": "Mastering Template Literals in JavaScript: Say Goodbye to String Concatenation Nightmares",
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1364,
       "user": "ConardLi"
     },
     {
@@ -943,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "openclaw"
     },
     {
@@ -958,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 618,
       "user": "earthtojake"
     },
     {
@@ -973,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "levelsio"
     },
     {
@@ -988,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 271,
       "user": "Parallax-Trading"
     }
   ],
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1380,
+      "stars": 1385,
       "user": "Einsia"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1374,
       "user": "masterking32"
     },
     {
@@ -1293,6 +1293,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
+    },
+    {
+      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
+      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
+      "published_at": "2026-04-17T18:38:12Z",
+      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
+      "tags": [
+        "nestjs",
+        "javascript",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
+      "source": "Dev.to",
+      "user": "Oladele David "
     },
     {
       "title": "Partial Password Authentication",
@@ -1512,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "openclaw"
     },
     {
@@ -1672,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "levelsio"
     }
   ],
@@ -1864,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1364,
       "user": "ConardLi"
     },
     {
@@ -1879,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 953,
       "user": "openclaw"
     },
     {
@@ -1894,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 618,
       "user": "earthtojake"
     },
     {
@@ -1909,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "levelsio"
     },
     {
@@ -1924,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 271,
       "user": "Parallax-Trading"
     },
     {
@@ -1939,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1380,
+      "stars": 1385,
       "user": "Einsia"
     },
     {
@@ -1954,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1374,
       "user": "masterking32"
     },
     {
@@ -2014,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "NullLatency"
     },
     {

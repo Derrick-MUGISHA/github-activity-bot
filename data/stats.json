@@ -6,11 +6,11 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 49,
-    "JavaScript": 22,
+    "AI": 48,
+    "JavaScript": 23,
     "Python": 18,
     "DevOps": 3,
-    "WebDev": 3,
+    "WebDev": 4,
     "Mobile": 0,
     "Cloud": 14,
     "Database": 2,
@@ -19,18 +19,18 @@
   },
   "by_language": {
     "Go": 28,
-    "JavaScript": 22,
+    "JavaScript": 23,
     "Python": 18,
     "PHP": 1,
-    "Java": 17
+    "Java": 18
   },
   "by_date": {
     "2026-04-26": 6,
-    "2026-04-24": 15,
+    "2026-04-24": 14,
     "2026-04-25": 8,
     "2026-04-22": 7,
     "2026-04-19": 4,
-    "2026-04-17": 4,
+    "2026-04-17": 5,
     "2026-04-21": 5,
     "2026-04-20": 5,
     "2026-04-16": 3,
@@ -68,18 +68,18 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 21,
+    "ai": 20,
     "github": 16,
     "open-source": 15,
     "devchallenge": 12,
-    "programming": 11,
-    "webdev": 10,
+    "programming": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "webdev": 9,
     "discuss": 8,
     "python": 8,
-    "javascript": 7,
+    "javascript": 8,
     "go": 7,
     "googlecloud": 6,
     "productivity": 6,
@@ -91,10 +91,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "32.6",
-    "JavaScript": "25.6",
-    "Python": "20.9",
-    "PHP": "1.2",
-    "Java": "19.8"
+    "Go": "31.8",
+    "JavaScript": "26.1",
+    "Python": "20.5",
+    "PHP": "1.1",
+    "Java": "20.5"
   }
 }
