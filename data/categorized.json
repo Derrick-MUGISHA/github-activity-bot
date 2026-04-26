@@ -133,21 +133,6 @@
       "user": "Setiaji"
     },
     {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -174,20 +159,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
-    },
-    {
-      "title": "A Stitch at a time",
-      "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
-      "published_at": "2026-04-24T06:52:18Z",
-      "description": "Every UI idea starts the same way. A sentence. A sketch. A screenshot of something you saw and...",
-      "tags": [
-        "ui",
-        "design",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -235,6 +206,21 @@
       "user": "Sonika Janagill"
     },
     {
+      "title": "A Map for the First-Time Software Creator",
+      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
+      "published_at": "2026-04-24T19:29:01Z",
+      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
+      "tags": [
+        "beginners",
+        "webdev",
+        "ai",
+        "nocode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "AI is replacing developers (just not the way you think)",
       "url": "https://dev.to/ronaizacardoso/ai-is-replacing-developers-just-not-the-way-you-think-1h9a",
       "published_at": "2026-04-24T14:57:55Z",
@@ -248,6 +234,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy090uv57iw6hh4xgds6t.png",
       "source": "Dev.to",
       "user": "Ronaiza Cardoso"
+    },
+    {
+      "title": "Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development",
+      "url": "https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0",
+      "published_at": "2026-04-24T15:26:04Z",
+      "description": "The landscape of software development is undergoing a seismic shift from simple chat interfaces to...",
+      "tags": [
+        "antigravity",
+        "agentic",
+        "gcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
+    },
+    {
+      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
+      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
+      "published_at": "2026-04-24T14:41:58Z",
+      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "devchallenge",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
@@ -294,6 +310,35 @@
       "user": "Jess Lee"
     },
     {
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "published_at": "2026-04-23T20:30:39Z",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "tags": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
+    },
+    {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
       "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
       "published_at": "2026-04-20T16:50:30Z",
@@ -309,18 +354,48 @@
       "user": "dev.to staff"
     },
     {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "title": "A Go + React monorepo starter with auth and multi-tenancy",
+      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
+      "published_at": "2026-04-09T17:15:51Z",
+      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
+      "tags": [
+        "go",
+        "react",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
+      "source": "Dev.to",
+      "user": "Calebe Aires"
+    },
+    {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
       "tags": [
         "ai",
-        "leadership",
-        "discuss"
+        "learning",
+        "productivity",
+        "startup"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
       "source": "Dev.to",
-      "user": "Jono Herrington"
+      "user": "Abhishek"
+    },
+    {
+      "title": "A Stitch at a time",
+      "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
+      "published_at": "2026-04-24T06:52:18Z",
+      "description": "Every UI idea starts the same way. A sentence. A sketch. A screenshot of something you saw and...",
+      "tags": [
+        "ui",
+        "design",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -481,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1310,
       "user": "masterking32"
     },
     {
@@ -496,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1191,
       "user": "deepseek-ai"
     },
     {
@@ -511,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "GammaLabTechnologies"
     },
     {
@@ -635,6 +710,49 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
       "source": "Dev.to",
       "user": "Laura Durieux"
+    },
+    {
+      "title": "You’re a Real Software Developer Only If…",
+      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
+      "published_at": "2026-04-09T21:07:21Z",
+      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
+      "tags": [
+        "jokes",
+        "devlive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "A Go + React monorepo starter with auth and multi-tenancy",
+      "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
+      "published_at": "2026-04-09T17:15:51Z",
+      "description": "A full-stack starter with Go/Gin, React 19, auth and multi-tenancy already done — so you can jump straight into business logic.",
+      "tags": [
+        "go",
+        "react",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
+      "source": "Dev.to",
+      "user": "Calebe Aires"
+    },
+    {
+      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
+      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
+      "published_at": "2026-04-09T01:19:42Z",
+      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
+      "tags": [
+        "sofianehamlaoui",
+        "aws",
+        "tutorial",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
+      "source": "Dev.to",
+      "user": "Sofiane Hamlaoui"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -768,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1317,
       "user": "ConardLi"
     },
     {
@@ -783,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 830,
       "user": "openclaw"
     },
     {
@@ -798,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 531,
       "user": "earthtojake"
     },
     {
@@ -828,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 276,
       "user": "Parallax-Trading"
     }
   ],
@@ -1009,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1310,
       "user": "masterking32"
     },
     {
@@ -1024,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1278,
       "user": "Einsia"
     },
     {
@@ -1039,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1191,
       "user": "deepseek-ai"
     },
     {
@@ -1054,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1069,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 577,
       "user": "Russell-cell"
     }
   ],
@@ -1088,21 +1206,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1133,6 +1236,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe432cucgr5y7hyfpwgef.png",
       "source": "Dev.to",
       "user": "Jaimin"
+    },
+    {
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "published_at": "2026-04-23T20:30:39Z",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "tags": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
     }
   ],
   "WebDev": [
@@ -1150,6 +1268,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "Partial Password Authentication",
+      "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
+      "published_at": "2026-04-14T21:23:40Z",
+      "description": "Recently, I switched to another bank, and after setting up the online banking credentials and trying...",
+      "tags": [
+        "security",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
+      "source": "Dev.to",
+      "user": "Muhammad Hassan"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1197,20 +1328,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.",
-      "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2",
-      "published_at": "2026-04-24T10:39:57Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  I'm running something called The...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png",
-      "source": "Dev.to",
-      "user": "Joske Vermeulen"
-    },
     {
       "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
       "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
@@ -1271,6 +1388,36 @@
       "user": "Sonika Janagill"
     },
     {
+      "title": "Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development",
+      "url": "https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0",
+      "published_at": "2026-04-24T15:26:04Z",
+      "description": "The landscape of software development is undergoing a seismic shift from simple chat interfaces to...",
+      "tags": [
+        "antigravity",
+        "agentic",
+        "gcp",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
+    },
+    {
+      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
+      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
+      "published_at": "2026-04-24T14:41:58Z",
+      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "devchallenge",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Building Multimodal Real Time Agent with ADK, Azure AKS, Gemini CLI, and Gemini Flash Live 3.1",
       "url": "https://dev.to/gde/building-multimodal-real-time-agent-with-adk-azure-aks-gemini-cli-and-gemini-flash-live-31-np5",
       "published_at": "2026-04-14T21:55:29Z",
@@ -1284,6 +1431,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb97345aamohk3v6cxz8.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.",
+      "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2",
+      "published_at": "2026-04-24T10:39:57Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  I'm running something called The...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
     },
     {
       "title": "From Monolith State to Stateless Microservices: A Real-World Refactor",
@@ -1316,19 +1477,19 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Build your own blog post view counter on AWS Free Tier",
-      "url": "https://dev.to/aws/build-your-own-blog-post-view-counter-on-aws-free-tier-306f",
-      "published_at": "2026-04-21T19:35:19Z",
-      "description": "Your blog deserves to know it's being read. A Lambda function counts the views, DynamoDB remembers...",
+      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
+      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
+      "published_at": "2026-04-09T01:19:42Z",
+      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
       "tags": [
-        "beginners",
-        "lambda",
-        "dynamodb",
-        "tutorial"
+        "sofianehamlaoui",
+        "aws",
+        "tutorial",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs4j8mc003nneo7qk7m2o.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
       "source": "Dev.to",
-      "user": "Esin Saribudak"
+      "user": "Sofiane Hamlaoui"
     },
     {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
@@ -1342,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 830,
       "user": "openclaw"
     },
     {
@@ -1466,6 +1627,34 @@
       "user": "kotakanbe"
     },
     {
+      "title": "Partial Password Authentication",
+      "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
+      "published_at": "2026-04-14T21:23:40Z",
+      "description": "Recently, I switched to another bank, and after setting up the online banking credentials and trying...",
+      "tags": [
+        "security",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
+      "source": "Dev.to",
+      "user": "Muhammad Hassan"
+    },
+    {
+      "title": "Mastering Error Handling in Go",
+      "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
+      "published_at": "2026-04-09T13:54:17Z",
+      "description": "Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...",
+      "tags": [
+        "go",
+        "programming",
+        "tutorial",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
+      "source": "Dev.to",
+      "user": "Aditya"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1540,21 +1729,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1625,6 +1799,21 @@
       "user": "Jaimin"
     },
     {
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "published_at": "2026-04-23T20:30:39Z",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "tags": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "source": "Dev.to",
+      "user": "Matty Stratton"
+    },
+    {
       "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
       "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
       "published_at": "2026-04-19T13:59:58Z",
@@ -1640,6 +1829,21 @@
       "user": "Laura Durieux"
     },
     {
+      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
+      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
+      "published_at": "2026-04-17T19:26:57Z",
+      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity",
+        "startup"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
+      "source": "Dev.to",
+      "user": "Abhishek"
+    },
+    {
       "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "url": "https://github.com/ConardLi/garden-skills",
       "published_at": "2026-04-21T11:56:17Z",
@@ -1651,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1317,
       "user": "ConardLi"
     },
     {
@@ -1666,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 830,
       "user": "openclaw"
     },
     {
@@ -1681,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 531,
       "user": "earthtojake"
     },
     {
@@ -1711,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 276,
       "user": "Parallax-Trading"
     },
     {
@@ -1726,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1310,
       "user": "masterking32"
     },
     {
@@ -1741,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1278,
       "user": "Einsia"
     },
     {
@@ -1756,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1191,
       "user": "deepseek-ai"
     },
     {
@@ -1771,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1786,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 577,
       "user": "Russell-cell"
     },
     {
@@ -1801,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 339,
       "user": "NullLatency"
     },
     {
@@ -1846,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 185,
       "user": "nakagami"
     },
     {
