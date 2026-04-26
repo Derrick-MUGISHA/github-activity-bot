@@ -6,36 +6,35 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 48,
+    "AI": 49,
     "JavaScript": 22,
     "Python": 18,
     "DevOps": 3,
     "WebDev": 3,
-    "Mobile": 1,
+    "Mobile": 0,
     "Cloud": 14,
     "Database": 2,
     "Security": 8,
-    "Tools": 26
+    "Tools": 27
   },
   "by_language": {
-    "Go": 29,
+    "Go": 28,
     "JavaScript": 22,
     "Python": 18,
     "PHP": 1,
-    "Swift": 1,
     "Java": 17
   },
   "by_date": {
-    "2026-04-26": 5,
+    "2026-04-26": 6,
     "2026-04-24": 15,
     "2026-04-25": 8,
     "2026-04-22": 7,
     "2026-04-19": 4,
-    "2026-04-23": 12,
     "2026-04-17": 4,
     "2026-04-21": 5,
     "2026-04-20": 5,
     "2026-04-16": 3,
+    "2026-04-23": 11,
     "2026-04-14": 3,
     "2026-04-09": 4,
     "2026-03-11": 1,
@@ -69,11 +68,11 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 21,
     "github": 16,
     "open-source": 15,
     "devchallenge": 12,
-    "programming": 10,
+    "programming": 11,
     "webdev": 10,
     "AI": 10,
     "JavaScript": 10,
@@ -83,20 +82,19 @@
     "javascript": 7,
     "go": 7,
     "googlecloud": 6,
+    "productivity": 6,
     "cloudnextchallenge": 5,
     "security": 5,
-    "productivity": 5,
     "gemini": 4,
     "aws": 4,
     "tutorial": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "33.0",
-    "JavaScript": "25.0",
-    "Python": "20.5",
-    "PHP": "1.1",
-    "Swift": "1.1",
-    "Java": "19.3"
+    "Go": "32.6",
+    "JavaScript": "25.6",
+    "Python": "20.9",
+    "PHP": "1.2",
+    "Java": "19.8"
   }
 }
