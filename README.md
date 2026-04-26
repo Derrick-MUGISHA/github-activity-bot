@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-26-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 14 (13.5%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-4-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 10:00 CAT)
+## 📅 Latest Updates (2026-04-26 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,13 +210,13 @@ npm run test
 - [Remade the 1991 Classic "Gorillas" in Python—and Survived the Snapcraft Journey](https://dev.to/davdomin/remade-the-1991-classic-gorillas-in-python-and-survived-the-snapcraft-journey-2nfp) _[Dev.to]_
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [How to Filter and Sort Posts by Custom Field Value Using JetSmartFilters + Bricks Builder](https://dev.to/muazzami/how-to-filter-and-sort-posts-by-custom-field-value-using-jetsmartfilters-bricks-builder-57an) _[Dev.to]_
-- [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f) _[Dev.to]_
-- [How to Quickly Prepare for Software Engineering Interviews](https://dev.to/alikhil/how-to-quickly-prepare-for-software-engineering-interviews-2pk4) _[Dev.to]_
 - [Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!](https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd) _[Dev.to]_
+- [How to Quickly Prepare for Software Engineering Interviews](https://dev.to/alikhil/how-to-quickly-prepare-for-software-engineering-interviews-2pk4) _[Dev.to]_
 - [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 - [Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development](https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0) _[Dev.to]_
+- [Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!](https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 10:04:05 CAT_
+_Last automated update: Sun, 26 Apr 2026 11:14:04 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 26 Apr 2026 10:04:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 08:04:05 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 09:14:04 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

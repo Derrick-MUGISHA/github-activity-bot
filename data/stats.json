@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 44,
+    "AI": 43,
     "JavaScript": 23,
     "Python": 18,
     "DevOps": 4,
@@ -27,7 +27,7 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-04-24": 18,
+    "2026-04-24": 17,
     "2026-04-23": 17,
     "2026-04-25": 7,
     "2026-04-22": 8,
@@ -68,11 +68,11 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 19,
+    "ai": 18,
     "github": 16,
     "open-source": 15,
-    "webdev": 11,
     "devchallenge": 10,
+    "webdev": 10,
     "javascript": 10,
     "AI": 10,
     "JavaScript": 10,
@@ -82,12 +82,12 @@
     "discuss": 7,
     "googlecloud": 6,
     "go": 6,
-    "beginners": 5,
     "cloudnextchallenge": 4,
     "security": 4,
     "gemini": 4,
     "productivity": 4,
-    "devops": 4
+    "devops": 4,
+    "beginners": 4
   },
   "trending_topics": [],
   "language_percentages": {
