@@ -119,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 21:00 CAT)
+## 📅 Latest Updates (2026-04-26 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +210,7 @@ npm run test
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 21:56:49 CAT_
+_Last automated update: Sun, 26 Apr 2026 22:38:57 CAT_
 
 
 
@@ -218,36 +218,36 @@ _Last automated update: Sun, 26 Apr 2026 21:56:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 19:56:49 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 20:38:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
