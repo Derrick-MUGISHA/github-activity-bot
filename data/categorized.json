@@ -106,21 +106,6 @@
       "user": "Gbemisola Esho"
     },
     {
-      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
-      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
-      "published_at": "2026-04-24T14:41:58Z",
-      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "devchallenge",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -134,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
       "source": "Dev.to",
       "user": "Simme"
-    },
-    {
-      "title": "From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26",
-      "url": "https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574",
-      "published_at": "2026-04-23T15:45:10Z",
-      "description": "The era of “chatting with AI” has officially evolved into the era of “AI doing the work.” This year...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "agentskills",
-        "agentplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbt5b14kl7j4s76vvn5e.png",
-      "source": "Dev.to",
-      "user": "Ibtissem Hattab"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -541,7 +511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1296,
       "user": "masterking32"
     },
     {
@@ -556,7 +526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1185,
       "user": "deepseek-ai"
     },
     {
@@ -571,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 673,
       "user": "GammaLabTechnologies"
     },
     {
@@ -586,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "alash3al"
     },
     {
@@ -601,26 +571,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "peiyizhi0724"
     }
   ],
   "JavaScript": [
-    {
-      "title": "How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)",
-      "url": "https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo",
-      "published_at": "2026-04-23T21:03:28Z",
-      "description": "The Problem: Why I Built My Own Logger   If you’ve ever tried to implement proper logging in...",
-      "tags": [
-        "programming",
-        "frontend",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bllzc9ycnrmvtqo6g5e.png",
-      "source": "Dev.to",
-      "user": "Felipe Camargo"
-    },
     {
       "title": "Building MCP Apps with Angular",
       "url": "https://dev.to/dalenguyen/building-mcp-apps-with-angular-3849",
@@ -650,21 +605,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwp.muazzam.dev%2Fwp-content%2Fuploads%2F2026%2F04%2Fjet-smart-filters.jpeg",
       "source": "Dev.to",
       "user": "Muazzam"
-    },
-    {
-      "title": "Finding a Practical Analytics Format for Structured JSON Logs",
-      "url": "https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1",
-      "published_at": "2026-04-23T17:01:17Z",
-      "description": "Structured JSON logs are easy to produce and hard to analyze at scale. They carry useful context, but...",
-      "tags": [
-        "json",
-        "go",
-        "analytics",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bx3clbs2q1mzlyec34a.png",
-      "source": "Dev.to",
-      "user": "Viacheslav Poturaev"
     },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
@@ -858,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1302,
       "user": "ConardLi"
     },
     {
@@ -873,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 800,
       "user": "openclaw"
     },
     {
@@ -888,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "earthtojake"
     },
     {
@@ -1099,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1296,
       "user": "masterking32"
     },
     {
@@ -1114,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1254,
       "user": "Einsia"
     },
     {
@@ -1129,7 +1069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1185,
       "user": "deepseek-ai"
     },
     {
@@ -1144,7 +1084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 673,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1159,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 558,
       "user": "Russell-cell"
     }
   ],
@@ -1226,21 +1166,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "How to Build a Vendor-Agnostic Logger (with a Grafana Implementation)",
-      "url": "https://dev.to/matthxc/how-to-build-a-vendor-agnostic-logger-with-a-grafana-implementation-3mmo",
-      "published_at": "2026-04-23T21:03:28Z",
-      "description": "The Problem: Why I Built My Own Logger   If you’ve ever tried to implement proper logging in...",
-      "tags": [
-        "programming",
-        "frontend",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8bllzc9ycnrmvtqo6g5e.png",
-      "source": "Dev.to",
-      "user": "Felipe Camargo"
-    },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
@@ -1344,36 +1269,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
       "source": "Dev.to",
       "user": "Gbemisola Esho"
-    },
-    {
-      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
-      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
-      "published_at": "2026-04-24T14:41:58Z",
-      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "devchallenge",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "From Generative to Agentic: My Key Takeaways from Google Cloud Next ‘26",
-      "url": "https://dev.to/gde/from-generative-to-agentic-my-key-takeaways-from-google-cloud-next-26-4574",
-      "published_at": "2026-04-23T15:45:10Z",
-      "description": "The era of “chatting with AI” has officially evolved into the era of “AI doing the work.” This year...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "agentskills",
-        "agentplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmbt5b14kl7j4s76vvn5e.png",
-      "source": "Dev.to",
-      "user": "Ibtissem Hattab"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1492,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 800,
       "user": "openclaw"
     },
     {
@@ -1507,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "alash3al"
     }
   ],
@@ -1526,21 +1421,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7ijw8unazlc8wzyrxjs.png",
       "source": "Dev.to",
       "user": "Damilola Oshungboye"
-    },
-    {
-      "title": "Finding a Practical Analytics Format for Structured JSON Logs",
-      "url": "https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1",
-      "published_at": "2026-04-23T17:01:17Z",
-      "description": "Structured JSON logs are easy to produce and hard to analyze at scale. They carry useful context, but...",
-      "tags": [
-        "json",
-        "go",
-        "analytics",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bx3clbs2q1mzlyec34a.png",
-      "source": "Dev.to",
-      "user": "Viacheslav Poturaev"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1831,7 +1711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1302,
       "user": "ConardLi"
     },
     {
@@ -1846,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 800,
       "user": "openclaw"
     },
     {
@@ -1861,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "earthtojake"
     },
     {
@@ -1906,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1296,
       "user": "masterking32"
     },
     {
@@ -1921,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1237,
+      "stars": 1254,
       "user": "Einsia"
     },
     {
@@ -1936,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1182,
+      "stars": 1185,
       "user": "deepseek-ai"
     },
     {
@@ -1951,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 673,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1966,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 558,
       "user": "Russell-cell"
     },
     {
@@ -1981,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "NullLatency"
     },
     {
@@ -1996,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "NV404"
     },
     {
@@ -2011,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "alash3al"
     },
     {
@@ -2026,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "nakagami"
     },
     {
@@ -2041,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "peiyizhi0724"
     }
   ]
