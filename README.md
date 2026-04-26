@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-26-orange)
 
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (42.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (42.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.3%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 12 (11.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.7%)
 
 **Security**: 🟦🟦🟦🟦 9 (8.7%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
 **WebDev**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (1.9%)
-
 **Database**: 🟦 2 (1.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 17:00 CAT)
+## 📅 Latest Updates (2026-04-26 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,9 +212,9 @@ npm run test
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 - [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh) _[Dev.to]_
 - [Display and test openapi.yaml file](https://dev.to/gabrielweidmann/display-and-test-openapiyaml-file-53h9) _[Dev.to]_
-- [A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions](https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i) _[Dev.to]_
+- [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 17:57:00 CAT_
+_Last automated update: Sun, 26 Apr 2026 18:43:24 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 26 Apr 2026 17:57:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Heap, stack, garbage collection
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 15:57:00 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 16:43:24 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
