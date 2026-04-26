@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-26-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
 
@@ -45,8 +45,6 @@
 **WebDev**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
-
-**Mobile**:  1 (1.0%)
 
 
 
@@ -60,30 +58,28 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 33.0 (33.0%)
-JavaScript      ███████████████████████ 25.0 (25.0%)
-Python          ███████████████████ 20.5 (20.5%)
-Java            ██████████████████ 19.3 (19.3%)
-PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
+Go              ██████████████████████████████ 32.6 (32.6%)
+JavaScript      ████████████████████████ 25.6 (25.6%)
+Python          ███████████████████ 20.9 (20.9%)
+Java            ██████████████████ 19.8 (19.8%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
+    "Go" : 28
     "JavaScript" : 22
     "Python" : 18
     "Java" : 17
     "PHP" : 1
-    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
 
 
 
@@ -123,7 +119,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-26 20:00 CAT)
+## 📅 Latest Updates (2026-04-26 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -178,10 +174,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/markadel/writing-testable-code-common-anti-patterns-and-how-to-fix-them-5aig">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3q61g234bgrym6711i19.png" width="200" alt="Writing Testable Code: Common Anti-Patterns and How to Fix Them" />
+    <a href="https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7b40ctkfd218x8jrh0.png" width="200" alt="Keeping You in the Driver's Seat and AI as the Copilot" />
       <br/>
-      <b>Writing Testable Code: Common Anti-Patterns and Ho...</b>
+      <b>Keeping You in the Driver's Seat and AI as the Cop...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,6 +194,7 @@ npm run test
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
 - [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
+- [Keeping You in the Driver's Seat and AI as the Copilot](https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8) _[Dev.to]_
 - [Writing Testable Code: Common Anti-Patterns and How to Fix Them](https://dev.to/markadel/writing-testable-code-common-anti-patterns-and-how-to-fix-them-5aig) _[Dev.to]_
 - [Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack](https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lambda, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok) _[Dev.to]_
@@ -209,12 +206,11 @@ npm run test
 - [How to Filter and Sort Posts by Custom Field Value Using JetSmartFilters + Bricks Builder](https://dev.to/muazzami/how-to-filter-and-sort-posts-by-custom-field-value-using-jetsmartfilters-bricks-builder-57an) _[Dev.to]_
 - [Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
-- [I built a minimal timing game for iOS without retention mechanics. Here’s why](https://dev.to/fjmorant/i-built-a-mobile-game-without-retention-mechanics-heres-why-4941) _[Dev.to]_
 - [How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p) _[Dev.to]_
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Sun, 26 Apr 2026 20:04:49 CAT_
+_Last automated update: Sun, 26 Apr 2026 21:13:21 CAT_
 
 
 
@@ -222,36 +218,36 @@ _Last automated update: Sun, 26 Apr 2026 20:04:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. React: Explain the difference between state and props
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -285,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 18:04:49 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 19:13:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
