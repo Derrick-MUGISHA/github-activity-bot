@@ -210,7 +210,7 @@ npm run test
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Mon, 27 Apr 2026 00:01:37 CAT_
+_Last automated update: Mon, 27 Apr 2026 00:58:20 CAT_
 
 
 
@@ -218,7 +218,18 @@ _Last automated update: Mon, 27 Apr 2026 00:01:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
+
+</details>
+
+### 2. DataStructures: Find the longest substring without repeating characters
 
 **Difficulty**: Medium | **Topics**: strings, sliding window
 
@@ -226,17 +237,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Sliding window, hash map, two pointers
-
-</details>
-
-### 2. Database: What is the difference between SQL and NoSQL databases?
-
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -281,7 +281,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 22:01:37 GMT</b><br/>
+  <b>Last automated update: Sun, 26 Apr 2026 22:58:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
