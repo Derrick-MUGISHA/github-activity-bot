@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-90-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-27-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (48.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (18.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 16 (17.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 14 (15.6%)
+**Python**: 🟦🟦🟦🟦🟦🟦 13 (14.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦 14 (15.6%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (13.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 11 (12.2%)
+**Tools**: 🟦🟦🟦🟦🟦 11 (12.2%)
 
 **Security**: 🟦🟦🟦 6 (6.7%)
 
-**DevOps**: 🟦🟦 4 (4.4%)
+**DevOps**: 🟦 3 (3.3%)
 
 **WebDev**: 🟦 3 (3.3%)
 
@@ -59,30 +59,28 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.4 (31.4%)
-JavaScript      ███████████████████████ 24.3 (24.3%)
-Java            ████████████████████ 21.4 (21.4%)
-Python          ███████████████████ 20.0 (20.0%)
-Kotlin          █ 1.4 (1.4%)
-PHP             █ 1.4 (1.4%)
+Go              ██████████████████████████████ 30.3 (30.3%)
+JavaScript      ████████████████████████ 24.2 (24.2%)
+Java            ████████████████████████ 24.2 (24.2%)
+Python          ████████████████████ 19.7 (19.7%)
+Kotlin          █ 1.5 (1.5%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 22
-    "JavaScript" : 17
-    "Java" : 15
-    "Python" : 14
+    "Go" : 20
+    "JavaScript" : 16
+    "Java" : 16
+    "Python" : 13
     "Kotlin" : 1
-    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![python](https://img.shields.io/badge/python-4-blue) ![javascript](https://img.shields.io/badge/javascript-4-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![architecture](https://img.shields.io/badge/architecture-4-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![opensource](https://img.shields.io/badge/opensource-4-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![architecture](https://img.shields.io/badge/architecture-4-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
 
 
 
@@ -122,7 +120,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-27 19:00 CAT)
+## 📅 Latest Updates (2026-04-27 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -139,6 +137,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8hyagwel1am37fxole3z.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png" width="200" alt="I Taught Two AIs What Not to Say About Their Humans" />
       <br/>
@@ -147,6 +154,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png" width="200" alt="G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god" />
@@ -156,8 +165,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png" width="200" alt="Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX" />
@@ -176,15 +183,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-8ep">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbnhqb24wb6f47ai9hoy.jpg" width="200" alt="What was your win this week!?" />
-      <br/>
-      <b>What was your win this week!?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -193,6 +191,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl) _[Dev.to]_
 - [I Taught Two AIs What Not to Say About Their Humans](https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148) _[Dev.to]_
 - [G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i) _[Dev.to]_
 - [Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX](https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21) _[Dev.to]_
@@ -211,9 +210,8 @@ npm run test
 - [The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate](https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 - [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
-- [Next-Generation Google Workspace Automation](https://dev.to/gde/next-generation-google-workspace-automation-1h22) _[Dev.to]_
 
-_Last automated update: Mon, 27 Apr 2026 19:40:26 CAT_
+_Last automated update: Mon, 27 Apr 2026 20:55:03 CAT_
 
 
 
@@ -221,36 +219,36 @@ _Last automated update: Mon, 27 Apr 2026 19:40:26 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Execution timing, event loop phases
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Execution timing, event loop phases
 
 </details>
 
@@ -284,7 +282,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 27 Apr 2026 17:40:26 GMT</b><br/>
+  <b>Last automated update: Mon, 27 Apr 2026 18:55:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
