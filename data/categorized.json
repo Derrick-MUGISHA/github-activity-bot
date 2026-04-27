@@ -281,6 +281,19 @@
       "user": "James Candan"
     },
     {
+      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
+      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
+      "published_at": "2026-04-19T06:21:26Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
+      "source": "Dev.to",
+      "user": "Setiaji"
+    },
+    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -339,21 +352,6 @@
       "user": "xbill"
     },
     {
-      "title": "Ship Fast, Forget Faster",
-      "url": "https://dev.to/xde013/ship-fast-forget-faster-ll1",
-      "published_at": "2026-04-24T15:07:28Z",
-      "description": "If you work in software you've probably heard this a lot: we need to ship faster (teams usually...",
-      "tags": [
-        "ai",
-        "webdev",
-        "productivity",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy2gm3wgjjmn7imktvgx7.png",
-      "source": "Dev.to",
-      "user": "Ryan"
-    },
-    {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
       "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
       "published_at": "2026-04-22T22:58:00Z",
@@ -382,36 +380,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "AI is replacing developers (just not the way you think)",
-      "url": "https://dev.to/ronaizacardoso/ai-is-replacing-developers-just-not-the-way-you-think-1h9a",
-      "published_at": "2026-04-24T14:57:55Z",
-      "description": "“AI is replacing developers” sounds exaggerated, but the market did change.  LLM tools can generate...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy090uv57iw6hh4xgds6t.png",
-      "source": "Dev.to",
-      "user": "Ronaiza Cardoso"
-    },
-    {
-      "title": "Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development",
-      "url": "https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0",
-      "published_at": "2026-04-24T15:26:04Z",
-      "description": "The landscape of software development is undergoing a seismic shift from simple chat interfaces to...",
-      "tags": [
-        "antigravity",
-        "agentic",
-        "gcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
     },
     {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
@@ -456,6 +424,65 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
+      "tags": [
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "published_at": "2026-04-24T20:19:51Z",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -622,36 +649,6 @@
       "user": "Neeraj Singh"
     },
     {
-      "title": "Building MCP Apps with Angular",
-      "url": "https://dev.to/dalenguyen/building-mcp-apps-with-angular-3849",
-      "published_at": "2026-04-25T03:43:44Z",
-      "description": "If you've been building MCP servers, you know the drill: your tool returns JSON, the host renders it...",
-      "tags": [
-        "angular",
-        "mcp",
-        "typescript",
-        "vite"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fldrhhek1qdln5a5up989.png",
-      "source": "Dev.to",
-      "user": "Dale Nguyen"
-    },
-    {
-      "title": "How to Filter and Sort Posts by Custom Field Value Using JetSmartFilters + Bricks Builder",
-      "url": "https://dev.to/muazzami/how-to-filter-and-sort-posts-by-custom-field-value-using-jetsmartfilters-bricks-builder-57an",
-      "published_at": "2026-04-25T02:45:19Z",
-      "description": "A step-by-step guide to wiring JetSmartFilters radio filter with Bricks Builder query loop to filter and sort posts by numeric custom field value — including all the non-obvious gotchas around hook priority, POST data structure, and JSF query variable naming.",
-      "tags": [
-        "wordpress",
-        "jetsmartfilters",
-        "bricksbuilder",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwp.muazzam.dev%2Fwp-content%2Fuploads%2F2026%2F04%2Fjet-smart-filters.jpeg",
-      "source": "Dev.to",
-      "user": "Muazzam"
-    },
-    {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
       "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
       "published_at": "2026-04-17T18:38:12Z",
@@ -695,6 +692,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0gbayac2hy6lya1ejpup.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
+      "source": "Dev.to",
+      "user": "Laura Durieux"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -832,21 +844,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png",
       "source": "Dev.to",
       "user": "Ahmed Elnaggar"
-    },
-    {
-      "title": "Remade the 1991 Classic \"Gorillas\" in Python—and Survived the Snapcraft Journey",
-      "url": "https://dev.to/davdomin/remade-the-1991-classic-gorillas-in-python-and-survived-the-snapcraft-journey-2nfp",
-      "published_at": "2026-04-25T06:06:15Z",
-      "description": "The Nostalgia Hit 🍌    Remember the two gorillas standing on a skyline, tossing exploding bananas at...",
-      "tags": [
-        "python",
-        "pygame",
-        "linux",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87t29km5iirb342mrz6i.png",
-      "source": "Dev.to",
-      "user": "David Dominguez"
     },
     {
       "title": "Installing pygame for IDLE on Mac",
@@ -1028,21 +1025,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
-    },
-    {
-      "title": "Audit WCAG 2.1 accessibility on every pull request (free GitHub Action)",
-      "url": "https://dev.to/jpatel3/audit-wcag-21-accessibility-on-every-pull-request-free-github-action-111b",
-      "published_at": "2026-04-24T18:03:40Z",
-      "description": "I build web apps and I always mean to audit accessibility before shipping,   and I never do. axe-core...",
-      "tags": [
-        "a11y",
-        "github",
-        "webdev",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe432cucgr5y7hyfpwgef.png",
-      "source": "Dev.to",
-      "user": "Jaimin"
     },
     {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
@@ -1240,21 +1222,6 @@
       "user": "Sonika Janagill"
     },
     {
-      "title": "Build and Deploy to Google Cloud with Antigravity: The Era of Agent-First Development",
-      "url": "https://dev.to/gde/build-and-deploy-to-google-cloud-with-antigravity-the-era-of-agent-first-development-36d0",
-      "published_at": "2026-04-24T15:26:04Z",
-      "description": "The landscape of software development is undergoing a seismic shift from simple chat interfaces to...",
-      "tags": [
-        "antigravity",
-        "agentic",
-        "gcp",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pi6qcxdar5oowof6vo4.png",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
-    },
-    {
       "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
       "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
       "published_at": "2026-04-24T14:41:58Z",
@@ -1266,6 +1233,20 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
+      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
+      "published_at": "2026-04-22T14:09:18Z",
+      "description": "Google Cloud NEXT '26 is kicking off today (April 22) and runs through April 24 – we're launching...",
+      "tags": [
+        "devchallenge",
+        "googlecloud",
+        "cloudnextchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -1297,6 +1278,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj8ztr09i9x5p9zly9vd.jpg",
       "source": "Dev.to",
       "user": "Eslam Genedy"
+    },
+    {
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
+      "tags": [
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     }
   ],
   "Database": [
@@ -1492,21 +1488,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Building MCP Apps with Angular",
-      "url": "https://dev.to/dalenguyen/building-mcp-apps-with-angular-3849",
-      "published_at": "2026-04-25T03:43:44Z",
-      "description": "If you've been building MCP servers, you know the drill: your tool returns JSON, the host renders it...",
-      "tags": [
-        "angular",
-        "mcp",
-        "typescript",
-        "vite"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fldrhhek1qdln5a5up989.png",
-      "source": "Dev.to",
-      "user": "Dale Nguyen"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -1562,51 +1543,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Ship Fast, Forget Faster",
-      "url": "https://dev.to/xde013/ship-fast-forget-faster-ll1",
-      "published_at": "2026-04-24T15:07:28Z",
-      "description": "If you work in software you've probably heard this a lot: we need to ship faster (teams usually...",
-      "tags": [
-        "ai",
-        "webdev",
-        "productivity",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy2gm3wgjjmn7imktvgx7.png",
-      "source": "Dev.to",
-      "user": "Ryan"
-    },
-    {
-      "title": "AI is replacing developers (just not the way you think)",
-      "url": "https://dev.to/ronaizacardoso/ai-is-replacing-developers-just-not-the-way-you-think-1h9a",
-      "published_at": "2026-04-24T14:57:55Z",
-      "description": "“AI is replacing developers” sounds exaggerated, but the market did change.  LLM tools can generate...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy090uv57iw6hh4xgds6t.png",
-      "source": "Dev.to",
-      "user": "Ronaiza Cardoso"
-    },
-    {
-      "title": "Audit WCAG 2.1 accessibility on every pull request (free GitHub Action)",
-      "url": "https://dev.to/jpatel3/audit-wcag-21-accessibility-on-every-pull-request-free-github-action-111b",
-      "published_at": "2026-04-24T18:03:40Z",
-      "description": "I build web apps and I always mean to audit accessibility before shipping,   and I never do. axe-core...",
-      "tags": [
-        "a11y",
-        "github",
-        "webdev",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe432cucgr5y7hyfpwgef.png",
-      "source": "Dev.to",
-      "user": "Jaimin"
-    },
-    {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
       "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
       "published_at": "2026-04-23T20:30:39Z",
@@ -1620,6 +1556,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
+      "source": "Dev.to",
+      "user": "Laura Durieux"
     }
   ]
 }
