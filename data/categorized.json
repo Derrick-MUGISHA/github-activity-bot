@@ -233,6 +233,21 @@
       "user": "vaidehi Warghat"
     },
     {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
+    },
+    {
       "title": "Ship Fast, Forget Faster",
       "url": "https://dev.to/xde013/ship-fast-forget-faster-ll1",
       "published_at": "2026-04-24T15:07:28Z",
@@ -352,21 +367,6 @@
       "user": "Nikhil Sharma"
     },
     {
-      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
-      "published_at": "2026-04-16T15:38:54Z",
-      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
       "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
       "published_at": "2026-04-23T20:30:39Z",
@@ -380,6 +380,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
       "source": "Dev.to",
       "user": "Matty Stratton"
+    },
+    {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
@@ -411,6 +426,21 @@
       "user": "dev.to staff"
     },
     {
+      "title": "The Hidden Challenge of Multi-LLM Context Management",
+      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
+      "published_at": "2026-04-24T20:19:51Z",
+      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "A Go + React monorepo starter with auth and multi-tenancy",
       "url": "https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7",
       "published_at": "2026-04-09T17:15:51Z",
@@ -424,35 +454,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
-    },
-    {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
-      "tags": [
-        "ai",
-        "learning",
-        "productivity",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
-      "source": "Dev.to",
-      "user": "Abhishek"
-    },
-    {
-      "title": "A Stitch at a time",
-      "url": "https://dev.to/gde/a-stitch-at-a-time-j20",
-      "published_at": "2026-04-24T06:52:18Z",
-      "description": "Every UI idea starts the same way. A sentence. A sketch. A screenshot of something you saw and...",
-      "tags": [
-        "ui",
-        "design",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1d8np5nhgnctfepzky6s.png",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -602,21 +603,6 @@
       "user": "levelsio"
     },
     {
-      "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-      "published_at": "2026-04-20T10:32:26Z",
-      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
-      "source": "GitHub",
-      "stars": 1382,
-      "user": "masterking32"
-    },
-    {
       "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "published_at": "2026-04-22T05:38:31Z",
@@ -628,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1222,
       "user": "deepseek-ai"
     },
     {
@@ -643,8 +629,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "GammaLabTechnologies"
+    },
+    {
+      "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "published_at": "2026-04-22T11:27:21Z",
+      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
+      "source": "GitHub",
+      "stars": 669,
+      "user": "wuyoscar"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -658,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 287,
       "user": "alash3al"
     },
     {
@@ -673,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "peiyizhi0724"
     }
   ],
@@ -722,6 +723,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "Spread vs Rest Operators in JavaScript: Expand or Collect Like a Pro",
+      "url": "https://dev.to/ritam369/spread-vs-rest-operators-in-javascript-expand-or-collect-like-a-pro-2mkj",
+      "published_at": "2026-04-24T18:24:54Z",
+      "description": "Introduction   Imagine you're juggling arrays and objects in JavaScript, and suddenly you...",
+      "tags": [
+        "javascript",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcuxdxqybolob0vvtca01.png",
+      "source": "Dev.to",
+      "user": "Ritam Saha"
     },
     {
       "title": "Mastering Template Literals in JavaScript: Say Goodbye to String Concatenation Nightmares",
@@ -780,21 +796,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fim7wg9mv8k9tw8zei7b7.png",
       "source": "Dev.to",
       "user": "Calebe Aires"
-    },
-    {
-      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
-      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
-      "published_at": "2026-04-09T01:19:42Z",
-      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
-      "tags": [
-        "sofianehamlaoui",
-        "aws",
-        "tutorial",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
-      "source": "Dev.to",
-      "user": "Sofiane Hamlaoui"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -928,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1372,
+      "stars": 1391,
       "user": "ConardLi"
     },
     {
@@ -943,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1022,
       "user": "openclaw"
     },
     {
@@ -958,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 682,
       "user": "earthtojake"
     },
     {
@@ -977,19 +978,19 @@
       "user": "levelsio"
     },
     {
-      "title": "Parallax-Trading/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
-      "url": "https://github.com/Parallax-Trading/polymarket-copy-trading-bot",
-      "published_at": "2026-04-23T16:48:42Z",
+      "title": "PrimeOrder-Labs/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot",
+      "published_at": "2026-04-25T15:51:16Z",
       "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "Parallax-Trading"
+      "stars": 276,
+      "user": "PrimeOrder-Labs"
     }
   ],
   "Python": [
@@ -1169,23 +1170,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1438,
       "user": "Einsia"
-    },
-    {
-      "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-      "published_at": "2026-04-20T10:32:26Z",
-      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
-      "source": "GitHub",
-      "stars": 1382,
-      "user": "masterking32"
     },
     {
       "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
@@ -1199,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1222,
       "user": "deepseek-ai"
     },
     {
@@ -1214,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 721,
       "user": "Russell-cell"
     },
     {
@@ -1229,8 +1215,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "GammaLabTechnologies"
+    },
+    {
+      "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "published_at": "2026-04-22T11:27:21Z",
+      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
+      "source": "GitHub",
+      "stars": 669,
+      "user": "wuyoscar"
     }
   ],
   "DevOps": [
@@ -1248,6 +1249,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
     },
     {
       "title": "Audit WCAG 2.1 accessibility on every pull request (free GitHub Action)",
@@ -1335,7 +1351,23 @@
       "user": "velmu"
     }
   ],
-  "Mobile": [],
+  "Mobile": [
+    {
+      "title": "A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions",
+      "url": "https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i",
+      "published_at": "2026-04-24T11:14:27Z",
+      "description": "In Part 1 you learned the basics. Semantics for labels and hints. MergeSemantics to remove double...",
+      "tags": [
+        "flutter",
+        "a11y",
+        "mobile",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp",
+      "source": "Dev.to",
+      "user": "Karol Wrótniak"
+    }
+  ],
   "Cloud": [
     {
       "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
@@ -1395,6 +1427,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Processing long running events on AWS API Gateway",
+      "url": "https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4",
+      "published_at": "2026-04-17T08:19:51Z",
+      "description": "Processing long running events on AWS API Gateway   AWS API Gateway is a managed HTTP/REST...",
+      "tags": [
+        "aws",
+        "apigateway",
+        "architecture",
+        "eventdriven"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrpzqe4wlyh1ofbtost9.png",
+      "source": "Dev.to",
+      "user": "Evertson Croes"
     },
     {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
@@ -1486,6 +1533,20 @@
       "user": "Eslam Genedy"
     },
     {
+      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
+      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
+      "published_at": "2026-04-22T14:09:18Z",
+      "description": "Google Cloud NEXT '26 is kicking off today (April 22) and runs through April 24 – we're launching...",
+      "tags": [
+        "devchallenge",
+        "googlecloud",
+        "cloudnextchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
       "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
       "published_at": "2026-04-20T16:50:30Z",
@@ -1501,21 +1562,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "EU Compliance, Programmable: The API That Turns 19 EU Regulations Into JSON",
-      "url": "https://dev.to/sofianehamlaoui/eu-compliance-programmable-the-api-that-turns-19-eu-regulations-into-json-21m",
-      "published_at": "2026-04-09T01:19:42Z",
-      "description": "Here’s a number that keeps compliance officers awake at night: 19.  That’s how many major EU...",
-      "tags": [
-        "sofianehamlaoui",
-        "aws",
-        "tutorial",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F387t7scwg1t23f18zv56.png",
-      "source": "Dev.to",
-      "user": "Sofiane Hamlaoui"
-    },
-    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -1527,7 +1573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1022,
       "user": "openclaw"
     },
     {
@@ -1542,7 +1588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 287,
       "user": "alash3al"
     }
   ],
@@ -1636,6 +1682,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
+    },
+    {
       "title": "Partial Password Authentication",
       "url": "https://dev.to/muhamadhhassan/partial-password-authentication-34j4",
       "published_at": "2026-04-14T21:23:40Z",
@@ -1647,21 +1708,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vyj4cseodhrxx3kp9o.png",
       "source": "Dev.to",
       "user": "Muhammad Hassan"
-    },
-    {
-      "title": "Mastering Error Handling in Go",
-      "url": "https://dev.to/adi73/mastering-error-handling-in-go-400g",
-      "published_at": "2026-04-09T13:54:17Z",
-      "description": "Error handling is one of the most distinctive aspects of Go. Unlike languages that use exceptions, Go...",
-      "tags": [
-        "go",
-        "programming",
-        "tutorial",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvrymfaw11828g0viy1u.png",
-      "source": "Dev.to",
-      "user": "Aditya"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1768,6 +1814,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
+      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
+      "published_at": "2026-04-16T22:16:44Z",
+      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
+      "tags": [
+        "security",
+        "opensource",
+        "supplychain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
+      "source": "Dev.to",
+      "user": "kotakanbe"
+    },
+    {
       "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
       "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
       "published_at": "2026-04-24T14:39:33Z",
@@ -1853,21 +1914,6 @@
       "user": "Laura Durieux"
     },
     {
-      "title": "I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read",
-      "url": "https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j",
-      "published_at": "2026-04-17T19:26:57Z",
-      "description": "Most people read non-fiction the same way: skim chapters, highlight some quotes, feel productive for...",
-      "tags": [
-        "ai",
-        "learning",
-        "productivity",
-        "startup"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xwb4p6ztfwxes8xcrxh.png",
-      "source": "Dev.to",
-      "user": "Abhishek"
-    },
-    {
       "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "url": "https://github.com/ConardLi/garden-skills",
       "published_at": "2026-04-21T11:56:17Z",
@@ -1879,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1372,
+      "stars": 1391,
       "user": "ConardLi"
     },
     {
@@ -1894,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1022,
       "user": "openclaw"
     },
     {
@@ -1909,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 682,
       "user": "earthtojake"
     },
     {
@@ -1928,19 +1974,19 @@
       "user": "levelsio"
     },
     {
-      "title": "Parallax-Trading/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
-      "url": "https://github.com/Parallax-Trading/polymarket-copy-trading-bot",
-      "published_at": "2026-04-23T16:48:42Z",
+      "title": "PrimeOrder-Labs/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot",
+      "published_at": "2026-04-25T15:51:16Z",
       "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "Parallax-Trading"
+      "stars": 276,
+      "user": "PrimeOrder-Labs"
     },
     {
       "title": "Einsia/OpenChronicle - GitHub Repository",
@@ -1954,23 +2000,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1438,
       "user": "Einsia"
-    },
-    {
-      "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-      "published_at": "2026-04-20T10:32:26Z",
-      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1076030?v=4",
-      "source": "GitHub",
-      "stars": 1382,
-      "user": "masterking32"
     },
     {
       "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
@@ -1984,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1214,
+      "stars": 1222,
       "user": "deepseek-ai"
     },
     {
@@ -1999,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 721,
       "user": "Russell-cell"
     },
     {
@@ -2014,8 +2045,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "GammaLabTechnologies"
+    },
+    {
+      "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "published_at": "2026-04-22T11:27:21Z",
+      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
+      "source": "GitHub",
+      "stars": 669,
+      "user": "wuyoscar"
     },
     {
       "title": "NullLatency/FlowDriver - Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
@@ -2029,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "NullLatency"
     },
     {
@@ -2044,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 287,
       "user": "alash3al"
     },
     {
@@ -2059,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 280,
       "user": "NV404"
     },
     {
@@ -2074,7 +2120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 207,
       "user": "nakagami"
     },
     {
@@ -2089,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "peiyizhi0724"
     }
   ]
