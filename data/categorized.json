@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "title": "I Taught Two AIs What Not to Say About Their Humans",
+      "url": "https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148",
+      "published_at": "2026-04-26T18:28:05Z",
+      "description": "This is a submission for the OpenClaw Challenge.  While brainstorming ideas for this hackathon and...",
       "tags": [
-        "cloudnextchallenge",
         "devchallenge",
-        "googlecloud",
-        "gemini"
+        "openclawchallenge",
+        "ai",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Jasmin Virdi"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -42,6 +42,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7b40ctkfd218x8jrh0.png",
       "source": "Dev.to",
       "user": "Liatmoss"
+    },
+    {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
@@ -216,21 +231,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lambda, and Gemini CLI",
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "levelsio"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1267,
       "user": "deepseek-ai"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 788,
       "user": "wuyoscar"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 352,
       "user": "alash3al"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "peiyizhi0724"
     }
   ],
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1514,
       "user": "ConardLi"
     },
     {
@@ -914,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1138,
       "user": "openclaw"
     },
     {
@@ -929,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 862,
       "user": "earthtojake"
     },
     {
@@ -944,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "levelsio"
     },
     {
@@ -959,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 364,
       "user": "avaco-cloud"
     }
   ],
@@ -1140,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1532,
+      "stars": 1544,
       "user": "Einsia"
     },
     {
@@ -1155,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1267,
       "user": "deepseek-ai"
     },
     {
@@ -1170,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 831,
       "user": "0x0funky"
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 806,
       "user": "Russell-cell"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 788,
       "user": "wuyoscar"
     }
   ],
@@ -1219,21 +1219,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
     },
     {
       "title": "Audit WCAG 2.1 accessibility on every pull request (free GitHub Action)",
@@ -1384,21 +1369,6 @@
       "user": "avinash"
     },
     {
-      "title": "Processing long running events on AWS API Gateway",
-      "url": "https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4",
-      "published_at": "2026-04-17T08:19:51Z",
-      "description": "Processing long running events on AWS API Gateway   AWS API Gateway is a managed HTTP/REST...",
-      "tags": [
-        "aws",
-        "apigateway",
-        "architecture",
-        "eventdriven"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrpzqe4wlyh1ofbtost9.png",
-      "source": "Dev.to",
-      "user": "Evertson Croes"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lambda, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok",
       "published_at": "2026-04-25T22:16:28Z",
@@ -1528,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1138,
       "user": "openclaw"
     },
     {
@@ -1543,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 364,
       "user": "avaco-cloud"
     },
     {
@@ -1558,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 352,
       "user": "alash3al"
     }
   ],
@@ -1638,21 +1608,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
       "title": "The Vonage Dev Discussion: Making mistakes",
       "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc",
       "published_at": "2026-04-24T20:01:26Z",
@@ -1718,7 +1673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "levelsio"
     }
   ],
@@ -1797,21 +1752,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3q61g234bgrym6711i19.png",
       "source": "Dev.to",
       "user": "Mark Adel"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
     },
     {
       "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
@@ -1910,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1514,
       "user": "ConardLi"
     },
     {
@@ -1925,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1138,
       "user": "openclaw"
     },
     {
@@ -1940,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 862,
       "user": "earthtojake"
     },
     {
@@ -1955,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "levelsio"
     },
     {
@@ -1970,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 364,
       "user": "avaco-cloud"
     },
     {
@@ -1985,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1532,
+      "stars": 1544,
       "user": "Einsia"
     },
     {
@@ -2000,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1267,
       "user": "deepseek-ai"
     },
     {
@@ -2015,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 831,
       "user": "0x0funky"
     },
     {
@@ -2030,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 806,
       "user": "Russell-cell"
     },
     {
@@ -2045,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 788,
       "user": "wuyoscar"
     },
     {
@@ -2060,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "NullLatency"
     },
     {
@@ -2075,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 352,
       "user": "alash3al"
     },
     {
@@ -2090,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 291,
       "user": "NV404"
     },
     {
@@ -2120,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "peiyizhi0724"
     }
   ]
