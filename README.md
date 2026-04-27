@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-26-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-27-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -36,15 +36,17 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
 **Security**: 🟦🟦🟦 8 (7.6%)
 
+**DevOps**: 🟦🟦 4 (3.8%)
+
 **WebDev**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (2.9%)
-
 **Database**: 🟦 2 (1.9%)
+
+**Mobile**:  1 (1.0%)
 
 
 
@@ -58,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.8 (31.8%)
-JavaScript      █████████████████████████ 26.1 (26.1%)
-Python          ███████████████████ 20.5 (20.5%)
-Java            ███████████████████ 20.5 (20.5%)
+Go              ██████████████████████████████ 29.9 (29.9%)
+JavaScript      ██████████████████████████ 26.4 (26.4%)
+Java            ██████████████████████ 21.8 (21.8%)
+Python          █████████████████████ 20.7 (20.7%)
 PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
+    "Go" : 26
     "JavaScript" : 23
+    "Java" : 19
     "Python" : 18
-    "Java" : 18
     "PHP" : 1
 ```
 
@@ -79,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![go](https://img.shields.io/badge/go-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![webdev](https://img.shields.io/badge/webdev-11-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -119,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-27 1:00 CAT)
+## 📅 Latest Updates (2026-04-27 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,7 +212,7 @@ npm run test
 - [Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately](https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8) _[Dev.to]_
 - [I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱](https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9) _[Dev.to]_
 
-_Last automated update: Mon, 27 Apr 2026 01:45:20 CAT_
+_Last automated update: Mon, 27 Apr 2026 04:29:05 CAT_
 
 
 
@@ -218,36 +220,36 @@ _Last automated update: Mon, 27 Apr 2026 01:45:20 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -281,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 26 Apr 2026 23:45:20 GMT</b><br/>
+  <b>Last automated update: Mon, 27 Apr 2026 02:29:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
