@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
+      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
+      "published_at": "2026-04-27T17:06:51Z",
+      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
+      "tags": [
+        "ai",
+        "programming",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
+    },
+    {
       "title": "I Taught Two AIs What Not to Say About Their Humans",
       "url": "https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148",
       "published_at": "2026-04-26T18:28:05Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
-    },
-    {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "published_at": "2026-04-27T17:06:51Z",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "tags": [
-        "ai",
-        "programming",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -103,19 +103,19 @@
       "user": "Liatmoss"
     },
     {
-      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
-      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
-      "published_at": "2026-04-26T16:56:51Z",
-      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
+      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
+      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
+      "published_at": "2026-04-27T06:55:28Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
       "tags": [
-        "ai",
-        "softwaredevelopment",
-        "career",
-        "programming"
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
       "source": "Dev.to",
-      "user": "Tiago Nobrega"
+      "user": "Michelle Duke"
     },
     {
       "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 812,
       "user": "wuyoscar"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 410,
       "user": "alash3al"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "peiyizhi0724"
     }
   ],
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1540,
+      "stars": 1542,
       "user": "ConardLi"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1182,
       "user": "openclaw"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 940,
       "user": "earthtojake"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 525,
       "user": "avaco-cloud"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1577,
       "user": "Einsia"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "deepseek-ai"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 864,
       "user": "0x0funky"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "Russell-cell"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 812,
       "user": "wuyoscar"
     }
   ],
@@ -1341,6 +1341,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
+      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
+      "published_at": "2026-04-27T06:55:28Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
+      "source": "Dev.to",
+      "user": "Michelle Duke"
     },
     {
       "title": "The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate",
@@ -1516,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1182,
       "user": "openclaw"
     },
     {
@@ -1531,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 525,
       "user": "avaco-cloud"
     },
     {
@@ -1546,7 +1561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 410,
       "user": "alash3al"
     }
   ],
@@ -1839,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
       "source": "GitHub",
-      "stars": 1540,
+      "stars": 1542,
       "user": "ConardLi"
     },
     {
@@ -1854,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1182,
       "user": "openclaw"
     },
     {
@@ -1869,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 940,
       "user": "earthtojake"
     },
     {
@@ -1884,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 525,
       "user": "avaco-cloud"
     },
     {
@@ -1914,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1577,
       "user": "Einsia"
     },
     {
@@ -1929,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1279,
       "user": "deepseek-ai"
     },
     {
@@ -1944,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 864,
       "user": "0x0funky"
     },
     {
@@ -1959,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "Russell-cell"
     },
     {
@@ -1974,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 812,
       "user": "wuyoscar"
     },
     {
@@ -1989,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "NullLatency"
     },
     {
@@ -2004,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 410,
       "user": "alash3al"
     },
     {
@@ -2019,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "NV404"
     },
     {
@@ -2049,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "peiyizhi0724"
     }
   ]
