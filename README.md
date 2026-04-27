@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-27 12:00 CAT)
+## 📅 Latest Updates (2026-04-27 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [Installing pygame for IDLE on Mac](https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb) _[Dev.to]_
 - [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh) _[Dev.to]_
 
-_Last automated update: Mon, 27 Apr 2026 12:11:11 CAT_
+_Last automated update: Mon, 27 Apr 2026 13:59:28 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Mon, 27 Apr 2026 12:11:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 27 Apr 2026 10:11:11 GMT</b><br/>
+  <b>Last automated update: Mon, 27 Apr 2026 11:59:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
