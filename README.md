@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-90-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-27-orange)
 
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (48.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 16 (17.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 13 (14.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 12 (13.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦 11 (12.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Security**: 🟦🟦🟦 6 (6.7%)
+**Security**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦 3 (3.3%)
+**DevOps**: 🟦 3 (2.9%)
 
-**WebDev**: 🟦 3 (3.3%)
+**WebDev**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦 2 (2.2%)
+**Mobile**: 🟦 2 (1.9%)
 
-**Database**: 🟦 2 (2.2%)
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -54,25 +54,26 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.3 (30.3%)
-JavaScript      ████████████████████████ 24.2 (24.2%)
-Java            ████████████████████████ 24.2 (24.2%)
-Python          ████████████████████ 19.7 (19.7%)
-Kotlin          █ 1.5 (1.5%)
+Go              ██████████████████████████████ 29.8 (29.8%)
+JavaScript      ████████████████████████ 23.8 (23.8%)
+Java            ████████████████████████ 23.8 (23.8%)
+Python          ██████████████████████ 21.4 (21.4%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 20
-    "JavaScript" : 16
-    "Java" : 16
-    "Python" : 13
+    "Go" : 25
+    "JavaScript" : 20
+    "Java" : 20
+    "Python" : 18
     "Kotlin" : 1
 ```
 
@@ -80,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) ![opensource](https://img.shields.io/badge/opensource-4-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) ![architecture](https://img.shields.io/badge/architecture-4-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
 
 
 
@@ -120,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-27 20:00 CAT)
+## 📅 Latest Updates (2026-04-27 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -197,6 +198,7 @@ npm run test
 - [Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX](https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21) _[Dev.to]_
 - [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
+- [Your Developer Journey: Progress or Plateau?](https://dev.to/virtualcoffee/in-your-developer-journey-are-you-making-progress-or-are-you-in-a-stand-still-290i) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d) _[Dev.to]_
 - [ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?](https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln) _[Dev.to]_
@@ -209,9 +211,8 @@ npm run test
 - [I wrote my third XML parser. Here's why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i) _[Dev.to]_
 - [The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate](https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
-- [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
 
-_Last automated update: Mon, 27 Apr 2026 20:55:03 CAT_
+_Last automated update: Mon, 27 Apr 2026 22:05:51 CAT_
 
 
 
@@ -219,36 +220,36 @@ _Last automated update: Mon, 27 Apr 2026 20:55:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Python: Explain decorators in Python with an example
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -282,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 27 Apr 2026 18:55:03 GMT</b><br/>
+  <b>Last automated update: Mon, 27 Apr 2026 20:05:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
