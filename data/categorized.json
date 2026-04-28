@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -177,21 +192,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Why LLM Reasoning Is Breaking AI Infrastructure (And How to Fix It)",
-      "url": "https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik",
-      "published_at": "2026-04-24T20:18:05Z",
-      "description": "If you've tried building anything serious on top of large language models (LLMs) recently, you've...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8idq4d87y2ft0pxohaw5.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -220,6 +220,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
+      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
+      "published_at": "2026-04-26T16:56:51Z",
+      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
+      "source": "Dev.to",
+      "user": "Tiago Nobrega"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -264,21 +279,6 @@
       "user": "Setiaji"
     },
     {
-      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
-      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
-      "published_at": "2026-04-26T16:56:51Z",
-      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
-      "source": "Dev.to",
-      "user": "Tiago Nobrega"
-    },
-    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -294,6 +294,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate",
+      "url": "https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go",
+      "published_at": "2026-04-27T00:40:50Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    If I had to choose one singular...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "sre"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4ommzn92ezniegj4zwx.png",
+      "source": "Dev.to",
+      "user": "ContardoRM"
+    },
+    {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
       "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
       "published_at": "2026-04-19T03:11:23Z",
@@ -305,6 +320,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
+    },
+    {
+      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
+      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
+      "published_at": "2026-04-27T06:55:28Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
+      "source": "Dev.to",
+      "user": "Michelle Duke"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -583,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 426,
       "user": "levelsio"
     },
     {
@@ -598,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1308,
       "user": "deepseek-ai"
     },
     {
@@ -613,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 922,
       "user": "wuyoscar"
     },
     {
@@ -628,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 798,
       "user": "GammaLabTechnologies"
     },
     {
@@ -643,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 484,
       "user": "alash3al"
     },
     {
@@ -658,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "val1813"
     }
   ],
@@ -898,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1249,
       "user": "openclaw"
     },
     {
@@ -913,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1036,
       "user": "earthtojake"
     },
     {
@@ -928,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 758,
       "user": "avaco-cloud"
     },
     {
@@ -943,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 426,
       "user": "levelsio"
     },
     {
@@ -1139,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1308,
       "user": "deepseek-ai"
     },
     {
@@ -1154,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 979,
       "user": "0x0funky"
     },
     {
@@ -1169,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 922,
       "user": "wuyoscar"
     },
     {
@@ -1184,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "Russell-cell"
     },
     {
@@ -1199,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 798,
       "user": "GammaLabTechnologies"
     }
   ],
@@ -1311,6 +1341,21 @@
   ],
   "Cloud": [
     {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
       "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
       "published_at": "2026-04-26T15:03:22Z",
@@ -1353,6 +1398,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate",
+      "url": "https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go",
+      "published_at": "2026-04-27T00:40:50Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    If I had to choose one singular...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "sre"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4ommzn92ezniegj4zwx.png",
+      "source": "Dev.to",
+      "user": "ContardoRM"
+    },
+    {
+      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
+      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
+      "published_at": "2026-04-27T06:55:28Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
+      "source": "Dev.to",
+      "user": "Michelle Duke"
     },
     {
       "title": "Processing long running events on AWS API Gateway",
@@ -1469,7 +1544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1249,
       "user": "openclaw"
     },
     {
@@ -1484,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 758,
       "user": "avaco-cloud"
     },
     {
@@ -1514,7 +1589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 484,
       "user": "alash3al"
     }
   ],
@@ -1646,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 426,
       "user": "levelsio"
     }
   ],
@@ -1807,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1249,
       "user": "openclaw"
     },
     {
@@ -1822,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1036,
       "user": "earthtojake"
     },
     {
@@ -1837,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 758,
       "user": "avaco-cloud"
     },
     {
@@ -1852,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 426,
       "user": "levelsio"
     },
     {
@@ -1882,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1308,
       "user": "deepseek-ai"
     },
     {
@@ -1897,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 979,
       "user": "0x0funky"
     },
     {
@@ -1912,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 922,
       "user": "wuyoscar"
     },
     {
@@ -1927,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 844,
       "user": "Russell-cell"
     },
     {
@@ -1942,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 798,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1957,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 484,
       "user": "alash3al"
     },
     {
@@ -1972,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "NullLatency"
     },
     {
@@ -2002,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 238,
       "user": "nakagami"
     },
     {
@@ -2017,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "val1813"
     }
   ]
