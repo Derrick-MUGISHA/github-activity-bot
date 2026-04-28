@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-28-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.3%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.6%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Security**: 🟦🟦🟦 7 (6.8%)
+**Security**: 🟦🟦🟦 7 (6.7%)
 
 **WebDev**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,17 +60,17 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.9 (27.9%)
-JavaScript      ████████████████████████████ 25.6 (25.6%)
-Java            ██████████████████████████ 24.4 (24.4%)
-Python          ██████████████████████ 20.9 (20.9%)
-Kotlin          █ 1.2 (1.2%)
+Go              ██████████████████████████████ 29.5 (29.5%)
+JavaScript      █████████████████████████ 25.0 (25.0%)
+Java            ████████████████████████ 23.9 (23.9%)
+Python          █████████████████████ 20.5 (20.5%)
+Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 24
+    "Go" : 26
     "JavaScript" : 22
     "Java" : 21
     "Python" : 18
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-8-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) 
 
 
 
@@ -121,22 +121,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-28 15:00 CAT)
+## 📅 Latest Updates (2026-04-28 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-98e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F59hyvh26vlwl83aw3w1s.png" width="200" alt="Meme Monday" />
-      <br/>
-      <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8hyagwel1am37fxole3z.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -147,10 +138,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-8ep">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbnhqb24wb6f47ai9hoy.jpg" width="200" alt="What was your win this week!?" />
+    <a href="https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png" width="200" alt="How I used Gemini CLI to orchestrate a complex RAG migration" />
       <br/>
-      <b>What was your win this week!?</b>
+      <b>How I used Gemini CLI to orchestrate a complex RAG...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/meme-monday-98e">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F59hyvh26vlwl83aw3w1s.png" width="200" alt="Meme Monday" />
+      <br/>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -191,9 +191,9 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl) _[Dev.to]_
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-8ep) _[Dev.to]_
+- [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d) _[Dev.to]_
 - [ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?](https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln) _[Dev.to]_
@@ -212,7 +212,7 @@ npm run test
 - [I Taught Two AIs What Not to Say About Their Humans](https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148) _[Dev.to]_
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
 
-_Last automated update: Tue, 28 Apr 2026 15:10:08 CAT_
+_Last automated update: Tue, 28 Apr 2026 17:36:54 CAT_
 
 
 
@@ -220,18 +220,7 @@ _Last automated update: Tue, 28 Apr 2026 15:10:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
-
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
+### 1. JavaScript: What is the event loop and how does it work?
 
 **Difficulty**: Hard | **Topics**: async, runtime
 
@@ -242,14 +231,25 @@ Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Function + lexical environment, data privacy, callbacks
+
+</details>
+
+### 3. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 28 Apr 2026 13:10:08 GMT</b><br/>
+  <b>Last automated update: Tue, 28 Apr 2026 15:36:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
