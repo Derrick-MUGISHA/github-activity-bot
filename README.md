@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-29 0:00 CAT)
+## 📅 Latest Updates (2026-04-29 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [I wrote my third XML parser. Here's why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 
-_Last automated update: Wed, 29 Apr 2026 00:38:57 CAT_
+_Last automated update: Wed, 29 Apr 2026 01:36:35 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 29 Apr 2026 00:38:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 28 Apr 2026 22:38:58 GMT</b><br/>
+  <b>Last automated update: Tue, 28 Apr 2026 23:36:35 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
