@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-5-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-28-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.3%)
 
 **Security**: 🟦🟦🟦 7 (6.7%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -61,9 +61,10 @@
 
 ```
 Go              ██████████████████████████████ 28.4 (28.4%)
-JavaScript      ██████████████████████████ 25.0 (25.0%)
+JavaScript      █████████████████████████ 23.9 (23.9%)
 Java            █████████████████████████ 23.9 (23.9%)
 Python          ███████████████████████ 21.6 (21.6%)
+Rust            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
@@ -71,9 +72,10 @@ Kotlin          █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 25
-    "JavaScript" : 22
+    "JavaScript" : 21
     "Java" : 21
     "Python" : 19
+    "Rust" : 1
     "Kotlin" : 1
 ```
 
@@ -81,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![programming](https://img.shields.io/badge/programming-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -121,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-28 21:00 CAT)
+## 📅 Latest Updates (2026-04-28 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -167,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png" width="200" alt="Creating a CLI Tool with AI Agents: My Journey with kdn" />
+    <a href="https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png" width="200" alt="Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕" />
       <br/>
-      <b>Creating a CLI Tool with AI Agents: My Journey wit...</b>
+      <b>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverles...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png" width="200" alt="How to Remove Console.log from React Native Production Builds" />
+    <a href="https://dev.to/100daysofsolana/why-web3-exists-and-why-solana-matters-296h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5woii13kx9a9ogkusyq.webp" width="200" alt="Why Web3 Exists and Why Solana Matters" />
       <br/>
-      <b>How to Remove Console.log from React Native Produc...</b>
+      <b>Why Web3 Exists and Why Solana Matters</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,15 +197,15 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl) _[Dev.to]_
 - [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
+- [Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib) _[Dev.to]_
+- [Why Web3 Exists and Why Solana Matters](https://dev.to/100daysofsolana/why-web3-exists-and-why-solana-matters-296h) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d) _[Dev.to]_
-- [G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i) _[Dev.to]_
 - [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 - [Keeping You in the Driver's Seat and AI as the Copilot](https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8) _[Dev.to]_
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [I wrote my third XML parser. Here's why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i) _[Dev.to]_
-- [Your Developer Journey: Progress or Plateau?](https://dev.to/virtualcoffee/in-your-developer-journey-are-you-making-progress-or-are-you-in-a-stand-still-290i) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 - [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
 - [Next-Generation Google Workspace Automation](https://dev.to/gde/next-generation-google-workspace-automation-1h22) _[Dev.to]_
@@ -212,7 +214,7 @@ npm run test
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 
-_Last automated update: Tue, 28 Apr 2026 21:04:57 CAT_
+_Last automated update: Tue, 28 Apr 2026 22:39:27 CAT_
 
 
 
@@ -220,29 +222,18 @@ _Last automated update: Tue, 28 Apr 2026 21:04:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: data flow, components
-
-<details>
-<summary>💡 Hint</summary>
-
-Ownership, mutability, data flow direction
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 2. Database: What is database normalization and denormalization?
 
 **Difficulty**: Medium | **Topics**: design, optimization
 
@@ -250,6 +241,17 @@ Call stack, callback queue, microtask queue
 <summary>💡 Hint</summary>
 
 Normal forms, redundancy, performance trade-offs
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -283,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 28 Apr 2026 19:04:57 GMT</b><br/>
+  <b>Last automated update: Tue, 28 Apr 2026 20:39:27 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
