@@ -15,21 +15,6 @@
       "user": "David Cantrell"
     },
     {
-      "title": "I Taught Two AIs What Not to Say About Their Humans",
-      "url": "https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148",
-      "published_at": "2026-04-26T18:28:05Z",
-      "description": "This is a submission for the OpenClaw Challenge.  While brainstorming ideas for this hackathon and...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -88,21 +73,6 @@
       "user": "Liatmoss"
     },
     {
-      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
-      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
-      "published_at": "2026-04-27T06:55:28Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
-      "source": "Dev.to",
-      "user": "Michelle Duke"
-    },
-    {
       "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
       "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
       "published_at": "2026-04-25T18:30:55Z",
@@ -148,6 +118,21 @@
       "user": "Michael Larson"
     },
     {
+      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
+      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
+      "published_at": "2026-04-27T06:55:28Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
+      "source": "Dev.to",
+      "user": "Michelle Duke"
+    },
+    {
       "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
       "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
       "published_at": "2026-04-26T15:03:22Z",
@@ -175,6 +160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs09flup7c8xft951ro5.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "I Taught Two AIs What Not to Say About Their Humans",
+      "url": "https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148",
+      "published_at": "2026-04-26T18:28:05Z",
+      "description": "This is a submission for the OpenClaw Challenge.  While brainstorming ideas for this hackathon and...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
     },
     {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
@@ -294,6 +294,21 @@
       "user": "Setiaji"
     },
     {
+      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
+      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
+      "published_at": "2026-04-26T16:56:51Z",
+      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
+      "source": "Dev.to",
+      "user": "Tiago Nobrega"
+    },
+    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -409,21 +424,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
       "source": "Dev.to",
       "user": "Nikhil Sharma"
-    },
-    {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
     },
     {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1291,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 846,
       "user": "wuyoscar"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "GammaLabTechnologies"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 434,
       "user": "alash3al"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "val1813"
     }
   ],
@@ -782,6 +782,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0gbayac2hy6lya1ejpup.png",
       "source": "Dev.to",
       "user": "Ritam Saha"
+    },
+    {
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
+      "tags": [
+        "webdev",
+        "programming",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
+      "source": "Dev.to",
+      "user": "Laura Durieux"
+    },
+    {
+      "title": "You’re a Real Software Developer Only If…",
+      "url": "https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8",
+      "published_at": "2026-04-09T21:07:21Z",
+      "description": "Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...",
+      "tags": [
+        "jokes",
+        "devlive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx3ovkqtotxp9i4biy5b.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -915,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1205,
       "user": "openclaw"
     },
     {
@@ -930,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 964,
       "user": "earthtojake"
     },
     {
@@ -945,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 565,
       "user": "avaco-cloud"
     },
     {
@@ -975,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "PrimeOrder-Labs"
     }
   ],
@@ -1156,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1291,
       "user": "deepseek-ai"
     },
     {
@@ -1171,23 +1199,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 892,
       "user": "0x0funky"
-    },
-    {
-      "title": "Russell-cell/PPT-Design-Prompt - GitHub Repository",
-      "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
-      "published_at": "2026-04-22T04:15:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
-      "source": "GitHub",
-      "stars": 826,
-      "user": "Russell-cell"
     },
     {
       "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
@@ -1201,8 +1214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 846,
       "user": "wuyoscar"
+    },
+    {
+      "title": "Russell-cell/PPT-Design-Prompt - GitHub Repository",
+      "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+      "published_at": "2026-04-22T04:15:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
+      "source": "GitHub",
+      "stars": 833,
+      "user": "Russell-cell"
     },
     {
       "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
@@ -1216,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "GammaLabTechnologies"
     }
   ],
@@ -1250,21 +1278,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
-    },
-    {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
-      "tags": [
-        "webdev",
-        "ai",
-        "devops",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
-      "source": "Dev.to",
-      "user": "Matty Stratton"
     }
   ],
   "WebDev": [
@@ -1343,21 +1356,6 @@
   ],
   "Cloud": [
     {
-      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
-      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
-      "published_at": "2026-04-27T06:55:28Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
-      "source": "Dev.to",
-      "user": "Michelle Duke"
-    },
-    {
       "title": "The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate",
       "url": "https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go",
       "published_at": "2026-04-27T00:40:50Z",
@@ -1371,6 +1369,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4ommzn92ezniegj4zwx.png",
       "source": "Dev.to",
       "user": "ContardoRM"
+    },
+    {
+      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
+      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
+      "published_at": "2026-04-27T06:55:28Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
+      "source": "Dev.to",
+      "user": "Michelle Duke"
     },
     {
       "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
@@ -1546,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1205,
       "user": "openclaw"
     },
     {
@@ -1561,7 +1574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 565,
       "user": "avaco-cloud"
     },
     {
@@ -1576,7 +1589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 434,
       "user": "alash3al"
     }
   ],
@@ -1803,21 +1816,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Writing Testable Code: Common Anti-Patterns and How to Fix Them",
-      "url": "https://dev.to/markadel/writing-testable-code-common-anti-patterns-and-how-to-fix-them-5aig",
-      "published_at": "2026-04-26T01:25:34Z",
-      "description": "When code is hard to test, it is usually a design problem, not a testing problem. Code becomes...",
-      "tags": [
-        "testing",
-        "cleancode",
-        "programming",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3q61g234bgrym6711i19.png",
-      "source": "Dev.to",
-      "user": "Mark Adel"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1843,19 +1841,19 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
-      "published_at": "2026-04-23T20:30:39Z",
-      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
+      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
+      "published_at": "2026-04-19T13:59:58Z",
+      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
       "tags": [
         "webdev",
-        "ai",
-        "devops",
-        "productivity"
+        "programming",
+        "javascript",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuq5hzde2dcbh58cle1i.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
       "source": "Dev.to",
-      "user": "Matty Stratton"
+      "user": "Laura Durieux"
     },
     {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
@@ -1869,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1205,
       "user": "openclaw"
     },
     {
@@ -1884,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 964,
       "user": "earthtojake"
     },
     {
@@ -1899,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 565,
       "user": "avaco-cloud"
     },
     {
@@ -1929,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "PrimeOrder-Labs"
     },
     {
@@ -1944,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1291,
       "user": "deepseek-ai"
     },
     {
@@ -1959,23 +1957,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 892,
       "user": "0x0funky"
-    },
-    {
-      "title": "Russell-cell/PPT-Design-Prompt - GitHub Repository",
-      "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
-      "published_at": "2026-04-22T04:15:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
-      "source": "GitHub",
-      "stars": 826,
-      "user": "Russell-cell"
     },
     {
       "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
@@ -1989,8 +1972,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 846,
       "user": "wuyoscar"
+    },
+    {
+      "title": "Russell-cell/PPT-Design-Prompt - GitHub Repository",
+      "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+      "published_at": "2026-04-22T04:15:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
+      "source": "GitHub",
+      "stars": 833,
+      "user": "Russell-cell"
     },
     {
       "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
@@ -2004,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "GammaLabTechnologies"
     },
     {
@@ -2019,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 434,
       "user": "alash3al"
     },
     {
@@ -2034,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "NullLatency"
     },
     {
@@ -2049,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "NV404"
     },
     {
@@ -2064,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 224,
       "user": "nakagami"
     },
     {
@@ -2079,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "val1813"
     }
   ]
