@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "published_at": "2026-04-27T17:06:51Z",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "tags": [
-        "ai",
-        "programming",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -43,6 +29,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
       "source": "Dev.to",
       "user": "Devashish Datt Mamgain"
+    },
+    {
+      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
+      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
+      "published_at": "2026-04-27T17:06:51Z",
+      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
+      "tags": [
+        "ai",
+        "programming",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -352,21 +352,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok",
-      "published_at": "2026-04-25T22:16:28Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "lambda",
-        "aws",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyq4o8zm8997ku78g5rt.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
       "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
       "published_at": "2026-04-22T22:58:00Z",
@@ -628,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "levelsio"
     },
     {
@@ -643,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1297,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 886,
       "user": "wuyoscar"
     },
     {
@@ -673,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 763,
       "user": "GammaLabTechnologies"
     },
     {
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "alash3al"
     },
     {
@@ -943,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1228,
       "user": "openclaw"
     },
     {
@@ -958,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 994,
       "user": "earthtojake"
     },
     {
@@ -973,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 620,
       "user": "avaco-cloud"
     },
     {
@@ -988,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "levelsio"
     },
     {
@@ -1003,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 335,
       "user": "PrimeOrder-Labs"
     }
   ],
@@ -1184,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1297,
       "user": "deepseek-ai"
     },
     {
@@ -1199,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 937,
       "user": "0x0funky"
     },
     {
@@ -1214,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 886,
       "user": "wuyoscar"
     },
     {
@@ -1229,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "Russell-cell"
     },
     {
@@ -1244,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 763,
       "user": "GammaLabTechnologies"
     }
   ],
@@ -1445,21 +1430,6 @@
       "user": "Evertson Croes"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lambda, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok",
-      "published_at": "2026-04-25T22:16:28Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "googleadk",
-        "lambda",
-        "aws",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgyq4o8zm8997ku78g5rt.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
       "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
       "published_at": "2026-04-22T22:58:00Z",
@@ -1559,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1228,
       "user": "openclaw"
     },
     {
@@ -1574,7 +1544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 620,
       "user": "avaco-cloud"
     },
     {
@@ -1589,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "alash3al"
     }
   ],
@@ -1721,25 +1691,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "levelsio"
     }
   ],
   "Tools": [
-    {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "published_at": "2026-04-27T17:06:51Z",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "tags": [
-        "ai",
-        "programming",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
-    },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
@@ -1754,6 +1710,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
+      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
+      "published_at": "2026-04-27T17:06:51Z",
+      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
+      "tags": [
+        "ai",
+        "programming",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
     },
     {
       "title": "Keeping You in the Driver's Seat and AI as the Copilot",
@@ -1856,6 +1826,21 @@
       "user": "Laura Durieux"
     },
     {
+      "title": "Writing Testable Code: Common Anti-Patterns and How to Fix Them",
+      "url": "https://dev.to/markadel/writing-testable-code-common-anti-patterns-and-how-to-fix-them-5aig",
+      "published_at": "2026-04-26T01:25:34Z",
+      "description": "When code is hard to test, it is usually a design problem, not a testing problem. Code becomes...",
+      "tags": [
+        "testing",
+        "cleancode",
+        "programming",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3q61g234bgrym6711i19.png",
+      "source": "Dev.to",
+      "user": "Mark Adel"
+    },
+    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -1867,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1228,
       "user": "openclaw"
     },
     {
@@ -1882,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 994,
       "user": "earthtojake"
     },
     {
@@ -1897,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 620,
       "user": "avaco-cloud"
     },
     {
@@ -1912,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "levelsio"
     },
     {
@@ -1927,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 335,
       "user": "PrimeOrder-Labs"
     },
     {
@@ -1942,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1297,
       "user": "deepseek-ai"
     },
     {
@@ -1957,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 937,
       "user": "0x0funky"
     },
     {
@@ -1972,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 886,
       "user": "wuyoscar"
     },
     {
@@ -1987,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "Russell-cell"
     },
     {
@@ -2002,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 763,
       "user": "GammaLabTechnologies"
     },
     {
@@ -2017,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "alash3al"
     },
     {
@@ -2032,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 415,
       "user": "NullLatency"
     },
     {
@@ -2047,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 301,
       "user": "NV404"
     },
     {
@@ -2062,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "nakagami"
     },
     {
