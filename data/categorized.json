@@ -31,21 +31,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
-      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
-      "published_at": "2026-04-27T14:16:32Z",
-      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
-      "tags": [
-        "ai",
-        "chatgpt",
-        "claude",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
-      "source": "Dev.to",
-      "user": "Devashish Datt Mamgain"
-    },
-    {
       "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
       "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
       "published_at": "2026-04-27T17:06:51Z",
@@ -88,21 +73,6 @@
       "user": "Liatmoss"
     },
     {
-      "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
-      "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
-      "published_at": "2026-04-25T18:30:55Z",
-      "description": "Agent Skills Adoption    Prompt Bloat has a name and a fix. Skills are now load-bearing...",
-      "tags": [
-        "googleadk",
-        "googleagentplatform",
-        "enterpriseaistrategy",
-        "geminienterprise"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
-      "source": "Dev.to",
-      "user": "Sonika Janagill"
-    },
-    {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
       "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
       "published_at": "2026-04-27T02:00:10Z",
@@ -118,20 +88,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
-      "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
-      "published_at": "2026-04-26T15:03:22Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge     Every developer building AI...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
-    },
-    {
       "title": "Next-Generation Google Workspace Automation",
       "url": "https://dev.to/gde/next-generation-google-workspace-automation-1h22",
       "published_at": "2026-04-27T01:52:43Z",
@@ -145,6 +101,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs09flup7c8xft951ro5.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
+      "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
+      "published_at": "2026-04-26T15:03:22Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge     Every developer building AI...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png",
+      "source": "Dev.to",
+      "user": "Pooja Bhavani"
     },
     {
       "title": "I Taught Two AIs What Not to Say About Their Humans",
@@ -335,6 +305,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
       "source": "Dev.to",
       "user": "Michelle Duke"
+    },
+    {
+      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
+      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
+      "published_at": "2026-04-27T14:16:32Z",
+      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "claude",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
+      "source": "Dev.to",
+      "user": "Devashish Datt Mamgain"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -613,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "levelsio"
     },
     {
@@ -628,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1308,
+      "stars": 1311,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 930,
       "user": "wuyoscar"
     },
     {
@@ -658,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 804,
       "user": "GammaLabTechnologies"
     },
     {
@@ -673,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "alash3al"
     },
     {
@@ -928,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1251,
       "user": "openclaw"
     },
     {
@@ -943,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1046,
       "user": "earthtojake"
     },
     {
@@ -958,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 810,
       "user": "avaco-cloud"
     },
     {
@@ -973,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "levelsio"
     },
     {
@@ -994,6 +979,21 @@
   ],
   "Python": [
     {
+      "title": "Installing pygame for IDLE on Mac",
+      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
+      "published_at": "2026-04-21T19:13:08Z",
+      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
+      "tags": [
+        "beginners",
+        "gamedev",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
+      "source": "Dev.to",
+      "user": "David Newberry"
+    },
+    {
       "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
       "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
       "published_at": "2026-04-27T08:45:25Z",
@@ -1009,19 +1009,19 @@
       "user": "Ahmed Elnaggar"
     },
     {
-      "title": "Installing pygame for IDLE on Mac",
-      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
-      "published_at": "2026-04-21T19:13:08Z",
-      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
+      "title": "When Information Hits a Wall: Barriers in Cellular Automata",
+      "url": "https://dev.to/jsamwrites/when-information-hits-a-wall-barriers-in-cellular-automata-3g32",
+      "published_at": "2026-04-26T20:48:10Z",
+      "description": "TL;DR: Add one frozen cell to a cellular automaton and watch the entire pattern reshape itself. This...",
       "tags": [
-        "beginners",
-        "gamedev",
+        "computerscience",
         "python",
-        "tutorial"
+        "simulation",
+        "algorithms"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png",
       "source": "Dev.to",
-      "user": "David Newberry"
+      "user": "John Samuel"
     },
     {
       "title": "The Vonage Dev Discussion: Making mistakes",
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1308,
+      "stars": 1311,
       "user": "deepseek-ai"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 994,
       "user": "0x0funky"
     },
     {
@@ -1199,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 930,
       "user": "wuyoscar"
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 846,
       "user": "Russell-cell"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 804,
       "user": "GammaLabTechnologies"
     }
   ],
@@ -1337,6 +1337,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tyl8l43glws679qnvdh.png",
       "source": "Dev.to",
       "user": "Pasha"
+    },
+    {
+      "title": "A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions",
+      "url": "https://dev.to/gdg/a-practical-guide-to-flutter-accessibility-part-2-hiding-noise-exposing-actions-2f7i",
+      "published_at": "2026-04-24T11:14:27Z",
+      "description": "In Part 1 you learned the basics. Semantics for labels and hints. MergeSemantics to remove double...",
+      "tags": [
+        "flutter",
+        "a11y",
+        "mobile",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizmvg7j6pek0e0jovaxk.webp",
+      "source": "Dev.to",
+      "user": "Karol Wrótniak"
     }
   ],
   "Cloud": [
@@ -1489,20 +1504,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announcements Would Fix It.",
-      "url": "https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2",
-      "published_at": "2026-04-24T10:39:57Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  I'm running something called The...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyabuv7ktq97b2p8eh5ny.png",
-      "source": "Dev.to",
-      "user": "Joske Vermeulen"
-    },
-    {
       "title": "From Monolith State to Stateless Microservices: A Real-World Refactor",
       "url": "https://dev.to/egenedy97/from-monolith-state-to-stateless-microservices-a-real-world-refactor-496l",
       "published_at": "2026-04-21T10:59:12Z",
@@ -1544,7 +1545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1251,
       "user": "openclaw"
     },
     {
@@ -1559,7 +1560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 810,
       "user": "avaco-cloud"
     },
     {
@@ -1589,7 +1590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "alash3al"
     }
   ],
@@ -1721,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "levelsio"
     }
   ],
@@ -1769,21 +1770,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7b40ctkfd218x8jrh0.png",
       "source": "Dev.to",
       "user": "Liatmoss"
-    },
-    {
-      "title": "Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack",
-      "url": "https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415",
-      "published_at": "2026-04-25T18:30:55Z",
-      "description": "Agent Skills Adoption    Prompt Bloat has a name and a fix. Skills are now load-bearing...",
-      "tags": [
-        "googleadk",
-        "googleagentplatform",
-        "enterpriseaistrategy",
-        "geminienterprise"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fno3f5hvk3uet7jq4xjkp.png",
-      "source": "Dev.to",
-      "user": "Sonika Janagill"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -1882,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1251,
       "user": "openclaw"
     },
     {
@@ -1897,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1046,
       "user": "earthtojake"
     },
     {
@@ -1912,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 810,
       "user": "avaco-cloud"
     },
     {
@@ -1927,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "levelsio"
     },
     {
@@ -1957,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1308,
+      "stars": 1311,
       "user": "deepseek-ai"
     },
     {
@@ -1972,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 994,
       "user": "0x0funky"
     },
     {
@@ -1987,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 930,
       "user": "wuyoscar"
     },
     {
@@ -2002,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 846,
       "user": "Russell-cell"
     },
     {
@@ -2017,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 804,
       "user": "GammaLabTechnologies"
     },
     {
@@ -2032,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "alash3al"
     },
     {
@@ -2077,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 241,
       "user": "nakagami"
     },
     {
