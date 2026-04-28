@@ -60,21 +60,6 @@
       "user": "Devashish Datt Mamgain"
     },
     {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -265,6 +250,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
@@ -658,8 +658,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 815,
       "user": "wuyoscar"
+    },
+    {
+      "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "url": "https://github.com/GammaLabTechnologies/harmonist",
+      "published_at": "2026-04-23T05:42:29Z",
+      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
+      "source": "GitHub",
+      "stars": 745,
+      "user": "GammaLabTechnologies"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -673,23 +688,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "alash3al"
     },
     {
-      "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
-      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
-      "published_at": "2026-04-21T17:52:08Z",
-      "description": "Trending GitHub Repository",
+      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "url": "https://github.com/val1813/kaiwu",
+      "published_at": "2026-04-23T06:42:20Z",
+      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 208,
-      "user": "peiyizhi0724"
+      "stars": 182,
+      "user": "val1813"
     }
   ],
   "JavaScript": [
@@ -889,21 +904,6 @@
       "user": "velmu"
     },
     {
-      "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "published_at": "2026-04-21T11:56:17Z",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
-      "source": "GitHub",
-      "stars": 1542,
-      "user": "ConardLi"
-    },
-    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1193,
       "user": "openclaw"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 948,
       "user": "earthtojake"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 546,
       "user": "avaco-cloud"
     },
     {
@@ -962,6 +962,21 @@
       "source": "GitHub",
       "stars": 420,
       "user": "levelsio"
+    },
+    {
+      "title": "PrimeOrder-Labs/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot",
+      "published_at": "2026-04-25T15:51:16Z",
+      "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
+      "source": "GitHub",
+      "stars": 325,
+      "user": "PrimeOrder-Labs"
     }
   ],
   "Python": [
@@ -1130,21 +1145,6 @@
       "user": "gilad"
     },
     {
-      "title": "Einsia/OpenChronicle - GitHub Repository",
-      "url": "https://github.com/Einsia/OpenChronicle",
-      "published_at": "2026-04-21T14:50:33Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
-      "source": "GitHub",
-      "stars": 1580,
-      "user": "Einsia"
-    },
-    {
       "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
       "url": "https://github.com/deepseek-ai/TileKernels",
       "published_at": "2026-04-22T05:38:31Z",
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 867,
       "user": "0x0funky"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 826,
       "user": "Russell-cell"
     },
     {
@@ -1201,8 +1201,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 815,
       "user": "wuyoscar"
+    },
+    {
+      "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "url": "https://github.com/GammaLabTechnologies/harmonist",
+      "published_at": "2026-04-23T05:42:29Z",
+      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
+      "source": "GitHub",
+      "stars": 745,
+      "user": "GammaLabTechnologies"
     }
   ],
   "DevOps": [
@@ -1328,21 +1343,6 @@
   ],
   "Cloud": [
     {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
       "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
       "published_at": "2026-04-27T06:55:28Z",
@@ -1400,6 +1400,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Processing long running events on AWS API Gateway",
@@ -1531,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1193,
       "user": "openclaw"
     },
     {
@@ -1546,7 +1561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 546,
       "user": "avaco-cloud"
     },
     {
@@ -1561,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "alash3al"
     }
   ],
@@ -1843,21 +1858,6 @@
       "user": "Matty Stratton"
     },
     {
-      "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "published_at": "2026-04-21T11:56:17Z",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30708545?v=4",
-      "source": "GitHub",
-      "stars": 1542,
-      "user": "ConardLi"
-    },
-    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1191,
+      "stars": 1193,
       "user": "openclaw"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 948,
       "user": "earthtojake"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49340580?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 546,
       "user": "avaco-cloud"
     },
     {
@@ -1918,19 +1918,19 @@
       "user": "levelsio"
     },
     {
-      "title": "Einsia/OpenChronicle - GitHub Repository",
-      "url": "https://github.com/Einsia/OpenChronicle",
-      "published_at": "2026-04-21T14:50:33Z",
-      "description": "Trending GitHub Repository",
+      "title": "PrimeOrder-Labs/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot",
+      "published_at": "2026-04-25T15:51:16Z",
+      "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246131017?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279283643?v=4",
       "source": "GitHub",
-      "stars": 1580,
-      "user": "Einsia"
+      "stars": 325,
+      "user": "PrimeOrder-Labs"
     },
     {
       "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 867,
       "user": "0x0funky"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 826,
       "user": "Russell-cell"
     },
     {
@@ -1989,8 +1989,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 815,
       "user": "wuyoscar"
+    },
+    {
+      "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "url": "https://github.com/GammaLabTechnologies/harmonist",
+      "published_at": "2026-04-23T05:42:29Z",
+      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
+      "source": "GitHub",
+      "stars": 745,
+      "user": "GammaLabTechnologies"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -2004,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 417,
       "user": "alash3al"
     },
     {
@@ -2053,19 +2068,19 @@
       "user": "nakagami"
     },
     {
-      "title": "peiyizhi0724/ChatGpt-Image-Studio - GitHub Repository",
-      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
-      "published_at": "2026-04-21T17:52:08Z",
-      "description": "Trending GitHub Repository",
+      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "url": "https://github.com/val1813/kaiwu",
+      "published_at": "2026-04-23T06:42:20Z",
+      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278168632?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 208,
-      "user": "peiyizhi0724"
+      "stars": 182,
+      "user": "val1813"
     }
   ]
 }
