@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-28-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (45.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.3%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.6%)
 
-**Security**: 🟦🟦🟦 7 (6.7%)
+**Security**: 🟦🟦🟦 7 (6.8%)
 
 **WebDev**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,17 +60,17 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.5 (29.5%)
-JavaScript      █████████████████████████ 25.0 (25.0%)
-Java            ████████████████████████ 23.9 (23.9%)
-Python          █████████████████████ 20.5 (20.5%)
-Kotlin          █ 1.1 (1.1%)
+Go              ██████████████████████████████ 27.9 (27.9%)
+JavaScript      ████████████████████████████ 25.6 (25.6%)
+Java            ██████████████████████████ 24.4 (24.4%)
+Python          ██████████████████████ 20.9 (20.9%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
+    "Go" : 24
     "JavaScript" : 22
     "Java" : 21
     "Python" : 18
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-8-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![programming](https://img.shields.io/badge/programming-11-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![beginners](https://img.shields.io/badge/beginners-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-28 13:00 CAT)
+## 📅 Latest Updates (2026-04-28 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,14 +205,14 @@ npm run test
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Instructions. Skills. Tools. How Google Embedded Skills Into Every Layer of Its Agent Stack](https://dev.to/gde/instructions-skills-tools-how-google-embedded-skills-into-every-layer-of-its-agent-stack-5415) _[Dev.to]_
 - [I wrote my third XML parser. Here's why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i) _[Dev.to]_
-- [The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate](https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go) _[Dev.to]_
 - [Your Developer Journey: Progress or Plateau?](https://dev.to/virtualcoffee/in-your-developer-journey-are-you-making-progress-or-are-you-in-a-stand-still-290i) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
-- [The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents](https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke) _[Dev.to]_
 - [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
 - [Next-Generation Google Workspace Automation](https://dev.to/gde/next-generation-google-workspace-automation-1h22) _[Dev.to]_
+- [I Taught Two AIs What Not to Say About Their Humans](https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148) _[Dev.to]_
+- [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2) _[Dev.to]_
 
-_Last automated update: Tue, 28 Apr 2026 13:16:07 CAT_
+_Last automated update: Tue, 28 Apr 2026 15:10:08 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Tue, 28 Apr 2026 13:16:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 28 Apr 2026 11:16:07 GMT</b><br/>
+  <b>Last automated update: Tue, 28 Apr 2026 13:10:08 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
