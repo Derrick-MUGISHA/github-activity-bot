@@ -31,6 +31,36 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "Automation is a trade-off",
+      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
+      "published_at": "2026-04-28T15:06:42Z",
+      "description": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
+      "tags": [
+        "ai",
+        "webdev",
+        "lowcode",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
+      "source": "Dev.to",
+      "user": "Sue Smith"
+    },
+    {
+      "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
+      "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
+      "published_at": "2026-04-28T01:48:30Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...",
+      "tags": [
+        "vllm",
+        "googleadk",
+        "tpu",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -72,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7b40ctkfd218x8jrh0.png",
       "source": "Dev.to",
       "user": "Liatmoss"
+    },
+    {
+      "title": "The Age of Disposable Software",
+      "url": "https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj",
+      "published_at": "2026-04-27T23:28:34Z",
+      "description": "How AI code generation tools turned software into something I now build for a single use — sometimes for a few hours, sometimes for a morning.",
+      "tags": [
+        "ai",
+        "code",
+        "philosophy",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv66a5txzh17aqeabojc.png",
+      "source": "Dev.to",
+      "user": "Lautaro Rosales"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -426,50 +471,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
-    },
-    {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "The Hidden Challenge of Multi-LLM Context Management",
-      "url": "https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh",
-      "published_at": "2026-04-24T20:19:51Z",
-      "description": "Why token counting isn't a solved problem when building across providers   Building AI...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbx9bwjw9hhkphkf27tsp.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -628,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1315,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 941,
       "user": "wuyoscar"
     },
     {
@@ -658,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 824,
       "user": "GammaLabTechnologies"
     },
     {
@@ -673,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "alash3al"
     },
     {
@@ -688,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 260,
       "user": "Kianmhz"
     }
   ],
@@ -737,51 +738,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
-    },
-    {
-      "title": "Spread vs Rest Operators in JavaScript: Expand or Collect Like a Pro",
-      "url": "https://dev.to/ritam369/spread-vs-rest-operators-in-javascript-expand-or-collect-like-a-pro-2mkj",
-      "published_at": "2026-04-24T18:24:54Z",
-      "description": "Introduction   Imagine you're juggling arrays and objects in JavaScript, and suddenly you...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "programming",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcuxdxqybolob0vvtca01.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
-    {
-      "title": "Mastering Template Literals in JavaScript: Say Goodbye to String Concatenation Nightmares",
-      "url": "https://dev.to/ritam369/mastering-template-literals-in-javascript-13a4",
-      "published_at": "2026-04-24T11:28:32Z",
-      "description": "Introduction   Imagine you're building a dynamic dashboard for your full-stack app. You need...",
-      "tags": [
-        "javascript",
-        "webdev",
-        "programming",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0gbayac2hy6lya1ejpup.png",
-      "source": "Dev.to",
-      "user": "Ritam Saha"
-    },
-    {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -930,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1075,
       "user": "earthtojake"
     },
     {
@@ -1171,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1315,
       "user": "deepseek-ai"
     },
     {
@@ -1186,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "0x0funky"
     },
     {
@@ -1201,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 941,
       "user": "wuyoscar"
     },
     {
@@ -1231,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 824,
       "user": "GammaLabTechnologies"
     }
   ],
@@ -1311,6 +1267,21 @@
   ],
   "Mobile": [
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "How to Remove Console.log from React Native Production Builds",
       "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
       "published_at": "2026-04-27T10:29:37Z",
@@ -1373,6 +1344,21 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
+      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
+      "published_at": "2026-04-28T13:40:53Z",
+      "description": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "gde",
+        "vegas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
       "published_at": "2026-04-28T19:54:21Z",
@@ -1386,6 +1372,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "How I'm running an autonomous Claude Code loop on a real shipped product",
+      "url": "https://dev.to/_khanshaheb/how-im-running-an-autonomous-claude-code-loop-on-a-real-shipped-product-48lf",
+      "published_at": "2026-04-28T08:56:56Z",
+      "description": "type.win is a Balatro-styled typing arcade I built — two games, a leaderboard, live on Cloudflare...",
+      "tags": [
+        "vibecoding",
+        "gamedev",
+        "webdev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m59q45ikyau3prumcc5.png",
+      "source": "Dev.to",
+      "user": "Shakirul Hasan"
     },
     {
       "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
@@ -1536,21 +1537,6 @@
       "user": "Eslam Genedy"
     },
     {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -1592,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "alash3al"
     }
   ],
@@ -1730,6 +1716,21 @@
   ],
   "Tools": [
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -1758,6 +1759,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftc7b40ctkfd218x8jrh0.png",
       "source": "Dev.to",
       "user": "Liatmoss"
+    },
+    {
+      "title": "The Age of Disposable Software",
+      "url": "https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj",
+      "published_at": "2026-04-27T23:28:34Z",
+      "description": "How AI code generation tools turned software into something I now build for a single use — sometimes for a few hours, sometimes for a morning.",
+      "tags": [
+        "ai",
+        "code",
+        "philosophy",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv66a5txzh17aqeabojc.png",
+      "source": "Dev.to",
+      "user": "Lautaro Rosales"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -1829,21 +1845,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
-    },
-    {
       "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "url": "https://github.com/openclaw/clawsweeper",
       "published_at": "2026-04-23T22:14:49Z",
@@ -1870,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1075,
       "user": "earthtojake"
     },
     {
@@ -1930,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1315,
       "user": "deepseek-ai"
     },
     {
@@ -1945,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1019,
       "user": "0x0funky"
     },
     {
@@ -1960,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 941,
       "user": "wuyoscar"
     },
     {
@@ -1990,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 824,
       "user": "GammaLabTechnologies"
     },
     {
@@ -2005,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "alash3al"
     },
     {
@@ -2020,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 425,
       "user": "NullLatency"
     },
     {
@@ -2035,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "NV404"
     },
     {
@@ -2050,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 260,
       "user": "Kianmhz"
     },
     {
