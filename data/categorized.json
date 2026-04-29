@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "How I Used AI to Fix Our E2E Test Architecture",
+      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
+      "published_at": "2026-04-29T18:28:37Z",
+      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
+      "tags": [
+        "testing",
+        "e2e",
+        "playwright",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
+      "source": "Dev.to",
+      "user": "Debbie O'Brien"
+    },
+    {
       "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
       "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
       "published_at": "2026-04-29T13:46:47Z",
@@ -14,21 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
       "user": "Sreejit"
-    },
-    {
-      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
-      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
-      "published_at": "2026-04-28T13:02:03Z",
-      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
-      "tags": [
-        "gemini",
-        "agents",
-        "programming",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "Why I'm Building SaaS in 2026",
@@ -132,6 +132,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -471,20 +486,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -628,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 436,
       "user": "levelsio"
     },
     {
@@ -643,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 888,
       "user": "GammaLabTechnologies"
     },
     {
@@ -658,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "future-agi"
     },
     {
@@ -673,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 634,
       "user": "epoko77-ai"
     },
     {
@@ -688,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 553,
       "user": "alash3al"
     },
     {
@@ -703,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "Kianmhz"
     },
     {
@@ -915,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1334,
       "user": "openclaw"
     },
     {
@@ -930,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 436,
       "user": "levelsio"
     },
     {
@@ -945,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 157,
       "user": "amirshaker000"
     },
     {
@@ -1157,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1206,
       "user": "0x0funky"
     },
     {
@@ -1172,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 888,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1187,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "future-agi"
     },
     {
@@ -1202,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 634,
       "user": "epoko77-ai"
     },
     {
@@ -1374,21 +1375,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
-      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
-      "published_at": "2026-04-28T13:02:03Z",
-      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
-      "tags": [
-        "gemini",
-        "agents",
-        "programming",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Cold Starts Are Dead",
       "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
       "published_at": "2026-04-29T03:09:17Z",
@@ -1402,21 +1388,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
       "source": "Dev.to",
       "user": "Eric D Johnson"
-    },
-    {
-      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
-      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
-      "published_at": "2026-04-28T13:40:53Z",
-      "description": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "gde",
-        "vegas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Are We Using AI at the Wrong Scale?",
@@ -1434,6 +1405,21 @@
       "user": "Kernel Pryanic"
     },
     {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
       "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
       "published_at": "2026-04-26T15:03:22Z",
@@ -1446,6 +1432,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png",
       "source": "Dev.to",
       "user": "Pooja Bhavani"
+    },
+    {
+      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
+      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
+      "published_at": "2026-04-28T13:40:53Z",
+      "description": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "gde",
+        "vegas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
@@ -1608,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1334,
       "user": "openclaw"
     },
     {
@@ -1623,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 553,
       "user": "alash3al"
     }
   ],
@@ -1711,11 +1712,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 436,
       "user": "levelsio"
     }
   ],
   "Tools": [
+    {
+      "title": "How I Used AI to Fix Our E2E Test Architecture",
+      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
+      "published_at": "2026-04-29T18:28:37Z",
+      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
+      "tags": [
+        "testing",
+        "e2e",
+        "playwright",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
+      "source": "Dev.to",
+      "user": "Debbie O'Brien"
+    },
     {
       "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
       "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
@@ -1842,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1334,
       "user": "openclaw"
     },
     {
@@ -1857,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 436,
       "user": "levelsio"
     },
     {
@@ -1872,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 157,
       "user": "amirshaker000"
     },
     {
@@ -1917,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1196,
+      "stars": 1206,
       "user": "0x0funky"
     },
     {
@@ -1932,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 888,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1947,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "future-agi"
     },
     {
@@ -1962,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 634,
       "user": "epoko77-ai"
     },
     {
@@ -1992,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 553,
       "user": "alash3al"
     },
     {
@@ -2007,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "NullLatency"
     },
     {
@@ -2022,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 365,
       "user": "Kianmhz"
     },
     {
