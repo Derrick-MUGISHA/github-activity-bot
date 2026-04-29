@@ -20,15 +20,15 @@
   "by_language": {
     "Go": 26,
     "Rust": 1,
-    "JavaScript": 18,
     "Java": 19,
     "Kotlin": 2,
     "Python": 18,
+    "JavaScript": 18,
     "Ruby": 1
   },
   "by_date": {
-    "2026-04-28": 10,
     "2026-04-27": 15,
+    "2026-04-28": 10,
     "2026-04-26": 10,
     "2026-04-22": 4,
     "2026-04-25": 3,
@@ -87,18 +87,18 @@
     "go": 5,
     "learning": 4,
     "architecture": 4,
-    "llm": 3,
     "machinelearning": 3,
+    "llm": 3,
     "webdev": 3
   },
   "trending_topics": [],
   "language_percentages": {
     "Go": "30.6",
     "Rust": "1.2",
-    "JavaScript": "21.2",
     "Java": "22.4",
     "Kotlin": "2.4",
     "Python": "21.2",
+    "JavaScript": "21.2",
     "Ruby": "1.2"
   }
 }

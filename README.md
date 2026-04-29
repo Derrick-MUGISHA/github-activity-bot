@@ -62,8 +62,8 @@
 ```
 Go              ██████████████████████████████ 30.6 (30.6%)
 Java            ██████████████████████ 22.4 (22.4%)
-JavaScript      █████████████████████ 21.2 (21.2%)
 Python          █████████████████████ 21.2 (21.2%)
+JavaScript      █████████████████████ 21.2 (21.2%)
 Kotlin          ██ 2.4 (2.4%)
 Rust            █ 1.2 (1.2%)
 Ruby            █ 1.2 (1.2%)
@@ -74,8 +74,8 @@ Ruby            █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "Go" : 26
     "Java" : 19
-    "JavaScript" : 18
     "Python" : 18
+    "JavaScript" : 18
     "Kotlin" : 2
     "Rust" : 1
     "Ruby" : 1
@@ -125,31 +125,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-29 3:00 CAT)
+## 📅 Latest Updates (2026-04-29 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png" width="200" alt="Are We Using AI at the Wrong Scale?" />
-      <br/>
-      <b>Are We Using AI at the Wrong Scale?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png" width="200" alt="How I used Gemini CLI to orchestrate a complex RAG migration" />
-      <br/>
-      <b>How I used Gemini CLI to orchestrate a complex RAG...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-98e">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F59hyvh26vlwl83aw3w1s.png" width="200" alt="Meme Monday" />
@@ -159,8 +141,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8hyagwel1am37fxole3z.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -179,11 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png" width="200" alt="Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕" />
       <br/>
       <b>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverles...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png" width="200" alt="Are We Using AI at the Wrong Scale?" />
+      <br/>
+      <b>Are We Using AI at the Wrong Scale?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png" width="200" alt="How I used Gemini CLI to orchestrate a complex RAG migration" />
+      <br/>
+      <b>How I used Gemini CLI to orchestrate a complex RAG...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,17 +195,16 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) _[Dev.to]_
-- [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl) _[Dev.to]_
 - [My Incredible Google Cloud Next 26 Experience as a GDE](https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo) _[Dev.to]_
 - [Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib) _[Dev.to]_
+- [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) _[Dev.to]_
+- [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) _[Dev.to]_
 - [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8) _[Dev.to]_
 - [Why Web3 Exists and Why Solana Matters](https://dev.to/100daysofsolana/why-web3-exists-and-why-solana-matters-296h) _[Dev.to]_
 - [Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI](https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
-- [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d) _[Dev.to]_
 - [Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 - [Keeping You in the Driver's Seat and AI as the Copilot](https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8) _[Dev.to]_
@@ -215,8 +214,9 @@ npm run test
 - [How I'm running an autonomous Claude Code loop on a real shipped product](https://dev.to/_khanshaheb/how-im-running-an-autonomous-claude-code-loop-on-a-real-shipped-product-48lf) _[Dev.to]_
 - [I wrote my third XML parser. Here's why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
+- [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
 
-_Last automated update: Wed, 29 Apr 2026 03:22:40 CAT_
+_Last automated update: Wed, 29 Apr 2026 06:49:17 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 29 Apr 2026 03:22:40 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 29 Apr 2026 01:22:40 GMT</b><br/>
+  <b>Last automated update: Wed, 29 Apr 2026 04:49:17 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
