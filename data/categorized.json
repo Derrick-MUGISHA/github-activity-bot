@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "published_at": "2026-04-29T19:02:07Z",
+      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "How I Used AI to Fix Our E2E Test Architecture",
       "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
       "published_at": "2026-04-29T18:28:37Z",
@@ -61,21 +76,6 @@
       "user": "Eric D Johnson"
     },
     {
-      "title": "Automation is a trade-off",
-      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
-      "published_at": "2026-04-28T15:06:42Z",
-      "description": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
-      "tags": [
-        "ai",
-        "webdev",
-        "lowcode",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
-      "source": "Dev.to",
-      "user": "Sue Smith"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -119,21 +119,6 @@
       "user": "Kernel Pryanic"
     },
     {
-      "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
-      "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
-      "published_at": "2026-04-28T01:48:30Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...",
-      "tags": [
-        "vllm",
-        "googleadk",
-        "tpu",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
       "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
       "published_at": "2026-04-28T13:02:03Z",
@@ -164,20 +149,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
-      "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
-      "published_at": "2026-04-26T15:03:22Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge     Every developer building AI...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -191,6 +162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
+    },
+    {
+      "title": "Automation is a trade-off",
+      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
+      "published_at": "2026-04-28T15:06:42Z",
+      "description": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
+      "tags": [
+        "ai",
+        "webdev",
+        "lowcode",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
+      "source": "Dev.to",
+      "user": "Sue Smith"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -644,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 891,
       "user": "GammaLabTechnologies"
     },
     {
@@ -659,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "future-agi"
     },
     {
@@ -674,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "epoko77-ai"
     },
     {
@@ -689,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "alash3al"
     },
     {
@@ -704,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "Kianmhz"
     },
     {
@@ -719,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "val1813"
     }
   ],
@@ -916,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1337,
       "user": "openclaw"
     },
     {
@@ -946,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 170,
       "user": "amirshaker000"
     },
     {
@@ -1158,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1210,
       "user": "0x0funky"
     },
     {
@@ -1173,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 891,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1188,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "future-agi"
     },
     {
@@ -1203,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "epoko77-ai"
     },
     {
@@ -1298,6 +1284,21 @@
   ],
   "Mobile": [
     {
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "published_at": "2026-04-29T19:02:07Z",
+      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
       "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
       "published_at": "2026-04-28T12:03:40Z",
@@ -1311,21 +1312,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
       "source": "Dev.to",
       "user": "Tiberiu Tofan"
-    },
-    {
-      "title": "I wrote my third XML parser. Here's why this one was different.",
-      "url": "https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i",
-      "published_at": "2026-04-26T19:18:28Z",
-      "description": "Hi, I'm Pasha, and I write XML parsers.  Not because the world needs another one. The world has...",
-      "tags": [
-        "kotlin",
-        "java",
-        "xml",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tyl8l43glws679qnvdh.png",
-      "source": "Dev.to",
-      "user": "Pasha"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -1418,20 +1404,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra",
-      "url": "https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff",
-      "published_at": "2026-04-26T15:03:22Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge     Every developer building AI...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
     },
     {
       "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
@@ -1609,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1337,
       "user": "openclaw"
     },
     {
@@ -1624,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "alash3al"
     }
   ],
@@ -1858,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1337,
       "user": "openclaw"
     },
     {
@@ -1888,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 170,
       "user": "amirshaker000"
     },
     {
@@ -1933,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1210,
       "user": "0x0funky"
     },
     {
@@ -1948,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 891,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1963,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "future-agi"
     },
     {
@@ -1978,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "epoko77-ai"
     },
     {
@@ -2008,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "alash3al"
     },
     {
@@ -2023,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "NullLatency"
     },
     {
@@ -2038,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 369,
       "user": "Kianmhz"
     },
     {
@@ -2053,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "val1813"
     },
     {
@@ -2068,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188978474?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 137,
       "user": "sartoopjj"
     }
   ]
