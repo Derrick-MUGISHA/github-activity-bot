@@ -15,7 +15,7 @@
     "Cloud": 19,
     "Database": 1,
     "Security": 5,
-    "Tools": 23
+    "Tools": 24
   },
   "by_language": {
     "Go": 26,
@@ -27,7 +27,7 @@
     "Ruby": 1
   },
   "by_date": {
-    "2026-04-29": 4,
+    "2026-04-29": 5,
     "2026-04-28": 11,
     "2026-04-27": 13,
     "2026-04-26": 9,
@@ -37,7 +37,7 @@
     "2026-04-17": 4,
     "2026-04-21": 2,
     "2026-04-20": 2,
-    "2026-04-16": 4,
+    "2026-04-16": 3,
     "2026-04-24": 6,
     "2026-04-23": 11,
     "2026-03-11": 1,
@@ -80,15 +80,15 @@
     "JavaScript": 10,
     "Python": 10,
     "cloudnextchallenge": 8,
-    "discuss": 8,
     "javascript": 8,
     "python": 8,
+    "discuss": 7,
     "programming": 5,
     "go": 5,
-    "gemini": 4,
     "aws": 4,
     "webdev": 4,
     "architecture": 4,
+    "gemini": 4,
     "machinelearning": 3,
     "agents": 3
   },
