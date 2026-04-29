@@ -1540990,3 +1540990,773 @@ ClawSweeper scans all issues and PRs and suggest what we can close, and why. It 
 
 ---
 
+
+
+## 📰 DevTech News — 2026-04-29 11:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (50 articles)
+
+#### 1. [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
+📅 Tue, 28 Apr 2026 11:07:28 GMT
+👤 By: Kernel Pryanic | 📌 Source: Dev.to
+
+![Are We Using AI at the Wrong Scale?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png)
+
+We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...
+
+🏷️ Tags: `ai`, `discuss`, `llm`, `software`
+
+---
+
+#### 2. [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga)
+📅 Tue, 28 Apr 2026 13:02:03 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![How I used Gemini CLI to orchestrate a complex RAG migration](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png)
+
+Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...
+
+🏷️ Tags: `gemini`, `agents`, `programming`, `ai`
+
+---
+
+#### 3. [Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI](https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d)
+📅 Tue, 28 Apr 2026 01:48:30 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png)
+
+This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...
+
+🏷️ Tags: `vllm`, `googleadk`, `tpu`, `gemini`
+
+---
+
+#### 4. [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8)
+📅 Tue, 28 Apr 2026 15:06:42 GMT
+👤 By: Sue Smith | 📌 Source: Dev.to
+
+![Automation is a trade-off](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg)
+
+A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...
+
+🏷️ Tags: `ai`, `webdev`, `lowcode`, `automation`
+
+---
+
+#### 5. [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8)
+📅 Mon, 27 Apr 2026 07:34:34 GMT
+👤 By: Philippe MARTIN | 📌 Source: Dev.to
+
+![Creating a CLI Tool with AI Agents: My Journey with kdn](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png)
+
+A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...
+
+🏷️ Tags: `ai`, `agents`, `development`, `workspace`
+
+---
+
+#### 6. [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8)
+📅 Sun, 26 Apr 2026 13:10:27 GMT
+👤 By: Rahmon Toyeeb | 📌 Source: Dev.to
+
+![Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png)
+
+This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.
+
+🏷️ Tags: `backend`, `architecture`
+
+---
+
+#### 7. [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
+📅 Mon, 27 Apr 2026 23:28:34 GMT
+👤 By: Lautaro Rosales | 📌 Source: Dev.to
+
+![The Age of Disposable Software](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv66a5txzh17aqeabojc.png)
+
+How AI code generation tools turned software into something I now build for a single use — sometimes for a few hours, sometimes for a morning.
+
+🏷️ Tags: `ai`, `code`, `philosophy`, `software`
+
+---
+
+#### 8. [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1)
+📅 Mon, 27 Apr 2026 02:00:10 GMT
+👤 By: Michael Larson | 📌 Source: Dev.to
+
+![Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png)
+
+AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.
+
+🏷️ Tags: `ai`, `llm`, `devtools`, `productivity`
+
+---
+
+#### 9. [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff)
+📅 Sun, 26 Apr 2026 15:03:22 GMT
+👤 By: Pooja Bhavani | 📌 Source: Dev.to
+
+![Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png)
+
+This is a submission for the Google Cloud NEXT Writing Challenge     Every developer building AI...
+
+🏷️ Tags: `devchallenge`, `cloudnextchallenge`, `googlecloud`
+
+---
+
+#### 10. [Next-Generation Google Workspace Automation](https://dev.to/gde/next-generation-google-workspace-automation-1h22)
+📅 Mon, 27 Apr 2026 01:52:43 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Next-Generation Google Workspace Automation](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs09flup7c8xft951ro5.png)
+
+A Comparative Study of Agentic Frameworks and Multi-Agent Orchestration           Abstract   The...
+
+🏷️ Tags: `ai`, `googleworkspace`, `googleappsscript`, `gemini`
+
+---
+
+### 🏷️ JavaScript (18 articles)
+
+#### 1. [Codemod for ignoring lint errors](https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g)
+📅 Mon, 27 Apr 2026 12:24:56 GMT
+👤 By: Isaac Lee | 📌 Source: Dev.to
+
+![Codemod for ignoring lint errors](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fib11t51p9mm7fhe2ft2v.png)
+
+Meet my new codemod, ignore-lint-errors. It helps us ignore lint errors from eslint, stylelint, and...
+
+🏷️ Tags: `javascript`, `ember`, `showdev`, `opensource`
+
+---
+
+#### 2. [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d)
+📅 Mon, 27 Apr 2026 10:29:37 GMT
+👤 By: Neeraj Singh | 📌 Source: Dev.to
+
+![How to Remove Console.log from React Native Production Builds](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png)
+
+When building React Native apps, console.log is your best friend during development. But leaving it...
+
+🏷️ Tags: `reactnative`, `typescript`, `performance`, `mobile`
+
+---
+
+#### 3. [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+📅 Fri, 17 Apr 2026 18:38:12 GMT
+👤 By: Oladele David  | 📌 Source: Dev.to
+
+![Designing Multi-Tenant Backends With Both Ownership and Team Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png)
+
+A practical architecture pattern for systems where one user can own, join, and operate multiple...
+
+🏷️ Tags: `nestjs`, `javascript`, `architecture`, `backend`
+
+---
+
+#### 4. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (18 articles)
+
+#### 1. [Installing pygame for IDLE on Mac](https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb)
+📅 Tue, 21 Apr 2026 19:13:08 GMT
+👤 By: David Newberry | 📌 Source: Dev.to
+
+![Installing pygame for IDLE on Mac](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png)
+
+Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.
+
+🏷️ Tags: `beginners`, `gamedev`, `python`, `tutorial`
+
+---
+
+#### 2. [Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX](https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21)
+📅 Mon, 27 Apr 2026 08:45:25 GMT
+👤 By: Ahmed Elnaggar | 📌 Source: Dev.to
+
+![Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png)
+
+Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.
+
+🏷️ Tags: `machinelearning`, `pytorch`, `python`, `tutorial`
+
+---
+
+#### 3. [When Information Hits a Wall: Barriers in Cellular Automata](https://dev.to/jsamwrites/when-information-hits-a-wall-barriers-in-cellular-automata-3g32)
+📅 Sun, 26 Apr 2026 20:48:10 GMT
+👤 By: John Samuel | 📌 Source: Dev.to
+
+![When Information Hits a Wall: Barriers in Cellular Automata](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png)
+
+TL;DR: Add one frozen cell to a cellular automaton and watch the entire pattern reshape itself. This...
+
+🏷️ Tags: `computerscience`, `python`, `simulation`, `algorithms`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (2 articles)
+
+#### 1. [How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p)
+📅 Wed, 22 Apr 2026 02:48:26 GMT
+👤 By: avinash | 📌 Source: Dev.to
+
+![How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg)
+
+I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...
+
+🏷️ Tags: `aws`, `devops`, `ai`, `cloud`
+
+---
+
+#### 2. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+### 🏷️ WebDev (3 articles)
+
+#### 1. [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8)
+📅 Sun, 26 Apr 2026 13:10:27 GMT
+👤 By: Rahmon Toyeeb | 📌 Source: Dev.to
+
+![Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png)
+
+This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.
+
+🏷️ Tags: `backend`, `architecture`
+
+---
+
+#### 2. [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+📅 Fri, 17 Apr 2026 18:38:12 GMT
+👤 By: Oladele David  | 📌 Source: Dev.to
+
+![Designing Multi-Tenant Backends With Both Ownership and Team Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png)
+
+A practical architecture pattern for systems where one user can own, join, and operate multiple...
+
+🏷️ Tags: `nestjs`, `javascript`, `architecture`, `backend`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl)
+📅 Tue, 28 Apr 2026 12:03:40 GMT
+👤 By: Tiberiu Tofan | 📌 Source: Dev.to
+
+![Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png)
+
+How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...
+
+🏷️ Tags: `kotlin`, `java`, `testing`, `tutorial`
+
+---
+
+#### 2. [I wrote my third XML parser. Here's why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i)
+📅 Sun, 26 Apr 2026 19:18:28 GMT
+👤 By: Pasha | 📌 Source: Dev.to
+
+![I wrote my third XML parser. Here's why this one was different.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tyl8l43glws679qnvdh.png)
+
+Hi, I'm Pasha, and I write XML parsers.  Not because the world needs another one. The world has...
+
+🏷️ Tags: `kotlin`, `java`, `xml`, `showdev`
+
+---
+
+#### 3. [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d)
+📅 Mon, 27 Apr 2026 10:29:37 GMT
+👤 By: Neeraj Singh | 📌 Source: Dev.to
+
+![How to Remove Console.log from React Native Production Builds](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png)
+
+When building React Native apps, console.log is your best friend during development. But leaving it...
+
+🏷️ Tags: `reactnative`, `typescript`, `performance`, `mobile`
+
+---
+
+### 🏷️ Cloud (18 articles)
+
+#### 1. [Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib)
+📅 Tue, 28 Apr 2026 19:54:21 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png)
+
+Google has just announced the release of Gemma 4! This new generation of open models brings...
+
+🏷️ Tags: `gemma`, `machinelearning`, `googlecloud`, `cloudrun`
+
+---
+
+#### 2. [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo)
+📅 Tue, 28 Apr 2026 11:07:28 GMT
+👤 By: Kernel Pryanic | 📌 Source: Dev.to
+
+![Are We Using AI at the Wrong Scale?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png)
+
+We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...
+
+🏷️ Tags: `ai`, `discuss`, `llm`, `software`
+
+---
+
+#### 3. [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga)
+📅 Tue, 28 Apr 2026 13:02:03 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![How I used Gemini CLI to orchestrate a complex RAG migration](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png)
+
+Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...
+
+🏷️ Tags: `gemini`, `agents`, `programming`, `ai`
+
+---
+
+#### 4. [My Incredible Google Cloud Next 26 Experience as a GDE](https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo)
+📅 Tue, 28 Apr 2026 13:40:53 GMT
+👤 By: Darren "Dazbo" Lester | 📌 Source: Dev.to
+
+![My Incredible Google Cloud Next 26 Experience as a GDE](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg)
+
+Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...
+
+🏷️ Tags: `googlecloud`, `googlecloudnext`, `gde`, `vegas`
+
+---
+
+#### 5. [How I'm running an autonomous Claude Code loop on a real shipped product](https://dev.to/_khanshaheb/how-im-running-an-autonomous-claude-code-loop-on-a-real-shipped-product-48lf)
+📅 Tue, 28 Apr 2026 08:56:56 GMT
+👤 By: Shakirul Hasan | 📌 Source: Dev.to
+
+![How I'm running an autonomous Claude Code loop on a real shipped product](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7m59q45ikyau3prumcc5.png)
+
+type.win is a Balatro-styled typing arcade I built — two games, a leaderboard, live on Cloudflare...
+
+🏷️ Tags: `vibecoding`, `gamedev`, `webdev`, `showdev`
+
+---
+
+#### 6. [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff)
+📅 Sun, 26 Apr 2026 15:03:22 GMT
+👤 By: Pooja Bhavani | 📌 Source: Dev.to
+
+![Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvfp2lnej5o0htg3wl11.png)
+
+This is a submission for the Google Cloud NEXT Writing Challenge     Every developer building AI...
+
+🏷️ Tags: `devchallenge`, `cloudnextchallenge`, `googlecloud`
+
+---
+
+#### 7. [Officially Introducing: The Google AI and Google Cloud Run Badges](https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9)
+📅 Sun, 26 Apr 2026 17:16:25 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Officially Introducing: The Google AI and Google Cloud Run Badges](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png)
+
+Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...
+
+🏷️ Tags: `cloudnextchallenge`, `devchallenge`, `googlecloud`, `gemini`
+
+---
+
+#### 8. [How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p)
+📅 Wed, 22 Apr 2026 02:48:26 GMT
+👤 By: avinash | 📌 Source: Dev.to
+
+![How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg)
+
+I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...
+
+🏷️ Tags: `aws`, `devops`, `ai`, `cloud`
+
+---
+
+#### 9. [The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate](https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go)
+📅 Mon, 27 Apr 2026 00:40:50 GMT
+👤 By: ContardoRM | 📌 Source: Dev.to
+
+![The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4ommzn92ezniegj4zwx.png)
+
+This is a submission for the Google Cloud NEXT Writing Challenge    If I had to choose one singular...
+
+🏷️ Tags: `devchallenge`, `cloudnextchallenge`, `googlecloud`, `sre`
+
+---
+
+#### 10. [The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents](https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke)
+📅 Mon, 27 Apr 2026 06:55:28 GMT
+👤 By: Michelle Duke | 📌 Source: Dev.to
+
+![The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg)
+
+This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...
+
+🏷️ Tags: `devchallenge`, `cloudnextchallenge`, `googlecloud`, `ai`
+
+---
+
+### 🏷️ Database (1 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (5 articles)
+
+#### 1. [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep)
+📅 Sat, 25 Apr 2026 02:52:00 GMT
+👤 By: Shadab Khan | 📌 Source: Dev.to
+
+![I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg)
+
+Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.
+
+🏷️ Tags: `ai`, `productivity`, `devtools`, `opensource`
+
+---
+
+#### 2. [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh)
+📅 Mon, 20 Apr 2026 02:49:24 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png)
+
+If you deploy on Vercel, todays headlines about a security incident might have caused some stress....
+
+🏷️ Tags: `ai`, `vercel`, `security`, `hack`
+
+---
+
+#### 3. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 5. [levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!](https://github.com/levelsio/superlevels)
+📅 Thu, 23 Apr 2026 12:06:46 GMT
+👤 By: levelsio | 📌 Source: GitHub
+
+![levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!](https://avatars.githubusercontent.com/u/7150848?v=4)
+
+A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 429
+
+---
+
+### 🏷️ Tools (23 articles)
+
+#### 1. [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8)
+📅 Mon, 27 Apr 2026 07:34:34 GMT
+👤 By: Philippe MARTIN | 📌 Source: Dev.to
+
+![Creating a CLI Tool with AI Agents: My Journey with kdn](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png)
+
+A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...
+
+🏷️ Tags: `ai`, `agents`, `development`, `workspace`
+
+---
+
+#### 2. [Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl)
+📅 Tue, 28 Apr 2026 12:03:40 GMT
+👤 By: Tiberiu Tofan | 📌 Source: Dev.to
+
+![Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png)
+
+How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...
+
+🏷️ Tags: `kotlin`, `java`, `testing`, `tutorial`
+
+---
+
+#### 3. [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
+📅 Mon, 27 Apr 2026 23:28:34 GMT
+👤 By: Lautaro Rosales | 📌 Source: Dev.to
+
+![The Age of Disposable Software](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv66a5txzh17aqeabojc.png)
+
+How AI code generation tools turned software into something I now build for a single use — sometimes for a few hours, sometimes for a morning.
+
+🏷️ Tags: `ai`, `code`, `philosophy`, `software`
+
+---
+
+#### 4. [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1)
+📅 Mon, 27 Apr 2026 02:00:10 GMT
+👤 By: Michael Larson | 📌 Source: Dev.to
+
+![Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png)
+
+AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.
+
+🏷️ Tags: `ai`, `llm`, `devtools`, `productivity`
+
+---
+
+#### 5. [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep)
+📅 Sat, 25 Apr 2026 02:52:00 GMT
+👤 By: Shadab Khan | 📌 Source: Dev.to
+
+![I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg)
+
+Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.
+
+🏷️ Tags: `ai`, `productivity`, `devtools`, `opensource`
+
+---
+
+#### 6. [G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i)
+📅 Mon, 27 Apr 2026 17:06:51 GMT
+👤 By: David Cantrell | 📌 Source: Dev.to
+
+![G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png)
+
+I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...
+
+🏷️ Tags: `ai`, `programming`, `githubcopilot`
+
+---
+
+#### 7. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 8. [This is pretty exciting!
+
+https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl)
+📅 Fri, 24 Apr 2026 14:39:33 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![This is pretty exciting!
+
+https://github.com/matz/spinel](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png)
+
+...
+
+---
+
+#### 9. [openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.](https://github.com/openclaw/clawsweeper)
+📅 Thu, 23 Apr 2026 22:14:49 GMT
+👤 By: openclaw | 📌 Source: GitHub
+
+![openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.](https://avatars.githubusercontent.com/u/252820863?v=4)
+
+ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,298
+
+---
+
+#### 10. [levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!](https://github.com/levelsio/superlevels)
+📅 Thu, 23 Apr 2026 12:06:46 GMT
+👤 By: levelsio | 📌 Source: GitHub
+
+![levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!](https://avatars.githubusercontent.com/u/7150848?v=4)
+
+A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 429
+
+---
+
