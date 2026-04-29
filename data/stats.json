@@ -18,7 +18,7 @@
     "Tools": 23
   },
   "by_language": {
-    "Go": 27,
+    "Go": 26,
     "Java": 19,
     "Kotlin": 2,
     "Rust": 1,
@@ -27,8 +27,9 @@
     "Ruby": 1
   },
   "by_date": {
-    "2026-04-27": 15,
     "2026-04-28": 10,
+    "2026-04-27": 14,
+    "2026-04-29": 2,
     "2026-04-26": 9,
     "2026-04-25": 3,
     "2026-04-19": 3,
@@ -68,39 +69,38 @@
     "2021-08-25": 1,
     "2017-11-27": 1,
     "2025-05-07": 1,
-    "2019-08-12": 1,
-    "2026-04-29": 1
+    "2019-08-12": 1
   },
   "top_tags": {
     "ai": 22,
     "github": 15,
     "open-source": 15,
     "devchallenge": 12,
-    "discuss": 10,
     "googlecloud": 10,
+    "discuss": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "python": 8,
     "cloudnextchallenge": 7,
     "javascript": 7,
-    "gemini": 5,
     "programming": 5,
     "go": 5,
+    "gemini": 4,
     "architecture": 4,
-    "llm": 3,
-    "webdev": 3,
     "machinelearning": 3,
+    "agents": 3,
+    "webdev": 3,
     "tutorial": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "31.4",
-    "Java": "22.1",
-    "Kotlin": "2.3",
+    "Go": "30.6",
+    "Java": "22.4",
+    "Kotlin": "2.4",
     "Rust": "1.2",
-    "Python": "20.9",
-    "JavaScript": "20.9",
+    "Python": "21.2",
+    "JavaScript": "21.2",
     "Ruby": "1.2"
   }
 }
