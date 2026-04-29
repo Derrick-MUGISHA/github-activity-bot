@@ -1,36 +1,36 @@
 {
-  "total": 105,
+  "total": 103,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 58,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 51,
+    "AI": 50,
     "JavaScript": 19,
     "Python": 18,
     "DevOps": 2,
     "WebDev": 3,
     "Mobile": 3,
-    "Cloud": 19,
+    "Cloud": 18,
     "Database": 1,
     "Security": 5,
     "Tools": 24
   },
   "by_language": {
-    "Go": 26,
-    "Java": 20,
-    "Kotlin": 2,
+    "Go": 24,
+    "Java": 19,
+    "Kotlin": 1,
     "Rust": 1,
     "JavaScript": 19,
     "Python": 18,
     "Ruby": 1
   },
   "by_date": {
-    "2026-04-29": 5,
-    "2026-04-28": 11,
+    "2026-04-29": 6,
+    "2026-04-28": 10,
     "2026-04-27": 13,
-    "2026-04-26": 9,
+    "2026-04-26": 7,
     "2026-04-25": 3,
     "2026-04-19": 3,
     "2026-04-22": 3,
@@ -71,35 +71,35 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 23,
     "github": 15,
     "open-source": 15,
-    "devchallenge": 13,
-    "googlecloud": 10,
+    "devchallenge": 12,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "cloudnextchallenge": 8,
+    "googlecloud": 9,
     "javascript": 8,
     "python": 8,
+    "cloudnextchallenge": 7,
     "discuss": 7,
     "programming": 5,
     "go": 5,
+    "agents": 4,
+    "opensource": 4,
     "aws": 4,
-    "webdev": 4,
     "architecture": 4,
-    "gemini": 4,
-    "machinelearning": 3,
-    "agents": 3
+    "webdev": 4,
+    "vibecoding": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "29.9",
-    "Java": "23.0",
-    "Kotlin": "2.3",
-    "Rust": "1.1",
-    "JavaScript": "21.8",
-    "Python": "20.7",
-    "Ruby": "1.1"
+    "Go": "28.9",
+    "Java": "22.9",
+    "Kotlin": "1.2",
+    "Rust": "1.2",
+    "JavaScript": "22.9",
+    "Python": "21.7",
+    "Ruby": "1.2"
   }
 }
