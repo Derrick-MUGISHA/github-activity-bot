@@ -471,6 +471,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -618,36 +632,6 @@
       "user": "levelsio"
     },
     {
-      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-      "url": "https://github.com/deepseek-ai/TileKernels",
-      "published_at": "2026-04-22T05:38:31Z",
-      "description": "A kernel library written in tilelang",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 1316,
-      "user": "deepseek-ai"
-    },
-    {
-      "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
-      "published_at": "2026-04-22T11:27:21Z",
-      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
-      "source": "GitHub",
-      "stars": 945,
-      "user": "wuyoscar"
-    },
-    {
       "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
       "url": "https://github.com/GammaLabTechnologies/harmonist",
       "published_at": "2026-04-23T05:42:29Z",
@@ -659,8 +643,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 838,
       "user": "GammaLabTechnologies"
+    },
+    {
+      "title": "future-agi/future-agi - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "url": "https://github.com/future-agi/future-agi",
+      "published_at": "2026-04-23T14:11:31Z",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "future-agi"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "epoko77-ai"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -674,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 513,
       "user": "alash3al"
     },
     {
@@ -689,8 +703,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 285,
       "user": "Kianmhz"
+    },
+    {
+      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "url": "https://github.com/val1813/kaiwu",
+      "published_at": "2026-04-23T06:42:20Z",
+      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "val1813"
     }
   ],
   "JavaScript": [
@@ -871,23 +900,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1274,
       "user": "openclaw"
-    },
-    {
-      "title": "earthtojake/text-to-cad - An open source harness for generating CAD models",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "published_at": "2026-04-22T01:09:45Z",
-      "description": "An open source harness for generating CAD models",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
-      "source": "GitHub",
-      "stars": 1083,
-      "user": "earthtojake"
     },
     {
       "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
@@ -905,21 +919,6 @@
       "user": "levelsio"
     },
     {
-      "title": "Yu9191/sub-store-workers - Sub-Store 后端 Cloudflare Workers/Pages 移植版",
-      "url": "https://github.com/Yu9191/sub-store-workers",
-      "published_at": "2026-04-22T05:41:20Z",
-      "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "Yu9191"
-    },
-    {
       "title": "asdfgh1445/ctf-super-hub -  面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
       "url": "https://github.com/asdfgh1445/ctf-super-hub",
       "published_at": "2026-04-23T15:24:35Z",
@@ -931,8 +930,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "asdfgh1445"
+    },
+    {
+      "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
+      "url": "https://github.com/calendar0917/DeepseekWeb-enhance",
+      "published_at": "2026-04-25T02:36:09Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
+      "source": "GitHub",
+      "stars": 115,
+      "user": "calendar0917"
+    },
+    {
+      "title": "Parallax-Trading/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "url": "https://github.com/Parallax-Trading/polymarket-copy-trading-bot",
+      "published_at": "2026-04-23T16:48:42Z",
+      "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "Parallax-Trading"
     }
   ],
   "Python": [
@@ -980,20 +1009,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png",
       "source": "Dev.to",
       "user": "John Samuel"
-    },
-    {
-      "title": "The Vonage Dev Discussion: Making mistakes",
-      "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc",
-      "published_at": "2026-04-24T20:01:26Z",
-      "description": "Nobody is perfect! Even the most seasoned developers have made mistakes – it’s all just part of the...",
-      "tags": [
-        "security",
-        "discuss",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlo2wdgcln6mdf1i6l0t.png",
-      "source": "Dev.to",
-      "user": "Liz Acosta"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1116,21 +1131,6 @@
       "user": "gilad"
     },
     {
-      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-      "url": "https://github.com/deepseek-ai/TileKernels",
-      "published_at": "2026-04-22T05:38:31Z",
-      "description": "A kernel library written in tilelang",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 1316,
-      "user": "deepseek-ai"
-    },
-    {
       "title": "0x0funky/agent-sprite-forge - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
       "published_at": "2026-04-23T20:52:52Z",
@@ -1142,38 +1142,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1040,
       "user": "0x0funky"
-    },
-    {
-      "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
-      "published_at": "2026-04-22T11:27:21Z",
-      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
-      "source": "GitHub",
-      "stars": 945,
-      "user": "wuyoscar"
-    },
-    {
-      "title": "Russell-cell/PPT-Design-Prompt - GitHub Repository",
-      "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
-      "published_at": "2026-04-22T04:15:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
-      "source": "GitHub",
-      "stars": 848,
-      "user": "Russell-cell"
     },
     {
       "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
@@ -1187,8 +1157,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 838,
       "user": "GammaLabTechnologies"
+    },
+    {
+      "title": "future-agi/future-agi - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "url": "https://github.com/future-agi/future-agi",
+      "published_at": "2026-04-23T14:11:31Z",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "future-agi"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "epoko77-ai"
+    },
+    {
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 381,
+      "user": "NyxTides"
     }
   ],
   "DevOps": [
@@ -1267,21 +1282,6 @@
   ],
   "Mobile": [
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
-    },
-    {
       "title": "How to Remove Console.log from React Native Production Builds",
       "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
       "published_at": "2026-04-27T10:29:37Z",
@@ -1295,6 +1295,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
+    },
+    {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
     },
     {
       "title": "I wrote my third XML parser. Here's why this one was different.",
@@ -1548,23 +1563,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1274,
       "user": "openclaw"
-    },
-    {
-      "title": "Yu9191/sub-store-workers - Sub-Store 后端 Cloudflare Workers/Pages 移植版",
-      "url": "https://github.com/Yu9191/sub-store-workers",
-      "published_at": "2026-04-22T05:41:20Z",
-      "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "Yu9191"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -1578,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 513,
       "user": "alash3al"
     }
   ],
@@ -1673,20 +1673,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "The Vonage Dev Discussion: Making mistakes",
-      "url": "https://dev.to/vonagedev/the-vonage-dev-discussion-making-mistakes-32mc",
-      "published_at": "2026-04-24T20:01:26Z",
-      "description": "Nobody is perfect! Even the most seasoned developers have made mistakes – it’s all just part of the...",
-      "tags": [
-        "security",
-        "discuss",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqlo2wdgcln6mdf1i6l0t.png",
-      "source": "Dev.to",
-      "user": "Liz Acosta"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1716,21 +1702,6 @@
   ],
   "Tools": [
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -1744,6 +1715,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
     },
     {
       "title": "Keeping You in the Driver's Seat and AI as the Copilot",
@@ -1856,23 +1842,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1274,
       "user": "openclaw"
-    },
-    {
-      "title": "earthtojake/text-to-cad - An open source harness for generating CAD models",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "published_at": "2026-04-22T01:09:45Z",
-      "description": "An open source harness for generating CAD models",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10742417?v=4",
-      "source": "GitHub",
-      "stars": 1083,
-      "user": "earthtojake"
     },
     {
       "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
@@ -1890,21 +1861,6 @@
       "user": "levelsio"
     },
     {
-      "title": "Yu9191/sub-store-workers - Sub-Store 后端 Cloudflare Workers/Pages 移植版",
-      "url": "https://github.com/Yu9191/sub-store-workers",
-      "published_at": "2026-04-22T05:41:20Z",
-      "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132221547?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "Yu9191"
-    },
-    {
       "title": "asdfgh1445/ctf-super-hub -  面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
       "url": "https://github.com/asdfgh1445/ctf-super-hub",
       "published_at": "2026-04-23T15:24:35Z",
@@ -1916,23 +1872,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "asdfgh1445"
     },
     {
-      "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-      "url": "https://github.com/deepseek-ai/TileKernels",
-      "published_at": "2026-04-22T05:38:31Z",
-      "description": "A kernel library written in tilelang",
+      "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
+      "url": "https://github.com/calendar0917/DeepseekWeb-enhance",
+      "published_at": "2026-04-25T02:36:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 1316,
-      "user": "deepseek-ai"
+      "stars": 115,
+      "user": "calendar0917"
+    },
+    {
+      "title": "Parallax-Trading/polymarket-copy-trading-bot - polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "url": "https://github.com/Parallax-Trading/polymarket-copy-trading-bot",
+      "published_at": "2026-04-23T16:48:42Z",
+      "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "Parallax-Trading"
     },
     {
       "title": "0x0funky/agent-sprite-forge - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
@@ -1946,38 +1917,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1040,
       "user": "0x0funky"
-    },
-    {
-      "title": "wuyoscar/gpt_image_2_skill - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
-      "published_at": "2026-04-22T11:27:21Z",
-      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72287536?v=4",
-      "source": "GitHub",
-      "stars": 945,
-      "user": "wuyoscar"
-    },
-    {
-      "title": "Russell-cell/PPT-Design-Prompt - GitHub Repository",
-      "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
-      "published_at": "2026-04-22T04:15:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206703724?v=4",
-      "source": "GitHub",
-      "stars": 848,
-      "user": "Russell-cell"
     },
     {
       "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
@@ -1991,8 +1932,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 838,
       "user": "GammaLabTechnologies"
+    },
+    {
+      "title": "future-agi/future-agi - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "url": "https://github.com/future-agi/future-agi",
+      "published_at": "2026-04-23T14:11:31Z",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "future-agi"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "epoko77-ai"
+    },
+    {
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 381,
+      "user": "NyxTides"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -2006,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 513,
       "user": "alash3al"
     },
     {
@@ -2021,23 +2007,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 429,
       "user": "NullLatency"
-    },
-    {
-      "title": "NV404/gova - declarative GUI framework for Go",
-      "url": "https://github.com/NV404/gova",
-      "published_at": "2026-04-22T19:17:02Z",
-      "description": "declarative GUI framework for Go",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72590190?v=4",
-      "source": "GitHub",
-      "stars": 307,
-      "user": "NV404"
     },
     {
       "title": "Kianmhz/GooseRelayVPN - Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
@@ -2051,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 285,
       "user": "Kianmhz"
     },
     {
@@ -2068,6 +2039,21 @@
       "source": "GitHub",
       "stars": 244,
       "user": "nakagami"
+    },
+    {
+      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "url": "https://github.com/val1813/kaiwu",
+      "published_at": "2026-04-23T06:42:20Z",
+      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "val1813"
     }
   ]
 }
