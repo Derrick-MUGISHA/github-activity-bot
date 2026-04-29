@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![gemini](https://img.shields.io/badge/gemini-4-blue) 
 
 
 
@@ -125,13 +125,22 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-29 19:00 CAT)
+## 📅 Latest Updates (2026-04-29 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png" width="200" alt="Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox." />
+      <br/>
+      <b>Everyone's Talking About Gemini. The Real Story at...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png" width="200" alt="Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕" />
@@ -150,22 +159,13 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png" width="200" alt="How I used Gemini CLI to orchestrate a complex RAG migration" />
       <br/>
       <b>How I used Gemini CLI to orchestrate a complex RAG...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png" width="200" alt="Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox." />
-      <br/>
-      <b>Everyone's Talking About Gemini. The Real Story at...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,10 +195,10 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) _[Dev.to]_
 - [Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕](https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
 - [How I used Gemini CLI to orchestrate a complex RAG migration](https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga) _[Dev.to]_
-- [Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) _[Dev.to]_
 - [Why I'm Building SaaS in 2026](https://dev.to/arunkant/why-im-building-saas-in-2026-55hn) _[Dev.to]_
 - [Cold Starts Are Dead](https://dev.to/aws/cold-starts-are-dead-5fod) _[Dev.to]_
 - [My Incredible Google Cloud Next 26 Experience as a GDE](https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo) _[Dev.to]_
@@ -216,7 +216,7 @@ npm run test
 - [Google's Most Important NEXT '26 Announcement Wasn't Gemini 2.5 Ultra](https://dev.to/pooja_bhavani/googles-most-important-next-26-announcement-wasnt-gemini-25-ultra-27ff) _[Dev.to]_
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 
-_Last automated update: Wed, 29 Apr 2026 19:00:10 CAT_
+_Last automated update: Wed, 29 Apr 2026 20:18:55 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 29 Apr 2026 19:00:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 29 Apr 2026 17:00:10 GMT</b><br/>
+  <b>Last automated update: Wed, 29 Apr 2026 18:18:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
