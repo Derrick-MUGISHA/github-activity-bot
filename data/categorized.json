@@ -238,21 +238,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
-      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
-      "published_at": "2026-04-26T16:56:51Z",
-      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
-      "source": "Dev.to",
-      "user": "Tiago Nobrega"
-    },
-    {
       "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
       "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
       "published_at": "2026-04-27T17:06:51Z",
@@ -456,6 +441,21 @@
       "user": "Nikhil Sharma"
     },
     {
+      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
+      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
+      "published_at": "2026-04-26T16:56:51Z",
+      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
+      "source": "Dev.to",
+      "user": "Tiago Nobrega"
+    },
+    {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
       "published_at": "2026-04-16T15:38:54Z",
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 844,
       "user": "GammaLabTechnologies"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "future-agi"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 596,
       "user": "epoko77-ai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 523,
       "user": "alash3al"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 301,
       "user": "Kianmhz"
     },
     {
@@ -718,26 +718,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "val1813"
     }
   ],
   "JavaScript": [
-    {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "published_at": "2026-04-27T10:29:37Z",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
-      "tags": [
-        "reactnative",
-        "typescript",
-        "performance",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
-      "source": "Dev.to",
-      "user": "Neeraj Singh"
-    },
     {
       "title": "Codemod for ignoring lint errors",
       "url": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
@@ -752,6 +737,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fib11t51p9mm7fhe2ft2v.png",
       "source": "Dev.to",
       "user": "Isaac Lee"
+    },
+    {
+      "title": "How to Remove Console.log from React Native Production Builds",
+      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
+      "published_at": "2026-04-27T10:29:37Z",
+      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
+      "tags": [
+        "reactnative",
+        "typescript",
+        "performance",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
+      "source": "Dev.to",
+      "user": "Neeraj Singh"
     },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1283,
       "user": "openclaw"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "asdfgh1445"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 117,
       "user": "calendar0917"
     },
     {
@@ -1142,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1065,
       "user": "0x0funky"
     },
     {
@@ -1157,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 844,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "future-agi"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 596,
       "user": "epoko77-ai"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "NyxTides"
     }
   ],
@@ -1282,21 +1282,6 @@
   ],
   "Mobile": [
     {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "published_at": "2026-04-27T10:29:37Z",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
-      "tags": [
-        "reactnative",
-        "typescript",
-        "performance",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
-      "source": "Dev.to",
-      "user": "Neeraj Singh"
-    },
-    {
       "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
       "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
       "published_at": "2026-04-28T12:03:40Z",
@@ -1325,39 +1310,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tyl8l43glws679qnvdh.png",
       "source": "Dev.to",
       "user": "Pasha"
+    },
+    {
+      "title": "How to Remove Console.log from React Native Production Builds",
+      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
+      "published_at": "2026-04-27T10:29:37Z",
+      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
+      "tags": [
+        "reactnative",
+        "typescript",
+        "performance",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
+      "source": "Dev.to",
+      "user": "Neeraj Singh"
     }
   ],
   "Cloud": [
-    {
-      "title": "Are We Using AI at the Wrong Scale?",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "published_at": "2026-04-28T11:07:28Z",
-      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "tags": [
-        "ai",
-        "discuss",
-        "llm",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
-      "source": "Dev.to",
-      "user": "Kernel Pryanic"
-    },
-    {
-      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
-      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
-      "published_at": "2026-04-28T13:02:03Z",
-      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
-      "tags": [
-        "gemini",
-        "agents",
-        "programming",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
     {
       "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
       "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
@@ -1387,6 +1357,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Are We Using AI at the Wrong Scale?",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "published_at": "2026-04-28T11:07:28Z",
+      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
+      "source": "Dev.to",
+      "user": "Kernel Pryanic"
+    },
+    {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "How I'm running an autonomous Claude Code loop on a real shipped product",
@@ -1563,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1283,
       "user": "openclaw"
     },
     {
@@ -1578,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 523,
       "user": "alash3al"
     }
   ],
@@ -1842,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1283,
       "user": "openclaw"
     },
     {
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "asdfgh1445"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 117,
       "user": "calendar0917"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1065,
       "user": "0x0funky"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 844,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "future-agi"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 596,
       "user": "epoko77-ai"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 384,
       "user": "NyxTides"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 523,
       "user": "alash3al"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 433,
       "user": "NullLatency"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 301,
       "user": "Kianmhz"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/415278?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "nakagami"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "val1813"
     }
   ]
