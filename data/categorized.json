@@ -31,21 +31,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Automation is a trade-off",
-      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
-      "published_at": "2026-04-28T15:06:42Z",
-      "description": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
-      "tags": [
-        "ai",
-        "webdev",
-        "lowcode",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
-      "source": "Dev.to",
-      "user": "Sue Smith"
-    },
-    {
       "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
       "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
       "published_at": "2026-04-28T01:48:30Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Automation is a trade-off",
+      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
+      "published_at": "2026-04-28T15:06:42Z",
+      "description": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
+      "tags": [
+        "ai",
+        "webdev",
+        "lowcode",
+        "automation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
+      "source": "Dev.to",
+      "user": "Sue Smith"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -161,21 +161,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqs09flup7c8xft951ro5.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "I Taught Two AIs What Not to Say About Their Humans",
-      "url": "https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148",
-      "published_at": "2026-04-26T18:28:05Z",
-      "description": "This is a submission for the OpenClaw Challenge.  While brainstorming ideas for this hackathon and...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
     },
     {
       "title": "How to use AI to identify and fix security vulnerabilities in your codebase",
@@ -380,6 +365,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "I Taught Two AIs What Not to Say About Their Humans",
+      "url": "https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148",
+      "published_at": "2026-04-26T18:28:05Z",
+      "description": "This is a submission for the OpenClaw Challenge.  While brainstorming ideas for this hackathon and...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ix1e9xv8h47005s6fxt.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
     },
     {
       "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "levelsio"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 856,
       "user": "GammaLabTechnologies"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 714,
       "user": "future-agi"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 607,
       "user": "epoko77-ai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 527,
       "user": "alash3al"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 315,
       "user": "Kianmhz"
     },
     {
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1294,
       "user": "openclaw"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "levelsio"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "asdfgh1445"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 121,
       "user": "calendar0917"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 96,
       "user": "Parallax-Trading"
     }
   ],
@@ -1142,7 +1142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1079,
       "user": "0x0funky"
     },
     {
@@ -1157,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 856,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 714,
       "user": "future-agi"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 607,
       "user": "epoko77-ai"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 388,
       "user": "NyxTides"
     }
   ],
@@ -1329,21 +1329,6 @@
   ],
   "Cloud": [
     {
-      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
-      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
-      "published_at": "2026-04-28T13:40:53Z",
-      "description": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "gde",
-        "vegas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
       "published_at": "2026-04-28T19:54:21Z",
@@ -1387,6 +1372,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
+      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
+      "published_at": "2026-04-28T13:40:53Z",
+      "description": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "gde",
+        "vegas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "How I'm running an autonomous Claude Code loop on a real shipped product",
@@ -1563,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1294,
       "user": "openclaw"
     },
     {
@@ -1578,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 527,
       "user": "alash3al"
     }
   ],
@@ -1696,7 +1696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "levelsio"
     }
   ],
@@ -1842,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1294,
       "user": "openclaw"
     },
     {
@@ -1857,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 428,
       "user": "levelsio"
     },
     {
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "asdfgh1445"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 121,
       "user": "calendar0917"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40151926?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 96,
       "user": "Parallax-Trading"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1079,
       "user": "0x0funky"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 856,
       "user": "GammaLabTechnologies"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 714,
       "user": "future-agi"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 607,
       "user": "epoko77-ai"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 388,
       "user": "NyxTides"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 527,
       "user": "alash3al"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 435,
       "user": "NullLatency"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 315,
       "user": "Kianmhz"
     },
     {
