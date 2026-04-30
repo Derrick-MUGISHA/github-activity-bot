@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 53,
+    "AI": 52,
     "JavaScript": 19,
     "Python": 17,
     "DevOps": 2,
@@ -30,7 +30,7 @@
     "2026-04-30": 3,
     "2026-04-29": 8,
     "2026-04-27": 13,
-    "2026-04-26": 10,
+    "2026-04-26": 9,
     "2026-04-28": 10,
     "2026-04-25": 4,
     "2026-04-19": 3,
@@ -73,18 +73,18 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 25,
     "github": 15,
     "open-source": 15,
-    "devchallenge": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "googlecloud": 9,
+    "devchallenge": 9,
     "discuss": 8,
     "javascript": 8,
     "python": 7,
-    "programming": 6,
+    "programming": 5,
     "agents": 5,
     "cloudnextchallenge": 5,
     "go": 5,
