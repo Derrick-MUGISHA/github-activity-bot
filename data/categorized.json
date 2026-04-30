@@ -76,21 +76,6 @@
       "user": "arunkant"
     },
     {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -134,21 +119,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
       "title": "Cold Starts Are Dead",
       "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
       "published_at": "2026-04-29T03:09:17Z",
@@ -164,6 +134,21 @@
       "user": "Eric D Johnson"
     },
     {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
+      "published_at": "2026-04-27T02:00:10Z",
+      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
+      "source": "Dev.to",
+      "user": "Michael Larson"
+    },
+    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -177,6 +162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
+    },
+    {
+      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
+      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
+      "published_at": "2026-04-29T13:46:47Z",
+      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
+      "source": "Dev.to",
+      "user": "Sreejit"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -427,21 +427,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
-      "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
-      "published_at": "2026-04-26T16:56:51Z",
-      "description": "TLDR: AI is an abstraction for coding. And like all abstractions, it never replaces the need for the...",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9s2y3gwkt761bswt8wo4.png",
-      "source": "Dev.to",
-      "user": "Tiago Nobrega"
-    },
-    {
       "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
       "published_at": "2026-04-16T15:38:54Z",
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 298,
       "user": "sandeco"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "AIScientists-Dev"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1555,
+      "stars": 1586,
       "user": "theori-io"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 756,
       "user": "DanOps-1"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "epoko77-ai"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "alash3al"
     },
     {
@@ -734,11 +719,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 441,
       "user": "Kianmhz"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Mapbox GL JS adds support for PMTiles vector sources",
+      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b",
+      "published_at": "2026-04-30T16:15:47Z",
+      "description": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
+      "tags": [
+        "spatialdata",
+        "pmtiles",
+        "web",
+        "webmapping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
+      "source": "Dev.to",
+      "user": "Chris Whong"
+    },
     {
       "title": "Codemod for ignoring lint errors",
       "url": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 298,
       "user": "sandeco"
     },
     {
@@ -946,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "amirshaker000"
     },
     {
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "waybarrios"
     },
     {
@@ -991,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "AIScientists-Dev"
     }
   ],
@@ -1025,6 +1025,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png",
       "source": "Dev.to",
       "user": "John Samuel"
+    },
+    {
+      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
+      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
+      "published_at": "2026-04-27T08:45:25Z",
+      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
+      "tags": [
+        "machinelearning",
+        "pytorch",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png",
+      "source": "Dev.to",
+      "user": "Ahmed Elnaggar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1158,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1555,
+      "stars": 1586,
       "user": "theori-io"
     },
     {
@@ -1173,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 756,
       "user": "DanOps-1"
     },
     {
@@ -1188,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "epoko77-ai"
     },
     {
@@ -1307,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "waybarrios"
     }
   ],
@@ -1384,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "waybarrios"
     }
   ],
@@ -1403,21 +1418,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
       "source": "Dev.to",
       "user": "Grace Gong"
-    },
-    {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit"
     },
     {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
@@ -1463,6 +1463,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
       "source": "Dev.to",
       "user": "Eric D Johnson"
+    },
+    {
+      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
+      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
+      "published_at": "2026-04-29T13:46:47Z",
+      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
+      "source": "Dev.to",
+      "user": "Sreejit"
     },
     {
       "title": "Are We Using AI at the Wrong Scale?",
@@ -1625,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "alash3al"
     }
   ],
@@ -1713,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "waybarrios"
     }
   ],
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 298,
       "user": "sandeco"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "amirshaker000"
     },
     {
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "waybarrios"
     },
     {
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "AIScientists-Dev"
     },
     {
@@ -1949,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1555,
+      "stars": 1586,
       "user": "theori-io"
     },
     {
@@ -1964,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 756,
       "user": "DanOps-1"
     },
     {
@@ -1979,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "epoko77-ai"
     },
     {
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "alash3al"
     },
     {
@@ -2039,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 441,
       "user": "Kianmhz"
     },
     {
@@ -2054,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188978474?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "sartoopjj"
     },
     {
