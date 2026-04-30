@@ -46,36 +46,6 @@
       "user": "Grace Gong"
     },
     {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
-      "published_at": "2026-04-29T18:28:37Z",
-      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
-      "tags": [
-        "testing",
-        "e2e",
-        "playwright",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
-      "source": "Dev.to",
-      "user": "Debbie O'Brien"
-    },
-    {
-      "title": "Why I'm Building SaaS in 2026",
-      "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
-      "published_at": "2026-04-29T12:42:21Z",
-      "description": "In-house AI agents are seductive but fragile. Here's the case for using agents to explore and concrete workflows to ship",
-      "tags": [
-        "saas",
-        "ai",
-        "agents",
-        "workflows"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
-      "source": "Dev.to",
-      "user": "arunkant"
-    },
-    {
       "title": "MCP Configuration for Looker with Gemini CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
       "published_at": "2026-04-29T16:12:04Z",
@@ -119,6 +89,36 @@
       "user": "Rahmon Toyeeb"
     },
     {
+      "title": "Why I'm Building SaaS in 2026",
+      "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
+      "published_at": "2026-04-29T12:42:21Z",
+      "description": "In-house AI agents are seductive but fragile. Here's the case for using agents to explore and concrete workflows to ship",
+      "tags": [
+        "saas",
+        "ai",
+        "agents",
+        "workflows"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
+      "source": "Dev.to",
+      "user": "arunkant"
+    },
+    {
+      "title": "How I Used AI to Fix Our E2E Test Architecture",
+      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
+      "published_at": "2026-04-29T18:28:37Z",
+      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
+      "tags": [
+        "testing",
+        "e2e",
+        "playwright",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
+      "source": "Dev.to",
+      "user": "Debbie O'Brien"
+    },
+    {
       "title": "Cold Starts Are Dead",
       "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
       "published_at": "2026-04-29T03:09:17Z",
@@ -149,21 +149,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
       "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
       "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
       "published_at": "2026-04-29T13:46:47Z",
@@ -177,6 +162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
       "user": "Sreejit"
+    },
+    {
+      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
+      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
+      "published_at": "2026-04-25T02:52:00Z",
+      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
+      "tags": [
+        "ai",
+        "productivity",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
+      "source": "Dev.to",
+      "user": "Shadab Khan"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "sandeco"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1629,
       "user": "theori-io"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 762,
       "user": "DanOps-1"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 599,
       "user": "alash3al"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "Kianmhz"
     }
   ],
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "sandeco"
     },
     {
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "amirshaker000"
     },
     {
@@ -946,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "waybarrios"
     },
     {
@@ -1143,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1629,
       "user": "theori-io"
     },
     {
@@ -1158,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 762,
       "user": "DanOps-1"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "waybarrios"
     }
   ],
@@ -1369,26 +1369,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "waybarrios"
     }
   ],
   "Cloud": [
-    {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
-      "source": "Dev.to",
-      "user": "Grace Gong"
-    },
     {
       "title": "Agents are building their own UIs now. Here's when that's worth doing.",
       "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d",
@@ -1403,6 +1388,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frc7iifrmqjexv3nkumlc.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
+    },
+    {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
     },
     {
       "title": "Cold Starts Are Dead",
@@ -1610,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 599,
       "user": "alash3al"
     }
   ],
@@ -1698,7 +1698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "waybarrios"
     }
   ],
@@ -1719,21 +1719,6 @@
       "user": "Grace Gong"
     },
     {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
-      "published_at": "2026-04-29T18:28:37Z",
-      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
-      "tags": [
-        "testing",
-        "e2e",
-        "playwright",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
-      "source": "Dev.to",
-      "user": "Debbie O'Brien"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -1747,6 +1732,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "How I Used AI to Fix Our E2E Test Architecture",
+      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
+      "published_at": "2026-04-29T18:28:37Z",
+      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
+      "tags": [
+        "testing",
+        "e2e",
+        "playwright",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
+      "source": "Dev.to",
+      "user": "Debbie O'Brien"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "sandeco"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "amirshaker000"
     },
     {
@@ -1874,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "waybarrios"
     },
     {
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1615,
+      "stars": 1629,
       "user": "theori-io"
     },
     {
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 762,
       "user": "DanOps-1"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 599,
       "user": "alash3al"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "Kianmhz"
     },
     {
