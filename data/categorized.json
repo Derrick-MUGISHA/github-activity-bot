@@ -76,6 +76,21 @@
       "user": "arunkant"
     },
     {
+      "title": "MCP Configuration for Looker with Gemini CLI",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
+      "published_at": "2026-04-29T16:12:04Z",
+      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "tags": [
+        "lookml",
+        "skills",
+        "looker",
+        "businessintelligence"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -102,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
-      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
-      "published_at": "2026-04-28T13:02:03Z",
-      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
-      "tags": [
-        "gemini",
-        "agents",
-        "programming",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "Cold Starts Are Dead",
@@ -309,6 +309,21 @@
       "user": "xbill"
     },
     {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
       "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
       "published_at": "2026-04-27T06:55:28Z",
@@ -456,36 +471,6 @@
       "user": "Jono Herrington"
     },
     {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "The Age of Disposable Software",
-      "url": "https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj",
-      "published_at": "2026-04-27T23:28:34Z",
-      "description": "How AI code generation tools turned software into something I now build for a single use — sometimes for a few hours, sometimes for a morning.",
-      "tags": [
-        "ai",
-        "code",
-        "philosophy",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv66a5txzh17aqeabojc.png",
-      "source": "Dev.to",
-      "user": "Lautaro Rosales"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 304,
       "user": "sandeco"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "AIScientists-Dev"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1615,
       "user": "theori-io"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 758,
       "user": "DanOps-1"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "alash3al"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "Kianmhz"
     }
   ],
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 304,
       "user": "sandeco"
     },
     {
@@ -946,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 271,
       "user": "amirshaker000"
     },
     {
@@ -961,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "waybarrios"
     },
     {
@@ -991,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "AIScientists-Dev"
     }
   ],
@@ -1025,21 +1010,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png",
       "source": "Dev.to",
       "user": "John Samuel"
-    },
-    {
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
-      "published_at": "2026-04-27T08:45:25Z",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "tags": [
-        "machinelearning",
-        "pytorch",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png",
-      "source": "Dev.to",
-      "user": "Ahmed Elnaggar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1173,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1615,
       "user": "theori-io"
     },
     {
@@ -1188,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 758,
       "user": "DanOps-1"
     },
     {
@@ -1322,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "waybarrios"
     }
   ],
@@ -1399,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "waybarrios"
     }
   ],
@@ -1420,34 +1390,19 @@
       "user": "Grace Gong"
     },
     {
-      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
-      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
-      "published_at": "2026-04-28T19:54:21Z",
-      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
+      "title": "Agents are building their own UIs now. Here's when that's worth doing.",
+      "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d",
+      "published_at": "2026-04-29T21:02:06Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  During the developer keynote at...",
       "tags": [
-        "gemma",
-        "machinelearning",
+        "devchallenge",
         "googlecloud",
-        "cloudrun"
+        "cloudnextchallenge",
+        "genui"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frc7iifrmqjexv3nkumlc.png",
       "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
-      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
-      "published_at": "2026-04-28T13:02:03Z",
-      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
-      "tags": [
-        "gemini",
-        "agents",
-        "programming",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
+      "user": "Sireesha Pulipati"
     },
     {
       "title": "Cold Starts Are Dead",
@@ -1508,6 +1463,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
+      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
+      "published_at": "2026-04-28T19:54:21Z",
+      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
+      "tags": [
+        "gemma",
+        "machinelearning",
+        "googlecloud",
+        "cloudrun"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
+      "published_at": "2026-04-28T13:02:03Z",
+      "description": "Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...",
+      "tags": [
+        "gemini",
+        "agents",
+        "programming",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
@@ -1614,21 +1599,6 @@
       "user": "Eslam Genedy"
     },
     {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
       "url": "https://github.com/alash3al/stash",
       "published_at": "2026-04-24T22:05:12Z",
@@ -1640,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "alash3al"
     }
   ],
@@ -1728,7 +1698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "waybarrios"
     }
   ],
@@ -1863,21 +1833,6 @@
       "user": "Tiberiu Tofan"
     },
     {
-      "title": "The Age of Disposable Software",
-      "url": "https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj",
-      "published_at": "2026-04-27T23:28:34Z",
-      "description": "How AI code generation tools turned software into something I now build for a single use — sometimes for a few hours, sometimes for a morning.",
-      "tags": [
-        "ai",
-        "code",
-        "philosophy",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv66a5txzh17aqeabojc.png",
-      "source": "Dev.to",
-      "user": "Lautaro Rosales"
-    },
-    {
       "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
       "url": "https://github.com/sandeco/reversa",
       "published_at": "2026-04-26T13:47:10Z",
@@ -1889,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 304,
       "user": "sandeco"
     },
     {
@@ -1904,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 271,
       "user": "amirshaker000"
     },
     {
@@ -1919,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "waybarrios"
     },
     {
@@ -1949,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "AIScientists-Dev"
     },
     {
@@ -1964,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1615,
       "user": "theori-io"
     },
     {
@@ -1979,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 758,
       "user": "DanOps-1"
     },
     {
@@ -2039,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "alash3al"
     },
     {
@@ -2054,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "Kianmhz"
     },
     {
