@@ -6,13 +6,13 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 52,
+    "AI": 53,
     "JavaScript": 19,
     "Python": 17,
     "DevOps": 2,
     "WebDev": 4,
     "Mobile": 5,
-    "Cloud": 17,
+    "Cloud": 16,
     "Database": 1,
     "Security": 5,
     "Tools": 25
@@ -21,17 +21,17 @@
     "Kotlin": 2,
     "Go": 24,
     "Rust": 1,
-    "Java": 19,
     "Python": 17,
     "JavaScript": 19,
+    "Java": 19,
     "Swift": 1
   },
   "by_date": {
-    "2026-04-30": 2,
+    "2026-04-30": 3,
     "2026-04-29": 8,
     "2026-04-27": 13,
     "2026-04-26": 10,
-    "2026-04-28": 11,
+    "2026-04-28": 10,
     "2026-04-25": 4,
     "2026-04-19": 3,
     "2026-04-22": 3,
@@ -73,7 +73,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 26,
     "github": 15,
     "open-source": 15,
     "devchallenge": 10,
@@ -85,23 +85,23 @@
     "javascript": 8,
     "python": 7,
     "programming": 6,
+    "agents": 5,
     "cloudnextchallenge": 5,
     "go": 5,
-    "agents": 4,
     "opensource": 4,
     "architecture": 4,
     "aws": 4,
-    "webdev": 4,
-    "vibecoding": 3
+    "tpu": 3,
+    "leadership": 3
   },
   "trending_topics": [],
   "language_percentages": {
     "Kotlin": "2.4",
     "Go": "28.9",
     "Rust": "1.2",
-    "Java": "22.9",
     "Python": "20.5",
     "JavaScript": "22.9",
+    "Java": "22.9",
     "Swift": "1.2"
   }
 }
