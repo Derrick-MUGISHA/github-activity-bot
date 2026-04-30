@@ -61,6 +61,21 @@
       "user": "Sreejit"
     },
     {
+      "title": "Are We Using AI at the Wrong Scale?",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "published_at": "2026-04-28T11:07:28Z",
+      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
+      "source": "Dev.to",
+      "user": "Kernel Pryanic"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -87,21 +102,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "Are We Using AI at the Wrong Scale?",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "published_at": "2026-04-28T11:07:28Z",
-      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "tags": [
-        "ai",
-        "discuss",
-        "llm",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
-      "source": "Dev.to",
-      "user": "Kernel Pryanic"
     },
     {
       "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
@@ -384,21 +384,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
-      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
-      "published_at": "2026-04-24T14:41:58Z",
-      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "devchallenge",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
       "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
       "published_at": "2026-04-27T17:06:51Z",
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 189,
       "user": "sandeco"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 103,
       "user": "AIScientists-Dev"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1138,
       "user": "theori-io"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "epoko77-ai"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 586,
       "user": "DanOps-1"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 578,
       "user": "alash3al"
     },
     {
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 404,
       "user": "Kianmhz"
     }
   ],
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 203,
       "user": "amirshaker000"
     },
     {
@@ -946,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 189,
       "user": "sandeco"
     },
     {
@@ -961,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 137,
       "user": "calendar0917"
     },
     {
@@ -976,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "waybarrios"
     },
     {
@@ -991,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 103,
       "user": "AIScientists-Dev"
     }
   ],
@@ -1025,6 +1010,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png",
       "source": "Dev.to",
       "user": "John Samuel"
+    },
+    {
+      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
+      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
+      "published_at": "2026-04-27T08:45:25Z",
+      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
+      "tags": [
+        "machinelearning",
+        "pytorch",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png",
+      "source": "Dev.to",
+      "user": "Ahmed Elnaggar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1158,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1138,
       "user": "theori-io"
     },
     {
@@ -1173,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "epoko77-ai"
     },
     {
@@ -1188,23 +1188,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 586,
       "user": "DanOps-1"
-    },
-    {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 460,
-      "user": "NyxTides"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -1218,8 +1203,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 468,
       "user": "Fokkyp"
+    },
+    {
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 463,
+      "user": "NyxTides"
     }
   ],
   "DevOps": [
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "waybarrios"
     }
   ],
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "waybarrios"
     }
   ],
@@ -1540,21 +1540,6 @@
       "user": "Sonika Janagill"
     },
     {
-      "title": "Watch the Google Cloud NEXT '26 Sessions and Enter the Writing Challenge. There's $1,000 on the Line!",
-      "url": "https://dev.to/devteam/watch-the-google-cloud-next-26-sessions-and-enter-the-writing-challenge-theres-1000-on-the-3cg8",
-      "published_at": "2026-04-24T14:41:58Z",
-      "description": "Google Cloud NEXT '26 may have wrapped, but the sessions are all available to watch and our writing...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "devchallenge",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
       "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
       "published_at": "2026-04-22T14:09:18Z",
@@ -1625,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 578,
       "user": "alash3al"
     }
   ],
@@ -1713,7 +1698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "waybarrios"
     }
   ],
@@ -1859,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 203,
       "user": "amirshaker000"
     },
     {
@@ -1874,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 189,
       "user": "sandeco"
     },
     {
@@ -1889,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 137,
       "user": "calendar0917"
     },
     {
@@ -1904,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "waybarrios"
     },
     {
@@ -1919,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 103,
       "user": "AIScientists-Dev"
     },
     {
@@ -1934,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1138,
       "user": "theori-io"
     },
     {
@@ -1949,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "epoko77-ai"
     },
     {
@@ -1964,23 +1949,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 586,
       "user": "DanOps-1"
-    },
-    {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 460,
-      "user": "NyxTides"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -1994,8 +1964,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 468,
       "user": "Fokkyp"
+    },
+    {
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 463,
+      "user": "NyxTides"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -2009,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 578,
       "user": "alash3al"
     },
     {
@@ -2024,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 404,
       "user": "Kianmhz"
     },
     {
