@@ -16,6 +16,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
+    },
+    {
       "title": "How I Used AI to Fix Our E2E Test Architecture",
       "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
       "published_at": "2026-04-29T18:28:37Z",
@@ -59,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
       "user": "Sreejit"
-    },
-    {
-      "title": "Are We Using AI at the Wrong Scale?",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "published_at": "2026-04-28T11:07:28Z",
-      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "tags": [
-        "ai",
-        "discuss",
-        "llm",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
-      "source": "Dev.to",
-      "user": "Kernel Pryanic"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -192,6 +192,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
       "source": "Dev.to",
       "user": "Simme"
+    },
+    {
+      "title": "Are We Using AI at the Wrong Scale?",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "published_at": "2026-04-28T11:07:28Z",
+      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
+      "source": "Dev.to",
+      "user": "Kernel Pryanic"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -629,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 247,
       "user": "sandeco"
     },
     {
@@ -659,23 +674,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1373,
       "user": "theori-io"
-    },
-    {
-      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "published_at": "2026-04-24T12:48:40Z",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
-      "source": "GitHub",
-      "stars": 659,
-      "user": "epoko77-ai"
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
@@ -689,8 +689,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 691,
       "user": "DanOps-1"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 664,
+      "user": "epoko77-ai"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -704,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 582,
       "user": "alash3al"
     },
     {
@@ -719,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 421,
       "user": "Kianmhz"
     }
   ],
@@ -783,21 +798,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo12f0f8yeemqlo2n6grf.png",
       "source": "Dev.to",
       "user": "Shudhanshu Raj"
-    },
-    {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
-      "tags": [
-        "webdev",
-        "programming",
-        "javascript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -920,21 +920,6 @@
       "user": "velmu"
     },
     {
-      "title": "amirshaker000/netlify-relay - GitHub Repository",
-      "url": "https://github.com/amirshaker000/netlify-relay",
-      "published_at": "2026-04-29T03:30:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
-      "source": "GitHub",
-      "stars": 226,
-      "user": "amirshaker000"
-    },
-    {
       "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
       "url": "https://github.com/sandeco/reversa",
       "published_at": "2026-04-26T13:47:10Z",
@@ -946,8 +931,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 247,
       "user": "sandeco"
+    },
+    {
+      "title": "amirshaker000/netlify-relay - GitHub Repository",
+      "url": "https://github.com/amirshaker000/netlify-relay",
+      "published_at": "2026-04-29T03:30:34Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
+      "source": "GitHub",
+      "stars": 240,
+      "user": "amirshaker000"
     },
     {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 146,
       "user": "waybarrios"
     },
     {
@@ -976,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "calendar0917"
     },
     {
@@ -1025,21 +1025,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14lcvh1kvl58m7z8l2pj.png",
       "source": "Dev.to",
       "user": "John Samuel"
-    },
-    {
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
-      "published_at": "2026-04-27T08:45:25Z",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "tags": [
-        "machinelearning",
-        "pytorch",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png",
-      "source": "Dev.to",
-      "user": "Ahmed Elnaggar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1173,23 +1158,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1373,
       "user": "theori-io"
-    },
-    {
-      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "published_at": "2026-04-24T12:48:40Z",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
-      "source": "GitHub",
-      "stars": 659,
-      "user": "epoko77-ai"
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
@@ -1203,8 +1173,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 691,
       "user": "DanOps-1"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 664,
+      "user": "epoko77-ai"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -1218,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 482,
       "user": "Fokkyp"
     },
     {
@@ -1233,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "NyxTides"
     }
   ],
@@ -1322,11 +1307,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 146,
       "user": "waybarrios"
     }
   ],
   "Mobile": [
+    {
+      "title": "More Accessible Focus Indicators with Compose",
+      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
+      "published_at": "2026-04-30T11:22:00Z",
+      "description": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
+      "tags": [
+        "android",
+        "a11y",
+        "mobile",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png",
+      "source": "Dev.to",
+      "user": "Eevis"
+    },
     {
       "title": "Forking Paseo: Mobile vibe coding for me",
       "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
@@ -1384,11 +1384,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 146,
       "user": "waybarrios"
     }
   ],
   "Cloud": [
+    {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
+    },
     {
       "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
       "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
@@ -1403,21 +1418,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
       "user": "Sreejit"
-    },
-    {
-      "title": "Are We Using AI at the Wrong Scale?",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "published_at": "2026-04-28T11:07:28Z",
-      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
-      "tags": [
-        "ai",
-        "discuss",
-        "llm",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
-      "source": "Dev.to",
-      "user": "Kernel Pryanic"
     },
     {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
@@ -1478,6 +1478,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Are We Using AI at the Wrong Scale?",
+      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
+      "published_at": "2026-04-28T11:07:28Z",
+      "description": "We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm",
+        "software"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7c46qvwbprf4mm9cc185.png",
+      "source": "Dev.to",
+      "user": "Kernel Pryanic"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1625,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 582,
       "user": "alash3al"
     }
   ],
@@ -1713,11 +1728,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 146,
       "user": "waybarrios"
     }
   ],
   "Tools": [
+    {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
+    },
     {
       "title": "How I Used AI to Fix Our E2E Test Architecture",
       "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
@@ -1848,19 +1878,19 @@
       "user": "David Cantrell"
     },
     {
-      "title": "I built an API in C, couldn't document it, so I accidentally created an open-source tool",
-      "url": "https://dev.to/devgirl_/i-built-an-api-in-c-couldnt-document-it-so-i-accidentally-created-an-open-source-tool-5cgn",
-      "published_at": "2026-04-19T13:59:58Z",
-      "description": "It started with C and suffering   A while back I built an API in C. Yes, C — I am weird, I...",
+      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
+      "url": "https://github.com/sandeco/reversa",
+      "published_at": "2026-04-26T13:47:10Z",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
       "tags": [
-        "webdev",
-        "programming",
         "javascript",
-        "opensource"
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yhs6k6kilb83oczs2w2.png",
-      "source": "Dev.to",
-      "user": "Laura Durieux"
+      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "sandeco"
     },
     {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
@@ -1874,23 +1904,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 240,
       "user": "amirshaker000"
-    },
-    {
-      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
-      "url": "https://github.com/sandeco/reversa",
-      "published_at": "2026-04-26T13:47:10Z",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "sandeco"
     },
     {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 146,
       "user": "waybarrios"
     },
     {
@@ -1919,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "calendar0917"
     },
     {
@@ -1949,23 +1964,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1373,
       "user": "theori-io"
-    },
-    {
-      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "published_at": "2026-04-24T12:48:40Z",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
-      "source": "GitHub",
-      "stars": 659,
-      "user": "epoko77-ai"
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
@@ -1979,8 +1979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 691,
       "user": "DanOps-1"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 664,
+      "user": "epoko77-ai"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -1994,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 482,
       "user": "Fokkyp"
     },
     {
@@ -2009,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 464,
       "user": "NyxTides"
     },
     {
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 582,
       "user": "alash3al"
     },
     {
@@ -2039,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 421,
       "user": "Kianmhz"
     },
     {
@@ -2054,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188978474?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 139,
       "user": "sartoopjj"
     },
     {
