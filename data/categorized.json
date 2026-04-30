@@ -604,49 +604,34 @@
       "user": "veesahni"
     },
     {
-      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "url": "https://github.com/levelsio/superlevels",
-      "published_at": "2026-04-23T12:06:46Z",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
+      "url": "https://github.com/sandeco/reversa",
+      "published_at": "2026-04-26T13:47:10Z",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 436,
-      "user": "levelsio"
+      "stars": 116,
+      "user": "sandeco"
     },
     {
-      "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "published_at": "2026-04-23T05:42:29Z",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "title": "hypersocialinc/shots - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "url": "https://github.com/hypersocialinc/shots",
+      "published_at": "2026-04-25T01:00:58Z",
+      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/175360614?v=4",
       "source": "GitHub",
-      "stars": 894,
-      "user": "GammaLabTechnologies"
-    },
-    {
-      "title": "future-agi/future-agi - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "url": "https://github.com/future-agi/future-agi",
-      "published_at": "2026-04-23T14:11:31Z",
-      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
-      "source": "GitHub",
-      "stars": 746,
-      "user": "future-agi"
+      "stars": 98,
+      "user": "hypersocialinc"
     },
     {
       "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
@@ -660,8 +645,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 637,
       "user": "epoko77-ai"
+    },
+    {
+      "title": "DanOps-1/gpt-pp-team - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "url": "https://github.com/DanOps-1/gpt-pp-team",
+      "published_at": "2026-04-27T03:48:28Z",
+      "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "DanOps-1"
+    },
+    {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "denuitt1"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -690,23 +705,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "Kianmhz"
-    },
-    {
-      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
-      "url": "https://github.com/val1813/kaiwu",
-      "published_at": "2026-04-23T06:42:20Z",
-      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "val1813"
     }
   ],
   "JavaScript": [
@@ -891,36 +891,6 @@
       "user": "velmu"
     },
     {
-      "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "url": "https://github.com/openclaw/clawsweeper",
-      "published_at": "2026-04-23T22:14:49Z",
-      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 1338,
-      "user": "openclaw"
-    },
-    {
-      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "url": "https://github.com/levelsio/superlevels",
-      "published_at": "2026-04-23T12:06:46Z",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "levelsio"
-    },
-    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -932,23 +902,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "amirshaker000"
-    },
-    {
-      "title": "asdfgh1445/ctf-super-hub -  面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
-      "url": "https://github.com/asdfgh1445/ctf-super-hub",
-      "published_at": "2026-04-23T15:24:35Z",
-      "description": " 面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "asdfgh1445"
     },
     {
       "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
@@ -964,6 +919,51 @@
       "source": "GitHub",
       "stars": 121,
       "user": "calendar0917"
+    },
+    {
+      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
+      "url": "https://github.com/sandeco/reversa",
+      "published_at": "2026-04-26T13:47:10Z",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "sandeco"
+    },
+    {
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "waybarrios"
+    },
+    {
+      "title": "hypersocialinc/shots - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "url": "https://github.com/hypersocialinc/shots",
+      "published_at": "2026-04-25T01:00:58Z",
+      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/175360614?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "hypersocialinc"
     }
   ],
   "Python": [
@@ -1133,51 +1133,6 @@
       "user": "gilad"
     },
     {
-      "title": "0x0funky/agent-sprite-forge - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "url": "https://github.com/0x0funky/agent-sprite-forge",
-      "published_at": "2026-04-23T20:52:52Z",
-      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
-      "source": "GitHub",
-      "stars": 1218,
-      "user": "0x0funky"
-    },
-    {
-      "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "published_at": "2026-04-23T05:42:29Z",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
-      "source": "GitHub",
-      "stars": 894,
-      "user": "GammaLabTechnologies"
-    },
-    {
-      "title": "future-agi/future-agi - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "url": "https://github.com/future-agi/future-agi",
-      "published_at": "2026-04-23T14:11:31Z",
-      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
-      "source": "GitHub",
-      "stars": 746,
-      "user": "future-agi"
-    },
-    {
       "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "published_at": "2026-04-24T12:48:40Z",
@@ -1189,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 637,
       "user": "epoko77-ai"
     },
     {
@@ -1204,8 +1159,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "NyxTides"
+    },
+    {
+      "title": "DanOps-1/gpt-pp-team - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "url": "https://github.com/DanOps-1/gpt-pp-team",
+      "published_at": "2026-04-27T03:48:28Z",
+      "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "DanOps-1"
+    },
+    {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "denuitt1"
+    },
+    {
+      "title": "QwenLM/FlashQLA - high-performance linear attention kernel library built on TileLang",
+      "url": "https://github.com/QwenLM/FlashQLA",
+      "published_at": "2026-04-24T09:18:05Z",
+      "description": "high-performance linear attention kernel library built on TileLang",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
+      "source": "GitHub",
+      "stars": 273,
+      "user": "QwenLM"
     }
   ],
   "DevOps": [
@@ -1280,6 +1280,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "waybarrios"
     }
   ],
   "Mobile": [
@@ -1327,6 +1342,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
+    },
+    {
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "waybarrios"
     }
   ],
   "Cloud": [
@@ -1570,19 +1600,19 @@
       "user": "Eslam Genedy"
     },
     {
-      "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "url": "https://github.com/openclaw/clawsweeper",
-      "published_at": "2026-04-23T22:14:49Z",
-      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1338,
-      "user": "openclaw"
+      "stars": 292,
+      "user": "denuitt1"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -1673,19 +1703,19 @@
       "user": "iancarroll"
     },
     {
-      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "url": "https://github.com/levelsio/superlevels",
-      "published_at": "2026-04-23T12:06:46Z",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 436,
-      "user": "levelsio"
+      "stars": 113,
+      "user": "waybarrios"
     }
   ],
   "Tools": [
@@ -1819,36 +1849,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "url": "https://github.com/openclaw/clawsweeper",
-      "published_at": "2026-04-23T22:14:49Z",
-      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 1338,
-      "user": "openclaw"
-    },
-    {
-      "title": "levelsio/superlevels - A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "url": "https://github.com/levelsio/superlevels",
-      "published_at": "2026-04-23T12:06:46Z",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7150848?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "levelsio"
-    },
-    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -1860,23 +1860,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "amirshaker000"
-    },
-    {
-      "title": "asdfgh1445/ctf-super-hub -  面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
-      "url": "https://github.com/asdfgh1445/ctf-super-hub",
-      "published_at": "2026-04-23T15:24:35Z",
-      "description": " 面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/101942781?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "asdfgh1445"
     },
     {
       "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
@@ -1894,49 +1879,49 @@
       "user": "calendar0917"
     },
     {
-      "title": "0x0funky/agent-sprite-forge - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "url": "https://github.com/0x0funky/agent-sprite-forge",
-      "published_at": "2026-04-23T20:52:52Z",
-      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
+      "url": "https://github.com/sandeco/reversa",
+      "published_at": "2026-04-26T13:47:10Z",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148287731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 1218,
-      "user": "0x0funky"
+      "stars": 116,
+      "user": "sandeco"
     },
     {
-      "title": "GammaLabTechnologies/harmonist - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "published_at": "2026-04-23T05:42:29Z",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278484961?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 894,
-      "user": "GammaLabTechnologies"
+      "stars": 113,
+      "user": "waybarrios"
     },
     {
-      "title": "future-agi/future-agi - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "url": "https://github.com/future-agi/future-agi",
-      "published_at": "2026-04-23T14:11:31Z",
-      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "title": "hypersocialinc/shots - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "url": "https://github.com/hypersocialinc/shots",
+      "published_at": "2026-04-25T01:00:58Z",
+      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147392366?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/175360614?v=4",
       "source": "GitHub",
-      "stars": 746,
-      "user": "future-agi"
+      "stars": 98,
+      "user": "hypersocialinc"
     },
     {
       "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
@@ -1950,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 637,
       "user": "epoko77-ai"
     },
     {
@@ -1965,8 +1950,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "NyxTides"
+    },
+    {
+      "title": "DanOps-1/gpt-pp-team - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "url": "https://github.com/DanOps-1/gpt-pp-team",
+      "published_at": "2026-04-27T03:48:28Z",
+      "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "DanOps-1"
+    },
+    {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 292,
+      "user": "denuitt1"
+    },
+    {
+      "title": "QwenLM/FlashQLA - high-performance linear attention kernel library built on TileLang",
+      "url": "https://github.com/QwenLM/FlashQLA",
+      "published_at": "2026-04-24T09:18:05Z",
+      "description": "high-performance linear attention kernel library built on TileLang",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
+      "source": "GitHub",
+      "stars": 273,
+      "user": "QwenLM"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -1984,21 +2014,6 @@
       "user": "alash3al"
     },
     {
-      "title": "NullLatency/FlowDriver - Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-      "url": "https://github.com/NullLatency/FlowDriver",
-      "published_at": "2026-04-23T21:44:12Z",
-      "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278809786?v=4",
-      "source": "GitHub",
-      "stars": 419,
-      "user": "NullLatency"
-    },
-    {
       "title": "Kianmhz/GooseRelayVPN - Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
       "url": "https://github.com/Kianmhz/GooseRelayVPN",
       "published_at": "2026-04-26T05:17:43Z",
@@ -2010,23 +2025,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "Kianmhz"
-    },
-    {
-      "title": "val1813/kaiwu - 本地开源模型部署器，一键部署，支持各类系统，主流模型。",
-      "url": "https://github.com/val1813/kaiwu",
-      "published_at": "2026-04-23T06:42:20Z",
-      "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "val1813"
     },
     {
       "title": "sartoopjj/vpn-over-github - Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)",
@@ -2042,6 +2042,36 @@
       "source": "GitHub",
       "stars": 137,
       "user": "sartoopjj"
+    },
+    {
+      "title": "steipete/wacrawl - 🧾 WhatsApp archaeology with encrypted receipts",
+      "url": "https://github.com/steipete/wacrawl",
+      "published_at": "2026-04-25T21:27:10Z",
+      "description": "🧾 WhatsApp archaeology with encrypted receipts",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58493?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "steipete"
+    },
+    {
+      "title": "openyuanrong-project/yuanrong - openyuanrong project",
+      "url": "https://github.com/openyuanrong-project/yuanrong",
+      "published_at": "2026-04-26T10:00:24Z",
+      "description": "openyuanrong project",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279431554?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "openyuanrong-project"
     }
   ]
 }

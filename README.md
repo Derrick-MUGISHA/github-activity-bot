@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-29-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-04-30-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -40,9 +40,9 @@
 
 **Security**: 🟦🟦 5 (4.9%)
 
-**WebDev**: 🟦 3 (2.9%)
+**WebDev**: 🟦🟦 4 (3.9%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦🟦 4 (3.9%)
 
 **DevOps**: 🟦 2 (1.9%)
 
@@ -60,25 +60,25 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.9 (28.9%)
-Java            ████████████████████████ 22.9 (22.9%)
-JavaScript      ████████████████████████ 22.9 (22.9%)
-Python          ███████████████████████ 21.7 (21.7%)
+Go              ██████████████████████████████ 30.6 (30.6%)
+Java            ██████████████████████ 22.4 (22.4%)
+JavaScript      ██████████████████████ 22.4 (22.4%)
+Python          █████████████████████ 21.2 (21.2%)
 Kotlin          █ 1.2 (1.2%)
 Rust            █ 1.2 (1.2%)
-Ruby            █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 24
+    "Go" : 26
     "Java" : 19
     "JavaScript" : 19
     "Python" : 18
     "Kotlin" : 1
     "Rust" : 1
-    "Ruby" : 1
+    "Swift" : 1
 ```
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-30 1:00 CAT)
+## 📅 Latest Updates (2026-04-30 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 
-_Last automated update: Thu, 30 Apr 2026 01:10:56 CAT_
+_Last automated update: Thu, 30 Apr 2026 02:07:38 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Thu, 30 Apr 2026 01:10:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 29 Apr 2026 23:10:56 GMT</b><br/>
+  <b>Last automated update: Thu, 30 Apr 2026 00:07:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
