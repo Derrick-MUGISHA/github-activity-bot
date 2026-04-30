@@ -194,20 +194,6 @@
       "user": "Simme"
     },
     {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "published_at": "2026-04-27T17:06:51Z",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "tags": [
-        "ai",
-        "programming",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
-    },
-    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -411,6 +397,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00r5dg57okq8meord1xe.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
+      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
+      "published_at": "2026-04-27T17:06:51Z",
+      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
+      "tags": [
+        "ai",
+        "programming",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
     },
     {
       "title": "Claude and I aren't vibing at all",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 182,
       "user": "sandeco"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "AIScientists-Dev"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 1004,
       "user": "theori-io"
     },
     {
@@ -689,14 +689,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "epoko77-ai"
     },
     {
-      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "published_at": "2026-04-27T03:48:28Z",
-      "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "tags": [
         "python",
         "github",
@@ -704,23 +704,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 524,
       "user": "DanOps-1"
-    },
-    {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "denuitt1"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "alash3al"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "Kianmhz"
     }
   ],
@@ -803,7 +788,7 @@
       "title": "I Spent Six Months Chasing Core Web Vitals. Here’s What Actually Moved the Needle.",
       "url": "https://dev.to/shudhanshuraj/i-spent-six-months-chasing-core-web-vitals-heres-what-actually-moved-the-needle-2ofd",
       "published_at": "2026-04-28T04:30:00Z",
-      "description": "I Spent Six Months Chasing Core Web Vitals. Here's What Actually Moved the Needle.   A field...",
+      "description": "A field guide to LCP, INP, and CLS that skips the theory and gets to what breaks in...",
       "tags": [
         "webdev",
         "performance",
@@ -946,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "amirshaker000"
     },
     {
@@ -961,23 +946,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 182,
       "user": "sandeco"
-    },
-    {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "waybarrios"
     },
     {
       "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
@@ -991,8 +961,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 133,
       "user": "calendar0917"
+    },
+    {
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "waybarrios"
     },
     {
       "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
@@ -1006,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "AIScientists-Dev"
     }
   ],
@@ -1173,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 1004,
       "user": "theori-io"
     },
     {
@@ -1188,14 +1173,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "epoko77-ai"
     },
     {
-      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "published_at": "2026-04-27T03:48:28Z",
-      "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "tags": [
         "python",
         "github",
@@ -1203,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 524,
       "user": "DanOps-1"
     },
     {
@@ -1218,23 +1203,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 460,
       "user": "NyxTides"
     },
     {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "published_at": "2026-04-29T10:07:08Z",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 318,
-      "user": "denuitt1"
+      "stars": 437,
+      "user": "Fokkyp"
     }
   ],
   "DevOps": [
@@ -1322,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 132,
       "user": "waybarrios"
     }
   ],
@@ -1384,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 132,
       "user": "waybarrios"
     }
   ],
@@ -1629,21 +1614,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "denuitt1"
-    },
-    {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
       "url": "https://github.com/alash3al/stash",
       "published_at": "2026-04-24T22:05:12Z",
@@ -1655,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "alash3al"
     }
   ],
@@ -1743,7 +1713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 132,
       "user": "waybarrios"
     }
   ],
@@ -1809,20 +1779,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
-      "published_at": "2026-04-27T17:06:51Z",
-      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
-      "tags": [
-        "ai",
-        "programming",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
-      "source": "Dev.to",
-      "user": "David Cantrell"
-    },
-    {
       "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
       "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
       "published_at": "2026-04-28T12:03:40Z",
@@ -1878,6 +1834,20 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
+      "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
+      "published_at": "2026-04-27T17:06:51Z",
+      "description": "I spent some time this weekend noodling around with Github Copilot, using the copilot-cli tool.  A...",
+      "tags": [
+        "ai",
+        "programming",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
+      "source": "Dev.to",
+      "user": "David Cantrell"
+    },
+    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -1889,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "amirshaker000"
     },
     {
@@ -1904,23 +1874,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 182,
       "user": "sandeco"
-    },
-    {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "waybarrios"
     },
     {
       "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
@@ -1934,8 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 133,
       "user": "calendar0917"
+    },
+    {
+      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "url": "https://github.com/waybarrios/opencode-power-pack",
+      "published_at": "2026-04-26T17:13:11Z",
+      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "waybarrios"
     },
     {
       "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
@@ -1949,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "AIScientists-Dev"
     },
     {
@@ -1964,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 1004,
       "user": "theori-io"
     },
     {
@@ -1979,14 +1949,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "epoko77-ai"
     },
     {
-      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "published_at": "2026-04-27T03:48:28Z",
-      "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "tags": [
         "python",
         "github",
@@ -1994,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 524,
       "user": "DanOps-1"
     },
     {
@@ -2009,23 +1979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 460,
       "user": "NyxTides"
     },
     {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "published_at": "2026-04-29T10:07:08Z",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 318,
-      "user": "denuitt1"
+      "stars": 437,
+      "user": "Fokkyp"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -2039,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "alash3al"
     },
     {
@@ -2054,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "Kianmhz"
     },
     {
@@ -2069,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188978474?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 136,
       "user": "sartoopjj"
     },
     {
