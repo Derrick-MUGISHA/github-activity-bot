@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-01 0:00 CAT)
+## 📅 Latest Updates (2026-05-01 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 
-_Last automated update: Fri, 01 May 2026 00:51:23 CAT_
+_Last automated update: Fri, 01 May 2026 01:50:05 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Fri, 01 May 2026 00:51:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Mutability, performance, use cases
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 30 Apr 2026 22:51:23 GMT</b><br/>
+  <b>Last automated update: Thu, 30 Apr 2026 23:50:06 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
