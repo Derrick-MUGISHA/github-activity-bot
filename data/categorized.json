@@ -31,21 +31,6 @@
       "user": "Debbie O'Brien"
     },
     {
-      "title": "Cold Starts Are Dead",
-      "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
-      "published_at": "2026-04-29T03:09:17Z",
-      "description": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
-      "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "coldstarts"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
-      "source": "Dev.to",
-      "user": "Eric D Johnson"
-    },
-    {
       "title": "Why I'm Building SaaS in 2026",
       "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
       "published_at": "2026-04-29T12:42:21Z",
@@ -149,6 +134,21 @@
       "user": "Michael Larson"
     },
     {
+      "title": "Cold Starts Are Dead",
+      "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
+      "published_at": "2026-04-29T03:09:17Z",
+      "description": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "coldstarts"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
+    },
+    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -206,21 +206,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
       "source": "Dev.to",
       "user": "David Cantrell"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -442,6 +427,21 @@
       "user": "Nikhil Sharma"
     },
     {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "The Untold issues with AI job-takeover theory ( chapter 1)",
       "url": "https://dev.to/tiagobnobrega/the-untold-issues-with-ai-job-takeover-theory-chapter-1-g9h",
       "published_at": "2026-04-26T16:56:51Z",
@@ -644,38 +644,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 178,
       "user": "sandeco"
     },
     {
-      "title": "hypersocialinc/shots - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
-      "url": "https://github.com/hypersocialinc/shots",
-      "published_at": "2026-04-25T01:00:58Z",
-      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "url": "https://github.com/AIScientists-Dev/loupe",
+      "published_at": "2026-04-27T03:11:06Z",
+      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175360614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "hypersocialinc"
-    },
-    {
-      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "published_at": "2026-04-24T12:48:40Z",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "epoko77-ai"
+      "stars": 103,
+      "user": "AIScientists-Dev"
     },
     {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
@@ -689,8 +674,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 794,
       "user": "theori-io"
+    },
+    {
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "source": "GitHub",
+      "stars": 655,
+      "user": "epoko77-ai"
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
@@ -704,8 +704,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 457,
       "user": "DanOps-1"
+    },
+    {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "denuitt1"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -719,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 569,
       "user": "alash3al"
     },
     {
@@ -734,26 +749,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 393,
       "user": "Kianmhz"
     }
   ],
   "JavaScript": [
-    {
-      "title": "I Spent Six Months Chasing Core Web Vitals. Here’s What Actually Moved the Needle.",
-      "url": "https://dev.to/shudhanshuraj/i-spent-six-months-chasing-core-web-vitals-heres-what-actually-moved-the-needle-2ofd",
-      "published_at": "2026-04-28T04:30:00Z",
-      "description": "I Spent Six Months Chasing Core Web Vitals. Here's What Actually Moved the Needle.   A field...",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo12f0f8yeemqlo2n6grf.png",
-      "source": "Dev.to",
-      "user": "Shudhanshu Raj"
-    },
     {
       "title": "Codemod for ignoring lint errors",
       "url": "https://dev.to/ijlee2/codemod-for-ignoring-lint-errors-2j3g",
@@ -798,6 +798,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
+    },
+    {
+      "title": "I Spent Six Months Chasing Core Web Vitals. Here’s What Actually Moved the Needle.",
+      "url": "https://dev.to/shudhanshuraj/i-spent-six-months-chasing-core-web-vitals-heres-what-actually-moved-the-needle-2ofd",
+      "published_at": "2026-04-28T04:30:00Z",
+      "description": "I Spent Six Months Chasing Core Web Vitals. Here's What Actually Moved the Needle.   A field...",
+      "tags": [
+        "webdev",
+        "performance",
+        "javascript",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo12f0f8yeemqlo2n6grf.png",
+      "source": "Dev.to",
+      "user": "Shudhanshu Raj"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -931,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 197,
       "user": "amirshaker000"
     },
     {
@@ -946,23 +961,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 178,
       "user": "sandeco"
-    },
-    {
-      "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
-      "url": "https://github.com/calendar0917/DeepseekWeb-enhance",
-      "published_at": "2026-04-25T02:36:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "calendar0917"
     },
     {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
@@ -976,23 +976,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 129,
       "user": "waybarrios"
     },
     {
-      "title": "hypersocialinc/shots - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
-      "url": "https://github.com/hypersocialinc/shots",
-      "published_at": "2026-04-25T01:00:58Z",
-      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
+      "url": "https://github.com/calendar0917/DeepseekWeb-enhance",
+      "published_at": "2026-04-25T02:36:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175360614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "hypersocialinc"
+      "stars": 124,
+      "user": "calendar0917"
+    },
+    {
+      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "url": "https://github.com/AIScientists-Dev/loupe",
+      "published_at": "2026-04-27T03:11:06Z",
+      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "AIScientists-Dev"
     }
   ],
   "Python": [
@@ -1147,21 +1162,6 @@
       "user": "gilad"
     },
     {
-      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "published_at": "2026-04-24T12:48:40Z",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "epoko77-ai"
-    },
-    {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
@@ -1173,23 +1173,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 794,
       "user": "theori-io"
     },
     {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 444,
-      "user": "NyxTides"
+      "stars": 655,
+      "user": "epoko77-ai"
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
@@ -1203,23 +1203,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 457,
       "user": "DanOps-1"
     },
     {
-      "title": "QwenLM/FlashQLA - high-performance linear attention kernel library built on TileLang",
-      "url": "https://github.com/QwenLM/FlashQLA",
-      "published_at": "2026-04-24T09:18:05Z",
-      "description": "high-performance linear attention kernel library built on TileLang",
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 299,
-      "user": "QwenLM"
+      "stars": 454,
+      "user": "NyxTides"
+    },
+    {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "denuitt1"
     }
   ],
   "DevOps": [
@@ -1307,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 129,
       "user": "waybarrios"
     }
   ],
@@ -1369,26 +1384,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 129,
       "user": "waybarrios"
     }
   ],
   "Cloud": [
-    {
-      "title": "Cold Starts Are Dead",
-      "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
-      "published_at": "2026-04-29T03:09:17Z",
-      "description": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
-      "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "coldstarts"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
-      "source": "Dev.to",
-      "user": "Eric D Johnson"
-    },
     {
       "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
       "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
@@ -1450,6 +1450,21 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "Cold Starts Are Dead",
+      "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
+      "published_at": "2026-04-29T03:09:17Z",
+      "description": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "coldstarts"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
+    },
+    {
       "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
       "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
       "published_at": "2026-04-28T13:40:53Z",
@@ -1463,21 +1478,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1584,6 +1584,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "From Monolith State to Stateless Microservices: A Real-World Refactor",
       "url": "https://dev.to/egenedy97/from-monolith-state-to-stateless-microservices-a-real-world-refactor-496l",
       "published_at": "2026-04-21T10:59:12Z",
@@ -1614,6 +1629,21 @@
       "user": "dev.to staff"
     },
     {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "denuitt1"
+    },
+    {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
       "url": "https://github.com/alash3al/stash",
       "published_at": "2026-04-24T22:05:12Z",
@@ -1625,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 569,
       "user": "alash3al"
     }
   ],
@@ -1713,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 129,
       "user": "waybarrios"
     }
   ],
@@ -1732,21 +1762,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
       "source": "Dev.to",
       "user": "Debbie O'Brien"
-    },
-    {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -1808,6 +1823,21 @@
       "user": "David Cantrell"
     },
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "The Age of Disposable Software",
       "url": "https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj",
       "published_at": "2026-04-27T23:28:34Z",
@@ -1859,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 197,
       "user": "amirshaker000"
     },
     {
@@ -1874,23 +1904,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 178,
       "user": "sandeco"
-    },
-    {
-      "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
-      "url": "https://github.com/calendar0917/DeepseekWeb-enhance",
-      "published_at": "2026-04-25T02:36:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "calendar0917"
     },
     {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
@@ -1904,38 +1919,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 129,
       "user": "waybarrios"
     },
     {
-      "title": "hypersocialinc/shots - Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
-      "url": "https://github.com/hypersocialinc/shots",
-      "published_at": "2026-04-25T01:00:58Z",
-      "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+      "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
+      "url": "https://github.com/calendar0917/DeepseekWeb-enhance",
+      "published_at": "2026-04-25T02:36:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/175360614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/174724728?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "hypersocialinc"
+      "stars": 124,
+      "user": "calendar0917"
     },
     {
-      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "published_at": "2026-04-24T12:48:40Z",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "url": "https://github.com/AIScientists-Dev/loupe",
+      "published_at": "2026-04-27T03:11:06Z",
+      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 651,
-      "user": "epoko77-ai"
+      "stars": 103,
+      "user": "AIScientists-Dev"
     },
     {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
@@ -1949,23 +1964,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 794,
       "user": "theori-io"
     },
     {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "published_at": "2026-04-24T12:48:40Z",
+      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 444,
-      "user": "NyxTides"
+      "stars": 655,
+      "user": "epoko77-ai"
     },
     {
       "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
@@ -1979,23 +1994,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 457,
       "user": "DanOps-1"
     },
     {
-      "title": "QwenLM/FlashQLA - high-performance linear attention kernel library built on TileLang",
-      "url": "https://github.com/QwenLM/FlashQLA",
-      "published_at": "2026-04-24T09:18:05Z",
-      "description": "high-performance linear attention kernel library built on TileLang",
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 299,
-      "user": "QwenLM"
+      "stars": 454,
+      "user": "NyxTides"
+    },
+    {
+      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "published_at": "2026-04-27T22:26:16Z",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "denuitt1"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 569,
       "user": "alash3al"
     },
     {
@@ -2024,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 393,
       "user": "Kianmhz"
     },
     {
