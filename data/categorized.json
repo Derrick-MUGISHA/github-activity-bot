@@ -31,19 +31,19 @@
       "user": "Debbie O'Brien"
     },
     {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
+      "title": "Cold Starts Are Dead",
+      "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
+      "published_at": "2026-04-29T03:09:17Z",
+      "description": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
       "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
+        "serverless",
+        "aws",
+        "lambda",
+        "coldstarts"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
       "source": "Dev.to",
-      "user": "Sreejit"
+      "user": "Eric D Johnson"
     },
     {
       "title": "Why I'm Building SaaS in 2026",
@@ -61,19 +61,19 @@
       "user": "arunkant"
     },
     {
-      "title": "Cold Starts Are Dead",
-      "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
-      "published_at": "2026-04-29T03:09:17Z",
-      "description": "It never fails. Every time I talk about serverless, someone pushes back with the cold start argument....",
+      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
+      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
+      "published_at": "2026-04-29T13:46:47Z",
+      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
       "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "coldstarts"
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai",
+        "devchallenge"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
-      "user": "Eric D Johnson"
+      "user": "Sreejit"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -295,21 +295,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate",
-      "url": "https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go",
-      "published_at": "2026-04-27T00:40:50Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    If I had to choose one singular...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "sre"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4ommzn92ezniegj4zwx.png",
-      "source": "Dev.to",
-      "user": "ContardoRM"
-    },
-    {
       "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
       "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
       "published_at": "2026-04-27T14:16:32Z",
@@ -336,6 +321,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
+    },
+    {
+      "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
+      "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
+      "published_at": "2026-04-28T01:48:30Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...",
+      "tags": [
+        "vllm",
+        "googleadk",
+        "tpu",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
@@ -470,6 +470,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
+      "published_at": "2026-04-16T13:50:47Z",
+      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
+      "tags": [
+        "ai",
+        "leadership",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
+      "source": "Dev.to",
+      "user": "Jono Herrington"
+    },
+    {
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
+      "tags": [
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -615,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 167,
       "user": "sandeco"
     },
     {
@@ -645,12 +674,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 651,
       "user": "epoko77-ai"
     },
     {
-      "title": "DanOps-1/gpt-pp-team - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "url": "https://github.com/DanOps-1/gpt-pp-team",
+      "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+      "published_at": "2026-04-29T12:15:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
+      "source": "GitHub",
+      "stars": 601,
+      "user": "theori-io"
+    },
+    {
+      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "published_at": "2026-04-27T03:48:28Z",
       "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "tags": [
@@ -660,23 +704,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 402,
       "user": "DanOps-1"
-    },
-    {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "denuitt1"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -690,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "alash3al"
     },
     {
@@ -705,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 389,
       "user": "Kianmhz"
     }
   ],
@@ -902,8 +931,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 192,
       "user": "amirshaker000"
+    },
+    {
+      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
+      "url": "https://github.com/sandeco/reversa",
+      "published_at": "2026-04-26T13:47:10Z",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "sandeco"
     },
     {
       "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
@@ -921,21 +965,6 @@
       "user": "calendar0917"
     },
     {
-      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
-      "url": "https://github.com/sandeco/reversa",
-      "published_at": "2026-04-26T13:47:10Z",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
-      "source": "GitHub",
-      "stars": 116,
-      "user": "sandeco"
-    },
-    {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
       "url": "https://github.com/waybarrios/opencode-power-pack",
       "published_at": "2026-04-26T17:13:11Z",
@@ -947,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "waybarrios"
     },
     {
@@ -981,21 +1010,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
       "source": "Dev.to",
       "user": "David Newberry"
-    },
-    {
-      "title": "Fine-Tune Any HuggingFace Model like Gemma on TPUs with TorchAX",
-      "url": "https://dev.to/gde/fine-tune-any-huggingface-model-like-gemma-on-tpus-with-torchax-5g21",
-      "published_at": "2026-04-27T08:45:25Z",
-      "description": "Learn how to fine-tune PyTorch HuggingFace models on Google TPUs using torchax and LoRA — no JAX rewrite needed. Includes evaluation, save/reload, and a Colab notebook.",
-      "tags": [
-        "machinelearning",
-        "pytorch",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmlgp1jd51zfr2ttmhgc.png",
-      "source": "Dev.to",
-      "user": "Ahmed Elnaggar"
     },
     {
       "title": "When Information Hits a Wall: Barriers in Cellular Automata",
@@ -1144,8 +1158,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 651,
       "user": "epoko77-ai"
+    },
+    {
+      "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+      "published_at": "2026-04-29T12:15:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
+      "source": "GitHub",
+      "stars": 601,
+      "user": "theori-io"
     },
     {
       "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
@@ -1159,12 +1188,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 444,
       "user": "NyxTides"
     },
     {
-      "title": "DanOps-1/gpt-pp-team - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "url": "https://github.com/DanOps-1/gpt-pp-team",
+      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "published_at": "2026-04-27T03:48:28Z",
       "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "tags": [
@@ -1174,23 +1203,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 402,
       "user": "DanOps-1"
-    },
-    {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "denuitt1"
     },
     {
       "title": "QwenLM/FlashQLA - high-performance linear attention kernel library built on TileLang",
@@ -1204,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 299,
       "user": "QwenLM"
     }
   ],
@@ -1293,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "waybarrios"
     }
   ],
@@ -1355,26 +1369,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "waybarrios"
     }
   ],
   "Cloud": [
-    {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit"
-    },
     {
       "title": "Cold Starts Are Dead",
       "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
@@ -1389,6 +1388,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzga0r788uckt3m40cp0o.png",
       "source": "Dev.to",
       "user": "Eric D Johnson"
+    },
+    {
+      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
+      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
+      "published_at": "2026-04-29T13:46:47Z",
+      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
+      "tags": [
+        "cloudnextchallenge",
+        "googlecloud",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
+      "source": "Dev.to",
+      "user": "Sreejit"
     },
     {
       "title": "Are We Using AI at the Wrong Scale?",
@@ -1479,21 +1493,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "The Agentic SRE: How Google Cloud NEXT '26 Made AI Feel Less Like a Chatbot and More Like a Teammate",
-      "url": "https://dev.to/contardorm/the-agentic-sre-how-google-cloud-next-26-made-ai-feel-less-like-a-chatbot-and-more-like-a-teammate-55go",
-      "published_at": "2026-04-27T00:40:50Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    If I had to choose one singular...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "sre"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv4ommzn92ezniegj4zwx.png",
-      "source": "Dev.to",
-      "user": "ContardoRM"
     },
     {
       "title": "How I'm running an autonomous Claude Code loop on a real shipped product",
@@ -1600,19 +1599,19 @@
       "user": "Eslam Genedy"
     },
     {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
+      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
+      "published_at": "2026-04-20T16:50:30Z",
+      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
       "tags": [
-        "python",
-        "github",
-        "open-source"
+        "googlecloud",
+        "google",
+        "ai",
+        "cloud"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "denuitt1"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
@@ -1626,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "alash3al"
     }
   ],
@@ -1714,7 +1713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "waybarrios"
     }
   ],
@@ -1860,8 +1859,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 192,
       "user": "amirshaker000"
+    },
+    {
+      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
+      "url": "https://github.com/sandeco/reversa",
+      "published_at": "2026-04-26T13:47:10Z",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "sandeco"
     },
     {
       "title": "calendar0917/DeepseekWeb-enhance - GitHub Repository",
@@ -1879,21 +1893,6 @@
       "user": "calendar0917"
     },
     {
-      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
-      "url": "https://github.com/sandeco/reversa",
-      "published_at": "2026-04-26T13:47:10Z",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
-      "source": "GitHub",
-      "stars": 116,
-      "user": "sandeco"
-    },
-    {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
       "url": "https://github.com/waybarrios/opencode-power-pack",
       "published_at": "2026-04-26T17:13:11Z",
@@ -1905,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "waybarrios"
     },
     {
@@ -1935,8 +1934,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252882157?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 651,
       "user": "epoko77-ai"
+    },
+    {
+      "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+      "published_at": "2026-04-29T12:15:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
+      "source": "GitHub",
+      "stars": 601,
+      "user": "theori-io"
     },
     {
       "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
@@ -1950,12 +1964,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 444,
       "user": "NyxTides"
     },
     {
-      "title": "DanOps-1/gpt-pp-team - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "url": "https://github.com/DanOps-1/gpt-pp-team",
+      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
       "published_at": "2026-04-27T03:48:28Z",
       "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "tags": [
@@ -1965,23 +1979,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 402,
       "user": "DanOps-1"
-    },
-    {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "denuitt1"
     },
     {
       "title": "QwenLM/FlashQLA - high-performance linear attention kernel library built on TileLang",
@@ -1995,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/141221163?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 299,
       "user": "QwenLM"
     },
     {
@@ -2010,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3078292?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "alash3al"
     },
     {
@@ -2025,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 389,
       "user": "Kianmhz"
     },
     {
