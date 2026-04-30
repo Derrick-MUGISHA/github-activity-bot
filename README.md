@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-04-30 17:00 CAT)
+## 📅 Latest Updates (2026-04-30 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl) _[Dev.to]_
 
-_Last automated update: Thu, 30 Apr 2026 17:06:11 CAT_
+_Last automated update: Thu, 30 Apr 2026 18:46:28 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 30 Apr 2026 17:06:11 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 30 Apr 2026 15:06:11 GMT</b><br/>
+  <b>Last automated update: Thu, 30 Apr 2026 16:46:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
