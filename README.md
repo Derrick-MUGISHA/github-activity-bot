@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-01 13:00 CAT)
+## 📅 Latest Updates (2026-05-01 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -178,10 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png" width="200" alt="vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)" />
+    <a href="https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png" width="200" alt="MCP Configuration for Looker with Gemini CLI" />
       <br/>
-      <b>vLLM on Google Cloud TPU: A Model Size vs Chip Che...</b>
+      <b>MCP Configuration for Looker with Gemini CLI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,7 +198,6 @@ npm run test
 - [More Accessible Focus Indicators with Compose](https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4) _[Dev.to]_
 - [Mapbox GL JS adds support for PMTiles vector sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b) _[Dev.to]_
 - [Agents are building their own UIs now. Here's when that's worth doing.](https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d) _[Dev.to]_
-- [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k) _[Dev.to]_
 - [MCP Configuration for Looker with Gemini CLI](https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
@@ -209,12 +208,13 @@ npm run test
 - [How I Used AI to Fix Our E2E Test Architecture](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 - [Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) _[Dev.to]_
+- [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k) _[Dev.to]_
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) _[Dev.to]_
 - [ML acceleration guide: TPUs vs GPUs](https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh) _[Dev.to]_
 
-_Last automated update: Fri, 01 May 2026 13:09:03 CAT_
+_Last automated update: Fri, 01 May 2026 14:05:50 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 01 May 2026 13:09:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 01 May 2026 11:09:03 GMT</b><br/>
+  <b>Last automated update: Fri, 01 May 2026 12:05:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
