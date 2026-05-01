@@ -7,8 +7,8 @@
   },
   "by_category": {
     "AI": 50,
-    "JavaScript": 20,
-    "Python": 16,
+    "JavaScript": 19,
+    "Python": 17,
     "DevOps": 2,
     "WebDev": 4,
     "Mobile": 5,
@@ -19,10 +19,10 @@
   },
   "by_language": {
     "Kotlin": 2,
-    "JavaScript": 20,
-    "Go": 25,
-    "Python": 16,
-    "Java": 19,
+    "JavaScript": 19,
+    "Go": 26,
+    "Python": 17,
+    "Java": 18,
     "Swift": 1
   },
   "by_date": {
@@ -81,25 +81,25 @@
     "JavaScript": 10,
     "Python": 10,
     "discuss": 8,
-    "javascript": 8,
+    "python": 7,
+    "javascript": 7,
     "cloudnextchallenge": 6,
-    "python": 6,
     "agents": 5,
     "go": 5,
     "programming": 4,
     "architecture": 4,
-    "opensource": 4,
     "aws": 4,
     "weekendchallenge": 3,
-    "tpu": 3
+    "tpu": 3,
+    "leadership": 3
   },
   "trending_topics": [],
   "language_percentages": {
     "Kotlin": "2.4",
-    "JavaScript": "24.1",
-    "Go": "30.1",
-    "Python": "19.3",
-    "Java": "22.9",
+    "JavaScript": "22.9",
+    "Go": "31.3",
+    "Python": "20.5",
+    "Java": "21.7",
     "Swift": "1.2"
   }
 }
