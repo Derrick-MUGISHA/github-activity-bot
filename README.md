@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-01 11:00 CAT)
+## 📅 Latest Updates (2026-05-01 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) _[Dev.to]_
 - [ML acceleration guide: TPUs vs GPUs](https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh) _[Dev.to]_
 
-_Last automated update: Fri, 01 May 2026 11:57:42 CAT_
+_Last automated update: Fri, 01 May 2026 13:09:03 CAT_
 
 
 
@@ -222,18 +222,7 @@ _Last automated update: Fri, 01 May 2026 11:57:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
-
-**Difficulty**: Medium | **Topics**: system design, scalability
-
-<details>
-<summary>💡 Hint</summary>
-
-Hash function, database design, caching, analytics
-
-</details>
-
-### 2. DataStructures: Implement LRU Cache
+### 1. DataStructures: Implement LRU Cache
 
 **Difficulty**: Hard | **Topics**: design, hash map, linked list
 
@@ -244,14 +233,25 @@ Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Hash function, database design, caching, analytics
+
+</details>
+
+### 3. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 01 May 2026 09:57:42 GMT</b><br/>
+  <b>Last automated update: Fri, 01 May 2026 11:09:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
