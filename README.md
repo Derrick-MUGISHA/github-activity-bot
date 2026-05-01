@@ -38,11 +38,11 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
+**WebDev**: 🟦🟦 5 (4.8%)
+
 **Mobile**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
-
-**WebDev**: 🟦🟦 4 (3.8%)
 
 **DevOps**: 🟦 3 (2.9%)
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![programming](https://img.shields.io/badge/programming-4-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-12-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![webdev](https://img.shields.io/badge/webdev-4-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-01 17:00 CAT)
+## 📅 Latest Updates (2026-05-01 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,6 +140,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png" width="200" alt="I Don't Like Tailwind. Sorry Not Sorry" />
+      <br/>
+      <b>I Don't Like Tailwind. Sorry Not Sorry</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flwdm5sznr9uc0u2xuzy3.jpeg" width="200" alt="Stop Using Your Clipboard to Share Context" />
       <br/>
@@ -148,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png" width="200" alt="More Accessible Focus Indicators with Compose" />
@@ -157,8 +168,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png" width="200" alt="Using Gemini with OpenClaw: Setup Guide + Real Use Cases" />
@@ -177,15 +186,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png" width="200" alt="Creating a CLI Tool with AI Agents: My Journey with kdn" />
-      <br/>
-      <b>Creating a CLI Tool with AI Agents: My Journey wit...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -194,6 +194,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
+- [I Don't Like Tailwind. Sorry Not Sorry](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) _[Dev.to]_
 - [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941) _[Dev.to]_
 - [More Accessible Focus Indicators with Compose](https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4) _[Dev.to]_
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
@@ -212,9 +213,8 @@ npm run test
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) _[Dev.to]_
-- [ML acceleration guide: TPUs vs GPUs](https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh) _[Dev.to]_
 
-_Last automated update: Fri, 01 May 2026 17:54:10 CAT_
+_Last automated update: Fri, 01 May 2026 18:54:09 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 01 May 2026 17:54:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain decorators in Python with an example
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 01 May 2026 15:54:10 GMT</b><br/>
+  <b>Last automated update: Fri, 01 May 2026 16:54:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

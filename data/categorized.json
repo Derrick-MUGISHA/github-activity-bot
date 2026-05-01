@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
+      "published_at": "2026-05-01T16:11:48Z",
+      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "tags": [
+        "css",
+        "webdev",
+        "discuss",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
+      "source": "Dev.to",
+      "user": "Andy Robinson"
+    },
+    {
       "title": "Stop Using Your Clipboard to Share Context",
       "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
       "published_at": "2026-04-30T16:27:59Z",
@@ -502,20 +517,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "published_at": "2026-04-16T13:50:47Z",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "tags": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
-      "source": "Dev.to",
-      "user": "Jono Herrington"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -659,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "sandeco"
     },
     {
@@ -674,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2121,
+      "stars": 2178,
       "user": "theori-io"
     },
     {
@@ -689,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1098,
       "user": "denuitt1"
     },
     {
@@ -719,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "Kianmhz"
     }
   ],
@@ -931,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "sandeco"
     },
     {
@@ -946,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "amirshaker000"
     },
     {
@@ -991,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 130,
       "user": "Pathos0925"
     }
   ],
@@ -1158,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2121,
+      "stars": 2178,
       "user": "theori-io"
     },
     {
@@ -1173,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1098,
       "user": "denuitt1"
     },
     {
@@ -1203,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "NyxTides"
     },
     {
@@ -1218,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 508,
       "user": "Fokkyp"
     }
   ],
@@ -1270,6 +1271,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
+      "published_at": "2026-05-01T16:11:48Z",
+      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "tags": [
+        "css",
+        "webdev",
+        "discuss",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
+      "source": "Dev.to",
+      "user": "Andy Robinson"
+    },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
@@ -1684,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1098,
       "user": "denuitt1"
     }
   ],
@@ -1918,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "sandeco"
     },
     {
@@ -1933,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 300,
       "user": "amirshaker000"
     },
     {
@@ -1978,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 130,
       "user": "Pathos0925"
     },
     {
@@ -1993,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2121,
+      "stars": 2178,
       "user": "theori-io"
     },
     {
@@ -2008,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1098,
       "user": "denuitt1"
     },
     {
@@ -2038,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "NyxTides"
     },
     {
@@ -2053,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 508,
       "user": "Fokkyp"
     },
     {
@@ -2068,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "Kianmhz"
     },
     {
@@ -2128,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "benqi-finance"
     }
   ]
