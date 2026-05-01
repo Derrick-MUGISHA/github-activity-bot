@@ -31,6 +31,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
+      "published_at": "2026-05-01T12:46:57Z",
+      "description": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "tags": [
+        "learning",
+        "productivity",
+        "sideprojects",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
+      "source": "Dev.to",
+      "user": "Kiran Randhawa"
+    },
+    {
       "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
       "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48",
       "published_at": "2026-05-01T09:49:58Z",
@@ -224,6 +239,21 @@
       "user": "Kernel Pryanic"
     },
     {
+      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
+      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
+      "published_at": "2026-04-30T14:45:49Z",
+      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
+      "tags": [
+        "claude",
+        "ai",
+        "githubactions",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
+      "source": "Dev.to",
+      "user": "yamadashy"
+    },
+    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -296,21 +326,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
-      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
-      "published_at": "2026-04-27T14:16:32Z",
-      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
-      "tags": [
-        "ai",
-        "chatgpt",
-        "claude",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
-      "source": "Dev.to",
-      "user": "Devashish Datt Mamgain"
-    },
-    {
       "title": "Why I'm Building SaaS in 2026",
       "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
       "published_at": "2026-04-29T12:42:21Z",
@@ -324,6 +339,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
       "source": "Dev.to",
       "user": "arunkant"
+    },
+    {
+      "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
+      "url": "https://dev.to/devashishmamgain/chatgpt-54-vs-claude-opus-46-which-model-should-you-use-oln",
+      "published_at": "2026-04-27T14:16:32Z",
+      "description": "GPT-5.4 wins on cost efficiency, native computer use, and speed for high-throughput pipelines. Claude...",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "claude",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
+      "source": "Dev.to",
+      "user": "Devashish Datt Mamgain"
     },
     {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
@@ -444,21 +474,6 @@
       "user": "Sonika Janagill"
     },
     {
-      "title": "A Map for the First-Time Software Creator",
-      "url": "https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f",
-      "published_at": "2026-04-24T19:29:01Z",
-      "description": "TL;DR — Five stages turn a first-time software creator's idea into a deployed product:...",
-      "tags": [
-        "beginners",
-        "webdev",
-        "ai",
-        "nocode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbprh9vxeno411dnek6uj.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
       "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
       "published_at": "2026-04-27T17:06:51Z",
@@ -485,36 +500,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
       "source": "Dev.to",
       "user": "Nikhil Sharma"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
-      "published_at": "2026-04-16T15:38:54Z",
-      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "sandeco"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2178,
+      "stars": 2245,
       "user": "theori-io"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1139,
       "user": "denuitt1"
     },
     {
@@ -705,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 868,
       "user": "DanOps-1"
     },
     {
@@ -720,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 498,
       "user": "Kianmhz"
     }
   ],
@@ -739,6 +724,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM",
+      "url": "https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5",
+      "published_at": "2026-04-30T17:00:00Z",
+      "description": "We've all been there. You write a simple script to process a JSON or CSV file. It works perfectly on...",
+      "tags": [
+        "node",
+        "typescript",
+        "etl",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkyffrdzlnyd80d2qmdln.png",
+      "source": "Dev.to",
+      "user": "Pujan Srivastava"
     },
     {
       "title": "Mapbox GL JS adds support for PMTiles vector sources",
@@ -784,21 +784,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
       "source": "Dev.to",
       "user": "Oladele David "
-    },
-    {
-      "title": "I Spent Six Months Chasing Core Web Vitals. Here’s What Actually Moved the Needle.",
-      "url": "https://dev.to/shudhanshuraj/i-spent-six-months-chasing-core-web-vitals-heres-what-actually-moved-the-needle-2ofd",
-      "published_at": "2026-04-28T04:30:00Z",
-      "description": "A field guide to LCP, INP, and CLS that skips the theory and gets to what breaks in...",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo12f0f8yeemqlo2n6grf.png",
-      "source": "Dev.to",
-      "user": "Shudhanshu Raj"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -932,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "sandeco"
     },
     {
@@ -947,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "amirshaker000"
     },
     {
@@ -962,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "waybarrios"
     },
     {
@@ -992,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 135,
       "user": "Pathos0925"
     }
   ],
@@ -1026,6 +1011,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
       "source": "Dev.to",
       "user": "David Newberry"
+    },
+    {
+      "title": "Build Customizable Dialogs in Vim — No Python, No Dependencies",
+      "url": "https://dev.to/skywind3000/build-real-dialogs-in-vim-no-python-no-dependencies-3b5a",
+      "published_at": "2026-04-29T21:33:28Z",
+      "description": "A tutorial on building multi-control dialogs in Vim using vim-quickui's data-driven dialog system. Pure VimScript, works on Vim 8.2+ and NeoVim 0.4+.",
+      "tags": [
+        "vim",
+        "neovim",
+        "tui",
+        "vimscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftptwnkei1z97pfm2lnpn.png",
+      "source": "Dev.to",
+      "user": "Linwei"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2178,
+      "stars": 2245,
       "user": "theori-io"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1139,
       "user": "denuitt1"
     },
     {
@@ -1189,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 868,
       "user": "DanOps-1"
     },
     {
@@ -1338,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "waybarrios"
     }
   ],
@@ -1415,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "waybarrios"
     }
   ],
@@ -1659,36 +1659,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "From Monolith State to Stateless Microservices: A Real-World Refactor",
-      "url": "https://dev.to/egenedy97/from-monolith-state-to-stateless-microservices-a-real-world-refactor-496l",
-      "published_at": "2026-04-21T10:59:12Z",
-      "description": "...",
-      "tags": [
-        "architecture",
-        "microservices",
-        "aws",
-        "distributedsystems"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj8ztr09i9x5p9zly9vd.jpg",
-      "source": "Dev.to",
-      "user": "Eslam Genedy"
-    },
-    {
       "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "published_at": "2026-04-27T22:26:16Z",
@@ -1700,7 +1670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1139,
       "user": "denuitt1"
     }
   ],
@@ -1788,11 +1758,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "waybarrios"
     }
   ],
   "Tools": [
+    {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
+      "published_at": "2026-05-01T12:46:57Z",
+      "description": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "tags": [
+        "learning",
+        "productivity",
+        "sideprojects",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
+      "source": "Dev.to",
+      "user": "Kiran Randhawa"
+    },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
@@ -1807,6 +1792,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Slash commands: no more meaningless commits",
+      "url": "https://dev.to/guilherme44/slash-commands-no-more-meaningless-commits-38ae",
+      "published_at": "2026-05-01T03:18:51Z",
+      "description": "One of the things I've been using the most since I started with Claude Code is slash commands. And...",
+      "tags": [
+        "claudecode",
+        "opencode",
+        "productivity",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh17byti9962ryba41zzv.png",
+      "source": "Dev.to",
+      "user": "Guilherme Yamakawa de Oliveira"
     },
     {
       "title": "How I Used AI to Fix Our E2E Test Architecture",
@@ -1867,6 +1867,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
+    },
+    {
+      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
+      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
+      "published_at": "2026-04-30T14:45:49Z",
+      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
+      "tags": [
+        "claude",
+        "ai",
+        "githubactions",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
+      "source": "Dev.to",
+      "user": "yamadashy"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "sandeco"
     },
     {
@@ -1949,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "amirshaker000"
     },
     {
@@ -1964,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "waybarrios"
     },
     {
@@ -1994,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 135,
       "user": "Pathos0925"
     },
     {
@@ -2009,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2178,
+      "stars": 2245,
       "user": "theori-io"
     },
     {
@@ -2024,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1098,
+      "stars": 1139,
       "user": "denuitt1"
     },
     {
@@ -2039,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 868,
       "user": "DanOps-1"
     },
     {
@@ -2084,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 498,
       "user": "Kianmhz"
     },
     {
@@ -2099,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188978474?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "sartoopjj"
     },
     {
