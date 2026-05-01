@@ -31,19 +31,19 @@
       "user": "Matthew Revell"
     },
     {
-      "title": "MCP Configuration for Looker with Gemini CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
-      "published_at": "2026-04-29T16:12:04Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
       "tags": [
-        "lookml",
-        "skills",
-        "looker",
-        "businessintelligence"
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Omotayo Aina"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -61,6 +61,21 @@
       "user": "Philippe MARTIN"
     },
     {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -72,21 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "Why I'm Building SaaS in 2026",
-      "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
-      "published_at": "2026-04-29T12:42:21Z",
-      "description": "In-house AI agents are seductive but fragile. Here's the case for using agents to explore and concrete workflows to ship",
-      "tags": [
-        "saas",
-        "ai",
-        "agents",
-        "workflows"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
-      "source": "Dev.to",
-      "user": "arunkant"
     },
     {
       "title": "Forking Paseo: Mobile vibe coding for me",
@@ -251,6 +251,21 @@
       "user": "Setiaji"
     },
     {
+      "title": "MCP Configuration for Looker with Gemini CLI",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
+      "published_at": "2026-04-29T16:12:04Z",
+      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "tags": [
+        "lookml",
+        "skills",
+        "looker",
+        "businessintelligence"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -279,6 +294,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
       "source": "Dev.to",
       "user": "Devashish Datt Mamgain"
+    },
+    {
+      "title": "Why I'm Building SaaS in 2026",
+      "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
+      "published_at": "2026-04-29T12:42:21Z",
+      "description": "In-house AI agents are seductive but fragile. Here's the case for using agents to explore and concrete workflows to ship",
+      "tags": [
+        "saas",
+        "ai",
+        "agents",
+        "workflows"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
+      "source": "Dev.to",
+      "user": "arunkant"
     },
     {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
@@ -369,21 +399,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
-      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
-      "published_at": "2026-04-22T22:58:00Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "vertexai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
-      "source": "Dev.to",
-      "user": "Sonika Janagill"
-    },
-    {
       "title": "Automation is a trade-off",
       "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
       "published_at": "2026-04-28T15:06:42Z",
@@ -397,6 +412,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
       "source": "Dev.to",
       "user": "Sue Smith"
+    },
+    {
+      "title": "Google Cloud’s Agent Ops Stack: Why Deployment Is No Longer the Hard Part",
+      "url": "https://dev.to/gde/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k",
+      "published_at": "2026-04-22T22:58:00Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge    The Gemini Enterprise Agent...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud",
+        "vertexai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F504uoqujcgrwt7zwp9qj.png",
+      "source": "Dev.to",
+      "user": "Sonika Janagill"
     },
     {
       "title": "A Map for the First-Time Software Creator",
@@ -484,21 +514,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.jonoherrington.com%2Fimages%2Flinkedin%2Fai-doesnt-fix-weak-engineering.png",
       "source": "Dev.to",
       "user": "Jono Herrington"
-    },
-    {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "sandeco"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2121,
       "user": "theori-io"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1059,
       "user": "denuitt1"
     },
     {
@@ -689,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 866,
       "user": "DanOps-1"
     },
     {
@@ -704,11 +719,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 492,
       "user": "Kianmhz"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
     {
       "title": "Mapbox GL JS adds support for PMTiles vector sources",
       "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b",
@@ -901,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "sandeco"
     },
     {
@@ -931,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "waybarrios"
     },
     {
@@ -966,6 +996,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "tags": [
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
     {
       "title": "Installing pygame for IDLE on Mac",
       "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
@@ -1113,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2121,
       "user": "theori-io"
     },
     {
@@ -1128,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1059,
       "user": "denuitt1"
     },
     {
@@ -1143,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 866,
       "user": "DanOps-1"
     },
     {
@@ -1158,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 522,
       "user": "NyxTides"
     },
     {
@@ -1277,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "waybarrios"
     }
   ],
@@ -1354,11 +1399,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "waybarrios"
     }
   ],
   "Cloud": [
+    {
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "tags": [
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
     {
       "title": "Agents are building their own UIs now. Here's when that's worth doing.",
       "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d",
@@ -1598,21 +1673,6 @@
       "user": "Eslam Genedy"
     },
     {
-      "title": "Watch Google Cloud NEXT Live Right Here on DEV!",
-      "url": "https://dev.to/devteam/watch-google-cloud-next-live-right-here-on-dev-2g6h",
-      "published_at": "2026-04-20T16:50:30Z",
-      "description": "Big things are happening at Google Cloud NEXT, and you don't have to go anywhere to catch the action....",
-      "tags": [
-        "googlecloud",
-        "google",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceindl9dysvg7mf4lvpa.jpg",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "published_at": "2026-04-27T22:26:16Z",
@@ -1624,7 +1684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1059,
       "user": "denuitt1"
     }
   ],
@@ -1712,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "waybarrios"
     }
   ],
@@ -1858,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "sandeco"
     },
     {
@@ -1888,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "waybarrios"
     },
     {
@@ -1933,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2121,
       "user": "theori-io"
     },
     {
@@ -1948,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1059,
       "user": "denuitt1"
     },
     {
@@ -1963,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 866,
       "user": "DanOps-1"
     },
     {
@@ -1978,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 522,
       "user": "NyxTides"
     },
     {
@@ -2008,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 492,
       "user": "Kianmhz"
     },
     {
