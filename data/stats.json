@@ -9,7 +9,7 @@
     "AI": 50,
     "JavaScript": 19,
     "Python": 17,
-    "DevOps": 2,
+    "DevOps": 3,
     "WebDev": 4,
     "Mobile": 5,
     "Cloud": 17,
@@ -19,19 +19,20 @@
   },
   "by_language": {
     "Kotlin": 2,
-    "JavaScript": 19,
     "Go": 26,
+    "JavaScript": 19,
     "Python": 17,
     "Java": 18,
     "Swift": 1
   },
   "by_date": {
     "2026-04-30": 5,
+    "2026-05-01": 1,
     "2026-04-29": 12,
     "2026-04-27": 13,
     "2026-04-26": 7,
     "2026-04-25": 4,
-    "2026-04-19": 3,
+    "2026-04-19": 2,
     "2026-04-28": 9,
     "2026-04-22": 3,
     "2026-04-17": 4,
@@ -72,10 +73,10 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 24,
+    "ai": 25,
     "github": 15,
     "open-source": 15,
-    "devchallenge": 11,
+    "devchallenge": 10,
     "googlecloud": 10,
     "AI": 10,
     "JavaScript": 10,
@@ -87,17 +88,17 @@
     "agents": 5,
     "go": 5,
     "programming": 4,
+    "gemini": 4,
     "architecture": 4,
     "aws": 4,
-    "weekendchallenge": 3,
-    "leadership": 3,
-    "opensource": 3
+    "devops": 3,
+    "leadership": 3
   },
   "trending_topics": [],
   "language_percentages": {
     "Kotlin": "2.4",
-    "JavaScript": "22.9",
     "Go": "31.3",
+    "JavaScript": "22.9",
     "Python": "20.5",
     "Java": "21.7",
     "Swift": "1.2"

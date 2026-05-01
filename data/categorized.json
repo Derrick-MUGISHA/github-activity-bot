@@ -16,6 +16,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48",
+      "published_at": "2026-05-01T09:49:58Z",
+      "description": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "tags": [
+        "openclaw",
+        "gemini",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
+    {
       "title": "MCP Configuration for Looker with Gemini CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
       "published_at": "2026-04-29T16:12:04Z",
@@ -131,7 +146,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
-      "user": "Sreejit"
+      "user": "Sreejit Pradhan"
     },
     {
       "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
@@ -264,19 +279,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flz9s2rvx7e73a36huxng.png",
       "source": "Dev.to",
       "user": "Devashish Datt Mamgain"
-    },
-    {
-      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
-      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
-      "published_at": "2026-04-19T03:11:23Z",
-      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
-      "source": "Dev.to",
-      "user": "vaidehi Warghat"
     },
     {
       "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
@@ -644,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 364,
       "user": "sandeco"
     },
     {
@@ -659,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 2022,
       "user": "theori-io"
     },
     {
@@ -674,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 978,
       "user": "denuitt1"
     },
     {
@@ -689,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 859,
       "user": "DanOps-1"
     },
     {
@@ -704,7 +706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 486,
       "user": "Kianmhz"
     }
   ],
@@ -901,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 364,
       "user": "sandeco"
     },
     {
@@ -916,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 296,
       "user": "amirshaker000"
     },
     {
@@ -931,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "waybarrios"
     },
     {
@@ -961,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "Pathos0925"
     }
   ],
@@ -1128,7 +1130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 2022,
       "user": "theori-io"
     },
     {
@@ -1143,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 978,
       "user": "denuitt1"
     },
     {
@@ -1158,23 +1160,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 859,
       "user": "DanOps-1"
-    },
-    {
-      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "published_at": "2026-04-29T10:07:08Z",
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
-      "source": "GitHub",
-      "stars": 505,
-      "user": "Fokkyp"
     },
     {
       "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
@@ -1188,11 +1175,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 514,
       "user": "NyxTides"
+    },
+    {
+      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "published_at": "2026-04-29T10:07:08Z",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
+      "source": "GitHub",
+      "stars": 506,
+      "user": "Fokkyp"
     }
   ],
   "DevOps": [
+    {
+      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
+      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48",
+      "published_at": "2026-05-01T09:49:58Z",
+      "description": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
+      "tags": [
+        "openclaw",
+        "gemini",
+        "ai",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
@@ -1277,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "waybarrios"
     }
   ],
@@ -1354,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "waybarrios"
     }
   ],
@@ -1387,7 +1404,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
       "source": "Dev.to",
-      "user": "Sreejit"
+      "user": "Sreejit Pradhan"
     },
     {
       "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
@@ -1610,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 978,
       "user": "denuitt1"
     }
   ],
@@ -1698,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "waybarrios"
     }
   ],
@@ -1859,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 364,
       "user": "sandeco"
     },
     {
@@ -1874,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 296,
       "user": "amirshaker000"
     },
     {
@@ -1889,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "waybarrios"
     },
     {
@@ -1919,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "Pathos0925"
     },
     {
@@ -1934,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 2022,
       "user": "theori-io"
     },
     {
@@ -1949,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 978,
       "user": "denuitt1"
     },
     {
@@ -1964,23 +1981,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 859,
       "user": "DanOps-1"
-    },
-    {
-      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "published_at": "2026-04-29T10:07:08Z",
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
-      "source": "GitHub",
-      "stars": 505,
-      "user": "Fokkyp"
     },
     {
       "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
@@ -1994,8 +1996,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 514,
       "user": "NyxTides"
+    },
+    {
+      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "published_at": "2026-04-29T10:07:08Z",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
+      "source": "GitHub",
+      "stars": 506,
+      "user": "Fokkyp"
     },
     {
       "title": "Kianmhz/GooseRelayVPN - Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
@@ -2009,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 486,
       "user": "Kianmhz"
     },
     {
@@ -2069,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "benqi-finance"
     }
   ]
