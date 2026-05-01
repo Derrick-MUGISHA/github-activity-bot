@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-01 10:00 CAT)
+## 📅 Latest Updates (2026-05-01 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,14 +207,14 @@ npm run test
 - [Forking Paseo: Mobile vibe coding for me](https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-98e) _[Dev.to]_
 - [How I Used AI to Fix Our E2E Test Architecture](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a) _[Dev.to]_
-- [Cold Starts Are Dead](https://dev.to/aws/cold-starts-are-dead-5fod) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 - [Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.](https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2) _[Dev.to]_
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Boring code is an organizational tell](https://dev.to/simme/boring-code-is-an-organizational-tell-4gca) _[Dev.to]_
 - [Are We Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo) _[Dev.to]_
+- [ML acceleration guide: TPUs vs GPUs](https://dev.to/gde/ml-acceleration-guide-tpus-vs-gpus-16oh) _[Dev.to]_
 
-_Last automated update: Fri, 01 May 2026 10:11:15 CAT_
+_Last automated update: Fri, 01 May 2026 11:57:42 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 01 May 2026 10:11:15 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 01 May 2026 08:11:15 GMT</b><br/>
+  <b>Last automated update: Fri, 01 May 2026 09:57:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
