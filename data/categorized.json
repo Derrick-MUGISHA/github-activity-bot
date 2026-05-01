@@ -16,21 +16,6 @@
       "user": "Andy Robinson"
     },
     {
-      "title": "Stop Using Your Clipboard to Share Context",
-      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
-      "published_at": "2026-04-30T16:27:59Z",
-      "description": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flwdm5sznr9uc0u2xuzy3.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
       "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
       "published_at": "2026-05-01T12:46:57Z",
@@ -130,6 +115,21 @@
         "opensource"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Stop Using Your Clipboard to Share Context",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
+      "published_at": "2026-04-30T16:27:59Z",
+      "description": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flwdm5sznr9uc0u2xuzy3.jpeg",
       "source": "Dev.to",
       "user": "Ryan Swift"
     },
@@ -488,20 +488,6 @@
       "user": "David Cantrell"
     },
     {
-      "title": "Claude and I aren't vibing at all",
-      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
-      "published_at": "2026-04-23T02:48:08Z",
-      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
-      "tags": [
-        "claude",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
-      "source": "Dev.to",
-      "user": "Nikhil Sharma"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -645,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 378,
       "user": "sandeco"
     },
     {
@@ -660,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2302,
       "user": "theori-io"
     },
     {
@@ -675,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1139,
+      "stars": 1179,
       "user": "denuitt1"
     },
     {
@@ -705,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 502,
       "user": "Kianmhz"
     }
   ],
@@ -917,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 378,
       "user": "sandeco"
     },
     {
@@ -947,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "waybarrios"
     },
     {
@@ -977,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "Pathos0925"
     }
   ],
@@ -1159,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2302,
       "user": "theori-io"
     },
     {
@@ -1174,7 +1160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1139,
+      "stars": 1179,
       "user": "denuitt1"
     },
     {
@@ -1204,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "NyxTides"
     },
     {
@@ -1338,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "waybarrios"
     }
   ],
@@ -1415,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "waybarrios"
     }
   ],
@@ -1670,7 +1656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1139,
+      "stars": 1179,
       "user": "denuitt1"
     }
   ],
@@ -1758,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "waybarrios"
     }
   ],
@@ -1949,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 378,
       "user": "sandeco"
     },
     {
@@ -1979,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "waybarrios"
     },
     {
@@ -2009,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "Pathos0925"
     },
     {
@@ -2024,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2302,
       "user": "theori-io"
     },
     {
@@ -2039,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1139,
+      "stars": 1179,
       "user": "denuitt1"
     },
     {
@@ -2069,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "NyxTides"
     },
     {
@@ -2099,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 502,
       "user": "Kianmhz"
     },
     {
@@ -2159,7 +2145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "benqi-finance"
     }
   ]
