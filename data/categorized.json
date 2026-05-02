@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "I Don't Like Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
       "published_at": "2026-05-01T16:11:48Z",
@@ -14,6 +29,63 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
       "source": "Dev.to",
       "user": "Andy Robinson"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
+      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9",
+      "published_at": "2026-05-02T10:08:42Z",
+      "description": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
+      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
+      "published_at": "2026-05-02T14:11:45Z",
+      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "tags": [
+        "firebase",
+        "angular",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Porting Libraries to Crystal with AI",
+      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
+      "published_at": "2026-05-02T06:40:43Z",
+      "description": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
+      "tags": [
+        "crystal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png",
+      "source": "Dev.to",
+      "user": "kojix2"
     },
     {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
@@ -192,48 +264,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
-      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
-      "published_at": "2026-04-17T13:18:29Z",
-      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
-      "tags": [
-        "drupal",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
-      "source": "Dev.to",
-      "user": "James Candan"
-    },
-    {
-      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
-      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
-      "published_at": "2026-04-19T06:21:26Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
-      "source": "Dev.to",
-      "user": "Setiaji"
     },
     {
       "title": "Why I'm Building SaaS in 2026",
@@ -600,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 441,
       "user": "sandeco"
     },
     {
@@ -615,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2867,
       "user": "theori-io"
     },
     {
@@ -630,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1630,
       "user": "denuitt1"
     },
     {
@@ -645,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 915,
       "user": "DanOps-1"
     },
     {
@@ -660,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 565,
       "user": "Kianmhz"
     },
     {
@@ -675,11 +705,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "Hidden-Node"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
+      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
+      "published_at": "2026-05-02T14:11:45Z",
+      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "tags": [
+        "firebase",
+        "angular",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
     {
       "title": "Mapbox GL JS adds support for PMTiles vector sources",
       "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b",
@@ -694,36 +739,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
       "source": "Dev.to",
       "user": "Chris Whong"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM",
-      "url": "https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5",
-      "published_at": "2026-04-30T17:00:00Z",
-      "description": "We've all been there. You write a simple script to process a JSON or CSV file. It works perfectly on...",
-      "tags": [
-        "node",
-        "typescript",
-        "etl",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkyffrdzlnyd80d2qmdln.png",
-      "source": "Dev.to",
-      "user": "Pujan Srivastava"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -887,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 441,
       "user": "sandeco"
     },
     {
@@ -902,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "amirshaker000"
     },
     {
@@ -917,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "waybarrios"
     },
     {
@@ -932,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "TQ-trade"
     },
     {
@@ -962,11 +977,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "Hidden-Node"
     }
   ],
   "Python": [
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
       "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
@@ -981,21 +1011,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
-    },
-    {
-      "title": "Installing pygame for IDLE on Mac",
-      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
-      "published_at": "2026-04-21T19:13:08Z",
-      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
-      "tags": [
-        "beginners",
-        "gamedev",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
-      "source": "Dev.to",
-      "user": "David Newberry"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1129,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2867,
       "user": "theori-io"
     },
     {
@@ -1144,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1630,
       "user": "denuitt1"
     },
     {
@@ -1159,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 915,
       "user": "DanOps-1"
     },
     {
@@ -1174,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 620,
       "user": "Fokkyp"
     },
     {
@@ -1189,11 +1204,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "NyxTides"
     }
   ],
   "DevOps": [
+    {
+      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
+      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci",
+      "published_at": "2026-05-01T16:33:19Z",
+      "description": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
+      "tags": [
+        "azure",
+        "github",
+        "automation",
+        "githubactions"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0dr6qw56mg7kkpnk0u.jpg",
+      "source": "Dev.to",
+      "user": "Ramy Gamal"
+    },
     {
       "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
       "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48",
@@ -1308,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "waybarrios"
     }
   ],
@@ -1385,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "waybarrios"
     },
     {
@@ -1400,11 +1430,86 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "Hidden-Node"
     }
   ],
   "Cloud": [
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
+      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
+      "published_at": "2026-05-02T14:11:45Z",
+      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
+      "tags": [
+        "firebase",
+        "angular",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9",
+      "published_at": "2026-05-02T08:44:34Z",
+      "description": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "adk",
+        "googlecloudnext"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgkiwerio8s8d3t7lzs8.png",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
+      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
+      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci",
+      "published_at": "2026-05-01T16:33:19Z",
+      "description": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
+      "tags": [
+        "azure",
+        "github",
+        "automation",
+        "githubactions"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0dr6qw56mg7kkpnk0u.jpg",
+      "source": "Dev.to",
+      "user": "Ramy Gamal"
+    },
     {
       "title": "Agents are building their own UIs now. Here's when that's worth doing.",
       "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d",
@@ -1449,35 +1554,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "There was actually a Fifth Crew Member on Artemis II and it was Gemini Enterprise",
-      "url": "https://dev.to/victoria_ofuasia_245027c9/there-was-actually-a-fifth-crew-member-on-artemis-ii-and-it-was-gemini-enterprise-3831",
-      "published_at": "2026-04-30T06:59:32Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  Gemini Enterprise is reaching...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fktrecuz31fddk29ius7h.jpeg",
-      "source": "Dev.to",
-      "user": "Victoria Ofuasia"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
@@ -1610,7 +1686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1630,
       "user": "denuitt1"
     }
   ],
@@ -1698,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "waybarrios"
     }
   ],
@@ -1717,6 +1793,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
       "source": "Dev.to",
       "user": "Kiran Randhawa"
+    },
+    {
+      "title": "Migrating Azure Devops Activity to GitHub 🔄️",
+      "url": "https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci",
+      "published_at": "2026-05-01T16:33:19Z",
+      "description": "GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...",
+      "tags": [
+        "azure",
+        "github",
+        "automation",
+        "githubactions"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0dr6qw56mg7kkpnk0u.jpg",
+      "source": "Dev.to",
+      "user": "Ramy Gamal"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -1874,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 441,
       "user": "sandeco"
     },
     {
@@ -1889,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "amirshaker000"
     },
     {
@@ -1904,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "waybarrios"
     },
     {
@@ -1919,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "TQ-trade"
     },
     {
@@ -1949,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2867,
       "user": "theori-io"
     },
     {
@@ -1964,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1630,
       "user": "denuitt1"
     },
     {
@@ -1979,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 915,
       "user": "DanOps-1"
     },
     {
@@ -1994,7 +2085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 620,
       "user": "Fokkyp"
     },
     {
@@ -2009,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "NyxTides"
     },
     {
@@ -2024,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 565,
       "user": "Kianmhz"
     },
     {
@@ -2069,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "openclaw"
     },
     {
@@ -2084,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "Hidden-Node"
     }
   ]
