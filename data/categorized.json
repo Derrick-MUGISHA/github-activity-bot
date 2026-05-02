@@ -326,21 +326,6 @@
       "user": "xbill"
     },
     {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Why I'm Building SaaS in 2026",
       "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
       "published_at": "2026-04-29T12:42:21Z",
@@ -354,6 +339,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
       "source": "Dev.to",
       "user": "arunkant"
+    },
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "ChatGPT 5.4 v/s Claude Opus 4.6: Which Model Should You use?",
@@ -632,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 412,
       "user": "sandeco"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2539,
+      "stars": 2603,
       "user": "theori-io"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1355,
       "user": "denuitt1"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 886,
       "user": "DanOps-1"
     },
     {
@@ -692,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 523,
       "user": "Kianmhz"
     },
     {
@@ -707,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "Hidden-Node"
     }
   ],
@@ -919,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 412,
       "user": "sandeco"
     },
     {
@@ -934,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "amirshaker000"
     },
     {
@@ -949,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "waybarrios"
     },
     {
@@ -964,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "Pathos0925"
     },
     {
@@ -979,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "TQ-trade"
     },
     {
@@ -994,7 +994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "Hidden-Node"
     }
   ],
@@ -1176,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2539,
+      "stars": 2603,
       "user": "theori-io"
     },
     {
@@ -1191,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1355,
       "user": "denuitt1"
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 886,
       "user": "DanOps-1"
     },
     {
@@ -1221,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 554,
       "user": "Fokkyp"
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "waybarrios"
     }
   ],
@@ -1417,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "waybarrios"
     },
     {
@@ -1432,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "Hidden-Node"
     }
   ],
@@ -1687,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1355,
       "user": "denuitt1"
     }
   ],
@@ -1775,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "waybarrios"
     }
   ],
@@ -1937,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 412,
       "user": "sandeco"
     },
     {
@@ -1952,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "amirshaker000"
     },
     {
@@ -1967,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 188,
       "user": "waybarrios"
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "Pathos0925"
     },
     {
@@ -1997,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "TQ-trade"
     },
     {
@@ -2012,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2539,
+      "stars": 2603,
       "user": "theori-io"
     },
     {
@@ -2027,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1355,
       "user": "denuitt1"
     },
     {
@@ -2042,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 886,
       "user": "DanOps-1"
     },
     {
@@ -2057,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 554,
       "user": "Fokkyp"
     },
     {
@@ -2087,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 523,
       "user": "Kianmhz"
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "Hidden-Node"
     },
     {
@@ -2147,7 +2147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 73,
       "user": "watany-dev"
     }
   ]
