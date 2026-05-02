@@ -119,21 +119,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
-      "source": "Dev.to",
-      "user": "Grace Gong"
-    },
-    {
       "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
       "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
       "published_at": "2026-05-01T00:02:24Z",
@@ -615,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 436,
       "user": "sandeco"
     },
     {
@@ -630,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2848,
+      "stars": 2861,
       "user": "theori-io"
     },
     {
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1588,
+      "stars": 1613,
       "user": "denuitt1"
     },
     {
@@ -660,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "DanOps-1"
     },
     {
@@ -675,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 561,
       "user": "Kianmhz"
     },
     {
@@ -690,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "Hidden-Node"
     }
   ],
@@ -902,7 +887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 436,
       "user": "sandeco"
     },
     {
@@ -917,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 322,
       "user": "amirshaker000"
     },
     {
@@ -932,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "waybarrios"
     },
     {
@@ -947,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "TQ-trade"
     },
     {
@@ -977,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "Hidden-Node"
     }
   ],
@@ -1144,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2848,
+      "stars": 2861,
       "user": "theori-io"
     },
     {
@@ -1159,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1588,
+      "stars": 1613,
       "user": "denuitt1"
     },
     {
@@ -1174,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "DanOps-1"
     },
     {
@@ -1189,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 615,
       "user": "Fokkyp"
     },
     {
@@ -1323,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "waybarrios"
     }
   ],
@@ -1400,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "waybarrios"
     },
     {
@@ -1415,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "Hidden-Node"
     }
   ],
@@ -1434,21 +1419,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frc7iifrmqjexv3nkumlc.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
-      "source": "Dev.to",
-      "user": "Grace Gong"
     },
     {
       "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
@@ -1640,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1588,
+      "stars": 1613,
       "user": "denuitt1"
     }
   ],
@@ -1728,7 +1698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "waybarrios"
     }
   ],
@@ -1777,21 +1747,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
       "source": "Dev.to",
       "user": "Michael Larson"
-    },
-    {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
-      "source": "Dev.to",
-      "user": "Grace Gong"
     },
     {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
@@ -1919,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 436,
       "user": "sandeco"
     },
     {
@@ -1934,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 322,
       "user": "amirshaker000"
     },
     {
@@ -1949,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 197,
       "user": "waybarrios"
     },
     {
@@ -1964,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "TQ-trade"
     },
     {
@@ -1994,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2848,
+      "stars": 2861,
       "user": "theori-io"
     },
     {
@@ -2009,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1588,
+      "stars": 1613,
       "user": "denuitt1"
     },
     {
@@ -2024,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "DanOps-1"
     },
     {
@@ -2039,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 615,
       "user": "Fokkyp"
     },
     {
@@ -2069,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 561,
       "user": "Kianmhz"
     },
     {
@@ -2114,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 100,
       "user": "openclaw"
     },
     {
@@ -2129,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "Hidden-Node"
     }
   ]
