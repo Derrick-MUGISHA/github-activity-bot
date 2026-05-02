@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
-      "published_at": "2026-05-01T16:11:48Z",
-      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "tags": [
-        "css",
-        "webdev",
-        "discuss",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
-      "source": "Dev.to",
-      "user": "Andy Robinson"
-    },
-    {
       "title": "I Am Starting Over in Public",
       "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1",
       "published_at": "2026-05-01T18:51:18Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png",
       "source": "Dev.to",
       "user": "Mohanragul"
+    },
+    {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
+      "published_at": "2026-05-01T16:11:48Z",
+      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "tags": [
+        "css",
+        "webdev",
+        "discuss",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
+      "source": "Dev.to",
+      "user": "Andy Robinson"
     },
     {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
@@ -164,21 +164,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit Pradhan"
-    },
-    {
       "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
       "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
       "published_at": "2026-04-30T09:38:40Z",
@@ -311,21 +296,6 @@
       "user": "Setiaji"
     },
     {
-      "title": "MCP Configuration for Looker with Gemini CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
-      "published_at": "2026-04-29T16:12:04Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "lookml",
-        "skills",
-        "looker",
-        "businessintelligence"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why I'm Building SaaS in 2026",
       "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
       "published_at": "2026-04-29T12:42:21Z",
@@ -339,6 +309,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa45e1vj8vysgno36jl3.png",
       "source": "Dev.to",
       "user": "arunkant"
+    },
+    {
+      "title": "MCP Configuration for Looker with Gemini CLI",
+      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
+      "published_at": "2026-04-29T16:12:04Z",
+      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
+      "tags": [
+        "lookml",
+        "skills",
+        "looker",
+        "businessintelligence"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
@@ -384,21 +369,6 @@
       "user": "vaidehi Warghat"
     },
     {
-      "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
-      "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
-      "published_at": "2026-04-28T01:48:30Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...",
-      "tags": [
-        "vllm",
-        "googleadk",
-        "tpu",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
       "url": "https://dev.to/googleai/how-i-used-gemini-cli-to-orchestrate-a-complex-rag-migration-43ga",
       "published_at": "2026-04-28T13:02:03Z",
@@ -412,6 +382,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F58krv8bnbmmybxjiykue.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
+      "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
+      "published_at": "2026-04-28T01:48:30Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...",
+      "tags": [
+        "vllm",
+        "googleadk",
+        "tpu",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Cold Starts Are Dead",
@@ -632,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "sandeco"
     },
     {
@@ -647,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2660,
       "user": "theori-io"
     },
     {
@@ -662,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1402,
       "user": "denuitt1"
     },
     {
@@ -677,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 889,
       "user": "DanOps-1"
     },
     {
@@ -692,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 528,
       "user": "Kianmhz"
     },
     {
@@ -707,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "Hidden-Node"
     }
   ],
@@ -919,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "sandeco"
     },
     {
@@ -934,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "amirshaker000"
     },
     {
@@ -949,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "waybarrios"
     },
     {
@@ -964,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "Pathos0925"
     },
     {
@@ -979,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 138,
       "user": "TQ-trade"
     },
     {
@@ -994,7 +979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "Hidden-Node"
     }
   ],
@@ -1176,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2660,
       "user": "theori-io"
     },
     {
@@ -1191,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1402,
       "user": "denuitt1"
     },
     {
@@ -1206,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 889,
       "user": "DanOps-1"
     },
     {
@@ -1221,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 561,
       "user": "Fokkyp"
     },
     {
@@ -1236,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 527,
       "user": "NyxTides"
     }
   ],
@@ -1355,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "waybarrios"
     }
   ],
@@ -1417,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "waybarrios"
     },
     {
@@ -1432,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "Hidden-Node"
     }
   ],
@@ -1466,21 +1451,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frc7iifrmqjexv3nkumlc.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit Pradhan"
     },
     {
       "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
@@ -1687,7 +1657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1402,
       "user": "denuitt1"
     }
   ],
@@ -1775,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "waybarrios"
     }
   ],
@@ -1937,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "sandeco"
     },
     {
@@ -1952,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 313,
       "user": "amirshaker000"
     },
     {
@@ -1967,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "waybarrios"
     },
     {
@@ -1982,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "Pathos0925"
     },
     {
@@ -1997,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 138,
       "user": "TQ-trade"
     },
     {
@@ -2012,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2603,
+      "stars": 2660,
       "user": "theori-io"
     },
     {
@@ -2027,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1402,
       "user": "denuitt1"
     },
     {
@@ -2042,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 889,
       "user": "DanOps-1"
     },
     {
@@ -2057,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 561,
       "user": "Fokkyp"
     },
     {
@@ -2072,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 527,
       "user": "NyxTides"
     },
     {
@@ -2087,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 528,
       "user": "Kianmhz"
     },
     {
@@ -2132,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "Hidden-Node"
     },
     {
