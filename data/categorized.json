@@ -76,21 +76,6 @@
       "user": "Matthew Revell"
     },
     {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -132,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flwdm5sznr9uc0u2xuzy3.jpeg",
       "source": "Dev.to",
       "user": "Ryan Swift"
-    },
-    {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
-      "published_at": "2026-04-29T18:28:37Z",
-      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
-      "tags": [
-        "testing",
-        "e2e",
-        "playwright",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
-      "source": "Dev.to",
-      "user": "Debbie O'Brien"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -267,6 +237,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
@@ -632,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2782,
       "user": "theori-io"
     },
     {
@@ -647,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1470,
       "user": "denuitt1"
     },
     {
@@ -662,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 895,
       "user": "DanOps-1"
     },
     {
@@ -677,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 543,
       "user": "Kianmhz"
     },
     {
@@ -692,11 +677,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "Hidden-Node"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Mapbox GL JS adds support for PMTiles vector sources",
+      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b",
+      "published_at": "2026-04-30T16:15:47Z",
+      "description": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
+      "tags": [
+        "spatialdata",
+        "pmtiles",
+        "web",
+        "webmapping"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
+      "source": "Dev.to",
+      "user": "Chris Whong"
+    },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
       "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
@@ -726,21 +726,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkyffrdzlnyd80d2qmdln.png",
       "source": "Dev.to",
       "user": "Pujan Srivastava"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b",
-      "published_at": "2026-04-30T16:15:47Z",
-      "description": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "tags": [
-        "spatialdata",
-        "pmtiles",
-        "web",
-        "webmapping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
-      "source": "Dev.to",
-      "user": "Chris Whong"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -919,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "amirshaker000"
     },
     {
@@ -964,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "TQ-trade"
     },
     {
@@ -979,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "Hidden-Node"
     }
   ],
@@ -1161,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2782,
       "user": "theori-io"
     },
     {
@@ -1176,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1470,
       "user": "denuitt1"
     },
     {
@@ -1191,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 895,
       "user": "DanOps-1"
     },
     {
@@ -1206,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "Fokkyp"
     },
     {
@@ -1221,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 530,
       "user": "NyxTides"
     }
   ],
@@ -1417,26 +1402,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "Hidden-Node"
     }
   ],
   "Cloud": [
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
     {
       "title": "Agents are building their own UIs now. Here's when that's worth doing.",
       "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d",
@@ -1525,6 +1495,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fktrecuz31fddk29ius7h.jpeg",
       "source": "Dev.to",
       "user": "Victoria Ofuasia"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
@@ -1657,7 +1642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1470,
       "user": "denuitt1"
     }
   ],
@@ -1796,21 +1781,6 @@
       "user": "Guilherme Yamakawa de Oliveira"
     },
     {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
-      "published_at": "2026-04-29T18:28:37Z",
-      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
-      "tags": [
-        "testing",
-        "e2e",
-        "playwright",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
-      "source": "Dev.to",
-      "user": "Debbie O'Brien"
-    },
-    {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
       "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
       "published_at": "2026-04-27T02:00:10Z",
@@ -1922,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "amirshaker000"
     },
     {
@@ -1967,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "TQ-trade"
     },
     {
@@ -1982,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2753,
+      "stars": 2782,
       "user": "theori-io"
     },
     {
@@ -1997,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1470,
       "user": "denuitt1"
     },
     {
@@ -2012,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 895,
       "user": "DanOps-1"
     },
     {
@@ -2027,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "Fokkyp"
     },
     {
@@ -2042,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 530,
       "user": "NyxTides"
     },
     {
@@ -2057,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 543,
       "user": "Kianmhz"
     },
     {
@@ -2102,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "Hidden-Node"
     },
     {
@@ -2117,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 81,
       "user": "openclaw"
     }
   ]
