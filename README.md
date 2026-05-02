@@ -34,13 +34,13 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
-
-**Mobile**: 🟦🟦 6 (5.7%)
-
 **WebDev**: 🟦🟦 5 (4.8%)
+
+**Mobile**: 🟦🟦 5 (4.8%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 33.3 (33.3%)
-JavaScript      █████████████████████ 23.0 (23.0%)
-Python          ██████████████████ 19.5 (19.5%)
-Java            ██████████████████ 19.5 (19.5%)
-Kotlin          ███ 3.4 (3.4%)
+Go              ██████████████████████████████ 34.5 (34.5%)
+JavaScript      ████████████████████ 23.0 (23.0%)
+Python          █████████████████ 19.5 (19.5%)
+Java            █████████████████ 19.5 (19.5%)
+Kotlin          ██ 2.3 (2.3%)
 Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
+    "Go" : 30
     "JavaScript" : 20
     "Python" : 17
     "Java" : 17
-    "Kotlin" : 3
+    "Kotlin" : 2
     "Swift" : 1
 ```
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-02 20:00 CAT)
+## 📅 Latest Updates (2026-05-02 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -139,26 +139,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png" width="200" alt="GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors" />
-      <br/>
-      <b>GCP in Action: Migrating a LINE Bot from AI Studio...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png" width="200" alt="I Don't Like Tailwind. Sorry Not Sorry" />
-      <br/>
-      <b>I Don't Like Tailwind. Sorry Not Sorry</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png" width="200" alt="GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram" />
@@ -177,11 +157,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png" width="200" alt="GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors" />
+      <br/>
+      <b>GCP in Action: Migrating a LINE Bot from AI Studio...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg" width="200" alt="Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]" />
       <br/>
       <b>Building Dynamic Audio with Emotion & Pace: Gemini...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png" width="200" alt="Porting Libraries to Crystal with AI" />
+      <br/>
+      <b>Porting Libraries to Crystal with AI</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,14 +194,13 @@ npm run test
 ### 📰 Top Headlines
 
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
-- [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
-- [I Don't Like Tailwind. Sorry Not Sorry](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) _[Dev.to]_
 - [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
 - [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) _[Dev.to]_
+- [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
 - [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8) _[Dev.to]_
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
-- [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
+- [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9) _[Dev.to]_
 - [Gaffa @ Major League Hacking's Global Hack Week](https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b) _[Dev.to]_
 - [Getting Started with ChromeOS Flex](https://dev.to/gde/getting-started-with-chromeos-flex-58jn) _[Dev.to]_
@@ -211,10 +210,11 @@ npm run test
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 - [Mapbox GL JS adds support for PMTiles vector sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ig5) _[Dev.to]_
+- [I Don't Like Tailwind. Sorry Not Sorry](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) _[Dev.to]_
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941) _[Dev.to]_
 
-_Last automated update: Sat, 02 May 2026 20:02:03 CAT_
+_Last automated update: Sat, 02 May 2026 21:16:55 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 02 May 2026 20:02:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 02 May 2026 18:02:03 GMT</b><br/>
+  <b>Last automated update: Sat, 02 May 2026 19:16:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

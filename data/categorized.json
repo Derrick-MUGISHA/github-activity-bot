@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
-      "published_at": "2026-05-01T16:11:48Z",
-      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "tags": [
-        "css",
-        "webdev",
-        "discuss",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
-      "source": "Dev.to",
-      "user": "Andy Robinson"
-    },
-    {
       "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
       "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
       "published_at": "2026-05-02T12:01:42Z",
@@ -57,6 +27,21 @@
         "google"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -88,21 +73,6 @@
       "user": "kojix2"
     },
     {
-      "title": "How Making a Fountain Pen Made Me a Better Developer",
-      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
-      "published_at": "2026-05-01T12:46:57Z",
-      "description": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
-      "tags": [
-        "learning",
-        "productivity",
-        "sideprojects",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
-      "source": "Dev.to",
-      "user": "Kiran Randhawa"
-    },
-    {
       "title": "I Am Starting Over in Public",
       "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1",
       "published_at": "2026-05-01T18:51:18Z",
@@ -116,6 +86,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png",
       "source": "Dev.to",
       "user": "Mohanragul"
+    },
+    {
+      "title": "How Making a Fountain Pen Made Me a Better Developer",
+      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
+      "published_at": "2026-05-01T12:46:57Z",
+      "description": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
+      "tags": [
+        "learning",
+        "productivity",
+        "sideprojects",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
+      "source": "Dev.to",
+      "user": "Kiran Randhawa"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -159,6 +144,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
+    },
+    {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
+      "published_at": "2026-05-01T16:11:48Z",
+      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "tags": [
+        "css",
+        "webdev",
+        "discuss",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
+      "source": "Dev.to",
+      "user": "Andy Robinson"
     },
     {
       "title": "Stop Using Your Clipboard to Share Context",
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 445,
       "user": "sandeco"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2867,
+      "stars": 2872,
       "user": "theori-io"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1630,
+      "stars": 1649,
       "user": "denuitt1"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 571,
       "user": "Kianmhz"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 96,
       "user": "Hidden-Node"
     }
   ],
@@ -902,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 445,
       "user": "sandeco"
     },
     {
@@ -917,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 325,
       "user": "amirshaker000"
     },
     {
@@ -947,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "TQ-trade"
     },
     {
@@ -962,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "Pathos0925"
     },
     {
@@ -977,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 96,
       "user": "Hidden-Node"
     }
   ],
@@ -1144,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2867,
+      "stars": 2872,
       "user": "theori-io"
     },
     {
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1630,
+      "stars": 1649,
       "user": "denuitt1"
     },
     {
@@ -1189,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "Fokkyp"
     },
     {
@@ -1272,6 +1272,19 @@
   ],
   "WebDev": [
     {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
+      "published_at": "2026-04-26T13:10:27Z",
+      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
+      "tags": [
+        "backend",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
+      "source": "Dev.to",
+      "user": "Rahmon Toyeeb"
+    },
+    {
       "title": "I Don't Like Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
       "published_at": "2026-05-01T16:11:48Z",
@@ -1285,19 +1298,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
       "source": "Dev.to",
       "user": "Andy Robinson"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
     },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
@@ -1343,21 +1343,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "More Accessible Focus Indicators with Compose",
-      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
-      "published_at": "2026-04-30T11:22:00Z",
-      "description": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
-      "tags": [
-        "android",
-        "a11y",
-        "mobile",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png",
-      "source": "Dev.to",
-      "user": "Eevis"
-    },
     {
       "title": "Forking Paseo: Mobile vibe coding for me",
       "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
@@ -1430,26 +1415,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 96,
       "user": "Hidden-Node"
     }
   ],
   "Cloud": [
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
     {
       "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
       "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
@@ -1462,6 +1432,21 @@
         "tutorial"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -1554,6 +1539,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "There was actually a Fifth Crew Member on Artemis II and it was Gemini Enterprise",
+      "url": "https://dev.to/victoria_ofuasia_245027c9/there-was-actually-a-fifth-crew-member-on-artemis-ii-and-it-was-gemini-enterprise-3831",
+      "published_at": "2026-04-30T06:59:32Z",
+      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  Gemini Enterprise is reaching...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fktrecuz31fddk29ius7h.jpeg",
+      "source": "Dev.to",
+      "user": "Victoria Ofuasia"
     },
     {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
@@ -1686,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1630,
+      "stars": 1649,
       "user": "denuitt1"
     }
   ],
@@ -1965,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 445,
       "user": "sandeco"
     },
     {
@@ -1980,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 325,
       "user": "amirshaker000"
     },
     {
@@ -2010,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "TQ-trade"
     },
     {
@@ -2025,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "Pathos0925"
     },
     {
@@ -2040,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2867,
+      "stars": 2872,
       "user": "theori-io"
     },
     {
@@ -2055,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1630,
+      "stars": 1649,
       "user": "denuitt1"
     },
     {
@@ -2085,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "Fokkyp"
     },
     {
@@ -2115,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 571,
       "user": "Kianmhz"
     },
     {
@@ -2130,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "benqi-finance"
     },
     {
@@ -2160,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "openclaw"
     },
     {
@@ -2175,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 96,
       "user": "Hidden-Node"
     }
   ]
