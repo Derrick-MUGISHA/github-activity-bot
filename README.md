@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-02 22:00 CAT)
+## 📅 Latest Updates (2026-05-02 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +140,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png" width="200" alt="GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram" />
-      <br/>
-      <b>GCP in Action: Building a Persistent AI Assistant ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png" width="200" alt="Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading" />
       <br/>
@@ -157,13 +148,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png" width="200" alt="GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors" />
       <br/>
       <b>GCP in Action: Migrating a LINE Bot from AI Studio...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png" width="200" alt="GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram" />
+      <br/>
+      <b>GCP in Action: Building a Persistent AI Assistant ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -178,10 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png" width="200" alt="Porting Libraries to Crystal with AI" />
+    <a href="https://dev.to/mohan-01/i-am-starting-over-in-public-25n1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png" width="200" alt="I Am Starting Over in Public" />
       <br/>
-      <b>Porting Libraries to Crystal with AI</b>
+      <b>I Am Starting Over in Public</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,15 +194,15 @@ npm run test
 ### 📰 Top Headlines
 
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
-- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
 - [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) _[Dev.to]_
 - [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
 - [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8) _[Dev.to]_
-- [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
 - [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9) _[Dev.to]_
 - [Gaffa @ Major League Hacking's Global Hack Week](https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b) _[Dev.to]_
+- [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
 - [Getting Started with ChromeOS Flex](https://dev.to/gde/getting-started-with-chromeos-flex-58jn) _[Dev.to]_
 - [Migrating Azure Devops Activity to GitHub 🔄️](https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941) _[Dev.to]_
 
-_Last automated update: Sat, 02 May 2026 22:59:37 CAT_
+_Last automated update: Sat, 02 May 2026 23:52:34 CAT_
 
 
 
@@ -222,29 +222,18 @@ _Last automated update: Sat, 02 May 2026 22:59:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
-
-<details>
-<summary>💡 Hint</summary>
-
-Sliding window, hash map, two pointers
-
-</details>
-
-### 2. SystemDesign: Design a distributed cache system
-
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 2. NodeJS: Implement rate limiting for an API
 
 **Difficulty**: Hard | **Topics**: security, middleware
 
@@ -252,6 +241,17 @@ Consistency, partitioning, replication, eviction policies
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, Redis
+
+</details>
+
+### 3. DataStructures: Find the median of two sorted arrays
+
+**Difficulty**: Hard | **Topics**: arrays, binary search
+
+<details>
+<summary>💡 Hint</summary>
+
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 02 May 2026 20:59:37 GMT</b><br/>
+  <b>Last automated update: Sat, 02 May 2026 21:52:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
