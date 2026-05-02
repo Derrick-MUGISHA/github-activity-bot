@@ -266,6 +266,48 @@
       "user": "avinash"
     },
     {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
+      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
+      "published_at": "2026-04-17T13:18:29Z",
+      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
+      "tags": [
+        "drupal",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
+      "source": "Dev.to",
+      "user": "James Candan"
+    },
+    {
+      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
+      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
+      "published_at": "2026-04-19T06:21:26Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
+      "source": "Dev.to",
+      "user": "Setiaji"
+    },
+    {
       "title": "Why I'm Building SaaS in 2026",
       "url": "https://dev.to/arunkant/why-im-building-saas-in-2026-55hn",
       "published_at": "2026-04-29T12:42:21Z",
@@ -414,6 +456,21 @@
       "user": "Sreejit Pradhan"
     },
     {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
+    },
+    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -456,35 +513,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
       "source": "Dev.to",
       "user": "David Cantrell"
-    },
-    {
-      "title": "Claude and I aren't vibing at all",
-      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
-      "published_at": "2026-04-23T02:48:08Z",
-      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
-      "tags": [
-        "claude",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
-      "source": "Dev.to",
-      "user": "Nikhil Sharma"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -645,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2872,
+      "stars": 2874,
       "user": "theori-io"
     },
     {
@@ -660,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1649,
+      "stars": 1655,
       "user": "denuitt1"
     },
     {
@@ -739,6 +767,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
       "source": "Dev.to",
       "user": "Chris Whong"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -917,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "amirshaker000"
     },
     {
@@ -1011,6 +1054,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "Installing pygame for IDLE on Mac",
+      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
+      "published_at": "2026-04-21T19:13:08Z",
+      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
+      "tags": [
+        "beginners",
+        "gamedev",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
+      "source": "Dev.to",
+      "user": "David Newberry"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1144,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2872,
+      "stars": 2874,
       "user": "theori-io"
     },
     {
@@ -1159,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1649,
+      "stars": 1655,
       "user": "denuitt1"
     },
     {
@@ -1189,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "Fokkyp"
     },
     {
@@ -1359,6 +1417,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "More Accessible Focus Indicators with Compose",
+      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
+      "published_at": "2026-04-30T11:22:00Z",
+      "description": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
+      "tags": [
+        "android",
+        "a11y",
+        "mobile",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png",
+      "source": "Dev.to",
+      "user": "Eevis"
+    },
+    {
       "title": "How to Remove Console.log from React Native Production Builds",
       "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
       "published_at": "2026-04-27T10:29:37Z",
@@ -1372,21 +1445,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
-    },
-    {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
     },
     {
       "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
@@ -1555,6 +1613,21 @@
       "user": "Victoria Ofuasia"
     },
     {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
       "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
       "published_at": "2026-04-28T19:54:21Z",
@@ -1630,6 +1703,21 @@
       "user": "Evertson Croes"
     },
     {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
+    },
+    {
       "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
       "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
       "published_at": "2026-04-22T14:09:18Z",
@@ -1640,36 +1728,6 @@
         "cloudnextchallenge"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
-      "url": "https://dev.to/gde/my-incredible-google-cloud-next-26-experience-as-a-gde-17mo",
-      "published_at": "2026-04-28T13:40:53Z",
-      "description": "Hello friends! I landed back in the UK this evening, after spending the last few days in Vegas for...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "gde",
-        "vegas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgka83cqbx4plab38jot.jpg",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -1685,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1649,
+      "stars": 1655,
       "user": "denuitt1"
     }
   ],
@@ -1899,6 +1957,21 @@
       "user": "Debbie O'Brien"
     },
     {
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
+      "published_at": "2026-04-30T09:38:40Z",
+      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "tags": [
+        "tpu",
+        "googlecloud",
+        "googledevs",
+        "tpusprint"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "source": "Dev.to",
+      "user": "Grace Gong"
+    },
+    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1938,21 +2011,6 @@
       "user": "David Cantrell"
     },
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
-    },
-    {
       "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
       "url": "https://github.com/sandeco/reversa",
       "published_at": "2026-04-26T13:47:10Z",
@@ -1979,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 327,
       "user": "amirshaker000"
     },
     {
@@ -2039,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2872,
+      "stars": 2874,
       "user": "theori-io"
     },
     {
@@ -2054,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1649,
+      "stars": 1655,
       "user": "denuitt1"
     },
     {
@@ -2084,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "Fokkyp"
     },
     {
