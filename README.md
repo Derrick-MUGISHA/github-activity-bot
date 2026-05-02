@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-02 9:00 CAT)
+## 📅 Latest Updates (2026-05-02 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -149,17 +149,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mohan-01/i-am-starting-over-in-public-25n1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png" width="200" alt="I Am Starting Over in Public" />
-      <br/>
-      <b>I Am Starting Over in Public</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png" width="200" alt="I Don't Like Tailwind. Sorry Not Sorry" />
       <br/>
@@ -168,11 +157,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png" width="200" alt="How Making a Fountain Pen Made Me a Better Developer" />
       <br/>
       <b>How Making a Fountain Pen Made Me a Better Develop...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/mohan-01/i-am-starting-over-in-public-25n1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png" width="200" alt="I Am Starting Over in Public" />
+      <br/>
+      <b>I Am Starting Over in Public</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,9 +195,9 @@ npm run test
 
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ig5) _[Dev.to]_
-- [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
 - [I Don't Like Tailwind. Sorry Not Sorry](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5) _[Dev.to]_
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
+- [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
 - [Gaffa @ Major League Hacking's Global Hack Week](https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b) _[Dev.to]_
 - [Getting Started with ChromeOS Flex](https://dev.to/gde/getting-started-with-chromeos-flex-58jn) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [How I Used AI to Fix Our E2E Test Architecture](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 
-_Last automated update: Sat, 02 May 2026 09:58:54 CAT_
+_Last automated update: Sat, 02 May 2026 11:13:20 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 02 May 2026 09:58:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 02 May 2026 07:58:54 GMT</b><br/>
+  <b>Last automated update: Sat, 02 May 2026 09:13:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
