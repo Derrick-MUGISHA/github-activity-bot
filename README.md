@@ -214,7 +214,7 @@ npm run test
 - [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k) _[Dev.to]_
 - [I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.](https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641) _[Dev.to]_
 
-_Last automated update: Sat, 02 May 2026 13:06:13 CAT_
+_Last automated update: Sat, 02 May 2026 13:58:10 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 02 May 2026 13:06:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+useState, useEffect, loading states, error handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 02 May 2026 11:06:13 GMT</b><br/>
+  <b>Last automated update: Sat, 02 May 2026 11:58:10 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
