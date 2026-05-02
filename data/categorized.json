@@ -89,21 +89,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "Forking Paseo: Mobile vibe coding for me",
-      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
-      "published_at": "2026-04-29T19:02:07Z",
-      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Stop Using Your Clipboard to Share Context",
       "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
       "published_at": "2026-04-30T16:27:59Z",
@@ -322,6 +307,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
+    },
+    {
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "published_at": "2026-04-29T19:02:07Z",
+      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 424,
       "user": "sandeco"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2810,
+      "stars": 2831,
       "user": "theori-io"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1520,
+      "stars": 1551,
       "user": "denuitt1"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 908,
       "user": "DanOps-1"
     },
     {
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "Kianmhz"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "Hidden-Node"
     }
   ],
@@ -917,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 424,
       "user": "sandeco"
     },
     {
@@ -932,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "amirshaker000"
     },
     {
@@ -977,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "TQ-trade"
     },
     {
@@ -992,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "Hidden-Node"
     }
   ],
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2810,
+      "stars": 2831,
       "user": "theori-io"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1520,
+      "stars": 1551,
       "user": "denuitt1"
     },
     {
@@ -1189,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 908,
       "user": "DanOps-1"
     },
     {
@@ -1204,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 600,
       "user": "Fokkyp"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "NyxTides"
     }
   ],
@@ -1344,21 +1344,6 @@
   ],
   "Mobile": [
     {
-      "title": "Forking Paseo: Mobile vibe coding for me",
-      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
-      "published_at": "2026-04-29T19:02:07Z",
-      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "More Accessible Focus Indicators with Compose",
       "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
       "published_at": "2026-04-30T11:22:00Z",
@@ -1372,6 +1357,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png",
       "source": "Dev.to",
       "user": "Eevis"
+    },
+    {
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "published_at": "2026-04-29T19:02:07Z",
+      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -1430,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "Hidden-Node"
     }
   ],
@@ -1670,7 +1670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1520,
+      "stars": 1551,
       "user": "denuitt1"
     }
   ],
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 424,
       "user": "sandeco"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "amirshaker000"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "TQ-trade"
     },
     {
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2810,
+      "stars": 2831,
       "user": "theori-io"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1520,
+      "stars": 1551,
       "user": "denuitt1"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 908,
       "user": "DanOps-1"
     },
     {
@@ -2069,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 600,
       "user": "Fokkyp"
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "NyxTides"
     },
     {
@@ -2099,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "Kianmhz"
     },
     {
@@ -2114,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "benqi-finance"
     },
     {
@@ -2144,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "Hidden-Node"
     },
     {
