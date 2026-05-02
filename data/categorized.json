@@ -46,19 +46,19 @@
       "user": "Kiran Randhawa"
     },
     {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
       "tags": [
-        "machinelearning",
-        "python",
         "ai",
-        "deeplearning"
+        "agents",
+        "development",
+        "workspace"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
-      "user": "Omotayo Aina"
+      "user": "Philippe MARTIN"
     },
     {
       "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
@@ -74,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
@@ -207,6 +192,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
       "source": "Dev.to",
       "user": "Grace Gong"
+    },
+    {
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "tags": [
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
@@ -632,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 407,
       "user": "sandeco"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2440,
+      "stars": 2539,
       "user": "theori-io"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1333,
       "user": "denuitt1"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 881,
       "user": "DanOps-1"
     },
     {
@@ -692,8 +692,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 520,
       "user": "Kianmhz"
+    },
+    {
+      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
+      "published_at": "2026-04-28T22:33:54Z",
+      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "Hidden-Node"
     }
   ],
   "JavaScript": [
@@ -904,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 407,
       "user": "sandeco"
     },
     {
@@ -919,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 310,
       "user": "amirshaker000"
     },
     {
@@ -934,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "waybarrios"
     },
     {
@@ -949,7 +964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 143,
       "user": "Pathos0925"
     },
     {
@@ -964,8 +979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 131,
       "user": "TQ-trade"
+    },
+    {
+      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
+      "published_at": "2026-04-28T22:33:54Z",
+      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "Hidden-Node"
     }
   ],
   "Python": [
@@ -1146,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2440,
+      "stars": 2539,
       "user": "theori-io"
     },
     {
@@ -1161,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1333,
       "user": "denuitt1"
     },
     {
@@ -1176,23 +1206,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 881,
       "user": "DanOps-1"
-    },
-    {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 525,
-      "user": "NyxTides"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -1206,8 +1221,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 536,
       "user": "Fokkyp"
+    },
+    {
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 526,
+      "user": "NyxTides"
     }
   ],
   "DevOps": [
@@ -1325,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "waybarrios"
     }
   ],
@@ -1387,26 +1417,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "waybarrios"
+    },
+    {
+      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
+      "published_at": "2026-04-28T22:33:54Z",
+      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "Hidden-Node"
     }
   ],
   "Cloud": [
-    {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "tags": [
-        "machinelearning",
-        "python",
-        "ai",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
       "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
@@ -1466,6 +1496,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
       "source": "Dev.to",
       "user": "Grace Gong"
+    },
+    {
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "tags": [
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
     },
     {
       "title": "Are We Using AI at the Wrong Scale?",
@@ -1642,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1333,
       "user": "denuitt1"
     }
   ],
@@ -1730,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "waybarrios"
     }
   ],
@@ -1892,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 407,
       "user": "sandeco"
     },
     {
@@ -1907,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 310,
       "user": "amirshaker000"
     },
     {
@@ -1922,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "waybarrios"
     },
     {
@@ -1937,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 143,
       "user": "Pathos0925"
     },
     {
@@ -1952,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 131,
       "user": "TQ-trade"
     },
     {
@@ -1967,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2440,
+      "stars": 2539,
       "user": "theori-io"
     },
     {
@@ -1982,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1333,
       "user": "denuitt1"
     },
     {
@@ -1997,23 +2042,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 881,
       "user": "DanOps-1"
-    },
-    {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
-      "source": "GitHub",
-      "stars": 525,
-      "user": "NyxTides"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -2027,8 +2057,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 536,
       "user": "Fokkyp"
+    },
+    {
+      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "published_at": "2026-04-26T04:04:15Z",
+      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "source": "GitHub",
+      "stars": 526,
+      "user": "NyxTides"
     },
     {
       "title": "Kianmhz/GooseRelayVPN - Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
@@ -2042,8 +2087,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 520,
       "user": "Kianmhz"
+    },
+    {
+      "title": "benqi-finance/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "url": "https://github.com/benqi-finance/legalmarkdown",
+      "published_at": "2026-04-29T17:27:27Z",
+      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "benqi-finance"
     },
     {
       "title": "openyuanrong-project/yuanrong - openyuanrong project",
@@ -2061,19 +2121,19 @@
       "user": "openyuanrong-project"
     },
     {
-      "title": "benqi-finance/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "url": "https://github.com/benqi-finance/legalmarkdown",
-      "published_at": "2026-04-29T17:27:27Z",
-      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
+      "published_at": "2026-04-28T22:33:54Z",
+      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 97,
-      "user": "benqi-finance"
+      "stars": 80,
+      "user": "Hidden-Node"
     },
     {
       "title": "watany-dev/gitreal - GitHub Repository",
@@ -2087,23 +2147,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 70,
       "user": "watany-dev"
-    },
-    {
-      "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
-      "url": "https://github.com/openclaw/crabbox",
-      "published_at": "2026-04-30T14:31:48Z",
-      "description": "Crabbox: warm a box, sync the diff, run the suite.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 51,
-      "user": "openclaw"
     }
   ]
 }
