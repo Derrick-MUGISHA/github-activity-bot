@@ -6,13 +6,13 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 50,
+    "AI": 49,
     "JavaScript": 21,
     "Python": 17,
     "DevOps": 3,
     "WebDev": 5,
     "Mobile": 6,
-    "Cloud": 16,
+    "Cloud": 15,
     "Database": 1,
     "Security": 5,
     "Tools": 27
@@ -33,9 +33,9 @@
     "2026-04-29": 12,
     "2026-04-25": 1,
     "2026-04-19": 3,
-    "2026-04-28": 8,
+    "2026-04-28": 7,
     "2026-04-22": 2,
-    "2026-04-17": 3,
+    "2026-04-17": 4,
     "2026-04-21": 1,
     "2026-04-20": 1,
     "2026-04-16": 2,
@@ -72,7 +72,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 22,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
     "devchallenge": 10,
@@ -80,18 +80,18 @@
     "JavaScript": 10,
     "Python": 10,
     "googlecloud": 9,
+    "discuss": 7,
     "python": 7,
     "javascript": 7,
-    "discuss": 6,
     "cloudnextchallenge": 6,
-    "agents": 5,
     "go": 5,
     "productivity": 4,
-    "gemini": 4,
-    "programming": 4,
+    "agents": 4,
     "weekendchallenge": 3,
     "webdev": 3,
-    "devops": 3
+    "gemini": 3,
+    "devops": 3,
+    "architecture": 3
   },
   "trending_topics": [],
   "language_percentages": {
