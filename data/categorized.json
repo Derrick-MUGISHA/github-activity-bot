@@ -31,21 +31,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
-      "published_at": "2026-05-02T12:01:42Z",
-      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
       "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
       "published_at": "2026-05-02T14:11:45Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
       "source": "Dev.to",
       "user": "Kiran Randhawa"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Porting Libraries to Crystal with AI",
@@ -486,21 +486,6 @@
       "user": "kotakanbe"
     },
     {
-      "title": "Automation is a trade-off",
-      "url": "https://dev.to/suesmith/automation-is-a-trade-off-2fh8",
-      "published_at": "2026-04-28T15:06:42Z",
-      "description": "A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...",
-      "tags": [
-        "ai",
-        "webdev",
-        "lowcode",
-        "automation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqawvq0m3ofq4u7nz5fe.jpg",
-      "source": "Dev.to",
-      "user": "Sue Smith"
-    },
-    {
       "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
       "url": "https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i",
       "published_at": "2026-04-27T17:06:51Z",
@@ -513,6 +498,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftzac1fzls1kzvegzok89.png",
       "source": "Dev.to",
       "user": "David Cantrell"
+    },
+    {
+      "title": "Claude and I aren't vibing at all",
+      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
+      "published_at": "2026-04-23T02:48:08Z",
+      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
+      "tags": [
+        "claude",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
+      "source": "Dev.to",
+      "user": "Nikhil Sharma"
+    },
+    {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -647,36 +661,6 @@
       "user": "veesahni"
     },
     {
-      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
-      "url": "https://github.com/AIScientists-Dev/loupe",
-      "published_at": "2026-04-27T03:11:06Z",
-      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "AIScientists-Dev"
-    },
-    {
-      "title": "AeternaLabsHQ/pullmd - Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
-      "url": "https://github.com/AeternaLabsHQ/pullmd",
-      "published_at": "2026-04-27T07:32:25Z",
-      "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263174715?v=4",
-      "source": "GitHub",
-      "stars": 105,
-      "user": "AeternaLabsHQ"
-    },
-    {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
@@ -688,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2891,
+      "stars": 2920,
       "user": "theori-io"
     },
     {
@@ -703,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1710,
       "user": "denuitt1"
     },
     {
@@ -718,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 921,
       "user": "DanOps-1"
     },
     {
@@ -733,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "Hidden-Node"
     }
   ],
@@ -960,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 173,
       "user": "TQ-trade"
     },
     {
@@ -975,53 +959,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "Pathos0925"
     },
     {
-      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
-      "url": "https://github.com/AIScientists-Dev/loupe",
-      "published_at": "2026-04-27T03:11:06Z",
-      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
+      "url": "https://github.com/tgies/klattsch",
+      "published_at": "2026-04-30T21:57:14Z",
+      "description": "primitive parallel-formant speech synth in the browser",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "AIScientists-Dev"
+      "stars": 115,
+      "user": "tgies"
     },
     {
-      "title": "AeternaLabsHQ/pullmd - Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
-      "url": "https://github.com/AeternaLabsHQ/pullmd",
-      "published_at": "2026-04-27T07:32:25Z",
-      "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "title": "avacocloud/netlify-XHHTP - GitHub Repository",
+      "url": "https://github.com/avacocloud/netlify-XHHTP",
+      "published_at": "2026-04-29T03:57:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263174715?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 105,
-      "user": "AeternaLabsHQ"
-    },
-    {
-      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
-      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
-      "published_at": "2026-04-28T22:33:54Z",
-      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "Hidden-Node"
+      "stars": 113,
+      "user": "avacocloud"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1035,8 +1004,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 104,
       "user": "marchinthesun"
+    },
+    {
+      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
+      "published_at": "2026-04-28T22:33:54Z",
+      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "Hidden-Node"
     }
   ],
   "Python": [
@@ -1217,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2891,
+      "stars": 2920,
       "user": "theori-io"
     },
     {
@@ -1232,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1710,
       "user": "denuitt1"
     },
     {
@@ -1247,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 921,
       "user": "DanOps-1"
     },
     {
@@ -1262,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 638,
       "user": "Fokkyp"
     },
     {
@@ -1277,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 439,
       "user": "val1813"
     }
   ],
@@ -1354,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 104,
       "user": "marchinthesun"
     }
   ],
@@ -1417,21 +1401,6 @@
   ],
   "Mobile": [
     {
-      "title": "Forking Paseo: Mobile vibe coding for me",
-      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
-      "published_at": "2026-04-29T19:02:07Z",
-      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "More Accessible Focus Indicators with Compose",
       "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
       "published_at": "2026-04-30T11:22:00Z",
@@ -1445,6 +1414,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png",
       "source": "Dev.to",
       "user": "Eevis"
+    },
+    {
+      "title": "Forking Paseo: Mobile vibe coding for me",
+      "url": "https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa",
+      "published_at": "2026-04-29T19:02:07Z",
+      "description": "TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -1462,6 +1446,21 @@
       "user": "Neeraj Singh"
     },
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
       "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
       "published_at": "2026-04-28T22:33:54Z",
@@ -1473,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "Hidden-Node"
     }
   ],
@@ -1490,21 +1489,6 @@
         "tutorial"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
-      "published_at": "2026-05-02T12:01:42Z",
-      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -1537,6 +1521,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgkiwerio8s8d3t7lzs8.png",
       "source": "Dev.to",
       "user": "koichim2"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Migrating Azure Devops Activity to GitHub 🔄️",
@@ -1628,21 +1627,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕",
-      "url": "https://dev.to/googleai/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-45ib",
-      "published_at": "2026-04-28T19:54:21Z",
-      "description": "Google has just announced the release of Gemma 4! This new generation of open models brings...",
-      "tags": [
-        "gemma",
-        "machinelearning",
-        "googlecloud",
-        "cloudrun"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xrfesiib74bcdw63bu0.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Cold Starts Are Dead",
       "url": "https://dev.to/aws/cold-starts-are-dead-5fod",
       "published_at": "2026-04-29T03:09:17Z",
@@ -1732,6 +1716,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "avacocloud/netlify-XHHTP - GitHub Repository",
+      "url": "https://github.com/avacocloud/netlify-XHHTP",
+      "published_at": "2026-04-29T03:57:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "avacocloud"
+    },
+    {
       "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
       "url": "https://github.com/denuitt1/mhr-cfw",
       "published_at": "2026-04-27T22:26:16Z",
@@ -1743,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1710,
       "user": "denuitt1"
     },
     {
@@ -1758,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 104,
       "user": "marchinthesun"
     }
   ],
@@ -1927,21 +1941,6 @@
       "user": "yamadashy"
     },
     {
-      "title": "Slash commands: no more meaningless commits",
-      "url": "https://dev.to/guilherme44/slash-commands-no-more-meaningless-commits-38ae",
-      "published_at": "2026-05-01T03:18:51Z",
-      "description": "One of the things I've been using the most since I started with Claude Code is slash commands. And...",
-      "tags": [
-        "claudecode",
-        "opencode",
-        "productivity",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh17byti9962ryba41zzv.png",
-      "source": "Dev.to",
-      "user": "Guilherme Yamakawa de Oliveira"
-    },
-    {
       "title": "How I Used AI to Fix Our E2E Test Architecture",
       "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
       "published_at": "2026-04-29T18:28:37Z",
@@ -2011,6 +2010,21 @@
       "user": "David Cantrell"
     },
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -2037,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 173,
       "user": "TQ-trade"
     },
     {
@@ -2052,38 +2066,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "Pathos0925"
     },
     {
-      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
-      "url": "https://github.com/AIScientists-Dev/loupe",
-      "published_at": "2026-04-27T03:11:06Z",
-      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
+      "url": "https://github.com/tgies/klattsch",
+      "published_at": "2026-04-30T21:57:14Z",
+      "description": "primitive parallel-formant speech synth in the browser",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "AIScientists-Dev"
+      "stars": 115,
+      "user": "tgies"
     },
     {
-      "title": "AeternaLabsHQ/pullmd - Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
-      "url": "https://github.com/AeternaLabsHQ/pullmd",
-      "published_at": "2026-04-27T07:32:25Z",
-      "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "title": "avacocloud/netlify-XHHTP - GitHub Repository",
+      "url": "https://github.com/avacocloud/netlify-XHHTP",
+      "published_at": "2026-04-29T03:57:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263174715?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 105,
-      "user": "AeternaLabsHQ"
+      "stars": 113,
+      "user": "avacocloud"
     },
     {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
@@ -2097,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2891,
+      "stars": 2920,
       "user": "theori-io"
     },
     {
@@ -2112,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1710,
       "user": "denuitt1"
     },
     {
@@ -2127,7 +2141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 921,
       "user": "DanOps-1"
     },
     {
@@ -2142,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 638,
       "user": "Fokkyp"
     },
     {
@@ -2157,23 +2171,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 439,
       "user": "val1813"
-    },
-    {
-      "title": "benqi-finance/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "url": "https://github.com/benqi-finance/legalmarkdown",
-      "published_at": "2026-04-29T17:27:27Z",
-      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
-      "source": "GitHub",
-      "stars": 111,
-      "user": "benqi-finance"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
@@ -2187,23 +2186,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 125,
       "user": "openclaw"
     },
     {
-      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
-      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
-      "published_at": "2026-04-28T22:33:54Z",
-      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "title": "benqi-finance/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "url": "https://github.com/benqi-finance/legalmarkdown",
+      "published_at": "2026-04-29T17:27:27Z",
+      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 101,
-      "user": "Hidden-Node"
+      "stars": 118,
+      "user": "benqi-finance"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2217,8 +2216,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 104,
       "user": "marchinthesun"
+    },
+    {
+      "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
+      "published_at": "2026-04-28T22:33:54Z",
+      "description": "GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "Hidden-Node"
     },
     {
       "title": "watany-dev/gitreal - GitHub Repository",
@@ -2232,7 +2246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "watany-dev"
     }
   ]
