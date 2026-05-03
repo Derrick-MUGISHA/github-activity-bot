@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
-
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -60,17 +60,17 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.6 (32.6%)
-JavaScript      ███████████████████████ 24.7 (24.7%)
-Python          ███████████████████ 20.2 (20.2%)
-Java            ██████████████████ 19.1 (19.1%)
+Go              ██████████████████████████████ 31.8 (31.8%)
+JavaScript      ████████████████████████ 25.0 (25.0%)
+Python          ███████████████████ 20.5 (20.5%)
+Java            ██████████████████ 19.3 (19.3%)
 Kotlin          ███ 3.4 (3.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
+    "Go" : 28
     "JavaScript" : 22
     "Python" : 18
     "Java" : 17
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 6:00 CAT)
+## 📅 Latest Updates (2026-05-03 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -167,19 +167,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mohan-01/i-am-starting-over-in-public-25n1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png" width="200" alt="I Am Starting Over in Public" />
+    <a href="https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png" width="200" alt="How Making a Fountain Pen Made Me a Better Developer" />
       <br/>
-      <b>I Am Starting Over in Public</b>
+      <b>How Making a Fountain Pen Made Me a Better Develop...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png" width="200" alt="How Making a Fountain Pen Made Me a Better Developer" />
+    <a href="https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgkiwerio8s8d3t7lzs8.png" width="200" alt="[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone" />
       <br/>
-      <b>How Making a Fountain Pen Made Me a Better Develop...</b>
+      <b>[Google Cloud Next '26 Recap #1] Hands-On with the...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -195,7 +195,6 @@ npm run test
 - [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) _[Dev.to]_
 - [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
 - [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8) _[Dev.to]_
-- [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9) _[Dev.to]_
 - [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
@@ -211,8 +210,9 @@ npm run test
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-ig5) _[Dev.to]_
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941) _[Dev.to]_
+- [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 06:10:27 CAT_
+_Last automated update: Sun, 03 May 2026 08:40:13 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sun, 03 May 2026 06:10:27 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What is the event loop and how does it work?
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Execution timing, event loop phases
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 04:10:28 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 06:40:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
