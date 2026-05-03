@@ -214,7 +214,7 @@ npm run test
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 23:08:17 CAT_
+_Last automated update: Sun, 03 May 2026 23:59:31 CAT_
 
 
 
@@ -222,18 +222,7 @@ _Last automated update: Sun, 03 May 2026 23:08:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
-
-**Difficulty**: Medium | **Topics**: event loop, async
-
-<details>
-<summary>💡 Hint</summary>
-
-Execution timing, event loop phases
-
-</details>
-
-### 2. React: Explain the difference between state and props
+### 1. React: Explain the difference between state and props
 
 **Difficulty**: Easy | **Topics**: data flow, components
 
@@ -244,14 +233,25 @@ Ownership, mutability, data flow direction
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+B-tree, trade-offs, query performance
+
+</details>
+
+### 3. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 21:08:17 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 21:59:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
