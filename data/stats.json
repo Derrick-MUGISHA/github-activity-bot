@@ -7,30 +7,29 @@
   },
   "by_category": {
     "AI": 52,
-    "JavaScript": 21,
+    "JavaScript": 22,
     "Python": 18,
-    "DevOps": 4,
-    "WebDev": 5,
-    "Mobile": 5,
-    "Cloud": 18,
+    "DevOps": 5,
+    "WebDev": 4,
+    "Mobile": 4,
+    "Cloud": 19,
     "Database": 1,
-    "Security": 5,
+    "Security": 4,
     "Tools": 27
   },
   "by_language": {
     "Go": 30,
     "Python": 18,
-    "JavaScript": 21,
+    "JavaScript": 22,
     "Kotlin": 2,
-    "Java": 16,
-    "Swift": 1
+    "Java": 16
   },
   "by_date": {
     "2026-04-30": 9,
     "2026-05-02": 6,
-    "2026-05-01": 11,
-    "2026-04-27": 9,
-    "2026-04-26": 6,
+    "2026-05-01": 13,
+    "2026-04-27": 12,
+    "2026-04-26": 1,
     "2026-04-29": 12,
     "2026-04-25": 1,
     "2026-04-19": 3,
@@ -98,9 +97,8 @@
   "language_percentages": {
     "Go": "34.1",
     "Python": "20.5",
-    "JavaScript": "23.9",
+    "JavaScript": "25.0",
     "Kotlin": "2.3",
-    "Java": "18.2",
-    "Swift": "1.1"
+    "Java": "18.2"
   }
 }

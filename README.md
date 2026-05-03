@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-02-orange)
+![Languages](https://img.shields.io/badge/Languages-5-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-03-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -32,19 +32,19 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦🟦 5 (4.8%)
+**Mobile**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 5 (4.8%)
-
-**DevOps**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **Database**:  1 (1.0%)
 
@@ -61,22 +61,20 @@
 
 ```
 Go              ██████████████████████████████ 34.1 (34.1%)
-JavaScript      █████████████████████ 23.9 (23.9%)
+JavaScript      ██████████████████████ 25.0 (25.0%)
 Python          ██████████████████ 20.5 (20.5%)
 Java            ████████████████ 18.2 (18.2%)
 Kotlin          ██ 2.3 (2.3%)
-Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 30
-    "JavaScript" : 21
+    "JavaScript" : 22
     "Python" : 18
     "Java" : 16
     "Kotlin" : 2
-    "Swift" : 1
 ```
 
 
@@ -123,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 1:00 CAT)
+## 📅 Latest Updates (2026-05-03 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +212,7 @@ npm run test
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 01:26:54 CAT_
+_Last automated update: Sun, 03 May 2026 02:07:46 CAT_
 
 
 
@@ -222,36 +220,36 @@ _Last automated update: Sun, 03 May 2026 01:26:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -285,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 02 May 2026 23:26:54 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 00:07:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
