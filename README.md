@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-99-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-03-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (46.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (23.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (22.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (17.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 13 (13.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
 
-**DevOps**: 🟦🟦 5 (5.1%)
+**DevOps**: 🟦🟦 5 (4.9%)
 
-**Mobile**: 🟦🟦 5 (5.1%)
+**Mobile**: 🟦🟦 5 (4.9%)
 
-**WebDev**: 🟦🟦 4 (4.0%)
+**WebDev**: 🟦🟦 4 (3.9%)
 
-**Security**: 🟦🟦 4 (4.0%)
+**Security**: 🟦🟦 4 (3.9%)
 
 **Database**:  1 (1.0%)
 
@@ -52,28 +52,28 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 58 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 10 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.9 (32.9%)
-JavaScript      ████████████████████████ 26.8 (26.8%)
-Java            ███████████████████ 20.7 (20.7%)
-Python          ██████████████ 15.9 (15.9%)
-Kotlin          ███ 3.7 (3.7%)
+Go              ██████████████████████████████ 31.8 (31.8%)
+JavaScript      ████████████████████████ 25.0 (25.0%)
+Python          ███████████████████ 20.5 (20.5%)
+Java            ██████████████████ 19.3 (19.3%)
+Kotlin          ███ 3.4 (3.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 27
+    "Go" : 28
     "JavaScript" : 22
+    "Python" : 18
     "Java" : 17
-    "Python" : 13
     "Kotlin" : 3
 ```
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 11:00 CAT)
+## 📅 Latest Updates (2026-05-03 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -197,9 +197,7 @@ npm run test
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9) _[Dev.to]_
 - [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
-- [Gaffa @ Major League Hacking's Global Hack Week](https://dev.to/james_gaffa/gaffa-major-league-hackings-global-hack-week-m9b) _[Dev.to]_
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
-- [Getting Started with ChromeOS Flex](https://dev.to/gde/getting-started-with-chromeos-flex-58jn) _[Dev.to]_
 - [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8) _[Dev.to]_
 - [Migrating Azure Devops Activity to GitHub 🔄️](https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
@@ -211,8 +209,10 @@ npm run test
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 - [Agents are building their own UIs now. Here's when that's worth doing.](https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d) _[Dev.to]_
 - [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
+- [I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.](https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641) _[Dev.to]_
+- [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 11:46:02 CAT_
+_Last automated update: Sun, 03 May 2026 12:51:53 CAT_
 
 
 
@@ -231,25 +231,25 @@ Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 09:46:02 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 10:51:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
