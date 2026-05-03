@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 20:00 CAT)
+## 📅 Latest Updates (2026-05-03 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 20:35:28 CAT_
+_Last automated update: Sun, 03 May 2026 21:40:46 CAT_
 
 
 
@@ -222,18 +222,7 @@ _Last automated update: Sun, 03 May 2026 20:35:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
-
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 2. React: Implement a custom hook for fetching data
+### 1. React: Implement a custom hook for fetching data
 
 **Difficulty**: Medium | **Topics**: hooks, async
 
@@ -244,14 +233,25 @@ useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 3. Python: Implement a context manager using __enter__ and __exit__
+
+**Difficulty**: Hard | **Topics**: context managers, resource management
+
+<details>
+<summary>💡 Hint</summary>
+
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 18:35:28 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 19:40:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
