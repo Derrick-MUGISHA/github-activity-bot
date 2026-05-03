@@ -34,7 +34,7 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 21:00 CAT)
+## 📅 Latest Updates (2026-05-03 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 21:40:46 CAT_
+_Last automated update: Sun, 03 May 2026 22:24:09 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 03 May 2026 21:40:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 19:40:46 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 20:24:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
