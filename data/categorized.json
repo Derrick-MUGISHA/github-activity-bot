@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "BWAI'2026 @ VTU, Belagavi",
-      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
-      "published_at": "2026-05-03T15:31:54Z",
-      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
-      "tags": [
-        "ai",
-        "beginners",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
-    },
-    {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
       "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
       "published_at": "2026-05-03T13:05:28Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
+      "published_at": "2026-05-03T15:31:54Z",
+      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "tags": [
+        "ai",
+        "beginners",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2992,
+      "stars": 2995,
       "user": "theori-io"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1881,
       "user": "denuitt1"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 957,
       "user": "DanOps-1"
     },
     {
@@ -977,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "TQ-trade"
     },
     {
@@ -1007,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 137,
       "user": "tgies"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2992,
+      "stars": 2995,
       "user": "theori-io"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1881,
       "user": "denuitt1"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 957,
       "user": "DanOps-1"
     },
     {
@@ -1264,23 +1264,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "Fokkyp"
     },
     {
-      "title": "val1813/kwcode - 一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
-      "url": "https://github.com/val1813/kwcode",
-      "published_at": "2026-04-27T06:56:36Z",
-      "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
+      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "url": "https://github.com/vibeforge1111/keep-codex-fast",
+      "published_at": "2026-05-02T08:57:24Z",
+      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 457,
-      "user": "val1813"
+      "stars": 466,
+      "user": "vibeforge1111"
     }
   ],
   "DevOps": [
@@ -1496,21 +1496,6 @@
   ],
   "Cloud": [
     {
-      "title": "BWAI'2026 @ VTU, Belagavi",
-      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
-      "published_at": "2026-05-03T15:31:54Z",
-      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
-      "tags": [
-        "ai",
-        "beginners",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
-    },
-    {
       "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
       "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
       "published_at": "2026-05-02T10:08:31Z",
@@ -1524,6 +1509,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
+      "published_at": "2026-05-03T15:31:54Z",
+      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "tags": [
+        "ai",
+        "beginners",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -1761,7 +1761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1881,
       "user": "denuitt1"
     },
     {
@@ -2129,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "TQ-trade"
     },
     {
@@ -2159,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 137,
       "user": "tgies"
     },
     {
@@ -2189,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2992,
+      "stars": 2995,
       "user": "theori-io"
     },
     {
@@ -2204,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1881,
       "user": "denuitt1"
     },
     {
@@ -2219,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 957,
       "user": "DanOps-1"
     },
     {
@@ -2234,23 +2234,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "Fokkyp"
     },
     {
-      "title": "val1813/kwcode - 一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
-      "url": "https://github.com/val1813/kwcode",
-      "published_at": "2026-04-27T06:56:36Z",
-      "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
+      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "url": "https://github.com/vibeforge1111/keep-codex-fast",
+      "published_at": "2026-05-02T08:57:24Z",
+      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 457,
-      "user": "val1813"
+      "stars": 466,
+      "user": "vibeforge1111"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
