@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-99-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-03-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (46.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (23.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (22.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (17.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦 13 (13.1%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 5 (5.1%)
 
-**Mobile**: 🟦🟦 5 (4.8%)
+**Mobile**: 🟦🟦 5 (5.1%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦🟦 4 (4.0%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦🟦 4 (4.0%)
 
 **Database**:  1 (1.0%)
 
@@ -54,26 +54,26 @@
 
 - **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 15 articles
+- **GitHub**: 10 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.8 (31.8%)
-JavaScript      ████████████████████████ 25.0 (25.0%)
-Python          ███████████████████ 20.5 (20.5%)
-Java            ██████████████████ 19.3 (19.3%)
-Kotlin          ███ 3.4 (3.4%)
+Go              ██████████████████████████████ 32.9 (32.9%)
+JavaScript      ████████████████████████ 26.8 (26.8%)
+Java            ███████████████████ 20.7 (20.7%)
+Python          ██████████████ 15.9 (15.9%)
+Kotlin          ███ 3.7 (3.7%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
+    "Go" : 27
     "JavaScript" : 22
-    "Python" : 18
     "Java" : 17
+    "Python" : 13
     "Kotlin" : 3
 ```
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) ![productivity](https://img.shields.io/badge/productivity-4-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 10:00 CAT)
+## 📅 Latest Updates (2026-05-03 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [Agents are building their own UIs now. Here's when that's worth doing.](https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d) _[Dev.to]_
 - [I Am Starting Over in Public](https://dev.to/mohan-01/i-am-starting-over-in-public-25n1) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 10:24:54 CAT_
+_Last automated update: Sun, 03 May 2026 11:46:02 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sun, 03 May 2026 10:24:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 08:24:54 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 09:46:02 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
