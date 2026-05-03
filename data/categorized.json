@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2965,
       "user": "theori-io"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1795,
       "user": "denuitt1"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 947,
       "user": "DanOps-1"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "Hidden-Node"
     }
   ],
@@ -959,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "Hidden-Node"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2965,
       "user": "theori-io"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1795,
       "user": "denuitt1"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 947,
       "user": "DanOps-1"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "Fokkyp"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 448,
       "user": "val1813"
     }
   ],
@@ -1427,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "Hidden-Node"
     }
   ],
@@ -1446,21 +1446,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9",
-      "published_at": "2026-05-02T08:44:34Z",
-      "description": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "adk",
-        "googlecloudnext"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgkiwerio8s8d3t7lzs8.png",
-      "source": "Dev.to",
-      "user": "koichim2"
     },
     {
       "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
@@ -1536,6 +1521,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9",
+      "published_at": "2026-05-02T08:44:34Z",
+      "description": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "adk",
+        "googlecloudnext"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16id78i7sw5matedpjz9.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1683,7 +1683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1795,
       "user": "denuitt1"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2965,
       "user": "theori-io"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1795,
       "user": "denuitt1"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 947,
       "user": "DanOps-1"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "Fokkyp"
     },
     {
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 448,
       "user": "val1813"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "benqi-finance"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "Hidden-Node"
     },
     {
