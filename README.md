@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 15:00 CAT)
+## 📅 Latest Updates (2026-05-03 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Getting Started with ChromeOS Flex](https://dev.to/gde/getting-started-with-chromeos-flex-58jn) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 15:59:23 CAT_
+_Last automated update: Sun, 03 May 2026 16:56:12 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sun, 03 May 2026 15:59:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 2. React: What is the Virtual DOM and how does React use it?
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 13:59:23 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 14:56:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
