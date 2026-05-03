@@ -16,21 +16,6 @@
       "user": "Harshil Agrawal"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
-    },
-    {
       "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
       "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9",
       "published_at": "2026-05-02T10:08:42Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
       "source": "Dev.to",
       "user": "Piyush Annigeri"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -251,21 +251,6 @@
       "user": "Andy Robinson"
     },
     {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
       "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
       "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
       "published_at": "2026-04-30T12:14:54Z",
@@ -279,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
       "source": "Dev.to",
       "user": "Ali Afana "
+    },
+    {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
+      "published_at": "2026-04-27T02:00:10Z",
+      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
+      "source": "Dev.to",
+      "user": "Michael Larson"
     },
     {
       "title": "I Am Starting Over in Public",
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 3000,
       "user": "theori-io"
     },
     {
@@ -705,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1896,
       "user": "denuitt1"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 959,
       "user": "DanOps-1"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Hidden-Node"
     }
   ],
@@ -992,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "Pathos0925"
     },
     {
@@ -1007,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 140,
       "user": "tgies"
     },
     {
@@ -1037,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Hidden-Node"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 3000,
       "user": "theori-io"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1896,
       "user": "denuitt1"
     },
     {
@@ -1249,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 959,
       "user": "DanOps-1"
     },
     {
@@ -1279,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 475,
       "user": "vibeforge1111"
     }
   ],
@@ -1490,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Hidden-Node"
     }
   ],
@@ -1761,7 +1761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1896,
       "user": "denuitt1"
     },
     {
@@ -2144,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "Pathos0925"
     },
     {
@@ -2159,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 140,
       "user": "tgies"
     },
     {
@@ -2189,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2995,
+      "stars": 3000,
       "user": "theori-io"
     },
     {
@@ -2204,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1896,
       "user": "denuitt1"
     },
     {
@@ -2219,7 +2219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 959,
       "user": "DanOps-1"
     },
     {
@@ -2249,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 475,
       "user": "vibeforge1111"
     },
     {
@@ -2294,7 +2294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Hidden-Node"
     },
     {
