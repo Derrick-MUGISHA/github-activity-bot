@@ -1,6 +1,51 @@
 {
   "AI": [
     {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
+      "published_at": "2026-05-03T15:31:54Z",
+      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "tags": [
+        "ai",
+        "beginners",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
+    },
+    {
       "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
       "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9",
       "published_at": "2026-05-02T10:08:42Z",
@@ -29,6 +74,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
+      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
+      "published_at": "2026-05-03T00:00:00Z",
+      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "devrel",
+        "burnout"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
+      "source": "Dev.to",
+      "user": "Filipe Brito Ferreira"
+    },
+    {
+      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
+      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
+      "published_at": "2026-05-03T05:10:27Z",
+      "description": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
@@ -161,6 +266,21 @@
       "user": "Michael Larson"
     },
     {
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
+      "published_at": "2026-04-30T12:14:54Z",
+      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
+      "tags": [
+        "ai",
+        "webdev",
+        "openai",
+        "monitoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
+      "source": "Dev.to",
+      "user": "Ali Afana "
+    },
+    {
       "title": "I Am Starting Over in Public",
       "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1",
       "published_at": "2026-05-01T18:51:18Z",
@@ -204,78 +324,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
-    },
-    {
-      "title": "Boring code is an organizational tell",
-      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
-      "published_at": "2026-04-19T18:02:48Z",
-      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
-      "tags": [
-        "ai",
-        "leadership",
-        "culture",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
-      "source": "Dev.to",
-      "user": "Simme"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
-      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
-      "published_at": "2026-04-17T13:18:29Z",
-      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
-      "tags": [
-        "drupal",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
-      "source": "Dev.to",
-      "user": "James Candan"
-    },
-    {
-      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
-      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
-      "published_at": "2026-04-19T06:21:26Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
-      "source": "Dev.to",
-      "user": "Setiaji"
     },
     {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
@@ -642,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2989,
+      "stars": 2992,
       "user": "theori-io"
     },
     {
@@ -657,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1847,
+      "stars": 1866,
       "user": "denuitt1"
     },
     {
@@ -687,11 +735,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "Hidden-Node"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "published_at": "2026-05-03T07:04:22Z",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "tags": [
+        "api",
+        "javascript",
+        "mobile",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
+      "source": "Dev.to",
+      "user": "Ekong Ikpe"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
     {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
       "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
@@ -721,21 +799,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
       "source": "Dev.to",
       "user": "Chris Whong"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -899,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "amirshaker000"
     },
     {
@@ -929,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "Pathos0925"
     },
     {
@@ -944,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "tgies"
     },
     {
@@ -959,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "avacocloud"
     },
     {
@@ -974,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "Hidden-Node"
     },
     {
@@ -1023,21 +1086,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
-    },
-    {
-      "title": "Installing pygame for IDLE on Mac",
-      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
-      "published_at": "2026-04-21T19:13:08Z",
-      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
-      "tags": [
-        "beginners",
-        "gamedev",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
-      "source": "Dev.to",
-      "user": "David Newberry"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1171,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2989,
+      "stars": 2992,
       "user": "theori-io"
     },
     {
@@ -1186,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1847,
+      "stars": 1866,
       "user": "denuitt1"
     },
     {
@@ -1216,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "Fokkyp"
     },
     {
@@ -1231,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "val1813"
     }
   ],
@@ -1265,21 +1313,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
     },
     {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
@@ -1371,6 +1404,21 @@
   ],
   "Mobile": [
     {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "published_at": "2026-05-03T07:04:22Z",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "tags": [
+        "api",
+        "javascript",
+        "mobile",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
+      "source": "Dev.to",
+      "user": "Ekong Ikpe"
+    },
+    {
       "title": "More Accessible Focus Indicators with Compose",
       "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
       "published_at": "2026-04-30T11:22:00Z",
@@ -1442,11 +1490,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "Hidden-Node"
     }
   ],
   "Cloud": [
+    {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
+      "published_at": "2026-05-03T15:31:54Z",
+      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "tags": [
+        "ai",
+        "beginners",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
+    },
     {
       "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
       "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
@@ -1461,6 +1524,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
@@ -1536,51 +1629,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9",
-      "published_at": "2026-05-02T08:44:34Z",
-      "description": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "adk",
-        "googlecloudnext"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16id78i7sw5matedpjz9.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
@@ -1698,7 +1746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "avacocloud"
     },
     {
@@ -1713,7 +1761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1847,
+      "stars": 1866,
       "user": "denuitt1"
     },
     {
@@ -1807,6 +1855,50 @@
   ],
   "Tools": [
     {
+      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
+      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi",
+      "published_at": "2026-05-03T16:22:00Z",
+      "description": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
+      "tags": [
+        "rspec",
+        "playwright",
+        "ruby"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjq9tlfr7ghaar635lty.png",
+      "source": "Dev.to",
+      "user": "Yusuke Iwaki"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
+    },
+    {
+      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
+      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
+      "published_at": "2026-05-03T05:10:27Z",
+      "description": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
       "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
       "published_at": "2026-05-01T12:46:57Z",
@@ -1850,6 +1942,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
+      "published_at": "2026-05-02T08:22:42Z",
+      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "tags": [
+        "programming",
+        "webdev",
+        "productivity",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
+      "source": "Dev.to",
+      "user": "Adam - The Developer"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -2007,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "amirshaker000"
     },
     {
@@ -2037,7 +2144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "Pathos0925"
     },
     {
@@ -2052,7 +2159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "tgies"
     },
     {
@@ -2067,7 +2174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "avacocloud"
     },
     {
@@ -2082,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2989,
+      "stars": 2992,
       "user": "theori-io"
     },
     {
@@ -2097,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1847,
+      "stars": 1866,
       "user": "denuitt1"
     },
     {
@@ -2127,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 664,
       "user": "Fokkyp"
     },
     {
@@ -2142,7 +2249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "val1813"
     },
     {
@@ -2157,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "openclaw"
     },
     {
@@ -2172,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 122,
       "user": "benqi-finance"
     },
     {
@@ -2187,7 +2294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 116,
       "user": "Hidden-Node"
     },
     {

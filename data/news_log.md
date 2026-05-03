@@ -1599046,3 +1599046,833 @@ I spent some time this weekend noodling around with Github Copilot, using the co
 
 ---
 
+
+
+## 📰 DevTech News — 2026-05-03 18:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (52 articles)
+
+#### 1. [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n)
+📅 Sun, 03 May 2026 15:31:54 GMT
+👤 By: Piyush Annigeri | 📌 Source: Dev.to
+
+![BWAI'2026 @ VTU, Belagavi](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png)
+
+#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...
+
+🏷️ Tags: `ai`, `beginners`, `googlecloud`, `machinelearning`
+
+---
+
+#### 2. [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c)
+📅 Sun, 03 May 2026 13:05:28 GMT
+👤 By: Harshil Agrawal | 📌 Source: Dev.to
+
+![Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png)
+
+I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...
+
+🏷️ Tags: `ai`, `devjournal`, `javascript`, `webdev`
+
+---
+
+#### 3. [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
+📅 Sun, 03 May 2026 11:08:59 GMT
+👤 By: Francesco Sardone | 📌 Source: Dev.to
+
+![Turning Repository Knowledge Into Usable Agent Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png)
+
+AI coding agents are getting better at writing code, but they still struggle with one thing that...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `opensource`
+
+---
+
+#### 4. [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9)
+📅 Sat, 02 May 2026 10:08:42 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png)
+
+Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...
+
+🏷️ Tags: `ai`, `api`, `gemini`, `google`
+
+---
+
+#### 5. [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo)
+📅 Sat, 02 May 2026 10:08:31 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png)
+
+Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...
+
+🏷️ Tags: `ai`, `googlecloud`, `python`, `tutorial`
+
+---
+
+#### 6. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0)
+📅 Sun, 03 May 2026 02:02:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `multiagentsystems`, `gemini`, `googleadk`, `a2aprotocol`
+
+---
+
+#### 7. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8)
+📅 Sun, 03 May 2026 00:05:41 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `gemini`, `a2aprotocol`, `azureappservice`, `googleadk`
+
+---
+
+#### 8. [We're Shipping More Code Than Ever. We Understand Less of It.](https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n)
+📅 Sun, 03 May 2026 00:00:00 GMT
+👤 By: Filipe Brito Ferreira | 📌 Source: Dev.to
+
+![We're Shipping More Code Than Ever. We Understand Less of It.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png)
+
+A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...
+
+🏷️ Tags: `ai`, `softwareengineering`, `devrel`, `burnout`
+
+---
+
+#### 9. [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94)
+📅 Sun, 03 May 2026 05:10:27 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Agent-as-a-Tool: A New Era of AI Orchestration](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png)
+
+Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...
+
+🏷️ Tags: `ai`, `agents`, `llm`, `gemini`
+
+---
+
+#### 10. [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0)
+📅 Fri, 01 May 2026 12:46:57 GMT
+👤 By: Kiran Randhawa | 📌 Source: Dev.to
+
+![How Making a Fountain Pen Made Me a Better Developer](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png)
+
+Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...
+
+🏷️ Tags: `learning`, `productivity`, `sideprojects`, `softwaredevelopment`
+
+---
+
+### 🏷️ JavaScript (23 articles)
+
+#### 1. [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd)
+📅 Sun, 03 May 2026 07:04:22 GMT
+👤 By: Ekong Ikpe | 📌 Source: Dev.to
+
+![I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png)
+
+Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...
+
+🏷️ Tags: `api`, `javascript`, `mobile`, `webdev`
+
+---
+
+#### 2. [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c)
+📅 Sun, 03 May 2026 13:05:28 GMT
+👤 By: Harshil Agrawal | 📌 Source: Dev.to
+
+![Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png)
+
+I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...
+
+🏷️ Tags: `ai`, `devjournal`, `javascript`, `webdev`
+
+---
+
+#### 3. [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8)
+📅 Sat, 02 May 2026 14:11:45 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg)
+
+Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...
+
+🏷️ Tags: `firebase`, `angular`, `gemini`, `ai`
+
+---
+
+#### 4. [Mapbox GL JS adds support for PMTiles vector sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b)
+📅 Thu, 30 Apr 2026 16:15:47 GMT
+👤 By: Chris Whong | 📌 Source: Dev.to
+
+![Mapbox GL JS adds support for PMTiles vector sources](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png)
+
+Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...
+
+🏷️ Tags: `spatialdata`, `pmtiles`, `web`, `webmapping`
+
+---
+
+#### 5. [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d)
+📅 Mon, 27 Apr 2026 10:29:37 GMT
+👤 By: Neeraj Singh | 📌 Source: Dev.to
+
+![How to Remove Console.log from React Native Production Builds](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png)
+
+When building React Native apps, console.log is your best friend during development. But leaving it...
+
+🏷️ Tags: `reactnative`, `typescript`, `performance`, `mobile`
+
+---
+
+#### 6. [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+📅 Fri, 17 Apr 2026 18:38:12 GMT
+👤 By: Oladele David  | 📌 Source: Dev.to
+
+![Designing Multi-Tenant Backends With Both Ownership and Team Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png)
+
+A practical architecture pattern for systems where one user can own, join, and operate multiple...
+
+🏷️ Tags: `nestjs`, `javascript`, `architecture`, `backend`
+
+---
+
+#### 7. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (17 articles)
+
+#### 1. [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo)
+📅 Sat, 02 May 2026 10:08:31 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png)
+
+Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...
+
+🏷️ Tags: `ai`, `googlecloud`, `python`, `tutorial`
+
+---
+
+#### 2. [I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.](https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641)
+📅 Fri, 01 May 2026 00:02:24 GMT
+👤 By: Omotayo Aina | 📌 Source: Dev.to
+
+![I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png)
+
+AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...
+
+🏷️ Tags: `machinelearning`, `python`, `ai`, `deeplearning`
+
+---
+
+#### 3. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (4 articles)
+
+#### 1. [Migrating Azure Devops Activity to GitHub 🔄️](https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci)
+📅 Fri, 01 May 2026 16:33:19 GMT
+👤 By: Ramy Gamal | 📌 Source: Dev.to
+
+![Migrating Azure Devops Activity to GitHub 🔄️](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0dr6qw56mg7kkpnk0u.jpg)
+
+GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...
+
+🏷️ Tags: `azure`, `github`, `automation`, `githubactions`
+
+---
+
+#### 2. [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48)
+📅 Fri, 01 May 2026 09:49:58 GMT
+👤 By: Matthew Revell | 📌 Source: Dev.to
+
+![Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png)
+
+OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...
+
+🏷️ Tags: `openclaw`, `gemini`, `ai`, `devops`
+
+---
+
+#### 3. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 4. [marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.](https://github.com/marchinthesun/cluster-performance-engine)
+📅 Fri, 01 May 2026 06:31:35 GMT
+👤 By: marchinthesun | 📌 Source: GitHub
+
+![marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.](https://avatars.githubusercontent.com/u/279914012?v=4)
+
+Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 104
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8)
+📅 Sun, 26 Apr 2026 13:10:27 GMT
+👤 By: Rahmon Toyeeb | 📌 Source: Dev.to
+
+![Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png)
+
+This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.
+
+🏷️ Tags: `backend`, `architecture`
+
+---
+
+#### 2. [I Don't Like Tailwind. Sorry Not Sorry](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5)
+📅 Fri, 01 May 2026 16:11:48 GMT
+👤 By: Andy Robinson | 📌 Source: Dev.to
+
+![I Don't Like Tailwind. Sorry Not Sorry](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png)
+
+An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...
+
+🏷️ Tags: `css`, `webdev`, `discuss`, `frontend`
+
+---
+
+#### 3. [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+📅 Fri, 17 Apr 2026 18:38:12 GMT
+👤 By: Oladele David  | 📌 Source: Dev.to
+
+![Designing Multi-Tenant Backends With Both Ownership and Team Access](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png)
+
+A practical architecture pattern for systems where one user can own, join, and operate multiple...
+
+🏷️ Tags: `nestjs`, `javascript`, `architecture`, `backend`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (6 articles)
+
+#### 1. [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd)
+📅 Sun, 03 May 2026 07:04:22 GMT
+👤 By: Ekong Ikpe | 📌 Source: Dev.to
+
+![I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png)
+
+Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...
+
+🏷️ Tags: `api`, `javascript`, `mobile`, `webdev`
+
+---
+
+#### 2. [More Accessible Focus Indicators with Compose](https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4)
+📅 Thu, 30 Apr 2026 11:22:00 GMT
+👤 By: Eevis | 📌 Source: Dev.to
+
+![More Accessible Focus Indicators with Compose](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png)
+
+Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...
+
+🏷️ Tags: `android`, `a11y`, `mobile`, `programming`
+
+---
+
+#### 3. [Forking Paseo: Mobile vibe coding for me](https://dev.to/thisisryanswift/forking-paseo-mobile-vibe-coding-for-me-48pa)
+📅 Wed, 29 Apr 2026 19:02:07 GMT
+👤 By: Ryan Swift | 📌 Source: Dev.to
+
+![Forking Paseo: Mobile vibe coding for me](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg)
+
+TLDR - I wanted to upgrade my coding-from-my-phone workflow. I found Paseo, forked it, and used AI...
+
+🏷️ Tags: `ai`, `agents`, `vibecoding`, `opensource`
+
+---
+
+#### 4. [How to Remove Console.log from React Native Production Builds](https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d)
+📅 Mon, 27 Apr 2026 10:29:37 GMT
+👤 By: Neeraj Singh | 📌 Source: Dev.to
+
+![How to Remove Console.log from React Native Production Builds](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png)
+
+When building React Native apps, console.log is your best friend during development. But leaving it...
+
+🏷️ Tags: `reactnative`, `typescript`, `performance`, `mobile`
+
+---
+
+#### 5. [Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl)
+📅 Tue, 28 Apr 2026 12:03:40 GMT
+👤 By: Tiberiu Tofan | 📌 Source: Dev.to
+
+![Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png)
+
+How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...
+
+🏷️ Tags: `kotlin`, `java`, `testing`, `tutorial`
+
+---
+
+#### 6. [Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient)
+📅 Tue, 28 Apr 2026 22:33:54 GMT
+👤 By: Hidden-Node | 📌 Source: GitHub
+
+![Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).](https://avatars.githubusercontent.com/u/263162787?v=4)
+
+GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 116
+
+---
+
+### 🏷️ Cloud (19 articles)
+
+#### 1. [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n)
+📅 Sun, 03 May 2026 15:31:54 GMT
+👤 By: Piyush Annigeri | 📌 Source: Dev.to
+
+![BWAI'2026 @ VTU, Belagavi](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png)
+
+#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...
+
+🏷️ Tags: `ai`, `beginners`, `googlecloud`, `machinelearning`
+
+---
+
+#### 2. [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo)
+📅 Sat, 02 May 2026 10:08:31 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png)
+
+Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...
+
+🏷️ Tags: `ai`, `googlecloud`, `python`, `tutorial`
+
+---
+
+#### 3. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0)
+📅 Sun, 03 May 2026 02:02:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `multiagentsystems`, `gemini`, `googleadk`, `a2aprotocol`
+
+---
+
+#### 4. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8)
+📅 Sun, 03 May 2026 00:05:41 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `gemini`, `a2aprotocol`, `azureappservice`, `googleadk`
+
+---
+
+#### 5. [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg)
+📅 Sat, 02 May 2026 12:01:42 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png)
+
+Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...
+
+🏷️ Tags: `agents`, `ai`, `googlecloud`, `tutorial`
+
+---
+
+#### 6. [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8)
+📅 Sat, 02 May 2026 14:11:45 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg)
+
+Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...
+
+🏷️ Tags: `firebase`, `angular`, `gemini`, `ai`
+
+---
+
+#### 7. [Migrating Azure Devops Activity to GitHub 🔄️](https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci)
+📅 Fri, 01 May 2026 16:33:19 GMT
+👤 By: Ramy Gamal | 📌 Source: Dev.to
+
+![Migrating Azure Devops Activity to GitHub 🔄️](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0dr6qw56mg7kkpnk0u.jpg)
+
+GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...
+
+🏷️ Tags: `azure`, `github`, `automation`, `githubactions`
+
+---
+
+#### 8. [Agents are building their own UIs now. Here's when that's worth doing.](https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d)
+📅 Wed, 29 Apr 2026 21:02:06 GMT
+👤 By: Sireesha Pulipati | 📌 Source: Dev.to
+
+![Agents are building their own UIs now. Here's when that's worth doing.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frc7iifrmqjexv3nkumlc.png)
+
+This is a submission for the Google Cloud NEXT Writing Challenge  During the developer keynote at...
+
+🏷️ Tags: `devchallenge`, `googlecloud`, `cloudnextchallenge`, `genui`
+
+---
+
+#### 9. [I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.](https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641)
+📅 Fri, 01 May 2026 00:02:24 GMT
+👤 By: Omotayo Aina | 📌 Source: Dev.to
+
+![I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png)
+
+AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...
+
+🏷️ Tags: `machinelearning`, `python`, `ai`, `deeplearning`
+
+---
+
+#### 10. [The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents](https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke)
+📅 Mon, 27 Apr 2026 06:55:28 GMT
+👤 By: Michelle Duke | 📌 Source: Dev.to
+
+![The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg)
+
+This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...
+
+🏷️ Tags: `devchallenge`, `cloudnextchallenge`, `googlecloud`, `ai`
+
+---
+
+### 🏷️ Database (1 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (4 articles)
+
+#### 1. [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep)
+📅 Sat, 25 Apr 2026 02:52:00 GMT
+👤 By: Shadab Khan | 📌 Source: Dev.to
+
+![I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg)
+
+Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.
+
+🏷️ Tags: `ai`, `productivity`, `devtools`, `opensource`
+
+---
+
+#### 2. [Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh)
+📅 Mon, 20 Apr 2026 02:49:24 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![Vercel Hack: Why You Need to Rotate Your "Non-Sensitive" Environment Variables Today](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png)
+
+If you deploy on Vercel, todays headlines about a security incident might have caused some stress....
+
+🏷️ Tags: `ai`, `vercel`, `security`, `hack`
+
+---
+
+#### 3. [Your dependencies are 48% unmaintained — and SCA tools can't see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+📅 Thu, 16 Apr 2026 22:16:44 GMT
+👤 By: kotakanbe | 📌 Source: Dev.to
+
+![Your dependencies are 48% unmaintained — and SCA tools can't see it](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png)
+
+I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.
+
+🏷️ Tags: `security`, `opensource`, `supplychain`, `devops`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (32 articles)
+
+#### 1. [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi)
+📅 Sun, 03 May 2026 16:22:00 GMT
+👤 By: Yusuke Iwaki | 📌 Source: Dev.to
+
+![Introducing pytest-style fixtures into Ruby for smarter browser testing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjq9tlfr7ghaar635lty.png)
+
+Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...
+
+🏷️ Tags: `rspec`, `playwright`, `ruby`
+
+---
+
+#### 2. [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
+📅 Sun, 03 May 2026 11:08:59 GMT
+👤 By: Francesco Sardone | 📌 Source: Dev.to
+
+![Turning Repository Knowledge Into Usable Agent Context](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png)
+
+AI coding agents are getting better at writing code, but they still struggle with one thing that...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `opensource`
+
+---
+
+#### 3. [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94)
+📅 Sun, 03 May 2026 05:10:27 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Agent-as-a-Tool: A New Era of AI Orchestration](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png)
+
+Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...
+
+🏷️ Tags: `ai`, `agents`, `llm`, `gemini`
+
+---
+
+#### 4. [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0)
+📅 Fri, 01 May 2026 12:46:57 GMT
+👤 By: Kiran Randhawa | 📌 Source: Dev.to
+
+![How Making a Fountain Pen Made Me a Better Developer](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png)
+
+Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...
+
+🏷️ Tags: `learning`, `productivity`, `sideprojects`, `softwaredevelopment`
+
+---
+
+#### 5. [Migrating Azure Devops Activity to GitHub 🔄️](https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci)
+📅 Fri, 01 May 2026 16:33:19 GMT
+👤 By: Ramy Gamal | 📌 Source: Dev.to
+
+![Migrating Azure Devops Activity to GitHub 🔄️](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd0dr6qw56mg7kkpnk0u.jpg)
+
+GitHub isn’t just a place to store code anymore. For many developers, it’s a living portfolio, a...
+
+🏷️ Tags: `azure`, `github`, `automation`, `githubactions`
+
+---
+
+#### 6. [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8)
+📅 Mon, 27 Apr 2026 07:34:34 GMT
+👤 By: Philippe MARTIN | 📌 Source: Dev.to
+
+![Creating a CLI Tool with AI Agents: My Journey with kdn](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png)
+
+A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...
+
+🏷️ Tags: `ai`, `agents`, `development`, `workspace`
+
+---
+
+#### 7. [Write Code That's Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1)
+📅 Sat, 02 May 2026 08:22:42 GMT
+👤 By: Adam - The Developer | 📌 Source: Dev.to
+
+![Write Code That's Easy to Delete: The Art of Impermanent Software](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png)
+
+We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...
+
+🏷️ Tags: `programming`, `webdev`, `productivity`, `architecture`
+
+---
+
+#### 8. [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1)
+📅 Mon, 27 Apr 2026 02:00:10 GMT
+👤 By: Michael Larson | 📌 Source: Dev.to
+
+![Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png)
+
+AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.
+
+🏷️ Tags: `ai`, `llm`, `devtools`, `productivity`
+
+---
+
+#### 9. [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep)
+📅 Sat, 25 Apr 2026 02:52:00 GMT
+👤 By: Shadab Khan | 📌 Source: Dev.to
+
+![I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg)
+
+Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.
+
+🏷️ Tags: `ai`, `productivity`, `devtools`, `opensource`
+
+---
+
+#### 10. [How I Used AI to Fix Our E2E Test Architecture](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a)
+📅 Wed, 29 Apr 2026 18:28:37 GMT
+👤 By: Debbie O'Brien | 📌 Source: Dev.to
+
+![How I Used AI to Fix Our E2E Test Architecture](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png)
+
+I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...
+
+🏷️ Tags: `testing`, `e2e`, `playwright`, `ai`
+
+---
+
