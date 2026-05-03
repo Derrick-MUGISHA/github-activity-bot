@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 19:00 CAT)
+## 📅 Latest Updates (2026-05-03 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png" width="200" alt="Turning Repository Knowledge Into Usable Agent Context" />
+    <a href="https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png" width="200" alt="Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading" />
       <br/>
-      <b>Turning Repository Knowledge Into Usable Agent Con...</b>
+      <b>Gemini 3.1: Native TTS for Easier, More Powerful S...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png" width="200" alt="Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading" />
+    <a href="https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png" width="200" alt="GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors" />
       <br/>
-      <b>Gemini 3.1: Native TTS for Easier, More Powerful S...</b>
+      <b>GCP in Action: Migrating a LINE Bot from AI Studio...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,10 +197,10 @@ npm run test
 - [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd) _[Dev.to]_
 - [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi) _[Dev.to]_
-- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4) _[Dev.to]_
 - [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) _[Dev.to]_
 - [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
 - [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n) _[Dev.to]_
+- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8) _[Dev.to]_
 - [We're Shipping More Code Than Ever. We Understand Less of It.](https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 19:33:12 CAT_
+_Last automated update: Sun, 03 May 2026 20:35:28 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 03 May 2026 19:33:12 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 17:33:12 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 18:35:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
