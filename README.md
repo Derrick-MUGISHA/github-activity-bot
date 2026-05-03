@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-5-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-03-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.4%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**DevOps**: 🟦🟦 5 (4.9%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦🟦 5 (4.9%)
+**Mobile**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (3.9%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **Database**:  1 (1.0%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -81,7 +81,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![cloudnextchallenge](https://img.shields.io/badge/cloudnextchallenge-5-blue) 
 
 
 
@@ -121,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-03 14:00 CAT)
+## 📅 Latest Updates (2026-05-03 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -212,7 +212,7 @@ npm run test
 - [I built a shell script that sets up your entire AI coding agent workspace in 2 minutes](https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep) _[Dev.to]_
 - [Getting Started with ChromeOS Flex](https://dev.to/gde/getting-started-with-chromeos-flex-58jn) _[Dev.to]_
 
-_Last automated update: Sun, 03 May 2026 14:35:00 CAT_
+_Last automated update: Sun, 03 May 2026 15:59:23 CAT_
 
 
 
@@ -220,36 +220,36 @@ _Last automated update: Sun, 03 May 2026 14:35:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -283,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 03 May 2026 12:35:00 GMT</b><br/>
+  <b>Last automated update: Sun, 03 May 2026 13:59:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

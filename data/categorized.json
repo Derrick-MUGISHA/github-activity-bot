@@ -293,21 +293,6 @@
       "user": "arunkant"
     },
     {
-      "title": "MCP Configuration for Looker with Gemini CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-gemini-cli-id",
-      "published_at": "2026-04-29T16:12:04Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "lookml",
-        "skills",
-        "looker",
-        "businessintelligence"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbihv1i7a1hfuaa4cgesb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -347,6 +332,21 @@
         "opensource"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhxu2vlkpsej4apc8b3d.jpeg",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
+      "title": "Stop Using Your Clipboard to Share Context",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
+      "published_at": "2026-04-30T16:27:59Z",
+      "description": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flwdm5sznr9uc0u2xuzy3.jpeg",
       "source": "Dev.to",
       "user": "Ryan Swift"
     },
@@ -469,6 +469,21 @@
       "user": "Nikhil Sharma"
     },
     {
+      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
+      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
+      "published_at": "2026-04-30T14:45:49Z",
+      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
+      "tags": [
+        "claude",
+        "ai",
+        "githubactions",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
+      "source": "Dev.to",
+      "user": "yamadashy"
+    },
+    {
       "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
       "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
       "published_at": "2026-04-26T17:16:25Z",
@@ -480,6 +495,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682",
+      "published_at": "2026-04-16T15:38:54Z",
+      "description": "If you've spent any time on the internet, you know OpenClaw has been making waves lately. We recently...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgntmy99wlb4a2jo1zbk9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -627,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2969,
+      "stars": 2977,
       "user": "theori-io"
     },
     {
@@ -642,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1823,
       "user": "denuitt1"
     },
     {
@@ -657,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 953,
       "user": "DanOps-1"
     },
     {
@@ -672,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "Hidden-Node"
     }
   ],
@@ -884,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "amirshaker000"
     },
     {
@@ -899,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "TQ-trade"
     },
     {
@@ -914,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "Pathos0925"
     },
     {
@@ -929,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "tgies"
     },
     {
@@ -944,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "avacocloud"
     },
     {
@@ -959,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "Hidden-Node"
     },
     {
@@ -1156,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2969,
+      "stars": 2977,
       "user": "theori-io"
     },
     {
@@ -1171,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1823,
       "user": "denuitt1"
     },
     {
@@ -1186,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 953,
       "user": "DanOps-1"
     },
     {
@@ -1201,7 +1231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 660,
       "user": "Fokkyp"
     },
     {
@@ -1216,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 452,
       "user": "val1813"
     }
   ],
@@ -1427,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "Hidden-Node"
     }
   ],
@@ -1657,6 +1687,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "From Monolith State to Stateless Microservices: A Real-World Refactor",
+      "url": "https://dev.to/egenedy97/from-monolith-state-to-stateless-microservices-a-real-world-refactor-496l",
+      "published_at": "2026-04-21T10:59:12Z",
+      "description": "...",
+      "tags": [
+        "architecture",
+        "microservices",
+        "aws",
+        "distributedsystems"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvj8ztr09i9x5p9zly9vd.jpg",
+      "source": "Dev.to",
+      "user": "Eslam Genedy"
+    },
+    {
       "title": "avacocloud/netlify-XHHTP - GitHub Repository",
       "url": "https://github.com/avacocloud/netlify-XHHTP",
       "published_at": "2026-04-29T03:57:25Z",
@@ -1668,7 +1713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "avacocloud"
     },
     {
@@ -1683,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1823,
       "user": "denuitt1"
     },
     {
@@ -1936,6 +1981,21 @@
       "user": "Tiberiu Tofan"
     },
     {
+      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
+      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
+      "published_at": "2026-04-30T14:45:49Z",
+      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
+      "tags": [
+        "claude",
+        "ai",
+        "githubactions",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
+      "source": "Dev.to",
+      "user": "yamadashy"
+    },
+    {
       "title": "Slash commands: no more meaningless commits",
       "url": "https://dev.to/guilherme44/slash-commands-no-more-meaningless-commits-38ae",
       "published_at": "2026-05-01T03:18:51Z",
@@ -1962,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "amirshaker000"
     },
     {
@@ -1977,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "TQ-trade"
     },
     {
@@ -1992,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "Pathos0925"
     },
     {
@@ -2007,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "tgies"
     },
     {
@@ -2022,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280159435?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "avacocloud"
     },
     {
@@ -2037,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2969,
+      "stars": 2977,
       "user": "theori-io"
     },
     {
@@ -2052,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1823,
       "user": "denuitt1"
     },
     {
@@ -2067,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 953,
       "user": "DanOps-1"
     },
     {
@@ -2082,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 660,
       "user": "Fokkyp"
     },
     {
@@ -2097,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 452,
       "user": "val1813"
     },
     {
@@ -2127,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "benqi-finance"
     },
     {
@@ -2142,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "Hidden-Node"
     },
     {
