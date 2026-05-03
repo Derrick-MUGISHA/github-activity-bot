@@ -647,19 +647,34 @@
       "user": "veesahni"
     },
     {
-      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
-      "url": "https://github.com/sandeco/reversa",
-      "published_at": "2026-04-26T13:47:10Z",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "url": "https://github.com/AIScientists-Dev/loupe",
+      "published_at": "2026-04-27T03:11:06Z",
+      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
       "source": "GitHub",
-      "stars": 458,
-      "user": "sandeco"
+      "stars": 107,
+      "user": "AIScientists-Dev"
+    },
+    {
+      "title": "AeternaLabsHQ/pullmd - Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "url": "https://github.com/AeternaLabsHQ/pullmd",
+      "published_at": "2026-04-27T07:32:25Z",
+      "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263174715?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "AeternaLabsHQ"
     },
     {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2887,
+      "stars": 2891,
       "user": "theori-io"
     },
     {
@@ -688,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1696,
       "user": "denuitt1"
     },
     {
@@ -703,23 +718,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 917,
       "user": "DanOps-1"
-    },
-    {
-      "title": "Kianmhz/GooseRelayVPN - Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "url": "https://github.com/Kianmhz/GooseRelayVPN",
-      "published_at": "2026-04-26T05:17:43Z",
-      "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
-      "source": "GitHub",
-      "stars": 577,
-      "user": "Kianmhz"
     },
     {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
@@ -934,21 +934,6 @@
       "user": "velmu"
     },
     {
-      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
-      "url": "https://github.com/sandeco/reversa",
-      "published_at": "2026-04-26T13:47:10Z",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
-      "source": "GitHub",
-      "stars": 458,
-      "user": "sandeco"
-    },
-    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -964,21 +949,6 @@
       "user": "amirshaker000"
     },
     {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "waybarrios"
-    },
-    {
       "title": "TQ-trade/defidollar-core - Smart contracts for the DefiDollar ($DUSD) stablecoin.",
       "url": "https://github.com/TQ-trade/defidollar-core",
       "published_at": "2026-05-01T06:43:35Z",
@@ -990,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 162,
       "user": "TQ-trade"
     },
     {
@@ -1009,6 +979,36 @@
       "user": "Pathos0925"
     },
     {
+      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "url": "https://github.com/AIScientists-Dev/loupe",
+      "published_at": "2026-04-27T03:11:06Z",
+      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "AIScientists-Dev"
+    },
+    {
+      "title": "AeternaLabsHQ/pullmd - Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "url": "https://github.com/AeternaLabsHQ/pullmd",
+      "published_at": "2026-04-27T07:32:25Z",
+      "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263174715?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "AeternaLabsHQ"
+    },
+    {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
       "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
       "published_at": "2026-04-28T22:33:54Z",
@@ -1022,6 +1022,21 @@
       "source": "GitHub",
       "stars": 101,
       "user": "Hidden-Node"
+    },
+    {
+      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "url": "https://github.com/marchinthesun/cluster-performance-engine",
+      "published_at": "2026-05-01T06:31:35Z",
+      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "marchinthesun"
     }
   ],
   "Python": [
@@ -1202,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2887,
+      "stars": 2891,
       "user": "theori-io"
     },
     {
@@ -1217,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1696,
       "user": "denuitt1"
     },
     {
@@ -1232,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 917,
       "user": "DanOps-1"
     },
     {
@@ -1247,23 +1262,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "Fokkyp"
     },
     {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "title": "val1813/kwcode - 一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
+      "url": "https://github.com/val1813/kwcode",
+      "published_at": "2026-04-27T06:56:36Z",
+      "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 535,
-      "user": "NyxTides"
+      "stars": 436,
+      "user": "val1813"
     }
   ],
   "DevOps": [
@@ -1326,6 +1341,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "url": "https://github.com/marchinthesun/cluster-performance-engine",
+      "published_at": "2026-05-01T06:31:35Z",
+      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "marchinthesun"
     }
   ],
   "WebDev": [
@@ -1383,21 +1413,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "waybarrios"
     }
   ],
   "Mobile": [
@@ -1445,21 +1460,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
-    },
-    {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "waybarrios"
     },
     {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
@@ -1743,8 +1743,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1696,
       "user": "denuitt1"
+    },
+    {
+      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "url": "https://github.com/marchinthesun/cluster-performance-engine",
+      "published_at": "2026-05-01T06:31:35Z",
+      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "marchinthesun"
     }
   ],
   "Database": [
@@ -1818,21 +1833,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "waybarrios"
     }
   ],
   "Tools": [
@@ -2011,21 +2011,6 @@
       "user": "David Cantrell"
     },
     {
-      "title": "sandeco/reversa - Transform legacy systems into executable specifications for AI coding agents",
-      "url": "https://github.com/sandeco/reversa",
-      "published_at": "2026-04-26T13:47:10Z",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3765602?v=4",
-      "source": "GitHub",
-      "stars": 458,
-      "user": "sandeco"
-    },
-    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -2041,21 +2026,6 @@
       "user": "amirshaker000"
     },
     {
-      "title": "waybarrios/opencode-power-pack - Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "url": "https://github.com/waybarrios/opencode-power-pack",
-      "published_at": "2026-04-26T17:13:11Z",
-      "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6794828?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "waybarrios"
-    },
-    {
       "title": "TQ-trade/defidollar-core - Smart contracts for the DefiDollar ($DUSD) stablecoin.",
       "url": "https://github.com/TQ-trade/defidollar-core",
       "published_at": "2026-05-01T06:43:35Z",
@@ -2067,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 162,
       "user": "TQ-trade"
     },
     {
@@ -2086,6 +2056,36 @@
       "user": "Pathos0925"
     },
     {
+      "title": "AIScientists-Dev/loupe - A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "url": "https://github.com/AIScientists-Dev/loupe",
+      "published_at": "2026-04-27T03:11:06Z",
+      "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226059021?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "AIScientists-Dev"
+    },
+    {
+      "title": "AeternaLabsHQ/pullmd - Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "url": "https://github.com/AeternaLabsHQ/pullmd",
+      "published_at": "2026-04-27T07:32:25Z",
+      "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263174715?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "AeternaLabsHQ"
+    },
+    {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 2887,
+      "stars": 2891,
       "user": "theori-io"
     },
     {
@@ -2112,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1696,
       "user": "denuitt1"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 917,
       "user": "DanOps-1"
     },
     {
@@ -2142,38 +2142,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "Fokkyp"
     },
     {
-      "title": "NyxTides/ppt-image-first - PPT image-first skill for Codex/Claude Code/Opencode CLI",
-      "url": "https://github.com/NyxTides/ppt-image-first",
-      "published_at": "2026-04-26T04:04:15Z",
-      "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+      "title": "val1813/kwcode - 一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
+      "url": "https://github.com/val1813/kwcode",
+      "published_at": "2026-04-27T06:56:36Z",
+      "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205922613?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/265172612?v=4",
       "source": "GitHub",
-      "stars": 535,
-      "user": "NyxTides"
-    },
-    {
-      "title": "Kianmhz/GooseRelayVPN - Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "url": "https://github.com/Kianmhz/GooseRelayVPN",
-      "published_at": "2026-04-26T05:17:43Z",
-      "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67905003?v=4",
-      "source": "GitHub",
-      "stars": 577,
-      "user": "Kianmhz"
+      "stars": 436,
+      "user": "val1813"
     },
     {
       "title": "benqi-finance/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
@@ -2202,23 +2187,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "openclaw"
-    },
-    {
-      "title": "openyuanrong-project/yuanrong - openyuanrong project",
-      "url": "https://github.com/openyuanrong-project/yuanrong",
-      "published_at": "2026-04-26T10:00:24Z",
-      "description": "openyuanrong project",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279431554?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "openyuanrong-project"
     },
     {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
@@ -2234,6 +2204,36 @@
       "source": "GitHub",
       "stars": 101,
       "user": "Hidden-Node"
+    },
+    {
+      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "url": "https://github.com/marchinthesun/cluster-performance-engine",
+      "published_at": "2026-05-01T06:31:35Z",
+      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "marchinthesun"
+    },
+    {
+      "title": "watany-dev/gitreal - GitHub Repository",
+      "url": "https://github.com/watany-dev/gitreal",
+      "published_at": "2026-05-01T01:58:08Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "watany-dev"
     }
   ]
 }
