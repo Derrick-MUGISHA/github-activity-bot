@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
-      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9",
-      "published_at": "2026-05-02T10:08:42Z",
-      "description": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -74,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
       "source": "Dev.to",
       "user": "Kiran Randhawa"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
-      "published_at": "2026-05-02T12:01:42Z",
-      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Porting Libraries to Crystal with AI",
@@ -191,21 +176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
       "source": "Dev.to",
       "user": "Matthew Revell"
-    },
-    {
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
-      "published_at": "2026-04-30T12:14:54Z",
-      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
-      "tags": [
-        "ai",
-        "webdev",
-        "openai",
-        "monitoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
-      "source": "Dev.to",
-      "user": "Ali Afana "
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -368,6 +338,36 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
+      "published_at": "2026-04-30T12:14:54Z",
+      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
+      "tags": [
+        "ai",
+        "webdev",
+        "openai",
+        "monitoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
+      "source": "Dev.to",
+      "user": "Ali Afana "
+    },
+    {
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "tags": [
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
       "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
       "published_at": "2026-04-19T03:11:23Z",
@@ -426,21 +426,6 @@
       "user": "Michelle Duke"
     },
     {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "tags": [
-        "machinelearning",
-        "python",
-        "ai",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
       "title": "I Am Starting Over in Public",
       "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1",
       "published_at": "2026-05-01T18:51:18Z",
@@ -469,6 +454,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
       "source": "Dev.to",
       "user": "kotakanbe"
+    },
+    {
+      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
+      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9",
+      "published_at": "2026-05-02T10:08:42Z",
+      "description": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
@@ -513,21 +528,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
       "source": "Dev.to",
       "user": "yamadashy"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -673,23 +673,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3086,
+      "stars": 3101,
       "user": "theori-io"
     },
     {
-      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "url": "https://github.com/Tommy-yw/RunbookHermes",
-      "published_at": "2026-05-01T07:30:53Z",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "title": "noonghunna/club-3090 - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "url": "https://github.com/noonghunna/club-3090",
+      "published_at": "2026-04-28T10:08:59Z",
+      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 404,
-      "user": "Tommy-yw"
+      "stars": 470,
+      "user": "noonghunna"
     },
     {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
@@ -703,26 +703,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "Hidden-Node"
     }
   ],
   "JavaScript": [
-    {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
-      "published_at": "2026-05-03T07:04:22Z",
-      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "tags": [
-        "api",
-        "javascript",
-        "mobile",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
-      "source": "Dev.to",
-      "user": "Ekong Ikpe"
-    },
     {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
       "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
@@ -752,6 +737,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "published_at": "2026-05-03T07:04:22Z",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "tags": [
+        "api",
+        "javascript",
+        "mobile",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
+      "source": "Dev.to",
+      "user": "Ekong Ikpe"
     },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 746,
       "user": "aattaran"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "amirshaker000"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 307,
       "user": "Kappaemme-git"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "TQ-trade"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 193,
       "user": "tgies"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "Hidden-Node"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3086,
+      "stars": 3101,
       "user": "theori-io"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 688,
       "user": "Fokkyp"
     },
     {
@@ -1232,8 +1232,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 614,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "noonghunna/club-3090 - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "url": "https://github.com/noonghunna/club-3090",
+      "published_at": "2026-04-28T10:08:59Z",
+      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
+      "source": "GitHub",
+      "stars": 470,
+      "user": "noonghunna"
     },
     {
       "title": "rootsecdev/cve_2026_31431 - Exploit POC for CVE_2026_31431",
@@ -1247,23 +1262,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 469,
       "user": "rootsecdev"
-    },
-    {
-      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "url": "https://github.com/Tommy-yw/RunbookHermes",
-      "published_at": "2026-05-01T07:30:53Z",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
-      "source": "GitHub",
-      "stars": 404,
-      "user": "Tommy-yw"
     }
   ],
   "DevOps": [
@@ -1329,6 +1329,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
@@ -1396,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 746,
       "user": "aattaran"
     }
   ],
@@ -1415,21 +1430,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
       "source": "Dev.to",
       "user": "Ekong Ikpe"
-    },
-    {
-      "title": "More Accessible Focus Indicators with Compose",
-      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
-      "published_at": "2026-04-30T11:22:00Z",
-      "description": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
-      "tags": [
-        "android",
-        "a11y",
-        "mobile",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvn9jdhejgllj1y1xzm1m.png",
-      "source": "Dev.to",
-      "user": "Eevis"
     },
     {
       "title": "How to Remove Console.log from React Native Production Builds",
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "Hidden-Node"
     }
   ],
@@ -1492,21 +1492,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
-      "published_at": "2026-05-02T12:01:42Z",
-      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "BWAI'2026 @ VTU, Belagavi",
@@ -1614,6 +1599,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "tags": [
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "source": "Dev.to",
+      "user": "Omotayo Aina"
+    },
+    {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
       "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
       "published_at": "2026-04-27T06:55:28Z",
@@ -1644,21 +1644,6 @@
       "user": "Evertson Croes"
     },
     {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "tags": [
-        "machinelearning",
-        "python",
-        "ai",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
-    },
-    {
       "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
       "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
       "published_at": "2026-04-22T14:09:18Z",
@@ -1671,6 +1656,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
@@ -1686,21 +1686,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
-      "published_at": "2026-04-26T17:16:25Z",
-      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
-      "tags": [
-        "cloudnextchallenge",
-        "devchallenge",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1852,6 +1837,21 @@
       "user": "Philippe MARTIN"
     },
     {
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
+      "published_at": "2026-05-02T08:22:42Z",
+      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "tags": [
+        "programming",
+        "webdev",
+        "productivity",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
+      "source": "Dev.to",
+      "user": "Adam - The Developer"
+    },
+    {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
       "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
       "published_at": "2026-04-27T02:00:10Z",
@@ -1880,21 +1880,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
-    },
-    {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
-      "published_at": "2026-05-02T08:22:42Z",
-      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
-      "tags": [
-        "programming",
-        "webdev",
-        "productivity",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
-      "source": "Dev.to",
-      "user": "Adam - The Developer"
     },
     {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
@@ -1978,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 746,
       "user": "aattaran"
     },
     {
@@ -1993,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "amirshaker000"
     },
     {
@@ -2008,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 307,
       "user": "Kappaemme-git"
     },
     {
@@ -2023,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "TQ-trade"
     },
     {
@@ -2038,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 193,
       "user": "tgies"
     },
     {
@@ -2053,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3086,
+      "stars": 3101,
       "user": "theori-io"
     },
     {
@@ -2068,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 688,
       "user": "Fokkyp"
     },
     {
@@ -2083,8 +2068,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 614,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "noonghunna/club-3090 - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "url": "https://github.com/noonghunna/club-3090",
+      "published_at": "2026-04-28T10:08:59Z",
+      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
+      "source": "GitHub",
+      "stars": 470,
+      "user": "noonghunna"
     },
     {
       "title": "rootsecdev/cve_2026_31431 - Exploit POC for CVE_2026_31431",
@@ -2098,23 +2098,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 469,
       "user": "rootsecdev"
-    },
-    {
-      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "url": "https://github.com/Tommy-yw/RunbookHermes",
-      "published_at": "2026-05-01T07:30:53Z",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
-      "source": "GitHub",
-      "stars": 404,
-      "user": "Tommy-yw"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
@@ -2128,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "openclaw"
     },
     {
@@ -2143,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "Hidden-Node"
     },
     {
@@ -2158,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "benqi-finance"
     },
     {
