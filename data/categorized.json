@@ -16,21 +16,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -208,19 +193,6 @@
       "user": "Matthew Revell"
     },
     {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
-    },
-    {
       "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
       "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
       "published_at": "2026-04-30T12:14:54Z",
@@ -234,6 +206,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
       "source": "Dev.to",
       "user": "Ali Afana "
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
+      "published_at": "2026-04-26T13:10:27Z",
+      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
+      "tags": [
+        "backend",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
+      "source": "Dev.to",
+      "user": "Rahmon Toyeeb"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -441,19 +426,19 @@
       "user": "Michelle Duke"
     },
     {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
+      "published_at": "2026-05-01T00:02:24Z",
+      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
       "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
+        "machinelearning",
+        "python",
+        "ai",
+        "deeplearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
-      "user": "Grace Gong"
+      "user": "Omotayo Aina"
     },
     {
       "title": "I Am Starting Over in Public",
@@ -486,19 +471,19 @@
       "user": "kotakanbe"
     },
     {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
       "tags": [
-        "machinelearning",
-        "python",
         "ai",
-        "deeplearning"
+        "googlecloud",
+        "python",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
       "source": "Dev.to",
-      "user": "Omotayo Aina"
+      "user": "Evan Lin"
     },
     {
       "title": "Claude and I aren't vibing at all",
@@ -513,6 +498,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
       "source": "Dev.to",
       "user": "Nikhil Sharma"
+    },
+    {
+      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
+      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
+      "published_at": "2026-04-30T14:45:49Z",
+      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
+      "tags": [
+        "claude",
+        "ai",
+        "githubactions",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
+      "source": "Dev.to",
+      "user": "yamadashy"
+    },
+    {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -658,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3077,
+      "stars": 3086,
       "user": "theori-io"
     },
     {
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "Tommy-yw"
     },
     {
@@ -737,21 +752,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Mapbox GL JS adds support for PMTiles vector sources",
-      "url": "https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b",
-      "published_at": "2026-04-30T16:15:47Z",
-      "description": "Mapbox GL JS v3.21.0 added support for vector sources using the PMTiles protocol — another option in...",
-      "tags": [
-        "spatialdata",
-        "pmtiles",
-        "web",
-        "webmapping"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fog2jy2avly9hjwo9e7lr.png",
-      "source": "Dev.to",
-      "user": "Chris Whong"
     },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 629,
       "user": "aattaran"
     },
     {
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "amirshaker000"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 290,
       "user": "Kappaemme-git"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "TQ-trade"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "tgies"
     },
     {
@@ -1026,21 +1026,6 @@
   ],
   "Python": [
     {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Installing pygame for IDLE on Mac",
       "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
       "published_at": "2026-04-21T19:13:08Z",
@@ -1069,6 +1054,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3077,
+      "stars": 3086,
       "user": "theori-io"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "Fokkyp"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 596,
       "user": "vibeforge1111"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "rootsecdev"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "Tommy-yw"
     }
   ],
@@ -1396,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 629,
       "user": "aattaran"
     }
   ],
@@ -1478,21 +1478,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
@@ -1659,21 +1644,6 @@
       "user": "Evertson Croes"
     },
     {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
-      "source": "Dev.to",
-      "user": "Grace Gong"
-    },
-    {
       "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
       "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
       "published_at": "2026-05-01T00:02:24Z",
@@ -1699,6 +1669,36 @@
         "cloudnextchallenge"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "url": "https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9",
+      "published_at": "2026-04-26T17:16:25Z",
+      "description": "Hey everyone!  If you’ve been building with Google Cloud lately, you might have noticed some shiny...",
+      "tags": [
+        "cloudnextchallenge",
+        "devchallenge",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgq9k0avnkoiaw7j8xt6r.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -1912,21 +1912,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "url": "https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k",
-      "published_at": "2026-04-30T09:38:40Z",
-      "description": "Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...",
-      "tags": [
-        "tpu",
-        "googlecloud",
-        "googledevs",
-        "tpusprint"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnecbvmzcbwn82xwz7j33.png",
-      "source": "Dev.to",
-      "user": "Grace Gong"
-    },
-    {
       "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
       "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
       "published_at": "2026-04-16T22:16:44Z",
@@ -1967,6 +1952,21 @@
       "user": "Tiberiu Tofan"
     },
     {
+      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
+      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
+      "published_at": "2026-04-30T14:45:49Z",
+      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
+      "tags": [
+        "claude",
+        "ai",
+        "githubactions",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
+      "source": "Dev.to",
+      "user": "yamadashy"
+    },
+    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 629,
       "user": "aattaran"
     },
     {
@@ -1993,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "amirshaker000"
     },
     {
@@ -2008,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 290,
       "user": "Kappaemme-git"
     },
     {
@@ -2023,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "TQ-trade"
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "tgies"
     },
     {
@@ -2053,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3077,
+      "stars": 3086,
       "user": "theori-io"
     },
     {
@@ -2068,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "Fokkyp"
     },
     {
@@ -2083,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 596,
       "user": "vibeforge1111"
     },
     {
@@ -2098,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "rootsecdev"
     },
     {
@@ -2113,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "Tommy-yw"
     },
     {
@@ -2128,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "openclaw"
     },
     {

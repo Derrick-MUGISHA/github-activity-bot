@@ -6,8 +6,8 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 49,
-    "JavaScript": 24,
+    "AI": 50,
+    "JavaScript": 23,
     "Python": 18,
     "DevOps": 4,
     "WebDev": 5,
@@ -20,18 +20,18 @@
   "by_language": {
     "Ruby": 1,
     "Go": 29,
-    "Python": 18,
-    "JavaScript": 24,
+    "JavaScript": 23,
     "Java": 19,
+    "Python": 18,
     "Kotlin": 3
   },
   "by_date": {
-    "2026-04-30": 9,
+    "2026-04-30": 8,
     "2026-05-03": 11,
     "2026-05-02": 8,
     "2026-05-01": 12,
     "2026-04-27": 6,
-    "2026-04-26": 1,
+    "2026-04-26": 2,
     "2026-04-29": 6,
     "2026-04-25": 1,
     "2026-04-19": 3,
@@ -74,34 +74,34 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 24,
+    "ai": 25,
     "github": 15,
     "open-source": 15,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "gemini": 8,
+    "gemini": 9,
+    "devchallenge": 8,
+    "javascript": 8,
     "googlecloud": 8,
     "python": 8,
-    "javascript": 8,
-    "devchallenge": 7,
     "webdev": 6,
-    "tutorial": 5,
     "productivity": 5,
+    "tutorial": 5,
     "discuss": 5,
     "go": 5,
     "agents": 4,
     "programming": 4,
     "architecture": 4,
-    "weekendchallenge": 3
+    "cloudnextchallenge": 4
   },
   "trending_topics": [],
   "language_percentages": {
     "Ruby": "1.1",
-    "Go": "30.9",
-    "Python": "19.1",
-    "JavaScript": "25.5",
-    "Java": "20.2",
+    "Go": "31.2",
+    "JavaScript": "24.7",
+    "Java": "20.4",
+    "Python": "19.4",
     "Kotlin": "3.2"
   }
 }
