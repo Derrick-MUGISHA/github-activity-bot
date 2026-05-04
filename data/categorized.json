@@ -236,21 +236,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
-      "published_at": "2026-05-01T16:11:48Z",
-      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "tags": [
-        "css",
-        "webdev",
-        "discuss",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
-      "source": "Dev.to",
-      "user": "Andy Robinson"
-    },
-    {
       "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
       "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
       "published_at": "2026-04-30T12:14:54Z",
@@ -690,38 +675,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3015,
+      "stars": 3019,
       "user": "theori-io"
     },
     {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
+      "published_at": "2026-05-01T07:30:53Z",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 1954,
-      "user": "denuitt1"
-    },
-    {
-      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-      "published_at": "2026-04-27T03:48:28Z",
-      "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
-      "source": "GitHub",
-      "stars": 962,
-      "user": "DanOps-1"
+      "stars": 326,
+      "user": "Tommy-yw"
     },
     {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
@@ -741,21 +711,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
-      "published_at": "2026-05-03T07:04:22Z",
-      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "tags": [
-        "api",
-        "javascript",
-        "mobile",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
-      "source": "Dev.to",
-      "user": "Ekong Ikpe"
-    },
-    {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
       "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
       "published_at": "2026-05-03T13:05:28Z",
@@ -769,6 +724,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
       "source": "Dev.to",
       "user": "Harshil Agrawal"
+    },
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "published_at": "2026-05-03T07:04:22Z",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "tags": [
+        "api",
+        "javascript",
+        "mobile",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
+      "source": "Dev.to",
+      "user": "Ekong Ikpe"
     },
     {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
@@ -962,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "amirshaker000"
     },
     {
@@ -977,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "TQ-trade"
     },
     {
@@ -992,8 +962,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 194,
       "user": "Kappaemme-git"
+    },
+    {
+      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
+      "url": "https://github.com/tgies/klattsch",
+      "published_at": "2026-04-30T21:57:14Z",
+      "description": "primitive parallel-formant speech synth in the browser",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "tgies"
     },
     {
       "title": "Pathos0925/SatoshiGuesser - Roll for lost bitcoin.",
@@ -1009,21 +994,6 @@
       "source": "GitHub",
       "stars": 165,
       "user": "Pathos0925"
-    },
-    {
-      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
-      "url": "https://github.com/tgies/klattsch",
-      "published_at": "2026-04-30T21:57:14Z",
-      "description": "primitive parallel-formant speech synth in the browser",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "tgies"
     },
     {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
@@ -1219,38 +1189,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3015,
+      "stars": 3019,
       "user": "theori-io"
-    },
-    {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 1954,
-      "user": "denuitt1"
-    },
-    {
-      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-      "published_at": "2026-04-27T03:48:28Z",
-      "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
-      "source": "GitHub",
-      "stars": 962,
-      "user": "DanOps-1"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -1264,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "Fokkyp"
     },
     {
@@ -1279,8 +1219,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 517,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "rootsecdev/cve_2026_31431 - Exploit POC for CVE_2026_31431",
+      "url": "https://github.com/rootsecdev/cve_2026_31431",
+      "published_at": "2026-04-29T17:46:43Z",
+      "description": "Exploit POC for CVE_2026_31431",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
+      "source": "GitHub",
+      "stars": 456,
+      "user": "rootsecdev"
+    },
+    {
+      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
+      "published_at": "2026-05-01T07:30:53Z",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "source": "GitHub",
+      "stars": 326,
+      "user": "Tommy-yw"
     }
   ],
   "DevOps": [
@@ -1358,21 +1328,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
-      "published_at": "2026-05-01T16:11:48Z",
-      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "tags": [
-        "css",
-        "webdev",
-        "discuss",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
-      "source": "Dev.to",
-      "user": "Andy Robinson"
     },
     {
       "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
@@ -1735,21 +1690,6 @@
       "user": "Eslam Genedy"
     },
     {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 1954,
-      "user": "denuitt1"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -2099,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "amirshaker000"
     },
     {
@@ -2114,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "TQ-trade"
     },
     {
@@ -2129,8 +2069,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 194,
       "user": "Kappaemme-git"
+    },
+    {
+      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
+      "url": "https://github.com/tgies/klattsch",
+      "published_at": "2026-04-30T21:57:14Z",
+      "description": "primitive parallel-formant speech synth in the browser",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "tgies"
     },
     {
       "title": "Pathos0925/SatoshiGuesser - Roll for lost bitcoin.",
@@ -2148,21 +2103,6 @@
       "user": "Pathos0925"
     },
     {
-      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
-      "url": "https://github.com/tgies/klattsch",
-      "published_at": "2026-04-30T21:57:14Z",
-      "description": "primitive parallel-formant speech synth in the browser",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "tgies"
-    },
-    {
       "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
@@ -2174,38 +2114,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3015,
+      "stars": 3019,
       "user": "theori-io"
-    },
-    {
-      "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw",
-      "published_at": "2026-04-27T22:26:16Z",
-      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 1954,
-      "user": "denuitt1"
-    },
-    {
-      "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-      "published_at": "2026-04-27T03:48:28Z",
-      "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/136412026?v=4",
-      "source": "GitHub",
-      "stars": 962,
-      "user": "DanOps-1"
     },
     {
       "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
@@ -2219,7 +2129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "Fokkyp"
     },
     {
@@ -2234,8 +2144,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 517,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "rootsecdev/cve_2026_31431 - Exploit POC for CVE_2026_31431",
+      "url": "https://github.com/rootsecdev/cve_2026_31431",
+      "published_at": "2026-04-29T17:46:43Z",
+      "description": "Exploit POC for CVE_2026_31431",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
+      "source": "GitHub",
+      "stars": 456,
+      "user": "rootsecdev"
+    },
+    {
+      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
+      "published_at": "2026-05-01T07:30:53Z",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "source": "GitHub",
+      "stars": 326,
+      "user": "Tommy-yw"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
@@ -2249,7 +2189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "openclaw"
     },
     {
