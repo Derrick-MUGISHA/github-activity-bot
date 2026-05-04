@@ -16,6 +16,81 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
+      "title": "OpenAI Codex is free right now. That's the trap.",
+      "url": "https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5",
+      "published_at": "2026-05-04T16:38:42Z",
+      "description": "We all understand that free services from a company that is spending billions on computing power...",
+      "tags": [
+        "discuss",
+        "programming",
+        "webdev",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flitter.catbox.moe%2F9o131i.png",
+      "source": "Dev.to",
+      "user": "Aditya Agarwal"
+    },
+    {
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "tags": [
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "source": "Dev.to",
+      "user": "Vilius"
+    },
+    {
+      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
+      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
+      "published_at": "2026-05-04T02:20:36Z",
+      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "tags": [
+        "ai",
+        "mobile",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -31,51 +106,6 @@
       "user": "xbill"
     },
     {
-      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
-      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
-      "published_at": "2026-05-03T00:00:00Z",
-      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "devrel",
-        "burnout"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
-      "source": "Dev.to",
-      "user": "Filipe Brito Ferreira"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
-    },
-    {
-      "title": "How Making a Fountain Pen Made Me a Better Developer",
-      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
-      "published_at": "2026-05-01T12:46:57Z",
-      "description": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
-      "tags": [
-        "learning",
-        "productivity",
-        "sideprojects",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
-      "source": "Dev.to",
-      "user": "Kiran Randhawa"
-    },
-    {
       "title": "Porting Libraries to Crystal with AI",
       "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
       "published_at": "2026-05-02T06:40:43Z",
@@ -86,36 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png",
       "source": "Dev.to",
       "user": "kojix2"
-    },
-    {
-      "title": "BWAI'2026 @ VTU, Belagavi",
-      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
-      "published_at": "2026-05-03T15:31:54Z",
-      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
-      "tags": [
-        "ai",
-        "beginners",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
-    },
-    {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
@@ -191,6 +191,21 @@
       "user": "Rahmon Toyeeb"
     },
     {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
       "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
       "published_at": "2026-04-27T02:00:10Z",
@@ -221,6 +236,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
+      "published_at": "2026-05-03T15:31:54Z",
+      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "tags": [
+        "ai",
+        "beginners",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
+    },
+    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -236,6 +266,35 @@
       "user": "Simme"
     },
     {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
+      "published_at": "2026-05-03T11:11:51Z",
+      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
       "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
       "published_at": "2026-05-03T05:10:27Z",
@@ -249,6 +308,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
+      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
+      "published_at": "2026-05-03T00:00:00Z",
+      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "devrel",
+        "burnout"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
+      "source": "Dev.to",
+      "user": "Filipe Brito Ferreira"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -281,20 +355,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
-      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
-      "published_at": "2026-04-17T13:18:29Z",
-      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
-      "tags": [
-        "drupal",
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
-      "source": "Dev.to",
-      "user": "James Candan"
-    },
-    {
       "title": "I Don't Like Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
       "published_at": "2026-05-01T16:11:48Z",
@@ -308,6 +368,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
       "source": "Dev.to",
       "user": "Andy Robinson"
+    },
+    {
+      "title": "Less Than Six Hours From Idea to Dev Release: Building a new Drupal Canvas SDC Module With AI, Deliberately",
+      "url": "https://dev.to/jcandan/i-built-a-new-drupal-canvas-sdc-module-with-ai-in-under-6-hours-and-the-review-process-still-59b8",
+      "published_at": "2026-04-17T13:18:29Z",
+      "description": "Last night, during a Chattanooga Drupal User Group call, Mike Herchel invited Pameeela to share an...",
+      "tags": [
+        "drupal",
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8yslikky3j4r2wjod37.png",
+      "source": "Dev.to",
+      "user": "James Candan"
     },
     {
       "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
@@ -379,21 +453,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
       "source": "Dev.to",
       "user": "vaidehi Warghat"
-    },
-    {
-      "title": "Stop Using Your Clipboard to Share Context",
-      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
-      "published_at": "2026-04-30T16:27:59Z",
-      "description": "We're all learning how to code with agents. If you're \"in the bubble\" it can feel like everyone is...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flwdm5sznr9uc0u2xuzy3.jpeg",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
     },
     {
       "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
@@ -484,50 +543,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Claude and I aren't vibing at all",
-      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
-      "published_at": "2026-04-23T02:48:08Z",
-      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
-      "tags": [
-        "claude",
-        "ai",
-        "coding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
-      "source": "Dev.to",
-      "user": "Nikhil Sharma"
-    },
-    {
-      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
-      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
-      "published_at": "2026-04-30T14:45:49Z",
-      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
-      "tags": [
-        "claude",
-        "ai",
-        "githubactions",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
-      "source": "Dev.to",
-      "user": "yamadashy"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3110,
+      "stars": 3117,
       "user": "theori-io"
     },
     {
@@ -688,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "Tommy-yw"
     },
     {
@@ -703,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "noonghunna"
     },
     {
@@ -718,25 +733,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "Hidden-Node"
     }
   ],
   "JavaScript": [
     {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+      "published_at": "2026-05-04T13:23:38Z",
+      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
       "tags": [
-        "ai",
-        "devjournal",
+        "security",
+        "webdev",
         "javascript",
-        "webdev"
+        "node"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
       "source": "Dev.to",
-      "user": "Harshil Agrawal"
+      "user": "Vladimir Novick"
     },
     {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
@@ -752,6 +767,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
     },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
@@ -945,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 885,
       "user": "aattaran"
     },
     {
@@ -960,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "amirshaker000"
     },
     {
@@ -975,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 331,
       "user": "Kappaemme-git"
     },
     {
@@ -1005,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 201,
       "user": "tgies"
     },
     {
@@ -1020,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "Hidden-Node"
     },
     {
@@ -1040,6 +1070,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "tags": [
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "source": "Dev.to",
+      "user": "Vilius"
+    },
     {
       "title": "Installing pygame for IDLE on Mac",
       "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
@@ -1069,21 +1114,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1217,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3110,
+      "stars": 3117,
       "user": "theori-io"
     },
     {
@@ -1232,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 691,
       "user": "Fokkyp"
     },
     {
@@ -1247,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 635,
       "user": "vibeforge1111"
     },
     {
@@ -1262,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "Tommy-yw"
     },
     {
@@ -1277,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "noonghunna"
     }
   ],
@@ -1426,11 +1456,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 885,
       "user": "aattaran"
     }
   ],
   "Mobile": [
+    {
+      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
+      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
+      "published_at": "2026-05-04T02:20:36Z",
+      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "tags": [
+        "ai",
+        "mobile",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
       "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
@@ -1462,21 +1507,6 @@
       "user": "Neeraj Singh"
     },
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
-    },
-    {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
       "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
       "published_at": "2026-04-28T22:33:54Z",
@@ -1488,11 +1518,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "Hidden-Node"
     }
   ],
   "Cloud": [
+    {
+      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6",
+      "published_at": "2026-05-04T15:00:22Z",
+      "description": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "claude",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fximhnvwrr5nda10uwsil.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
@@ -1507,21 +1567,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "BWAI'2026 @ VTU, Belagavi",
-      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
-      "published_at": "2026-05-03T15:31:54Z",
-      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
-      "tags": [
-        "ai",
-        "beginners",
-        "googlecloud",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
@@ -1569,17 +1614,31 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "[Google Cloud Next '26 Recap #1] Hands-On with the Agentic Hack Zone",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9",
-      "published_at": "2026-05-02T08:44:34Z",
-      "description": "I recently attended Google Cloud Next '26 in Las Vegas. In this post, I'd like to share my experience...",
+      "title": "BWAI'2026 @ VTU, Belagavi",
+      "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
+      "published_at": "2026-05-03T15:31:54Z",
+      "description": "#BuildwithAI       Hello Developer, That's a wrap at BWAI'2026 @ VTU, Belagavi.   The Build...",
+      "tags": [
+        "ai",
+        "beginners",
+        "googlecloud",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
+      "published_at": "2026-05-03T11:11:51Z",
+      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
       "tags": [
         "googlecloud",
         "gemini",
-        "adk",
-        "googlecloudnext"
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16id78i7sw5matedpjz9.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
     },
@@ -1688,21 +1747,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -1720,6 +1764,21 @@
   ],
   "Database": [
     {
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "tags": [
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "source": "Dev.to",
+      "user": "Vilius"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1733,6 +1792,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+      "published_at": "2026-05-04T13:23:38Z",
+      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
+      "tags": [
+        "security",
+        "webdev",
+        "javascript",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
+      "source": "Dev.to",
+      "user": "Vladimir Novick"
+    },
     {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
@@ -1793,6 +1867,21 @@
   ],
   "Tools": [
     {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
       "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
       "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi",
       "published_at": "2026-05-03T16:22:00Z",
@@ -1805,21 +1894,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjq9tlfr7ghaar635lty.png",
       "source": "Dev.to",
       "user": "Yusuke Iwaki"
-    },
-    {
-      "title": "How Making a Fountain Pen Made Me a Better Developer",
-      "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
-      "published_at": "2026-05-01T12:46:57Z",
-      "description": "Any type of process can benefit from task optimisation (reducing cost, improving consistency, and...",
-      "tags": [
-        "learning",
-        "productivity",
-        "sideprojects",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjcvoth9ow31sm3b75ed.png",
-      "source": "Dev.to",
-      "user": "Kiran Randhawa"
     },
     {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
@@ -1835,21 +1909,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
       "source": "Dev.to",
       "user": "Adam - The Developer"
-    },
-    {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -1897,6 +1956,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
+    },
+    {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
       "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
       "published_at": "2026-05-03T05:10:27Z",
@@ -1937,36 +2011,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
-    },
-    {
-      "title": "Letting Claude Code's Routines continuously tune my CLI's performance",
-      "url": "https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0",
-      "published_at": "2026-04-30T14:45:49Z",
-      "description": "I set up Claude Code's Routines to autonomously tune the performance of my open-source CLI every couple of hours. Sharing the prompt and the benchmark setup that makes it work — Repomix ended up around 2.4x faster.",
-      "tags": [
-        "claude",
-        "ai",
-        "githubactions",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65cblnkm99zihl5x21qc.png",
-      "source": "Dev.to",
-      "user": "yamadashy"
-    },
-    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1978,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 885,
       "user": "aattaran"
     },
     {
@@ -1993,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "amirshaker000"
     },
     {
@@ -2008,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 331,
       "user": "Kappaemme-git"
     },
     {
@@ -2038,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 201,
       "user": "tgies"
     },
     {
@@ -2053,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3110,
+      "stars": 3117,
       "user": "theori-io"
     },
     {
@@ -2068,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 691,
       "user": "Fokkyp"
     },
     {
@@ -2083,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 635,
       "user": "vibeforge1111"
     },
     {
@@ -2098,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "Tommy-yw"
     },
     {
@@ -2113,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "noonghunna"
     },
     {
@@ -2128,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 175,
       "user": "openclaw"
     },
     {
@@ -2143,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "Hidden-Node"
     },
     {
@@ -2158,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "benqi-finance"
     },
     {
