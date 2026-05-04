@@ -30,21 +30,21 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 32 (30.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Mobile**: 🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Mobile**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦 3 (2.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
 **Database**:  1 (1.0%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.5 (31.5%)
-JavaScript      ████████████████████████ 25.0 (25.0%)
-Java            ████████████████████ 20.7 (20.7%)
-Python          ██████████████████ 18.5 (18.5%)
-Kotlin          ███ 3.3 (3.3%)
+Go              ██████████████████████████████ 32.3 (32.3%)
+JavaScript      ████████████████████████ 25.8 (25.8%)
+Python          ██████████████████ 19.4 (19.4%)
+Java            ██████████████████ 19.4 (19.4%)
+Kotlin          ██ 2.2 (2.2%)
 Ruby            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
-    "JavaScript" : 23
-    "Java" : 19
-    "Python" : 17
-    "Kotlin" : 3
+    "Go" : 30
+    "JavaScript" : 24
+    "Python" : 18
+    "Java" : 18
+    "Kotlin" : 2
     "Ruby" : 1
 ```
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-04 3:00 CAT)
+## 📅 Latest Updates (2026-05-04 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +140,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png" width="200" alt="Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖" />
-      <br/>
-      <b>Migrating from Astro 5 to Astro 6: A Real-World Br...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjq9tlfr7ghaar635lty.png" width="200" alt="Introducing pytest-style fixtures into Ruby for smarter browser testing" />
       <br/>
@@ -157,8 +148,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png" width="200" alt="Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading" />
@@ -168,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png" width="200" alt="GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors" />
@@ -178,10 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png" width="200" alt="BWAI'2026 @ VTU, Belagavi" />
+    <a href="https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png" width="200" alt="Turning Repository Knowledge Into Usable Agent Context" />
       <br/>
-      <b>BWAI'2026 @ VTU, Belagavi</b>
+      <b>Turning Repository Knowledge Into Usable Agent Con...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png" width="200" alt="Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI" />
+      <br/>
+      <b>Multi-Agent A2A with the Agent Development Kit(ADK...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,27 +194,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
-- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi) _[Dev.to]_
 - [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) _[Dev.to]_
 - [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
-- [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n) _[Dev.to]_
 - [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0) _[Dev.to]_
 - [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8) _[Dev.to]_
 - [We're Shipping More Code Than Ever. We Understand Less of It.](https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n) _[Dev.to]_
 - [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94) _[Dev.to]_
+- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
+- [Write Code That's Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) _[Dev.to]_
+- [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n) _[Dev.to]_
 - [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8) _[Dev.to]_
-- [Migrating Azure Devops Activity to GitHub 🔄️](https://dev.to/raamyy/migrating-azure-devops-activity-to-github-37ci) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 
-_Last automated update: Mon, 04 May 2026 03:20:03 CAT_
+_Last automated update: Mon, 04 May 2026 06:57:13 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Mon, 04 May 2026 03:20:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 04 May 2026 01:20:04 GMT</b><br/>
+  <b>Last automated update: Mon, 04 May 2026 04:57:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
