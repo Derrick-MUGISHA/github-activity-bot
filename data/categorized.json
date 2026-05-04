@@ -31,21 +31,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -57,21 +42,6 @@
         "a2aprotocol"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -89,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
       "source": "Dev.to",
       "user": "Filipe Brito Ferreira"
-    },
-    {
-      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
-      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
-      "published_at": "2026-05-03T05:10:27Z",
-      "description": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
@@ -176,6 +131,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
       "source": "Dev.to",
       "user": "Piyush Annigeri"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
@@ -311,6 +296,21 @@
       "user": "Simme"
     },
     {
+      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
+      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
+      "published_at": "2026-05-03T05:10:27Z",
+      "description": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -355,19 +355,6 @@
       "user": "James Candan"
     },
     {
-      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
-      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
-      "published_at": "2026-04-19T06:21:26Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
-      "source": "Dev.to",
-      "user": "Setiaji"
-    },
-    {
       "title": "I Don't Like Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
       "published_at": "2026-05-01T16:11:48Z",
@@ -381,6 +368,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
       "source": "Dev.to",
       "user": "Andy Robinson"
+    },
+    {
+      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
+      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
+      "published_at": "2026-04-19T06:21:26Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
+      "source": "Dev.to",
+      "user": "Setiaji"
     },
     {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
@@ -441,21 +441,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
-      "published_at": "2026-04-29T18:28:37Z",
-      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
-      "tags": [
-        "testing",
-        "e2e",
-        "playwright",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
-      "source": "Dev.to",
-      "user": "Debbie O'Brien"
-    },
-    {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
       "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
       "published_at": "2026-04-27T06:55:28Z",
@@ -469,21 +454,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
       "source": "Dev.to",
       "user": "Michelle Duke"
-    },
-    {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit Pradhan"
     },
     {
       "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
@@ -529,6 +499,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "Claude and I aren't vibing at all",
+      "url": "https://dev.to/codisfy/claude-and-i-arent-vibing-at-all-2f1h",
+      "published_at": "2026-04-23T02:48:08Z",
+      "description": "I really enjoyed working with Opus 4.6 in Copilot, especially for tasks that required a bit of...",
+      "tags": [
+        "claude",
+        "ai",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw3h50fvtz6raos2xyf9.png",
+      "source": "Dev.to",
+      "user": "Nikhil Sharma"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -674,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3043,
+      "stars": 3065,
       "user": "theori-io"
     },
     {
@@ -689,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 383,
       "user": "Tommy-yw"
     },
     {
@@ -704,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "Hidden-Node"
     }
   ],
@@ -935,6 +919,21 @@
       "user": "velmu"
     },
     {
+      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "url": "https://github.com/aattaran/deepclaude",
+      "published_at": "2026-05-03T21:27:49Z",
+      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
+      "source": "GitHub",
+      "stars": 423,
+      "user": "aattaran"
+    },
+    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -950,21 +949,6 @@
       "user": "amirshaker000"
     },
     {
-      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "url": "https://github.com/aattaran/deepclaude",
-      "published_at": "2026-05-03T21:27:49Z",
-      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "aattaran"
-    },
-    {
       "title": "Kappaemme-git/codex-startup-pressure-test-skill - GitHub Repository",
       "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
       "published_at": "2026-05-03T08:20:20Z",
@@ -976,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 262,
       "user": "Kappaemme-git"
     },
     {
@@ -991,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 196,
       "user": "TQ-trade"
     },
     {
@@ -1006,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 179,
       "user": "tgies"
     },
     {
@@ -1021,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "Hidden-Node"
     },
     {
@@ -1218,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3043,
+      "stars": 3065,
       "user": "theori-io"
     },
     {
@@ -1233,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "Fokkyp"
     },
     {
@@ -1248,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 559,
       "user": "vibeforge1111"
     },
     {
@@ -1263,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 462,
       "user": "rootsecdev"
     },
     {
@@ -1278,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 383,
       "user": "Tommy-yw"
     }
   ],
@@ -1412,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 423,
       "user": "aattaran"
     }
   ],
@@ -1463,6 +1447,21 @@
       "user": "Neeraj Singh"
     },
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "Hidden-Node/GooseRelayVPN-AndroidClient - GooseRelayVPN Android client: a SOCKS5 VPN with profile-based setup, live logs, and JSON import/export that tunnels raw TCP   through Google Apps Script to your VPS exit server (AES-256-GCM, domain-fronted).",
       "url": "https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient",
       "published_at": "2026-04-28T22:33:54Z",
@@ -1474,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "Hidden-Node"
     }
   ],
@@ -1510,21 +1509,6 @@
       "user": "xbill"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
       "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
       "published_at": "2026-05-02T12:01:42Z",
@@ -1553,6 +1537,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
       "source": "Dev.to",
       "user": "Piyush Annigeri"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
@@ -1643,21 +1642,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
       "source": "Dev.to",
       "user": "Michelle Duke"
-    },
-    {
-      "title": "Everyone's Talking About Gemini. The Real Story at Google Cloud NEXT '26 Was GKE Agent Sandbox.",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/everyones-talking-about-gemini-the-real-story-at-google-cloud-next-26-was-gke-agent-sandbox-19g2",
-      "published_at": "2026-04-29T13:46:47Z",
-      "description": "Google Cloud NEXT '26 had one clear headline: the Gemini Enterprise Agent Platform. A full-stack...",
-      "tags": [
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk2a1e1054pqoax7xtvi3.png",
-      "source": "Dev.to",
-      "user": "Sreejit Pradhan"
     },
     {
       "title": "Processing long running events on AWS API Gateway",
@@ -1823,36 +1807,6 @@
       "user": "Yusuke Iwaki"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
-    },
-    {
-      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
-      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
-      "published_at": "2026-05-03T05:10:27Z",
-      "description": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "How Making a Fountain Pen Made Me a Better Developer",
       "url": "https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0",
       "published_at": "2026-05-01T12:46:57Z",
@@ -1881,6 +1835,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
       "source": "Dev.to",
       "user": "Adam - The Developer"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -1928,19 +1897,19 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "How I Used AI to Fix Our E2E Test Architecture",
-      "url": "https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a",
-      "published_at": "2026-04-29T18:28:37Z",
-      "description": "I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...",
+      "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
+      "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
+      "published_at": "2026-05-03T05:10:27Z",
+      "description": "Abstract   As Large Language Model (LLM) agents increasingly integrate numerous external...",
       "tags": [
-        "testing",
-        "e2e",
-        "playwright",
-        "ai"
+        "ai",
+        "agents",
+        "llm",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ym1nwfvsef7ao5edhw5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
       "source": "Dev.to",
-      "user": "Debbie O'Brien"
+      "user": "Tanaike"
     },
     {
       "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
@@ -1983,6 +1952,36 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
+      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "url": "https://github.com/aattaran/deepclaude",
+      "published_at": "2026-05-03T21:27:49Z",
+      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
+      "source": "GitHub",
+      "stars": 423,
+      "user": "aattaran"
+    },
+    {
       "title": "amirshaker000/netlify-relay - GitHub Repository",
       "url": "https://github.com/amirshaker000/netlify-relay",
       "published_at": "2026-04-29T03:30:34Z",
@@ -1998,21 +1997,6 @@
       "user": "amirshaker000"
     },
     {
-      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "url": "https://github.com/aattaran/deepclaude",
-      "published_at": "2026-05-03T21:27:49Z",
-      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "aattaran"
-    },
-    {
       "title": "Kappaemme-git/codex-startup-pressure-test-skill - GitHub Repository",
       "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
       "published_at": "2026-05-03T08:20:20Z",
@@ -2024,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 262,
       "user": "Kappaemme-git"
     },
     {
@@ -2039,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 196,
       "user": "TQ-trade"
     },
     {
@@ -2054,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 179,
       "user": "tgies"
     },
     {
@@ -2069,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3043,
+      "stars": 3065,
       "user": "theori-io"
     },
     {
@@ -2084,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 681,
       "user": "Fokkyp"
     },
     {
@@ -2099,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 559,
       "user": "vibeforge1111"
     },
     {
@@ -2114,7 +2098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 462,
       "user": "rootsecdev"
     },
     {
@@ -2129,7 +2113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 383,
       "user": "Tommy-yw"
     },
     {
@@ -2144,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 163,
       "user": "openclaw"
     },
     {
@@ -2159,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "Hidden-Node"
     },
     {
@@ -2174,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 121,
       "user": "benqi-finance"
     },
     {
