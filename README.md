@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -36,13 +36,13 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**Mobile**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.3 (32.3%)
-JavaScript      ████████████████████████ 25.8 (25.8%)
-Python          ██████████████████ 19.4 (19.4%)
-Java            ██████████████████ 19.4 (19.4%)
-Kotlin          ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 30.9 (30.9%)
+JavaScript      █████████████████████████ 25.5 (25.5%)
+Java            ████████████████████ 20.2 (20.2%)
+Python          ███████████████████ 19.1 (19.1%)
+Kotlin          ███ 3.2 (3.2%)
 Ruby            █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 30
+    "Go" : 29
     "JavaScript" : 24
+    "Java" : 19
     "Python" : 18
-    "Java" : 18
-    "Kotlin" : 2
+    "Kotlin" : 3
     "Ruby" : 1
 ```
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-04 6:00 CAT)
+## 📅 Latest Updates (2026-05-04 9:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -169,10 +169,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpb89d9t4y70i6pjg1xs.png" width="200" alt="Turning Repository Knowledge Into Usable Agent Context" />
+    <a href="https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png" width="200" alt="I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔" />
       <br/>
-      <b>Turning Repository Knowledge Into Usable Agent Con...</b>
+      <b>I Accidentally Wrote a Filesystem Driver. For a Br...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,24 +197,24 @@ npm run test
 - [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi) _[Dev.to]_
 - [Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading](https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9) _[Dev.to]_
 - [GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors](https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo) _[Dev.to]_
-- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4) _[Dev.to]_
-- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0) _[Dev.to]_
 - [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd) _[Dev.to]_
-- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8) _[Dev.to]_
+- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0) _[Dev.to]_
 - [We're Shipping More Code Than Ever. We Understand Less of It.](https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n) _[Dev.to]_
-- [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94) _[Dev.to]_
 - [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg) _[Dev.to]_
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
 - [Write Code That's Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) _[Dev.to]_
 - [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n) _[Dev.to]_
+- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4) _[Dev.to]_
+- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8) _[Dev.to]_
 - [Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [Using Gemini with OpenClaw: Setup Guide + Real Use Cases](https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
+- [Mapbox GL JS adds support for PMTiles vector sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b) _[Dev.to]_
 
-_Last automated update: Mon, 04 May 2026 06:57:13 CAT_
+_Last automated update: Mon, 04 May 2026 09:47:31 CAT_
 
 
 
@@ -233,25 +233,25 @@ React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. NodeJS: How do you handle errors in async/await?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 04 May 2026 04:57:13 GMT</b><br/>
+  <b>Last automated update: Mon, 04 May 2026 07:47:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
