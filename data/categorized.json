@@ -323,21 +323,6 @@
       "user": "Setiaji"
     },
     {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
       "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
       "published_at": "2026-04-30T12:14:54Z",
@@ -351,6 +336,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
       "source": "Dev.to",
       "user": "Ali Afana "
+    },
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
@@ -673,8 +673,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3101,
+      "stars": 3110,
       "user": "theori-io"
+    },
+    {
+      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
+      "published_at": "2026-05-01T07:30:53Z",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "source": "GitHub",
+      "stars": 479,
+      "user": "Tommy-yw"
     },
     {
       "title": "noonghunna/club-3090 - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
@@ -688,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 475,
       "user": "noonghunna"
     },
     {
@@ -930,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 827,
       "user": "aattaran"
     },
     {
@@ -960,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 321,
       "user": "Kappaemme-git"
     },
     {
@@ -975,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "TQ-trade"
     },
     {
@@ -990,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "tgies"
     },
     {
@@ -1202,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3101,
+      "stars": 3110,
       "user": "theori-io"
     },
     {
@@ -1232,8 +1247,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 627,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
+      "published_at": "2026-05-01T07:30:53Z",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "source": "GitHub",
+      "stars": 479,
+      "user": "Tommy-yw"
     },
     {
       "title": "noonghunna/club-3090 - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
@@ -1247,23 +1277,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 475,
       "user": "noonghunna"
-    },
-    {
-      "title": "rootsecdev/cve_2026_31431 - Exploit POC for CVE_2026_31431",
-      "url": "https://github.com/rootsecdev/cve_2026_31431",
-      "published_at": "2026-04-29T17:46:43Z",
-      "description": "Exploit POC for CVE_2026_31431",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
-      "source": "GitHub",
-      "stars": 469,
-      "user": "rootsecdev"
     }
   ],
   "DevOps": [
@@ -1411,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 827,
       "user": "aattaran"
     }
   ],
@@ -1807,6 +1822,21 @@
       "user": "Kiran Randhawa"
     },
     {
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
+      "published_at": "2026-05-02T08:22:42Z",
+      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
+      "tags": [
+        "programming",
+        "webdev",
+        "productivity",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
+      "source": "Dev.to",
+      "user": "Adam - The Developer"
+    },
+    {
       "title": "Turning Repository Knowledge Into Usable Agent Context",
       "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
       "published_at": "2026-05-03T11:08:59Z",
@@ -1835,21 +1865,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
-    },
-    {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
-      "published_at": "2026-05-02T08:22:42Z",
-      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
-      "tags": [
-        "programming",
-        "webdev",
-        "productivity",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
-      "source": "Dev.to",
-      "user": "Adam - The Developer"
     },
     {
       "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
@@ -1963,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 827,
       "user": "aattaran"
     },
     {
@@ -1993,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 321,
       "user": "Kappaemme-git"
     },
     {
@@ -2008,7 +2023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "TQ-trade"
     },
     {
@@ -2023,7 +2038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "tgies"
     },
     {
@@ -2038,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3101,
+      "stars": 3110,
       "user": "theori-io"
     },
     {
@@ -2068,8 +2083,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 627,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
+      "published_at": "2026-05-01T07:30:53Z",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "source": "GitHub",
+      "stars": 479,
+      "user": "Tommy-yw"
     },
     {
       "title": "noonghunna/club-3090 - Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
@@ -2083,23 +2113,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 475,
       "user": "noonghunna"
-    },
-    {
-      "title": "rootsecdev/cve_2026_31431 - Exploit POC for CVE_2026_31431",
-      "url": "https://github.com/rootsecdev/cve_2026_31431",
-      "published_at": "2026-04-29T17:46:43Z",
-      "description": "Exploit POC for CVE_2026_31431",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
-      "source": "GitHub",
-      "stars": 469,
-      "user": "rootsecdev"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
@@ -2113,7 +2128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "openclaw"
     },
     {
@@ -2143,7 +2158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "benqi-finance"
     },
     {

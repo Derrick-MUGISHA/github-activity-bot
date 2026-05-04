@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-04 16:00 CAT)
+## 📅 Latest Updates (2026-05-04 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -202,6 +202,7 @@ npm run test
 - [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [How Making a Fountain Pen Made Me a Better Developer](https://dev.to/simplifycomplexity/how-making-a-fountain-pen-made-me-a-better-developer-22e0) _[Dev.to]_
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
+- [Write Code That's Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) _[Dev.to]_
 - [BWAI'2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n) _[Dev.to]_
 - [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8) _[Dev.to]_
@@ -211,10 +212,9 @@ npm run test
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd) _[Dev.to]_
-- [Write Code That's Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) _[Dev.to]_
 - [Platform-Neutral AI Tools Are the Safer Long-Term Bet](https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1) _[Dev.to]_
 
-_Last automated update: Mon, 04 May 2026 16:29:38 CAT_
+_Last automated update: Mon, 04 May 2026 18:19:12 CAT_
 
 
 
@@ -222,29 +222,18 @@ _Last automated update: Mon, 04 May 2026 16:29:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 2. DataStructures: Find the median of two sorted arrays
-
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 2. Java: Explain the Java memory model
 
 **Difficulty**: Hard | **Topics**: memory, JVM
 
@@ -252,6 +241,17 @@ Binary search, partition, time complexity O(log(min(m,n)))
 <summary>💡 Hint</summary>
 
 Heap, stack, garbage collection
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
+
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
+
+<details>
+<summary>💡 Hint</summary>
+
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 04 May 2026 14:29:38 GMT</b><br/>
+  <b>Last automated update: Mon, 04 May 2026 16:19:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
