@@ -46,21 +46,6 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
-      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
-      "published_at": "2026-05-04T12:16:27Z",
-      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
-      "tags": [
-        "ai",
-        "python",
-        "opensource",
-        "sqlite"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
-      "source": "Dev.to",
-      "user": "Vilius"
-    },
-    {
       "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
       "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
       "published_at": "2026-05-04T04:17:45Z",
@@ -91,6 +76,21 @@
       "user": "xbill"
     },
     {
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "tags": [
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "source": "Dev.to",
+      "user": "Vilius"
+    },
+    {
       "title": "Porting Libraries to Crystal with AI",
       "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
       "published_at": "2026-05-02T06:40:43Z",
@@ -101,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png",
       "source": "Dev.to",
       "user": "kojix2"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
-      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
-      "published_at": "2026-05-02T14:11:45Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -131,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
-    },
-    {
-      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
-      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48",
-      "published_at": "2026-05-01T09:49:58Z",
-      "description": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
-      "tags": [
-        "openclaw",
-        "gemini",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
-      "source": "Dev.to",
-      "user": "Matthew Revell"
     },
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
@@ -545,6 +515,36 @@
       "user": "Evan Lin"
     },
     {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -677,10 +677,10 @@
       "user": "veesahni"
     },
     {
-      "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
+      "title": "theori-io/copy-fail-CVE-2026-31431 - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
-      "description": "Trending GitHub Repository",
+      "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "tags": [
         "python",
         "github",
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3132,
+      "stars": 3146,
       "user": "theori-io"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Tommy-yw"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "noonghunna"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Hidden-Node"
     }
   ],
@@ -752,21 +752,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
       "source": "Dev.to",
       "user": "Vladimir Novick"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
-      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
-      "published_at": "2026-05-02T14:11:45Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
@@ -975,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 969,
       "user": "aattaran"
     },
     {
@@ -1005,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 358,
       "user": "Kappaemme-git"
     },
     {
@@ -1020,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 210,
       "user": "tgies"
     },
     {
@@ -1050,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Hidden-Node"
     },
     {
@@ -1114,6 +1099,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
       "source": "Dev.to",
       "user": "Omotayo Aina"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1236,10 +1236,10 @@
       "user": "gilad"
     },
     {
-      "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
+      "title": "theori-io/copy-fail-CVE-2026-31431 - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
-      "description": "Trending GitHub Repository",
+      "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "tags": [
         "python",
         "github",
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3132,
+      "stars": 3146,
       "user": "theori-io"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 693,
       "user": "Fokkyp"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "vibeforge1111"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Tommy-yw"
     },
     {
@@ -1307,26 +1307,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "noonghunna"
     }
   ],
   "DevOps": [
-    {
-      "title": "Using Gemini with OpenClaw: Setup Guide + Real Use Cases",
-      "url": "https://dev.to/matthewrevell/using-gemini-with-openclaw-setup-guide-real-use-cases-2i48",
-      "published_at": "2026-05-01T09:49:58Z",
-      "description": "OpenClaw supports a wide range of LLM providers, and choosing the right one shapes how your agents...",
-      "tags": [
-        "openclaw",
-        "gemini",
-        "ai",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx207e1m9n7a97ykdo1kk.png",
-      "source": "Dev.to",
-      "user": "Matthew Revell"
-    },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
@@ -1456,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 969,
       "user": "aattaran"
     }
   ],
@@ -1518,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Hidden-Node"
     }
   ],
@@ -1567,21 +1552,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building Dynamic Audio with Emotion & Pace: Gemini 3.1 Flash TTS, Angular & Firebase Cloud Functions [GDE]",
-      "url": "https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8",
-      "published_at": "2026-05-02T14:11:45Z",
-      "description": "Google released the Gemini 3.1 Flash TTS Preview model for AI audio generation in the Gemini API,...",
-      "tags": [
-        "firebase",
-        "angular",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fkee1yobyjtglqu4ik5.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Agents are building their own UIs now. Here's when that's worth doing.",
@@ -1745,6 +1715,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
+      "published_at": "2026-05-02T12:01:42Z",
+      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
+      "published_at": "2026-05-02T10:08:31Z",
+      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 969,
       "user": "aattaran"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 358,
       "user": "Kappaemme-git"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 210,
       "user": "tgies"
     },
     {
@@ -2101,10 +2101,10 @@
       "user": "TQ-trade"
     },
     {
-      "title": "theori-io/copy-fail-CVE-2026-31431 - GitHub Repository",
+      "title": "theori-io/copy-fail-CVE-2026-31431 - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "published_at": "2026-04-29T12:15:28Z",
-      "description": "Trending GitHub Repository",
+      "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "tags": [
         "python",
         "github",
@@ -2112,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3132,
+      "stars": 3146,
       "user": "theori-io"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 693,
       "user": "Fokkyp"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "vibeforge1111"
     },
     {
@@ -2157,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 491,
       "user": "Tommy-yw"
     },
     {
@@ -2172,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10742901?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "noonghunna"
     },
     {
@@ -2187,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "openclaw"
     },
     {
@@ -2202,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263162787?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "Hidden-Node"
     },
     {
@@ -2217,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "benqi-finance"
     },
     {
