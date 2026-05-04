@@ -15,7 +15,7 @@
     "Cloud": 16,
     "Database": 2,
     "Security": 5,
-    "Tools": 25
+    "Tools": 26
   },
   "by_language": {
     "Go": 30,
@@ -26,10 +26,10 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-05-04": 8,
+    "2026-05-04": 9,
     "2026-04-30": 5,
-    "2026-05-02": 7,
     "2026-05-03": 12,
+    "2026-05-02": 6,
     "2026-04-27": 6,
     "2026-05-01": 11,
     "2026-04-26": 1,
@@ -75,7 +75,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 24,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -88,13 +88,13 @@
     "gemini": 8,
     "devchallenge": 7,
     "googlecloud": 7,
-    "agents": 5,
-    "productivity": 5,
+    "productivity": 6,
+    "architecture": 5,
     "go": 5,
-    "tutorial": 4,
+    "agents": 4,
     "opensource": 4,
-    "googleadk": 4,
-    "architecture": 4
+    "tutorial": 4,
+    "googleadk": 4
   },
   "trending_topics": [],
   "language_percentages": {
