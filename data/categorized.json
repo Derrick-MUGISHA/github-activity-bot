@@ -16,19 +16,49 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
-      "published_at": "2026-05-04T19:05:39Z",
-      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
+      "published_at": "2026-05-05T10:52:28Z",
+      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
       "tags": [
-        "angular",
-        "gemini",
-        "googlecloud",
-        "ai"
+        "ai",
+        "career",
+        "programming",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
-      "user": "Tomasz Flis"
+      "user": "Harsh "
+    },
+    {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
+    },
+    {
+      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "published_at": "2026-05-04T16:52:20Z",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "tags": [
+        "ai",
+        "vr",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "source": "Dev.to",
+      "user": "Jeongho Nam"
     },
     {
       "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
@@ -76,6 +106,21 @@
       "user": "Aditya Agarwal"
     },
     {
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
+      "published_at": "2026-05-04T19:05:39Z",
+      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "tags": [
+        "angular",
+        "gemini",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
+      "source": "Dev.to",
+      "user": "Tomasz Flis"
+    },
+    {
       "title": "Porting Libraries to Crystal with AI",
       "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
       "published_at": "2026-05-02T06:40:43Z",
@@ -101,21 +146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -251,20 +281,6 @@
       "user": "Simme"
     },
     {
-      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
-      "published_at": "2026-05-03T11:11:51Z",
-      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
-    {
       "title": "Turning Repository Knowledge Into Usable Agent Context",
       "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
       "published_at": "2026-05-03T11:08:59Z",
@@ -280,6 +296,20 @@
       "user": "Francesco Sardone"
     },
     {
+      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
+      "published_at": "2026-05-03T11:11:51Z",
+      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
       "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
       "published_at": "2026-05-03T05:10:27Z",
@@ -293,6 +323,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
+      "published_at": "2026-05-01T16:11:48Z",
+      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
+      "tags": [
+        "css",
+        "webdev",
+        "discuss",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
+      "source": "Dev.to",
+      "user": "Andy Robinson"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -325,21 +370,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
-      "published_at": "2026-05-01T16:11:48Z",
-      "description": "An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...",
-      "tags": [
-        "css",
-        "webdev",
-        "discuss",
-        "frontend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
-      "source": "Dev.to",
-      "user": "Andy Robinson"
-    },
-    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -353,6 +383,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
     },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
@@ -530,21 +575,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -688,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3232,
+      "stars": 3273,
       "user": "theori-io"
     },
     {
@@ -703,41 +733,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 514,
       "user": "Tommy-yw"
-    },
-    {
-      "title": "soub4i/gh-relay - Share a private GitHub repo with anyone, no collaborator invite, no paid seat, no cleanup.",
-      "url": "https://github.com/soub4i/gh-relay",
-      "published_at": "2026-05-01T12:07:03Z",
-      "description": "Share a private GitHub repo with anyone, no collaborator invite, no paid seat, no cleanup.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11523791?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "soub4i"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
-      "published_at": "2026-05-04T19:05:39Z",
-      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
-      "tags": [
-        "angular",
-        "gemini",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
-      "source": "Dev.to",
-      "user": "Tomasz Flis"
-    },
     {
       "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
       "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
@@ -754,19 +754,19 @@
       "user": "Vladimir Novick"
     },
     {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
+      "published_at": "2026-05-04T19:05:39Z",
+      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
       "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
+        "angular",
+        "gemini",
+        "googlecloud",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
-      "user": "Harshil Agrawal"
+      "user": "Tomasz Flis"
     },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
@@ -782,6 +782,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
       "source": "Dev.to",
       "user": "Ekong Ikpe"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
     },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
@@ -960,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1251,
       "user": "aattaran"
     },
     {
@@ -975,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "Kappaemme-git"
     },
     {
@@ -990,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 373,
       "user": "amirshaker000"
     },
     {
@@ -1005,23 +1020,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "tgies"
     },
     {
-      "title": "TQ-trade/defidollar-core - Smart contracts for the DefiDollar ($DUSD) stablecoin.",
-      "url": "https://github.com/TQ-trade/defidollar-core",
-      "published_at": "2026-05-01T06:43:35Z",
-      "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
+      "title": "Pathos0925/SatoshiGuesser - Roll for lost bitcoin.",
+      "url": "https://github.com/Pathos0925/SatoshiGuesser",
+      "published_at": "2026-04-29T02:16:32Z",
+      "description": "Roll for lost bitcoin.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 214,
-      "user": "TQ-trade"
+      "stars": 170,
+      "user": "Pathos0925"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1069,21 +1084,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
       "source": "Dev.to",
       "user": "David Newberry"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1217,23 +1217,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3232,
+      "stars": 3273,
       "user": "theori-io"
-    },
-    {
-      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "published_at": "2026-04-29T10:07:08Z",
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "Fokkyp"
     },
     {
       "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
@@ -1247,8 +1232,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 713,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "published_at": "2026-04-29T10:07:08Z",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
+      "source": "GitHub",
+      "stars": 710,
+      "user": "Fokkyp"
     },
     {
       "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 514,
       "user": "Tommy-yw"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 492,
       "user": "rootsecdev"
     }
   ],
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1251,
       "user": "aattaran"
     }
   ],
@@ -1460,38 +1460,23 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
-    },
-    {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
     }
   ],
   "Cloud": [
     {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
-      "published_at": "2026-05-04T19:05:39Z",
-      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
       "tags": [
-        "angular",
-        "gemini",
-        "googlecloud",
-        "ai"
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
-      "user": "Tomasz Flis"
+      "user": "Maish Saidel-Keesing"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -1507,6 +1492,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
+      "published_at": "2026-05-04T19:05:39Z",
+      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "tags": [
+        "angular",
+        "gemini",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
+      "source": "Dev.to",
+      "user": "Tomasz Flis"
     },
     {
       "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
@@ -1687,21 +1687,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -1821,6 +1806,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "published_at": "2026-05-04T16:52:20Z",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "tags": [
+        "ai",
+        "vr",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "source": "Dev.to",
+      "user": "Jeongho Nam"
+    },
     {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
@@ -1981,21 +1981,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
-      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
-      "published_at": "2026-04-28T12:03:40Z",
-      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
-      "tags": [
-        "kotlin",
-        "java",
-        "testing",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
-      "source": "Dev.to",
-      "user": "Tiberiu Tofan"
-    },
-    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -2007,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1251,
       "user": "aattaran"
     },
     {
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "Kappaemme-git"
     },
     {
@@ -2037,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 373,
       "user": "amirshaker000"
     },
     {
@@ -2052,23 +2037,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "tgies"
     },
     {
-      "title": "TQ-trade/defidollar-core - Smart contracts for the DefiDollar ($DUSD) stablecoin.",
-      "url": "https://github.com/TQ-trade/defidollar-core",
-      "published_at": "2026-05-01T06:43:35Z",
-      "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin.",
+      "title": "Pathos0925/SatoshiGuesser - Roll for lost bitcoin.",
+      "url": "https://github.com/Pathos0925/SatoshiGuesser",
+      "published_at": "2026-04-29T02:16:32Z",
+      "description": "Roll for lost bitcoin.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9423482?v=4",
       "source": "GitHub",
-      "stars": 214,
-      "user": "TQ-trade"
+      "stars": 170,
+      "user": "Pathos0925"
     },
     {
       "title": "theori-io/copy-fail-CVE-2026-31431 - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
@@ -2082,23 +2067,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3232,
+      "stars": 3273,
       "user": "theori-io"
-    },
-    {
-      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "published_at": "2026-04-29T10:07:08Z",
-      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "Fokkyp"
     },
     {
       "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
@@ -2112,8 +2082,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 713,
       "user": "vibeforge1111"
+    },
+    {
+      "title": "Fokkyp/SoftwareCopyright-Skill - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "published_at": "2026-04-29T10:07:08Z",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
+      "source": "GitHub",
+      "stars": 710,
+      "user": "Fokkyp"
     },
     {
       "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
@@ -2127,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 514,
       "user": "Tommy-yw"
     },
     {
@@ -2142,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 492,
       "user": "rootsecdev"
     },
     {
@@ -2157,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 212,
       "user": "openclaw"
     },
     {
@@ -2176,6 +2161,36 @@
       "user": "marchinthesun"
     },
     {
+      "title": "qq-dao/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "url": "https://github.com/qq-dao/legalmarkdown",
+      "published_at": "2026-04-29T17:40:36Z",
+      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
+      "source": "GitHub",
+      "stars": 92,
+      "user": "qq-dao"
+    },
+    {
+      "title": "ajavadinezhad/zyrln - GitHub Repository",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "ajavadinezhad"
+    },
+    {
       "title": "watany-dev/gitreal - GitHub Repository",
       "url": "https://github.com/watany-dev/gitreal",
       "published_at": "2026-05-01T01:58:08Z",
@@ -2189,36 +2204,6 @@
       "source": "GitHub",
       "stars": 77,
       "user": "watany-dev"
-    },
-    {
-      "title": "qq-dao/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "url": "https://github.com/qq-dao/legalmarkdown",
-      "published_at": "2026-04-29T17:40:36Z",
-      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "qq-dao"
-    },
-    {
-      "title": "soub4i/gh-relay - Share a private GitHub repo with anyone, no collaborator invite, no paid seat, no cleanup.",
-      "url": "https://github.com/soub4i/gh-relay",
-      "published_at": "2026-05-01T12:07:03Z",
-      "description": "Share a private GitHub repo with anyone, no collaborator invite, no paid seat, no cleanup.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11523791?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "soub4i"
     }
   ]
 }
