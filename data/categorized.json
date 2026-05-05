@@ -61,34 +61,19 @@
       "user": "Jeongho Nam"
     },
     {
-      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
-      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
-      "published_at": "2026-05-04T12:16:27Z",
-      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
+      "published_at": "2026-05-04T19:05:39Z",
+      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
       "tags": [
-        "ai",
-        "python",
-        "opensource",
-        "sqlite"
+        "angular",
+        "gemini",
+        "googlecloud",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
-      "user": "Vilius"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
+      "user": "Tomasz Flis"
     },
     {
       "title": "OpenAI Codex is free right now. That's the trap.",
@@ -106,21 +91,6 @@
       "user": "Aditya Agarwal"
     },
     {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
-      "published_at": "2026-05-04T19:05:39Z",
-      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
-      "tags": [
-        "angular",
-        "gemini",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
-      "source": "Dev.to",
-      "user": "Tomasz Flis"
-    },
-    {
       "title": "Porting Libraries to Crystal with AI",
       "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
       "published_at": "2026-05-02T06:40:43Z",
@@ -131,6 +101,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png",
       "source": "Dev.to",
       "user": "kojix2"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
@@ -204,6 +189,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
       "source": "Dev.to",
       "user": "Alexander Tyutin"
+    },
+    {
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "tags": [
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "source": "Dev.to",
+      "user": "Vilius"
     },
     {
       "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
@@ -294,20 +294,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlz9d9irom7907per6h3.png",
       "source": "Dev.to",
       "user": "Francesco Sardone"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
-      "published_at": "2026-05-03T11:11:51Z",
-      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
     },
     {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
@@ -718,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3273,
+      "stars": 3283,
       "user": "theori-io"
     },
     {
@@ -733,26 +719,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "Tommy-yw"
     }
   ],
   "JavaScript": [
-    {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
-      "published_at": "2026-05-04T13:23:38Z",
-      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
-      "tags": [
-        "security",
-        "webdev",
-        "javascript",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
-      "source": "Dev.to",
-      "user": "Vladimir Novick"
-    },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
@@ -767,6 +738,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+      "published_at": "2026-05-04T13:23:38Z",
+      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
+      "tags": [
+        "security",
+        "webdev",
+        "javascript",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
+      "source": "Dev.to",
+      "user": "Vladimir Novick"
     },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
@@ -975,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1261,
       "user": "aattaran"
     },
     {
@@ -990,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "Kappaemme-git"
     },
     {
@@ -1005,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "amirshaker000"
     },
     {
@@ -1020,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "tgies"
     },
     {
@@ -1217,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3273,
+      "stars": 3283,
       "user": "theori-io"
     },
     {
@@ -1232,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 721,
       "user": "vibeforge1111"
     },
     {
@@ -1262,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "Tommy-yw"
     },
     {
@@ -1277,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "rootsecdev"
     }
   ],
@@ -1411,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1261,
       "user": "aattaran"
     }
   ],
@@ -1479,21 +1465,6 @@
       "user": "Maish Saidel-Keesing"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
       "published_at": "2026-05-04T19:05:39Z",
@@ -1524,6 +1495,21 @@
       "user": "koichim2"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
       "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
       "published_at": "2026-05-04T04:17:45Z",
@@ -1552,20 +1538,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6v4c4oolv8lr1z44ivil.png",
       "source": "Dev.to",
       "user": "Piyush Annigeri"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
-      "published_at": "2026-05-03T11:11:51Z",
-      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -1992,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1261,
       "user": "aattaran"
     },
     {
@@ -2007,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "Kappaemme-git"
     },
     {
@@ -2022,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "amirshaker000"
     },
     {
@@ -2037,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "tgies"
     },
     {
@@ -2067,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3273,
+      "stars": 3283,
       "user": "theori-io"
     },
     {
@@ -2082,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 721,
       "user": "vibeforge1111"
     },
     {
@@ -2112,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 515,
       "user": "Tommy-yw"
     },
     {
@@ -2127,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "rootsecdev"
     },
     {
@@ -2142,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "openclaw"
     },
     {
@@ -2161,21 +2133,6 @@
       "user": "marchinthesun"
     },
     {
-      "title": "qq-dao/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "url": "https://github.com/qq-dao/legalmarkdown",
-      "published_at": "2026-04-29T17:40:36Z",
-      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "qq-dao"
-    },
-    {
       "title": "ajavadinezhad/zyrln - GitHub Repository",
       "url": "https://github.com/ajavadinezhad/zyrln",
       "published_at": "2026-05-04T17:25:03Z",
@@ -2187,8 +2144,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 97,
       "user": "ajavadinezhad"
+    },
+    {
+      "title": "qq-dao/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "url": "https://github.com/qq-dao/legalmarkdown",
+      "published_at": "2026-04-29T17:40:36Z",
+      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
+      "source": "GitHub",
+      "stars": 95,
+      "user": "qq-dao"
     },
     {
       "title": "watany-dev/gitreal - GitHub Repository",
