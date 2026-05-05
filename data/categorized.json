@@ -46,19 +46,78 @@
       "user": "Maish Saidel-Keesing"
     },
     {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "published_at": "2026-05-04T16:52:20Z",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
       "tags": [
         "ai",
-        "vr",
-        "productivity",
-        "programming"
+        "beginners",
+        "aws",
+        "learning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
-      "user": "Jeongho Nam"
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
+      "published_at": "2026-05-05T19:36:06Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "mcpserver",
+        "aws",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
+      "published_at": "2026-05-05T17:32:00Z",
+      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "tags": [
+        "googlecloudnext",
+        "agenticai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
+      "published_at": "2026-05-05T04:53:55Z",
+      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
+      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h",
+      "published_at": "2026-05-04T16:23:44Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
+      "tags": [
+        "rust",
+        "mcpserver",
+        "googleadk",
+        "multilanguageagent"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
@@ -74,6 +133,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
+      "url": "https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29",
+      "published_at": "2026-05-05T02:46:01Z",
+      "description": "Introduction   Java has always been a serious language for production systems, and in 2026,...",
+      "tags": [
+        "ai",
+        "genkit",
+        "programming",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfehx1wjdkf0q365gq6g.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "OpenAI Codex is free right now. That's the trap.",
@@ -116,6 +205,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "published_at": "2026-05-04T16:52:20Z",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "tags": [
+        "ai",
+        "vr",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "source": "Dev.to",
+      "user": "Jeongho Nam"
     },
     {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
@@ -471,96 +575,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
-      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
-      "published_at": "2026-04-27T06:55:28Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
-      "source": "Dev.to",
-      "user": "Michelle Duke"
-    },
-    {
-      "title": "I Am Starting Over in Public",
-      "url": "https://dev.to/mohan-01/i-am-starting-over-in-public-25n1",
-      "published_at": "2026-05-01T18:51:18Z",
-      "description": "I have a computer science degree with a specialization in AI and Data Science. And I still didn't...",
-      "tags": [
-        "ai",
-        "webdev",
-        "career",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzdfc2b6lil4fkwgxk9uk.png",
-      "source": "Dev.to",
-      "user": "Mohanragul"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
-      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
-      "url": "https://dev.to/gde/gemini-31-native-tts-for-easier-more-powerful-summary-reading-2ep9",
-      "published_at": "2026-05-02T10:08:42Z",
-      "description": "Background   In the previous practical session, we used Gemini 3.1 Flash Live to achieve...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faghbxtt7kr1ggkj9u1ip.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
-      "published_at": "2026-05-02T12:01:42Z",
-      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -704,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3290,
+      "stars": 3297,
       "user": "theori-io"
     },
     {
@@ -738,6 +752,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
@@ -813,21 +842,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
-    },
-    {
-      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
-      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
-      "published_at": "2026-04-17T18:38:12Z",
-      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
-      "tags": [
-        "nestjs",
-        "javascript",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
-      "source": "Dev.to",
-      "user": "Oladele David "
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -961,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1285,
       "user": "aattaran"
     },
     {
@@ -976,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Kappaemme-git"
     },
     {
@@ -991,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "amirshaker000"
     },
     {
@@ -1006,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "tgies"
     },
     {
@@ -1042,6 +1056,51 @@
   ],
   "Python": [
     {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
+      "published_at": "2026-05-05T19:36:06Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "mcpserver",
+        "aws",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "ADK Agents with Amazon Bedrock Models",
+      "url": "https://dev.to/gde/adk-agents-with-amazon-bedrock-models-2fgc",
+      "published_at": "2026-05-05T13:16:49Z",
+      "description": "This article provides a step by step deployment guide for using Amazon Bedrock models with ADK...",
+      "tags": [
+        "gemini",
+        "amazonbedrock",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fja4j21oa5zjwmbu2danl.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h",
+      "published_at": "2026-05-04T16:23:44Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
+      "tags": [
+        "rust",
+        "mcpserver",
+        "googleadk",
+        "multilanguageagent"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
       "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
       "published_at": "2026-05-04T12:16:27Z",
@@ -1070,21 +1129,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
       "source": "Dev.to",
       "user": "David Newberry"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1218,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3290,
+      "stars": 3297,
       "user": "theori-io"
     },
     {
@@ -1233,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "vibeforge1111"
     },
     {
@@ -1278,11 +1322,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "rootsecdev"
     }
   ],
   "DevOps": [
+    {
+      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
+      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
+      "published_at": "2026-05-05T08:01:34Z",
+      "description": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
+      "tags": [
+        "kubernetes",
+        "ocm",
+        "cncf",
+        "multicluster"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
+      "source": "Dev.to",
+      "user": "Kahiro Okina"
+    },
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
@@ -1297,21 +1370,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1359,21 +1417,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "Designing Multi-Tenant Backends With Both Ownership and Team Access",
-      "url": "https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5",
-      "published_at": "2026-04-17T18:38:12Z",
-      "description": "A practical architecture pattern for systems where one user can own, join, and operate multiple...",
-      "tags": [
-        "nestjs",
-        "javascript",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkv7r9fcjuppnbheycsh.png",
-      "source": "Dev.to",
-      "user": "Oladele David "
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1397,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1285,
       "user": "aattaran"
     }
   ],
@@ -1463,6 +1506,65 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
+      "published_at": "2026-05-05T19:36:06Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "mcpserver",
+        "aws",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
+      "published_at": "2026-05-05T17:32:00Z",
+      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "tags": [
+        "googlecloudnext",
+        "agenticai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
+      "published_at": "2026-05-05T04:53:55Z",
+      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
     },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
@@ -1600,80 +1702,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
-      "url": "https://dev.to/mishmanners/the-developer-playbook-is-changing-thoughts-on-google-cloud-next-26-and-gemini-enterprise-agents-32ke",
-      "published_at": "2026-04-27T06:55:28Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  If you’ve followed any of my recent...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faewg20w3l161v2vpfioe.jpg",
-      "source": "Dev.to",
-      "user": "Michelle Duke"
-    },
-    {
-      "title": "Processing long running events on AWS API Gateway",
-      "url": "https://dev.to/aws-builders/processing-long-running-events-on-aws-api-gateway-bn4",
-      "published_at": "2026-04-17T08:19:51Z",
-      "description": "Processing long running events on AWS API Gateway   AWS API Gateway is a managed HTTP/REST...",
-      "tags": [
-        "aws",
-        "apigateway",
-        "architecture",
-        "eventdriven"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrpzqe4wlyh1ofbtost9.png",
-      "source": "Dev.to",
-      "user": "Evertson Croes"
-    },
-    {
-      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
-      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
-      "published_at": "2026-04-22T14:09:18Z",
-      "description": "Google Cloud NEXT '26 is kicking off today (April 22) and runs through April 24 – we're launching...",
-      "tags": [
-        "devchallenge",
-        "googlecloud",
-        "cloudnextchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "url": "https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg",
-      "published_at": "2026-05-02T12:01:42Z",
-      "description": "Background   After solving the LINE Bot's Vertex AI migration, I started thinking: Could...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ljzau6p17rwghl0oazt.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "url": "https://dev.to/gde/gcp-in-action-migrating-a-line-bot-from-ai-studio-to-vertex-ai-to-solve-429-errors-47jo",
-      "published_at": "2026-05-02T10:08:31Z",
-      "description": "Background   Recently, the LINE business card assistant robot (linebot-namecard-python)...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Floqgn7h6ao5vkk2bqf7g.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -1690,6 +1718,20 @@
     }
   ],
   "Database": [
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
     {
       "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
       "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
@@ -1765,21 +1807,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1809,21 +1836,6 @@
       "user": "Patrick Loeber"
     },
     {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "published_at": "2026-05-04T16:52:20Z",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
-      "tags": [
-        "ai",
-        "vr",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
-      "source": "Dev.to",
-      "user": "Jeongho Nam"
-    },
-    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
       "published_at": "2026-05-02T08:22:42Z",
@@ -1837,6 +1849,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
       "source": "Dev.to",
       "user": "Adam - The Developer"
+    },
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "published_at": "2026-05-04T16:52:20Z",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "tags": [
+        "ai",
+        "vr",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "source": "Dev.to",
+      "user": "Jeongho Nam"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -1958,31 +2014,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Your dependencies are 48% unmaintained — and SCA tools can't see it",
-      "url": "https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h",
-      "published_at": "2026-04-16T22:16:44Z",
-      "description": "I analyzed 16,000 production packages. Half have lifecycle risk your scanner can't see. Here's uzomuzo — the open-source tool I built to find and fix it.",
-      "tags": [
-        "security",
-        "opensource",
-        "supplychain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30j6dljugztycg0zn8ih.png",
-      "source": "Dev.to",
-      "user": "kotakanbe"
-    },
-    {
-      "title": "This is pretty exciting!\r\n\r\nhttps://github.com/matz/spinel",
-      "url": "https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl",
-      "published_at": "2026-04-24T14:39:33Z",
-      "description": "...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq8y2csu4obmv8hej9w5.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1994,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1285,
       "user": "aattaran"
     },
     {
@@ -2009,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Kappaemme-git"
     },
     {
@@ -2024,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "amirshaker000"
     },
     {
@@ -2039,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "tgies"
     },
     {
@@ -2069,7 +2100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3290,
+      "stars": 3297,
       "user": "theori-io"
     },
     {
@@ -2084,7 +2115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "vibeforge1111"
     },
     {
@@ -2129,7 +2160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "rootsecdev"
     },
     {
@@ -2144,7 +2175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "openclaw"
     },
     {
@@ -2174,12 +2205,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "ajavadinezhad"
     },
     {
-      "title": "qq-dao/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "url": "https://github.com/qq-dao/legalmarkdown",
+      "title": "qq-dao/polymarket-copytrade - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "url": "https://github.com/qq-dao/polymarket-copytrade",
       "published_at": "2026-04-29T17:40:36Z",
       "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
       "tags": [
@@ -2189,7 +2220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "qq-dao"
     },
     {
@@ -2204,7 +2235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 93,
       "user": "ThisIsDara"
     }
   ]
