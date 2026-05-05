@@ -1,40 +1,40 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
     "AI": 51,
     "JavaScript": 23,
-    "Python": 17,
+    "Python": 18,
     "DevOps": 3,
-    "WebDev": 6,
+    "WebDev": 5,
     "Mobile": 3,
-    "Cloud": 15,
+    "Cloud": 16,
     "Database": 2,
     "Security": 5,
-    "Tools": 27
+    "Tools": 28
   },
   "by_language": {
-    "Go": 29,
+    "Go": 30,
     "JavaScript": 23,
     "Java": 20,
-    "Python": 17,
+    "Python": 18,
     "Ruby": 1
   },
   "by_date": {
-    "2026-05-04": 12,
-    "2026-05-05": 2,
-    "2026-05-02": 6,
+    "2026-05-04": 13,
+    "2026-05-05": 3,
+    "2026-05-02": 7,
     "2026-04-30": 5,
     "2026-04-27": 6,
     "2026-04-26": 1,
     "2026-05-03": 11,
     "2026-04-25": 1,
     "2026-04-19": 3,
-    "2026-05-01": 8,
+    "2026-05-01": 6,
     "2026-04-22": 2,
     "2026-04-17": 3,
     "2026-04-21": 1,
@@ -75,33 +75,33 @@
     "2026-04-29": 6
   },
   "top_tags": {
-    "ai": 25,
+    "ai": 26,
     "github": 15,
     "open-source": 15,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "discuss": 9,
     "javascript": 9,
-    "webdev": 8,
+    "discuss": 8,
+    "googlecloud": 8,
+    "python": 8,
+    "gemini": 7,
+    "tutorial": 7,
     "productivity": 7,
-    "googlecloud": 7,
-    "python": 7,
-    "gemini": 6,
+    "webdev": 7,
     "devchallenge": 6,
     "programming": 5,
     "architecture": 5,
     "agents": 5,
-    "tutorial": 5,
     "go": 5,
-    "googleadk": 4
+    "api": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "32.2",
-    "JavaScript": "25.6",
-    "Java": "22.2",
-    "Python": "18.9",
+    "Go": "32.6",
+    "JavaScript": "25.0",
+    "Java": "21.7",
+    "Python": "19.6",
     "Ruby": "1.1"
   }
 }
