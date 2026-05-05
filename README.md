@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-05 8:00 CAT)
+## 📅 Latest Updates (2026-05-05 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -160,10 +160,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png" width="200" alt="How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)" />
+    <a href="https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png" width="200" alt="Managing 150+ AI Agent Skills at Scale — What Broke, What I Built" />
       <br/>
-      <b>How to Build a Custom AI Quality Gate on Cloud Run...</b>
+      <b>Managing 150+ AI Agent Skills at Scale — What Brok...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -178,10 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png" width="200" alt="Managing 150+ AI Agent Skills at Scale — What Broke, What I Built" />
+    <a href="https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flitter.catbox.moe%2F9o131i.png" width="200" alt="OpenAI Codex is free right now. That's the trap." />
       <br/>
-      <b>Managing 150+ AI Agent Skills at Scale — What Brok...</b>
+      <b>OpenAI Codex is free right now. That's the trap.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,25 +196,25 @@ npm run test
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 - [Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) _[Dev.to]_
 - [A LinkedIn Recruiter Sent Me Malware Disguised as a "Pre-Interview Code Review"](https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j) _[Dev.to]_
-- [How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)](https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp) _[Dev.to]_
-- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7) _[Dev.to]_
 - [Managing 150+ AI Agent Skills at Scale — What Broke, What I Built](https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-1lm6) _[Dev.to]_
+- [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7) _[Dev.to]_
 - [OpenAI Codex is free right now. That's the trap.](https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5) _[Dev.to]_
 - [Write Code That's Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-1lm6) _[Dev.to]_
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #3] Anthropic's Vision for "After Software"](https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6) _[Dev.to]_
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
+- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
-- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [AI Isn't Stupid. Your Setup Is. 🛠️](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
 - [I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔](https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd) _[Dev.to]_
+- [How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)](https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp) _[Dev.to]_
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi) _[Dev.to]_
 
-_Last automated update: Tue, 05 May 2026 08:12:43 CAT_
+_Last automated update: Tue, 05 May 2026 10:27:50 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 05 May 2026 08:12:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 05 May 2026 06:12:43 GMT</b><br/>
+  <b>Last automated update: Tue, 05 May 2026 08:27:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

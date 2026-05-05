@@ -31,19 +31,19 @@
       "user": "Tomasz Flis"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
       "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
       "source": "Dev.to",
-      "user": "Alexander Tyutin"
+      "user": "Vilius"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -59,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
-      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
-      "published_at": "2026-05-04T12:16:27Z",
-      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
-      "tags": [
-        "ai",
-        "python",
-        "opensource",
-        "sqlite"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
-      "source": "Dev.to",
-      "user": "Vilius"
     },
     {
       "title": "OpenAI Codex is free right now. That's the trap.",
@@ -101,6 +86,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png",
       "source": "Dev.to",
       "user": "kojix2"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
     },
     {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
@@ -133,21 +133,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -174,6 +159,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
+    },
+    {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
@@ -325,21 +325,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
       "title": "I Don't Like Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5",
       "published_at": "2026-05-01T16:11:48Z",
@@ -353,6 +338,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzf9u3ncfdmbuf7kad32.png",
       "source": "Dev.to",
       "user": "Andy Robinson"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     },
     {
       "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3211,
       "user": "theori-io"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "Tommy-yw"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11523791?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "soub4i"
     }
   ],
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1156,
       "user": "aattaran"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 401,
       "user": "Kappaemme-git"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 368,
       "user": "amirshaker000"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "tgies"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 213,
       "user": "TQ-trade"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3211,
       "user": "theori-io"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "Fokkyp"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 686,
       "user": "vibeforge1111"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "Tommy-yw"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "rootsecdev"
     }
   ],
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1156,
       "user": "aattaran"
     }
   ],
@@ -1494,21 +1494,6 @@
       "user": "Tomasz Flis"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -1537,6 +1522,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fximhnvwrr5nda10uwsil.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
+    },
+    {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "BWAI'2026 @ VTU, Belagavi",
@@ -1822,21 +1822,6 @@
   ],
   "Tools": [
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
       "published_at": "2026-05-02T08:22:42Z",
@@ -1880,6 +1865,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1117,
+      "stars": 1156,
       "user": "aattaran"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 401,
       "user": "Kappaemme-git"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 368,
       "user": "amirshaker000"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "tgies"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 213,
       "user": "TQ-trade"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3211,
       "user": "theori-io"
     },
     {
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "Fokkyp"
     },
     {
@@ -2112,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 686,
       "user": "vibeforge1111"
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "Tommy-yw"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "rootsecdev"
     },
     {
@@ -2157,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "openclaw"
     },
     {
@@ -2172,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "benqi-finance"
     },
     {
@@ -2217,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11523791?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "soub4i"
     }
   ]
