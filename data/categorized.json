@@ -88,21 +88,6 @@
       "user": "kojix2"
     },
     {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
-    },
-    {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
       "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
       "published_at": "2026-05-04T02:20:36Z",
@@ -116,6 +101,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3221,
+      "stars": 3232,
       "user": "theori-io"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11523791?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "soub4i"
     }
   ],
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1205,
       "user": "aattaran"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Kappaemme-git"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 370,
       "user": "amirshaker000"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "tgies"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "TQ-trade"
     },
     {
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3221,
+      "stars": 3232,
       "user": "theori-io"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 694,
       "user": "vibeforge1111"
     },
     {
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1205,
       "user": "aattaran"
     }
   ],
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1205,
       "user": "aattaran"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Kappaemme-git"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 370,
       "user": "amirshaker000"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "tgies"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "TQ-trade"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3221,
+      "stars": 3232,
       "user": "theori-io"
     },
     {
@@ -2112,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 694,
       "user": "vibeforge1111"
     },
     {
@@ -2157,23 +2157,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 201,
       "user": "openclaw"
-    },
-    {
-      "title": "benqi-finance/polymarket-copy-trading-bot - polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot  polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket cop",
-      "url": "https://github.com/benqi-finance/polymarket-copy-trading-bot",
-      "published_at": "2026-04-29T17:27:27Z",
-      "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot  polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket cop",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "benqi-finance"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2206,6 +2191,21 @@
       "user": "watany-dev"
     },
     {
+      "title": "qq-dao/legalmarkdown - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "url": "https://github.com/qq-dao/legalmarkdown",
+      "published_at": "2026-04-29T17:40:36Z",
+      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "qq-dao"
+    },
+    {
       "title": "soub4i/gh-relay - Share a private GitHub repo with anyone, no collaborator invite, no paid seat, no cleanup.",
       "url": "https://github.com/soub4i/gh-relay",
       "published_at": "2026-05-01T12:07:03Z",
@@ -2217,7 +2217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11523791?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "soub4i"
     }
   ]

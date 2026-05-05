@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-05 12:00 CAT)
+## 📅 Latest Updates (2026-05-05 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,8 +204,8 @@ npm run test
 - [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #3] Anthropic's Vision for "After Software"](https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6) _[Dev.to]_
 - [Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍](https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4) _[Dev.to]_
-- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) _[Dev.to]_
+- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c) _[Dev.to]_
 - [Creating a CLI Tool with AI Agents: My Journey with kdn](https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8) _[Dev.to]_
 - [AI Isn't Stupid. Your Setup Is. 🛠️](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn) _[Dev.to]_
 - [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi) _[Dev.to]_
 
-_Last automated update: Tue, 05 May 2026 12:18:42 CAT_
+_Last automated update: Tue, 05 May 2026 13:46:49 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Tue, 05 May 2026 12:18:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 05 May 2026 10:18:42 GMT</b><br/>
+  <b>Last automated update: Tue, 05 May 2026 11:46:49 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
