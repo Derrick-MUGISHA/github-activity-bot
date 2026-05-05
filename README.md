@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-6-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-04-orange)
+![Languages](https://img.shields.io/badge/Languages-5-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-05-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (48.1%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
 **Cloud**: 🟦🟦🟦🟦🟦🟦 16 (15.4%)
 
@@ -42,9 +42,9 @@
 
 **Security**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦🟦 4 (3.8%)
-
 **DevOps**: 🟦 3 (2.9%)
+
+**Mobile**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,23 +60,21 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.9 (31.9%)
-JavaScript      ████████████████████████ 25.5 (25.5%)
-Java            ███████████████████ 20.2 (20.2%)
-Python          ███████████████████ 20.2 (20.2%)
+Go              ██████████████████████████████ 32.6 (32.6%)
+JavaScript      ███████████████████████ 25.0 (25.0%)
+Java            ███████████████████ 20.7 (20.7%)
+Python          ███████████████████ 20.7 (20.7%)
 Ruby            █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 30
-    "JavaScript" : 24
+    "JavaScript" : 23
     "Java" : 19
     "Python" : 19
     "Ruby" : 1
-    "Kotlin" : 1
 ```
 
 
@@ -123,7 +121,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-05 1:00 CAT)
+## 📅 Latest Updates (2026-05-05 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +212,7 @@ npm run test
 - [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f) _[Dev.to]_
 - [Introducing pytest-style fixtures into Ruby for smarter browser testing](https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi) _[Dev.to]_
 
-_Last automated update: Tue, 05 May 2026 01:11:23 CAT_
+_Last automated update: Tue, 05 May 2026 02:07:26 CAT_
 
 
 
@@ -222,7 +220,18 @@ _Last automated update: Tue, 05 May 2026 01:11:23 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
+
+</details>
+
+### 2. JavaScript: Implement a debounce function from scratch
 
 **Difficulty**: Hard | **Topics**: functions, timing
 
@@ -233,25 +242,14 @@ setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
-
-<details>
-<summary>💡 Hint</summary>
-
-Sliding window, hash map, two pointers
-
-</details>
-
-### 3. SystemDesign: Design Twitter's timeline feature
-
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Heap, stack, garbage collection
 
 </details>
 
@@ -285,7 +283,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 04 May 2026 23:11:23 GMT</b><br/>
+  <b>Last automated update: Tue, 05 May 2026 00:07:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
