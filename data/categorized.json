@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3303,
+      "stars": 3309,
       "user": "theori-io"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 109,
       "user": "ajavadinezhad"
     }
   ],
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1305,
       "user": "aattaran"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "Kappaemme-git"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3303,
+      "stars": 3309,
       "user": "theori-io"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 732,
       "user": "vibeforge1111"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1305,
       "user": "aattaran"
     }
   ],
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 109,
       "user": "ajavadinezhad"
     }
   ],
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1305,
       "user": "aattaran"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "Kappaemme-git"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3303,
+      "stars": 3309,
       "user": "theori-io"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 732,
       "user": "vibeforge1111"
     },
     {
@@ -2142,23 +2142,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "openclaw"
-    },
-    {
-      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
-      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
-      "published_at": "2026-05-04T04:24:15Z",
-      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "ThisIsDara"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -2172,8 +2157,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 109,
       "user": "ajavadinezhad"
+    },
+    {
+      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
+      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
+      "published_at": "2026-05-04T04:24:15Z",
+      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "ThisIsDara"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
