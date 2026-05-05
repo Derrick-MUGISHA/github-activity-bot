@@ -16,21 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
-      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
-      "published_at": "2026-05-04T12:16:27Z",
-      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
-      "tags": [
-        "ai",
-        "python",
-        "opensource",
-        "sqlite"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
-      "source": "Dev.to",
-      "user": "Vilius"
-    },
-    {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
       "published_at": "2026-05-04T19:05:39Z",
@@ -44,21 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
-    },
-    {
-      "title": "OpenAI Codex is free right now. That's the trap.",
-      "url": "https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5",
-      "published_at": "2026-05-04T16:38:42Z",
-      "description": "We all understand that free services from a company that is spending billions on computing power...",
-      "tags": [
-        "discuss",
-        "programming",
-        "webdev",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flitter.catbox.moe%2F9o131i.png",
-      "source": "Dev.to",
-      "user": "Aditya Agarwal"
     },
     {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
@@ -104,6 +74,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "published_at": "2026-05-04T12:16:27Z",
+      "description": "By Vilius Vystartas | May 2026  I run a lot of AI agents. Not chatbots — autonomous agents. Cron jobs...",
+      "tags": [
+        "ai",
+        "python",
+        "opensource",
+        "sqlite"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
+      "source": "Dev.to",
+      "user": "Vilius"
+    },
+    {
+      "title": "OpenAI Codex is free right now. That's the trap.",
+      "url": "https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5",
+      "published_at": "2026-05-04T16:38:42Z",
+      "description": "We all understand that free services from a company that is spending billions on computing power...",
+      "tags": [
+        "discuss",
+        "programming",
+        "webdev",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flitter.catbox.moe%2F9o131i.png",
+      "source": "Dev.to",
+      "user": "Aditya Agarwal"
     },
     {
       "title": "Porting Libraries to Crystal with AI",
@@ -251,6 +251,20 @@
       "user": "Simme"
     },
     {
+      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
+      "published_at": "2026-05-03T11:11:51Z",
+      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
       "title": "Turning Repository Knowledge Into Usable Agent Context",
       "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
       "published_at": "2026-05-03T11:08:59Z",
@@ -266,20 +280,6 @@
       "user": "Francesco Sardone"
     },
     {
-      "title": "[Google Cloud Next '26 Recap #2] Three Unique Booths I Tried at the EXPO",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-2-three-unique-booths-i-tried-at-the-expo-2n6",
-      "published_at": "2026-05-03T11:11:51Z",
-      "description": "This is the second post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find Part 1...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffe7eym8ro46w3n7ttlpc.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
-    {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
       "url": "https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94",
       "published_at": "2026-05-03T05:10:27Z",
@@ -293,6 +293,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp2bavep8cvydouvmqvnu.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -395,21 +425,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "tags": [
-        "machinelearning",
-        "python",
-        "ai",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
     },
     {
       "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3166,
+      "stars": 3180,
       "user": "theori-io"
     },
     {
@@ -688,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 505,
       "user": "Tommy-yw"
     },
     {
@@ -709,21 +724,6 @@
   ],
   "JavaScript": [
     {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
-      "published_at": "2026-05-04T13:23:38Z",
-      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
-      "tags": [
-        "security",
-        "webdev",
-        "javascript",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
-      "source": "Dev.to",
-      "user": "Vladimir Novick"
-    },
-    {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
       "published_at": "2026-05-04T19:05:39Z",
@@ -737,6 +737,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+      "published_at": "2026-05-04T13:23:38Z",
+      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
+      "tags": [
+        "security",
+        "webdev",
+        "javascript",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
+      "source": "Dev.to",
+      "user": "Vladimir Novick"
     },
     {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
@@ -945,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1076,
       "user": "aattaran"
     },
     {
@@ -960,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 386,
       "user": "Kappaemme-git"
     },
     {
@@ -990,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 224,
       "user": "tgies"
     },
     {
@@ -1005,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "TQ-trade"
     },
     {
@@ -1054,21 +1069,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
       "source": "Dev.to",
       "user": "David Newberry"
-    },
-    {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "tags": [
-        "machinelearning",
-        "python",
-        "ai",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
     },
     {
       "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
@@ -1217,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3166,
+      "stars": 3180,
       "user": "theori-io"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "Fokkyp"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 664,
       "user": "vibeforge1111"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 505,
       "user": "Tommy-yw"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "rootsecdev"
     }
   ],
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1076,
       "user": "aattaran"
     }
   ],
@@ -1460,24 +1460,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
       "source": "Dev.to",
       "user": "Neeraj Singh"
+    },
+    {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
     }
   ],
   "Cloud": [
-    {
-      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6",
-      "published_at": "2026-05-04T15:00:22Z",
-      "description": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "claude",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fximhnvwrr5nda10uwsil.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
@@ -1524,19 +1524,19 @@
       "user": "xbill"
     },
     {
-      "title": "Agents are building their own UIs now. Here's when that's worth doing.",
-      "url": "https://dev.to/gde/agents-are-building-their-own-uis-now-heres-when-thats-worth-doing-o9d",
-      "published_at": "2026-04-29T21:02:06Z",
-      "description": "This is a submission for the Google Cloud NEXT Writing Challenge  During the developer keynote at...",
+      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6",
+      "published_at": "2026-05-04T15:00:22Z",
+      "description": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
       "tags": [
-        "devchallenge",
         "googlecloud",
-        "cloudnextchallenge",
-        "genui"
+        "googlecloudnext",
+        "claude",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frc7iifrmqjexv3nkumlc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fximhnvwrr5nda10uwsil.jpeg",
       "source": "Dev.to",
-      "user": "Sireesha Pulipati"
+      "user": "koichim2"
     },
     {
       "title": "BWAI'2026 @ VTU, Belagavi",
@@ -1568,6 +1568,36 @@
       "user": "koichim2"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
       "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
       "published_at": "2026-04-22T02:48:26Z",
@@ -1596,21 +1626,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "url": "https://dev.to/gde/i-rebuilt-karpathys-nanochat-in-jax-heres-what-xla-gets-right-and-what-it-gets-dead-wrong-4641",
-      "published_at": "2026-05-01T00:02:24Z",
-      "description": "AI GDE TPU Sprint 2026 · Google TPU Research Cloud     Quick summary: We ported Andrej Karpathy's...",
-      "tags": [
-        "machinelearning",
-        "python",
-        "ai",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7rv75qcl3ueozdrf34ri.png",
-      "source": "Dev.to",
-      "user": "Omotayo Aina"
     },
     {
       "title": "The Developer Playbook is Changing: Thoughts on Google Cloud Next ‘26 and Gemini Enterprise Agents",
@@ -1966,6 +1981,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Sleep, Sort, Repeat: Testing Kotlin Coroutines with Virtual Time",
+      "url": "https://dev.to/tibtof/sleep-sort-repeat-testing-kotlin-coroutines-with-virtual-time-25pl",
+      "published_at": "2026-04-28T12:03:40Z",
+      "description": "How long do you think this test takes to run?    @Test fun `sleep sort should sort a list...",
+      "tags": [
+        "kotlin",
+        "java",
+        "testing",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90c3ypp9b80ci3ver41d.png",
+      "source": "Dev.to",
+      "user": "Tiberiu Tofan"
+    },
+    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1977,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1076,
       "user": "aattaran"
     },
     {
@@ -1992,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 386,
       "user": "Kappaemme-git"
     },
     {
@@ -2022,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 224,
       "user": "tgies"
     },
     {
@@ -2037,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280887189?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "TQ-trade"
     },
     {
@@ -2052,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3166,
+      "stars": 3180,
       "user": "theori-io"
     },
     {
@@ -2067,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5858642?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "Fokkyp"
     },
     {
@@ -2082,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 664,
       "user": "vibeforge1111"
     },
     {
@@ -2097,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 505,
       "user": "Tommy-yw"
     },
     {
@@ -2112,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11039165?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "rootsecdev"
     },
     {
@@ -2127,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 185,
       "user": "openclaw"
     },
     {
@@ -2142,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280476892?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "benqi-finance"
     },
     {
