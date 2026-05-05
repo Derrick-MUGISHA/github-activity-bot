@@ -16,6 +16,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Am I a Developer or Just a Prompt Engineer?",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
       "published_at": "2026-05-05T10:52:28Z",
@@ -44,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
-    },
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -135,21 +135,6 @@
       "user": "Tomasz Flis"
     },
     {
-      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
-      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
-      "published_at": "2026-05-05T02:58:12Z",
-      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
-      "tags": [
-        "ai",
-        "genkit",
-        "genai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
       "url": "https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29",
       "published_at": "2026-05-05T02:46:01Z",
@@ -161,6 +146,21 @@
         "genai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfehx1wjdkf0q365gq6g.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
     },
@@ -235,21 +235,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
@@ -560,21 +545,6 @@
       "user": "vaidehi Warghat"
     },
     {
-      "title": "Self-hosted Gemma 4 on TPU with vLLM, MCP, ADK, and Gemini CLI",
-      "url": "https://dev.to/gde/self-hosted-gemma-4-on-tpu-with-mcp-adk-and-gemini-cli-2j9d",
-      "published_at": "2026-04-28T01:48:30Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to v6e Trillium TPUs in an 8 core...",
-      "tags": [
-        "vllm",
-        "googleadk",
-        "tpu",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frixi5r61un5d72ck8v1x.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -718,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3297,
+      "stars": 3303,
       "user": "theori-io"
     },
     {
@@ -735,6 +705,21 @@
       "source": "GitHub",
       "stars": 515,
       "user": "Tommy-yw"
+    },
+    {
+      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "ajavadinezhad"
     }
   ],
   "JavaScript": [
@@ -827,21 +812,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "published_at": "2026-04-27T10:29:37Z",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
-      "tags": [
-        "reactnative",
-        "typescript",
-        "performance",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
-      "source": "Dev.to",
-      "user": "Neeraj Singh"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -975,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1296,
       "user": "aattaran"
     },
     {
@@ -990,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 415,
       "user": "Kappaemme-git"
     },
     {
@@ -1005,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "amirshaker000"
     },
     {
@@ -1262,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3297,
+      "stars": 3303,
       "user": "theori-io"
     },
     {
@@ -1277,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 726,
       "user": "vibeforge1111"
     },
     {
@@ -1440,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1296,
       "user": "aattaran"
     }
   ],
@@ -1476,37 +1446,22 @@
       "user": "Ekong Ikpe"
     },
     {
-      "title": "How to Remove Console.log from React Native Production Builds",
-      "url": "https://dev.to/neeraj1005/how-to-remove-consolelog-from-react-native-production-builds-2f7d",
-      "published_at": "2026-04-27T10:29:37Z",
-      "description": "When building React Native apps, console.log is your best friend during development. But leaving it...",
+      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "tags": [
-        "reactnative",
-        "typescript",
-        "performance",
-        "mobile"
+        "go",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0atc00j0epvwoqzogj4j.png",
-      "source": "Dev.to",
-      "user": "Neeraj Singh"
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
-    {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "published_at": "2026-05-05T13:25:34Z",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "tags": [
-        "ai",
-        "cloud",
-        "aws",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
-      "source": "Dev.to",
-      "user": "Maish Saidel-Keesing"
-    },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
@@ -1521,6 +1476,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -1836,6 +1806,18 @@
       "user": "Patrick Loeber"
     },
     {
+      "title": "Copilot Squad",
+      "url": "https://dev.to/ruarfff/copilot-squad-4nda",
+      "published_at": "2026-05-05T14:49:33Z",
+      "description": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
+      "tags": [
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
+      "source": "Dev.to",
+      "user": "Ruairí O'Brien"
+    },
+    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
       "published_at": "2026-05-02T08:22:42Z",
@@ -1893,21 +1875,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
       "source": "Dev.to",
       "user": "Jeongho Nam"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
@@ -2025,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1296,
       "user": "aattaran"
     },
     {
@@ -2040,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 415,
       "user": "Kappaemme-git"
     },
     {
@@ -2055,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74258437?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "amirshaker000"
     },
     {
@@ -2100,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18063559?v=4",
       "source": "GitHub",
-      "stars": 3297,
+      "stars": 3303,
       "user": "theori-io"
     },
     {
@@ -2115,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 726,
       "user": "vibeforge1111"
     },
     {
@@ -2175,8 +2142,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "openclaw"
+    },
+    {
+      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
+      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
+      "published_at": "2026-05-04T04:24:15Z",
+      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "ThisIsDara"
+    },
+    {
+      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "ajavadinezhad"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2194,49 +2191,19 @@
       "user": "marchinthesun"
     },
     {
-      "title": "ajavadinezhad/zyrln - GitHub Repository",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
+      "title": "watany-dev/gitreal - GitHub Repository",
+      "url": "https://github.com/watany-dev/gitreal",
+      "published_at": "2026-05-01T01:58:08Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "ajavadinezhad"
-    },
-    {
-      "title": "qq-dao/polymarket-copytrade - Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "url": "https://github.com/qq-dao/polymarket-copytrade",
-      "published_at": "2026-04-29T17:40:36Z",
-      "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/280480717?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "qq-dao"
-    },
-    {
-      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
-      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
-      "published_at": "2026-05-04T04:24:15Z",
-      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "ThisIsDara"
+      "stars": 77,
+      "user": "watany-dev"
     }
   ]
 }
