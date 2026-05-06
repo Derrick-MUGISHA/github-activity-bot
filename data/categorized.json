@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+      "published_at": "2026-05-06T06:28:42Z",
+      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "tags": [
+        "career",
+        "learning",
+        "development",
+        "workplace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -29,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
+      "published_at": "2026-05-06T03:54:40Z",
+      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "tags": [
+        "ai",
+        "programming",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "The Next Casualty of the GenAI Revolution",
@@ -104,6 +133,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
+      "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
+      "published_at": "2026-05-06T03:04:25Z",
+      "description": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
+      "tags": [
+        "ai",
+        "agents",
+        "gemini",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgtkkxue1gl5ymo0nh0t.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
@@ -517,49 +561,6 @@
       "user": "Ali Afana "
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
-      "title": "EcoDo AI: Making Earth a Little Less Heavy 🌍✨",
-      "url": "https://dev.to/vaidehi_warghat_362ccfda5/ecodo-ai-making-earth-a-little-less-heavy-3mic",
-      "published_at": "2026-04-19T03:11:23Z",
-      "description": "What I Built I built EcoDo AI, a smart sustainability tracker designed to turn small daily habits...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftepbxbqqyubjubs6sj8l.png",
-      "source": "Dev.to",
-      "user": "vaidehi Warghat"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -718,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 175,
       "user": "ajavadinezhad"
     }
   ],
@@ -945,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1428,
       "user": "aattaran"
     },
     {
@@ -960,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 442,
       "user": "Kappaemme-git"
     },
     {
@@ -975,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 340,
       "user": "b-nnett"
     },
     {
@@ -990,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "tgies"
     },
     {
@@ -1005,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 176,
       "user": "ircfspace"
     },
     {
@@ -1025,6 +1026,20 @@
     }
   ],
   "Python": [
+    {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
+      "published_at": "2026-05-06T03:54:40Z",
+      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "tags": [
+        "ai",
+        "programming",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
@@ -1232,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 803,
       "user": "vibeforge1111"
     },
     {
@@ -1247,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 723,
       "user": "XBuilderLAB"
     },
     {
@@ -1277,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "LayrKits"
     },
     {
@@ -1292,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "simchowitzlabpublic"
     }
   ],
@@ -1410,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1428,
       "user": "aattaran"
     }
   ],
@@ -1457,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 340,
       "user": "b-nnett"
     },
     {
@@ -1472,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 175,
       "user": "ajavadinezhad"
     }
   ],
@@ -1506,6 +1521,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
+    },
+    {
+      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
+      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
+      "published_at": "2026-05-06T05:53:26Z",
+      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
+      "tags": [
+        "linux",
+        "automation",
+        "vpn",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
+      "source": "Dev.to",
+      "user": "Vicente G. Reyes"
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -1672,21 +1702,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -1747,21 +1762,6 @@
   ],
   "Security": [
     {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
-      "published_at": "2026-05-04T13:23:38Z",
-      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
-      "tags": [
-        "security",
-        "webdev",
-        "javascript",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
-      "source": "Dev.to",
-      "user": "Vladimir Novick"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -1777,19 +1777,19 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
+      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
+      "published_at": "2026-05-04T13:23:38Z",
+      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
       "tags": [
-        "ai",
-        "vercel",
         "security",
-        "hack"
+        "webdev",
+        "javascript",
+        "node"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
       "source": "Dev.to",
-      "user": "Jonathan Murray"
+      "user": "Vladimir Novick"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1816,6 +1816,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
       "source": "Dev.to",
       "user": "Ruairí O'Brien"
+    },
+    {
+      "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
+      "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
+      "published_at": "2026-05-06T03:04:25Z",
+      "description": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
+      "tags": [
+        "ai",
+        "agents",
+        "gemini",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgtkkxue1gl5ymo0nh0t.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
@@ -1996,21 +2011,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1428,
       "user": "aattaran"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 442,
       "user": "Kappaemme-git"
     },
     {
@@ -2052,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 340,
       "user": "b-nnett"
     },
     {
@@ -2067,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "tgies"
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 176,
       "user": "ircfspace"
     },
     {
@@ -2097,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 803,
       "user": "vibeforge1111"
     },
     {
@@ -2112,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 723,
       "user": "XBuilderLAB"
     },
     {
@@ -2142,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "LayrKits"
     },
     {
@@ -2157,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 371,
       "user": "simchowitzlabpublic"
     },
     {
@@ -2172,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "openclaw"
     },
     {
@@ -2187,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 178,
       "user": "ThisIsDara"
     },
     {
@@ -2202,8 +2202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 175,
       "user": "ajavadinezhad"
+    },
+    {
+      "title": "tomurashigaraki22/watchup-agent-v2 - GitHub Repository",
+      "url": "https://github.com/tomurashigaraki22/watchup-agent-v2",
+      "published_at": "2026-04-30T16:24:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/125347750?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "tomurashigaraki22"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2219,21 +2234,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "marchinthesun"
-    },
-    {
-      "title": "watany-dev/gitreal - GitHub Repository",
-      "url": "https://github.com/watany-dev/gitreal",
-      "published_at": "2026-05-01T01:58:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "watany-dev"
     }
   ]
 }
