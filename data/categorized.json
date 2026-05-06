@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
-      "published_at": "2026-05-05T10:52:28Z",
-      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "tags": [
-        "ai",
-        "career",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
+      "published_at": "2026-05-05T10:52:28Z",
+      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "tags": [
+        "ai",
+        "career",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
@@ -263,21 +263,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
       "source": "Dev.to",
       "user": "Vilius"
-    },
-    {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
     },
     {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
@@ -532,6 +517,21 @@
       "user": "Ali Afana "
     },
     {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
       "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
       "published_at": "2026-04-20T02:49:24Z",
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 168,
       "user": "ajavadinezhad"
     }
   ],
@@ -769,21 +769,6 @@
       "user": "Vladimir Novick"
     },
     {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
-      "published_at": "2026-05-03T07:04:22Z",
-      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "tags": [
-        "api",
-        "javascript",
-        "mobile",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
-      "source": "Dev.to",
-      "user": "Ekong Ikpe"
-    },
-    {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
       "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
       "published_at": "2026-05-03T13:05:28Z",
@@ -812,6 +797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "published_at": "2026-05-03T07:04:22Z",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "tags": [
+        "api",
+        "javascript",
+        "mobile",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
+      "source": "Dev.to",
+      "user": "Ekong Ikpe"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1409,
       "user": "aattaran"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 431,
       "user": "Kappaemme-git"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 310,
       "user": "b-nnett"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "tgies"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "ircfspace"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 797,
       "user": "vibeforge1111"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 672,
       "user": "XBuilderLAB"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 408,
       "user": "LayrKits"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "simchowitzlabpublic"
     }
   ],
@@ -1410,26 +1410,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1409,
       "user": "aattaran"
     }
   ],
   "Mobile": [
-    {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
-      "published_at": "2026-05-03T07:04:22Z",
-      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "tags": [
-        "api",
-        "javascript",
-        "mobile",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
-      "source": "Dev.to",
-      "user": "Ekong Ikpe"
-    },
     {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
       "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
@@ -1446,6 +1431,21 @@
       "user": "Juan David Gómez"
     },
     {
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
+      "published_at": "2026-05-03T07:04:22Z",
+      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
+      "tags": [
+        "api",
+        "javascript",
+        "mobile",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
+      "source": "Dev.to",
+      "user": "Ekong Ikpe"
+    },
+    {
       "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
       "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
       "published_at": "2026-04-30T05:22:15Z",
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 310,
       "user": "b-nnett"
     },
     {
@@ -1472,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 168,
       "user": "ajavadinezhad"
     }
   ],
@@ -1567,21 +1567,6 @@
       "user": "xbill"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
       "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
       "published_at": "2026-05-05T04:53:55Z",
@@ -1593,6 +1578,21 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6",
+      "published_at": "2026-05-04T15:00:22Z",
+      "description": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "tags": [
+        "googlecloud",
+        "googlecloudnext",
+        "claude",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fximhnvwrr5nda10uwsil.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
     },
@@ -1670,6 +1670,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1892,21 +1907,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
       "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi",
       "published_at": "2026-05-03T16:22:00Z",
@@ -1996,6 +1996,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -2007,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1409,
       "user": "aattaran"
     },
     {
@@ -2022,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 431,
       "user": "Kappaemme-git"
     },
     {
@@ -2037,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 310,
       "user": "b-nnett"
     },
     {
@@ -2052,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "tgies"
     },
     {
@@ -2067,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "ircfspace"
     },
     {
@@ -2082,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 797,
       "user": "vibeforge1111"
     },
     {
@@ -2097,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 672,
       "user": "XBuilderLAB"
     },
     {
@@ -2127,7 +2142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 408,
       "user": "LayrKits"
     },
     {
@@ -2142,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "simchowitzlabpublic"
     },
     {
@@ -2157,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "openclaw"
     },
     {
@@ -2172,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 170,
       "user": "ThisIsDara"
     },
     {
@@ -2187,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 168,
       "user": "ajavadinezhad"
     },
     {
