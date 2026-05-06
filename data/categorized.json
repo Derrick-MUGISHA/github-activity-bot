@@ -16,6 +16,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "tags": [
+        "aws",
+        "ai",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
       "title": "AI vs Non-AI: Building the Same Project Twice",
       "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
       "published_at": "2026-05-06T17:33:24Z",
@@ -44,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "ajavadinezhad"
     }
   ],
@@ -914,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1473,
       "user": "aattaran"
     },
     {
@@ -929,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 511,
       "user": "Kappaemme-git"
     },
     {
@@ -974,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "ircfspace"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 754,
       "user": "XBuilderLAB"
     },
     {
@@ -1260,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "virgiliojr94"
     }
   ],
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1473,
       "user": "aattaran"
     }
   ],
@@ -1425,26 +1425,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
     {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
       "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
@@ -1459,6 +1444,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
@@ -1988,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1473,
       "user": "aattaran"
     },
     {
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 511,
       "user": "Kappaemme-git"
     },
     {
@@ -2048,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "ircfspace"
     },
     {
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 754,
       "user": "XBuilderLAB"
     },
     {
@@ -2123,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "virgiliojr94"
     },
     {
@@ -2153,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "ajavadinezhad"
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 190,
       "user": "ThisIsDara"
     },
     {
@@ -2183,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125347750?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "tomurashigaraki22"
     },
     {
