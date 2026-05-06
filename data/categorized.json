@@ -31,21 +31,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
-      "published_at": "2026-05-05T10:52:28Z",
-      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "tags": [
-        "ai",
-        "career",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "The Next Casualty of the GenAI Revolution",
       "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
       "published_at": "2026-05-05T13:25:34Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
+    },
+    {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
+      "published_at": "2026-05-05T10:52:28Z",
+      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "tags": [
+        "ai",
+        "career",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -207,6 +207,21 @@
       "user": "xbill"
     },
     {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
       "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
       "published_at": "2026-05-04T16:52:20Z",
@@ -222,21 +237,6 @@
       "user": "Jeongho Nam"
     },
     {
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
-      "published_at": "2026-05-04T02:20:36Z",
-      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
-      "tags": [
-        "ai",
-        "mobile",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -250,21 +250,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "published_at": "2026-05-02T19:30:01Z",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -443,6 +428,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
+      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
+      "published_at": "2026-05-04T02:20:36Z",
+      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "tags": [
+        "ai",
+        "mobile",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "Tommy-yw"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 122,
       "user": "ajavadinezhad"
     }
   ],
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1349,
       "user": "aattaran"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "Kappaemme-git"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "tgies"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 160,
       "user": "ircfspace"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 136,
       "user": "tolibear"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 763,
       "user": "vibeforge1111"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "Tommy-yw"
     },
     {
@@ -1262,8 +1262,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 399,
       "user": "LayrKits"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+      "url": "https://github.com/XBuilderLAB/cheat-on-content",
+      "published_at": "2026-05-05T10:28:33Z",
+      "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "XBuilderLAB"
     },
     {
       "title": "simchowitzlabpublic/nano-world-model - A Minimalist, Batteries-included Repository for Advancing World Model Science.",
@@ -1277,23 +1292,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 360,
       "user": "simchowitzlabpublic"
-    },
-    {
-      "title": "ynsmroztas/cPanelSniper - CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-      "url": "https://github.com/ynsmroztas/cPanelSniper",
-      "published_at": "2026-05-01T12:09:26Z",
-      "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58443521?v=4",
-      "source": "GitHub",
-      "stars": 320,
-      "user": "ynsmroztas"
     }
   ],
   "DevOps": [
@@ -1410,26 +1410,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1349,
       "user": "aattaran"
     }
   ],
   "Mobile": [
-    {
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
-      "published_at": "2026-05-04T02:20:36Z",
-      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
-      "tags": [
-        "ai",
-        "mobile",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
     {
       "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
       "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
@@ -1446,6 +1431,21 @@
       "user": "Ekong Ikpe"
     },
     {
+      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
+      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
+      "published_at": "2026-05-04T02:20:36Z",
+      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
+      "tags": [
+        "ai",
+        "mobile",
+        "showdev",
+        "sideprojects"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
+      "source": "Dev.to",
+      "user": "Juan David Gómez"
+    },
+    {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "url": "https://github.com/ajavadinezhad/zyrln",
       "published_at": "2026-05-04T17:25:03Z",
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 122,
       "user": "ajavadinezhad"
     }
   ],
@@ -1787,21 +1787,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "ynsmroztas/cPanelSniper - CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-      "url": "https://github.com/ynsmroztas/cPanelSniper",
-      "published_at": "2026-05-01T12:09:26Z",
-      "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58443521?v=4",
-      "source": "GitHub",
-      "stars": 320,
-      "user": "ynsmroztas"
     }
   ],
   "Tools": [
@@ -1877,6 +1862,21 @@
       "user": "Xavier Portilla Edo"
     },
     {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
       "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
       "published_at": "2026-05-04T16:52:20Z",
@@ -1905,21 +1905,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "published_at": "2026-05-02T19:30:01Z",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
     },
     {
       "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1349,
       "user": "aattaran"
     },
     {
@@ -2037,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "Kappaemme-git"
     },
     {
@@ -2052,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 249,
       "user": "tgies"
     },
     {
@@ -2067,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 160,
       "user": "ircfspace"
     },
     {
@@ -2082,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 136,
       "user": "tolibear"
     },
     {
@@ -2097,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 763,
       "user": "vibeforge1111"
     },
     {
@@ -2112,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "Tommy-yw"
     },
     {
@@ -2127,8 +2112,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 399,
       "user": "LayrKits"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+      "url": "https://github.com/XBuilderLAB/cheat-on-content",
+      "published_at": "2026-05-05T10:28:33Z",
+      "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "XBuilderLAB"
     },
     {
       "title": "simchowitzlabpublic/nano-world-model - A Minimalist, Batteries-included Repository for Advancing World Model Science.",
@@ -2142,23 +2142,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 360,
       "user": "simchowitzlabpublic"
-    },
-    {
-      "title": "ynsmroztas/cPanelSniper - CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-      "url": "https://github.com/ynsmroztas/cPanelSniper",
-      "published_at": "2026-05-01T12:09:26Z",
-      "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58443521?v=4",
-      "source": "GitHub",
-      "stars": 320,
-      "user": "ynsmroztas"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
@@ -2172,23 +2157,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "openclaw"
-    },
-    {
-      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
-      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
-      "source": "GitHub",
-      "stars": 118,
-      "user": "ajavadinezhad"
     },
     {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
@@ -2202,8 +2172,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 125,
       "user": "ThisIsDara"
+    },
+    {
+      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 122,
+      "user": "ajavadinezhad"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
