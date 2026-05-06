@@ -135,21 +135,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
-      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
-      "published_at": "2026-05-05T02:58:12Z",
-      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
-      "tags": [
-        "ai",
-        "genkit",
-        "genai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
       "url": "https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29",
       "published_at": "2026-05-05T02:46:01Z",
@@ -161,6 +146,21 @@
         "genai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfehx1wjdkf0q365gq6g.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
     },
@@ -250,21 +250,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
-      "published_at": "2026-05-04T04:17:45Z",
-      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
-      "tags": [
-        "architecture",
-        "googlecloud",
-        "tutorial",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
       "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
       "published_at": "2026-05-04T12:16:27Z",
@@ -278,6 +263,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fij4nv7h8nsrlemfhw1ii.png",
       "source": "Dev.to",
       "user": "Vilius"
+    },
+    {
+      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
+      "url": "https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp",
+      "published_at": "2026-05-04T04:17:45Z",
+      "description": "In my previous article about treating architecture documentation as a first-class asset, I had a...",
+      "tags": [
+        "architecture",
+        "googlecloud",
+        "tutorial",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvkv4wcm4l3c4he4k18h2.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "Tommy-yw"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 160,
       "user": "ajavadinezhad"
     }
   ],
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1396,
       "user": "aattaran"
     },
     {
@@ -960,23 +960,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 428,
       "user": "Kappaemme-git"
-    },
-    {
-      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
-      "url": "https://github.com/tgies/klattsch",
-      "published_at": "2026-04-30T21:57:14Z",
-      "description": "primitive parallel-formant speech synth in the browser",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
-      "source": "GitHub",
-      "stars": 253,
-      "user": "tgies"
     },
     {
       "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
@@ -990,8 +975,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 284,
       "user": "b-nnett"
+    },
+    {
+      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
+      "url": "https://github.com/tgies/klattsch",
+      "published_at": "2026-04-30T21:57:14Z",
+      "description": "primitive parallel-formant speech synth in the browser",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "tgies"
     },
     {
       "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "ircfspace"
     },
     {
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 793,
       "user": "vibeforge1111"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 622,
       "user": "XBuilderLAB"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "Tommy-yw"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 407,
       "user": "LayrKits"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1396,
       "user": "aattaran"
     }
   ],
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 284,
       "user": "b-nnett"
     },
     {
@@ -1472,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 160,
       "user": "ajavadinezhad"
     }
   ],
@@ -1550,21 +1550,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
       "source": "Dev.to",
       "user": "leslysandra"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-3-anthropics-vision-for-after-software-2cj6",
-      "published_at": "2026-05-04T15:00:22Z",
-      "description": "This is the third post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext",
-        "claude",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fximhnvwrr5nda10uwsil.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1396,
       "user": "aattaran"
     },
     {
@@ -2037,23 +2022,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 428,
       "user": "Kappaemme-git"
-    },
-    {
-      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
-      "url": "https://github.com/tgies/klattsch",
-      "published_at": "2026-04-30T21:57:14Z",
-      "description": "primitive parallel-formant speech synth in the browser",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
-      "source": "GitHub",
-      "stars": 253,
-      "user": "tgies"
     },
     {
       "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
@@ -2067,8 +2037,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 284,
       "user": "b-nnett"
+    },
+    {
+      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
+      "url": "https://github.com/tgies/klattsch",
+      "published_at": "2026-04-30T21:57:14Z",
+      "description": "primitive parallel-formant speech synth in the browser",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "tgies"
     },
     {
       "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
@@ -2082,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "ircfspace"
     },
     {
@@ -2097,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 793,
       "user": "vibeforge1111"
     },
     {
@@ -2112,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 622,
       "user": "XBuilderLAB"
     },
     {
@@ -2127,7 +2112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "Tommy-yw"
     },
     {
@@ -2142,7 +2127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 407,
       "user": "LayrKits"
     },
     {
@@ -2187,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 161,
       "user": "ThisIsDara"
     },
     {
@@ -2202,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 160,
       "user": "ajavadinezhad"
     },
     {

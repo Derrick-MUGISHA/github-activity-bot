@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-06-orange)
 
@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.5%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.4 (28.4%)
-JavaScript      █████████████████████████ 23.2 (23.2%)
-Java            █████████████████████████ 23.2 (23.2%)
-Python          ██████████████████████ 21.1 (21.1%)
+Go              ██████████████████████████████ 27.7 (27.7%)
+JavaScript      █████████████████████████ 23.4 (23.4%)
+Java            █████████████████████████ 23.4 (23.4%)
+Python          ███████████████████████ 21.3 (21.3%)
 Rust            █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -73,7 +73,7 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 27
+    "Go" : 26
     "JavaScript" : 22
     "Java" : 22
     "Python" : 20
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-5-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-06 11:00 CAT)
+## 📅 Latest Updates (2026-05-06 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,9 +216,9 @@ npm run test
 - [AI Isn't Stupid. Your Setup Is. 🛠️](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn) _[Dev.to]_
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
-- [Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison" description](https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7) _[Dev.to]_
+- [Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison](https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29) _[Dev.to]_
 
-_Last automated update: Wed, 06 May 2026 11:10:46 CAT_
+_Last automated update: Wed, 06 May 2026 13:19:38 CAT_
 
 
 
@@ -226,29 +226,18 @@ _Last automated update: Wed, 06 May 2026 11:10:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
-
-</details>
-
-### 2. JavaScript: Implement a debounce function from scratch
-
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 2. Database: Design a database schema for a social media platform
 
 **Difficulty**: Hard | **Topics**: design, scalability
 
@@ -256,6 +245,17 @@ setTimeout, clearTimeout, wrapper function
 <summary>💡 Hint</summary>
 
 Users, posts, relationships, indexes, partitioning
+
+</details>
+
+### 3. Python: What is the difference between list and tuple in Python?
+
+**Difficulty**: Easy | **Topics**: data structures, mutability
+
+<details>
+<summary>💡 Hint</summary>
+
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 06 May 2026 09:10:46 GMT</b><br/>
+  <b>Last automated update: Wed, 06 May 2026 11:19:39 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
