@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -31,6 +16,21 @@
       "user": "Aryan Choudhary"
     },
     {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
       "published_at": "2026-05-05T18:38:06Z",
@@ -44,6 +44,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "tags": [
+        "aws",
+        "ai",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "published_at": "2026-05-06T17:33:24Z",
+      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
+      "source": "Dev.to",
+      "user": "Fernando Fornieles"
     },
     {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
@@ -90,21 +120,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
-      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
-      "published_at": "2026-05-04T19:05:39Z",
-      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
-      "tags": [
-        "angular",
-        "gemini",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
-      "source": "Dev.to",
-      "user": "Tomasz Flis"
-    },
-    {
       "title": "Am I a Developer or Just a Prompt Engineer?",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
       "published_at": "2026-05-05T10:52:28Z",
@@ -118,6 +133,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
+      "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
+      "published_at": "2026-05-04T19:05:39Z",
+      "description": "If you have built a chat UI for a large language model in the last two years, you probably reached...",
+      "tags": [
+        "angular",
+        "gemini",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
+      "source": "Dev.to",
+      "user": "Tomasz Flis"
     },
     {
       "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
@@ -263,21 +293,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
-    },
-    {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "published_at": "2026-05-04T16:52:20Z",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
-      "tags": [
-        "ai",
-        "vr",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
-      "source": "Dev.to",
-      "user": "Jeongho Nam"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -473,6 +488,21 @@
       "user": "xbill"
     },
     {
+      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "published_at": "2026-05-04T16:52:20Z",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "tags": [
+        "ai",
+        "vr",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "source": "Dev.to",
+      "user": "Jeongho Nam"
+    },
+    {
       "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
       "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
       "published_at": "2026-05-04T02:20:36Z",
@@ -558,21 +588,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
       "source": "Dev.to",
       "user": "Setiaji"
-    },
-    {
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
-      "published_at": "2026-04-30T12:14:54Z",
-      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
-      "tags": [
-        "ai",
-        "webdev",
-        "openai",
-        "monitoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
-      "source": "Dev.to",
-      "user": "Ali Afana "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "ajavadinezhad"
     }
   ],
@@ -812,21 +827,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
-      "published_at": "2026-05-03T07:04:22Z",
-      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "tags": [
-        "api",
-        "javascript",
-        "mobile",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
-      "source": "Dev.to",
-      "user": "Ekong Ikpe"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1453,
       "user": "aattaran"
     },
     {
@@ -975,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 498,
       "user": "Kappaemme-git"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 362,
       "user": "b-nnett"
     },
     {
@@ -1020,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "ircfspace"
     },
     {
@@ -1261,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 810,
       "user": "vibeforge1111"
     },
     {
@@ -1276,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "XBuilderLAB"
     },
     {
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "LayrKits"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 393,
       "user": "virgiliojr94"
     }
   ],
@@ -1439,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1453,
       "user": "aattaran"
     }
   ],
@@ -1460,21 +1460,6 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "url": "https://dev.to/edmundsparrow/i-accidentally-wrote-a-filesystem-driver-for-a-browser-53cd",
-      "published_at": "2026-05-03T07:04:22Z",
-      "description": "Staring at a bug report that makes no sense.   Data gone. No error. No warning. No stack...",
-      "tags": [
-        "api",
-        "javascript",
-        "mobile",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek50msvfbpbmyly6zdne.png",
-      "source": "Dev.to",
-      "user": "Ekong Ikpe"
-    },
-    {
       "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
       "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
       "published_at": "2026-04-30T05:22:15Z",
@@ -1486,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 362,
       "user": "b-nnett"
     },
     {
@@ -1501,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "ajavadinezhad"
     }
   ],
@@ -1520,6 +1505,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "tags": [
+        "aws",
+        "ai",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     },
     {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
@@ -1820,18 +1820,6 @@
   ],
   "Tools": [
     {
-      "title": "Copilot Squad",
-      "url": "https://dev.to/ruarfff/copilot-squad-4nda",
-      "published_at": "2026-05-05T14:49:33Z",
-      "description": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
-      "tags": [
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
-      "source": "Dev.to",
-      "user": "Ruairí O'Brien"
-    },
-    {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
       "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
       "published_at": "2026-05-06T03:04:25Z",
@@ -1906,21 +1894,6 @@
       "user": "Xavier Portilla Edo"
     },
     {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "published_at": "2026-05-04T16:52:20Z",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
-      "tags": [
-        "ai",
-        "vr",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
-      "source": "Dev.to",
-      "user": "Jeongho Nam"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -1934,6 +1907,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Copilot Squad",
+      "url": "https://dev.to/ruarfff/copilot-squad-4nda",
+      "published_at": "2026-05-05T14:49:33Z",
+      "description": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
+      "tags": [
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
+      "source": "Dev.to",
+      "user": "Ruairí O'Brien"
     },
     {
       "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
@@ -2025,6 +2010,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
+      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
+      "published_at": "2026-05-04T16:52:20Z",
+      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
+      "tags": [
+        "ai",
+        "vr",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
+      "source": "Dev.to",
+      "user": "Jeongho Nam"
+    },
+    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1453,
       "user": "aattaran"
     },
     {
@@ -2051,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 498,
       "user": "Kappaemme-git"
     },
     {
@@ -2066,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 362,
       "user": "b-nnett"
     },
     {
@@ -2096,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "ircfspace"
     },
     {
@@ -2111,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 810,
       "user": "vibeforge1111"
     },
     {
@@ -2126,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 750,
       "user": "XBuilderLAB"
     },
     {
@@ -2156,7 +2156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "LayrKits"
     },
     {
@@ -2171,7 +2171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 393,
       "user": "virgiliojr94"
     },
     {
@@ -2190,21 +2190,6 @@
       "user": "openclaw"
     },
     {
-      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
-      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
-      "source": "GitHub",
-      "stars": 182,
-      "user": "ajavadinezhad"
-    },
-    {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
       "url": "https://github.com/ThisIsDara/mhr-cfw-go",
       "published_at": "2026-05-04T04:24:15Z",
@@ -2216,8 +2201,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 186,
       "user": "ThisIsDara"
+    },
+    {
+      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "ajavadinezhad"
     },
     {
       "title": "tomurashigaraki22/watchup-agent-v2 - GitHub Repository",
@@ -2231,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125347750?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 133,
       "user": "tomurashigaraki22"
     },
     {
