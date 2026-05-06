@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
-      "published_at": "2026-05-06T06:28:42Z",
-      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "tags": [
-        "career",
-        "learning",
-        "development",
-        "workplace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+      "published_at": "2026-05-06T06:28:42Z",
+      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "tags": [
+        "career",
+        "learning",
+        "development",
+        "workplace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
@@ -46,33 +46,18 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
-      "published_at": "2026-05-06T03:54:40Z",
-      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
+      "published_at": "2026-05-06T15:24:34Z",
+      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
       "tags": [
         "ai",
-        "programming",
-        "go"
+        "discuss",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
       "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "published_at": "2026-05-05T13:25:34Z",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "tags": [
-        "ai",
-        "cloud",
-        "aws",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
-      "source": "Dev.to",
-      "user": "Maish Saidel-Keesing"
+      "user": "Jonathan Murray"
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -135,6 +120,20 @@
       "user": "Harsh "
     },
     {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
+      "published_at": "2026-05-06T03:54:40Z",
+      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "tags": [
+        "ai",
+        "programming",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
       "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
       "published_at": "2026-05-06T03:04:25Z",
@@ -150,20 +149,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
-      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
-      "published_at": "2026-05-05T17:32:00Z",
-      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
-      "tags": [
-        "googlecloudnext",
-        "agenticai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -177,6 +162,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
+      "published_at": "2026-05-05T17:32:00Z",
+      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "tags": [
+        "googlecloudnext",
+        "agenticai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
@@ -249,6 +248,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
     },
     {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
@@ -719,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 182,
       "user": "ajavadinezhad"
     }
   ],
@@ -946,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1440,
       "user": "aattaran"
     },
     {
@@ -961,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 480,
       "user": "Kappaemme-git"
     },
     {
@@ -976,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 358,
       "user": "b-nnett"
     },
     {
@@ -991,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "tgies"
     },
     {
@@ -1006,7 +1020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "ircfspace"
     },
     {
@@ -1026,20 +1040,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
-      "published_at": "2026-05-06T03:54:40Z",
-      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
-      "tags": [
-        "ai",
-        "programming",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
@@ -1069,6 +1069,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
+      "published_at": "2026-05-06T03:54:40Z",
+      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "tags": [
+        "ai",
+        "programming",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "ADK Agents with Amazon Bedrock Models",
@@ -1247,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 805,
       "user": "vibeforge1111"
     },
     {
@@ -1262,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 745,
       "user": "XBuilderLAB"
     },
     {
@@ -1292,23 +1306,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "LayrKits"
     },
     {
-      "title": "simchowitzlabpublic/nano-world-model - A Minimalist, Batteries-included Repository for Advancing World Model Science.",
-      "url": "https://github.com/simchowitzlabpublic/nano-world-model",
-      "published_at": "2026-04-30T12:47:25Z",
-      "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
+      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "published_at": "2026-05-01T02:09:39Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 371,
-      "user": "simchowitzlabpublic"
+      "stars": 378,
+      "user": "virgiliojr94"
     }
   ],
   "DevOps": [
@@ -1425,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1440,
       "user": "aattaran"
     }
   ],
@@ -1472,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 358,
       "user": "b-nnett"
     },
     {
@@ -1487,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 182,
       "user": "ajavadinezhad"
     }
   ],
@@ -1506,21 +1520,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "published_at": "2026-05-05T13:25:34Z",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "tags": [
-        "ai",
-        "cloud",
-        "aws",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
-      "source": "Dev.to",
-      "user": "Maish Saidel-Keesing"
     },
     {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
@@ -1595,6 +1594,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
     },
     {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
@@ -1833,21 +1847,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
-      "published_at": "2026-05-05T17:43:58Z",
-      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
-      "tags": [
-        "api",
-        "gemini",
-        "rag",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -1861,6 +1860,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
+      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
+      "published_at": "2026-05-05T17:43:58Z",
+      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
+      "tags": [
+        "api",
+        "gemini",
+        "rag",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
@@ -2022,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1428,
+      "stars": 1440,
       "user": "aattaran"
     },
     {
@@ -2037,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 480,
       "user": "Kappaemme-git"
     },
     {
@@ -2052,7 +2066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 358,
       "user": "b-nnett"
     },
     {
@@ -2067,7 +2081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "tgies"
     },
     {
@@ -2082,7 +2096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "ircfspace"
     },
     {
@@ -2097,7 +2111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 805,
       "user": "vibeforge1111"
     },
     {
@@ -2112,7 +2126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 745,
       "user": "XBuilderLAB"
     },
     {
@@ -2142,23 +2156,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "LayrKits"
     },
     {
-      "title": "simchowitzlabpublic/nano-world-model - A Minimalist, Batteries-included Repository for Advancing World Model Science.",
-      "url": "https://github.com/simchowitzlabpublic/nano-world-model",
-      "published_at": "2026-04-30T12:47:25Z",
-      "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
+      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "published_at": "2026-05-01T02:09:39Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 371,
-      "user": "simchowitzlabpublic"
+      "stars": 378,
+      "user": "virgiliojr94"
     },
     {
       "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
@@ -2172,23 +2186,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "openclaw"
-    },
-    {
-      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
-      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
-      "published_at": "2026-05-04T04:24:15Z",
-      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
-      "source": "GitHub",
-      "stars": 178,
-      "user": "ThisIsDara"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -2202,8 +2201,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 182,
       "user": "ajavadinezhad"
+    },
+    {
+      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
+      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
+      "published_at": "2026-05-04T04:24:15Z",
+      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
+      "source": "GitHub",
+      "stars": 181,
+      "user": "ThisIsDara"
     },
     {
       "title": "tomurashigaraki22/watchup-agent-v2 - GitHub Repository",
@@ -2217,7 +2231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125347750?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 127,
       "user": "tomurashigaraki22"
     },
     {
