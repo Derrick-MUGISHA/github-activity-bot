@@ -31,21 +31,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "published_at": "2026-05-05T13:25:34Z",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "tags": [
-        "ai",
-        "cloud",
-        "aws",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
-      "source": "Dev.to",
-      "user": "Maish Saidel-Keesing"
-    },
-    {
       "title": "Am I a Developer or Just a Prompt Engineer?",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
       "published_at": "2026-05-05T10:52:28Z",
@@ -61,33 +46,19 @@
       "user": "Harsh "
     },
     {
-      "title": "MCP Development with Amazon Lightsail Instances",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
-      "published_at": "2026-05-05T19:36:06Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
       "tags": [
-        "python",
-        "mcpserver",
+        "ai",
+        "cloud",
         "aws",
-        "gemini"
+        "genai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
-      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
-      "published_at": "2026-05-05T17:32:00Z",
-      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
-      "tags": [
-        "googlecloudnext",
-        "agenticai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
+      "user": "Maish Saidel-Keesing"
     },
     {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
@@ -103,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
+      "published_at": "2026-05-05T19:36:06Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "mcpserver",
+        "aws",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
@@ -135,19 +121,33 @@
       "user": "Tomasz Flis"
     },
     {
-      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
-      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
-      "published_at": "2026-05-05T02:58:12Z",
-      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
+      "published_at": "2026-05-05T17:32:00Z",
+      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "tags": [
+        "googlecloudnext",
+        "agenticai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
+    },
+    {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
       "tags": [
         "ai",
-        "genkit",
-        "genai",
-        "programming"
+        "agents",
+        "productivity",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
+      "user": "Ashley Childress"
     },
     {
       "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
@@ -161,6 +161,21 @@
         "genai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfehx1wjdkf0q365gq6g.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
     },
@@ -205,21 +220,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "published_at": "2026-05-02T19:30:01Z",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
     },
     {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 528,
       "user": "Tommy-yw"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 131,
       "user": "ajavadinezhad"
     }
   ],
@@ -945,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1373,
       "user": "aattaran"
     },
     {
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 421,
       "user": "Kappaemme-git"
     },
     {
@@ -975,8 +975,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "tgies"
+    },
+    {
+      "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+      "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
+      "published_at": "2026-04-30T05:22:15Z",
+      "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "b-nnett"
     },
     {
       "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
@@ -990,23 +1005,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 166,
       "user": "ircfspace"
-    },
-    {
-      "title": "tolibear/goal-maker - Supercharge Codex Goals",
-      "url": "https://github.com/tolibear/goal-maker",
-      "published_at": "2026-05-03T13:16:02Z",
-      "description": "Supercharge Codex Goals",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "tolibear"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1232,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 778,
       "user": "vibeforge1111"
     },
     {
@@ -1247,23 +1247,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 528,
       "user": "Tommy-yw"
-    },
-    {
-      "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
-      "url": "https://github.com/LayrKits/Sprite-Pipeline",
-      "published_at": "2026-05-03T18:19:20Z",
-      "description": "2D Sprite Sheet Creation Pipeline",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "LayrKits"
     },
     {
       "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
@@ -1277,8 +1262,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 500,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
+      "url": "https://github.com/LayrKits/Sprite-Pipeline",
+      "published_at": "2026-05-03T18:19:20Z",
+      "description": "2D Sprite Sheet Creation Pipeline",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
+      "source": "GitHub",
+      "stars": 403,
+      "user": "LayrKits"
     },
     {
       "title": "simchowitzlabpublic/nano-world-model - A Minimalist, Batteries-included Repository for Advancing World Model Science.",
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 365,
       "user": "simchowitzlabpublic"
     }
   ],
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1373,
       "user": "aattaran"
     }
   ],
@@ -1446,6 +1446,21 @@
       "user": "Juan David Gómez"
     },
     {
+      "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+      "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
+      "published_at": "2026-04-30T05:22:15Z",
+      "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "b-nnett"
+    },
+    {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "url": "https://github.com/ajavadinezhad/zyrln",
       "published_at": "2026-05-04T17:25:03Z",
@@ -1457,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 131,
       "user": "ajavadinezhad"
     }
   ],
@@ -1493,35 +1508,6 @@
       "user": "Maish Saidel-Keesing"
     },
     {
-      "title": "MCP Development with Amazon Lightsail Instances",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
-      "published_at": "2026-05-05T19:36:06Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "python",
-        "mcpserver",
-        "aws",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
-      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
-      "published_at": "2026-05-05T17:32:00Z",
-      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
-      "tags": [
-        "googlecloudnext",
-        "agenticai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
       "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
       "published_at": "2026-05-05T04:53:55Z",
@@ -1537,6 +1523,21 @@
       "user": "koichim2"
     },
     {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
+      "published_at": "2026-05-05T19:36:06Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "mcpserver",
+        "aws",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
       "url": "https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc",
       "published_at": "2026-05-04T19:05:39Z",
@@ -1550,6 +1551,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
+      "published_at": "2026-05-05T17:32:00Z",
+      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "tags": [
+        "googlecloudnext",
+        "agenticai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
@@ -1803,21 +1818,6 @@
       "user": "Ruairí O'Brien"
     },
     {
-      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
-      "published_at": "2026-05-05T17:43:58Z",
-      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
-      "tags": [
-        "api",
-        "gemini",
-        "rag",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
       "published_at": "2026-05-02T08:22:42Z",
@@ -1831,6 +1831,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
       "source": "Dev.to",
       "user": "Adam - The Developer"
+    },
+    {
+      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
+      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
+      "published_at": "2026-05-05T17:43:58Z",
+      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
+      "tags": [
+        "api",
+        "gemini",
+        "rag",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
@@ -1847,21 +1862,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
-      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
-      "published_at": "2026-05-05T02:58:12Z",
-      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
-      "tags": [
-        "ai",
-        "genkit",
-        "genai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -1875,6 +1875,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
+      "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
+      "published_at": "2026-05-05T02:58:12Z",
+      "description": "Introduction   The Generative AI tooling ecosystem has exploded over the past two years....",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
@@ -2007,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1373,
       "user": "aattaran"
     },
     {
@@ -2022,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 421,
       "user": "Kappaemme-git"
     },
     {
@@ -2037,8 +2052,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 251,
       "user": "tgies"
+    },
+    {
+      "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+      "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
+      "published_at": "2026-04-30T05:22:15Z",
+      "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "b-nnett"
     },
     {
       "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
@@ -2052,23 +2082,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 166,
       "user": "ircfspace"
-    },
-    {
-      "title": "tolibear/goal-maker - Supercharge Codex Goals",
-      "url": "https://github.com/tolibear/goal-maker",
-      "published_at": "2026-05-03T13:16:02Z",
-      "description": "Supercharge Codex Goals",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "tolibear"
     },
     {
       "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
@@ -2082,7 +2097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 778,
       "user": "vibeforge1111"
     },
     {
@@ -2097,23 +2112,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 528,
       "user": "Tommy-yw"
-    },
-    {
-      "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
-      "url": "https://github.com/LayrKits/Sprite-Pipeline",
-      "published_at": "2026-05-03T18:19:20Z",
-      "description": "2D Sprite Sheet Creation Pipeline",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "LayrKits"
     },
     {
       "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
@@ -2127,8 +2127,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 500,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
+      "url": "https://github.com/LayrKits/Sprite-Pipeline",
+      "published_at": "2026-05-03T18:19:20Z",
+      "description": "2D Sprite Sheet Creation Pipeline",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
+      "source": "GitHub",
+      "stars": 403,
+      "user": "LayrKits"
     },
     {
       "title": "simchowitzlabpublic/nano-world-model - A Minimalist, Batteries-included Repository for Advancing World Model Science.",
@@ -2142,7 +2157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240366951?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 365,
       "user": "simchowitzlabpublic"
     },
     {
@@ -2157,7 +2172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "openclaw"
     },
     {
@@ -2172,7 +2187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 136,
       "user": "ThisIsDara"
     },
     {
@@ -2187,7 +2202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 131,
       "user": "ajavadinezhad"
     },
     {
