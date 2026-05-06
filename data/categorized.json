@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
       "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
       "published_at": "2026-05-06T16:00:47Z",
@@ -31,34 +16,18 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "published_at": "2026-05-06T17:33:24Z",
-      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
       "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "programming"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
       "source": "Dev.to",
-      "user": "Fernando Fornieles"
-    },
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Jess Lee"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -89,6 +58,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
       "user": "paul newell"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "published_at": "2026-05-06T17:33:24Z",
+      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
+      "source": "Dev.to",
+      "user": "Fernando Fornieles"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
@@ -134,7 +148,7 @@
     },
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "url": "https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
       "published_at": "2026-05-06T14:58:05Z",
       "description": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
       "tags": [
@@ -163,21 +177,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
-      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h",
-      "published_at": "2026-05-04T16:23:44Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
-      "tags": [
-        "rust",
-        "mcpserver",
-        "googleadk",
-        "multilanguageagent"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Am I a Developer or Just a Prompt Engineer?",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
       "published_at": "2026-05-05T10:52:28Z",
@@ -191,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
+      "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h",
+      "published_at": "2026-05-04T16:23:44Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build ADK Agent...",
+      "tags": [
+        "rust",
+        "mcpserver",
+        "googleadk",
+        "multilanguageagent"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run",
@@ -732,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 205,
       "user": "ajavadinezhad"
     }
   ],
@@ -914,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1482,
       "user": "aattaran"
     },
     {
@@ -929,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 528,
       "user": "Kappaemme-git"
     },
     {
@@ -944,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "b-nnett"
     },
     {
@@ -996,7 +1010,7 @@
   "Python": [
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "url": "https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
       "published_at": "2026-05-06T14:58:05Z",
       "description": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
       "tags": [
@@ -1215,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 759,
       "user": "XBuilderLAB"
     },
     {
@@ -1260,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "virgiliojr94"
     }
   ],
@@ -1378,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1482,
       "user": "aattaran"
     }
   ],
@@ -1410,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "b-nnett"
     },
     {
@@ -1425,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 205,
       "user": "ajavadinezhad"
     }
   ],
@@ -1462,7 +1476,7 @@
     },
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "url": "https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
       "published_at": "2026-05-06T14:58:05Z",
       "description": "AWS just shipped AgentCore Harness in public preview. It solves the infrastructure problem every team...",
       "tags": [
@@ -1988,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1482,
       "user": "aattaran"
     },
     {
@@ -2003,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 528,
       "user": "Kappaemme-git"
     },
     {
@@ -2018,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "b-nnett"
     },
     {
@@ -2078,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 759,
       "user": "XBuilderLAB"
     },
     {
@@ -2123,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "virgiliojr94"
     },
     {
@@ -2153,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 205,
       "user": "ajavadinezhad"
     },
     {
@@ -2183,7 +2197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125347750?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "tomurashigaraki22"
     },
     {

@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-07 0:00 CAT)
+## 📅 Latest Updates (2026-05-07 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,19 +135,48 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png" width="200" alt="I Love Tailwind. Sorry Not Sorry" />
+    <a href="https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png" width="200" alt="Build Your Own AI Butler - A Scheduled Agent That Runs Itself!" />
       <br/>
-      <b>I Love Tailwind. Sorry Not Sorry</b>
+      <b>Build Your Own AI Butler - A Scheduled Agent That ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png" width="200" alt="Build Your Own AI Butler - A Scheduled Agent That Runs Itself!" />
+    <a href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png" width="200" alt="Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!" />
       <br/>
-      <b>Build Your Own AI Butler - A Scheduled Agent That ...</b>
+      <b>Join the Gemma 4 Challenge: $3,000 prize pool for ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
+      <br/>
+      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png" width="200" alt="I Programmed an AI in 6502 Assembly - It Worked" />
+      <br/>
+      <b>I Programmed an AI in 6502 Assembly - It Worked</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png" width="200" alt="I Love Tailwind. Sorry Not Sorry" />
+      <br/>
+      <b>I Love Tailwind. Sorry Not Sorry</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -162,63 +191,34 @@ npm run test
     <sub>Dev.to</sub>
   </td>
 </tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png" width="200" alt="What Even Is AI? (I Took a Break & Had to Relearn Everything)" />
-      <br/>
-      <b>What Even Is AI? (I Took a Break & Had to Relearn ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
-      <br/>
-      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png" width="200" alt="I Programmed an AI in 6502 Assembly - It Worked" />
-      <br/>
-      <b>I Programmed an AI in 6502 Assembly - It Worked</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
 </table>
 
 
 
 ### 📰 Top Headlines
 
-- [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 - [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
-- [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
-- [What Even Is AI? (I Took a Break & Had to Relearn Everything)](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj) _[Dev.to]_
+- [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [I Programmed an AI in 6502 Assembly - It Worked](https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi) _[Dev.to]_
+- [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
+- [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
+- [What Even Is AI? (I Took a Break & Had to Relearn Everything)](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj) _[Dev.to]_
 - [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6) _[Dev.to]_
 - [Not Open Source Not Interested](https://dev.to/geraldew/not-open-source-not-interested-52hf) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
 - [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 - [Terminal as a Dev Environment in the Age of Agents](https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e) _[Dev.to]_
-- [AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
+- [AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
 - [7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds](https://dev.to/petarov/7-coder-words-i-built-a-pwa-word-puzzle-for-coders-and-nerds-3oh5) _[Dev.to]_
 - [Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)](https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca) _[Dev.to]_
 - [MCP Development with Amazon Lightsail Instances](https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp) _[Dev.to]_
-- [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [Am I a Developer or Just a Prompt Engineer?](https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece) _[Dev.to]_
+- [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) _[Dev.to]_
 - [Wormhole4j v0.3.0: Supports Multi-threaded Concurrency](https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb) _[Dev.to]_
-- [Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead](https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p) _[Dev.to]_
 
-_Last automated update: Thu, 07 May 2026 00:33:20 CAT_
+_Last automated update: Thu, 07 May 2026 01:34:53 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 07 May 2026 00:33:20 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 06 May 2026 22:33:20 GMT</b><br/>
+  <b>Last automated update: Wed, 06 May 2026 23:34:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
