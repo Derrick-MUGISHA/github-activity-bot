@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -30,6 +16,20 @@
       "user": "Aryan Choudhary"
     },
     {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -43,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "published_at": "2026-05-06T17:33:24Z",
-      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
-      "source": "Dev.to",
-      "user": "Fernando Fornieles"
     },
     {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
       "user": "paul newell"
+    },
+    {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "published_at": "2026-05-06T17:33:24Z",
+      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
+      "source": "Dev.to",
+      "user": "Fernando Fornieles"
     },
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
@@ -278,21 +278,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
-      "url": "https://dev.to/gde/top-gen-ai-frameworks-for-java-in-2026-a-hands-on-comparison-3e29",
-      "published_at": "2026-05-05T02:46:01Z",
-      "description": "Introduction   Java has always been a serious language for production systems, and in 2026,...",
-      "tags": [
-        "ai",
-        "genkit",
-        "programming",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfehx1wjdkf0q365gq6g.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
       "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
       "published_at": "2026-05-05T02:58:12Z",
@@ -306,21 +291,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
-    },
-    {
-      "title": "OpenAI Codex is free right now. That's the trap.",
-      "url": "https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5",
-      "published_at": "2026-05-04T16:38:42Z",
-      "description": "We all understand that free services from a company that is spending billions on computing power...",
-      "tags": [
-        "discuss",
-        "programming",
-        "webdev",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flitter.catbox.moe%2F9o131i.png",
-      "source": "Dev.to",
-      "user": "Aditya Agarwal"
     },
     {
       "title": "Porting Libraries to Crystal with AI",
@@ -588,6 +558,36 @@
       "user": "Juan David Gómez"
     },
     {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -720,10 +720,10 @@
       "user": "veesahni"
     },
     {
-      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "url": "https://github.com/thcp/stemdeck",
       "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 267,
       "user": "thcp"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "TitanFlow-Systems"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 684,
       "user": "yaojingang"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 220,
       "user": "ajavadinezhad"
     }
   ],
@@ -840,6 +840,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
       "source": "Dev.to",
       "user": "Vladimir Novick"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -973,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1519,
       "user": "aattaran"
     },
     {
@@ -988,14 +1003,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 631,
       "user": "Kappaemme-git"
     },
     {
-      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "url": "https://github.com/thcp/stemdeck",
       "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
@@ -1003,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 267,
       "user": "thcp"
     },
     {
@@ -1018,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1033,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 197,
       "user": "ircfspace"
     },
     {
@@ -1248,21 +1263,6 @@
       "user": "gilad"
     },
     {
-      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "url": "https://github.com/vibeforge1111/keep-codex-fast",
-      "published_at": "2026-05-02T08:57:24Z",
-      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
-      "source": "GitHub",
-      "stars": 823,
-      "user": "vibeforge1111"
-    },
-    {
       "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
       "url": "https://github.com/XBuilderLAB/cheat-on-content",
       "published_at": "2026-05-05T10:28:33Z",
@@ -1274,8 +1274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 838,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "url": "https://github.com/vibeforge1111/keep-codex-fast",
+      "published_at": "2026-05-02T08:57:24Z",
+      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
+      "source": "GitHub",
+      "stars": 830,
+      "user": "vibeforge1111"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -1289,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 684,
       "user": "yaojingang"
     },
     {
@@ -1319,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 442,
       "user": "virgiliojr94"
     }
   ],
@@ -1367,6 +1382,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1437,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1519,
       "user": "aattaran"
     }
   ],
@@ -1469,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 220,
       "user": "ajavadinezhad"
     }
   ],
@@ -1682,6 +1712,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2003,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1519,
       "user": "aattaran"
     },
     {
@@ -2018,14 +2063,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 631,
       "user": "Kappaemme-git"
     },
     {
-      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "url": "https://github.com/thcp/stemdeck",
       "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
@@ -2033,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 267,
       "user": "thcp"
     },
     {
@@ -2048,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2063,23 +2108,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 197,
       "user": "ircfspace"
-    },
-    {
-      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "url": "https://github.com/vibeforge1111/keep-codex-fast",
-      "published_at": "2026-05-02T08:57:24Z",
-      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
-      "source": "GitHub",
-      "stars": 823,
-      "user": "vibeforge1111"
     },
     {
       "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
@@ -2093,8 +2123,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 838,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "url": "https://github.com/vibeforge1111/keep-codex-fast",
+      "published_at": "2026-05-02T08:57:24Z",
+      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
+      "source": "GitHub",
+      "stars": 830,
+      "user": "vibeforge1111"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -2108,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 684,
       "user": "yaojingang"
     },
     {
@@ -2138,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 442,
       "user": "virgiliojr94"
     },
     {
@@ -2153,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 220,
       "user": "ajavadinezhad"
     },
     {
@@ -2168,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 199,
       "user": "ThisIsDara"
     },
     {
@@ -2183,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 127,
       "user": "gofsnotify"
     },
     {
