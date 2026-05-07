@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 59 (56.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.4 (30.4%)
-JavaScript      ████████████████████████ 23.9 (23.9%)
-Java            █████████████████████ 21.7 (21.7%)
-Python          ████████████████████ 20.7 (20.7%)
+Go              ██████████████████████████████ 30.0 (30.0%)
+JavaScript      ███████████████████████ 23.3 (23.3%)
+Java            ██████████████████████ 22.2 (22.2%)
+Python          █████████████████████ 21.1 (21.1%)
 Rust            ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
@@ -71,8 +71,8 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
-    "JavaScript" : 22
+    "Go" : 27
+    "JavaScript" : 21
     "Java" : 20
     "Python" : 19
     "Rust" : 2
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-07 18:00 CAT)
+## 📅 Latest Updates (2026-05-07 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -199,6 +199,7 @@ npm run test
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 - [I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.](https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok) _[Dev.to]_
 - [[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI](https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi) _[Dev.to]_
+- [How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't](https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8) _[Dev.to]_
 - [Building ADK Agents with Phi Models on Azure Foundry](https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2) _[Dev.to]_
 - [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
 - [MCP Development with Amazon Lambda Managed Instances](https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj) _[Dev.to]_
@@ -212,9 +213,8 @@ npm run test
 - [What Even Is AI? (I Took a Break & Had to Relearn Everything)](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj) _[Dev.to]_
 - [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
-- [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 
-_Last automated update: Thu, 07 May 2026 18:47:04 CAT_
+_Last automated update: Thu, 07 May 2026 20:20:59 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Thu, 07 May 2026 18:47:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. DataStructures: Find the median of two sorted arrays
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 07 May 2026 16:47:04 GMT</b><br/>
+  <b>Last automated update: Thu, 07 May 2026 18:20:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -251,21 +251,6 @@
       "user": "kojix2"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Am I a Developer or Just a Prompt Engineer?",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
       "published_at": "2026-05-05T10:52:28Z",
@@ -279,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -603,21 +603,6 @@
       "user": "Harshil Agrawal"
     },
     {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 325,
       "user": "thcp"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "TitanFlow-Systems"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1062,
       "user": "yaojingang"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 594,
       "user": "lightseekorg"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "ajavadinezhad"
     }
   ],
@@ -915,21 +900,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
       "source": "Dev.to",
       "user": "Harshil Agrawal"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1063,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1567,
       "user": "aattaran"
     },
     {
@@ -1078,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 690,
       "user": "Kappaemme-git"
     },
     {
@@ -1093,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 325,
       "user": "thcp"
     },
     {
@@ -1108,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1334,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1062,
       "user": "yaojingang"
     },
     {
@@ -1349,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 979,
       "user": "XBuilderLAB"
     },
     {
@@ -1364,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 858,
       "user": "vibeforge1111"
     },
     {
@@ -1379,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 594,
       "user": "lightseekorg"
     },
     {
@@ -1527,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1567,
       "user": "aattaran"
     }
   ],
@@ -1559,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "ajavadinezhad"
     }
   ],
@@ -1817,21 +1787,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2153,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1567,
       "user": "aattaran"
     },
     {
@@ -2168,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 690,
       "user": "Kappaemme-git"
     },
     {
@@ -2183,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 325,
       "user": "thcp"
     },
     {
@@ -2198,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2228,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1062,
       "user": "yaojingang"
     },
     {
@@ -2243,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 979,
       "user": "XBuilderLAB"
     },
     {
@@ -2258,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 858,
       "user": "vibeforge1111"
     },
     {
@@ -2273,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 594,
       "user": "lightseekorg"
     },
     {
@@ -2303,7 +2258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "ajavadinezhad"
     },
     {
@@ -2318,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 226,
       "user": "ThisIsDara"
     },
     {
@@ -2333,7 +2288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 151,
       "user": "gofsnotify"
     },
     {
