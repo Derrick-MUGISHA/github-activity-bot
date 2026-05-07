@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 55,
+    "AI": 56,
     "JavaScript": 19,
     "Python": 20,
     "DevOps": 4,
@@ -15,10 +15,10 @@
     "Cloud": 15,
     "Database": 2,
     "Security": 4,
-    "Tools": 30
+    "Tools": 29
   },
   "by_language": {
-    "Go": 27,
+    "Go": 26,
     "Python": 20,
     "Rust": 2,
     "JavaScript": 19,
@@ -91,11 +91,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "30.3",
-    "Python": "22.5",
-    "Rust": "2.2",
-    "JavaScript": "21.3",
-    "Java": "22.5",
+    "Go": "29.5",
+    "Python": "22.7",
+    "Rust": "2.3",
+    "JavaScript": "21.6",
+    "Java": "22.7",
     "Kotlin": "1.1"
   }
 }
