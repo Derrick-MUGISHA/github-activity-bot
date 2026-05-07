@@ -34,11 +34,11 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦 4 (3.8%)
 
 **WebDev**: 🟦 4 (3.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.2 (29.2%)
-Python          ███████████████████████ 22.5 (22.5%)
-JavaScript      ███████████████████████ 22.5 (22.5%)
-Java            ███████████████████████ 22.5 (22.5%)
+Go              ██████████████████████████████ 31.5 (31.5%)
+JavaScript      █████████████████████ 22.5 (22.5%)
+Python          ████████████████████ 21.3 (21.3%)
+Java            ████████████████████ 21.3 (21.3%)
 Rust            ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
@@ -71,10 +71,10 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "Python" : 20
+    "Go" : 28
     "JavaScript" : 20
-    "Java" : 20
+    "Python" : 19
+    "Java" : 19
     "Rust" : 2
     "Kotlin" : 1
 ```
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![aws](https://img.shields.io/badge/aws-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![aws](https://img.shields.io/badge/aws-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-07 14:00 CAT)
+## 📅 Latest Updates (2026-05-07 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png" width="200" alt="I Programmed an AI in 6502 Assembly - It Worked" />
+    <a href="https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png" width="200" alt="I built a 200 line AI router in TypeScript. My monthly bill dropped 41%." />
       <br/>
-      <b>I Programmed an AI in 6502 Assembly - It Worked</b>
+      <b>I built a 200 line AI router in TypeScript. My mon...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png" width="200" alt="AI vs Non-AI: Building the Same Project Twice" />
+    <a href="https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png" width="200" alt="[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI" />
       <br/>
-      <b>AI vs Non-AI: Building the Same Project Twice</b>
+      <b>[GCP Practice][BwAI] AI-Powered Development: Quick...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,24 +197,24 @@ npm run test
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
+- [I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.](https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok) _[Dev.to]_
+- [[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI](https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi) _[Dev.to]_
+- [Building ADK Agents with Phi Models on Azure Foundry](https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2) _[Dev.to]_
 - [I Programmed an AI in 6502 Assembly - It Worked](https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi) _[Dev.to]_
 - [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
+- [MCP Development with Amazon Lambda Managed Instances](https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
-- [AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
-- [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
-- [Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)](https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca) _[Dev.to]_
-- [Not Open Source Not Interested](https://dev.to/geraldew/not-open-source-not-interested-52hf) _[Dev.to]_
-- [MCP Development with Amazon Lightsail Instances](https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp) _[Dev.to]_
+- [Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
 - [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) _[Dev.to]_
-- [Wormhole4j v0.3.0: Supports Multi-threaded Concurrency](https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb) _[Dev.to]_
-- [Terminal as a Dev Environment in the Age of Agents](https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e) _[Dev.to]_
+- [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 - [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6) _[Dev.to]_
-- [Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead](https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136) _[Dev.to]_
-- [A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script](https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f) _[Dev.to]_
+- [What Even Is AI? (I Took a Break & Had to Relearn Everything)](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj) _[Dev.to]_
+- [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
+- [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 
-_Last automated update: Thu, 07 May 2026 14:05:20 CAT_
+_Last automated update: Thu, 07 May 2026 16:49:13 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Thu, 07 May 2026 14:05:20 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Mutability, performance, use cases
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 07 May 2026 12:05:20 GMT</b><br/>
+  <b>Last automated update: Thu, 07 May 2026 14:49:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
