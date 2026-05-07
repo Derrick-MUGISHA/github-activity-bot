@@ -64,25 +64,15 @@
       "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
       "published_at": "2026-05-07T19:41:53Z",
       "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
-      "tags": [],
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "security"
+      ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
       "source": "Dev.to",
       "user": "Kim Maida"
-    },
-    {
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "published_at": "2026-05-06T17:33:24Z",
-      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
-      "source": "Dev.to",
-      "user": "Fernando Fornieles"
     },
     {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
@@ -249,6 +239,21 @@
       "user": "Harsh "
     },
     {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "published_at": "2026-05-06T17:33:24Z",
+      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
+      "source": "Dev.to",
+      "user": "Fernando Fornieles"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -262,6 +267,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -332,6 +352,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
@@ -466,21 +501,6 @@
       "user": "Maish Saidel-Keesing"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
-      "published_at": "2026-05-03T02:02:47Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "googleadk",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -494,6 +514,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
@@ -539,36 +574,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -714,23 +719,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "thcp"
-    },
-    {
-      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
-      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
-      "published_at": "2026-05-05T20:40:48Z",
-      "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
-      "source": "GitHub",
-      "stars": 235,
-      "user": "TitanFlow-Systems"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -744,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1074,
       "user": "yaojingang"
     },
     {
@@ -759,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 615,
       "user": "lightseekorg"
     },
     {
@@ -789,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "ajavadinezhad"
     }
   ],
@@ -853,21 +843,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
       "source": "Dev.to",
       "user": "Vladimir Novick"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1001,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1574,
+      "stars": 1576,
       "user": "aattaran"
     },
     {
@@ -1016,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 699,
       "user": "Kappaemme-git"
     },
     {
@@ -1031,14 +1006,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "thcp"
     },
     {
-      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
       "published_at": "2026-05-05T20:40:48Z",
-      "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "tags": [
         "javascript",
         "github",
@@ -1061,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "ircfspace"
     },
     {
@@ -1272,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1074,
       "user": "yaojingang"
     },
     {
@@ -1287,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 992,
       "user": "XBuilderLAB"
     },
     {
@@ -1302,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 863,
       "user": "vibeforge1111"
     },
     {
@@ -1317,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 615,
       "user": "lightseekorg"
     },
     {
@@ -1380,21 +1355,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1465,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1574,
+      "stars": 1576,
       "user": "aattaran"
     }
   ],
@@ -1497,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "ajavadinezhad"
     }
   ],
@@ -1637,6 +1597,21 @@
       "user": "Vicente G. Reyes"
     },
     {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "MCP Development with Amazon Lightsail Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
       "published_at": "2026-05-05T19:36:06Z",
@@ -1741,21 +1716,6 @@
       "user": "xbill"
     },
     {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -1800,6 +1760,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
+      "published_at": "2026-05-07T19:41:53Z",
+      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
+    },
     {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
       "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
@@ -1931,6 +1906,21 @@
       "user": "Ruairí O'Brien"
     },
     {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
+    },
+    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
       "published_at": "2026-05-02T08:22:42Z",
@@ -2060,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1574,
+      "stars": 1576,
       "user": "aattaran"
     },
     {
@@ -2075,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 699,
       "user": "Kappaemme-git"
     },
     {
@@ -2090,14 +2080,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "thcp"
     },
     {
-      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
       "published_at": "2026-05-05T20:40:48Z",
-      "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "tags": [
         "javascript",
         "github",
@@ -2120,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "ircfspace"
     },
     {
@@ -2135,7 +2125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1070,
+      "stars": 1074,
       "user": "yaojingang"
     },
     {
@@ -2150,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 992,
       "user": "XBuilderLAB"
     },
     {
@@ -2165,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 863,
       "user": "vibeforge1111"
     },
     {
@@ -2180,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 615,
       "user": "lightseekorg"
     },
     {
@@ -2199,21 +2189,6 @@
       "user": "Tommy-yw"
     },
     {
-      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
-      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "ajavadinezhad"
-    },
-    {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
       "url": "https://github.com/ThisIsDara/mhr-cfw-go",
       "published_at": "2026-05-04T04:24:15Z",
@@ -2225,8 +2200,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 245,
       "user": "ThisIsDara"
+    },
+    {
+      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "url": "https://github.com/ajavadinezhad/zyrln",
+      "published_at": "2026-05-04T17:25:03Z",
+      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
+      "source": "GitHub",
+      "stars": 243,
+      "user": "ajavadinezhad"
     },
     {
       "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
