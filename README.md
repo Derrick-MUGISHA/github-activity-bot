@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 57 (54.3%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
@@ -123,22 +123,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-07 9:00 CAT)
+## 📅 Latest Updates (2026-05-07 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
-      <br/>
-      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png" width="200" alt="Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!" />
@@ -157,13 +148,22 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png" width="200" alt="Build Your Own AI Butler - A Scheduled Agent That Runs Itself!" />
       <br/>
       <b>Build Your Own AI Butler - A Scheduled Agent That ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
+      <br/>
+      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -193,16 +193,15 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 - [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
+- [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [I Programmed an AI in 6502 Assembly - It Worked](https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
 - [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
 - [AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
 - [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
-- [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6) _[Dev.to]_
 - [Am I a Developer or Just a Prompt Engineer?](https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece) _[Dev.to]_
 - [Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)](https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca) _[Dev.to]_
 - [Not Open Source Not Interested](https://dev.to/geraldew/not-open-source-not-interested-52hf) _[Dev.to]_
@@ -211,10 +210,11 @@ npm run test
 - [Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) _[Dev.to]_
 - [Wormhole4j v0.3.0: Supports Multi-threaded Concurrency](https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb) _[Dev.to]_
 - [Terminal as a Dev Environment in the Age of Agents](https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e) _[Dev.to]_
+- [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6) _[Dev.to]_
 - [Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead](https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136) _[Dev.to]_
 
-_Last automated update: Thu, 07 May 2026 09:40:41 CAT_
+_Last automated update: Thu, 07 May 2026 12:08:12 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Thu, 07 May 2026 09:40:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 07 May 2026 07:40:41 GMT</b><br/>
+  <b>Last automated update: Thu, 07 May 2026 10:08:12 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

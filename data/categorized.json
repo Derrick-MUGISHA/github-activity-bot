@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
-      "published_at": "2026-05-06T06:28:42Z",
-      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "tags": [
-        "career",
-        "learning",
-        "development",
-        "workplace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
-    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -58,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+      "published_at": "2026-05-06T06:28:42Z",
+      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "tags": [
+        "career",
+        "learning",
+        "development",
+        "workplace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "I Programmed an AI in 6502 Assembly - It Worked",
@@ -118,20 +118,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
       "source": "Dev.to",
       "user": "Falcon"
-    },
-    {
-      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
-      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
-      "published_at": "2026-05-06T15:24:34Z",
-      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
-      "tags": [
-        "ai",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
@@ -207,6 +193,20 @@
       "user": "Jon Fir"
     },
     {
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
+      "published_at": "2026-05-06T15:24:34Z",
+      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
+      "tags": [
+        "ai",
+        "discuss",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
       "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
       "published_at": "2026-05-06T03:54:40Z",
@@ -236,6 +236,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "There will still be art in software",
       "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
       "published_at": "2026-05-05T21:47:47Z",
@@ -261,21 +276,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
       "source": "Dev.to",
       "user": "leslysandra"
-    },
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 288,
       "user": "thcp"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 216,
       "user": "TitanFlow-Systems"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 773,
       "user": "yaojingang"
     },
     {
@@ -780,6 +780,21 @@
       "user": "Tommy-yw"
     },
     {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "lightseekorg"
+    },
+    {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "url": "https://github.com/ajavadinezhad/zyrln",
       "published_at": "2026-05-04T17:25:03Z",
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 228,
       "user": "ajavadinezhad"
     }
   ],
@@ -988,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1519,
+      "stars": 1526,
       "user": "aattaran"
     },
     {
@@ -1003,7 +1018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 645,
       "user": "Kappaemme-git"
     },
     {
@@ -1018,7 +1033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 288,
       "user": "thcp"
     },
     {
@@ -1033,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 216,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1048,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "ircfspace"
     },
     {
@@ -1274,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 867,
       "user": "XBuilderLAB"
     },
     {
@@ -1289,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 839,
       "user": "vibeforge1111"
     },
     {
@@ -1304,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 773,
       "user": "yaojingang"
     },
     {
@@ -1323,19 +1338,19 @@
       "user": "Tommy-yw"
     },
     {
-      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "published_at": "2026-05-01T02:09:39Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 442,
-      "user": "virgiliojr94"
+      "stars": 500,
+      "user": "lightseekorg"
     }
   ],
   "DevOps": [
@@ -1467,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1519,
+      "stars": 1526,
       "user": "aattaran"
     }
   ],
@@ -1499,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 228,
       "user": "ajavadinezhad"
     }
   ],
@@ -1580,20 +1595,6 @@
       "user": "Tomasz Flis"
     },
     {
-      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
-      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
-      "published_at": "2026-05-05T17:32:00Z",
-      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
-      "tags": [
-        "googlecloudnext",
-        "agenticai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
       "published_at": "2026-05-05T18:38:06Z",
@@ -1607,6 +1608,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
+      "url": "https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3",
+      "published_at": "2026-05-05T17:32:00Z",
+      "description": "The era of \"chatting with an LLM\" is officially legacy.  I've attended the Google Cloud Next ‘26...",
+      "tags": [
+        "googlecloudnext",
+        "agenticai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -2048,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1519,
+      "stars": 1526,
       "user": "aattaran"
     },
     {
@@ -2063,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 645,
       "user": "Kappaemme-git"
     },
     {
@@ -2078,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 288,
       "user": "thcp"
     },
     {
@@ -2093,7 +2108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 216,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2108,7 +2123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 205,
       "user": "ircfspace"
     },
     {
@@ -2123,7 +2138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 867,
       "user": "XBuilderLAB"
     },
     {
@@ -2138,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 839,
       "user": "vibeforge1111"
     },
     {
@@ -2153,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 773,
       "user": "yaojingang"
     },
     {
@@ -2172,19 +2187,19 @@
       "user": "Tommy-yw"
     },
     {
-      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "published_at": "2026-05-01T02:09:39Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 442,
-      "user": "virgiliojr94"
+      "stars": 500,
+      "user": "lightseekorg"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -2198,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 228,
       "user": "ajavadinezhad"
     },
     {
@@ -2213,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 206,
       "user": "ThisIsDara"
     },
     {
@@ -2228,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 136,
       "user": "gofsnotify"
     },
     {
