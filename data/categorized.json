@@ -60,21 +60,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
       "published_at": "2026-05-07T21:00:10Z",
@@ -86,21 +71,6 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
-      "published_at": "2026-05-07T21:01:06Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -150,6 +120,21 @@
       "user": "Kim Maida"
     },
     {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
+      "published_at": "2026-05-07T21:01:06Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
       "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
       "published_at": "2026-05-07T03:34:05Z",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "published_at": "2026-05-07T04:36:40Z",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -314,6 +314,36 @@
       "user": "Harsh "
     },
     {
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "published_at": "2026-05-06T17:33:24Z",
+      "description": "When I was implementing my weather station system, I asked myself: what if I built it again but this...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "discuss",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
+      "source": "Dev.to",
+      "user": "Fernando Fornieles"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -385,20 +415,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
-      "published_at": "2026-05-06T03:54:40Z",
-      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
-      "tags": [
-        "ai",
-        "programming",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
       "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
       "published_at": "2026-05-05T18:38:06Z",
@@ -412,6 +428,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
+      "published_at": "2026-05-06T03:54:40Z",
+      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
+      "tags": [
+        "ai",
+        "programming",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
@@ -561,66 +591,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
-      "published_at": "2026-05-03T02:02:47Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "googleadk",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "published_at": "2026-05-04T16:52:20Z",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
-      "tags": [
-        "ai",
-        "vr",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
-      "source": "Dev.to",
-      "user": "Jeongho Nam"
-    },
-    {
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
-      "published_at": "2026-05-04T02:20:36Z",
-      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
-      "tags": [
-        "ai",
-        "mobile",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -764,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "thcp"
     },
     {
@@ -779,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1089,
       "user": "yaojingang"
     },
     {
@@ -794,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 631,
       "user": "lightseekorg"
     },
     {
@@ -824,8 +794,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "ajavadinezhad"
+    },
+    {
+      "title": "denuitt1/mhr-cfw-go - Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw-go",
+      "published_at": "2026-05-01T15:46:05Z",
+      "description": "Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "denuitt1"
     }
   ],
   "JavaScript": [
@@ -1021,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1582,
+      "stars": 1587,
       "user": "aattaran"
     },
     {
@@ -1036,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "Kappaemme-git"
     },
     {
@@ -1051,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "thcp"
     },
     {
@@ -1066,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1322,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1089,
       "user": "yaojingang"
     },
     {
@@ -1337,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 996,
       "user": "XBuilderLAB"
     },
     {
@@ -1352,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 867,
       "user": "vibeforge1111"
     },
     {
@@ -1367,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 631,
       "user": "lightseekorg"
     },
     {
@@ -1515,26 +1500,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1582,
+      "stars": 1587,
       "user": "aattaran"
     }
   ],
   "Mobile": [
-    {
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "url": "https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda",
-      "published_at": "2026-05-04T02:20:36Z",
-      "description": "I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....",
-      "tags": [
-        "ai",
-        "mobile",
-        "showdev",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
-      "source": "Dev.to",
-      "user": "Juan David Gómez"
-    },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "url": "https://github.com/ajavadinezhad/zyrln",
@@ -1547,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "ajavadinezhad"
     }
   ],
@@ -1567,21 +1537,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
       "published_at": "2026-05-07T21:00:10Z",
@@ -1593,21 +1548,6 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
-      "published_at": "2026-05-07T21:01:06Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -1655,6 +1595,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
+      "published_at": "2026-05-07T21:01:06Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "published_at": "2026-05-07T04:36:40Z",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -1717,19 +1687,19 @@
       "user": "Erik Hanchett"
     },
     {
-      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
-      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
-      "published_at": "2026-05-06T05:53:26Z",
-      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
       "tags": [
-        "linux",
-        "automation",
-        "vpn",
-        "networking"
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
-      "user": "Vicente G. Reyes"
+      "user": "xbill"
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
@@ -1745,6 +1715,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
+      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
+      "published_at": "2026-05-06T05:53:26Z",
+      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
+      "tags": [
+        "linux",
+        "automation",
+        "vpn",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
+      "source": "Dev.to",
+      "user": "Vicente G. Reyes"
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -1821,36 +1806,6 @@
       "user": "Maish Saidel-Keesing"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
-      "published_at": "2026-05-03T02:02:47Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "googleadk",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -1864,6 +1819,21 @@
       "source": "GitHub",
       "stars": 105,
       "user": "marchinthesun"
+    },
+    {
+      "title": "denuitt1/mhr-cfw-go - Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw-go",
+      "published_at": "2026-05-01T15:46:05Z",
+      "description": "Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "denuitt1"
     }
   ],
   "Database": [
@@ -1970,21 +1940,6 @@
   ],
   "Tools": [
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
       "published_at": "2026-05-07T21:03:03Z",
@@ -1998,6 +1953,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "published_at": "2026-05-07T04:36:40Z",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "I Programmed an AI in 6502 Assembly - It Worked",
@@ -2042,6 +2012,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Copilot Squad",
+      "url": "https://dev.to/ruarfff/copilot-squad-4nda",
+      "published_at": "2026-05-05T14:49:33Z",
+      "description": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
+      "tags": [
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
+      "source": "Dev.to",
+      "user": "Ruairí O'Brien"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -2162,21 +2144,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
-      "url": "https://dev.to/samchon/vr-coding-for-the-ai-coding-era-watching-5-ai-agents-at-once-53gj",
-      "published_at": "2026-05-04T16:52:20Z",
-      "description": "TL;DR     AI coding creates dead time. While one agent is thinking, building, or testing,...",
-      "tags": [
-        "ai",
-        "vr",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F73d15kxao466s3b9obdy.png",
-      "source": "Dev.to",
-      "user": "Jeongho Nam"
-    },
-    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -2188,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1582,
+      "stars": 1587,
       "user": "aattaran"
     },
     {
@@ -2203,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "Kappaemme-git"
     },
     {
@@ -2218,7 +2185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "thcp"
     },
     {
@@ -2233,7 +2200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2263,7 +2230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1089,
       "user": "yaojingang"
     },
     {
@@ -2278,7 +2245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 996,
       "user": "XBuilderLAB"
     },
     {
@@ -2293,7 +2260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 867,
       "user": "vibeforge1111"
     },
     {
@@ -2308,7 +2275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 631,
       "user": "lightseekorg"
     },
     {
@@ -2338,7 +2305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 253,
       "user": "ThisIsDara"
     },
     {
@@ -2353,7 +2320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "ajavadinezhad"
     },
     {
@@ -2387,19 +2354,19 @@
       "user": "marchinthesun"
     },
     {
-      "title": "watany-dev/gitreal - GitHub Repository",
-      "url": "https://github.com/watany-dev/gitreal",
-      "published_at": "2026-05-01T01:58:08Z",
-      "description": "Trending GitHub Repository",
+      "title": "denuitt1/mhr-cfw-go - Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "url": "https://github.com/denuitt1/mhr-cfw-go",
+      "published_at": "2026-05-01T15:46:05Z",
+      "description": "Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
       "source": "GitHub",
-      "stars": 77,
-      "user": "watany-dev"
+      "stars": 78,
+      "user": "denuitt1"
     }
   ]
 }
