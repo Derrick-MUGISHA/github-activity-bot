@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 58 (55.2%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 56 (53.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![aws](https://img.shields.io/badge/aws-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![aws](https://img.shields.io/badge/aws-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-07 20:00 CAT)
+## 📅 Latest Updates (2026-05-07 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,19 +140,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
+    <a href="https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg" width="200" alt="Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!" />
       <br/>
-      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
+      <b>Congrats to the Google Cloud NEXT '26 Writing Chal...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png" width="200" alt="Build Your Own AI Butler - A Scheduled Agent That Runs Itself!" />
+    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
       <br/>
-      <b>Build Your Own AI Butler - A Scheduled Agent That ...</b>
+      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png" width="200" alt="I built a 200 line AI router in TypeScript. My monthly bill dropped 41%." />
+    <a href="https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png" width="200" alt="[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI" />
       <br/>
-      <b>I built a 200 line AI router in TypeScript. My mon...</b>
+      <b>[GCP Practice][BwAI] AI-Powered Development: Quick...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png" width="200" alt="[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI" />
+    <a href="https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77yhl48m8md1gkrm9buw.jpg" width="200" alt="How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't" />
       <br/>
-      <b>[GCP Practice][BwAI] AI-Powered Development: Quick...</b>
+      <b>How a Hackathon Will Teach a New Developer What a ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,27 +194,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
+- [Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
-- [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
-- [I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.](https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok) _[Dev.to]_
 - [[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI](https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi) _[Dev.to]_
 - [How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't](https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8) _[Dev.to]_
 - [Building ADK Agents with Phi Models on Azure Foundry](https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2) _[Dev.to]_
+- [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo) _[Dev.to]_
+- [How to Authorize AI Agents Using Token Exchange Open Standards](https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d) _[Dev.to]_
 - [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
+- [I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.](https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok) _[Dev.to]_
 - [MCP Development with Amazon Lambda Managed Instances](https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
 - [Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
 - [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) _[Dev.to]_
+- [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
 - [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 - [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1136) _[Dev.to]_
-- [What Even Is AI? (I Took a Break & Had to Relearn Everything)](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj) _[Dev.to]_
-- [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
-- [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 
-_Last automated update: Thu, 07 May 2026 20:20:59 CAT_
+_Last automated update: Thu, 07 May 2026 21:58:30 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Thu, 07 May 2026 20:20:59 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design Twitter's timeline feature
+### 1. React: Implement a custom hook for fetching data
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 07 May 2026 18:20:59 GMT</b><br/>
+  <b>Last automated update: Thu, 07 May 2026 19:58:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
