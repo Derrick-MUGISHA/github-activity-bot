@@ -30,21 +30,6 @@
       "user": "Aryan Choudhary"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -58,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
-      "published_at": "2026-05-07T03:34:05Z",
-      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "tags": [
-        "typescript",
-        "ai",
-        "webdev",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
     },
     {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
@@ -90,6 +60,16 @@
       "user": "Evan Lin"
     },
     {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
+      "published_at": "2026-05-07T19:41:53Z",
+      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
+    },
+    {
       "title": "AI vs Non-AI: Building the Same Project Twice",
       "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
       "published_at": "2026-05-06T17:33:24Z",
@@ -103,6 +83,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
       "source": "Dev.to",
       "user": "Fernando Fornieles"
+    },
+    {
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
+      "published_at": "2026-05-07T03:34:05Z",
+      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "tags": [
+        "typescript",
+        "ai",
+        "webdev",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -165,6 +160,21 @@
       "user": "Tomasz Flis"
     },
     {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "tags": [
+        "aws",
+        "ai",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
+    },
+    {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
       "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
       "published_at": "2026-05-06T16:51:32Z",
@@ -194,21 +204,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "I Programmed an AI in 6502 Assembly - It Worked",
       "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
       "published_at": "2026-05-06T12:21:00Z",
@@ -221,7 +216,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
-      "user": "paul newell"
+      "user": "Paul Newell"
     },
     {
       "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
@@ -237,18 +232,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs6htya9n5at2pgbl5xgu.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
-    },
-    {
-      "title": "Porting Libraries to Crystal with AI",
-      "url": "https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl",
-      "published_at": "2026-05-02T06:40:43Z",
-      "description": "This post was originally written in Japanese and translated into English by the author using ChatGPT....",
-      "tags": [
-        "crystal"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa9aldf1dpsxw2hx6tg3.png",
-      "source": "Dev.to",
-      "user": "kojix2"
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
@@ -279,21 +262,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -746,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 334,
       "user": "thcp"
     },
     {
@@ -761,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "TitanFlow-Systems"
     },
     {
@@ -776,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1070,
       "user": "yaojingang"
     },
     {
@@ -791,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 611,
       "user": "lightseekorg"
     },
     {
@@ -821,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "ajavadinezhad"
     }
   ],
@@ -1033,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1567,
+      "stars": 1574,
       "user": "aattaran"
     },
     {
@@ -1048,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 694,
       "user": "Kappaemme-git"
     },
     {
@@ -1063,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 334,
       "user": "thcp"
     },
     {
@@ -1078,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1304,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1070,
       "user": "yaojingang"
     },
     {
@@ -1319,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 989,
       "user": "XBuilderLAB"
     },
     {
@@ -1334,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 862,
       "user": "vibeforge1111"
     },
     {
@@ -1349,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 611,
       "user": "lightseekorg"
     },
     {
@@ -1497,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1567,
+      "stars": 1574,
       "user": "aattaran"
     }
   ],
@@ -1529,25 +1497,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990",
+      "published_at": "2026-05-07T18:48:04Z",
+      "description": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
       "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
       "source": "Dev.to",
-      "user": "Erik Hanchett"
+      "user": "Jess Lee"
     },
     {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
@@ -1625,19 +1592,19 @@
       "user": "Tomasz Flis"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
       "tags": [
-        "ai",
-        "beginners",
         "aws",
-        "learning"
+        "ai",
+        "agents",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Erik Hanchett"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -1908,20 +1875,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
       "title": "I Programmed an AI in 6502 Assembly - It Worked",
       "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
       "published_at": "2026-05-06T12:21:00Z",
@@ -1934,7 +1887,21 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
-      "user": "paul newell"
+      "user": "Paul Newell"
+    },
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
     },
     {
       "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
@@ -1962,21 +1929,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
       "source": "Dev.to",
       "user": "Ruairí O'Brien"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
@@ -2108,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1567,
+      "stars": 1574,
       "user": "aattaran"
     },
     {
@@ -2123,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 694,
       "user": "Kappaemme-git"
     },
     {
@@ -2138,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 334,
       "user": "thcp"
     },
     {
@@ -2153,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2183,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1070,
       "user": "yaojingang"
     },
     {
@@ -2198,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 989,
       "user": "XBuilderLAB"
     },
     {
@@ -2213,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 862,
       "user": "vibeforge1111"
     },
     {
@@ -2228,7 +2180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 611,
       "user": "lightseekorg"
     },
     {
@@ -2258,7 +2210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "ajavadinezhad"
     },
     {
@@ -2273,7 +2225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 240,
       "user": "ThisIsDara"
     },
     {
