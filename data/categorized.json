@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -43,21 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
-      "published_at": "2026-05-06T12:21:00Z",
-      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
-      "source": "Dev.to",
-      "user": "paul newell"
     },
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
@@ -90,31 +60,34 @@
       "user": "Fernando Fornieles"
     },
     {
-      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
-      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
-      "published_at": "2026-05-06T15:24:34Z",
-      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
       "tags": [
+        "aws",
         "ai",
-        "discuss",
-        "llm"
+        "agents",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
-      "user": "Jonathan Murray"
+      "user": "Erik Hanchett"
     },
     {
-      "title": "Terminal as a Dev Environment in the Age of Agents",
-      "url": "https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e",
-      "published_at": "2026-05-06T12:14:35Z",
-      "description": "When the IDE Stopped Being the Center of Development   At some point, I realized something...",
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
+      "published_at": "2026-05-06T12:21:00Z",
+      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
       "tags": [
         "ai",
-        "terminal"
+        "webdev",
+        "programming",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fay353mvmqa5mkudh5vk2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
-      "user": "Jon Fir"
+      "user": "paul newell"
     },
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
@@ -147,19 +120,18 @@
       "user": "Falcon"
     },
     {
-      "title": "MCP Development with Amazon Lightsail Instances",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
-      "published_at": "2026-05-05T19:36:06Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
+      "published_at": "2026-05-06T15:24:34Z",
+      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
       "tags": [
-        "python",
-        "mcpserver",
-        "aws",
-        "gemini"
+        "ai",
+        "discuss",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Jonathan Murray"
     },
     {
       "title": "Am I a Developer or Just a Prompt Engineer?",
@@ -175,6 +147,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "MCP Development with Amazon Lightsail Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
+      "published_at": "2026-05-05T19:36:06Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "python",
+        "mcpserver",
+        "aws",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
@@ -207,6 +194,19 @@
       "user": "Tomasz Flis"
     },
     {
+      "title": "Terminal as a Dev Environment in the Age of Agents",
+      "url": "https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e",
+      "published_at": "2026-05-06T12:14:35Z",
+      "description": "When the IDE Stopped Being the Center of Development   At some point, I realized something...",
+      "tags": [
+        "ai",
+        "terminal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fay353mvmqa5mkudh5vk2.png",
+      "source": "Dev.to",
+      "user": "Jon Fir"
+    },
+    {
       "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
       "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
       "published_at": "2026-05-06T03:54:40Z",
@@ -224,7 +224,7 @@
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
       "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
       "published_at": "2026-05-06T03:04:25Z",
-      "description": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
+      "description": "Motivation for Writing   As an active researcher and developer in the AI ecosystem, I have...",
       "tags": [
         "ai",
         "agents",
@@ -453,6 +453,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
       "title": "BWAI'2026 @ VTU, Belagavi",
       "url": "https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n",
       "published_at": "2026-05-03T15:31:54Z",
@@ -496,21 +511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlz9d9irom7907per6h3.png",
       "source": "Dev.to",
       "user": "Francesco Sardone"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "published_at": "2026-05-02T19:30:01Z",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
     },
     {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
@@ -720,6 +720,21 @@
       "user": "veesahni"
     },
     {
+      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "url": "https://github.com/thcp/stemdeck",
+      "published_at": "2026-05-03T10:51:20Z",
+      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
+      "source": "GitHub",
+      "stars": 227,
+      "user": "thcp"
+    },
+    {
       "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
       "published_at": "2026-05-05T20:40:48Z",
@@ -731,23 +746,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 197,
       "user": "TitanFlow-Systems"
     },
     {
-      "title": "432539/plus_gopay_gptp-plus - plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
-      "url": "https://github.com/432539/plus_gopay_gptp-plus",
-      "published_at": "2026-05-06T06:46:42Z",
-      "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "published_at": "2026-05-06T13:04:20Z",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 173,
-      "user": "432539"
+      "stars": 567,
+      "user": "yaojingang"
     },
     {
       "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "ajavadinezhad"
     }
   ],
@@ -958,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1505,
       "user": "aattaran"
     },
     {
@@ -973,23 +988,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 606,
       "user": "Kappaemme-git"
     },
     {
-      "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
-      "url": "https://github.com/ircfspace/teleMirror",
-      "published_at": "2026-05-03T07:19:00Z",
-      "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "url": "https://github.com/thcp/stemdeck",
+      "published_at": "2026-05-03T10:51:20Z",
+      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 185,
-      "user": "ircfspace"
+      "stars": 227,
+      "user": "thcp"
     },
     {
       "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
@@ -1003,23 +1018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 197,
       "user": "TitanFlow-Systems"
     },
     {
-      "title": "432539/plus_gopay_gptp-plus - plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
-      "url": "https://github.com/432539/plus_gopay_gptp-plus",
-      "published_at": "2026-05-06T06:46:42Z",
-      "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+      "url": "https://github.com/ircfspace/teleMirror",
+      "published_at": "2026-05-03T07:19:00Z",
+      "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 173,
-      "user": "432539"
+      "stars": 189,
+      "user": "ircfspace"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1244,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 823,
       "user": "vibeforge1111"
     },
     {
@@ -1259,8 +1274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 812,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "published_at": "2026-05-06T13:04:20Z",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "yaojingang"
     },
     {
       "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
@@ -1289,23 +1319,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 430,
       "user": "virgiliojr94"
-    },
-    {
-      "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
-      "url": "https://github.com/LayrKits/Sprite-Pipeline",
-      "published_at": "2026-05-03T18:19:20Z",
-      "description": "2D Sprite Sheet Creation Pipeline",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
-      "source": "GitHub",
-      "stars": 413,
-      "user": "LayrKits"
     }
   ],
   "DevOps": [
@@ -1422,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1505,
       "user": "aattaran"
     }
   ],
@@ -1454,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "ajavadinezhad"
     }
   ],
@@ -1788,21 +1803,6 @@
       "user": "paul newell"
     },
     {
-      "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
-      "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
-      "published_at": "2026-05-06T03:04:25Z",
-      "description": "Motivation for Writing   As an active user of AI development tools, I have seamlessly...",
-      "tags": [
-        "ai",
-        "agents",
-        "gemini",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgtkkxue1gl5ymo0nh0t.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "There will still be art in software",
       "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
       "published_at": "2026-05-05T21:47:47Z",
@@ -1814,21 +1814,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
       "source": "Dev.to",
       "user": "Josiah Nunemaker"
-    },
-    {
-      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
-      "published_at": "2026-05-05T17:43:58Z",
-      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
-      "tags": [
-        "api",
-        "gemini",
-        "rag",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
     },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
@@ -1917,6 +1902,21 @@
       "user": "Michael Larson"
     },
     {
+      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
+      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
+      "published_at": "2026-05-05T17:43:58Z",
+      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
+      "tags": [
+        "api",
+        "gemini",
+        "rag",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -1932,21 +1932,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlz9d9irom7907per6h3.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -1960,6 +1945,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Turning Repository Knowledge Into Usable Agent Context",
+      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
+      "published_at": "2026-05-03T11:08:59Z",
+      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlz9d9irom7907per6h3.png",
+      "source": "Dev.to",
+      "user": "Francesco Sardone"
     },
     {
       "title": "Agent-as-a-Tool: A New Era of AI Orchestration",
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1505,
       "user": "aattaran"
     },
     {
@@ -2018,23 +2018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 606,
       "user": "Kappaemme-git"
     },
     {
-      "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
-      "url": "https://github.com/ircfspace/teleMirror",
-      "published_at": "2026-05-03T07:19:00Z",
-      "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "url": "https://github.com/thcp/stemdeck",
+      "published_at": "2026-05-03T10:51:20Z",
+      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, and instruments for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 185,
-      "user": "ircfspace"
+      "stars": 227,
+      "user": "thcp"
     },
     {
       "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
@@ -2048,23 +2048,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 197,
       "user": "TitanFlow-Systems"
     },
     {
-      "title": "432539/plus_gopay_gptp-plus - plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
-      "url": "https://github.com/432539/plus_gopay_gptp-plus",
-      "published_at": "2026-05-06T06:46:42Z",
-      "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+      "url": "https://github.com/ircfspace/teleMirror",
+      "published_at": "2026-05-03T07:19:00Z",
+      "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 173,
-      "user": "432539"
+      "stars": 189,
+      "user": "ircfspace"
     },
     {
       "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
@@ -2078,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 823,
       "user": "vibeforge1111"
     },
     {
@@ -2093,8 +2093,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 812,
       "user": "XBuilderLAB"
+    },
+    {
+      "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "published_at": "2026-05-06T13:04:20Z",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "yaojingang"
     },
     {
       "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
@@ -2123,23 +2138,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 430,
       "user": "virgiliojr94"
-    },
-    {
-      "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
-      "url": "https://github.com/LayrKits/Sprite-Pipeline",
-      "published_at": "2026-05-03T18:19:20Z",
-      "description": "2D Sprite Sheet Creation Pipeline",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
-      "source": "GitHub",
-      "stars": 413,
-      "user": "LayrKits"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -2153,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "ajavadinezhad"
     },
     {
@@ -2168,8 +2168,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 194,
       "user": "ThisIsDara"
+    },
+    {
+      "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
+      "url": "https://github.com/gofsnotify/fsnotify",
+      "published_at": "2026-05-06T08:16:29Z",
+      "description": "Cross-platform file system notifications for Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "gofsnotify"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -2185,21 +2200,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "marchinthesun"
-    },
-    {
-      "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
-      "url": "https://github.com/gofsnotify/fsnotify",
-      "published_at": "2026-05-06T08:16:29Z",
-      "description": "Cross-platform file system notifications for Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
-      "source": "GitHub",
-      "stars": 91,
-      "user": "gofsnotify"
     },
     {
       "title": "watany-dev/gitreal - GitHub Repository",
