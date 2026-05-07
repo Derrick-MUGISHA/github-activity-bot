@@ -90,21 +90,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
-      "published_at": "2026-05-06T12:21:00Z",
-      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
-      "source": "Dev.to",
-      "user": "paul newell"
-    },
-    {
       "title": "AI vs Non-AI: Building the Same Project Twice",
       "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
       "published_at": "2026-05-06T17:33:24Z",
@@ -224,6 +209,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
+      "published_at": "2026-05-06T12:21:00Z",
+      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
+      "source": "Dev.to",
+      "user": "paul newell"
+    },
+    {
       "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
       "url": "https://dev.to/gde/top-javascripttypescript-gen-ai-frameworks-for-2026-a-hands-on-comparisondescription-1g7",
       "published_at": "2026-05-05T02:58:12Z",
@@ -281,21 +281,6 @@
       "user": "Harsh "
     },
     {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "published_at": "2026-05-05T13:25:34Z",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "tags": [
-        "ai",
-        "cloud",
-        "aws",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
-      "source": "Dev.to",
-      "user": "Maish Saidel-Keesing"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -322,21 +307,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
-      "published_at": "2026-05-05T04:53:55Z",
-      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
     },
     {
       "title": "Terminal as a Dev Environment in the Age of Agents",
@@ -513,6 +483,21 @@
       "user": "Francesco Sardone"
     },
     {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -524,21 +509,6 @@
         "a2aprotocol"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -556,6 +526,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once",
@@ -586,6 +571,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F30pj734ae0e5538sve68.png",
       "source": "Dev.to",
       "user": "Juan David Gómez"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -731,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 321,
       "user": "thcp"
     },
     {
@@ -746,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "TitanFlow-Systems"
     },
     {
@@ -761,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 1044,
       "user": "yaojingang"
     },
     {
@@ -776,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 581,
       "user": "lightseekorg"
     },
     {
@@ -791,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "Tommy-yw"
     },
     {
@@ -806,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 238,
       "user": "ajavadinezhad"
     }
   ],
@@ -870,6 +900,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
       "source": "Dev.to",
       "user": "Vladimir Novick"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1003,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1553,
+      "stars": 1562,
       "user": "aattaran"
     },
     {
@@ -1018,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 689,
       "user": "Kappaemme-git"
     },
     {
@@ -1033,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 321,
       "user": "thcp"
     },
     {
@@ -1048,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1063,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "ircfspace"
     },
     {
@@ -1274,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 1044,
       "user": "yaojingang"
     },
     {
@@ -1289,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 968,
       "user": "XBuilderLAB"
     },
     {
@@ -1304,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 854,
       "user": "vibeforge1111"
     },
     {
@@ -1319,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 581,
       "user": "lightseekorg"
     },
     {
@@ -1334,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "Tommy-yw"
     }
   ],
@@ -1382,6 +1442,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1452,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1553,
+      "stars": 1562,
       "user": "aattaran"
     }
   ],
@@ -1484,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 238,
       "user": "ajavadinezhad"
     }
   ],
@@ -1610,36 +1685,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Next Casualty of the GenAI Revolution",
-      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
-      "published_at": "2026-05-05T13:25:34Z",
-      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
-      "tags": [
-        "ai",
-        "cloud",
-        "aws",
-        "genai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
-      "source": "Dev.to",
-      "user": "Maish Saidel-Keesing"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
-      "published_at": "2026-05-05T04:53:55Z",
-      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
-    {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
       "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
       "published_at": "2026-05-06T05:53:26Z",
@@ -1714,6 +1759,21 @@
       "user": "Piyush Annigeri"
     },
     {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -1742,6 +1802,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1863,6 +1953,20 @@
       "user": "Evan Lin"
     },
     {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
+    {
       "title": "I Programmed an AI in 6502 Assembly - It Worked",
       "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
       "published_at": "2026-05-06T12:21:00Z",
@@ -1876,20 +1980,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
       "user": "paul newell"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
     },
     {
       "title": "Top JavaScript/TypeScript Gen AI Frameworks for 2026: A Hands-On Comparison\" description",
@@ -2063,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1553,
+      "stars": 1562,
       "user": "aattaran"
     },
     {
@@ -2078,7 +2168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 689,
       "user": "Kappaemme-git"
     },
     {
@@ -2093,7 +2183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 321,
       "user": "thcp"
     },
     {
@@ -2108,7 +2198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2123,7 +2213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "ircfspace"
     },
     {
@@ -2138,7 +2228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 1044,
       "user": "yaojingang"
     },
     {
@@ -2153,7 +2243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 936,
+      "stars": 968,
       "user": "XBuilderLAB"
     },
     {
@@ -2168,7 +2258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 854,
       "user": "vibeforge1111"
     },
     {
@@ -2183,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 581,
       "user": "lightseekorg"
     },
     {
@@ -2198,7 +2288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "Tommy-yw"
     },
     {
@@ -2213,7 +2303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 238,
       "user": "ajavadinezhad"
     },
     {
@@ -2228,7 +2318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "ThisIsDara"
     },
     {
@@ -2243,7 +2333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "gofsnotify"
     },
     {
