@@ -2,8 +2,8 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-06-orange)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-07-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 53 (50.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 31 (29.5%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 15 (14.3%)
+**Cloud**: 🟦🟦🟦🟦🟦 15 (14.3%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦 4 (3.8%)
 
-**Security**: 🟦🟦 4 (3.8%)
+**Security**: 🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 2 (1.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,26 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.1 (28.1%)
-Python          ████████████████████████ 22.5 (22.5%)
-Java            ████████████████████████ 22.5 (22.5%)
-JavaScript      ███████████████████████ 21.3 (21.3%)
+Go              ██████████████████████████████ 30.3 (30.3%)
+Python          ██████████████████████ 22.5 (22.5%)
+Java            ██████████████████████ 22.5 (22.5%)
+JavaScript      █████████████████████ 21.3 (21.3%)
 Rust            ██ 2.2 (2.2%)
-Ruby            █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 27
     "Python" : 20
     "Java" : 20
     "JavaScript" : 19
     "Rust" : 2
-    "Ruby" : 1
-    "Swift" : 1
     "Kotlin" : 1
 ```
 
@@ -127,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-07 1:00 CAT)
+## 📅 Latest Updates (2026-05-07 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -203,22 +199,22 @@ npm run test
 - [I Programmed an AI in 6502 Assembly - It Worked](https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi) _[Dev.to]_
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 - [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073) _[Dev.to]_
-- [What Even Is AI? (I Took a Break & Had to Relearn Everything)](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj) _[Dev.to]_
 - [OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.](https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6) _[Dev.to]_
 - [Not Open Source Not Interested](https://dev.to/geraldew/not-open-source-not-interested-52hf) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
-- [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 - [Terminal as a Dev Environment in the Age of Agents](https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e) _[Dev.to]_
 - [AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
 - [7 Coder Words: I built a PWA Word Puzzle for Coders and Nerds](https://dev.to/petarov/7-coder-words-i-built-a-pwa-word-puzzle-for-coders-and-nerds-3oh5) _[Dev.to]_
+- [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 - [Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)](https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca) _[Dev.to]_
 - [MCP Development with Amazon Lightsail Instances](https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp) _[Dev.to]_
 - [Am I a Developer or Just a Prompt Engineer?](https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece) _[Dev.to]_
 - [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [Build a Streaming Gemini Chat in Angular with Signals — Then Ship It on Cloud Run](https://dev.to/gdg/build-a-streaming-gemini-chat-in-angular-with-signals-then-ship-it-on-cloud-run-1llc) _[Dev.to]_
 - [Wormhole4j v0.3.0: Supports Multi-threaded Concurrency](https://dev.to/komamitsu/wormhole4j-v030-supports-multi-threaded-concurrency-2fjb) _[Dev.to]_
+- [Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead](https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p) _[Dev.to]_
 
-_Last automated update: Thu, 07 May 2026 01:34:53 CAT_
+_Last automated update: Thu, 07 May 2026 03:23:07 CAT_
 
 
 
@@ -226,36 +222,36 @@ _Last automated update: Thu, 07 May 2026 01:34:53 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 06 May 2026 23:34:53 GMT</b><br/>
+  <b>Last automated update: Thu, 07 May 2026 01:23:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

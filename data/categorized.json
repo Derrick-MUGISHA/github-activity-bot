@@ -90,21 +90,6 @@
       "user": "Fernando Fornieles"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
       "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
       "published_at": "2026-05-06T15:24:34Z",
@@ -117,21 +102,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
-      "published_at": "2026-05-06T16:51:32Z",
-      "description": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "tags": [
-        "devops",
-        "docker",
-        "security",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
-      "source": "Dev.to",
-      "user": "Falcon"
     },
     {
       "title": "Terminal as a Dev Environment in the Age of Agents",
@@ -160,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
       "source": "Dev.to",
       "user": "Alexey Vidanov"
+    },
+    {
+      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
+      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
+      "published_at": "2026-05-06T16:51:32Z",
+      "description": "Docker Hardened Images are changing how teams think about container security — not as an...",
+      "tags": [
+        "devops",
+        "docker",
+        "security",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
+      "source": "Dev.to",
+      "user": "Falcon"
     },
     {
       "title": "MCP Development with Amazon Lightsail Instances",
@@ -276,6 +261,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
       "source": "Dev.to",
       "user": "leslysandra"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Top Gen AI Frameworks for Java in 2026: A Hands-On Comparison",
@@ -720,6 +720,36 @@
       "user": "veesahni"
     },
     {
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T20:40:48Z",
+      "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "TitanFlow-Systems"
+    },
+    {
+      "title": "432539/plus_gopay_gptp-plus - plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "url": "https://github.com/432539/plus_gopay_gptp-plus",
+      "published_at": "2026-05-06T06:46:42Z",
+      "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "432539"
+    },
+    {
       "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
       "url": "https://github.com/Tommy-yw/RunbookHermes",
       "published_at": "2026-05-01T07:30:53Z",
@@ -746,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "ajavadinezhad"
     }
   ],
@@ -928,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1489,
       "user": "aattaran"
     },
     {
@@ -943,38 +973,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 557,
       "user": "Kappaemme-git"
-    },
-    {
-      "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
-      "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
-      "published_at": "2026-04-30T05:22:15Z",
-      "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 367,
-      "user": "b-nnett"
-    },
-    {
-      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
-      "url": "https://github.com/tgies/klattsch",
-      "published_at": "2026-04-30T21:57:14Z",
-      "description": "primitive parallel-formant speech synth in the browser",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "tgies"
     },
     {
       "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
@@ -990,6 +990,36 @@
       "source": "GitHub",
       "stars": 185,
       "user": "ircfspace"
+    },
+    {
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T20:40:48Z",
+      "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "TitanFlow-Systems"
+    },
+    {
+      "title": "432539/plus_gopay_gptp-plus - plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "url": "https://github.com/432539/plus_gopay_gptp-plus",
+      "published_at": "2026-05-06T06:46:42Z",
+      "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "432539"
     },
     {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
@@ -1214,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 816,
       "user": "vibeforge1111"
     },
     {
@@ -1229,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 777,
       "user": "XBuilderLAB"
     },
     {
@@ -1248,6 +1278,21 @@
       "user": "Tommy-yw"
     },
     {
+      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "published_at": "2026-05-01T02:09:39Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
+      "source": "GitHub",
+      "stars": 418,
+      "user": "virgiliojr94"
+    },
+    {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
       "url": "https://github.com/LayrKits/Sprite-Pipeline",
       "published_at": "2026-05-03T18:19:20Z",
@@ -1261,21 +1306,6 @@
       "source": "GitHub",
       "stars": 413,
       "user": "LayrKits"
-    },
-    {
-      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "published_at": "2026-05-01T02:09:39Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "virgiliojr94"
     }
   ],
   "DevOps": [
@@ -1392,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1489,
       "user": "aattaran"
     }
   ],
@@ -1413,21 +1443,6 @@
       "user": "Juan David Gómez"
     },
     {
-      "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
-      "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
-      "published_at": "2026-04-30T05:22:15Z",
-      "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 367,
-      "user": "b-nnett"
-    },
-    {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "url": "https://github.com/ajavadinezhad/zyrln",
       "published_at": "2026-05-04T17:25:03Z",
@@ -1439,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "ajavadinezhad"
     }
   ],
@@ -1458,21 +1473,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
-    },
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
@@ -1547,6 +1547,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iux9rx86hrnk85o5g4p.png",
       "source": "Dev.to",
       "user": "leslysandra"
+    },
+    {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -1872,20 +1887,6 @@
       "user": "Ruairí O'Brien"
     },
     {
-      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
-      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi",
-      "published_at": "2026-05-03T16:22:00Z",
-      "description": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
-      "tags": [
-        "rspec",
-        "playwright",
-        "ruby"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjq9tlfr7ghaar635lty.png",
-      "source": "Dev.to",
-      "user": "Yusuke Iwaki"
-    },
-    {
       "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
       "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
       "published_at": "2026-05-02T08:22:42Z",
@@ -2002,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1489,
       "user": "aattaran"
     },
     {
@@ -2017,38 +2018,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 557,
       "user": "Kappaemme-git"
-    },
-    {
-      "title": "b-nnett/codex-plusplus-ios-simulator - iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
-      "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
-      "published_at": "2026-04-30T05:22:15Z",
-      "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 367,
-      "user": "b-nnett"
-    },
-    {
-      "title": "tgies/klattsch - primitive parallel-formant speech synth in the browser",
-      "url": "https://github.com/tgies/klattsch",
-      "published_at": "2026-04-30T21:57:14Z",
-      "description": "primitive parallel-formant speech synth in the browser",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1594352?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "tgies"
     },
     {
       "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
@@ -2066,6 +2037,36 @@
       "user": "ircfspace"
     },
     {
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T20:40:48Z",
+      "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "TitanFlow-Systems"
+    },
+    {
+      "title": "432539/plus_gopay_gptp-plus - plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "url": "https://github.com/432539/plus_gopay_gptp-plus",
+      "published_at": "2026-05-06T06:46:42Z",
+      "description": "plus+gopay开通GPTPLUS会员,已经比较稳定,部分技术支持QQ1114639355",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22024444?v=4",
+      "source": "GitHub",
+      "stars": 173,
+      "user": "432539"
+    },
+    {
       "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
       "url": "https://github.com/vibeforge1111/keep-codex-fast",
       "published_at": "2026-05-02T08:57:24Z",
@@ -2077,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 816,
       "user": "vibeforge1111"
     },
     {
@@ -2092,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 777,
       "user": "XBuilderLAB"
     },
     {
@@ -2111,6 +2112,21 @@
       "user": "Tommy-yw"
     },
     {
+      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "published_at": "2026-05-01T02:09:39Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
+      "source": "GitHub",
+      "stars": 418,
+      "user": "virgiliojr94"
+    },
+    {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
       "url": "https://github.com/LayrKits/Sprite-Pipeline",
       "published_at": "2026-05-03T18:19:20Z",
@@ -2126,36 +2142,6 @@
       "user": "LayrKits"
     },
     {
-      "title": "virgiliojr94/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "published_at": "2026-05-01T02:09:39Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23645449?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "virgiliojr94"
-    },
-    {
-      "title": "openclaw/crabbox - Crabbox: warm a box, sync the diff, run the suite.",
-      "url": "https://github.com/openclaw/crabbox",
-      "published_at": "2026-04-30T14:31:48Z",
-      "description": "Crabbox: warm a box, sync the diff, run the suite.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 230,
-      "user": "openclaw"
-    },
-    {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
       "url": "https://github.com/ajavadinezhad/zyrln",
       "published_at": "2026-05-04T17:25:03Z",
@@ -2167,7 +2153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "ajavadinezhad"
     },
     {
@@ -2186,21 +2172,6 @@
       "user": "ThisIsDara"
     },
     {
-      "title": "tomurashigaraki22/watchup-agent-v2 - GitHub Repository",
-      "url": "https://github.com/tomurashigaraki22/watchup-agent-v2",
-      "published_at": "2026-04-30T16:24:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125347750?v=4",
-      "source": "GitHub",
-      "stars": 137,
-      "user": "tomurashigaraki22"
-    },
-    {
       "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
       "url": "https://github.com/marchinthesun/cluster-performance-engine",
       "published_at": "2026-05-01T06:31:35Z",
@@ -2214,6 +2185,36 @@
       "source": "GitHub",
       "stars": 104,
       "user": "marchinthesun"
+    },
+    {
+      "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
+      "url": "https://github.com/gofsnotify/fsnotify",
+      "published_at": "2026-05-06T08:16:29Z",
+      "description": "Cross-platform file system notifications for Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "gofsnotify"
+    },
+    {
+      "title": "watany-dev/gitreal - GitHub Repository",
+      "url": "https://github.com/watany-dev/gitreal",
+      "published_at": "2026-05-01T01:58:08Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76135106?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "watany-dev"
     }
   ]
 }
