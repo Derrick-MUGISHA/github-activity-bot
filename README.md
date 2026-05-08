@@ -30,11 +30,11 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 55 (52.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 33.0 (33.0%)
-Python          █████████████████████ 23.1 (23.1%)
-JavaScript      ███████████████████ 20.9 (20.9%)
-Java            ██████████████████ 19.8 (19.8%)
+Go              ██████████████████████████████ 33.7 (33.7%)
+Python          ████████████████████ 22.8 (22.8%)
+JavaScript      ██████████████████ 20.7 (20.7%)
+Java            █████████████████ 19.6 (19.6%)
 Rust            ██ 2.2 (2.2%)
 Kotlin          █ 1.1 (1.1%)
 
@@ -71,7 +71,7 @@ Kotlin          █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 30
+    "Go" : 31
     "Python" : 21
     "JavaScript" : 19
     "Java" : 18
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-29-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![gemini](https://img.shields.io/badge/gemini-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![aws](https://img.shields.io/badge/aws-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-28-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-12-blue) ![gemini](https://img.shields.io/badge/gemini-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-9-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![tutorial](https://img.shields.io/badge/tutorial-6-blue) ![aws](https://img.shields.io/badge/aws-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-08 5:00 CAT)
+## 📅 Latest Updates (2026-05-08 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +140,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg" width="200" alt="Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!" />
-      <br/>
-      <b>Congrats to the Google Cloud NEXT '26 Writing Chal...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png" width="200" alt="Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!" />
       <br/>
@@ -157,8 +148,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg" width="200" alt="Congrats to the OpenClaw Challenge Winners!" />
@@ -168,6 +157,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png" width="200" alt="Local Testing of a Multi-Agent System with Memory" />
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77yhl48m8md1gkrm9buw.jpg" width="200" alt="How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't" />
+      <br/>
+      <b>How a Hackathon Will Teach a New Developer What a ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -194,7 +194,6 @@ npm run test
 ### 📰 Top Headlines
 
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
-- [Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
@@ -207,14 +206,15 @@ npm run test
 - [Architect A Personalized Multi-Agent System with Long-Term Memory](https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15) _[Dev.to]_
 - [I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.](https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok) _[Dev.to]_
 - [[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI](https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi) _[Dev.to]_
-- [Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run](https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9) _[Dev.to]_
 - [MCP Development with Amazon Lambda Managed Instances](https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj) _[Dev.to]_
+- [Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
-- [Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do](https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab) _[Dev.to]_
+- [Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run](https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9) _[Dev.to]_
 - [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
+- [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
 
-_Last automated update: Fri, 08 May 2026 05:54:34 CAT_
+_Last automated update: Fri, 08 May 2026 07:54:07 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 08 May 2026 05:54:34 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 3. Database: What is database normalization and denormalization?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 08 May 2026 03:54:34 GMT</b><br/>
+  <b>Last automated update: Fri, 08 May 2026 05:54:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
