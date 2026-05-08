@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
-      "published_at": "2026-05-06T06:28:42Z",
-      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "tags": [
-        "career",
-        "learning",
-        "development",
-        "workplace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
-    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -45,49 +30,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+      "published_at": "2026-05-06T06:28:42Z",
+      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
       "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
+        "career",
+        "learning",
+        "development",
+        "workplace"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
-      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
-      "published_at": "2026-05-07T19:41:53Z",
-      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
-      "tags": [
-        "agents",
-        "ai",
-        "api",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
+      "user": "Aryan Choudhary"
     },
     {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
@@ -165,6 +120,21 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
+      "published_at": "2026-05-07T19:41:53Z",
+      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
+    },
+    {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h",
       "published_at": "2026-05-04T16:23:44Z",
@@ -208,6 +178,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mzul5lvz1suahhjtxw5.png",
       "source": "Dev.to",
       "user": "Tomasz Flis"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
+      "published_at": "2026-05-07T21:03:03Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
@@ -283,6 +268,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 354,
       "user": "thcp"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1302,
       "user": "yaojingang"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "lightseekorg"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "ajavadinezhad"
     }
   ],
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1616,
+      "stars": 1618,
       "user": "aattaran"
     },
     {
@@ -976,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 716,
       "user": "Kappaemme-git"
     },
     {
@@ -991,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 354,
       "user": "thcp"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "ircfspace"
     },
     {
@@ -1036,26 +1036,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "MiChongs"
     }
   ],
   "Python": [
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
@@ -1085,6 +1070,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
+      "published_at": "2026-05-07T21:03:03Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1302,
       "user": "yaojingang"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 898,
       "user": "vibeforge1111"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "lightseekorg"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 674,
       "user": "MayersScott"
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "LayrKits"
     }
   ],
@@ -1389,6 +1389,20 @@
   ],
   "WebDev": [
     {
+      "title": "CSS - The single coolest API technique you can imagine.",
+      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
+      "published_at": "2026-05-07T23:15:51Z",
+      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
+      "tags": [
+        "css",
+        "api",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
+      "source": "Dev.to",
+      "user": "Jane Ori"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -1402,20 +1416,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
-      "published_at": "2026-05-07T23:15:51Z",
-      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "tags": [
-        "css",
-        "api",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
-      "source": "Dev.to",
-      "user": "Jane Ori"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -1454,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1616,
+      "stars": 1618,
       "user": "aattaran"
     }
   ],
@@ -1471,26 +1471,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
       "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
@@ -1624,6 +1609,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
+      "published_at": "2026-05-07T21:03:03Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "MiChongs"
     }
   ],
@@ -1918,26 +1918,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "MiChongs"
     }
   ],
   "Tools": [
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
       "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
@@ -1952,6 +1937,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Local Testing of a Multi-Agent System with Memory",
+      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
+      "published_at": "2026-05-07T21:03:03Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "I Programmed an AI in 6502 Assembly - It Worked",
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1616,
+      "stars": 1618,
       "user": "aattaran"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 716,
       "user": "Kappaemme-git"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 354,
       "user": "thcp"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "ircfspace"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1302,
       "user": "yaojingang"
     },
     {
@@ -2199,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 898,
       "user": "vibeforge1111"
     },
     {
@@ -2214,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 711,
       "user": "lightseekorg"
     },
     {
@@ -2229,7 +2229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 674,
       "user": "MayersScott"
     },
     {
@@ -2244,7 +2244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281445166?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "LayrKits"
     },
     {
@@ -2259,7 +2259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 279,
       "user": "ThisIsDara"
     },
     {
@@ -2274,7 +2274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "ajavadinezhad"
     },
     {
@@ -2289,7 +2289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 151,
       "user": "gofsnotify"
     },
     {
@@ -2304,7 +2304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "MiChongs"
     },
     {
@@ -2319,7 +2319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "nyarime"
     }
   ]

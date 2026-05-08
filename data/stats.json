@@ -18,8 +18,8 @@
     "Tools": 27
   },
   "by_language": {
-    "Python": 21,
     "Go": 31,
+    "Python": 21,
     "Rust": 2,
     "JavaScript": 19,
     "Java": 18,
@@ -78,10 +78,10 @@
     "Python": 10,
     "googlecloud": 9,
     "python": 9,
-    "discuss": 6,
     "tutorial": 6,
     "aws": 6,
     "programming": 6,
+    "discuss": 6,
     "javascript": 6,
     "go": 6,
     "devchallenge": 5,
@@ -91,8 +91,8 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.8",
     "Go": "33.7",
+    "Python": "22.8",
     "Rust": "2.2",
     "JavaScript": "20.7",
     "Java": "19.6",
