@@ -15,21 +15,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -45,19 +30,34 @@
       "user": "Aryan Choudhary"
     },
     {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
-      "published_at": "2026-05-07T21:01:06Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
+      "published_at": "2026-05-08T09:01:07Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
       "tags": [
         "ai",
-        "googlecloud",
-        "agents",
-        "mcp"
+        "gemma",
+        "devchallenge",
+        "gemmachallenge"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
       "source": "Dev.to",
-      "user": "Shir Meir Lador"
+      "user": "Ertuğrul Demir"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -75,6 +75,21 @@
       "user": "xbill"
     },
     {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
+      "published_at": "2026-05-07T21:01:06Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
       "published_at": "2026-05-07T21:00:10Z",
@@ -86,6 +101,21 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -103,21 +133,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
       "source": "Dev.to",
       "user": "Kim Maida"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
@@ -240,21 +255,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
       "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
       "published_at": "2026-05-07T03:34:05Z",
@@ -268,6 +268,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
@@ -429,6 +444,19 @@
       "user": "Tanaike"
     },
     {
+      "title": "There will still be art in software",
+      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
+      "published_at": "2026-05-05T21:47:47Z",
+      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
+      "tags": [
+        "ai",
+        "uidesign"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
+      "source": "Dev.to",
+      "user": "Josiah Nunemaker"
+    },
+    {
       "title": "MCP Development with Amazon Lightsail Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lightsail-instances-34gp",
       "published_at": "2026-05-05T19:36:06Z",
@@ -442,19 +470,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fypoomuczybt67fhenebb.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "There will still be art in software",
-      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
-      "published_at": "2026-05-05T21:47:47Z",
-      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
-      "tags": [
-        "ai",
-        "uidesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
-      "source": "Dev.to",
-      "user": "Josiah Nunemaker"
     },
     {
       "title": "Your Prompts are Legacy Code Now: The Google Cloud Next '26 Developer Breakdown",
@@ -501,21 +516,6 @@
       "user": "Piyush Annigeri"
     },
     {
-      "title": "Boring code is an organizational tell",
-      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
-      "published_at": "2026-04-19T18:02:48Z",
-      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
-      "tags": [
-        "ai",
-        "leadership",
-        "culture",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
-      "source": "Dev.to",
-      "user": "Simme"
-    },
-    {
       "title": "The Next Casualty of the GenAI Revolution",
       "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
       "published_at": "2026-05-05T13:25:34Z",
@@ -529,6 +529,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
+    },
+    {
+      "title": "Boring code is an organizational tell",
+      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
+      "published_at": "2026-04-19T18:02:48Z",
+      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
+      "tags": [
+        "ai",
+        "leadership",
+        "culture",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
+      "source": "Dev.to",
+      "user": "Simme"
     },
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "thcp"
     },
     {
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1338,
       "user": "yaojingang"
     },
     {
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 742,
       "user": "lightseekorg"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "ajavadinezhad"
     }
   ],
@@ -798,21 +813,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
       "source": "Dev.to",
       "user": "GDS K S"
-    },
-    {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
-      "published_at": "2026-05-04T13:23:38Z",
-      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
-      "tags": [
-        "security",
-        "webdev",
-        "javascript",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
-      "source": "Dev.to",
-      "user": "Vladimir Novick"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -946,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1622,
+      "stars": 1625,
       "user": "aattaran"
     },
     {
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 724,
       "user": "Kappaemme-git"
     },
     {
@@ -976,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "thcp"
     },
     {
@@ -991,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "ircfspace"
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1338,
       "user": "yaojingang"
     },
     {
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 906,
       "user": "vibeforge1111"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 742,
       "user": "lightseekorg"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 723,
       "user": "MayersScott"
     },
     {
@@ -1439,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1622,
+      "stars": 1625,
       "user": "aattaran"
     }
   ],
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "ajavadinezhad"
     }
   ],
@@ -1477,21 +1477,6 @@
       "user": "xbill"
     },
     {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
-      "published_at": "2026-05-07T21:01:06Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "MCP Development with Amazon Lambda Managed Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
       "published_at": "2026-05-07T13:08:51Z",
@@ -1505,6 +1490,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe46dvimfoxpndjud9n7.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
+      "published_at": "2026-05-07T21:01:06Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
@@ -1835,21 +1835,6 @@
       "user": "Falcon"
     },
     {
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "url": "https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j",
-      "published_at": "2026-05-04T13:23:38Z",
-      "description": "A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here's exactly what was in it, and the simple precaution that defeats the whole class.",
-      "tags": [
-        "security",
-        "webdev",
-        "javascript",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7oua0znp7fkenziwx6s.png",
-      "source": "Dev.to",
-      "user": "Vladimir Novick"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -2023,21 +2008,6 @@
       "user": "Josiah Nunemaker"
     },
     {
-      "title": "Multimodal RAG with the Gemini API File Search Tool: A Developer Guide",
-      "url": "https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878",
-      "published_at": "2026-05-05T17:43:58Z",
-      "description": "The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...",
-      "tags": [
-        "api",
-        "gemini",
-        "rag",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6lejfa0t3ws6wx8movj.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -2094,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1622,
+      "stars": 1625,
       "user": "aattaran"
     },
     {
@@ -2109,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 724,
       "user": "Kappaemme-git"
     },
     {
@@ -2124,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "thcp"
     },
     {
@@ -2139,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2154,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "ircfspace"
     },
     {
@@ -2169,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1338,
       "user": "yaojingang"
     },
     {
@@ -2184,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 906,
       "user": "vibeforge1111"
     },
     {
@@ -2199,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 742,
       "user": "lightseekorg"
     },
     {
@@ -2214,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 723,
       "user": "MayersScott"
     },
     {
@@ -2244,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 292,
       "user": "ThisIsDara"
     },
     {
@@ -2259,7 +2229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "ajavadinezhad"
     },
     {
@@ -2274,7 +2244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 150,
       "user": "gofsnotify"
     },
     {
