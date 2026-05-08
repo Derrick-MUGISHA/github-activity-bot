@@ -12,7 +12,7 @@
     "DevOps": 6,
     "WebDev": 10,
     "Mobile": 3,
-    "Cloud": 13,
+    "Cloud": 12,
     "Database": 4,
     "Security": 4,
     "Tools": 23
@@ -31,8 +31,8 @@
   "by_date": {
     "2026-05-08": 8,
     "2026-05-07": 27,
-    "2026-05-06": 15,
-    "2026-05-05": 8,
+    "2026-05-06": 16,
+    "2026-05-05": 7,
     "2026-05-04": 5,
     "2026-04-27": 2,
     "2026-04-26": 1,
@@ -78,7 +78,7 @@
     "Python": 10,
     "agents": 9,
     "python": 9,
-    "discuss": 7,
+    "discuss": 8,
     "devchallenge": 7,
     "googlecloud": 7,
     "programming": 7,
@@ -86,10 +86,10 @@
     "webdev": 5,
     "javascript": 5,
     "gemmachallenge": 4,
-    "learning": 4,
     "gemini": 4,
     "tutorial": 4,
-    "architecture": 4
+    "architecture": 4,
+    "gemma": 3
   },
   "trending_topics": [],
   "language_percentages": {

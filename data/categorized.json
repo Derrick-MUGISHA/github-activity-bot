@@ -472,19 +472,18 @@
       "user": "Brus-Nockk"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
+      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
+      "published_at": "2026-05-06T15:24:34Z",
+      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
       "tags": [
         "ai",
-        "beginners",
-        "aws",
-        "learning"
+        "discuss",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Jonathan Murray"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -630,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 367,
       "user": "thcp"
     },
     {
@@ -645,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1364,
       "user": "yaojingang"
     },
     {
@@ -660,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 770,
       "user": "lightseekorg"
     },
     {
@@ -857,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1637,
+      "stars": 1639,
       "user": "aattaran"
     },
     {
@@ -887,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 367,
       "user": "thcp"
     },
     {
@@ -917,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "tolibear"
     },
     {
@@ -1129,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1364,
       "user": "yaojingang"
     },
     {
@@ -1144,23 +1143,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "vibeforge1111"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 765,
-      "user": "lightseekorg"
     },
     {
       "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
@@ -1174,8 +1158,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 771,
       "user": "MayersScott"
+    },
+    {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 770,
+      "user": "lightseekorg"
     },
     {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
@@ -1421,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1637,
+      "stars": 1639,
       "user": "aattaran"
     }
   ],
@@ -1649,21 +1648,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     }
   ],
   "Database": [
@@ -1913,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1637,
+      "stars": 1639,
       "user": "aattaran"
     },
     {
@@ -1943,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 367,
       "user": "thcp"
     },
     {
@@ -1973,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "tolibear"
     },
     {
@@ -1988,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1364,
       "user": "yaojingang"
     },
     {
@@ -2003,23 +1987,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 912,
       "user": "vibeforge1111"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 765,
-      "user": "lightseekorg"
     },
     {
       "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
@@ -2033,8 +2002,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 771,
       "user": "MayersScott"
+    },
+    {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 770,
+      "user": "lightseekorg"
     },
     {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
@@ -2063,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "ThisIsDara"
     },
     {
