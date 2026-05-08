@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-08 23:00 CAT)
+## 📅 Latest Updates (2026-05-09 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -136,19 +136,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
+    <a href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg" width="200" alt="Congrats to the OpenClaw Challenge Winners!" />
       <br/>
-      <b>What was your win this week??</b>
+      <b>Congrats to the OpenClaw Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg" width="200" alt="Congrats to the OpenClaw Challenge Winners!" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
       <br/>
-      <b>Congrats to the OpenClaw Challenge Winners!</b>
+      <b>What was your win this week??</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo) _[Dev.to]_
 - [gitui: a tiny TUI for your pull requests](https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0) _[Dev.to]_
 
-_Last automated update: Fri, 08 May 2026 23:40:22 CAT_
+_Last automated update: Sat, 09 May 2026 00:37:13 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Fri, 08 May 2026 23:40:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Iterative or recursive, three pointers
 
 </details>
 
-### 3. Python: Explain decorators in Python with an example
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 08 May 2026 21:40:22 GMT</b><br/>
+  <b>Last automated update: Fri, 08 May 2026 22:37:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
