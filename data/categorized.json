@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -28,21 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
@@ -75,21 +75,6 @@
       "user": "xbill"
     },
     {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
-      "published_at": "2026-05-07T21:01:06Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
       "published_at": "2026-05-07T21:00:10Z",
@@ -101,21 +86,6 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -133,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
       "source": "Dev.to",
       "user": "Kim Maida"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
+      "published_at": "2026-05-07T21:01:06Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
@@ -238,66 +238,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
       "source": "Dev.to",
       "user": "Fernando Fornieles"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
-      "published_at": "2026-05-07T03:34:05Z",
-      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "tags": [
-        "typescript",
-        "ai",
-        "webdev",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -749,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "thcp"
     },
     {
@@ -764,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1356,
       "user": "yaojingang"
     },
     {
@@ -779,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 747,
       "user": "lightseekorg"
     },
     {
@@ -794,26 +734,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "ajavadinezhad"
     }
   ],
   "JavaScript": [
-    {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
-      "published_at": "2026-05-07T03:34:05Z",
-      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "tags": [
-        "typescript",
-        "ai",
-        "webdev",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
     {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
@@ -946,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1630,
       "user": "aattaran"
     },
     {
@@ -961,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 726,
       "user": "Kappaemme-git"
     },
     {
@@ -976,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "thcp"
     },
     {
@@ -991,23 +916,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "TitanFlow-Systems"
     },
     {
-      "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
-      "url": "https://github.com/ircfspace/teleMirror",
-      "published_at": "2026-05-03T07:19:00Z",
-      "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+      "title": "tolibear/goalbuddy - Supercharge Codex Goals",
+      "url": "https://github.com/tolibear/goalbuddy",
+      "published_at": "2026-05-03T13:16:02Z",
+      "description": "Supercharge Codex Goals",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 235,
-      "user": "ircfspace"
+      "stars": 238,
+      "user": "tolibear"
     },
     {
       "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
@@ -1247,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1356,
       "user": "yaojingang"
     },
     {
@@ -1262,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 909,
       "user": "vibeforge1111"
     },
     {
@@ -1277,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 747,
       "user": "lightseekorg"
     },
     {
@@ -1292,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 737,
       "user": "MayersScott"
     },
     {
@@ -1388,21 +1313,6 @@
       "user": "Jane Ori"
     },
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -1439,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1630,
       "user": "aattaran"
     }
   ],
@@ -1456,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "ajavadinezhad"
     }
   ],
@@ -1477,6 +1387,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building ADK Agents with Azure Cloud Shell",
+      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1",
+      "published_at": "2026-05-07T17:14:45Z",
+      "description": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
+      "tags": [
+        "phimodel",
+        "azurefoundry",
+        "azurecloudshell",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh97z5a95guzv6d3z7zrd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "MCP Development with Amazon Lambda Managed Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
       "published_at": "2026-05-07T13:08:51Z",
@@ -1492,19 +1417,17 @@
       "user": "xbill"
     },
     {
-      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
-      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
-      "published_at": "2026-05-07T21:01:06Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "title": "[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao",
+      "published_at": "2026-05-07T15:40:31Z",
+      "description": "This is the fifth and final post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find...",
       "tags": [
-        "ai",
         "googlecloud",
-        "agents",
-        "mcp"
+        "googlecloudnext"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd0ng05c05x466mh5i727.jpeg",
       "source": "Dev.to",
-      "user": "Shir Meir Lador"
+      "user": "koichim2"
     },
     {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
@@ -1566,6 +1489,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Architect A Personalized Multi-Agent System with Long-Term Memory",
+      "url": "https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15",
+      "published_at": "2026-05-07T21:01:06Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal —...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
       "published_at": "2026-05-07T21:03:03Z",
@@ -1579,36 +1517,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
@@ -1923,21 +1831,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Copilot Squad",
       "url": "https://dev.to/ruarfff/copilot-squad-4nda",
       "published_at": "2026-05-05T14:49:33Z",
@@ -2064,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1630,
       "user": "aattaran"
     },
     {
@@ -2079,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 726,
       "user": "Kappaemme-git"
     },
     {
@@ -2094,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "thcp"
     },
     {
@@ -2109,23 +2002,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "TitanFlow-Systems"
     },
     {
-      "title": "ircfspace/teleMirror - A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
-      "url": "https://github.com/ircfspace/teleMirror",
-      "published_at": "2026-05-03T07:19:00Z",
-      "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+      "title": "tolibear/goalbuddy - Supercharge Codex Goals",
+      "url": "https://github.com/tolibear/goalbuddy",
+      "published_at": "2026-05-03T13:16:02Z",
+      "description": "Supercharge Codex Goals",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 235,
-      "user": "ircfspace"
+      "stars": 238,
+      "user": "tolibear"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -2139,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1356,
       "user": "yaojingang"
     },
     {
@@ -2154,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 909,
       "user": "vibeforge1111"
     },
     {
@@ -2169,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 747,
       "user": "lightseekorg"
     },
     {
@@ -2184,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 737,
       "user": "MayersScott"
     },
     {
@@ -2214,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 297,
       "user": "ThisIsDara"
     },
     {
@@ -2229,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "ajavadinezhad"
     },
     {
@@ -2244,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 154,
       "user": "gofsnotify"
     },
     {
@@ -2274,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "nyarime"
     }
   ]
