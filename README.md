@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-09 0:00 CAT)
+## 📅 Latest Updates (2026-05-09 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -209,17 +209,17 @@ npm run test
 - [Deploying a Multi-Agent System with Terraform and Cloud Run](https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c) _[Dev.to]_
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
 - [Building ADK Agents with Azure Cloud Shell](https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1) _[Dev.to]_
-- [Dockerized Symfony 6.4 project boilerplate](https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059) _[Dev.to]_
 - [MCP Development with Amazon Lambda Managed Instances](https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out](https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao) _[Dev.to]_
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
 - [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) _[Dev.to]_
 - [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
 - [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0) _[Dev.to]_
+- [Dockerized Symfony 6.4 project boilerplate](https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059) _[Dev.to]_
 - [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo) _[Dev.to]_
 - [gitui: a tiny TUI for your pull requests](https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0) _[Dev.to]_
 
-_Last automated update: Sat, 09 May 2026 00:37:13 CAT_
+_Last automated update: Sat, 09 May 2026 01:37:48 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 09 May 2026 00:37:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Implement a debounce function from scratch
+### 1. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 08 May 2026 22:37:13 GMT</b><br/>
+  <b>Last automated update: Fri, 08 May 2026 23:37:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
