@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-08 13:00 CAT)
+## 📅 Latest Updates (2026-05-08 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -169,19 +169,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png" width="200" alt="Deploying a Multi-Agent System with Terraform and Cloud Run" />
+    <a href="https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png" width="200" alt="Architect A Personalized Multi-Agent System with Long-Term Memory" />
       <br/>
-      <b>Deploying a Multi-Agent System with Terraform and ...</b>
+      <b>Architect A Personalized Multi-Agent System with L...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png" width="200" alt="Architect A Personalized Multi-Agent System with Long-Term Memory" />
+    <a href="https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flng36ah38wer0qnc4q3m.png" width="200" alt="I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper" />
       <br/>
-      <b>Architect A Personalized Multi-Agent System with L...</b>
+      <b>I Replaced My $500 GPU with a $75 Raspberry Pi: Ho...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,7 +197,6 @@ npm run test
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Building ADK Agents with Phi Models on Azure Foundry](https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2) _[Dev.to]_
-- [Deploying a Multi-Agent System with Terraform and Cloud Run](https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c) _[Dev.to]_
 - [Architect A Personalized Multi-Agent System with Long-Term Memory](https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15) _[Dev.to]_
 - [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo) _[Dev.to]_
 - [How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't](https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8) _[Dev.to]_
@@ -205,6 +204,7 @@ npm run test
 - [A much faster mgsub](https://dev.to/pofigster/a-much-faster-mgsub-46f) _[Dev.to]_
 - [Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run](https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9) _[Dev.to]_
 - [How to Authorize AI Agents Using Token Exchange Open Standards](https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d) _[Dev.to]_
+- [Deploying a Multi-Agent System with Terraform and Cloud Run](https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c) _[Dev.to]_
 - [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
 - [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
@@ -214,7 +214,7 @@ npm run test
 - [I Programmed an AI in 6502 Assembly - It Worked](https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi) _[Dev.to]_
 - [Am I a Developer or Just a Prompt Engineer?](https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece) _[Dev.to]_
 
-_Last automated update: Fri, 08 May 2026 13:52:08 CAT_
+_Last automated update: Fri, 08 May 2026 15:24:54 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Fri, 08 May 2026 13:52:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the median of two sorted arrays
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 08 May 2026 11:52:08 GMT</b><br/>
+  <b>Last automated update: Fri, 08 May 2026 13:24:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
