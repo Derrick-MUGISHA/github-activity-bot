@@ -60,36 +60,6 @@
       "user": "Ertuğrul Demir"
     },
     {
-      "title": "MCP Development with Amazon Lambda Managed Instances",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
-      "published_at": "2026-05-07T13:08:51Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "agenticai",
-        "mcps",
-        "gemini",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe46dvimfoxpndjud9n7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
       "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
       "published_at": "2026-05-07T21:04:12Z",
@@ -105,6 +75,36 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "Reusable Spring Boot 4 Error Handler",
+      "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp",
+      "published_at": "2026-05-08T13:49:57Z",
+      "description": "Reusable Spring Boot 4 auto-configuration that turns exceptions into structured RFC 9457 Problem Details responses and propagates the Micrometer trace ID to every response.",
+      "tags": [
+        "springboot",
+        "errorhandler",
+        "problemdetails",
+        "rfc9457"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ge24p1hle98shu0edeg.png",
+      "source": "Dev.to",
+      "user": "Eduardo Issao Ito"
+    },
+    {
+      "title": "MCP Development with Amazon Lambda Managed Instances",
+      "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
+      "published_at": "2026-05-07T13:08:51Z",
+      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
+      "tags": [
+        "agenticai",
+        "mcps",
+        "gemini",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe46dvimfoxpndjud9n7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
       "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
       "published_at": "2026-05-06T16:00:47Z",
@@ -118,6 +118,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
+    },
+    {
+      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
+      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
+      "published_at": "2026-05-07T20:21:26Z",
+      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
+      "tags": [
+        "backend",
+        "laravel",
+        "performance",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
+      "source": "Dev.to",
+      "user": "Fomin Vasyl"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
@@ -210,21 +255,6 @@
       "user": "Fernando Fornieles"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
       "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
       "published_at": "2026-05-07T03:34:05Z",
@@ -238,6 +268,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
@@ -355,6 +400,21 @@
       "user": "huoru"
     },
     {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
+    },
+    {
       "title": "Skip the RSpec examples you don't need: rspec-tracer 2.0 in pre-release",
       "url": "https://dev.to/avmnusng/skip-the-rspec-examples-you-dont-need-rspec-tracer-20-in-pre-release-1p7h",
       "published_at": "2026-05-07T08:51:45Z",
@@ -425,108 +485,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
-      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
-      "published_at": "2026-05-06T15:24:34Z",
-      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
-      "tags": [
-        "ai",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
-      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
-      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
-      "published_at": "2026-05-03T00:00:00Z",
-      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "devrel",
-        "burnout"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
-      "source": "Dev.to",
-      "user": "Filipe Brito Ferreira"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
-      "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
-      "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
-      "published_at": "2026-05-06T03:04:25Z",
-      "description": "Motivation for Writing   As an active researcher and developer in the AI ecosystem, I have...",
-      "tags": [
-        "ai",
-        "agents",
-        "gemini",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgtkkxue1gl5ymo0nh0t.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "There will still be art in software",
-      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
-      "published_at": "2026-05-05T21:47:47Z",
-      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
-      "tags": [
-        "ai",
-        "uidesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
-      "source": "Dev.to",
-      "user": "Josiah Nunemaker"
-    },
-    {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
-      "published_at": "2026-05-06T12:21:00Z",
-      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
-      "source": "Dev.to",
-      "user": "Paul Newell"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -672,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "thcp"
     },
     {
@@ -702,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 765,
       "user": "lightseekorg"
     },
     {
@@ -717,11 +675,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 284,
       "user": "ajavadinezhad"
     }
   ],
   "JavaScript": [
+    {
+      "title": "gitui: a tiny TUI for your pull requests",
+      "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0",
+      "published_at": "2026-05-08T01:49:49Z",
+      "description": "If you spend most of your day in the terminal — especially nowadays with Claude Code and other...",
+      "tags": [
+        "github",
+        "cli",
+        "productivity",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyrfe4m82jek552lapjq.jpg",
+      "source": "Dev.to",
+      "user": "Thales Bruno"
+    },
     {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
       "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
@@ -736,6 +709,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -869,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1635,
+      "stars": 1637,
       "user": "aattaran"
     },
     {
@@ -899,7 +887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "thcp"
     },
     {
@@ -914,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "TitanFlow-Systems"
     },
     {
@@ -949,6 +937,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
+      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3",
+      "published_at": "2026-05-08T07:05:09Z",
+      "description": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
+      "tags": [
+        "python",
+        "nlp",
+        "sentimentanalysis",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp",
+      "source": "Dev.to",
+      "user": "elizabeththomas7"
+    },
     {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
@@ -1156,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 765,
       "user": "lightseekorg"
     },
     {
@@ -1171,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 763,
       "user": "MayersScott"
     },
     {
@@ -1205,6 +1208,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Dockerized Symfony 6.4 project boilerplate",
+      "url": "https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059",
+      "published_at": "2026-05-08T10:16:06Z",
+      "description": "&gt; Repository and post updated September 22 2024   The perfect Dockerized Symfony 6.4 boilerplate...",
+      "tags": [
+        "backend",
+        "docker",
+        "php",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57iqkfz8rwpb3v2tqt2t.png",
+      "source": "Dev.to",
+      "user": "Nicolas Bonnici"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
     },
     {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
@@ -1252,6 +1285,36 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Dockerized Symfony 6.4 project boilerplate",
+      "url": "https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059",
+      "published_at": "2026-05-08T10:16:06Z",
+      "description": "&gt; Repository and post updated September 22 2024   The perfect Dockerized Symfony 6.4 boilerplate...",
+      "tags": [
+        "backend",
+        "docker",
+        "php",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57iqkfz8rwpb3v2tqt2t.png",
+      "source": "Dev.to",
+      "user": "Nicolas Bonnici"
+    },
+    {
+      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
+      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
+      "published_at": "2026-05-07T20:21:26Z",
+      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
+      "tags": [
+        "backend",
+        "laravel",
+        "performance",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
+      "source": "Dev.to",
+      "user": "Fomin Vasyl"
+    },
     {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
@@ -1358,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1635,
+      "stars": 1637,
       "user": "aattaran"
     }
   ],
@@ -1405,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 284,
       "user": "ajavadinezhad"
     }
   ],
@@ -1424,6 +1487,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Building ADK Agents with Azure Cloud Shell",
@@ -1469,36 +1547,6 @@
       "user": "koichim2"
     },
     {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
       "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
       "published_at": "2026-05-06T16:00:47Z",
@@ -1526,6 +1574,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
@@ -1601,21 +1664,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
-      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
-      "published_at": "2026-05-06T05:53:26Z",
-      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
-      "tags": [
-        "linux",
-        "automation",
-        "vpn",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
-      "source": "Dev.to",
-      "user": "Vicente G. Reyes"
     }
   ],
   "Database": [
@@ -1707,21 +1755,6 @@
       "user": "Falcon"
     },
     {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1750,6 +1783,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "gitui: a tiny TUI for your pull requests",
+      "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0",
+      "published_at": "2026-05-08T01:49:49Z",
+      "description": "If you spend most of your day in the terminal — especially nowadays with Claude Code and other...",
+      "tags": [
+        "github",
+        "cli",
+        "productivity",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyrfe4m82jek552lapjq.jpg",
+      "source": "Dev.to",
+      "user": "Thales Bruno"
+    },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
@@ -1854,64 +1902,6 @@
       "user": "Brus-Nockk"
     },
     {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
-      "title": "There will still be art in software",
-      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
-      "published_at": "2026-05-05T21:47:47Z",
-      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
-      "tags": [
-        "ai",
-        "uidesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
-      "source": "Dev.to",
-      "user": "Josiah Nunemaker"
-    },
-    {
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
-      "published_at": "2026-05-06T12:21:00Z",
-      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
-      "source": "Dev.to",
-      "user": "Paul Newell"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1923,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1635,
+      "stars": 1637,
       "user": "aattaran"
     },
     {
@@ -1953,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "thcp"
     },
     {
@@ -1968,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2028,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 765,
       "user": "lightseekorg"
     },
     {
@@ -2043,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 763,
       "user": "MayersScott"
     },
     {
@@ -2073,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "ThisIsDara"
     },
     {
@@ -2088,7 +2078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 284,
       "user": "ajavadinezhad"
     },
     {
