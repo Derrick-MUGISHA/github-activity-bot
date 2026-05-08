@@ -60,21 +60,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
       "published_at": "2026-05-07T21:03:03Z",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "thcp"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1095,
       "user": "yaojingang"
     },
     {
@@ -764,23 +764,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "lightseekorg"
-    },
-    {
-      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "url": "https://github.com/Tommy-yw/RunbookHermes",
-      "published_at": "2026-05-01T07:30:53Z",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
-      "source": "GitHub",
-      "stars": 532,
-      "user": "Tommy-yw"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -794,23 +779,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "ajavadinezhad"
-    },
-    {
-      "title": "denuitt1/mhr-cfw-go - Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw-go",
-      "published_at": "2026-05-01T15:46:05Z",
-      "description": "Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 78,
-      "user": "denuitt1"
     }
   ],
   "JavaScript": [
@@ -1006,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1590,
       "user": "aattaran"
     },
     {
@@ -1021,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "Kappaemme-git"
     },
     {
@@ -1036,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "thcp"
     },
     {
@@ -1051,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1068,39 +1038,9 @@
       "source": "GitHub",
       "stars": 221,
       "user": "ircfspace"
-    },
-    {
-      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "url": "https://github.com/marchinthesun/cluster-performance-engine",
-      "published_at": "2026-05-01T06:31:35Z",
-      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
-      "source": "GitHub",
-      "stars": 105,
-      "user": "marchinthesun"
     }
   ],
   "Python": [
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
@@ -1113,6 +1053,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -1307,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1095,
       "user": "yaojingang"
     },
     {
@@ -1322,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1003,
       "user": "XBuilderLAB"
     },
     {
@@ -1337,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "vibeforge1111"
     },
     {
@@ -1352,23 +1307,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "lightseekorg"
     },
     {
-      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "url": "https://github.com/Tommy-yw/RunbookHermes",
-      "published_at": "2026-05-01T07:30:53Z",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+      "url": "https://github.com/MayersScott/rkn-block-checker",
+      "published_at": "2026-05-03T16:15:38Z",
+      "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 532,
-      "user": "Tommy-yw"
+      "stars": 505,
+      "user": "MayersScott"
     }
   ],
   "DevOps": [
@@ -1430,21 +1385,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "url": "https://github.com/marchinthesun/cluster-performance-engine",
-      "published_at": "2026-05-01T06:31:35Z",
-      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
-      "source": "GitHub",
-      "stars": 105,
-      "user": "marchinthesun"
     }
   ],
   "WebDev": [
@@ -1500,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1590,
       "user": "aattaran"
     }
   ],
@@ -1517,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "ajavadinezhad"
     }
   ],
@@ -1535,21 +1475,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
@@ -1625,6 +1550,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "MCP Development with Amazon Lambda Managed Instances",
@@ -1804,36 +1744,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
       "source": "Dev.to",
       "user": "Maish Saidel-Keesing"
-    },
-    {
-      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "url": "https://github.com/marchinthesun/cluster-performance-engine",
-      "published_at": "2026-05-01T06:31:35Z",
-      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
-      "source": "GitHub",
-      "stars": 105,
-      "user": "marchinthesun"
-    },
-    {
-      "title": "denuitt1/mhr-cfw-go - Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw-go",
-      "published_at": "2026-05-01T15:46:05Z",
-      "description": "Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
-      "source": "GitHub",
-      "stars": 78,
-      "user": "denuitt1"
     }
   ],
   "Database": [
@@ -2155,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1590,
       "user": "aattaran"
     },
     {
@@ -2170,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 706,
       "user": "Kappaemme-git"
     },
     {
@@ -2185,7 +2095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "thcp"
     },
     {
@@ -2200,7 +2110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2230,7 +2140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1095,
       "user": "yaojingang"
     },
     {
@@ -2245,7 +2155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1003,
       "user": "XBuilderLAB"
     },
     {
@@ -2260,7 +2170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 868,
       "user": "vibeforge1111"
     },
     {
@@ -2275,23 +2185,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "lightseekorg"
     },
     {
-      "title": "Tommy-yw/RunbookHermes - Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "url": "https://github.com/Tommy-yw/RunbookHermes",
-      "published_at": "2026-05-01T07:30:53Z",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+      "url": "https://github.com/MayersScott/rkn-block-checker",
+      "published_at": "2026-05-03T16:15:38Z",
+      "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203919907?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 532,
-      "user": "Tommy-yw"
+      "stars": 505,
+      "user": "MayersScott"
     },
     {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
@@ -2305,7 +2215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "ThisIsDara"
     },
     {
@@ -2320,7 +2230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "ajavadinezhad"
     },
     {
@@ -2339,34 +2249,34 @@
       "user": "gofsnotify"
     },
     {
-      "title": "marchinthesun/cluster-performance-engine - Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
-      "url": "https://github.com/marchinthesun/cluster-performance-engine",
-      "published_at": "2026-05-01T06:31:35Z",
-      "description": "Cloud-native Kubernetes performance optimizer for high-core bare-metal clusters. A NUMA-aware scheduler for HPC, ML inference, and CI/CD that cuts latency on 128+ core EPYC/Threadripper nodes.",
+      "title": "nyarime/gho - Pure Go Norton Ghost GHO disk image parser — no CGo, single binary",
+      "url": "https://github.com/nyarime/gho",
+      "published_at": "2026-05-05T23:05:55Z",
+      "description": "Pure Go Norton Ghost GHO disk image parser — no CGo, single binary",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279914012?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 105,
-      "user": "marchinthesun"
+      "stars": 73,
+      "user": "nyarime"
     },
     {
-      "title": "denuitt1/mhr-cfw-go - Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
-      "url": "https://github.com/denuitt1/mhr-cfw-go",
-      "published_at": "2026-05-01T15:46:05Z",
-      "description": "Go port of https://github.com/denuitt1/mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "title": "ridgelinecyberdefence/vanguard - GitHub Repository",
+      "url": "https://github.com/ridgelinecyberdefence/vanguard",
+      "published_at": "2026-05-03T12:27:13Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279854002?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252557331?v=4",
       "source": "GitHub",
-      "stars": 78,
-      "user": "denuitt1"
+      "stars": 68,
+      "user": "ridgelinecyberdefence"
     }
   ]
 }
