@@ -12,14 +12,14 @@
     "DevOps": 4,
     "WebDev": 5,
     "Mobile": 1,
-    "Cloud": 20,
+    "Cloud": 21,
     "Database": 3,
     "Security": 6,
-    "Tools": 28
+    "Tools": 27
   },
   "by_language": {
-    "Go": 30,
     "Python": 21,
+    "Go": 31,
     "JavaScript": 19,
     "Rust": 2,
     "Java": 18,
@@ -68,34 +68,34 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 29,
+    "ai": 28,
     "github": 15,
     "open-source": 15,
     "agents": 12,
+    "gemini": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "googlecloud": 9,
     "python": 9,
-    "gemini": 9,
-    "programming": 7,
     "discuss": 6,
     "tutorial": 6,
     "aws": 6,
-    "productivity": 6,
+    "programming": 6,
     "javascript": 6,
     "go": 6,
     "devchallenge": 5,
+    "googleadk": 5,
     "webdev": 5,
-    "learning": 4
+    "productivity": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "33.0",
-    "Python": "23.1",
-    "JavaScript": "20.9",
+    "Python": "22.8",
+    "Go": "33.7",
+    "JavaScript": "20.7",
     "Rust": "2.2",
-    "Java": "19.8",
+    "Java": "19.6",
     "Kotlin": "1.1"
   }
 }

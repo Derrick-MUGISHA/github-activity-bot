@@ -150,21 +150,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "MCP Development with Amazon Lambda Managed Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
       "published_at": "2026-05-07T13:08:51Z",
@@ -180,19 +165,19 @@
       "user": "xbill"
     },
     {
-      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
-      "published_at": "2026-05-06T14:58:05Z",
-      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
       "tags": [
         "ai",
-        "aws",
+        "googlecloud",
         "python",
         "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
       "source": "Dev.to",
-      "user": "Alexey Vidanov"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
@@ -342,6 +327,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "published_at": "2026-05-06T14:58:05Z",
+      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "tags": [
+        "ai",
+        "aws",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
+      "source": "Dev.to",
+      "user": "Alexey Vidanov"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -531,21 +531,6 @@
       "user": "Simme"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlz9d9irom7907per6h3.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
-    },
-    {
       "title": "The Next Casualty of the GenAI Revolution",
       "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
       "published_at": "2026-05-05T13:25:34Z",
@@ -587,6 +572,21 @@
         "a2aprotocol"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "thcp"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1233,
       "user": "yaojingang"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 690,
       "user": "lightseekorg"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "ajavadinezhad"
     }
   ],
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1610,
       "user": "aattaran"
     },
     {
@@ -976,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 712,
       "user": "Kappaemme-git"
     },
     {
@@ -991,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "thcp"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 248,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "ircfspace"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "MiChongs"
     }
   ],
@@ -1072,21 +1072,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
-      "published_at": "2026-05-06T14:58:05Z",
-      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
-      "tags": [
-        "ai",
-        "aws",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
-      "source": "Dev.to",
-      "user": "Alexey Vidanov"
-    },
-    {
       "title": "Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI",
       "url": "https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h",
       "published_at": "2026-05-04T16:23:44Z",
@@ -1100,6 +1085,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh206qtp2tv4hbjn8vfue.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "published_at": "2026-05-06T14:58:05Z",
+      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "tags": [
+        "ai",
+        "aws",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
+      "source": "Dev.to",
+      "user": "Alexey Vidanov"
     },
     {
       "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
@@ -1262,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1233,
       "user": "yaojingang"
     },
     {
@@ -1277,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1071,
       "user": "XBuilderLAB"
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 885,
       "user": "vibeforge1111"
     },
     {
@@ -1307,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 690,
       "user": "lightseekorg"
     },
     {
@@ -1322,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 568,
       "user": "MayersScott"
     }
   ],
@@ -1454,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1610,
       "user": "aattaran"
     }
   ],
@@ -1471,25 +1471,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
-    {
-      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990",
-      "published_at": "2026-05-07T18:48:04Z",
-      "description": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
-      "tags": [
-        "devchallenge",
-        "cloudnextchallenge",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
@@ -1566,21 +1552,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "MCP Development with Amazon Lambda Managed Instances",
       "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
       "published_at": "2026-05-07T13:08:51Z",
@@ -1596,19 +1567,33 @@
       "user": "xbill"
     },
     {
-      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
-      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
-      "published_at": "2026-05-06T14:58:05Z",
-      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990",
+      "published_at": "2026-05-07T18:48:04Z",
+      "description": "The results are in! We are thrilled to announce the winners of the Google Cloud NEXT '26 Writing...",
+      "tags": [
+        "devchallenge",
+        "cloudnextchallenge",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
+      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
+      "published_at": "2026-05-07T21:00:10Z",
+      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
       "tags": [
         "ai",
-        "aws",
+        "googlecloud",
         "python",
         "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
       "source": "Dev.to",
-      "user": "Alexey Vidanov"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
@@ -1654,6 +1639,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Harness runs your agent. ShapeV2 controls what it's allowed to do",
+      "url": "https://dev.to/aws-builders/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab",
+      "published_at": "2026-05-06T14:58:05Z",
+      "description": "Amazon Web Services (AWS) just shipped Amazon Bedrock AgentCore harness harness in public preview. It...",
+      "tags": [
+        "ai",
+        "aws",
+        "python",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0y3n9qs352a236a8n3c1.png",
+      "source": "Dev.to",
+      "user": "Alexey Vidanov"
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
@@ -1773,6 +1773,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1814,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "MiChongs"
     }
   ],
@@ -1903,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "MiChongs"
     }
   ],
@@ -2068,21 +2083,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Turning Repository Knowledge Into Usable Agent Context",
-      "url": "https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4",
-      "published_at": "2026-05-03T11:08:59Z",
-      "description": "AI coding agents are getting better at writing code, but they still struggle with one thing that...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlz9d9irom7907per6h3.png",
-      "source": "Dev.to",
-      "user": "Francesco Sardone"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1610,
       "user": "aattaran"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 712,
       "user": "Kappaemme-git"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "thcp"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 248,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128790947?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "ircfspace"
     },
     {
@@ -2184,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1233,
       "user": "yaojingang"
     },
     {
@@ -2199,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/280592915?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1071,
       "user": "XBuilderLAB"
     },
     {
@@ -2214,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 885,
       "user": "vibeforge1111"
     },
     {
@@ -2229,7 +2229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 690,
       "user": "lightseekorg"
     },
     {
@@ -2244,7 +2244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 568,
       "user": "MayersScott"
     },
     {
@@ -2259,7 +2259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "ThisIsDara"
     },
     {
@@ -2274,7 +2274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "ajavadinezhad"
     },
     {
@@ -2289,7 +2289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 152,
       "user": "gofsnotify"
     },
     {
@@ -2319,7 +2319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "MiChongs"
     }
   ]
