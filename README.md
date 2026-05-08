@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-08-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦 14 (13.3%)
 
-**Security**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦🟦 8 (7.6%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**Database**: 🟦🟦 4 (3.8%)
 
-**Database**: 🟦 3 (2.9%)
+**Security**: 🟦🟦 4 (3.8%)
 
-**Mobile**:  1 (1.0%)
+**Mobile**: 🟦 3 (2.9%)
 
 
 
@@ -60,24 +60,26 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 33.3 (33.3%)
-Python          ██████████████████████ 24.1 (24.1%)
-Java            ██████████████████ 19.5 (19.5%)
-JavaScript      █████████████████ 18.4 (18.4%)
-Rust            ██ 2.3 (2.3%)
-Ruby            █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+Go              ██████████████████████████████ 29.8 (29.8%)
+Python          ███████████████████████ 22.6 (22.6%)
+JavaScript      ████████████████████ 20.2 (20.2%)
+Java            ████████████████████ 20.2 (20.2%)
+Ruby            ██ 2.4 (2.4%)
+Rust            ██ 2.4 (2.4%)
+Swift           █ 1.2 (1.2%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 29
-    "Python" : 21
+    "Go" : 25
+    "Python" : 19
+    "JavaScript" : 17
     "Java" : 17
-    "JavaScript" : 16
+    "Ruby" : 2
     "Rust" : 2
-    "Ruby" : 1
+    "Swift" : 1
     "Kotlin" : 1
 ```
 
@@ -85,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-12-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![gemini](https://img.shields.io/badge/gemini-8-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![aws](https://img.shields.io/badge/aws-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![agents](https://img.shields.io/badge/agents-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![programming](https://img.shields.io/badge/programming-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-08 18:00 CAT)
+## 📅 Latest Updates (2026-05-08 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -211,12 +213,12 @@ npm run test
 - [Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run](https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9) _[Dev.to]_
 - [How to Authorize AI Agents Using Token Exchange Open Standards](https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d) _[Dev.to]_
 - [Deploying a Multi-Agent System with Terraform and Cloud Run](https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c) _[Dev.to]_
-- [Building a Cross Language MCP Server with Rust, Python ADK, and Gemini CLI](https://dev.to/gde/building-a-cross-language-mcp-server-with-rust-python-adk-and-gemini-cli-g5h) _[Dev.to]_
 - [Build Your Own AI Butler - A Scheduled Agent That Runs Itself!](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) _[Dev.to]_
-- [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
 - [Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990) _[Dev.to]_
+- [Gemma-4-26B on v6e-4 TPU Benchmarks](https://dev.to/gde/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah) _[Dev.to]_
+- [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
 
-_Last automated update: Fri, 08 May 2026 18:44:44 CAT_
+_Last automated update: Fri, 08 May 2026 19:59:33 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Fri, 08 May 2026 18:44:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 08 May 2026 16:44:44 GMT</b><br/>
+  <b>Last automated update: Fri, 08 May 2026 17:59:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
