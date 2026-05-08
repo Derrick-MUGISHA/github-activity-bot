@@ -90,21 +90,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
-      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
-      "published_at": "2026-05-07T19:41:53Z",
-      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
-      "tags": [
-        "agents",
-        "ai",
-        "api",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
       "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
       "published_at": "2026-05-07T21:04:12Z",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2agp9rxotsdd2bdcizcb.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
+      "published_at": "2026-05-07T19:41:53Z",
+      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
     },
     {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
@@ -225,21 +225,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
       "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
       "published_at": "2026-05-07T03:34:05Z",
@@ -253,6 +238,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
@@ -412,6 +412,21 @@
       "user": "Brus-Nockk"
     },
     {
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "published_at": "2026-05-05T18:38:06Z",
+      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
       "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
       "published_at": "2026-05-06T15:24:34Z",
@@ -456,35 +471,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
-      "published_at": "2026-05-06T03:54:40Z",
-      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
-      "tags": [
-        "ai",
-        "programming",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script",
       "url": "https://dev.to/gde/a-developers-guide-to-understanding-agent-skills-implementing-progressive-disclosure-in-google-164f",
       "published_at": "2026-05-06T03:04:25Z",
@@ -526,6 +512,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
       "source": "Dev.to",
       "user": "Paul Newell"
+    },
+    {
+      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
+      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
+      "published_at": "2026-04-25T02:52:00Z",
+      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
+      "tags": [
+        "ai",
+        "productivity",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
+      "source": "Dev.to",
+      "user": "Shadab Khan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -671,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "thcp"
     },
     {
@@ -686,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1358,
+      "stars": 1363,
       "user": "yaojingang"
     },
     {
@@ -701,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 762,
       "user": "lightseekorg"
     },
     {
@@ -716,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "ajavadinezhad"
     }
   ],
@@ -868,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1635,
       "user": "aattaran"
     },
     {
@@ -883,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "Kappaemme-git"
     },
     {
@@ -898,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "thcp"
     },
     {
@@ -913,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 265,
       "user": "TitanFlow-Systems"
     },
     {
@@ -928,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "tolibear"
     },
     {
@@ -943,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "MiChongs"
     }
   ],
@@ -992,20 +993,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
       "source": "Dev.to",
       "user": "Brus-Nockk"
-    },
-    {
-      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
-      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
-      "published_at": "2026-05-06T03:54:40Z",
-      "description": "Introduction   For the last few years, every Gen AI tutorial, framework, and \"hello world\"...",
-      "tags": [
-        "ai",
-        "programming",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyzj28eemdmc5uz36p9x0.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1139,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1358,
+      "stars": 1363,
       "user": "yaojingang"
     },
     {
@@ -1154,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 911,
       "user": "vibeforge1111"
     },
     {
@@ -1169,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 762,
       "user": "lightseekorg"
     },
     {
@@ -1184,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 759,
       "user": "MayersScott"
     },
     {
@@ -1371,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1635,
       "user": "aattaran"
     }
   ],
@@ -1418,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "ajavadinezhad"
     }
   ],
@@ -1684,7 +1671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "MiChongs"
     }
   ],
@@ -1720,6 +1707,21 @@
       "user": "Falcon"
     },
     {
+      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
+      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
+      "published_at": "2026-04-25T02:52:00Z",
+      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
+      "tags": [
+        "ai",
+        "productivity",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
+      "source": "Dev.to",
+      "user": "Shadab Khan"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1743,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "MiChongs"
     }
   ],
@@ -1895,6 +1897,21 @@
       "user": "Paul Newell"
     },
     {
+      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
+      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
+      "published_at": "2026-04-25T02:52:00Z",
+      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
+      "tags": [
+        "ai",
+        "productivity",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
+      "source": "Dev.to",
+      "user": "Shadab Khan"
+    },
+    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1906,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1635,
       "user": "aattaran"
     },
     {
@@ -1921,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "Kappaemme-git"
     },
     {
@@ -1936,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "thcp"
     },
     {
@@ -1951,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 265,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1966,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "tolibear"
     },
     {
@@ -1981,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1358,
+      "stars": 1363,
       "user": "yaojingang"
     },
     {
@@ -1996,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 911,
       "user": "vibeforge1111"
     },
     {
@@ -2011,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 762,
       "user": "lightseekorg"
     },
     {
@@ -2026,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 759,
       "user": "MayersScott"
     },
     {
@@ -2056,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "ThisIsDara"
     },
     {
@@ -2071,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "ajavadinezhad"
     },
     {
@@ -2086,7 +2103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "gofsnotify"
     },
     {
@@ -2101,7 +2118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "MiChongs"
     },
     {
