@@ -456,21 +456,6 @@
       "user": "Paul Newell"
     },
     {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
       "title": "AI vs Non-AI: Building the Same Project Twice",
       "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
       "published_at": "2026-05-06T17:33:24Z",
@@ -484,6 +469,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
       "source": "Dev.to",
       "user": "Fernando Fornieles"
+    },
+    {
+      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
+      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
+      "published_at": "2026-04-25T02:52:00Z",
+      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
+      "tags": [
+        "ai",
+        "productivity",
+        "devtools",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
+      "source": "Dev.to",
+      "user": "Shadab Khan"
     },
     {
       "title": "The Next Casualty of the GenAI Revolution",
@@ -648,21 +648,6 @@
       "user": "veesahni"
     },
     {
-      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
-      "url": "https://github.com/thcp/stemdeck",
-      "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
-      "source": "GitHub",
-      "stars": 373,
-      "user": "thcp"
-    },
-    {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
       "url": "https://github.com/yaojingang/yao-open-prompts",
       "published_at": "2026-05-06T13:04:20Z",
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1464,
       "user": "yaojingang"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 838,
       "user": "lightseekorg"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 506,
       "user": "WenyuChiou"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "ajavadinezhad"
     }
   ],
@@ -901,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1665,
       "user": "aattaran"
     },
     {
@@ -916,14 +901,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "Kappaemme-git"
     },
     {
-      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "title": "thcp/stemdeck - Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "url": "https://github.com/thcp/stemdeck",
       "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "description": "Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
@@ -933,21 +918,6 @@
       "source": "GitHub",
       "stars": 373,
       "user": "thcp"
-    },
-    {
-      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
-      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
-      "published_at": "2026-05-05T20:40:48Z",
-      "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
-      "source": "GitHub",
-      "stars": 276,
-      "user": "TitanFlow-Systems"
     },
     {
       "title": "tolibear/goalbuddy - Supercharge Codex Goals",
@@ -961,8 +931,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 277,
       "user": "tolibear"
+    },
+    {
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
+      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T20:40:48Z",
+      "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "TitanFlow-Systems"
     },
     {
       "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
@@ -1173,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1464,
       "user": "yaojingang"
     },
     {
@@ -1188,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 928,
       "user": "MayersScott"
     },
     {
@@ -1203,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 838,
       "user": "lightseekorg"
     },
     {
@@ -1218,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 506,
       "user": "WenyuChiou"
     },
     {
@@ -1233,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "BigPizzaV3"
     }
   ],
@@ -1453,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1665,
       "user": "aattaran"
     }
   ],
@@ -1500,7 +1485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "ajavadinezhad"
     }
   ],
@@ -1974,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1665,
       "user": "aattaran"
     },
     {
@@ -1989,14 +1974,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "Kappaemme-git"
     },
     {
-      "title": "thcp/stemdeck - Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "title": "thcp/stemdeck - Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "url": "https://github.com/thcp/stemdeck",
       "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+      "description": "Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
       "tags": [
         "javascript",
         "github",
@@ -2006,21 +1991,6 @@
       "source": "GitHub",
       "stars": 373,
       "user": "thcp"
-    },
-    {
-      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
-      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
-      "published_at": "2026-05-05T20:40:48Z",
-      "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
-      "source": "GitHub",
-      "stars": 276,
-      "user": "TitanFlow-Systems"
     },
     {
       "title": "tolibear/goalbuddy - Supercharge Codex Goals",
@@ -2034,8 +2004,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 277,
       "user": "tolibear"
+    },
+    {
+      "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
+      "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T20:40:48Z",
+      "description": "polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "TitanFlow-Systems"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -2049,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1464,
       "user": "yaojingang"
     },
     {
@@ -2064,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 928,
       "user": "MayersScott"
     },
     {
@@ -2079,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 838,
       "user": "lightseekorg"
     },
     {
@@ -2094,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 506,
       "user": "WenyuChiou"
     },
     {
@@ -2109,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "BigPizzaV3"
     },
     {
@@ -2124,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "ThisIsDara"
     },
     {
@@ -2139,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "ajavadinezhad"
     },
     {
@@ -2154,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "gofsnotify"
     },
     {
