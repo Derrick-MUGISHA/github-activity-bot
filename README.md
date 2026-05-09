@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-09 22:00 CAT)
+## 📅 Latest Updates (2026-05-09 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Architect A Personalized Multi-Agent System with Long-Term Memory](https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15) _[Dev.to]_
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
 
-_Last automated update: Sat, 09 May 2026 22:28:04 CAT_
+_Last automated update: Sat, 09 May 2026 23:10:57 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 09 May 2026 22:28:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+try/catch, .catch(), error middleware
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 09 May 2026 20:28:04 GMT</b><br/>
+  <b>Last automated update: Sat, 09 May 2026 21:10:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
