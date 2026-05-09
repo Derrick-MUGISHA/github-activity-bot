@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-09-orange)
 
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (47.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
-**WebDev**: 🟦🟦🟦🟦 10 (9.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 6 (5.8%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,13 +60,13 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.9 (25.9%)
-Python          ██████████████████████████ 22.4 (22.4%)
-JavaScript      ██████████████████████████ 22.4 (22.4%)
-Java            █████████████████████████ 21.2 (21.2%)
-Ruby            ███ 2.4 (2.4%)
-PHP             ███ 2.4 (2.4%)
-Rust            █ 1.2 (1.2%)
+Go              ██████████████████████████████ 25.6 (25.6%)
+Python          ██████████████████████████ 22.1 (22.1%)
+JavaScript      ██████████████████████████ 22.1 (22.1%)
+Java            ████████████████████████ 20.9 (20.9%)
+Ruby            ███ 2.3 (2.3%)
+PHP             ███ 2.3 (2.3%)
+Rust            ███ 2.3 (2.3%)
 Swift           █ 1.2 (1.2%)
 Kotlin          █ 1.2 (1.2%)
 
@@ -80,7 +80,7 @@ pie title Programming Languages Distribution
     "Java" : 18
     "Ruby" : 2
     "PHP" : 2
-    "Rust" : 1
+    "Rust" : 2
     "Swift" : 1
 ```
 
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-09 10:00 CAT)
+## 📅 Latest Updates (2026-05-09 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run](https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9) _[Dev.to]_
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
 
-_Last automated update: Sat, 09 May 2026 10:43:20 CAT_
+_Last automated update: Sat, 09 May 2026 11:56:38 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 09 May 2026 10:43:20 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Execution timing, event loop phases
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 09 May 2026 08:43:20 GMT</b><br/>
+  <b>Last automated update: Sat, 09 May 2026 09:56:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
