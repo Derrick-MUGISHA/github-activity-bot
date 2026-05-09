@@ -45,21 +45,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
-      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
-      "published_at": "2026-05-08T09:01:07Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
-      "tags": [
-        "ai",
-        "gemma",
-        "devchallenge",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "Reusable Spring Boot 4 Error Handler",
       "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp",
       "published_at": "2026-05-08T13:49:57Z",
@@ -135,21 +120,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
-      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
-      "published_at": "2026-05-07T19:41:53Z",
-      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
-      "tags": [
-        "agents",
-        "ai",
-        "api",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
-    {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
       "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
       "published_at": "2026-05-06T16:51:32Z",
@@ -165,19 +135,34 @@
       "user": "Falcon"
     },
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
-      "published_at": "2026-05-05T10:52:28Z",
-      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
+      "published_at": "2026-05-08T09:01:07Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
       "tags": [
         "ai",
-        "career",
-        "programming",
-        "discuss"
+        "gemma",
+        "devchallenge",
+        "gemmachallenge"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
       "source": "Dev.to",
-      "user": "Harsh "
+      "user": "Ertuğrul Demir"
     },
     {
       "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
@@ -223,21 +208,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -353,6 +323,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
       "source": "Dev.to",
       "user": "Fomin Vasyl"
+    },
+    {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
+      "published_at": "2026-05-07T19:41:53Z",
+      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
     },
     {
       "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "thcp"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1445,
       "user": "yaojingang"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "WenyuChiou"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "ajavadinezhad"
     }
   ],
@@ -901,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1662,
+      "stars": 1663,
       "user": "aattaran"
     },
     {
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "thcp"
     },
     {
@@ -961,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "tolibear"
     },
     {
@@ -976,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "MiChongs"
     }
   ],
@@ -1173,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1445,
       "user": "yaojingang"
     },
     {
@@ -1188,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 911,
       "user": "MayersScott"
     },
     {
@@ -1218,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "WenyuChiou"
     },
     {
@@ -1233,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 443,
       "user": "BigPizzaV3"
     }
   ],
@@ -1284,6 +1269,21 @@
       "user": "Falcon"
     },
     {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
       "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
       "published_at": "2026-05-05T08:01:34Z",
@@ -1311,21 +1311,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     }
   ],
   "WebDev": [
@@ -1453,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1662,
+      "stars": 1663,
       "user": "aattaran"
     }
   ],
@@ -1500,7 +1485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "ajavadinezhad"
     }
   ],
@@ -1593,21 +1578,6 @@
       "user": "xbill"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
       "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
       "published_at": "2026-05-07T21:04:12Z",
@@ -1621,6 +1591,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
@@ -1751,26 +1736,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "MiChongs"
     }
   ],
   "Security": [
-    {
-      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
-      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
-      "published_at": "2026-05-07T19:41:53Z",
-      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
-      "tags": [
-        "agents",
-        "ai",
-        "api",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
-      "source": "Dev.to",
-      "user": "Kim Maida"
-    },
     {
       "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
       "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
@@ -1785,6 +1755,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
       "source": "Dev.to",
       "user": "Falcon"
+    },
+    {
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
+      "published_at": "2026-05-07T19:41:53Z",
+      "description": "Your agents have too much access   You have a coding agent. It needs to call an API, so you...",
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bs7fa6jrcuxo6kj07x4.png",
+      "source": "Dev.to",
+      "user": "Kim Maida"
     },
     {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
@@ -1825,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "MiChongs"
     }
   ],
@@ -1989,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1662,
+      "stars": 1663,
       "user": "aattaran"
     },
     {
@@ -2019,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 372,
       "user": "thcp"
     },
     {
@@ -2049,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "tolibear"
     },
     {
@@ -2064,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1435,
+      "stars": 1445,
       "user": "yaojingang"
     },
     {
@@ -2079,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 911,
       "user": "MayersScott"
     },
     {
@@ -2109,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "WenyuChiou"
     },
     {
@@ -2124,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 443,
       "user": "BigPizzaV3"
     },
     {
@@ -2139,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 314,
       "user": "ThisIsDara"
     },
     {
@@ -2154,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 294,
       "user": "ajavadinezhad"
     },
     {
@@ -2169,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "gofsnotify"
     },
     {
@@ -2184,7 +2169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "MiChongs"
     },
     {
@@ -2199,7 +2184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49052765?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "nyarime"
     }
   ]

@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
 
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-09 13:00 CAT)
+## 📅 Latest Updates (2026-05-09 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -174,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png" width="200" alt="The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine" />
+    <a href="https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77yhl48m8md1gkrm9buw.jpg" width="200" alt="How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't" />
       <br/>
-      <b>The Local Model That Doesn't Sleep: Gemma 4 + MTP ...</b>
+      <b>How a Hackathon Will Teach a New Developer What a ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77yhl48m8md1gkrm9buw.jpg" width="200" alt="How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't" />
+    <a href="https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuelen6xj6qt7yqpcb69t.jpg" width="200" alt="I built a Ruby gem so I don't have to squint at hash dumps anymore" />
       <br/>
-      <b>How a Hackathon Will Teach a New Developer What a ...</b>
+      <b>I built a Ruby gem so I don't have to squint at ha...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,7 +202,6 @@ npm run test
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
-- [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9) _[Dev.to]_
 - [How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't](https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8) _[Dev.to]_
 - [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
 - [[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out](https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run](https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9) _[Dev.to]_
 - [Architect A Personalized Multi-Agent System with Long-Term Memory](https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15) _[Dev.to]_
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
+- [Building ADK Agents with Azure Cloud Shell](https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1) _[Dev.to]_
 
-_Last automated update: Sat, 09 May 2026 13:52:54 CAT_
+_Last automated update: Sat, 09 May 2026 15:08:53 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 09 May 2026 13:52:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Mutability, performance, use cases
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. DataStructures: Implement a function to reverse a linked list
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 09 May 2026 11:52:54 GMT</b><br/>
+  <b>Last automated update: Sat, 09 May 2026 13:08:53 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
