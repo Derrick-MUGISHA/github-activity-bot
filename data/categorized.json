@@ -16,20 +16,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -45,6 +31,20 @@
       "user": "Aryan Choudhary"
     },
     {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
       "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
       "published_at": "2026-05-08T09:01:07Z",
@@ -58,21 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
       "source": "Dev.to",
       "user": "Ertuğrul Demir"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Reusable Spring Boot 4 Error Handler",
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "thcp"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1373,
       "user": "yaojingang"
     },
     {
@@ -659,8 +644,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 784,
       "user": "lightseekorg"
+    },
+    {
+      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "published_at": "2026-05-04T22:18:51Z",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
+      "source": "GitHub",
+      "stars": 411,
+      "user": "WenyuChiou"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "ajavadinezhad"
     }
   ],
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1642,
       "user": "aattaran"
     },
     {
@@ -886,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "thcp"
     },
     {
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "TitanFlow-Systems"
     },
     {
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 262,
       "user": "tolibear"
     },
     {
@@ -1128,38 +1128,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1373,
       "user": "yaojingang"
-    },
-    {
-      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "url": "https://github.com/vibeforge1111/keep-codex-fast",
-      "published_at": "2026-05-02T08:57:24Z",
-      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
-      "source": "GitHub",
-      "stars": 912,
-      "user": "vibeforge1111"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 777,
-      "user": "lightseekorg"
     },
     {
       "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
@@ -1173,8 +1143,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 794,
       "user": "MayersScott"
+    },
+    {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 784,
+      "user": "lightseekorg"
     },
     {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
@@ -1190,24 +1175,24 @@
       "source": "GitHub",
       "stars": 429,
       "user": "LayrKits"
+    },
+    {
+      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "published_at": "2026-05-04T22:18:51Z",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
+      "source": "GitHub",
+      "stars": 411,
+      "user": "WenyuChiou"
     }
   ],
   "DevOps": [
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
@@ -1420,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1642,
       "user": "aattaran"
     }
   ],
@@ -1467,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "ajavadinezhad"
     }
   ],
@@ -1486,21 +1471,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Building ADK Agents with Azure Cloud Shell",
@@ -1897,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1642,
       "user": "aattaran"
     },
     {
@@ -1927,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "thcp"
     },
     {
@@ -1942,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1957,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 262,
       "user": "tolibear"
     },
     {
@@ -1972,38 +1942,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1373,
       "user": "yaojingang"
-    },
-    {
-      "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "url": "https://github.com/vibeforge1111/keep-codex-fast",
-      "published_at": "2026-05-02T08:57:24Z",
-      "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/224284815?v=4",
-      "source": "GitHub",
-      "stars": 912,
-      "user": "vibeforge1111"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 777,
-      "user": "lightseekorg"
     },
     {
       "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
@@ -2017,8 +1957,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 794,
       "user": "MayersScott"
+    },
+    {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 784,
+      "user": "lightseekorg"
     },
     {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
@@ -2034,6 +1989,21 @@
       "source": "GitHub",
       "stars": 429,
       "user": "LayrKits"
+    },
+    {
+      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "published_at": "2026-05-04T22:18:51Z",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
+      "source": "GitHub",
+      "stars": 411,
+      "user": "WenyuChiou"
     },
     {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
@@ -2062,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 285,
       "user": "ajavadinezhad"
     },
     {
@@ -2077,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "gofsnotify"
     },
     {
