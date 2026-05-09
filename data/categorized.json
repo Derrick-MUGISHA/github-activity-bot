@@ -45,6 +45,19 @@
       "user": "Jess Lee"
     },
     {
+      "title": "How CLAUDE.md actually works",
+      "url": "https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e",
+      "published_at": "2026-05-09T06:33:47Z",
+      "description": "Most engineers write CLAUDE.md like a README. They put their stack, a few preferences, maybe a note...",
+      "tags": [
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkv5a9ikwya3cm0wk9l4.png",
+      "source": "Dev.to",
+      "user": "Wilbur Suero"
+    },
+    {
       "title": "Reusable Spring Boot 4 Error Handler",
       "url": "https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp",
       "published_at": "2026-05-08T13:49:57Z",
@@ -58,6 +71,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ge24p1hle98shu0edeg.png",
       "source": "Dev.to",
       "user": "Eduardo Issao Ito"
+    },
+    {
+      "title": "Build the Environment, Not the Agent",
+      "url": "https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05",
+      "published_at": "2026-05-09T03:23:19Z",
+      "description": "If you are building agents, the most important decision you make is where to put the work that keeps...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2b2ylpc0z0oy05oddkjw.png",
+      "source": "Dev.to",
+      "user": "Saravanan Ramupillai"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -193,21 +219,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -659,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1479,
       "user": "yaojingang"
     },
     {
@@ -674,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 844,
       "user": "lightseekorg"
     },
     {
@@ -689,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "WenyuChiou"
     },
     {
@@ -704,11 +715,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ajavadinezhad"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
+      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
+      "published_at": "2026-05-09T10:28:33Z",
+      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
+      "tags": [
+        "react",
+        "vue",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
+      "source": "Dev.to",
+      "user": "Abdullah Al Fahad"
+    },
     {
       "title": "gitui: a tiny TUI for your pull requests",
       "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0",
@@ -886,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1666,
       "user": "aattaran"
     },
     {
@@ -901,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 742,
       "user": "Kappaemme-git"
     },
     {
@@ -931,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "tolibear"
     },
     {
@@ -946,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 274,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1158,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1479,
       "user": "yaojingang"
     },
     {
@@ -1173,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 946,
       "user": "MayersScott"
     },
     {
@@ -1188,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 844,
       "user": "lightseekorg"
     },
     {
@@ -1203,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "WenyuChiou"
     },
     {
@@ -1218,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 466,
       "user": "BigPizzaV3"
     }
   ],
@@ -1314,6 +1340,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
+      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
+      "published_at": "2026-05-09T10:28:33Z",
+      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
+      "tags": [
+        "react",
+        "vue",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
+      "source": "Dev.to",
+      "user": "Abdullah Al Fahad"
+    },
     {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
@@ -1438,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1666,
       "user": "aattaran"
     }
   ],
@@ -1485,7 +1526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ajavadinezhad"
     }
   ],
@@ -1578,19 +1619,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao",
-      "published_at": "2026-05-07T15:40:31Z",
-      "description": "This is the fifth and final post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd0ng05c05x466mh5i727.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
     },
     {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
@@ -1845,21 +1873,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
       "published_at": "2026-05-06T20:48:25Z",
@@ -1974,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1666,
       "user": "aattaran"
     },
     {
@@ -1989,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 742,
       "user": "Kappaemme-git"
     },
     {
@@ -2019,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 283,
       "user": "tolibear"
     },
     {
@@ -2034,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 274,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2049,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1479,
       "user": "yaojingang"
     },
     {
@@ -2064,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 946,
       "user": "MayersScott"
     },
     {
@@ -2079,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 844,
       "user": "lightseekorg"
     },
     {
@@ -2094,7 +2107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 516,
       "user": "WenyuChiou"
     },
     {
@@ -2109,7 +2122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 466,
       "user": "BigPizzaV3"
     },
     {
@@ -2124,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 321,
       "user": "ThisIsDara"
     },
     {
@@ -2139,7 +2152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ajavadinezhad"
     },
     {
