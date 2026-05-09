@@ -90,21 +90,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
       "published_at": "2026-05-08T06:39:25Z",
@@ -285,6 +270,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
       "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
       "published_at": "2026-05-07T04:36:40Z",
@@ -368,6 +368,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5x1s006bbykytkgqg7t.png",
       "source": "Dev.to",
       "user": "Ilya Kaznacheev"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "tags": [
+        "aws",
+        "ai",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     },
     {
       "title": "We Have Code Review. We Need Intent Review.",
@@ -629,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1401,
       "user": "yaojingang"
     },
     {
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 805,
       "user": "lightseekorg"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 442,
       "user": "WenyuChiou"
     },
     {
@@ -856,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1642,
+      "stars": 1645,
       "user": "aattaran"
     },
     {
@@ -871,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 729,
       "user": "Kappaemme-git"
     },
     {
@@ -901,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 269,
       "user": "TitanFlow-Systems"
     },
     {
@@ -916,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 267,
       "user": "tolibear"
     },
     {
@@ -1128,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1401,
       "user": "yaojingang"
     },
     {
@@ -1143,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 832,
       "user": "MayersScott"
     },
     {
@@ -1158,8 +1173,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 805,
       "user": "lightseekorg"
+    },
+    {
+      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "published_at": "2026-05-04T22:18:51Z",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "WenyuChiou"
     },
     {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
@@ -1175,21 +1205,6 @@
       "source": "GitHub",
       "stars": 429,
       "user": "LayrKits"
-    },
-    {
-      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "published_at": "2026-05-04T22:18:51Z",
-      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "WenyuChiou"
     }
   ],
   "DevOps": [
@@ -1266,6 +1281,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     }
   ],
   "WebDev": [
@@ -1405,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1642,
+      "stars": 1645,
       "user": "aattaran"
     }
   ],
@@ -1458,21 +1488,6 @@
   ],
   "Cloud": [
     {
-      "title": "Building ADK Agents with Phi Models on Azure Foundry",
-      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
-      "published_at": "2026-05-06T14:32:51Z",
-      "description": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
-      "tags": [
-        "microsoftphi4",
-        "agents",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building ADK Agents with Azure Cloud Shell",
       "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1",
       "published_at": "2026-05-07T17:14:45Z",
@@ -1514,21 +1529,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd0ng05c05x466mh5i727.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
-    },
-    {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
     },
     {
       "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
@@ -1605,6 +1605,21 @@
       "user": "xbill"
     },
     {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
       "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
       "published_at": "2026-05-07T04:36:40Z",
@@ -1618,6 +1633,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Building ADK Agents with Phi Models on Azure Foundry",
+      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
+      "published_at": "2026-05-06T14:32:51Z",
+      "description": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
+      "tags": [
+        "microsoftphi4",
+        "agents",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
+      "published_at": "2026-05-06T16:00:47Z",
+      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
+      "tags": [
+        "aws",
+        "ai",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
+      "source": "Dev.to",
+      "user": "Erik Hanchett"
     }
   ],
   "Database": [
@@ -1867,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1642,
+      "stars": 1645,
       "user": "aattaran"
     },
     {
@@ -1882,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 729,
       "user": "Kappaemme-git"
     },
     {
@@ -1912,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 269,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1927,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 267,
       "user": "tolibear"
     },
     {
@@ -1942,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1401,
       "user": "yaojingang"
     },
     {
@@ -1957,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 832,
       "user": "MayersScott"
     },
     {
@@ -1972,8 +2017,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 805,
       "user": "lightseekorg"
+    },
+    {
+      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "published_at": "2026-05-04T22:18:51Z",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "WenyuChiou"
     },
     {
       "title": "LayrKits/Sprite-Pipeline - 2D Sprite Sheet Creation Pipeline",
@@ -1991,21 +2051,6 @@
       "user": "LayrKits"
     },
     {
-      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "published_at": "2026-05-04T22:18:51Z",
-      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "WenyuChiou"
-    },
-    {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
       "url": "https://github.com/ThisIsDara/mhr-cfw-go",
       "published_at": "2026-05-04T04:24:15Z",
@@ -2017,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "ThisIsDara"
     },
     {
