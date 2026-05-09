@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 0:00 CAT)
+## 📅 Latest Updates (2026-05-10 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -174,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkv5a9ikwya3cm0wk9l4.png" width="200" alt="How CLAUDE.md actually works" />
+    <a href="https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png" width="200" alt="I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules." />
       <br/>
-      <b>How CLAUDE.md actually works</b>
+      <b>I shipped a video player to npm — twice. What I le...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png" width="200" alt="I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules." />
+    <a href="https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77yhl48m8md1gkrm9buw.jpg" width="200" alt="How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't" />
       <br/>
-      <b>I shipped a video player to npm — twice. What I le...</b>
+      <b>How a Hackathon Will Teach a New Developer What a ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,10 +202,10 @@ npm run test
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
-- [How CLAUDE.md actually works](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) _[Dev.to]_
 - [I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl) _[Dev.to]_
 - [How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't](https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8) _[Dev.to]_
 - [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
+- [How CLAUDE.md actually works](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) _[Dev.to]_
 - [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) _[Dev.to]_
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
 - [Build the Environment, Not the Agent](https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
 - [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 00:00:49 CAT_
+_Last automated update: Sun, 10 May 2026 01:04:01 CAT_
 
 
 
@@ -227,14 +227,14 @@ _Last automated update: Sun, 10 May 2026 00:00:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -249,14 +249,14 @@ Iterative or recursive, three pointers
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Execution timing, event loop phases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 09 May 2026 22:00:49 GMT</b><br/>
+  <b>Last automated update: Sat, 09 May 2026 23:04:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
