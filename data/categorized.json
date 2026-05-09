@@ -255,21 +255,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -472,18 +457,62 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "OpenAI and Anthropic are Friendster and MySpace, if Subquadratic proves to be true.",
-      "url": "https://dev.to/jon_at_backboardio/openai-and-anthropic-are-friendster-and-myspace-if-subquadratic-proves-to-be-true-nb6",
-      "published_at": "2026-05-06T15:24:34Z",
-      "description": "If you've ever shipped an LLM-powered feature that needed to reason over a real codebase, a real...",
+      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
+      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
+      "published_at": "2026-05-03T00:00:00Z",
+      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
       "tags": [
         "ai",
-        "discuss",
-        "llm"
+        "softwareengineering",
+        "devrel",
+        "burnout"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2fv4q9yjx9tzsl6i97z.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
       "source": "Dev.to",
-      "user": "Jonathan Murray"
+      "user": "Filipe Brito Ferreira"
+    },
+    {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
+      "published_at": "2026-04-27T02:00:10Z",
+      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
+      "source": "Dev.to",
+      "user": "Michael Larson"
+    },
+    {
+      "title": "There will still be art in software",
+      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
+      "published_at": "2026-05-05T21:47:47Z",
+      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
+      "tags": [
+        "ai",
+        "uidesign"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
+      "source": "Dev.to",
+      "user": "Josiah Nunemaker"
+    },
+    {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
+      "published_at": "2026-05-06T12:21:00Z",
+      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
+      "source": "Dev.to",
+      "user": "Paul Newell"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -644,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1420,
+      "stars": 1432,
       "user": "yaojingang"
     },
     {
@@ -659,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 828,
       "user": "lightseekorg"
     },
     {
@@ -674,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 478,
       "user": "WenyuChiou"
     },
     {
@@ -689,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "ajavadinezhad"
     }
   ],
@@ -871,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1657,
       "user": "aattaran"
     },
     {
@@ -886,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 736,
       "user": "Kappaemme-git"
     },
     {
@@ -916,7 +945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 274,
       "user": "TitanFlow-Systems"
     },
     {
@@ -946,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "MiChongs"
     }
   ],
@@ -1143,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1420,
+      "stars": 1432,
       "user": "yaojingang"
     },
     {
@@ -1158,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 885,
       "user": "MayersScott"
     },
     {
@@ -1173,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 828,
       "user": "lightseekorg"
     },
     {
@@ -1188,7 +1217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 478,
       "user": "WenyuChiou"
     },
     {
@@ -1359,18 +1388,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "CSS classes are terribly named",
-      "url": "https://dev.to/darkwiiplayer/css-classes-are-terribly-named-3o2f",
-      "published_at": "2026-05-07T07:23:00Z",
-      "description": "Some quick thoughts on why CSS classes should be named something else and a tag should only have one \"class\"",
-      "tags": [
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4tsxr5nr5vmm1hz8fndf.png",
-      "source": "Dev.to",
-      "user": "𒎏Wii 🏳️‍⚧️"
-    },
-    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -1435,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1657,
       "user": "aattaran"
     }
   ],
@@ -1482,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "ajavadinezhad"
     }
   ],
@@ -1605,21 +1622,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building ADK Agents with Phi Models on Azure Foundry",
       "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
       "published_at": "2026-05-06T14:32:51Z",
@@ -1678,6 +1680,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
+      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
+      "published_at": "2026-05-06T05:53:26Z",
+      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
+      "tags": [
+        "linux",
+        "automation",
+        "vpn",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
+      "source": "Dev.to",
+      "user": "Vicente G. Reyes"
     }
   ],
   "Database": [
@@ -1733,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "MiChongs"
     }
   ],
@@ -1792,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "MiChongs"
     }
   ],
@@ -1840,21 +1857,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -1916,6 +1918,49 @@
       "user": "Brus-Nockk"
     },
     {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
+      "published_at": "2026-04-27T02:00:10Z",
+      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
+      "source": "Dev.to",
+      "user": "Michael Larson"
+    },
+    {
+      "title": "There will still be art in software",
+      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
+      "published_at": "2026-05-05T21:47:47Z",
+      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
+      "tags": [
+        "ai",
+        "uidesign"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
+      "source": "Dev.to",
+      "user": "Josiah Nunemaker"
+    },
+    {
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "url": "https://dev.to/newellpaul/i-programmed-an-ai-in-6502-assembly-it-worked-gpi",
+      "published_at": "2026-05-06T12:21:00Z",
+      "description": "In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu5x8ty31dudyfltp132.png",
+      "source": "Dev.to",
+      "user": "Paul Newell"
+    },
+    {
       "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "url": "https://github.com/aattaran/deepclaude",
       "published_at": "2026-05-03T21:27:49Z",
@@ -1927,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1657,
       "user": "aattaran"
     },
     {
@@ -1942,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 736,
       "user": "Kappaemme-git"
     },
     {
@@ -1972,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 274,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2002,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1420,
+      "stars": 1432,
       "user": "yaojingang"
     },
     {
@@ -2017,7 +2062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 885,
       "user": "MayersScott"
     },
     {
@@ -2032,7 +2077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 828,
       "user": "lightseekorg"
     },
     {
@@ -2047,7 +2092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 478,
       "user": "WenyuChiou"
     },
     {
@@ -2092,7 +2137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "ajavadinezhad"
     },
     {
@@ -2122,7 +2167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "MiChongs"
     },
     {
