@@ -355,21 +355,6 @@
       "user": "Greg Konush"
     },
     {
-      "title": "MCP Development with Amazon Lambda Managed Instances",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
-      "published_at": "2026-05-07T13:08:51Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "agenticai",
-        "mcps",
-        "gemini",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe46dvimfoxpndjud9n7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "HTML.md",
       "url": "https://dev.to/j9t/htmlmd-5do5",
       "published_at": "2026-05-07T08:33:02Z",
@@ -499,6 +484,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6lrpckkdlayvajctcti.png",
       "source": "Dev.to",
       "user": "Fernando Fornieles"
+    },
+    {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
+    },
+    {
+      "title": "Boring code is an organizational tell",
+      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
+      "published_at": "2026-04-19T18:02:48Z",
+      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
+      "tags": [
+        "ai",
+        "leadership",
+        "culture",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
+      "source": "Dev.to",
+      "user": "Simme"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "thcp"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1456,
       "user": "yaojingang"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "lightseekorg"
     },
     {
@@ -689,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "WenyuChiou"
     },
     {
@@ -704,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "ajavadinezhad"
     }
   ],
@@ -886,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1663,
+      "stars": 1664,
       "user": "aattaran"
     },
     {
@@ -916,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "thcp"
     },
     {
@@ -946,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "tolibear"
     },
     {
@@ -1158,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1456,
       "user": "yaojingang"
     },
     {
@@ -1173,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 922,
       "user": "MayersScott"
     },
     {
@@ -1188,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "lightseekorg"
     },
     {
@@ -1203,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "WenyuChiou"
     },
     {
@@ -1218,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "BigPizzaV3"
     }
   ],
@@ -1438,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1663,
+      "stars": 1664,
       "user": "aattaran"
     }
   ],
@@ -1485,24 +1500,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
-    {
-      "title": "[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao",
-      "published_at": "2026-05-07T15:40:31Z",
-      "description": "This is the fifth and final post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find...",
-      "tags": [
-        "googlecloud",
-        "googlecloudnext"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd0ng05c05x466mh5i727.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
     {
       "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-google-cloud-next-26-writing-challenge-winners-5990",
@@ -1516,6 +1518,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl2jswulnk93bzg2q3ox6.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Building ADK Agents with Azure Cloud Shell",
+      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1",
+      "published_at": "2026-05-07T17:14:45Z",
+      "description": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
+      "tags": [
+        "phimodel",
+        "azurefoundry",
+        "azurecloudshell",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh97z5a95guzv6d3z7zrd.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
@@ -1563,21 +1580,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Building ADK Agents with Azure Cloud Shell",
-      "url": "https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1",
-      "published_at": "2026-05-07T17:14:45Z",
-      "description": "This article covers installing and Running Gemini CLI cross-cloud. The Azure Cloud Shell provides a...",
-      "tags": [
-        "phimodel",
-        "azurefoundry",
-        "azurecloudshell",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh97z5a95guzv6d3z7zrd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
       "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
       "published_at": "2026-05-07T21:04:12Z",
@@ -1608,19 +1610,17 @@
       "user": "xbill"
     },
     {
-      "title": "Building ADK Agents with Phi Models on Azure Foundry",
-      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
-      "published_at": "2026-05-06T14:32:51Z",
-      "description": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
+      "title": "[Google Cloud Next '26 Recap #5] How I Prepared for the Trip — and How It Actually Played Out",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-5-how-i-prepared-for-the-trip-and-how-it-actually-played-out-19ao",
+      "published_at": "2026-05-07T15:40:31Z",
+      "description": "This is the fifth and final post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find...",
       "tags": [
-        "microsoftphi4",
-        "agents",
-        "googleadk",
-        "gemini"
+        "googlecloud",
+        "googlecloudnext"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd0ng05c05x466mh5i727.jpeg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "koichim2"
     },
     {
       "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
@@ -1636,21 +1636,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
       "source": "Dev.to",
       "user": "Erik Hanchett"
-    },
-    {
-      "title": "MCP Development with Amazon Lambda Managed Instances",
-      "url": "https://dev.to/gde/mcp-development-with-amazon-lambda-managed-instances-24cj",
-      "published_at": "2026-05-07T13:08:51Z",
-      "description": "Leveraging Gemini CLI and the underlying Gemini LLM to build Model Context Protocol (MCP) AI...",
-      "tags": [
-        "agenticai",
-        "mcps",
-        "gemini",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxe46dvimfoxpndjud9n7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
@@ -1681,6 +1666,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
       "source": "Dev.to",
       "user": "Vicente G. Reyes"
+    },
+    {
+      "title": "The Next Casualty of the GenAI Revolution",
+      "url": "https://dev.to/aws/the-next-casualty-of-the-genai-revolution-3in7",
+      "published_at": "2026-05-05T13:25:34Z",
+      "description": "I was at an event this morning where someone said something that really resonated with me. \"The new...",
+      "tags": [
+        "ai",
+        "cloud",
+        "aws",
+        "genai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2gjqk37ziii4p84gp02.jpg",
+      "source": "Dev.to",
+      "user": "Maish Saidel-Keesing"
     }
   ],
   "Database": [
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
       "source": "GitHub",
-      "stars": 1663,
+      "stars": 1664,
       "user": "aattaran"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "thcp"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "tolibear"
     },
     {
@@ -2049,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1456,
       "user": "yaojingang"
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 922,
       "user": "MayersScott"
     },
     {
@@ -2079,7 +2079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "lightseekorg"
     },
     {
@@ -2094,7 +2094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "WenyuChiou"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "BigPizzaV3"
     },
     {
@@ -2124,7 +2124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "ThisIsDara"
     },
     {
@@ -2139,7 +2139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "ajavadinezhad"
     },
     {
@@ -2154,7 +2154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "gofsnotify"
     },
     {
