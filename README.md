@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-09 20:00 CAT)
+## 📅 Latest Updates (2026-05-09 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Architect A Personalized Multi-Agent System with Long-Term Memory](https://dev.to/googleai/architect-a-personalized-multi-agent-system-with-long-term-memory-3o15) _[Dev.to]_
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
 
-_Last automated update: Sat, 09 May 2026 20:32:28 CAT_
+_Last automated update: Sat, 09 May 2026 21:44:21 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 09 May 2026 20:32:28 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Execution timing, event loop phases
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 09 May 2026 18:32:28 GMT</b><br/>
+  <b>Last automated update: Sat, 09 May 2026 19:44:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
