@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-09 16:00 CAT)
+## 📅 Latest Updates (2026-05-09 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -136,19 +136,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
+    <a href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg" width="200" alt="Congrats to the OpenClaw Challenge Winners!" />
       <br/>
-      <b>What was your win this week??</b>
+      <b>Congrats to the OpenClaw Challenge Winners!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg" width="200" alt="Congrats to the OpenClaw Challenge Winners!" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
       <br/>
-      <b>Congrats to the OpenClaw Challenge Winners!</b>
+      <b>What was your win this week??</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't](https://dev.to/mlh/how-a-hackathon-will-teach-a-new-developer-what-a-year-of-tutorials-cant-4fn8) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
 - [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 
-_Last automated update: Sat, 09 May 2026 16:20:07 CAT_
+_Last automated update: Sat, 09 May 2026 17:28:58 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 09 May 2026 16:20:07 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Hash function, database design, caching, analytics
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 09 May 2026 14:20:07 GMT</b><br/>
+  <b>Last automated update: Sat, 09 May 2026 15:28:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
