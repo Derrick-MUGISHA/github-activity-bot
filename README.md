@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 23:00 CAT)
+## 📅 Latest Updates (2026-05-11 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 23:43:49 CAT_
+_Last automated update: Mon, 11 May 2026 00:29:33 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 10 May 2026 23:43:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. Database: Design a database schema for a social media platform
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 21:43:49 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 22:29:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
