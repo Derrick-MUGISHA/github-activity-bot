@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 18:00 CAT)
+## 📅 Latest Updates (2026-05-10 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -145,15 +145,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
-      <br/>
-      <b>What was your win this week??</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg" width="200" alt="Congrats to the OpenClaw Challenge Winners!" />
       <br/>
@@ -162,17 +153,17 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkv5a9ikwya3cm0wk9l4.png" width="200" alt="How CLAUDE.md actually works" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
       <br/>
-      <b>How CLAUDE.md actually works</b>
+      <b>What was your win this week??</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp" width="200" alt="What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)" />
@@ -191,6 +182,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ge24p1hle98shu0edeg.png" width="200" alt="Reusable Spring Boot 4 Error Handler" />
+      <br/>
+      <b>Reusable Spring Boot 4 Error Handler</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,9 +199,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
-- [How CLAUDE.md actually works](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) _[Dev.to]_
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
+- [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 18:50:56 CAT_
+_Last automated update: Sun, 10 May 2026 19:48:32 CAT_
 
 
 
@@ -227,18 +227,29 @@ _Last automated update: Sun, 10 May 2026 18:50:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Execution timing, event loop phases
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 2. DataStructures: Implement a function to reverse a linked list
+
+**Difficulty**: Medium | **Topics**: linked lists, pointers
+
+<details>
+<summary>💡 Hint</summary>
+
+Iterative or recursive, three pointers
+
+</details>
+
+### 3. JavaScript: What are closures and provide a practical example?
 
 **Difficulty**: Medium | **Topics**: functions, scope
 
@@ -246,17 +257,6 @@ Token bucket, sliding window, distributed systems
 <summary>💡 Hint</summary>
 
 Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 3. Python: Explain GIL and its implications for multithreading
-
-**Difficulty**: Hard | **Topics**: concurrency, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 16:50:56 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 17:48:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
