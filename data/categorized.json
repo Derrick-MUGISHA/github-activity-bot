@@ -30,6 +30,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
+      "published_at": "2026-05-10T18:28:13Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "tags": [
+        "ai",
+        "javascript",
+        "gemmachallenge",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
+      "source": "Dev.to",
+      "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
+      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
+      "published_at": "2026-05-09T17:26:14Z",
+      "description": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
+      "tags": [
+        "ai",
+        "claude",
+        "beginners",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png",
+      "source": "Dev.to",
+      "user": "L. Cordero"
+    },
+    {
       "title": "TaskDev - a task runner for AI coding agents (MCP)",
       "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
       "published_at": "2026-05-09T23:13:17Z",
@@ -497,36 +527,6 @@
       "user": "Harsh "
     },
     {
-      "title": "Boring code is an organizational tell",
-      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
-      "published_at": "2026-04-19T18:02:48Z",
-      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
-      "tags": [
-        "ai",
-        "leadership",
-        "culture",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
-      "source": "Dev.to",
-      "user": "Simme"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 581,
       "user": "huangserva"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 893,
       "user": "lightseekorg"
     },
     {
@@ -730,11 +730,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "ajavadinezhad"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
+      "published_at": "2026-05-10T18:28:13Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "tags": [
+        "ai",
+        "javascript",
+        "gemmachallenge",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
+      "source": "Dev.to",
+      "user": "Muhammad Ahsan Ayaz"
+    },
     {
       "title": "gitui: a tiny TUI for your pull requests",
       "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0",
@@ -927,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 581,
       "user": "huangserva"
     },
     {
@@ -972,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "kunchenguid"
     },
     {
@@ -1214,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 893,
       "user": "lightseekorg"
     },
     {
@@ -1244,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 655,
       "user": "BigPizzaV3"
     },
     {
@@ -1337,21 +1352,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "Dockerized Symfony 6.4 project boilerplate",
-      "url": "https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059",
-      "published_at": "2026-05-08T10:16:06Z",
-      "description": "&gt; Repository and post updated September 22 2024   The perfect Dockerized Symfony 6.4 boilerplate...",
-      "tags": [
-        "backend",
-        "docker",
-        "php",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57iqkfz8rwpb3v2tqt2t.png",
-      "source": "Dev.to",
-      "user": "Nicolas Bonnici"
     }
   ],
   "WebDev": [
@@ -1411,21 +1411,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
       "source": "Dev.to",
       "user": "Abdullah Al Fahad"
-    },
-    {
-      "title": "Dockerized Symfony 6.4 project boilerplate",
-      "url": "https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059",
-      "published_at": "2026-05-08T10:16:06Z",
-      "description": "&gt; Repository and post updated September 22 2024   The perfect Dockerized Symfony 6.4 boilerplate...",
-      "tags": [
-        "backend",
-        "docker",
-        "php",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F57iqkfz8rwpb3v2tqt2t.png",
-      "source": "Dev.to",
-      "user": "Nicolas Bonnici"
     },
     {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
@@ -1511,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "ajavadinezhad"
     }
   ],
@@ -1633,21 +1618,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
       "source": "Dev.to",
       "user": "Vicente G. Reyes"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     }
   ],
   "Database": [
@@ -1945,21 +1915,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1971,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 581,
       "user": "huangserva"
     },
     {
@@ -2016,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "kunchenguid"
     },
     {
@@ -2061,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 893,
       "user": "lightseekorg"
     },
     {
@@ -2091,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 655,
       "user": "BigPizzaV3"
     },
     {
@@ -2121,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "ThisIsDara"
     },
     {
@@ -2136,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "ajavadinezhad"
     },
     {
@@ -2151,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "gofsnotify"
     },
     {
