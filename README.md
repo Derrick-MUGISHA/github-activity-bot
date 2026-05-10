@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-10-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
 
-**WebDev**: 🟦🟦🟦 8 (7.6%)
+**WebDev**: 🟦🟦🟦 8 (7.7%)
 
-**Cloud**: 🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦 8 (7.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.3 (25.3%)
-JavaScript      █████████████████████████████ 24.1 (24.1%)
-Java            ██████████████████████████ 21.8 (21.8%)
-Python          ██████████████████████████ 21.8 (21.8%)
+Go              ██████████████████████████████ 25.6 (25.6%)
+JavaScript      ███████████████████████████ 23.3 (23.3%)
+Java            ██████████████████████████ 22.1 (22.1%)
+Python          ██████████████████████████ 22.1 (22.1%)
 Rust            ███ 2.3 (2.3%)
-Ruby            █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
+Ruby            █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 22
-    "JavaScript" : 21
+    "JavaScript" : 20
     "Java" : 19
     "Python" : 19
     "Rust" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-11 0:00 CAT)
+## 📅 Latest Updates (2026-05-11 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -209,7 +209,6 @@ npm run test
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
 - [Build the Environment, Not the Agent](https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05) _[Dev.to]_
 - [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0) _[Dev.to]_
-- [gitui: a tiny TUI for your pull requests](https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0) _[Dev.to]_
 - [Building ADK Agents with Azure Cloud Shell](https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1) _[Dev.to]_
 - [Computers and upgrades](https://dev.to/unsungnovelty/computers-and-upgrades-3n7f) _[Dev.to]_
 - [Local Testing of a Multi-Agent System with Memory](https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
+- [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
 
-_Last automated update: Mon, 11 May 2026 00:29:33 CAT_
+_Last automated update: Mon, 11 May 2026 01:29:50 CAT_
 
 
 
@@ -227,7 +227,18 @@ _Last automated update: Mon, 11 May 2026 00:29:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+### 2. JavaScript: What are closures and provide a practical example?
 
 **Difficulty**: Medium | **Topics**: functions, scope
 
@@ -238,25 +249,14 @@ Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: error handling, async
-
-<details>
-<summary>💡 Hint</summary>
-
-try/catch, .catch(), error middleware
-
-</details>
-
-### 3. NodeJS: Implement rate limiting for an API
-
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 22:29:33 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 23:29:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
