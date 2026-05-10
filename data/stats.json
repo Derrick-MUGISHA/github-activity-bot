@@ -6,15 +6,15 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 50,
+    "AI": 51,
     "JavaScript": 20,
     "Python": 19,
     "DevOps": 6,
     "WebDev": 9,
     "Mobile": 3,
-    "Cloud": 9,
+    "Cloud": 8,
     "Database": 4,
-    "Security": 5,
+    "Security": 6,
     "Tools": 25
   },
   "by_language": {
@@ -31,10 +31,10 @@
   "by_date": {
     "2026-05-08": 8,
     "2026-05-06": 16,
-    "2026-05-07": 23,
+    "2026-05-07": 22,
     "2026-05-09": 3,
     "2026-05-05": 9,
-    "2026-05-04": 6,
+    "2026-05-04": 7,
     "2026-04-27": 3,
     "2026-04-26": 1,
     "2026-04-30": 2,
@@ -80,19 +80,19 @@
     "JavaScript": 10,
     "Python": 10,
     "python": 9,
-    "agents": 8,
     "webdev": 7,
+    "agents": 7,
+    "programming": 7,
+    "discuss": 6,
     "devchallenge": 6,
-    "programming": 6,
     "go": 6,
-    "discuss": 5,
     "productivity": 5,
-    "googlecloud": 5,
     "javascript": 5,
     "gemmachallenge": 4,
+    "googlecloud": 4,
     "architecture": 4,
-    "learning": 3,
-    "gemma": 3
+    "gemma": 3,
+    "opensource": 3
   },
   "trending_topics": [],
   "language_percentages": {
