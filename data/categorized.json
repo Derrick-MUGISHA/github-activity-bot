@@ -148,21 +148,6 @@
       "user": "Falcon"
     },
     {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
       "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
       "published_at": "2026-05-08T09:01:07Z",
@@ -262,19 +247,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "Terminal as a Dev Environment in the Age of Agents",
-      "url": "https://dev.to/jonfir/terminal-as-a-dev-environment-in-the-age-of-agents-f2e",
-      "published_at": "2026-05-06T12:14:35Z",
-      "description": "When the IDE Stopped Being the Center of Development   At some point, I realized something...",
-      "tags": [
-        "ai",
-        "terminal"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fay353mvmqa5mkudh5vk2.png",
-      "source": "Dev.to",
-      "user": "Jon Fir"
     },
     {
       "title": "AI Is Moving Ridiculously Fast",
@@ -482,6 +454,21 @@
       "user": "Paul Newell"
     },
     {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -525,6 +512,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Boring code is an organizational tell",
+      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
+      "published_at": "2026-04-19T18:02:48Z",
+      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
+      "tags": [
+        "ai",
+        "leadership",
+        "culture",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
+      "source": "Dev.to",
+      "user": "Simme"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -670,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 611,
       "user": "huangserva"
     },
     {
@@ -715,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "WenyuChiou"
     },
     {
@@ -730,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "ajavadinezhad"
     }
   ],
@@ -942,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 611,
       "user": "huangserva"
     },
     {
@@ -987,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "kunchenguid"
     },
     {
@@ -1244,7 +1246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "WenyuChiou"
     },
     {
@@ -1259,7 +1261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "BigPizzaV3"
     },
     {
@@ -1310,21 +1312,6 @@
       "user": "Falcon"
     },
     {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
       "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
       "published_at": "2026-05-05T08:01:34Z",
@@ -1352,6 +1339,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     }
   ],
   "WebDev": [
@@ -1496,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "ajavadinezhad"
     }
   ],
@@ -1528,21 +1530,6 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -1618,6 +1605,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
       "source": "Dev.to",
       "user": "Vicente G. Reyes"
+    },
+    {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     }
   ],
   "Database": [
@@ -1926,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 611,
       "user": "huangserva"
     },
     {
@@ -1971,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "kunchenguid"
     },
     {
@@ -2031,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "WenyuChiou"
     },
     {
@@ -2046,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "BigPizzaV3"
     },
     {
@@ -2091,7 +2093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "ajavadinezhad"
     },
     {
