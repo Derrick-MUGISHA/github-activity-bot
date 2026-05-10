@@ -394,21 +394,6 @@
       "user": "Brus-Nockk"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
       "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
       "published_at": "2026-05-03T00:00:00Z",
@@ -497,6 +482,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
+      "published_at": "2026-05-07T03:34:05Z",
+      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "tags": [
+        "typescript",
+        "ai",
+        "webdev",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
+    },
+    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -510,21 +510,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
       "source": "Dev.to",
       "user": "Simme"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -670,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1511,
       "user": "yaojingang"
     },
     {
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 869,
       "user": "lightseekorg"
     },
     {
@@ -700,23 +685,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 593,
       "user": "WenyuChiou"
-    },
-    {
-      "title": "butthtio/solidity-cot-auditor - Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "url": "https://github.com/butthtio/solidity-cot-auditor",
-      "published_at": "2026-05-04T02:37:55Z",
-      "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257218376?v=4",
-      "source": "GitHub",
-      "stars": 404,
-      "user": "butthtio"
     },
     {
       "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
@@ -730,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "ajavadinezhad"
     }
   ],
@@ -779,6 +749,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
       "source": "Dev.to",
       "user": "Greg Konush"
+    },
+    {
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
+      "published_at": "2026-05-07T03:34:05Z",
+      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
+      "tags": [
+        "typescript",
+        "ai",
+        "webdev",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -912,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "TitanFlow-Systems"
     },
     {
@@ -927,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "kerlos"
     },
     {
@@ -942,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "cv-cat"
     },
     {
@@ -957,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281909400?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "freq-trades"
     },
     {
@@ -972,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 181,
       "user": "kunchenguid"
     },
     {
@@ -987,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "MiChongs"
     }
   ],
@@ -1184,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1511,
       "user": "yaojingang"
     },
     {
@@ -1199,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 869,
       "user": "lightseekorg"
     },
     {
@@ -1214,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 593,
       "user": "WenyuChiou"
     },
     {
@@ -1229,23 +1214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 499,
       "user": "BigPizzaV3"
     },
     {
-      "title": "butthtio/solidity-cot-auditor - Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "url": "https://github.com/butthtio/solidity-cot-auditor",
-      "published_at": "2026-05-04T02:37:55Z",
-      "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
+      "title": "kitft/natural_language_autoencoders - GitHub Repository",
+      "url": "https://github.com/kitft/natural_language_autoencoders",
+      "published_at": "2026-05-05T16:27:07Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257218376?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 404,
-      "user": "butthtio"
+      "stars": 412,
+      "user": "kitft"
     }
   ],
   "DevOps": [
@@ -1511,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "ajavadinezhad"
     }
   ],
@@ -1635,21 +1620,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "published_at": "2026-05-05T18:38:06Z",
-      "description": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fslxnds3h45184mq4rooy.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
       "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
       "published_at": "2026-05-06T05:53:26Z",
@@ -1663,21 +1633,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
       "source": "Dev.to",
       "user": "Vicente G. Reyes"
-    },
-    {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     }
   ],
   "Database": [
@@ -1733,7 +1688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "MiChongs"
     }
   ],
@@ -1796,21 +1751,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "butthtio/solidity-cot-auditor - Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "url": "https://github.com/butthtio/solidity-cot-auditor",
-      "published_at": "2026-05-04T02:37:55Z",
-      "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257218376?v=4",
-      "source": "GitHub",
-      "stars": 404,
-      "user": "butthtio"
-    },
-    {
       "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
       "url": "https://github.com/MiChongs/karpov-gateway",
       "published_at": "2026-05-04T06:32:38Z",
@@ -1822,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "MiChongs"
     }
   ],
@@ -1975,21 +1915,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
       "published_at": "2026-05-05T20:40:48Z",
@@ -2001,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "TitanFlow-Systems"
     },
     {
@@ -2016,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "kerlos"
     },
     {
@@ -2031,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "cv-cat"
     },
     {
@@ -2046,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281909400?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "freq-trades"
     },
     {
@@ -2061,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 181,
       "user": "kunchenguid"
     },
     {
@@ -2076,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1511,
       "user": "yaojingang"
     },
     {
@@ -2091,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 869,
       "user": "lightseekorg"
     },
     {
@@ -2106,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 593,
       "user": "WenyuChiou"
     },
     {
@@ -2121,23 +2046,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 499,
       "user": "BigPizzaV3"
     },
     {
-      "title": "butthtio/solidity-cot-auditor - Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "url": "https://github.com/butthtio/solidity-cot-auditor",
-      "published_at": "2026-05-04T02:37:55Z",
-      "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
+      "title": "kitft/natural_language_autoencoders - GitHub Repository",
+      "url": "https://github.com/kitft/natural_language_autoencoders",
+      "published_at": "2026-05-05T16:27:07Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/257218376?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 404,
-      "user": "butthtio"
+      "stars": 412,
+      "user": "kitft"
     },
     {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
@@ -2151,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 341,
       "user": "ThisIsDara"
     },
     {
@@ -2166,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "ajavadinezhad"
     },
     {
@@ -2181,7 +2106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "gofsnotify"
     },
     {
@@ -2196,7 +2121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "MiChongs"
     },
     {
