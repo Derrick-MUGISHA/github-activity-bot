@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-10-orange)
 
@@ -28,31 +28,31 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (49.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (49.5%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**WebDev**: 🟦🟦🟦🟦 9 (8.7%)
+**WebDev**: 🟦🟦🟦 9 (8.6%)
 
-**Cloud**: 🟦🟦🟦 8 (7.7%)
+**Cloud**: 🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 6 (5.8%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
 **Security**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦 2 (1.9%)
 
 
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 23.8 (23.8%)
-Go              ██████████████████████████████ 23.8 (23.8%)
-Python          ████████████████████████████ 22.6 (22.6%)
-Java            ███████████████████████████ 21.4 (21.4%)
+Go              ██████████████████████████████ 24.7 (24.7%)
+JavaScript      █████████████████████████████ 23.5 (23.5%)
+Python          ███████████████████████████ 22.4 (22.4%)
+Java            ██████████████████████████ 21.2 (21.2%)
 PHP             ███ 2.4 (2.4%)
 Rust            ███ 2.4 (2.4%)
-Ruby            ██ 1.2 (1.2%)
-Swift           ██ 1.2 (1.2%)
-Kotlin          ██ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
+Kotlin          █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 21
     "JavaScript" : 20
-    "Go" : 20
     "Python" : 19
     "Java" : 18
     "PHP" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) 
+![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 19:00 CAT)
+## 📅 Latest Updates (2026-05-10 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -174,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
+    <a href="https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png" width="200" alt="TaskDev - a task runner for AI coding agents (MCP)" />
       <br/>
-      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
+      <b>TaskDev - a task runner for AI coding agents (MCP)</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ge24p1hle98shu0edeg.png" width="200" alt="Reusable Spring Boot 4 Error Handler" />
+    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
       <br/>
-      <b>Reusable Spring Boot 4 Error Handler</b>
+      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,6 +202,7 @@ npm run test
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) _[Dev.to]_
+- [TaskDev - a task runner for AI coding agents (MCP)](https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
 - [Build the Environment, Not the Agent](https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05) _[Dev.to]_
@@ -217,9 +218,8 @@ npm run test
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
-- [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 19:48:32 CAT_
+_Last automated update: Sun, 10 May 2026 20:57:32 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 10 May 2026 19:48:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Heap, stack, garbage collection
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. JavaScript: What are closures and provide a practical example?
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 17:48:33 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 18:57:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
