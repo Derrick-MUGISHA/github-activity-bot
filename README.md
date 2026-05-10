@@ -28,13 +28,13 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 24.7 (24.7%)
-JavaScript      █████████████████████████████ 23.5 (23.5%)
-Python          ███████████████████████████ 22.4 (22.4%)
-Java            ██████████████████████████ 21.2 (21.2%)
+JavaScript      ██████████████████████████████ 23.8 (23.8%)
+Go              ██████████████████████████████ 23.8 (23.8%)
+Python          ████████████████████████████ 22.6 (22.6%)
+Java            ███████████████████████████ 21.4 (21.4%)
 PHP             ███ 2.4 (2.4%)
 Rust            ███ 2.4 (2.4%)
-Ruby            █ 1.2 (1.2%)
-Swift           █ 1.2 (1.2%)
-Kotlin          █ 1.2 (1.2%)
+Ruby            ██ 1.2 (1.2%)
+Swift           ██ 1.2 (1.2%)
+Kotlin          ██ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 21
     "JavaScript" : 20
+    "Go" : 20
     "Python" : 19
     "Java" : 18
     "PHP" : 2
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 15:00 CAT)
+## 📅 Latest Updates (2026-05-10 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 15:54:38 CAT_
+_Last automated update: Sun, 10 May 2026 16:49:26 CAT_
 
 
 
@@ -227,18 +227,7 @@ _Last automated update: Sun, 10 May 2026 15:54:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Implement a custom hook for fetching data
-
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
-
-</details>
-
-### 2. SystemDesign: Design a distributed cache system
+### 1. SystemDesign: Design a distributed cache system
 
 **Difficulty**: Hard | **Topics**: distributed systems, caching
 
@@ -249,14 +238,25 @@ Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 2. Java: Explain the Java memory model
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Heap, stack, garbage collection
+
+</details>
+
+### 3. React: What are hooks and why were they introduced?
+
+**Difficulty**: Medium | **Topics**: hooks, functional components
+
+<details>
+<summary>💡 Hint</summary>
+
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 13:54:38 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 14:49:26 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
