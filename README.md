@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-10-orange)
 
@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 52 (50.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 19 (18.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦 11 (10.6%)
+**WebDev**: 🟦🟦🟦🟦 9 (8.6%)
 
-**WebDev**: 🟦🟦🟦 9 (8.7%)
+**Cloud**: 🟦🟦🟦🟦 9 (8.6%)
 
-**DevOps**: 🟦🟦 6 (5.8%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
-**Security**: 🟦🟦 6 (5.8%)
+**Security**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.9 (25.9%)
-JavaScript      ██████████████████████████ 22.4 (22.4%)
-Python          ██████████████████████████ 22.4 (22.4%)
-Java            █████████████████████████ 21.2 (21.2%)
+Go              ██████████████████████████████ 24.7 (24.7%)
+JavaScript      █████████████████████████████ 23.5 (23.5%)
+Python          ███████████████████████████ 22.4 (22.4%)
+Java            ██████████████████████████ 21.2 (21.2%)
 PHP             ███ 2.4 (2.4%)
 Rust            ███ 2.4 (2.4%)
 Ruby            █ 1.2 (1.2%)
@@ -74,8 +74,8 @@ Kotlin          █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 22
-    "JavaScript" : 19
+    "Go" : 21
+    "JavaScript" : 20
     "Python" : 19
     "Java" : 18
     "PHP" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-27-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![javascript](https://img.shields.io/badge/javascript-5-blue) 
+![ai](https://img.shields.io/badge/ai-26-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![googlecloud](https://img.shields.io/badge/googlecloud-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 6:00 CAT)
+## 📅 Latest Updates (2026-05-10 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -183,10 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuelen6xj6qt7yqpcb69t.jpg" width="200" alt="I built a Ruby gem so I don't have to squint at hash dumps anymore" />
+    <a href="https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkv5a9ikwya3cm0wk9l4.png" width="200" alt="How CLAUDE.md actually works" />
       <br/>
-      <b>I built a Ruby gem so I don't have to squint at ha...</b>
+      <b>How CLAUDE.md actually works</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -203,7 +203,6 @@ npm run test
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [I shipped a video player to npm — twice. What I learned about scoped CSS, "use client", and Nuxt modules.](https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl) _[Dev.to]_
-- [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
 - [How CLAUDE.md actually works](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) _[Dev.to]_
 - [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) _[Dev.to]_
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images](https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c) _[Dev.to]_
 - [Deploying a Multi-Agent System with Terraform and Cloud Run](https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c) _[Dev.to]_
 - [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9) _[Dev.to]_
+- [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 06:13:34 CAT_
+_Last automated update: Sun, 10 May 2026 08:45:31 CAT_
 
 
 
@@ -238,25 +238,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Python: Implement a context manager using __enter__ and __exit__
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 04:13:34 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 06:45:31 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
