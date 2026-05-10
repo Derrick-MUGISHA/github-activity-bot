@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -31,7 +31,7 @@
   "by_date": {
     "2026-05-06": 16,
     "2026-05-08": 8,
-    "2026-05-07": 22,
+    "2026-05-07": 21,
     "2026-05-09": 3,
     "2026-05-05": 9,
     "2026-05-04": 6,
@@ -84,16 +84,16 @@
     "agents": 7,
     "webdev": 7,
     "programming": 7,
-    "devchallenge": 6,
     "discuss": 6,
     "go": 6,
+    "devchallenge": 5,
     "productivity": 5,
     "javascript": 5,
-    "gemmachallenge": 4,
     "googlecloud": 4,
     "architecture": 4,
-    "gemma": 3,
-    "career": 3
+    "gemmachallenge": 3,
+    "career": 3,
+    "learning": 3
   },
   "trending_topics": [],
   "language_percentages": {
