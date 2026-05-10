@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-10 21:00 CAT)
+## 📅 Latest Updates (2026-05-10 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -183,10 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png" width="200" alt="Code with Claude Extended SF: Heck yeah and then wait, what?" />
+    <a href="https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp" width="200" alt="What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)" />
       <br/>
-      <b>Code with Claude Extended SF: Heck yeah and then w...</b>
+      <b>What Reddit Can Teach Us About Women’s Watch Prefe...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -203,7 +203,6 @@ npm run test
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do](https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4) _[Dev.to]_
 - [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) _[Dev.to]_
-- [Code with Claude Extended SF: Heck yeah and then wait, what?](https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd) _[Dev.to]_
 - [What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3) _[Dev.to]_
 - [TaskDev - a task runner for AI coding agents (MCP)](https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [Deploying a Multi-Agent System with Terraform and Cloud Run](https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c) _[Dev.to]_
 - [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9) _[Dev.to]_
 - [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
+- [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 
-_Last automated update: Sun, 10 May 2026 21:58:46 CAT_
+_Last automated update: Sun, 10 May 2026 22:55:33 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 10 May 2026 21:58:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 10 May 2026 19:58:46 GMT</b><br/>
+  <b>Last automated update: Sun, 10 May 2026 20:55:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

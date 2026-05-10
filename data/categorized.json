@@ -45,21 +45,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
-      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
-      "published_at": "2026-05-09T17:26:14Z",
-      "description": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
-      "tags": [
-        "ai",
-        "claude",
-        "beginners",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png",
-      "source": "Dev.to",
-      "user": "L. Cordero"
-    },
-    {
       "title": "TaskDev - a task runner for AI coding agents (MCP)",
       "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
       "published_at": "2026-05-09T23:13:17Z",
@@ -221,6 +206,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
+      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
+      "published_at": "2026-05-09T17:26:14Z",
+      "description": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
+      "tags": [
+        "ai",
+        "claude",
+        "beginners",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png",
+      "source": "Dev.to",
+      "user": "L. Cordero"
     },
     {
       "title": "How CLAUDE.md actually works",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 601,
       "user": "huangserva"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1543,
       "user": "yaojingang"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 895,
       "user": "lightseekorg"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 347,
       "user": "ajavadinezhad"
     }
   ],
@@ -942,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 601,
       "user": "huangserva"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "kunchenguid"
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1543,
       "user": "yaojingang"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 895,
       "user": "lightseekorg"
     },
     {
@@ -1259,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "BigPizzaV3"
     },
     {
@@ -1274,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 442,
       "user": "kitft"
     }
   ],
@@ -1496,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 347,
       "user": "ajavadinezhad"
     }
   ],
@@ -1926,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 601,
       "user": "huangserva"
     },
     {
@@ -1971,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "kunchenguid"
     },
     {
@@ -2001,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1543,
       "user": "yaojingang"
     },
     {
@@ -2016,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 895,
       "user": "lightseekorg"
     },
     {
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 657,
       "user": "BigPizzaV3"
     },
     {
@@ -2061,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 442,
       "user": "kitft"
     },
     {
@@ -2076,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 365,
       "user": "ThisIsDara"
     },
     {
@@ -2091,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 347,
       "user": "ajavadinezhad"
     },
     {
