@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1532,
       "user": "yaojingang"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 671,
       "user": "WenyuChiou"
     },
     {
@@ -700,26 +700,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "ajavadinezhad"
     }
   ],
   "JavaScript": [
-    {
-      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
-      "published_at": "2026-05-09T10:28:33Z",
-      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
-      "tags": [
-        "react",
-        "vue",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
-      "source": "Dev.to",
-      "user": "Abdullah Al Fahad"
-    },
     {
       "title": "gitui: a tiny TUI for your pull requests",
       "url": "https://dev.to/thalesbruno/gitui-a-tiny-tui-for-your-pull-requests-3me0",
@@ -734,6 +719,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyrfe4m82jek552lapjq.jpg",
       "source": "Dev.to",
       "user": "Thales Bruno"
+    },
+    {
+      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
+      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
+      "published_at": "2026-05-09T10:28:33Z",
+      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
+      "tags": [
+        "react",
+        "vue",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
+      "source": "Dev.to",
+      "user": "Abdullah Al Fahad"
     },
     {
       "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
@@ -912,23 +912,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "kerlos"
-    },
-    {
-      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
-      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
-      "published_at": "2026-05-06T07:05:07Z",
-      "description": "XHS_ALL_IN_ONE 小红书全域运营",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
-      "source": "GitHub",
-      "stars": 209,
-      "user": "cv-cat"
     },
     {
       "title": "kunchenguid/autopreso - Realtime speech to presentation. Let the whiteboard whiteboard itself.",
@@ -942,8 +927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 213,
       "user": "kunchenguid"
+    },
+    {
+      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
+      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
+      "published_at": "2026-05-06T07:05:07Z",
+      "description": "XHS_ALL_IN_ONE 小红书全域运营",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "cv-cat"
     },
     {
       "title": "freq-trades/polymarket-trading-bot-v2 - polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1532,
       "user": "yaojingang"
     },
     {
@@ -1199,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 671,
       "user": "WenyuChiou"
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 553,
       "user": "BigPizzaV3"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "kitft"
     }
   ],
@@ -1326,21 +1326,6 @@
   ],
   "WebDev": [
     {
-      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
-      "published_at": "2026-05-09T10:28:33Z",
-      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
-      "tags": [
-        "react",
-        "vue",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
-      "source": "Dev.to",
-      "user": "Abdullah Al Fahad"
-    },
-    {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
       "published_at": "2026-05-07T23:15:51Z",
@@ -1381,6 +1366,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
+    },
+    {
+      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
+      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
+      "published_at": "2026-05-09T10:28:33Z",
+      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
+      "tags": [
+        "react",
+        "vue",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
+      "source": "Dev.to",
+      "user": "Abdullah Al Fahad"
     },
     {
       "title": "Dockerized Symfony 6.4 project boilerplate",
@@ -1496,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "ajavadinezhad"
     }
   ],
@@ -1926,23 +1926,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "kerlos"
-    },
-    {
-      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
-      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
-      "published_at": "2026-05-06T07:05:07Z",
-      "description": "XHS_ALL_IN_ONE 小红书全域运营",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
-      "source": "GitHub",
-      "stars": 209,
-      "user": "cv-cat"
     },
     {
       "title": "kunchenguid/autopreso - Realtime speech to presentation. Let the whiteboard whiteboard itself.",
@@ -1956,8 +1941,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 213,
       "user": "kunchenguid"
+    },
+    {
+      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
+      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
+      "published_at": "2026-05-06T07:05:07Z",
+      "description": "XHS_ALL_IN_ONE 小红书全域运营",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "cv-cat"
     },
     {
       "title": "freq-trades/polymarket-trading-bot-v2 - polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
@@ -1986,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1532,
       "user": "yaojingang"
     },
     {
@@ -2016,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 671,
       "user": "WenyuChiou"
     },
     {
@@ -2031,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 553,
       "user": "BigPizzaV3"
     },
     {
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "kitft"
     },
     {
@@ -2061,7 +2061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 357,
       "user": "ThisIsDara"
     },
     {
@@ -2076,7 +2076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "ajavadinezhad"
     },
     {
@@ -2091,7 +2091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "gofsnotify"
     },
     {
