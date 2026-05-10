@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -41,6 +26,21 @@
         "gemma"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1483,
       "user": "yaojingang"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 531,
       "user": "WenyuChiou"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "ajavadinezhad"
     }
   ],
@@ -901,66 +901,6 @@
       "user": "velmu"
     },
     {
-      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "url": "https://github.com/aattaran/deepclaude",
-      "published_at": "2026-05-03T21:27:49Z",
-      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
-      "source": "GitHub",
-      "stars": 1672,
-      "user": "aattaran"
-    },
-    {
-      "title": "Kappaemme-git/codex-startup-pressure-test-skill - GitHub Repository",
-      "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
-      "published_at": "2026-05-03T08:20:20Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
-      "source": "GitHub",
-      "stars": 743,
-      "user": "Kappaemme-git"
-    },
-    {
-      "title": "thcp/stemdeck - Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
-      "url": "https://github.com/thcp/stemdeck",
-      "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
-      "source": "GitHub",
-      "stars": 377,
-      "user": "thcp"
-    },
-    {
-      "title": "tolibear/goalbuddy - Supercharge Codex Goals",
-      "url": "https://github.com/tolibear/goalbuddy",
-      "published_at": "2026-05-03T13:16:02Z",
-      "description": "Supercharge Codex Goals",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
-      "source": "GitHub",
-      "stars": 288,
-      "user": "tolibear"
-    },
-    {
       "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
       "published_at": "2026-05-05T20:40:48Z",
@@ -974,6 +914,66 @@
       "source": "GitHub",
       "stars": 272,
       "user": "TitanFlow-Systems"
+    },
+    {
+      "title": "kerlos/pordee - ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "url": "https://github.com/kerlos/pordee",
+      "published_at": "2026-05-07T15:26:07Z",
+      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "kerlos"
+    },
+    {
+      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
+      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
+      "published_at": "2026-05-06T07:05:07Z",
+      "description": "XHS_ALL_IN_ONE 小红书全域运营",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "cv-cat"
+    },
+    {
+      "title": "freq-trades/polymarket-trading-bot-v2 - polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+      "url": "https://github.com/freq-trades/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T15:03:25Z",
+      "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/281909400?v=4",
+      "source": "GitHub",
+      "stars": 180,
+      "user": "freq-trades"
+    },
+    {
+      "title": "kunchenguid/autopreso - Realtime speech to presentation. Let the whiteboard whiteboard itself.",
+      "url": "https://github.com/kunchenguid/autopreso",
+      "published_at": "2026-05-07T02:04:30Z",
+      "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "kunchenguid"
     },
     {
       "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
@@ -1184,23 +1184,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1483,
       "user": "yaojingang"
-    },
-    {
-      "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
-      "url": "https://github.com/MayersScott/rkn-block-checker",
-      "published_at": "2026-05-03T16:15:38Z",
-      "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
-      "source": "GitHub",
-      "stars": 958,
-      "user": "MayersScott"
     },
     {
       "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
@@ -1229,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 531,
       "user": "WenyuChiou"
     },
     {
@@ -1244,8 +1229,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "BigPizzaV3"
+    },
+    {
+      "title": "kitft/natural_language_autoencoders - GitHub Repository",
+      "url": "https://github.com/kitft/natural_language_autoencoders",
+      "published_at": "2026-05-05T16:27:07Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
+      "source": "GitHub",
+      "stars": 392,
+      "user": "kitft"
     }
   ],
   "DevOps": [
@@ -1466,21 +1466,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "url": "https://github.com/aattaran/deepclaude",
-      "published_at": "2026-05-03T21:27:49Z",
-      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
-      "source": "GitHub",
-      "stars": 1672,
-      "user": "aattaran"
     }
   ],
   "Mobile": [
@@ -1526,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "ajavadinezhad"
     }
   ],
@@ -1989,66 +1974,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "url": "https://github.com/aattaran/deepclaude",
-      "published_at": "2026-05-03T21:27:49Z",
-      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18339644?v=4",
-      "source": "GitHub",
-      "stars": 1672,
-      "user": "aattaran"
-    },
-    {
-      "title": "Kappaemme-git/codex-startup-pressure-test-skill - GitHub Repository",
-      "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
-      "published_at": "2026-05-03T08:20:20Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
-      "source": "GitHub",
-      "stars": 743,
-      "user": "Kappaemme-git"
-    },
-    {
-      "title": "thcp/stemdeck - Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
-      "url": "https://github.com/thcp/stemdeck",
-      "published_at": "2026-05-03T10:51:20Z",
-      "description": "Stemdeck is an modern stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31625914?v=4",
-      "source": "GitHub",
-      "stars": 377,
-      "user": "thcp"
-    },
-    {
-      "title": "tolibear/goalbuddy - Supercharge Codex Goals",
-      "url": "https://github.com/tolibear/goalbuddy",
-      "published_at": "2026-05-03T13:16:02Z",
-      "description": "Supercharge Codex Goals",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3253693?v=4",
-      "source": "GitHub",
-      "stars": 288,
-      "user": "tolibear"
-    },
-    {
       "title": "TitanFlow-Systems/polymarket-trading-bot-v2 - polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading",
       "url": "https://github.com/TitanFlow-Systems/polymarket-trading-bot-v2",
       "published_at": "2026-05-05T20:40:48Z",
@@ -2064,6 +1989,66 @@
       "user": "TitanFlow-Systems"
     },
     {
+      "title": "kerlos/pordee - ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "url": "https://github.com/kerlos/pordee",
+      "published_at": "2026-05-07T15:26:07Z",
+      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "kerlos"
+    },
+    {
+      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
+      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
+      "published_at": "2026-05-06T07:05:07Z",
+      "description": "XHS_ALL_IN_ONE 小红书全域运营",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "cv-cat"
+    },
+    {
+      "title": "freq-trades/polymarket-trading-bot-v2 - polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+      "url": "https://github.com/freq-trades/polymarket-trading-bot-v2",
+      "published_at": "2026-05-05T15:03:25Z",
+      "description": "polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading systematic-trading maker maker bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket tradin",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/281909400?v=4",
+      "source": "GitHub",
+      "stars": 180,
+      "user": "freq-trades"
+    },
+    {
+      "title": "kunchenguid/autopreso - Realtime speech to presentation. Let the whiteboard whiteboard itself.",
+      "url": "https://github.com/kunchenguid/autopreso",
+      "published_at": "2026-05-07T02:04:30Z",
+      "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "kunchenguid"
+    },
+    {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
       "url": "https://github.com/yaojingang/yao-open-prompts",
       "published_at": "2026-05-06T13:04:20Z",
@@ -2075,23 +2060,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1483,
       "user": "yaojingang"
-    },
-    {
-      "title": "MayersScott/rkn-block-checker - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
-      "url": "https://github.com/MayersScott/rkn-block-checker",
-      "published_at": "2026-05-03T16:15:38Z",
-      "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148715834?v=4",
-      "source": "GitHub",
-      "stars": 958,
-      "user": "MayersScott"
     },
     {
       "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
@@ -2120,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 531,
       "user": "WenyuChiou"
     },
     {
@@ -2135,8 +2105,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "BigPizzaV3"
+    },
+    {
+      "title": "kitft/natural_language_autoencoders - GitHub Repository",
+      "url": "https://github.com/kitft/natural_language_autoencoders",
+      "published_at": "2026-05-05T16:27:07Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
+      "source": "GitHub",
+      "stars": 392,
+      "user": "kitft"
     },
     {
       "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
@@ -2150,7 +2135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 335,
       "user": "ThisIsDara"
     },
     {
@@ -2165,7 +2150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 315,
       "user": "ajavadinezhad"
     },
     {
@@ -2180,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 169,
       "user": "gofsnotify"
     },
     {
