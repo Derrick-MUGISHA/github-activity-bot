@@ -191,21 +191,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "AI Is Moving Ridiculously Fast",
-      "url": "https://dev.to/frederickpeal/ai-is-moving-ridiculously-fast-k7o",
-      "published_at": "2026-05-07T04:58:07Z",
-      "description": "Maybe you know who I am, but again, my name is Frederick Peñalo from Quisqueya. You’re invited here...",
-      "tags": [
-        "webdev",
-        "programming",
-        "beginners",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz987dc0mzt6une9q6myc.png",
-      "source": "Dev.to",
-      "user": "Frederick Peñalo"
-    },
-    {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
       "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
       "published_at": "2026-05-07T20:21:26Z",
@@ -296,6 +281,21 @@
       "user": "Michael Larson"
     },
     {
+      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
+      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
+      "published_at": "2026-05-07T21:04:12Z",
+      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
+      "tags": [
+        "googlecloud",
+        "terraform",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "There will still be art in software",
       "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
       "published_at": "2026-05-05T21:47:47Z",
@@ -324,21 +324,6 @@
       "user": "Paul Newell"
     },
     {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
       "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
       "published_at": "2026-05-08T09:01:07Z",
@@ -352,6 +337,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
       "source": "Dev.to",
       "user": "Ertuğrul Demir"
+    },
+    {
+      "title": "Why does AI lie? Hallucinations explained simply",
+      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
+      "published_at": "2026-05-08T16:37:02Z",
+      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
@@ -382,21 +382,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
-    },
-    {
-      "title": "Why does AI lie? Hallucinations explained simply",
-      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
-      "published_at": "2026-05-08T16:37:02Z",
-      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -487,6 +472,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -632,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1300,
       "user": "huangserva"
     },
     {
@@ -647,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1623,
       "user": "yaojingang"
     },
     {
@@ -662,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 943,
       "user": "lightseekorg"
     },
     {
@@ -677,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "fendouai"
     }
   ],
@@ -726,6 +741,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
       "source": "Dev.to",
       "user": "Greg Konush"
+    },
+    {
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
+      "published_at": "2026-05-03T13:05:28Z",
+      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
+      "tags": [
+        "ai",
+        "devjournal",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
+      "source": "Dev.to",
+      "user": "Harshil Agrawal"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -859,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1300,
       "user": "huangserva"
     },
     {
@@ -889,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 245,
       "user": "kunchenguid"
     },
     {
@@ -1086,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1623,
       "user": "yaojingang"
     },
     {
@@ -1101,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 985,
       "user": "BigPizzaV3"
     },
     {
@@ -1116,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 943,
       "user": "lightseekorg"
     },
     {
@@ -1131,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "kitft"
     },
     {
@@ -1146,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "fendouai"
     }
   ],
@@ -1298,21 +1343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
       "source": "Dev.to",
       "user": "Fomin Vasyl"
-    },
-    {
-      "title": "I Spent a Week Fighting HTML-to-PDF. Here’s What Finally Worked.",
-      "url": "https://dev.to/grahamsutton/i-spent-a-week-fighting-html-to-pdf-heres-what-finally-worked-4nfp",
-      "published_at": "2026-05-06T21:25:51Z",
-      "description": "I’ve been building a property inspection platform with a friend of mine who’s an inspector. One of...",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "saas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsvegyn0iz7o7i2yvfmp3.png",
-      "source": "Dev.to",
-      "user": "Graham Sutton"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1492,6 +1522,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
       "source": "Dev.to",
       "user": "avinash"
+    },
+    {
+      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
+      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
+      "published_at": "2026-05-01T03:17:34Z",
+      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
+      "tags": [
+        "ai",
+        "angular",
+        "veo",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
@@ -1767,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1229,
+      "stars": 1300,
       "user": "huangserva"
     },
     {
@@ -1797,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 245,
       "user": "kunchenguid"
     },
     {
@@ -1842,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1623,
       "user": "yaojingang"
     },
     {
@@ -1857,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 985,
       "user": "BigPizzaV3"
     },
     {
@@ -1872,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 943,
       "user": "lightseekorg"
     },
     {
@@ -1887,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "kitft"
     },
     {
@@ -1902,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "fendouai"
     },
     {
@@ -1919,6 +1964,21 @@
       "source": "GitHub",
       "stars": 182,
       "user": "gofsnotify"
+    },
+    {
+      "title": "tidwall/btype - B-tree based collection types for Go",
+      "url": "https://github.com/tidwall/btype",
+      "published_at": "2026-05-10T13:52:32Z",
+      "description": "B-tree based collection types for Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "tidwall"
     },
     {
       "title": "nyarime/gho - Pure Go Norton Ghost GHO disk image parser — no CGo, single binary",
@@ -1949,21 +2009,6 @@
       "source": "GitHub",
       "stars": 80,
       "user": "usewhale"
-    },
-    {
-      "title": "tidwall/btype - B-tree based collection types for Go",
-      "url": "https://github.com/tidwall/btype",
-      "published_at": "2026-05-10T13:52:32Z",
-      "description": "B-tree based collection types for Go",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
-      "source": "GitHub",
-      "stars": 81,
-      "user": "tidwall"
     },
     {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
