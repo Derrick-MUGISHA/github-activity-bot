@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -60,26 +60,26 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.4 (28.4%)
-JavaScript      ███████████████████████ 22.2 (22.2%)
-Java            ███████████████████████ 22.2 (22.2%)
-Python          ██████████████████████ 21.0 (21.0%)
-Rust            ███ 2.5 (2.5%)
+Go              ██████████████████████████████ 28.6 (28.6%)
+JavaScript      █████████████████████████ 23.8 (23.8%)
+Java            ████████████████████████ 22.6 (22.6%)
+Python          █████████████████████ 20.2 (20.2%)
 PHP             █ 1.2 (1.2%)
 Swift           █ 1.2 (1.2%)
+Rust            █ 1.2 (1.2%)
 Ruby            █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 23
-    "JavaScript" : 18
-    "Java" : 18
+    "Go" : 24
+    "JavaScript" : 20
+    "Java" : 19
     "Python" : 17
-    "Rust" : 2
     "PHP" : 1
     "Swift" : 1
+    "Rust" : 1
     "Ruby" : 1
 ```
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -127,13 +127,22 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-11 16:00 CAT)
+## 📅 Latest Updates (2026-05-11 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fns5j4k7krd3yk77kf1pg.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-55e2">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyffadd3azsamu8zwe4q3.png" width="200" alt="Meme Monday" />
@@ -152,22 +161,13 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-96l">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2uppodbk4quoot54xbh.jpg" width="200" alt="What was your win this week??" />
       <br/>
       <b>What was your win this week??</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lwwjzqpf6i0tbh8kb1d.png" width="200" alt="I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do" />
-      <br/>
-      <b>I Grounded Gemma 4 in 118,000 Real Stars — Here's ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,10 +197,10 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-55e2) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
-- [I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do](https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4) _[Dev.to]_
 - [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
@@ -213,12 +213,12 @@ npm run test
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
+- [I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do](https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4) _[Dev.to]_
 - [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7) _[Dev.to]_
 - [Code with Claude Extended SF: Heck yeah and then wait, what?](https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd) _[Dev.to]_
-- [How CLAUDE.md actually works](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) _[Dev.to]_
 
-_Last automated update: Mon, 11 May 2026 16:41:42 CAT_
+_Last automated update: Mon, 11 May 2026 19:12:37 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 11 May 2026 16:41:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 11 May 2026 14:41:42 GMT</b><br/>
+  <b>Last automated update: Mon, 11 May 2026 17:12:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
