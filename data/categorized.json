@@ -90,36 +90,6 @@
       "user": "Sanket Sahu"
     },
     {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
-      "published_at": "2026-05-06T16:51:32Z",
-      "description": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "tags": [
-        "devops",
-        "docker",
-        "security",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
-      "source": "Dev.to",
-      "user": "Falcon"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -264,21 +234,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
       "source": "Dev.to",
       "user": "Fomin Vasyl"
-    },
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
@@ -474,21 +429,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -532,6 +472,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
       "source": "Dev.to",
       "user": "Dipesh Sukhani"
+    },
+    {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -677,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1161,
       "user": "huangserva"
     },
     {
@@ -692,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1609,
       "user": "yaojingang"
     },
     {
@@ -707,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 937,
       "user": "lightseekorg"
     },
     {
@@ -722,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "fendouai"
     }
   ],
@@ -904,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1161,
       "user": "huangserva"
     },
     {
@@ -934,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 238,
       "user": "kunchenguid"
     },
     {
@@ -949,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "kerlos"
     },
     {
@@ -964,41 +919,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "cv-cat"
     }
   ],
   "Python": [
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
@@ -1161,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1609,
       "user": "yaojingang"
     },
     {
@@ -1176,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 937,
       "user": "lightseekorg"
     },
     {
@@ -1191,7 +1116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 900,
       "user": "BigPizzaV3"
     },
     {
@@ -1206,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 479,
       "user": "kitft"
     },
     {
@@ -1221,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "fendouai"
     }
   ],
@@ -1240,21 +1165,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
-    },
-    {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
-      "published_at": "2026-05-06T16:51:32Z",
-      "description": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "tags": [
-        "devops",
-        "docker",
-        "security",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
-      "source": "Dev.to",
-      "user": "Falcon"
     },
     {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
@@ -1436,21 +1346,6 @@
       "user": "xbill"
     },
     {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -1477,21 +1372,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd0ng05c05x466mh5i727.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
-    },
-    {
-      "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
-      "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
-      "published_at": "2026-05-07T21:00:10Z",
-      "description": "My team's mission is to accelerate the developer journey from writing code to running secure AI...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi6mj0yymgm9gmhlz7l4y.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
@@ -1539,21 +1419,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
       "published_at": "2026-05-03T02:02:47Z",
@@ -1584,6 +1449,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building ADK Agents with Phi Models on Azure Foundry",
+      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
+      "published_at": "2026-05-06T14:32:51Z",
+      "description": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
+      "tags": [
+        "microsoftphi4",
+        "agents",
+        "googleadk",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1595,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "openclaw"
     }
   ],
@@ -1643,21 +1523,6 @@
   ],
   "Security": [
     {
-      "title": "Stop Shipping Vulnerabilities by Default: An Intro to Docker Hardened Images",
-      "url": "https://dev.to/gelopfalcon/stop-shipping-vulnerabilities-by-default-an-intro-to-docker-hardened-images-d0c",
-      "published_at": "2026-05-06T16:51:32Z",
-      "description": "Docker Hardened Images are changing how teams think about container security — not as an...",
-      "tags": [
-        "devops",
-        "docker",
-        "security",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
-      "source": "Dev.to",
-      "user": "Falcon"
-    },
-    {
       "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
       "url": "https://dev.to/kimmaida/how-to-authorize-ai-agents-using-token-exchange-open-standards-288d",
       "published_at": "2026-05-07T19:41:53Z",
@@ -1701,21 +1566,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Local Testing of a Multi-Agent System with Memory",
-      "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
-      "published_at": "2026-05-07T21:03:03Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28g0vwpvdhq9apl351lc.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
@@ -1849,21 +1699,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
-      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
-      "published_at": "2026-05-07T04:36:40Z",
-      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googlecloud",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Copilot Squad",
       "url": "https://dev.to/ruarfff/copilot-squad-4nda",
       "published_at": "2026-05-05T14:49:33Z",
@@ -1874,6 +1709,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
       "source": "Dev.to",
       "user": "Ruairí O'Brien"
+    },
+    {
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "published_at": "2026-05-02T19:30:01Z",
+      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
+      "tags": [
+        "ai",
+        "agents",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
     },
     {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
@@ -1887,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1161,
       "user": "huangserva"
     },
     {
@@ -1917,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 238,
       "user": "kunchenguid"
     },
     {
@@ -1932,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "kerlos"
     },
     {
@@ -1947,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "cv-cat"
     },
     {
@@ -1962,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1609,
       "user": "yaojingang"
     },
     {
@@ -1977,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 937,
       "user": "lightseekorg"
     },
     {
@@ -1992,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 900,
       "user": "BigPizzaV3"
     },
     {
@@ -2007,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 479,
       "user": "kitft"
     },
     {
@@ -2022,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 415,
       "user": "fendouai"
     },
     {
@@ -2037,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "gofsnotify"
     },
     {
@@ -2056,21 +1906,6 @@
       "user": "nyarime"
     },
     {
-      "title": "usewhale/whale - DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
-      "url": "https://github.com/usewhale/whale",
-      "published_at": "2026-05-06T07:01:36Z",
-      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "usewhale"
-    },
-    {
       "title": "tidwall/btype - B-tree based collection types for Go",
       "url": "https://github.com/tidwall/btype",
       "published_at": "2026-05-10T13:52:32Z",
@@ -2082,8 +1917,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 81,
       "user": "tidwall"
+    },
+    {
+      "title": "usewhale/whale - DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "url": "https://github.com/usewhale/whale",
+      "published_at": "2026-05-06T07:01:36Z",
+      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "usewhale"
     },
     {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
@@ -2097,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "openclaw"
     }
   ]
