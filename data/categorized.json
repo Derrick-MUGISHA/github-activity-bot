@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Congrats to the OpenClaw Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
       "published_at": "2026-05-07T21:27:14Z",
@@ -73,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Reusable Spring Boot 4 Error Handler",
@@ -146,21 +146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswlm05wy1dtgfjjdz90m.png",
       "source": "Dev.to",
       "user": "Falcon"
-    },
-    {
-      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
-      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
-      "published_at": "2026-05-08T09:01:07Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
-      "tags": [
-        "ai",
-        "gemma",
-        "devchallenge",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -368,19 +353,6 @@
       "user": "Greg Konush"
     },
     {
-      "title": "HTML.md",
-      "url": "https://dev.to/j9t/htmlmd-5do5",
-      "published_at": "2026-05-07T08:33:02Z",
-      "description": "AGENTS.md, ACCESSIBILITY.md but also A11Y.md, DESIGN.md—as well as taste.md.  Following this trend of...",
-      "tags": [
-        "html",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyisqb4hd6c7giwwclb3.png",
-      "source": "Dev.to",
-      "user": "Jens Oliver Meiert"
-    },
-    {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
       "published_at": "2026-05-06T20:48:25Z",
@@ -469,6 +441,21 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
+      "published_at": "2026-05-08T09:01:07Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
+      "tags": [
+        "ai",
+        "gemma",
+        "devchallenge",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
+      "source": "Dev.to",
+      "user": "Ertuğrul Demir"
+    },
+    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -527,6 +514,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
       "source": "Dev.to",
       "user": "Simme"
+    },
+    {
+      "title": "Why does AI lie? Hallucinations explained simply",
+      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
+      "published_at": "2026-05-08T16:37:02Z",
+      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "published_at": "2026-05-07T04:36:40Z",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -672,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 748,
       "user": "huangserva"
     },
     {
@@ -687,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1554,
       "user": "yaojingang"
     },
     {
@@ -702,38 +719,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "lightseekorg"
     },
     {
-      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "published_at": "2026-05-04T22:18:51Z",
-      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
+      "url": "https://github.com/fendouai/CodexSaver",
+      "published_at": "2026-05-06T14:34:36Z",
+      "description": "Make Codex cheaper without making it dumber with DeepSeek.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 721,
-      "user": "WenyuChiou"
-    },
-    {
-      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
-      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
-      "source": "GitHub",
-      "stars": 352,
-      "user": "ajavadinezhad"
+      "stars": 397,
+      "user": "fendouai"
     }
   ],
   "JavaScript": [
@@ -929,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 748,
       "user": "huangserva"
     },
     {
@@ -944,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "TitanFlow-Systems"
     },
     {
@@ -959,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "kunchenguid"
     },
     {
@@ -991,21 +993,6 @@
       "source": "GitHub",
       "stars": 215,
       "user": "cv-cat"
-    },
-    {
-      "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "url": "https://github.com/MiChongs/karpov-gateway",
-      "published_at": "2026-05-04T06:32:38Z",
-      "description": "Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "MiChongs"
     }
   ],
   "Python": [
@@ -1201,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1554,
       "user": "yaojingang"
     },
     {
@@ -1216,23 +1203,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "lightseekorg"
-    },
-    {
-      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "published_at": "2026-05-04T22:18:51Z",
-      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "WenyuChiou"
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus - 一个CodexApp的增强工具",
@@ -1246,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 698,
       "user": "BigPizzaV3"
     },
     {
@@ -1261,8 +1233,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 451,
       "user": "kitft"
+    },
+    {
+      "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
+      "url": "https://github.com/fendouai/CodexSaver",
+      "published_at": "2026-05-06T14:34:36Z",
+      "description": "Make Codex cheaper without making it dumber with DeepSeek.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
+      "source": "GitHub",
+      "stars": 397,
+      "user": "fendouai"
     }
   ],
   "DevOps": [
@@ -1415,19 +1402,6 @@
       "user": "Fomin Vasyl"
     },
     {
-      "title": "HTML.md",
-      "url": "https://dev.to/j9t/htmlmd-5do5",
-      "published_at": "2026-05-07T08:33:02Z",
-      "description": "AGENTS.md, ACCESSIBILITY.md but also A11Y.md, DESIGN.md—as well as taste.md.  Following this trend of...",
-      "tags": [
-        "html",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyisqb4hd6c7giwwclb3.png",
-      "source": "Dev.to",
-      "user": "Jens Oliver Meiert"
-    },
-    {
       "title": "I Spent a Week Fighting HTML-to-PDF. Here’s What Finally Worked.",
       "url": "https://dev.to/grahamsutton/i-spent-a-week-fighting-html-to-pdf-heres-what-finally-worked-4nfp",
       "published_at": "2026-05-06T21:25:51Z",
@@ -1470,21 +1444,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
       "source": "Dev.to",
       "user": "Brus-Nockk"
-    },
-    {
-      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
-      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
-      "source": "GitHub",
-      "stars": 352,
-      "user": "ajavadinezhad"
     }
   ],
   "Cloud": [
@@ -1605,6 +1564,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Why does AI lie? Hallucinations explained simply",
+      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
+      "published_at": "2026-05-08T16:37:02Z",
+      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "published_at": "2026-05-07T04:36:40Z",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
+      "url": "https://github.com/openclaw/clickclack",
+      "published_at": "2026-05-08T03:11:04Z",
+      "description": "ClickClackClaw - The chat app with claws.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "openclaw"
     }
   ],
   "Database": [
@@ -1647,21 +1651,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "url": "https://github.com/MiChongs/karpov-gateway",
-      "published_at": "2026-05-04T06:32:38Z",
-      "description": "Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "MiChongs"
     }
   ],
   "Security": [
@@ -1721,21 +1710,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "url": "https://github.com/MiChongs/karpov-gateway",
-      "published_at": "2026-05-04T06:32:38Z",
-      "description": "Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "MiChongs"
     }
   ],
   "Tools": [
@@ -1887,6 +1861,21 @@
       "user": "Shadab Khan"
     },
     {
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini CLI",
+      "url": "https://dev.to/gde/gcp-practicebwai-ai-powered-development-quickly-deploy-a-line-bot-cloud-backup-tool-with-4ghi",
+      "published_at": "2026-05-07T04:36:40Z",
+      "description": "Background   In the upcoming Build With AI 2026 workshop, we're bringing a very practical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1898,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 748,
       "user": "huangserva"
     },
     {
@@ -1913,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1928,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "kunchenguid"
     },
     {
@@ -1973,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1554,
       "user": "yaojingang"
     },
     {
@@ -1988,23 +1977,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "lightseekorg"
-    },
-    {
-      "title": "WenyuChiou/awesome-agentic-ai-zh - AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "published_at": "2026-05-04T22:18:51Z",
-      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162016108?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "WenyuChiou"
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus - 一个CodexApp的增强工具",
@@ -2018,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 698,
       "user": "BigPizzaV3"
     },
     {
@@ -2033,38 +2007,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 451,
       "user": "kitft"
     },
     {
-      "title": "ThisIsDara/mhr-cfw-go - A local proxy that runs on your machine and forwards traffic through Google.",
-      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
-      "published_at": "2026-05-04T04:24:15Z",
-      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
+      "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
+      "url": "https://github.com/fendouai/CodexSaver",
+      "published_at": "2026-05-06T14:34:36Z",
+      "description": "Make Codex cheaper without making it dumber with DeepSeek.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93939156?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 366,
-      "user": "ThisIsDara"
-    },
-    {
-      "title": "ajavadinezhad/zyrln - Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "url": "https://github.com/ajavadinezhad/zyrln",
-      "published_at": "2026-05-04T17:25:03Z",
-      "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23430715?v=4",
-      "source": "GitHub",
-      "stars": 352,
-      "user": "ajavadinezhad"
+      "stars": 397,
+      "user": "fendouai"
     },
     {
       "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
@@ -2078,23 +2037,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "gofsnotify"
-    },
-    {
-      "title": "MiChongs/karpov-gateway - Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "url": "https://github.com/MiChongs/karpov-gateway",
-      "published_at": "2026-05-04T06:32:38Z",
-      "description": "Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77006751?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "MiChongs"
     },
     {
       "title": "nyarime/gho - Pure Go Norton Ghost GHO disk image parser — no CGo, single binary",
@@ -2110,6 +2054,51 @@
       "source": "GitHub",
       "stars": 82,
       "user": "nyarime"
+    },
+    {
+      "title": "usewhale/whale - DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "url": "https://github.com/usewhale/whale",
+      "published_at": "2026-05-06T07:01:36Z",
+      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "usewhale"
+    },
+    {
+      "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
+      "url": "https://github.com/openclaw/clickclack",
+      "published_at": "2026-05-08T03:11:04Z",
+      "description": "ClickClackClaw - The chat app with claws.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "openclaw"
+    },
+    {
+      "title": "rudrankriyam/Google-Health-CLI - Unofficial Google-Health-CLI for the Google Health API, written in Go",
+      "url": "https://github.com/rudrankriyam/Google-Health-CLI",
+      "published_at": "2026-05-09T12:49:43Z",
+      "description": "Unofficial Google-Health-CLI for the Google Health API, written in Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30552772?v=4",
+      "source": "GitHub",
+      "stars": 52,
+      "user": "rudrankriyam"
     }
   ]
 }

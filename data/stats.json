@@ -1,41 +1,40 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
     "AI": 52,
-    "JavaScript": 20,
+    "JavaScript": 19,
     "Python": 19,
     "DevOps": 5,
-    "WebDev": 8,
-    "Mobile": 2,
-    "Cloud": 8,
-    "Database": 4,
-    "Security": 5,
-    "Tools": 25
+    "WebDev": 7,
+    "Mobile": 1,
+    "Cloud": 11,
+    "Database": 3,
+    "Security": 4,
+    "Tools": 26
   },
   "by_language": {
-    "JavaScript": 20,
-    "Java": 19,
-    "Go": 22,
+    "JavaScript": 19,
+    "Java": 18,
+    "Go": 23,
     "Python": 19,
     "Ruby": 1,
     "PHP": 1,
     "Rust": 2,
-    "Swift": 1,
-    "Kotlin": 1
+    "Swift": 1
   },
   "by_date": {
-    "2026-05-06": 14,
     "2026-05-07": 20,
-    "2026-05-08": 7,
+    "2026-05-08": 9,
     "2026-05-10": 3,
-    "2026-05-09": 5,
+    "2026-05-09": 6,
+    "2026-05-06": 16,
     "2026-05-05": 9,
-    "2026-05-04": 6,
+    "2026-05-04": 2,
     "2026-04-27": 3,
     "2026-04-26": 1,
     "2026-04-30": 2,
@@ -74,7 +73,7 @@
     "2019-08-12": 1
   },
   "top_tags": {
-    "ai": 27,
+    "ai": 28,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -89,22 +88,21 @@
     "programming": 6,
     "go": 6,
     "gemmachallenge": 5,
+    "googlecloud": 5,
+    "tutorial": 5,
     "learning": 4,
-    "googlecloud": 4,
     "productivity": 4,
-    "gemma": 3,
-    "career": 3
+    "gemma": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "23.3",
-    "Java": "22.1",
-    "Go": "25.6",
-    "Python": "22.1",
+    "JavaScript": "22.6",
+    "Java": "21.4",
+    "Go": "27.4",
+    "Python": "22.6",
     "Ruby": "1.2",
     "PHP": "1.2",
-    "Rust": "2.3",
-    "Swift": "1.2",
-    "Kotlin": "1.2"
+    "Rust": "2.4",
+    "Swift": "1.2"
   }
 }
