@@ -65,9 +65,9 @@ JavaScript      █████████████████████�
 Python          █████████████████████████ 22.6 (22.6%)
 Java            ███████████████████████ 21.4 (21.4%)
 Rust            ███ 2.4 (2.4%)
-Ruby            █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 Swift           █ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
 
 ```
 
@@ -78,9 +78,9 @@ pie title Programming Languages Distribution
     "Python" : 19
     "Java" : 18
     "Rust" : 2
-    "Ruby" : 1
     "PHP" : 1
     "Swift" : 1
+    "Ruby" : 1
 ```
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-11 3:00 CAT)
+## 📅 Latest Updates (2026-05-11 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,9 +216,9 @@ npm run test
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
-- [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha) _[Dev.to]_
+- [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh) _[Dev.to]_
 
-_Last automated update: Mon, 11 May 2026 03:24:37 CAT_
+_Last automated update: Mon, 11 May 2026 07:13:43 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 11 May 2026 03:24:37 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. React: How would you optimize a React app's performance?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 11 May 2026 01:24:37 GMT</b><br/>
+  <b>Last automated update: Mon, 11 May 2026 05:13:43 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
