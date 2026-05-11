@@ -31,21 +31,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "TaskDev - a task runner for AI coding agents (MCP)",
-      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
-      "published_at": "2026-05-09T23:13:17Z",
-      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
-      "tags": [
-        "vscode",
-        "extensions",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
-      "source": "Dev.to",
-      "user": "Tolbxela Bot"
-    },
-    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -88,19 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ge24p1hle98shu0edeg.png",
       "source": "Dev.to",
       "user": "Eduardo Issao Ito"
-    },
-    {
-      "title": "Build the Environment, Not the Agent",
-      "url": "https://dev.to/saravanan_ramupillai/build-the-environment-not-the-agent-3f05",
-      "published_at": "2026-05-09T03:23:19Z",
-      "description": "If you are building agents, the most important decision you make is where to put the work that keeps...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2b2ylpc0z0oy05oddkjw.png",
-      "source": "Dev.to",
-      "user": "Saravanan Ramupillai"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -221,6 +193,21 @@
       "user": "Philippe MARTIN"
     },
     {
+      "title": "TaskDev - a task runner for AI coding agents (MCP)",
+      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
+      "published_at": "2026-05-09T23:13:17Z",
+      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
+      "tags": [
+        "vscode",
+        "extensions",
+        "ai",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
+      "source": "Dev.to",
+      "user": "Tolbxela Bot"
+    },
+    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -247,35 +234,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz987dc0mzt6une9q6myc.png",
       "source": "Dev.to",
       "user": "Frederick Peñalo"
-    },
-    {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
-      "title": "Gazing at a Crystal Ball",
-      "url": "https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8",
-      "published_at": "2026-05-06T20:05:22Z",
-      "description": "What is software engineering? A mixture of science and craftsmanship, built on rules and logic. Once...",
-      "tags": [
-        "ai",
-        "software",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5x1s006bbykytkgqg7t.png",
-      "source": "Dev.to",
-      "user": "Ilya Kaznacheev"
     },
     {
       "title": "We Have Code Review. We Need Intent Review.",
@@ -471,21 +429,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
-      "published_at": "2026-05-07T03:34:05Z",
-      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "tags": [
-        "typescript",
-        "ai",
-        "webdev",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
-    {
       "title": "Am I a Developer or Just a Prompt Engineer?",
       "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
       "published_at": "2026-05-05T10:52:28Z",
@@ -544,6 +487,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feh70l7bu3x2uk9miobku.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Local-first video transcription on Apple Silicon with mlx-whisper",
+      "url": "https://dev.to/a_mature_dev/local-first-video-transcription-on-apple-silicon-with-mlx-whisper-440l",
+      "published_at": "2026-05-07T05:05:54Z",
+      "description": "I do a lot of learning from online videos. Many of them are not in English. With AI becoming part of...",
+      "tags": [
+        "python",
+        "cli",
+        "opensource",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
+      "source": "Dev.to",
+      "user": "Dipesh Sukhani"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -689,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 1041,
       "user": "huangserva"
     },
     {
@@ -704,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1583,
+      "stars": 1602,
       "user": "yaojingang"
     },
     {
@@ -719,7 +707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 932,
       "user": "lightseekorg"
     },
     {
@@ -734,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "fendouai"
     }
   ],
@@ -783,21 +771,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
       "source": "Dev.to",
       "user": "Greg Konush"
-    },
-    {
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
-      "published_at": "2026-05-07T03:34:05Z",
-      "description": "I track my own AI spend across three projects. In March, the line item that grew fastest was not...",
-      "tags": [
-        "typescript",
-        "ai",
-        "webdev",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrcd994781cr25vyz1zj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -931,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 1041,
       "user": "huangserva"
     },
     {
@@ -946,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "TitanFlow-Systems"
     },
     {
@@ -961,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "kunchenguid"
     },
     {
@@ -976,7 +949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "kerlos"
     },
     {
@@ -991,26 +964,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "cv-cat"
     }
   ],
   "Python": [
-    {
-      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
-      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3",
-      "published_at": "2026-05-08T07:05:09Z",
-      "description": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
-      "tags": [
-        "python",
-        "nlp",
-        "sentimentanalysis",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp",
-      "source": "Dev.to",
-      "user": "elizabeththomas7"
-    },
     {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
@@ -1055,6 +1013,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
       "source": "Dev.to",
       "user": "Brus-Nockk"
+    },
+    {
+      "title": "Local-first video transcription on Apple Silicon with mlx-whisper",
+      "url": "https://dev.to/a_mature_dev/local-first-video-transcription-on-apple-silicon-with-mlx-whisper-440l",
+      "published_at": "2026-05-07T05:05:54Z",
+      "description": "I do a lot of learning from online videos. Many of them are not in English. With AI becoming part of...",
+      "tags": [
+        "python",
+        "cli",
+        "opensource",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
+      "source": "Dev.to",
+      "user": "Dipesh Sukhani"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1188,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1583,
+      "stars": 1602,
       "user": "yaojingang"
     },
     {
@@ -1203,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 932,
       "user": "lightseekorg"
     },
     {
@@ -1218,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 853,
       "user": "BigPizzaV3"
     },
     {
@@ -1233,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 470,
       "user": "kitft"
     },
     {
@@ -1248,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "fendouai"
     }
   ],
@@ -1506,21 +1479,6 @@
       "user": "koichim2"
     },
     {
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "url": "https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk",
-      "published_at": "2026-05-06T16:00:47Z",
-      "description": "I want an AI agent that works for me. I want it to search up the latest news, and I want it to...",
-      "tags": [
-        "aws",
-        "ai",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisv0pjm1cco5aiy51rqa.png",
-      "source": "Dev.to",
-      "user": "Erik Hanchett"
-    },
-    {
       "title": "Building Capabilities for a Multi-Agent System with Google ADK, MCP, and Cloud Run",
       "url": "https://dev.to/googleai/building-capabilities-for-a-multi-agent-system-with-google-adk-mcp-and-cloud-run-ab9",
       "published_at": "2026-05-07T21:00:10Z",
@@ -1596,6 +1554,36 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
+      "published_at": "2026-05-03T02:02:47Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "multiagentsystems",
+        "gemini",
+        "googleadk",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
+      "published_at": "2026-05-03T00:05:41Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "gemini",
+        "a2aprotocol",
+        "azureappservice",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1607,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 68,
       "user": "openclaw"
     }
   ],
@@ -1714,21 +1702,6 @@
   ],
   "Tools": [
     {
-      "title": "TaskDev - a task runner for AI coding agents (MCP)",
-      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
-      "published_at": "2026-05-09T23:13:17Z",
-      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
-      "tags": [
-        "vscode",
-        "extensions",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
-      "source": "Dev.to",
-      "user": "Tolbxela Bot"
-    },
-    {
       "title": "Local Testing of a Multi-Agent System with Memory",
       "url": "https://dev.to/googleai/local-testing-of-a-multi-agent-system-with-memory-37mm",
       "published_at": "2026-05-07T21:03:03Z",
@@ -1771,6 +1744,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "TaskDev - a task runner for AI coding agents (MCP)",
+      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
+      "published_at": "2026-05-09T23:13:17Z",
+      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
+      "tags": [
+        "vscode",
+        "extensions",
+        "ai",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
+      "source": "Dev.to",
+      "user": "Tolbxela Bot"
     },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
@@ -1876,6 +1864,18 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Copilot Squad",
+      "url": "https://dev.to/ruarfff/copilot-squad-4nda",
+      "published_at": "2026-05-05T14:49:33Z",
+      "description": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
+      "tags": [
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
+      "source": "Dev.to",
+      "user": "Ruairí O'Brien"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 1041,
       "user": "huangserva"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282015462?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "TitanFlow-Systems"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "kunchenguid"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "kerlos"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "cv-cat"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1583,
+      "stars": 1602,
       "user": "yaojingang"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 932,
       "user": "lightseekorg"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 853,
       "user": "BigPizzaV3"
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 470,
       "user": "kitft"
     },
     {
@@ -2022,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "fendouai"
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 181,
       "user": "gofsnotify"
     },
     {
@@ -2067,23 +2067,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "usewhale"
-    },
-    {
-      "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
-      "url": "https://github.com/openclaw/clickclack",
-      "published_at": "2026-05-08T03:11:04Z",
-      "description": "ClickClackClaw - The chat app with claws.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "openclaw"
     },
     {
       "title": "tidwall/btype - B-tree based collection types for Go",
@@ -2097,8 +2082,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 76,
       "user": "tidwall"
+    },
+    {
+      "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
+      "url": "https://github.com/openclaw/clickclack",
+      "published_at": "2026-05-08T03:11:04Z",
+      "description": "ClickClackClaw - The chat app with claws.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "openclaw"
     }
   ]
 }
