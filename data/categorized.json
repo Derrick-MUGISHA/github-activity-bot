@@ -31,6 +31,20 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -44,20 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Reusable Spring Boot 4 Error Handler",
@@ -204,21 +204,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz987dc0mzt6une9q6myc.png",
       "source": "Dev.to",
       "user": "Frederick Peñalo"
-    },
-    {
-      "title": "We Have Code Review. We Need Intent Review.",
-      "url": "https://dev.to/huoru/we-have-code-review-we-need-intent-review-1i38",
-      "published_at": "2026-05-07T02:22:52Z",
-      "description": "We Have Code Review. We Need Intent Review.   Last month I watched Claude Code confidently...",
-      "tags": [
-        "ai",
-        "programming",
-        "claude",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fes4obewiw7z675idklfy.png",
-      "source": "Dev.to",
-      "user": "huoru"
     },
     {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
@@ -399,21 +384,6 @@
       "user": "Harsh "
     },
     {
-      "title": "Boring code is an organizational tell",
-      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
-      "published_at": "2026-04-19T18:02:48Z",
-      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
-      "tags": [
-        "ai",
-        "leadership",
-        "culture",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
-      "source": "Dev.to",
-      "user": "Simme"
-    },
-    {
       "title": "Why does AI lie? Hallucinations explained simply",
       "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
       "published_at": "2026-05-08T16:37:02Z",
@@ -427,6 +397,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Boring code is an organizational tell",
+      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
+      "published_at": "2026-04-19T18:02:48Z",
+      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
+      "tags": [
+        "ai",
+        "leadership",
+        "culture",
+        "management"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
+      "source": "Dev.to",
+      "user": "Simme"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -487,6 +472,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -632,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1229,
       "user": "huangserva"
     },
     {
@@ -647,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1617,
       "user": "yaojingang"
     },
     {
@@ -662,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 942,
       "user": "lightseekorg"
     },
     {
@@ -677,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "fendouai"
     }
   ],
@@ -859,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1229,
       "user": "huangserva"
     },
     {
@@ -889,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 241,
       "user": "kunchenguid"
     },
     {
@@ -904,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "kerlos"
     },
     {
@@ -919,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "cv-cat"
     }
   ],
@@ -1086,23 +1086,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1617,
       "user": "yaojingang"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 937,
-      "user": "lightseekorg"
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus - 一个CodexApp的增强工具",
@@ -1116,8 +1101,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 956,
       "user": "BigPizzaV3"
+    },
+    {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 942,
+      "user": "lightseekorg"
     },
     {
       "title": "kitft/natural_language_autoencoders - GitHub Repository",
@@ -1131,7 +1131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "kitft"
     },
     {
@@ -1146,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "fendouai"
     }
   ],
@@ -1209,6 +1209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
     }
   ],
   "WebDev": [
@@ -1464,6 +1479,21 @@
       "user": "xbill"
     },
     {
+      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
+      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
+      "published_at": "2026-04-22T02:48:26Z",
+      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
+      "tags": [
+        "aws",
+        "devops",
+        "ai",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
+      "source": "Dev.to",
+      "user": "avinash"
+    },
+    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1475,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "openclaw"
     }
   ],
@@ -1737,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1229,
       "user": "huangserva"
     },
     {
@@ -1767,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 241,
       "user": "kunchenguid"
     },
     {
@@ -1782,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "kerlos"
     },
     {
@@ -1797,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "cv-cat"
     },
     {
@@ -1812,23 +1842,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1617,
       "user": "yaojingang"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 937,
-      "user": "lightseekorg"
     },
     {
       "title": "BigPizzaV3/CodexPlusPlus - 一个CodexApp的增强工具",
@@ -1842,8 +1857,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 956,
       "user": "BigPizzaV3"
+    },
+    {
+      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "published_at": "2026-05-06T13:13:21Z",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
+      "source": "GitHub",
+      "stars": 942,
+      "user": "lightseekorg"
     },
     {
       "title": "kitft/natural_language_autoencoders - GitHub Repository",
@@ -1857,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58341426?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "kitft"
     },
     {
@@ -1872,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "fendouai"
     },
     {
@@ -1906,6 +1936,21 @@
       "user": "nyarime"
     },
     {
+      "title": "usewhale/whale - DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "url": "https://github.com/usewhale/whale",
+      "published_at": "2026-05-06T07:01:36Z",
+      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "usewhale"
+    },
+    {
       "title": "tidwall/btype - B-tree based collection types for Go",
       "url": "https://github.com/tidwall/btype",
       "published_at": "2026-05-10T13:52:32Z",
@@ -1921,21 +1966,6 @@
       "user": "tidwall"
     },
     {
-      "title": "usewhale/whale - DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
-      "url": "https://github.com/usewhale/whale",
-      "published_at": "2026-05-06T07:01:36Z",
-      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "usewhale"
-    },
-    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1947,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "openclaw"
     }
   ]

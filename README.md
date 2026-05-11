@@ -36,11 +36,11 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
 
 **WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![javascript](https://img.shields.io/badge/javascript-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-11 13:00 CAT)
+## 📅 Latest Updates (2026-05-11 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png" width="200" alt="I Didn’t Stop Building. I Just Left My Laptop." />
+    <a href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png" width="200" alt="Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!" />
       <br/>
-      <b>I Didn’t Stop Building. I Just Left My Laptop.</b>
+      <b>Join the Gemma 4 Challenge: $3,000 prize pool for ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,8 +202,8 @@ npm run test
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do](https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4) _[Dev.to]_
 - [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) _[Dev.to]_
-- [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
+- [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
 - [Reusable Spring Boot 4 Error Handler](https://dev.to/adzubla/reusable-spring-boot-4-error-handler-10kp) _[Dev.to]_
 - [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0) _[Dev.to]_
 - [Building ADK Agents with Azure Cloud Shell](https://dev.to/gde/building-adk-agents-with-azure-cloud-shell-3bd1) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Code with Claude Extended SF: Heck yeah and then wait, what?](https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd) _[Dev.to]_
 - [How CLAUDE.md actually works](https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e) _[Dev.to]_
 
-_Last automated update: Mon, 11 May 2026 13:46:45 CAT_
+_Last automated update: Mon, 11 May 2026 16:41:42 CAT_
 
 
 
@@ -226,18 +226,29 @@ _Last automated update: Mon, 11 May 2026 13:46:45 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. Database: What is the difference between SQL and NoSQL databases?
+
+**Difficulty**: Easy | **Topics**: databases, design
+
+<details>
+<summary>💡 Hint</summary>
+
+Schema, scalability, ACID vs BASE
+
+</details>
+
+### 3. DataStructures: Find the longest substring without repeating characters
 
 **Difficulty**: Medium | **Topics**: strings, sliding window
 
@@ -245,17 +256,6 @@ Event bubbling, single listener for multiple elements
 <summary>💡 Hint</summary>
 
 Sliding window, hash map, two pointers
-
-</details>
-
-### 3. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 11 May 2026 11:46:45 GMT</b><br/>
+  <b>Last automated update: Mon, 11 May 2026 14:41:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
