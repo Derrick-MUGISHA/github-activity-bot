@@ -16,21 +16,6 @@
       "user": "Konark Sharma"
     },
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
       "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
       "published_at": "2026-05-11T07:36:44Z",
@@ -104,19 +89,19 @@
       "user": "Sanket Sahu"
     },
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
       "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
       "source": "Dev.to",
-      "user": "Sylwia Laskowska"
+      "user": "Jess Lee"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
@@ -134,19 +119,19 @@
       "user": "xbill"
     },
     {
-      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
-      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
-      "published_at": "2026-05-09T17:26:14Z",
-      "description": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
       "tags": [
-        "ai",
-        "claude",
-        "beginners",
-        "learning"
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
-      "user": "L. Cordero"
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
@@ -353,6 +338,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
+      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
+      "published_at": "2026-05-09T17:26:14Z",
+      "description": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
+      "tags": [
+        "ai",
+        "claude",
+        "beginners",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png",
+      "source": "Dev.to",
+      "user": "L. Cordero"
     },
     {
       "title": "Boring code is an organizational tell",
@@ -646,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1367,
+      "stars": 1491,
       "user": "huangserva"
     },
     {
@@ -661,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1638,
       "user": "yaojingang"
     },
     {
@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "fendouai"
     }
   ],
@@ -903,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1367,
+      "stars": 1491,
       "user": "huangserva"
     },
     {
@@ -918,7 +918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 263,
       "user": "kunchenguid"
     },
     {
@@ -933,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "kerlos"
     },
     {
@@ -963,7 +963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 155,
       "user": "killervillsy"
     }
   ],
@@ -997,21 +997,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
       "source": "Dev.to",
       "user": "Dipesh Sukhani"
-    },
-    {
-      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
-      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3",
-      "published_at": "2026-05-08T07:05:09Z",
-      "description": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
-      "tags": [
-        "python",
-        "nlp",
-        "sentimentanalysis",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp",
-      "source": "Dev.to",
-      "user": "elizabeththomas7"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1145,14 +1130,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1638,
       "user": "yaojingang"
     },
     {
-      "title": "BigPizzaV3/CodexPlusPlus - 一个CodexApp的增强工具",
+      "title": "BigPizzaV3/CodexPlusPlus - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
       "published_at": "2026-05-06T09:32:49Z",
-      "description": "一个CodexApp的增强工具",
+      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "tags": [
         "python",
         "github",
@@ -1160,7 +1145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1114,
       "user": "BigPizzaV3"
     },
     {
@@ -1190,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "fendouai"
     },
     {
@@ -1205,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 315,
       "user": "AvenueSleuth"
     }
   ],
@@ -1551,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 73,
       "user": "openclaw"
     }
   ],
@@ -1842,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1367,
+      "stars": 1491,
       "user": "huangserva"
     },
     {
@@ -1857,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 263,
       "user": "kunchenguid"
     },
     {
@@ -1872,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "kerlos"
     },
     {
@@ -1902,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 155,
       "user": "killervillsy"
     },
     {
@@ -1917,14 +1902,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1638,
       "user": "yaojingang"
     },
     {
-      "title": "BigPizzaV3/CodexPlusPlus - 一个CodexApp的增强工具",
+      "title": "BigPizzaV3/CodexPlusPlus - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
       "published_at": "2026-05-06T09:32:49Z",
-      "description": "一个CodexApp的增强工具",
+      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "tags": [
         "python",
         "github",
@@ -1932,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1114,
       "user": "BigPizzaV3"
     },
     {
@@ -1962,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "fendouai"
     },
     {
@@ -1977,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 315,
       "user": "AvenueSleuth"
     },
     {
@@ -1992,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "gofsnotify"
     },
     {
@@ -2007,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "tidwall"
     },
     {
@@ -2022,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 86,
       "user": "usewhale"
     },
     {
@@ -2037,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 73,
       "user": "openclaw"
     },
     {
