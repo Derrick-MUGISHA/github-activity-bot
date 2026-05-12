@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-13 0:00 CAT)
+## 📅 Latest Updates (2026-05-13 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
 
-_Last automated update: Wed, 13 May 2026 00:44:24 CAT_
+_Last automated update: Wed, 13 May 2026 01:43:23 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Wed, 13 May 2026 00:44:24 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 12 May 2026 22:44:24 GMT</b><br/>
+  <b>Last automated update: Tue, 12 May 2026 23:43:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
