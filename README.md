@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
-
-**DevOps**: 🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦🟦🟦 9 (8.6%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
+
+**DevOps**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.8 (29.8%)
-JavaScript      ████████████████████████ 23.8 (23.8%)
-Java            ██████████████████████ 21.4 (21.4%)
-Python          ████████████████████ 20.2 (20.2%)
+Go              ██████████████████████████████ 28.9 (28.9%)
+JavaScript      █████████████████████████ 24.1 (24.1%)
+Python          ███████████████████████ 21.7 (21.7%)
+Java            █████████████████████ 20.5 (20.5%)
 PHP             █ 1.2 (1.2%)
 Swift           █ 1.2 (1.2%)
 Rust            █ 1.2 (1.2%)
@@ -73,10 +73,10 @@ Ruby            █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 25
+    "Go" : 24
     "JavaScript" : 20
-    "Java" : 18
-    "Python" : 17
+    "Python" : 18
+    "Java" : 17
     "PHP" : 1
     "Swift" : 1
     "Rust" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![watercooler](https://img.shields.io/badge/watercooler-4-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![learning](https://img.shields.io/badge/learning-4-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-12 8:00 CAT)
+## 📅 Latest Updates (2026-05-12 11:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,19 +135,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwxafwz6s4e48tyqbjaqb.jpg" width="200" alt="What are your goals for the week? #178" />
+    <a href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png" width="200" alt="Does AI Behave Like a Toxic Ex?" />
       <br/>
-      <b>What are your goals for the week? #178</b>
+      <b>Does AI Behave Like a Toxic Ex?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png" width="200" alt="Does AI Behave Like a Toxic Ex?" />
+    <a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwxafwz6s4e48tyqbjaqb.jpg" width="200" alt="What are your goals for the week? #178" />
       <br/>
-      <b>Does AI Behave Like a Toxic Ex?</b>
+      <b>What are your goals for the week? #178</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,16 +197,16 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What are your goals for the week? #178](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp) _[Dev.to]_
 - [Does AI Behave Like a Toxic Ex?](https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n) _[Dev.to]_
+- [What are your goals for the week? #178](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp) _[Dev.to]_
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4nik) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-55e2) _[Dev.to]_
 - [Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work](https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
+- [5 types of engineers I met as a Technical Writer](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak) _[Dev.to]_
 - [Playwright is Powerful, But Managing It at Scale? That's Another Story](https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37) _[Dev.to]_
 - [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) _[Dev.to]_
-- [5 types of engineers I met as a Technical Writer](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak) _[Dev.to]_
 - [MCP Configuration for Google Workspace with Gemini CLI](https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2) _[Dev.to]_
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 - [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8) _[Dev.to]_
 
-_Last automated update: Tue, 12 May 2026 08:47:46 CAT_
+_Last automated update: Tue, 12 May 2026 11:33:54 CAT_
 
 
 
@@ -226,7 +226,29 @@ _Last automated update: Tue, 12 May 2026 08:47:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What are hooks and why were they introduced?
+### 1. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 2. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+### 3. React: What are hooks and why were they introduced?
 
 **Difficulty**: Medium | **Topics**: hooks, functional components
 
@@ -234,28 +256,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 2. React: How would you optimize a React app's performance?
-
-**Difficulty**: Hard | **Topics**: optimization, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-React.memo, useMemo, useCallback, code splitting, lazy loading
-
-</details>
-
-### 3. React: Implement a custom hook for fetching data
-
-**Difficulty**: Medium | **Topics**: hooks, async
-
-<details>
-<summary>💡 Hint</summary>
-
-useState, useEffect, loading states, error handling
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 12 May 2026 06:47:46 GMT</b><br/>
+  <b>Last automated update: Tue, 12 May 2026 09:33:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
