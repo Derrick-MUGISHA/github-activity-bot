@@ -486,6 +486,21 @@
       "user": "Setiaji"
     },
     {
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
+      "published_at": "2026-05-05T04:53:55Z",
+      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -629,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1642,
+      "stars": 1671,
       "user": "huangserva"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1816,
       "user": "yaojingang"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 970,
       "user": "lightseekorg"
     },
     {
@@ -689,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "fendouai"
     },
     {
@@ -704,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 98,
       "user": "usewhale"
     }
   ],
@@ -916,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1642,
+      "stars": 1671,
       "user": "huangserva"
     },
     {
@@ -931,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "kunchenguid"
     },
     {
@@ -946,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "kerlos"
     },
     {
@@ -961,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "cv-cat"
     },
     {
@@ -1010,21 +1025,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
       "source": "Dev.to",
       "user": "Dipesh Sukhani"
-    },
-    {
-      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
-      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3",
-      "published_at": "2026-05-08T07:05:09Z",
-      "description": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
-      "tags": [
-        "python",
-        "nlp",
-        "sentimentanalysis",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp",
-      "source": "Dev.to",
-      "user": "elizabeththomas7"
     },
     {
       "title": "Installing pygame for IDLE on Mac",
@@ -1173,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1816,
       "user": "yaojingang"
     },
     {
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1461,
       "user": "BigPizzaV3"
     },
     {
@@ -1203,8 +1203,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 970,
       "user": "lightseekorg"
+    },
+    {
+      "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "url": "https://github.com/patchfighterway90/cs2-external-overlay",
+      "published_at": "2026-05-12T13:18:16Z",
+      "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
+      "source": "GitHub",
+      "stars": 519,
+      "user": "patchfighterway90"
     },
     {
       "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
@@ -1218,23 +1233,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "fendouai"
-    },
-    {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "AvenueSleuth"
     }
   ],
   "DevOps": [
@@ -1538,6 +1538,35 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
+      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
+      "published_at": "2026-04-22T14:09:18Z",
+      "description": "Winners Announced:         Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!          ...",
+      "tags": [
+        "devchallenge",
+        "googlecloud",
+        "cloudnextchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
+      "published_at": "2026-05-05T04:53:55Z",
+      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "claude",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
+      "source": "Dev.to",
+      "user": "koichim2"
+    },
+    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1549,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "openclaw"
     }
   ],
@@ -1787,18 +1816,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Copilot Squad",
-      "url": "https://dev.to/ruarfff/copilot-squad-4nda",
-      "published_at": "2026-05-05T14:49:33Z",
-      "description": "There are two sections to this. In the first section, I discuss what squad is, why it might be useful...",
-      "tags": [
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fggoham0z81795zcbkpzp.png",
-      "source": "Dev.to",
-      "user": "Ruairí O'Brien"
-    },
-    {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
       "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
       "published_at": "2026-05-02T19:30:01Z",
@@ -1840,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1642,
+      "stars": 1671,
       "user": "huangserva"
     },
     {
@@ -1855,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "kunchenguid"
     },
     {
@@ -1870,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "kerlos"
     },
     {
@@ -1885,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "cv-cat"
     },
     {
@@ -1915,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1816,
       "user": "yaojingang"
     },
     {
@@ -1930,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1461,
       "user": "BigPizzaV3"
     },
     {
@@ -1945,8 +1962,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 970,
       "user": "lightseekorg"
+    },
+    {
+      "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "url": "https://github.com/patchfighterway90/cs2-external-overlay",
+      "published_at": "2026-05-12T13:18:16Z",
+      "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
+      "source": "GitHub",
+      "stars": 519,
+      "user": "patchfighterway90"
     },
     {
       "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
@@ -1960,23 +1992,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "fendouai"
-    },
-    {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
-      "source": "GitHub",
-      "stars": 360,
-      "user": "AvenueSleuth"
     },
     {
       "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
@@ -2005,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "tidwall"
     },
     {
@@ -2020,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 98,
       "user": "usewhale"
     },
     {
@@ -2035,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "openclaw"
     },
     {
