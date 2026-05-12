@@ -267,21 +267,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "There will still be art in software",
       "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
       "published_at": "2026-05-05T21:47:47Z",
@@ -503,6 +488,19 @@
       "user": "Connie Leung"
     },
     {
+      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
+      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
+      "published_at": "2026-04-19T06:21:26Z",
+      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
+      "source": "Dev.to",
+      "user": "Setiaji"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -646,8 +644,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1597,
       "user": "huangserva"
+    },
+    {
+      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "published_at": "2026-05-07T23:25:46Z",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "DenAB-NVS"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -661,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1771,
       "user": "yaojingang"
     },
     {
@@ -676,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 958,
       "user": "lightseekorg"
     },
     {
@@ -691,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 430,
       "user": "fendouai"
     }
   ],
@@ -903,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1597,
       "user": "huangserva"
     },
     {
@@ -918,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 272,
       "user": "kunchenguid"
     },
     {
@@ -933,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "kerlos"
     },
     {
@@ -948,23 +961,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "cv-cat"
     },
     {
-      "title": "killervillsy/SessionToJson - GitHub Repository",
-      "url": "https://github.com/killervillsy/SessionToJson",
-      "published_at": "2026-05-09T02:52:19Z",
-      "description": "Trending GitHub Repository",
+      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "published_at": "2026-05-07T23:25:46Z",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "killervillsy"
+      "stars": 166,
+      "user": "DenAB-NVS"
     }
   ],
   "Python": [
@@ -997,6 +1010,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
       "source": "Dev.to",
       "user": "Dipesh Sukhani"
+    },
+    {
+      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
+      "url": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3",
+      "published_at": "2026-05-08T07:05:09Z",
+      "description": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a...",
+      "tags": [
+        "python",
+        "nlp",
+        "sentimentanalysis",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp",
+      "source": "Dev.to",
+      "user": "elizabeththomas7"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1130,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1771,
       "user": "yaojingang"
     },
     {
@@ -1145,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1305,
       "user": "BigPizzaV3"
     },
     {
@@ -1160,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 958,
       "user": "lightseekorg"
     },
     {
@@ -1175,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 430,
       "user": "fendouai"
     },
     {
@@ -1190,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 343,
       "user": "AvenueSleuth"
     }
   ],
@@ -1253,21 +1281,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
@@ -1433,21 +1446,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
       "source": "Dev.to",
       "user": "Vicente G. Reyes"
-    },
-    {
-      "title": "Deploying a Multi-Agent System with Terraform and Cloud Run",
-      "url": "https://dev.to/googleai/deploying-a-multi-agent-system-with-terraform-and-cloud-run-2a9c",
-      "published_at": "2026-05-07T21:04:12Z",
-      "description": "In support of our mission to accelerate the developer journey on Google Cloud, we built Dev Signal: a...",
-      "tags": [
-        "googlecloud",
-        "terraform",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb81ohs3okw19w9kejisq.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
@@ -1827,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1597,
       "user": "huangserva"
     },
     {
@@ -1842,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 272,
       "user": "kunchenguid"
     },
     {
@@ -1857,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "kerlos"
     },
     {
@@ -1872,23 +1870,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "cv-cat"
     },
     {
-      "title": "killervillsy/SessionToJson - GitHub Repository",
-      "url": "https://github.com/killervillsy/SessionToJson",
-      "published_at": "2026-05-09T02:52:19Z",
-      "description": "Trending GitHub Repository",
+      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "published_at": "2026-05-07T23:25:46Z",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "killervillsy"
+      "stars": 166,
+      "user": "DenAB-NVS"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -1902,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1771,
       "user": "yaojingang"
     },
     {
@@ -1917,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1305,
       "user": "BigPizzaV3"
     },
     {
@@ -1932,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 958,
       "user": "lightseekorg"
     },
     {
@@ -1947,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 430,
       "user": "fendouai"
     },
     {
@@ -1962,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 343,
       "user": "AvenueSleuth"
     },
     {
@@ -1977,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "gofsnotify"
     },
     {
@@ -1992,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "tidwall"
     },
     {
@@ -2007,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "usewhale"
     },
     {
