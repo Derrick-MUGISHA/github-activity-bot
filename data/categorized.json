@@ -162,21 +162,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "Why does AI lie? Hallucinations explained simply",
-      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
-      "published_at": "2026-05-08T16:37:02Z",
-      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
       "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
       "published_at": "2026-05-07T20:21:26Z",
@@ -280,21 +265,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
-      "published_at": "2026-05-05T10:52:28Z",
-      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "tags": [
-        "ai",
-        "career",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
       "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
       "published_at": "2026-05-09T17:26:14Z",
@@ -368,6 +338,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
       "source": "Dev.to",
       "user": "Dipesh Sukhani"
+    },
+    {
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
+      "published_at": "2026-05-05T10:52:28Z",
+      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
+      "tags": [
+        "ai",
+        "career",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "Attractor Engineering: Seeing Software Development as Field Dynamics",
@@ -499,6 +484,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
       "source": "Dev.to",
       "user": "koichim2"
+    },
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
+      "published_at": "2026-04-30T12:14:54Z",
+      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
+      "tags": [
+        "ai",
+        "webdev",
+        "openai",
+        "monitoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
+      "source": "Dev.to",
+      "user": "Ali Afana "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -644,23 +659,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1690,
       "user": "huangserva"
-    },
-    {
-      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "url": "https://github.com/DenAB-NVS/submarine",
-      "published_at": "2026-05-07T23:25:46Z",
-      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
-      "source": "GitHub",
-      "stars": 166,
-      "user": "DenAB-NVS"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1820,
       "user": "yaojingang"
     },
     {
@@ -693,21 +693,6 @@
       "user": "lightseekorg"
     },
     {
-      "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
-      "url": "https://github.com/fendouai/CodexSaver",
-      "published_at": "2026-05-06T14:34:36Z",
-      "description": "Make Codex cheaper without making it dumber with DeepSeek.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "fendouai"
-    },
-    {
       "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
       "url": "https://github.com/usewhale/whale",
       "published_at": "2026-05-06T07:01:36Z",
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "usewhale"
     }
   ],
@@ -931,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1690,
       "user": "huangserva"
     },
     {
@@ -961,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "kerlos"
     },
     {
@@ -976,23 +961,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 235,
       "user": "cv-cat"
     },
     {
-      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "url": "https://github.com/DenAB-NVS/submarine",
-      "published_at": "2026-05-07T23:25:46Z",
-      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "title": "killervillsy/SessionToJson - GitHub Repository",
+      "url": "https://github.com/killervillsy/SessionToJson",
+      "published_at": "2026-05-09T02:52:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 166,
-      "user": "DenAB-NVS"
+      "stars": 167,
+      "user": "killervillsy"
     }
   ],
   "Python": [
@@ -1173,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1820,
       "user": "yaojingang"
     },
     {
@@ -1188,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1481,
       "user": "BigPizzaV3"
     },
     {
@@ -1222,19 +1207,19 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
-      "url": "https://github.com/fendouai/CodexSaver",
-      "published_at": "2026-05-06T14:34:36Z",
-      "description": "Make Codex cheaper without making it dumber with DeepSeek.",
+      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+      "published_at": "2026-05-12T11:29:47Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 434,
-      "user": "fendouai"
+      "stars": 457,
+      "user": "ywnd1144"
     }
   ],
   "DevOps": [
@@ -1433,21 +1418,6 @@
       "user": "xbill"
     },
     {
-      "title": "Why does AI lie? Hallucinations explained simply",
-      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
-      "published_at": "2026-05-08T16:37:02Z",
-      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69eipxl525acdvtwy58e.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
       "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
       "published_at": "2026-05-06T05:53:26Z",
@@ -1578,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "openclaw"
     }
   ],
@@ -1654,6 +1624,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
+    },
+    {
+      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
+      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
+      "published_at": "2026-04-20T02:49:24Z",
+      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
+      "tags": [
+        "ai",
+        "vercel",
+        "security",
+        "hack"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1857,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1690,
       "user": "huangserva"
     },
     {
@@ -1887,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "kerlos"
     },
     {
@@ -1902,23 +1887,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 235,
       "user": "cv-cat"
     },
     {
-      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "url": "https://github.com/DenAB-NVS/submarine",
-      "published_at": "2026-05-07T23:25:46Z",
-      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "title": "killervillsy/SessionToJson - GitHub Repository",
+      "url": "https://github.com/killervillsy/SessionToJson",
+      "published_at": "2026-05-09T02:52:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 166,
-      "user": "DenAB-NVS"
+      "stars": 167,
+      "user": "killervillsy"
     },
     {
       "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -1932,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1820,
       "user": "yaojingang"
     },
     {
@@ -1947,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1481,
       "user": "BigPizzaV3"
     },
     {
@@ -1981,19 +1966,19 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "fendouai/CodexSaver - Make Codex cheaper without making it dumber with DeepSeek.",
-      "url": "https://github.com/fendouai/CodexSaver",
-      "published_at": "2026-05-06T14:34:36Z",
-      "description": "Make Codex cheaper without making it dumber with DeepSeek.",
+      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+      "published_at": "2026-05-12T11:29:47Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 434,
-      "user": "fendouai"
+      "stars": 457,
+      "user": "ywnd1144"
     },
     {
       "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
@@ -2011,21 +1996,6 @@
       "user": "gofsnotify"
     },
     {
-      "title": "tidwall/btype - B-tree based collection types for Go",
-      "url": "https://github.com/tidwall/btype",
-      "published_at": "2026-05-10T13:52:32Z",
-      "description": "B-tree based collection types for Go",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "tidwall"
-    },
-    {
       "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
       "url": "https://github.com/usewhale/whale",
       "published_at": "2026-05-06T07:01:36Z",
@@ -2037,8 +2007,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "usewhale"
+    },
+    {
+      "title": "tidwall/btype - B-tree based collection types for Go",
+      "url": "https://github.com/tidwall/btype",
+      "published_at": "2026-05-10T13:52:32Z",
+      "description": "B-tree based collection types for Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
+      "source": "GitHub",
+      "stars": 100,
+      "user": "tidwall"
     },
     {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
@@ -2052,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "openclaw"
     },
     {
@@ -2067,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30552772?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "rudrankriyam"
     }
   ]
