@@ -1,6 +1,66 @@
 {
   "AI": [
     {
+      "title": "My fully offline AI-assisted Linux development machine",
+      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
+      "published_at": "2026-05-11T20:47:59Z",
+      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "tags": [
+        "linux",
+        "archlinux",
+        "development",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Deepu K Sasidharan"
+    },
+    {
+      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
+      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
+      "published_at": "2026-05-12T11:53:01Z",
+      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
+      "tags": [
+        "tech",
+        "opensource",
+        "webdev",
+        "ethics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
+      "source": "Dev.to",
+      "user": "Carlos Campos"
+    },
+    {
+      "title": "Compile-time vs runtime: where MCP security actually lives",
+      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
+      "published_at": "2026-05-12T10:46:36Z",
+      "description": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean one thing. It means at least four things, sitting at different points in the lifecycle of a tool call, solving different problems. Most teams I've talked to need two or three of them. Almost none of them realize that until they've shipped the wrong one first.",
+      "tags": [
+        "mcp",
+        "security",
+        "sandbox",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
+      "source": "Dev.to",
+      "user": "Razu Kc"
+    },
+    {
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
+      "published_at": "2026-05-12T04:17:48Z",
+      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
+      "tags": [
+        "api",
+        "gemini",
+        "llm",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Does AI Behave Like a Toxic Ex?",
       "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
       "published_at": "2026-05-11T18:09:56Z",
@@ -14,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
       "source": "Dev.to",
       "user": "Konark Sharma"
+    },
+    {
+      "title": "Is Brain Float (bf16) Worth it?",
+      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
+      "published_at": "2026-05-12T00:12:08Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "llm",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
@@ -119,6 +194,21 @@
       "user": "xbill"
     },
     {
+      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
+      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
+      "published_at": "2026-05-11T17:43:38Z",
+      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "python",
+        "huggingface"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Raihan"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -160,36 +250,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
-      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
-      "published_at": "2026-05-07T20:21:26Z",
-      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
-      "tags": [
-        "backend",
-        "laravel",
-        "performance",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
-      "source": "Dev.to",
-      "user": "Fomin Vasyl"
-    },
-    {
-      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
-      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
-      "published_at": "2026-05-07T17:05:23Z",
-      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
-      "tags": [
-        "typescript",
-        "node",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
-      "source": "Dev.to",
-      "user": "Greg Konush"
     },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
@@ -659,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1698,
+      "stars": 1699,
       "user": "huangserva"
     },
     {
@@ -674,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1823,
       "user": "yaojingang"
     },
     {
@@ -689,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 973,
       "user": "lightseekorg"
     },
     {
@@ -738,21 +798,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
       "source": "Dev.to",
       "user": "Abdullah Al Fahad"
-    },
-    {
-      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
-      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
-      "published_at": "2026-05-07T17:05:23Z",
-      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
-      "tags": [
-        "typescript",
-        "node",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
-      "source": "Dev.to",
-      "user": "Greg Konush"
     },
     {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
@@ -916,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1698,
+      "stars": 1699,
       "user": "huangserva"
     },
     {
@@ -931,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "kunchenguid"
     },
     {
@@ -981,6 +1026,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
+      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
+      "published_at": "2026-05-11T17:43:38Z",
+      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "python",
+        "huggingface"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Raihan"
+    },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
@@ -1158,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1823,
       "user": "yaojingang"
     },
     {
@@ -1188,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 973,
       "user": "lightseekorg"
     },
     {
@@ -1218,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 482,
       "user": "ywnd1144"
     }
   ],
@@ -1355,21 +1415,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
       "source": "Dev.to",
       "user": "Abdullah Al Fahad"
-    },
-    {
-      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
-      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
-      "published_at": "2026-05-07T20:21:26Z",
-      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
-      "tags": [
-        "backend",
-        "laravel",
-        "performance",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
-      "source": "Dev.to",
-      "user": "Fomin Vasyl"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1596,6 +1641,21 @@
   ],
   "Security": [
     {
+      "title": "Compile-time vs runtime: where MCP security actually lives",
+      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
+      "published_at": "2026-05-12T10:46:36Z",
+      "description": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean one thing. It means at least four things, sitting at different points in the lifecycle of a tool call, solving different problems. Most teams I've talked to need two or three of them. Almost none of them realize that until they've shipped the wrong one first.",
+      "tags": [
+        "mcp",
+        "security",
+        "sandbox",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
+      "source": "Dev.to",
+      "user": "Razu Kc"
+    },
+    {
       "title": "MCP Configuration for Google Workspace with Gemini CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2",
       "published_at": "2026-05-11T01:14:46Z",
@@ -1654,6 +1714,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Compile-time vs runtime: where MCP security actually lives",
+      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
+      "published_at": "2026-05-12T10:46:36Z",
+      "description": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean one thing. It means at least four things, sitting at different points in the lifecycle of a tool call, solving different problems. Most teams I've talked to need two or three of them. Almost none of them realize that until they've shipped the wrong one first.",
+      "tags": [
+        "mcp",
+        "security",
+        "sandbox",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
+      "source": "Dev.to",
+      "user": "Razu Kc"
+    },
     {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
       "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
@@ -1842,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1698,
+      "stars": 1699,
       "user": "huangserva"
     },
     {
@@ -1857,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "kunchenguid"
     },
     {
@@ -1917,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1823,
       "user": "yaojingang"
     },
     {
@@ -1947,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 973,
       "user": "lightseekorg"
     },
     {
@@ -1977,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 482,
       "user": "ywnd1144"
     },
     {
