@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1690,
+      "stars": 1695,
       "user": "huangserva"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1820,
+      "stars": 1822,
       "user": "yaojingang"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 971,
       "user": "lightseekorg"
     },
     {
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1690,
+      "stars": 1695,
       "user": "huangserva"
     },
     {
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 286,
       "user": "kunchenguid"
     },
     {
@@ -946,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "kerlos"
     },
     {
@@ -1158,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1820,
+      "stars": 1822,
       "user": "yaojingang"
     },
     {
@@ -1173,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1492,
       "user": "BigPizzaV3"
     },
     {
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 971,
       "user": "lightseekorg"
     },
     {
@@ -1218,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "ywnd1144"
     }
   ],
@@ -1842,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1690,
+      "stars": 1695,
       "user": "huangserva"
     },
     {
@@ -1857,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 286,
       "user": "kunchenguid"
     },
     {
@@ -1872,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "kerlos"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1820,
+      "stars": 1822,
       "user": "yaojingang"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1481,
+      "stars": 1492,
       "user": "BigPizzaV3"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 971,
       "user": "lightseekorg"
     },
     {
@@ -1977,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "ywnd1144"
     },
     {
@@ -1992,8 +1992,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 186,
       "user": "gofsnotify"
+    },
+    {
+      "title": "tidwall/btype - B-tree based collection types for Go",
+      "url": "https://github.com/tidwall/btype",
+      "published_at": "2026-05-10T13:52:32Z",
+      "description": "B-tree based collection types for Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "tidwall"
     },
     {
       "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
@@ -2009,21 +2024,6 @@
       "source": "GitHub",
       "stars": 100,
       "user": "usewhale"
-    },
-    {
-      "title": "tidwall/btype - B-tree based collection types for Go",
-      "url": "https://github.com/tidwall/btype",
-      "published_at": "2026-05-10T13:52:32Z",
-      "description": "B-tree based collection types for Go",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "tidwall"
     },
     {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
