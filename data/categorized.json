@@ -149,21 +149,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "TaskDev - a task runner for AI coding agents (MCP)",
-      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
-      "published_at": "2026-05-09T23:13:17Z",
-      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
-      "tags": [
-        "vscode",
-        "extensions",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
-      "source": "Dev.to",
-      "user": "Tolbxela Bot"
-    },
-    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -473,6 +458,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "TaskDev - a task runner for AI coding agents (MCP)",
+      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
+      "published_at": "2026-05-09T23:13:17Z",
+      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
+      "tags": [
+        "vscode",
+        "extensions",
+        "ai",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
+      "source": "Dev.to",
+      "user": "Tolbxela Bot"
+    },
+    {
       "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
       "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
       "published_at": "2026-04-19T06:21:26Z",
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1619,
+      "stars": 1642,
       "user": "huangserva"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1789,
+      "stars": 1801,
       "user": "yaojingang"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 965,
       "user": "lightseekorg"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 94,
       "user": "usewhale"
     }
   ],
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1619,
+      "stars": 1642,
       "user": "huangserva"
     },
     {
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 279,
       "user": "kunchenguid"
     },
     {
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "cv-cat"
     },
     {
@@ -1173,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1789,
+      "stars": 1801,
       "user": "yaojingang"
     },
     {
@@ -1188,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1406,
       "user": "BigPizzaV3"
     },
     {
@@ -1203,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 965,
       "user": "lightseekorg"
     },
     {
@@ -1233,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 360,
       "user": "AvenueSleuth"
     }
   ],
@@ -1549,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "openclaw"
     }
   ],
@@ -1714,21 +1714,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "TaskDev - a task runner for AI coding agents (MCP)",
-      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
-      "published_at": "2026-05-09T23:13:17Z",
-      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
-      "tags": [
-        "vscode",
-        "extensions",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
-      "source": "Dev.to",
-      "user": "Tolbxela Bot"
-    },
-    {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
       "published_at": "2026-05-06T20:48:25Z",
@@ -1829,6 +1814,21 @@
       "user": "Ashley Childress"
     },
     {
+      "title": "TaskDev - a task runner for AI coding agents (MCP)",
+      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
+      "published_at": "2026-05-09T23:13:17Z",
+      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
+      "tags": [
+        "vscode",
+        "extensions",
+        "ai",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
+      "source": "Dev.to",
+      "user": "Tolbxela Bot"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1840,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1619,
+      "stars": 1642,
       "user": "huangserva"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 279,
       "user": "kunchenguid"
     },
     {
@@ -1885,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "cv-cat"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1789,
+      "stars": 1801,
       "user": "yaojingang"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1406,
       "user": "BigPizzaV3"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 965,
       "user": "lightseekorg"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 360,
       "user": "AvenueSleuth"
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "tidwall"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 94,
       "user": "usewhale"
     },
     {
@@ -2035,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "openclaw"
     },
     {
