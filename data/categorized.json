@@ -280,21 +280,6 @@
       "user": "Josiah Nunemaker"
     },
     {
-      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
-      "url": "https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9",
-      "published_at": "2026-05-08T09:01:07Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I set the agent running just...",
-      "tags": [
-        "ai",
-        "gemma",
-        "devchallenge",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm2f6dd5pnuehk9hx1hr0.png",
-      "source": "Dev.to",
-      "user": "Ertuğrul Demir"
-    },
-    {
       "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
       "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
       "published_at": "2026-04-25T02:52:00Z",
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1597,
+      "stars": 1619,
       "user": "huangserva"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1771,
+      "stars": 1789,
       "user": "yaojingang"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 961,
       "user": "lightseekorg"
     },
     {
@@ -704,8 +689,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "fendouai"
+    },
+    {
+      "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
+      "url": "https://github.com/usewhale/whale",
+      "published_at": "2026-05-06T07:01:36Z",
+      "description": "Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "usewhale"
     }
   ],
   "JavaScript": [
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1597,
+      "stars": 1619,
       "user": "huangserva"
     },
     {
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 274,
       "user": "kunchenguid"
     },
     {
@@ -961,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "cv-cat"
     },
     {
@@ -1025,6 +1025,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkegcdot5lwz9oyfpvmz.webp",
       "source": "Dev.to",
       "user": "elizabeththomas7"
+    },
+    {
+      "title": "Installing pygame for IDLE on Mac",
+      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
+      "published_at": "2026-04-21T19:13:08Z",
+      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
+      "tags": [
+        "beginners",
+        "gamedev",
+        "python",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
+      "source": "Dev.to",
+      "user": "David Newberry"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1158,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1771,
+      "stars": 1789,
       "user": "yaojingang"
     },
     {
@@ -1173,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1351,
       "user": "BigPizzaV3"
     },
     {
@@ -1188,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 961,
       "user": "lightseekorg"
     },
     {
@@ -1203,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "fendouai"
     },
     {
@@ -1218,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "AvenueSleuth"
     }
   ],
@@ -1534,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "openclaw"
     }
   ],
@@ -1825,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1597,
+      "stars": 1619,
       "user": "huangserva"
     },
     {
@@ -1840,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 274,
       "user": "kunchenguid"
     },
     {
@@ -1870,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "cv-cat"
     },
     {
@@ -1900,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 1771,
+      "stars": 1789,
       "user": "yaojingang"
     },
     {
@@ -1915,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1351,
       "user": "BigPizzaV3"
     },
     {
@@ -1930,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 961,
       "user": "lightseekorg"
     },
     {
@@ -1945,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284532?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "fendouai"
     },
     {
@@ -1960,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "AvenueSleuth"
     },
     {
@@ -1990,14 +2005,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "tidwall"
     },
     {
-      "title": "usewhale/whale - DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
       "url": "https://github.com/usewhale/whale",
       "published_at": "2026-05-06T07:01:36Z",
-      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "description": "Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
       "tags": [
         "go",
         "github",
@@ -2005,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "usewhale"
     },
     {
@@ -2020,7 +2035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "openclaw"
     },
     {
