@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-12 22:00 CAT)
+## 📅 Latest Updates (2026-05-12 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l) _[Dev.to]_
 - [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7) _[Dev.to]_
 
-_Last automated update: Tue, 12 May 2026 22:07:02 CAT_
+_Last automated update: Tue, 12 May 2026 23:38:59 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 12 May 2026 22:07:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 12 May 2026 20:07:02 GMT</b><br/>
+  <b>Last automated update: Tue, 12 May 2026 21:38:59 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
