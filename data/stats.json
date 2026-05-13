@@ -6,11 +6,11 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 51,
-    "JavaScript": 20,
+    "AI": 50,
+    "JavaScript": 21,
     "Python": 18,
     "DevOps": 5,
-    "WebDev": 6,
+    "WebDev": 5,
     "Mobile": 1,
     "Cloud": 8,
     "Database": 4,
@@ -18,8 +18,8 @@
     "Tools": 28
   },
   "by_language": {
-    "Go": 27,
-    "JavaScript": 20,
+    "JavaScript": 21,
+    "Go": 28,
     "Java": 17,
     "Python": 18,
     "PHP": 1,
@@ -27,6 +27,7 @@
     "Rust": 1
   },
   "by_date": {
+    "2026-05-13": 1,
     "2026-05-11": 11,
     "2026-05-12": 6,
     "2026-05-10": 6,
@@ -36,7 +37,6 @@
     "2026-05-05": 5,
     "2026-05-04": 2,
     "2026-04-27": 3,
-    "2026-04-26": 1,
     "2026-05-09": 8,
     "2026-04-30": 2,
     "2026-05-03": 4,
@@ -83,27 +83,27 @@
     "Python": 10,
     "discuss": 9,
     "python": 8,
+    "webdev": 7,
     "opensource": 7,
     "javascript": 7,
-    "webdev": 6,
-    "devchallenge": 6,
     "productivity": 6,
+    "devchallenge": 6,
     "go": 6,
     "gemini": 5,
     "learning": 4,
     "llm": 4,
-    "gemmachallenge": 4,
     "watercooler": 4,
-    "programming": 4
+    "programming": 4,
+    "gemmachallenge": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "31.8",
-    "JavaScript": "23.5",
-    "Java": "20.0",
-    "Python": "21.2",
-    "PHP": "1.2",
-    "Swift": "1.2",
-    "Rust": "1.2"
+    "JavaScript": "24.1",
+    "Go": "32.2",
+    "Java": "19.5",
+    "Python": "20.7",
+    "PHP": "1.1",
+    "Swift": "1.1",
+    "Rust": "1.1"
   }
 }

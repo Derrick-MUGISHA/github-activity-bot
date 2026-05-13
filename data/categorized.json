@@ -61,21 +61,6 @@
       "user": "Carlos Campos"
     },
     {
-      "title": "Is Brain Float (bf16) Worth it?",
-      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
-      "published_at": "2026-05-12T00:12:08Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "llm",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
       "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
       "published_at": "2026-05-11T07:36:44Z",
@@ -194,6 +179,21 @@
       "user": "xbill"
     },
     {
+      "title": "Is Brain Float (bf16) Worth it?",
+      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
+      "published_at": "2026-05-12T00:12:08Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "llm",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
       "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
       "published_at": "2026-05-11T17:43:38Z",
@@ -237,19 +237,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
     },
     {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
@@ -703,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1773,
       "user": "huangserva"
     },
     {
@@ -723,6 +710,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+      "published_at": "2026-05-13T07:07:13Z",
+      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "sideprojects",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
       "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
@@ -930,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1773,
       "user": "huangserva"
     },
     {
@@ -945,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "kunchenguid"
     },
     {
@@ -1172,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 689,
       "user": "ywnd1144"
     },
     {
@@ -1202,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 455,
       "user": "AvenueSleuth"
     },
     {
@@ -1217,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 428,
       "user": "TencentARC"
     },
     {
@@ -1232,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 405,
       "user": "ChristianJR19"
     }
   ],
@@ -1341,19 +1343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
     },
     {
       "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
@@ -1533,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "openclaw"
     }
   ],
@@ -1857,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1773,
       "user": "huangserva"
     },
     {
@@ -1872,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "kunchenguid"
     },
     {
@@ -1932,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 689,
       "user": "ywnd1144"
     },
     {
@@ -1962,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 455,
       "user": "AvenueSleuth"
     },
     {
@@ -1977,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 428,
       "user": "TencentARC"
     },
     {
@@ -1992,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 405,
       "user": "ChristianJR19"
     },
     {
@@ -2007,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "tidwall"
     },
     {
@@ -2022,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "openclaw"
     },
     {
@@ -2037,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 66,
       "user": "ozgurcd"
     },
     {
