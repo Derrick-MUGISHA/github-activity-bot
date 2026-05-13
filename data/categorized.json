@@ -691,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1748,
       "user": "huangserva"
     },
     {
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 370,
       "user": "TrueGunsmithFence"
     }
   ],
@@ -933,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1748,
       "user": "huangserva"
     },
     {
@@ -948,7 +948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "kunchenguid"
     },
     {
@@ -1175,7 +1175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 645,
       "user": "ywnd1144"
     },
     {
@@ -1190,7 +1190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 533,
       "user": "patchfighterway90"
     },
     {
@@ -1205,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 435,
       "user": "AvenueSleuth"
     },
     {
@@ -1220,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 380,
       "user": "ChristianJR19"
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 370,
       "user": "TrueGunsmithFence"
     }
   ],
@@ -1536,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "openclaw"
     }
   ],
@@ -1860,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1748,
       "user": "huangserva"
     },
     {
@@ -1875,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "kunchenguid"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 645,
       "user": "ywnd1144"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 533,
       "user": "patchfighterway90"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 435,
       "user": "AvenueSleuth"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 380,
       "user": "ChristianJR19"
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 370,
       "user": "TrueGunsmithFence"
     },
     {
@@ -2025,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "openclaw"
     },
     {
@@ -2044,6 +2044,21 @@
       "user": "rudrankriyam"
     },
     {
+      "title": "ozgurcd/gograph - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
+      "url": "https://github.com/ozgurcd/gograph",
+      "published_at": "2026-05-08T23:15:18Z",
+      "description": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
+      "source": "GitHub",
+      "stars": 52,
+      "user": "ozgurcd"
+    },
+    {
       "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
       "url": "https://github.com/davemorin/supacrawl",
       "published_at": "2026-05-10T08:00:13Z",
@@ -2057,21 +2072,6 @@
       "source": "GitHub",
       "stars": 49,
       "user": "davemorin"
-    },
-    {
-      "title": "mizchi/pkfire - Typed task runner with Bazel-style incremental caching, configured in Pkl.",
-      "url": "https://github.com/mizchi/pkfire",
-      "published_at": "2026-05-10T10:33:32Z",
-      "description": "Typed task runner with Bazel-style incremental caching, configured in Pkl.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73962?v=4",
-      "source": "GitHub",
-      "stars": 41,
-      "user": "mizchi"
     }
   ]
 }
