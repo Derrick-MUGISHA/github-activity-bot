@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦 9 (8.6%)
 
 **WebDev**: 🟦🟦🟦 6 (5.7%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.3 (30.3%)
-JavaScript      ████████████████████████ 24.7 (24.7%)
-Java            ████████████████████ 20.2 (20.2%)
-Python          ████████████████████ 20.2 (20.2%)
-Rust            ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 29.5 (29.5%)
+JavaScript      █████████████████████████ 25.0 (25.0%)
+Java            █████████████████████ 20.5 (20.5%)
+Python          █████████████████████ 20.5 (20.5%)
+Rust            ██ 2.3 (2.3%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 
@@ -72,7 +72,7 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 27
+    "Go" : 26
     "JavaScript" : 22
     "Java" : 18
     "Python" : 18
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-14 0:00 CAT)
+## 📅 Latest Updates (2026-05-14 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -162,19 +162,19 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw08shs553xizyqsemkw0.jpg" width="200" alt="Untimely feedback as a root cause of tech debt" />
+    <a href="https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png" width="200" alt="Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI" />
       <br/>
-      <b>Untimely feedback as a root cause of tech debt</b>
+      <b>Local-First AI Done Right: How Gemma 4 E2B and 'Th...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png" width="200" alt="Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI" />
+    <a href="https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw08shs553xizyqsemkw0.jpg" width="200" alt="Untimely feedback as a root cause of tech debt" />
       <br/>
-      <b>Local-First AI Done Right: How Gemma 4 E2B and 'Th...</b>
+      <b>Untimely feedback as a root cause of tech debt</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,14 +198,15 @@ npm run test
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
 - [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) _[Dev.to]_
 - [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) _[Dev.to]_
-- [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd) _[Dev.to]_
 - [Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI](https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop) _[Dev.to]_
+- [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 - [Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation](https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72) _[Dev.to]_
 - [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
 - [Compile-time vs runtime: where MCP security actually lives](https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l) _[Dev.to]_
 - [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
 - [The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and "Pay-per-Citation" by Law](https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl) _[Dev.to]_
+- [The Hidden Cost of "It Works": Why Quick Fixes Kill Long-Term Speed](https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 - [Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work](https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo) _[Dev.to]_
 - [Playwright is Powerful, But Managing It at Scale? That's Another Story](https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in) _[Dev.to]_
 - [Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn) _[Dev.to]_
 - [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0) _[Dev.to]_
-- [Computers and upgrades](https://dev.to/unsungnovelty/computers-and-upgrades-3n7f) _[Dev.to]_
 
-_Last automated update: Thu, 14 May 2026 00:49:43 CAT_
+_Last automated update: Thu, 14 May 2026 01:53:30 CAT_
 
 
 
@@ -224,14 +224,14 @@ _Last automated update: Thu, 14 May 2026 00:49:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -246,14 +246,14 @@ Token bucket, sliding window, Redis
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 13 May 2026 22:49:43 GMT</b><br/>
+  <b>Last automated update: Wed, 13 May 2026 23:53:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
