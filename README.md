@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 51 (48.6%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦🟦 9 (8.6%)
 
 **WebDev**: 🟦🟦 6 (5.7%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 32.2 (32.2%)
-JavaScript      ██████████████████████ 24.1 (24.1%)
-Python          ███████████████████ 20.7 (20.7%)
-Java            ██████████████████ 19.5 (19.5%)
+Go              ██████████████████████████████ 33.0 (33.0%)
+JavaScript      ██████████████████████ 23.9 (23.9%)
+Python          ███████████████████ 20.5 (20.5%)
+Java            ██████████████████ 19.3 (19.3%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 Rust            █ 1.1 (1.1%)
@@ -72,7 +72,7 @@ Rust            █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 28
+    "Go" : 29
     "JavaScript" : 21
     "Python" : 18
     "Java" : 17
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-24-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-25-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-13 18:00 CAT)
+## 📅 Latest Updates (2026-05-13 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,6 +142,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg" width="200" alt="Lambda Just Got a File System. I Put AI Agents on It." />
+      <br/>
+      <b>Lambda Just Got a File System. I Put AI Agents on ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png" width="200" alt="Does AI Behave Like a Toxic Ex?" />
       <br/>
@@ -150,6 +159,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png" width="200" alt="Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation" />
@@ -159,8 +170,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png" width="200" alt="My fully offline AI-assisted Linux development machine" />
@@ -179,15 +188,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png" width="200" alt="The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and "Pay-per-Citation" by Law" />
-      <br/>
-      <b>The Tech Giants Cannot Continue Like This: Why We ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -196,14 +196,14 @@ npm run test
 ### 📰 Top Headlines
 
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
+- [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) _[Dev.to]_
 - [Does AI Behave Like a Toxic Ex?](https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n) _[Dev.to]_
 - [Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation](https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72) _[Dev.to]_
 - [My fully offline AI-assisted Linux development machine](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl) _[Dev.to]_
 - [Compile-time vs runtime: where MCP security actually lives](https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l) _[Dev.to]_
 - [The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and "Pay-per-Citation" by Law](https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl) _[Dev.to]_
-- [What are your goals for the week? #178](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp) _[Dev.to]_
-- [Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work](https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
+- [Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work](https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo) _[Dev.to]_
 - [Playwright is Powerful, But Managing It at Scale? That's Another Story](https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37) _[Dev.to]_
 - [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) _[Dev.to]_
 - [MCP Configuration for Google Workspace with Gemini CLI](https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2) _[Dev.to]_
@@ -211,12 +211,12 @@ npm run test
 - [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0) _[Dev.to]_
 - [Computers and upgrades](https://dev.to/unsungnovelty/computers-and-upgrades-3n7f) _[Dev.to]_
 - [I Didn’t Stop Building. I Just Left My Laptop.](https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da) _[Dev.to]_
+- [What are your goals for the week? #178](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp) _[Dev.to]_
 - [Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha) _[Dev.to]_
 - [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6) _[Dev.to]_
 - [Landscape of ODE Solvers in R: A Practical Overview](https://dev.to/metelkin/landscape-of-ode-solvers-in-r-a-practical-overview-4cc7) _[Dev.to]_
-- [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1) _[Dev.to]_
 
-_Last automated update: Wed, 13 May 2026 18:01:16 CAT_
+_Last automated update: Wed, 13 May 2026 20:14:40 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 13 May 2026 18:01:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 13 May 2026 16:01:16 GMT</b><br/>
+  <b>Last automated update: Wed, 13 May 2026 18:14:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
