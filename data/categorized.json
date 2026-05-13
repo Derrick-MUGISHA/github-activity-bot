@@ -31,6 +31,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "My fully offline AI-assisted Linux development machine",
+      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
+      "published_at": "2026-05-11T20:47:59Z",
+      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "tags": [
+        "linux",
+        "archlinux",
+        "development",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Deepu K Sasidharan"
+    },
+    {
       "title": "Compile-time vs runtime: where MCP security actually lives",
       "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
       "published_at": "2026-05-12T10:46:36Z",
@@ -90,21 +105,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "My fully offline AI-assisted Linux development machine",
-      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
-      "published_at": "2026-05-11T20:47:59Z",
-      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
-      "tags": [
-        "linux",
-        "archlinux",
-        "development",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
-      "source": "Dev.to",
-      "user": "Deepu K Sasidharan"
-    },
-    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -117,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
-      "published_at": "2026-05-06T06:28:42Z",
-      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
-      "tags": [
-        "career",
-        "learning",
-        "development",
-        "workplace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -147,6 +132,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+      "published_at": "2026-05-06T06:28:42Z",
+      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "tags": [
+        "career",
+        "learning",
+        "development",
+        "workplace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "Congrats to the OpenClaw Challenge Winners!",
@@ -237,6 +237,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
+      "published_at": "2026-04-26T13:10:27Z",
+      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
+      "tags": [
+        "backend",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
+      "source": "Dev.to",
+      "user": "Rahmon Toyeeb"
     },
     {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
@@ -445,19 +458,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvw8bn8j1akmvenobfbb.png",
       "source": "Dev.to",
       "user": "Hiroyuki Nakahata"
-    },
-    {
-      "title": "How CLAUDE.md actually works",
-      "url": "https://dev.to/travelingwilbur/how-claudemd-actually-works-3l1e",
-      "published_at": "2026-05-09T06:33:47Z",
-      "description": "Most engineers write CLAUDE.md like a README. They put their stack, a few preferences, maybe a note...",
-      "tags": [
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgkv5a9ikwya3cm0wk9l4.png",
-      "source": "Dev.to",
-      "user": "Wilbur Suero"
     },
     {
       "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
@@ -690,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1773,
+      "stars": 1789,
       "user": "huangserva"
     },
     {
@@ -932,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1773,
+      "stars": 1789,
       "user": "huangserva"
     },
     {
@@ -947,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "kunchenguid"
     },
     {
@@ -977,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "killervillsy"
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "ywnd1144"
     },
     {
@@ -1204,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 462,
       "user": "AvenueSleuth"
     },
     {
@@ -1219,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 449,
       "user": "TencentARC"
     },
     {
@@ -1234,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "ChristianJR19"
     }
   ],
@@ -1343,6 +1343,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
+      "published_at": "2026-04-26T13:10:27Z",
+      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
+      "tags": [
+        "backend",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
+      "source": "Dev.to",
+      "user": "Rahmon Toyeeb"
     },
     {
       "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
@@ -1846,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1773,
+      "stars": 1789,
       "user": "huangserva"
     },
     {
@@ -1861,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "kunchenguid"
     },
     {
@@ -1891,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "killervillsy"
     },
     {
@@ -1921,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "ywnd1144"
     },
     {
@@ -1951,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 462,
       "user": "AvenueSleuth"
     },
     {
@@ -1966,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 449,
       "user": "TencentARC"
     },
     {
@@ -1981,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 411,
       "user": "ChristianJR19"
     },
     {
@@ -2026,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 70,
       "user": "ozgurcd"
     },
     {
