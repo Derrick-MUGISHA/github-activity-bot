@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
-      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
-      "published_at": "2026-05-12T04:17:48Z",
-      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
-      "tags": [
-        "api",
-        "gemini",
-        "llm",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Does AI Behave Like a Toxic Ex?",
       "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
       "published_at": "2026-05-11T18:09:56Z",
@@ -31,19 +16,19 @@
       "user": "Konark Sharma"
     },
     {
-      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
-      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
-      "published_at": "2026-05-12T11:53:01Z",
-      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
+      "published_at": "2026-05-12T04:17:48Z",
+      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
       "tags": [
-        "tech",
-        "opensource",
-        "webdev",
-        "ethics"
+        "api",
+        "gemini",
+        "llm",
+        "rag"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png",
       "source": "Dev.to",
-      "user": "Carlos Campos"
+      "user": "Evan Lin"
     },
     {
       "title": "Compile-time vs runtime: where MCP security actually lives",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
       "source": "Dev.to",
       "user": "Razu Kc"
+    },
+    {
+      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
+      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
+      "published_at": "2026-05-12T11:53:01Z",
+      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
+      "tags": [
+        "tech",
+        "opensource",
+        "webdev",
+        "ethics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
+      "source": "Dev.to",
+      "user": "Carlos Campos"
     },
     {
       "title": "Is Brain Float (bf16) Worth it?",
@@ -250,6 +250,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
+    },
+    {
+      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
+      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
+      "published_at": "2026-05-07T20:21:26Z",
+      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
+      "tags": [
+        "backend",
+        "laravel",
+        "performance",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
+      "source": "Dev.to",
+      "user": "Fomin Vasyl"
+    },
+    {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
     },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
@@ -518,64 +548,6 @@
       "user": "Tolbxela Bot"
     },
     {
-      "title": "I Built OxyTrack: Turning Small Daily Habits Into Real Environmental Impact 🌱",
-      "url": "https://dev.to/ajitekom/i-built-oxytrack-turning-small-daily-habits-into-real-environmental-impact-1nj9",
-      "published_at": "2026-04-19T06:21:26Z",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition  What I Built  Many people want to help...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovd9cgquj26xjuxv93e4.png",
-      "source": "Dev.to",
-      "user": "Setiaji"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
-      "published_at": "2026-05-05T04:53:55Z",
-      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
-    {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
-      "published_at": "2026-04-30T12:14:54Z",
-      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
-      "tags": [
-        "ai",
-        "webdev",
-        "openai",
-        "monitoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff8z5wugyb4ej0izyj0af.png",
-      "source": "Dev.to",
-      "user": "Ali Afana "
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -719,7 +691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1733,
       "user": "huangserva"
     },
     {
@@ -749,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 358,
       "user": "TrueGunsmithFence"
     }
   ],
@@ -783,6 +755,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
       "source": "Dev.to",
       "user": "Abdullah Al Fahad"
+    },
+    {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
     },
     {
       "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
@@ -946,7 +933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1733,
       "user": "huangserva"
     },
     {
@@ -961,7 +948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 296,
       "user": "kunchenguid"
     },
     {
@@ -991,7 +978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "killervillsy"
     },
     {
@@ -1055,21 +1042,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
       "source": "Dev.to",
       "user": "Dipesh Sukhani"
-    },
-    {
-      "title": "Installing pygame for IDLE on Mac",
-      "url": "https://dev.to/paxfeline/installing-pygame-for-idle-on-mac-28kb",
-      "published_at": "2026-04-21T19:13:08Z",
-      "description": "Step-by-step guide for installing the pygame module for Python to work with IDLE on a Mac.",
-      "tags": [
-        "beginners",
-        "gamedev",
-        "python",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frw6bote8svquwyqxcojx.png",
-      "source": "Dev.to",
-      "user": "David Newberry"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1192,6 +1164,21 @@
       "user": "gilad"
     },
     {
+      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+      "published_at": "2026-05-12T11:29:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
+      "source": "GitHub",
+      "stars": 594,
+      "user": "ywnd1144"
+    },
+    {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
       "url": "https://github.com/patchfighterway90/cs2-external-overlay",
       "published_at": "2026-05-12T13:18:16Z",
@@ -1207,21 +1194,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
-      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
-      "published_at": "2026-05-12T11:29:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "ywnd1144"
-    },
-    {
       "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
       "url": "https://github.com/AvenueSleuth/delta-exec",
       "published_at": "2026-05-08T20:10:42Z",
@@ -1233,7 +1205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 419,
       "user": "AvenueSleuth"
     },
     {
@@ -1248,7 +1220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 367,
       "user": "ChristianJR19"
     },
     {
@@ -1263,7 +1235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 358,
       "user": "TrueGunsmithFence"
     }
   ],
@@ -1402,6 +1374,21 @@
       "user": "Abdullah Al Fahad"
     },
     {
+      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
+      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
+      "published_at": "2026-05-07T20:21:26Z",
+      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
+      "tags": [
+        "backend",
+        "laravel",
+        "performance",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
+      "source": "Dev.to",
+      "user": "Fomin Vasyl"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1538,35 +1525,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
-      "url": "https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd",
-      "published_at": "2026-04-22T14:09:18Z",
-      "description": "Winners Announced:         Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!          ...",
-      "tags": [
-        "devchallenge",
-        "googlecloud",
-        "cloudnextchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg0mgsyv33p1phq7e54y.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
-      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
-      "published_at": "2026-05-05T04:53:55Z",
-      "description": "This is the fourth post in my Google Cloud Next '26 (Las Vegas) recap series.  You can find the...",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "claude",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwdscx7wfkq5uqkli1n5d.jpeg",
-      "source": "Dev.to",
-      "user": "koichim2"
-    },
-    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1578,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "openclaw"
     }
   ],
@@ -1684,21 +1642,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
       "source": "Dev.to",
       "user": "Shadab Khan"
-    },
-    {
-      "title": "Vercel Hack: Why You Need to Rotate Your \"Non-Sensitive\" Environment Variables Today",
-      "url": "https://dev.to/jon_at_backboardio/vercel-hack-why-you-need-to-rotate-your-non-sensitive-environment-variables-today-25mh",
-      "published_at": "2026-04-20T02:49:24Z",
-      "description": "If you deploy on Vercel, todays headlines about a security incident might have caused some stress....",
-      "tags": [
-        "ai",
-        "vercel",
-        "security",
-        "hack"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaw7fvji956im2sod6xz.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1917,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1733,
       "user": "huangserva"
     },
     {
@@ -1932,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 296,
       "user": "kunchenguid"
     },
     {
@@ -1962,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "killervillsy"
     },
     {
@@ -1981,6 +1924,21 @@
       "user": "DenAB-NVS"
     },
     {
+      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+      "published_at": "2026-05-12T11:29:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
+      "source": "GitHub",
+      "stars": 594,
+      "user": "ywnd1144"
+    },
+    {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
       "url": "https://github.com/patchfighterway90/cs2-external-overlay",
       "published_at": "2026-05-12T13:18:16Z",
@@ -1996,21 +1954,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
-      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
-      "published_at": "2026-05-12T11:29:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "ywnd1144"
-    },
-    {
       "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
       "url": "https://github.com/AvenueSleuth/delta-exec",
       "published_at": "2026-05-08T20:10:42Z",
@@ -2022,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 419,
       "user": "AvenueSleuth"
     },
     {
@@ -2037,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 367,
       "user": "ChristianJR19"
     },
     {
@@ -2052,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 358,
       "user": "TrueGunsmithFence"
     },
     {
@@ -2067,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "tidwall"
     },
     {
@@ -2082,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "openclaw"
     },
     {
