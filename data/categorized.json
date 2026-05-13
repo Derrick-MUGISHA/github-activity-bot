@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
+    },
+    {
       "title": "Does AI Behave Like a Toxic Ex?",
       "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
       "published_at": "2026-05-11T18:09:56Z",
@@ -690,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1789,
+      "stars": 1793,
       "user": "huangserva"
     },
     {
@@ -932,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1789,
+      "stars": 1793,
       "user": "huangserva"
     },
     {
@@ -947,7 +962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "kunchenguid"
     },
     {
@@ -977,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "killervillsy"
     },
     {
@@ -1174,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 701,
       "user": "ywnd1144"
     },
     {
@@ -1193,21 +1208,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
-      "source": "GitHub",
-      "stars": 462,
-      "user": "AvenueSleuth"
-    },
-    {
       "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
       "url": "https://github.com/TencentARC/Pixal3D",
       "published_at": "2026-05-10T15:35:28Z",
@@ -1219,8 +1219,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 475,
       "user": "TencentARC"
+    },
+    {
+      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
+      "url": "https://github.com/AvenueSleuth/delta-exec",
+      "published_at": "2026-05-08T20:10:42Z",
+      "description": "Delta Exec scripting utility",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "source": "GitHub",
+      "stars": 473,
+      "user": "AvenueSleuth"
     },
     {
       "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
@@ -1234,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 422,
       "user": "ChristianJR19"
     }
   ],
@@ -1418,6 +1433,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
+    },
     {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
@@ -1672,20 +1702,6 @@
       "user": "Razu Kc"
     },
     {
-      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
-      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
-      "published_at": "2026-05-11T07:36:44Z",
-      "description": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal requests into structured, actionable engineering tasks with multi-agent support.",
-      "tags": [
-        "productivity",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h5ny91q0p762zbpin0y.png",
-      "source": "Dev.to",
-      "user": "Michael Nikitochkin"
-    },
-    {
       "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
       "published_at": "2026-05-11T07:06:08Z",
@@ -1699,6 +1715,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png",
       "source": "Dev.to",
       "user": "satyamsoni2211"
+    },
+    {
+      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
+      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
+      "published_at": "2026-05-11T07:36:44Z",
+      "description": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal requests into structured, actionable engineering tasks with multi-agent support.",
+      "tags": [
+        "productivity",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h5ny91q0p762zbpin0y.png",
+      "source": "Dev.to",
+      "user": "Michael Nikitochkin"
     },
     {
       "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
@@ -1859,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1789,
+      "stars": 1793,
       "user": "huangserva"
     },
     {
@@ -1874,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "kunchenguid"
     },
     {
@@ -1904,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "killervillsy"
     },
     {
@@ -1934,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 701,
       "user": "ywnd1144"
     },
     {
@@ -1953,21 +1983,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
-      "source": "GitHub",
-      "stars": 462,
-      "user": "AvenueSleuth"
-    },
-    {
       "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
       "url": "https://github.com/TencentARC/Pixal3D",
       "published_at": "2026-05-10T15:35:28Z",
@@ -1979,8 +1994,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 475,
       "user": "TencentARC"
+    },
+    {
+      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
+      "url": "https://github.com/AvenueSleuth/delta-exec",
+      "published_at": "2026-05-08T20:10:42Z",
+      "description": "Delta Exec scripting utility",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "source": "GitHub",
+      "stars": 473,
+      "user": "AvenueSleuth"
     },
     {
       "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
@@ -1994,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 422,
       "user": "ChristianJR19"
     },
     {
@@ -2039,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 78,
       "user": "ozgurcd"
     },
     {
