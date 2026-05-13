@@ -680,6 +680,18 @@
       "user": "veesahni"
     },
     {
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "published_at": "2026-05-11T20:45:55Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "indigodaddy"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -691,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1762,
       "user": "huangserva"
     },
     {
@@ -708,21 +720,6 @@
       "source": "GitHub",
       "stars": 166,
       "user": "DenAB-NVS"
-    },
-    {
-      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
-      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
-      "published_at": "2026-05-10T14:19:20Z",
-      "description": "Hentaihunter - How to steal your Doujinshi easily",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
-      "source": "GitHub",
-      "stars": 370,
-      "user": "TrueGunsmithFence"
     }
   ],
   "JavaScript": [
@@ -933,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1762,
       "user": "huangserva"
     },
     {
@@ -978,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "killervillsy"
     },
     {
@@ -1152,16 +1149,16 @@
       "user": "arathore"
     },
     {
-      "title": "Python Is Eating the World",
-      "url": "https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/",
-      "published_at": "2019-08-12T03:00:14Z",
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "published_at": "2026-05-11T20:45:55Z",
       "description": "HackerNews Discussion",
       "tags": [
         "Python"
       ],
       "cover_image": null,
       "source": "HackerNews",
-      "user": "gilad"
+      "user": "indigodaddy"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1175,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 676,
       "user": "ywnd1144"
     },
     {
@@ -1205,8 +1202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 447,
       "user": "AvenueSleuth"
+    },
+    {
+      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "url": "https://github.com/TencentARC/Pixal3D",
+      "published_at": "2026-05-10T15:35:28Z",
+      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
+      "source": "GitHub",
+      "stars": 402,
+      "user": "TencentARC"
     },
     {
       "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
@@ -1220,23 +1232,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 395,
       "user": "ChristianJR19"
-    },
-    {
-      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
-      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
-      "published_at": "2026-05-10T14:19:20Z",
-      "description": "Hentaihunter - How to steal your Doujinshi easily",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
-      "source": "GitHub",
-      "stars": 370,
-      "user": "TrueGunsmithFence"
     }
   ],
   "DevOps": [
@@ -1860,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1762,
       "user": "huangserva"
     },
     {
@@ -1905,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "killervillsy"
     },
     {
@@ -1935,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 676,
       "user": "ywnd1144"
     },
     {
@@ -1965,8 +1962,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 447,
       "user": "AvenueSleuth"
+    },
+    {
+      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "url": "https://github.com/TencentARC/Pixal3D",
+      "published_at": "2026-05-10T15:35:28Z",
+      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
+      "source": "GitHub",
+      "stars": 402,
+      "user": "TencentARC"
     },
     {
       "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
@@ -1980,23 +1992,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 395,
       "user": "ChristianJR19"
-    },
-    {
-      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
-      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
-      "published_at": "2026-05-10T14:19:20Z",
-      "description": "Hentaihunter - How to steal your Doujinshi easily",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
-      "source": "GitHub",
-      "stars": 370,
-      "user": "TrueGunsmithFence"
     },
     {
       "title": "tidwall/btype - B-tree based collection types for Go",
@@ -2010,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "tidwall"
     },
     {
@@ -2029,6 +2026,21 @@
       "user": "openclaw"
     },
     {
+      "title": "ozgurcd/gograph - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
+      "url": "https://github.com/ozgurcd/gograph",
+      "published_at": "2026-05-08T23:15:18Z",
+      "description": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "ozgurcd"
+    },
+    {
       "title": "rudrankriyam/Google-Health-CLI - Unofficial Google-Health-CLI for the Google Health API, written in Go",
       "url": "https://github.com/rudrankriyam/Google-Health-CLI",
       "published_at": "2026-05-09T12:49:43Z",
@@ -2042,21 +2054,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "rudrankriyam"
-    },
-    {
-      "title": "ozgurcd/gograph - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
-      "url": "https://github.com/ozgurcd/gograph",
-      "published_at": "2026-05-08T23:15:18Z",
-      "description": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
-      "source": "GitHub",
-      "stars": 52,
-      "user": "ozgurcd"
     },
     {
       "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
