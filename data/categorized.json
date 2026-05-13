@@ -1,19 +1,34 @@
 {
   "AI": [
     {
-      "title": "My fully offline AI-assisted Linux development machine",
-      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
-      "published_at": "2026-05-11T20:47:59Z",
-      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
+      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
+      "published_at": "2026-05-12T04:17:48Z",
+      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
       "tags": [
-        "linux",
-        "archlinux",
-        "development",
-        "ai"
+        "api",
+        "gemini",
+        "llm",
+        "rag"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png",
       "source": "Dev.to",
-      "user": "Deepu K Sasidharan"
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
+      "published_at": "2026-05-11T18:09:56Z",
+      "description": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
     },
     {
       "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
@@ -44,36 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
       "source": "Dev.to",
       "user": "Razu Kc"
-    },
-    {
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
-      "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
-      "published_at": "2026-05-12T04:17:48Z",
-      "description": "(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...",
-      "tags": [
-        "api",
-        "gemini",
-        "llm",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
-      "published_at": "2026-05-11T18:09:56Z",
-      "description": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
     },
     {
       "title": "Is Brain Float (bf16) Worth it?",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "My fully offline AI-assisted Linux development machine",
+      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
+      "published_at": "2026-05-11T20:47:59Z",
+      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "tags": [
+        "linux",
+        "archlinux",
+        "development",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Deepu K Sasidharan"
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -719,53 +719,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1711,
       "user": "huangserva"
     },
     {
-      "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "url": "https://github.com/yaojingang/yao-open-prompts",
-      "published_at": "2026-05-06T13:04:20Z",
-      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "published_at": "2026-05-07T23:25:46Z",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "DenAB-NVS"
+    },
+    {
+      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "published_at": "2026-05-10T14:19:20Z",
+      "description": "Hentaihunter - How to steal your Doujinshi easily",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 1825,
-      "user": "yaojingang"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 974,
-      "user": "lightseekorg"
-    },
-    {
-      "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
-      "url": "https://github.com/usewhale/whale",
-      "published_at": "2026-05-06T07:01:36Z",
-      "description": "Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "usewhale"
+      "stars": 336,
+      "user": "TrueGunsmithFence"
     }
   ],
   "JavaScript": [
@@ -961,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1711,
       "user": "huangserva"
     },
     {
@@ -976,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "kunchenguid"
     },
     {
@@ -995,21 +980,6 @@
       "user": "kerlos"
     },
     {
-      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
-      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
-      "published_at": "2026-05-06T07:05:07Z",
-      "description": "XHS_ALL_IN_ONE 小红书全域运营",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
-      "source": "GitHub",
-      "stars": 235,
-      "user": "cv-cat"
-    },
-    {
       "title": "killervillsy/SessionToJson - GitHub Repository",
       "url": "https://github.com/killervillsy/SessionToJson",
       "published_at": "2026-05-09T02:52:19Z",
@@ -1021,8 +991,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "killervillsy"
+    },
+    {
+      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "published_at": "2026-05-07T23:25:46Z",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "DenAB-NVS"
     }
   ],
   "Python": [
@@ -1207,51 +1192,6 @@
       "user": "gilad"
     },
     {
-      "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "url": "https://github.com/yaojingang/yao-open-prompts",
-      "published_at": "2026-05-06T13:04:20Z",
-      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 1825,
-      "user": "yaojingang"
-    },
-    {
-      "title": "BigPizzaV3/CodexPlusPlus - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-      "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-      "published_at": "2026-05-06T09:32:49Z",
-      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
-      "source": "GitHub",
-      "stars": 1498,
-      "user": "BigPizzaV3"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 974,
-      "user": "lightseekorg"
-    },
-    {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
       "url": "https://github.com/patchfighterway90/cs2-external-overlay",
       "published_at": "2026-05-12T13:18:16Z",
@@ -1278,8 +1218,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 516,
       "user": "ywnd1144"
+    },
+    {
+      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
+      "url": "https://github.com/AvenueSleuth/delta-exec",
+      "published_at": "2026-05-08T20:10:42Z",
+      "description": "Delta Exec scripting utility",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "source": "GitHub",
+      "stars": 396,
+      "user": "AvenueSleuth"
+    },
+    {
+      "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
+      "url": "https://github.com/ChristianJR19/Goblin-Agent",
+      "published_at": "2026-05-09T04:18:30Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
+      "source": "GitHub",
+      "stars": 343,
+      "user": "ChristianJR19"
+    },
+    {
+      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "published_at": "2026-05-10T14:19:20Z",
+      "description": "Hentaihunter - How to steal your Doujinshi easily",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
+      "source": "GitHub",
+      "stars": 336,
+      "user": "TrueGunsmithFence"
     }
   ],
   "DevOps": [
@@ -1637,6 +1622,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "url": "https://github.com/davemorin/supacrawl",
+      "published_at": "2026-05-10T08:00:13Z",
+      "description": "Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "davemorin"
     }
   ],
   "Security": [
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1711,
       "user": "huangserva"
     },
     {
@@ -1932,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 291,
       "user": "kunchenguid"
     },
     {
@@ -1951,21 +1951,6 @@
       "user": "kerlos"
     },
     {
-      "title": "cv-cat/XHS_ALL_IN_ONE - XHS_ALL_IN_ONE 小红书全域运营",
-      "url": "https://github.com/cv-cat/XHS_ALL_IN_ONE",
-      "published_at": "2026-05-06T07:05:07Z",
-      "description": "XHS_ALL_IN_ONE 小红书全域运营",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94289429?v=4",
-      "source": "GitHub",
-      "stars": 235,
-      "user": "cv-cat"
-    },
-    {
       "title": "killervillsy/SessionToJson - GitHub Repository",
       "url": "https://github.com/killervillsy/SessionToJson",
       "published_at": "2026-05-09T02:52:19Z",
@@ -1977,53 +1962,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "killervillsy"
     },
     {
-      "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "url": "https://github.com/yaojingang/yao-open-prompts",
-      "published_at": "2026-05-06T13:04:20Z",
-      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "url": "https://github.com/DenAB-NVS/submarine",
+      "published_at": "2026-05-07T23:25:46Z",
+      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
       "source": "GitHub",
-      "stars": 1825,
-      "user": "yaojingang"
-    },
-    {
-      "title": "BigPizzaV3/CodexPlusPlus - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-      "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-      "published_at": "2026-05-06T09:32:49Z",
-      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237402563?v=4",
-      "source": "GitHub",
-      "stars": 1498,
-      "user": "BigPizzaV3"
-    },
-    {
-      "title": "lightseekorg/tokenspeed - TokenSpeed is a speed-of-light LLM inference engine.",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "published_at": "2026-05-06T13:13:21Z",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/238925110?v=4",
-      "source": "GitHub",
-      "stars": 974,
-      "user": "lightseekorg"
+      "stars": 166,
+      "user": "DenAB-NVS"
     },
     {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
@@ -2052,23 +2007,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 516,
       "user": "ywnd1144"
     },
     {
-      "title": "gofsnotify/fsnotify - Cross-platform file system notifications for Go.",
-      "url": "https://github.com/gofsnotify/fsnotify",
-      "published_at": "2026-05-06T08:16:29Z",
-      "description": "Cross-platform file system notifications for Go.",
+      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
+      "url": "https://github.com/AvenueSleuth/delta-exec",
+      "published_at": "2026-05-08T20:10:42Z",
+      "description": "Delta Exec scripting utility",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282187993?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 186,
-      "user": "gofsnotify"
+      "stars": 396,
+      "user": "AvenueSleuth"
+    },
+    {
+      "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
+      "url": "https://github.com/ChristianJR19/Goblin-Agent",
+      "published_at": "2026-05-09T04:18:30Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
+      "source": "GitHub",
+      "stars": 343,
+      "user": "ChristianJR19"
+    },
+    {
+      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "published_at": "2026-05-10T14:19:20Z",
+      "description": "Hentaihunter - How to steal your Doujinshi easily",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
+      "source": "GitHub",
+      "stars": 336,
+      "user": "TrueGunsmithFence"
     },
     {
       "title": "tidwall/btype - B-tree based collection types for Go",
@@ -2082,23 +2067,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "tidwall"
-    },
-    {
-      "title": "usewhale/whale - Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
-      "url": "https://github.com/usewhale/whale",
-      "published_at": "2026-05-06T07:01:36Z",
-      "description": "Whale 是专为 DeepSeek 模型优化的终端 AI 编码助手，支持 MCP, Skills, 缓存优化。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282163618?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "usewhale"
     },
     {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
@@ -2127,8 +2097,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30552772?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "rudrankriyam"
+    },
+    {
+      "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "url": "https://github.com/davemorin/supacrawl",
+      "published_at": "2026-05-10T08:00:13Z",
+      "description": "Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "davemorin"
+    },
+    {
+      "title": "mizchi/pkfire - Typed task runner with Bazel-style incremental caching, configured in Pkl.",
+      "url": "https://github.com/mizchi/pkfire",
+      "published_at": "2026-05-10T10:33:32Z",
+      "description": "Typed task runner with Bazel-style incremental caching, configured in Pkl.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/73962?v=4",
+      "source": "GitHub",
+      "stars": 41,
+      "user": "mizchi"
     }
   ]
 }
