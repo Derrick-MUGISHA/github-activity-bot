@@ -16,19 +16,33 @@
       "user": "Eric D Johnson"
     },
     {
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
-      "published_at": "2026-05-11T18:09:56Z",
-      "description": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
+      "published_at": "2026-05-12T17:08:46Z",
+      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
       "tags": [
+        "python",
         "ai",
-        "webdev",
-        "discuss",
-        "learning"
+        "videogen",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
       "source": "Dev.to",
-      "user": "Konark Sharma"
+      "user": "Paige Bailey"
+    },
+    {
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
+      "published_at": "2026-05-13T00:08:54Z",
+      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
     },
     {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
@@ -74,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
       "source": "Dev.to",
       "user": "Razu Kc"
+    },
+    {
+      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
+      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
+      "published_at": "2026-05-13T06:30:47Z",
+      "description": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and chat-latest API. Full 2026 guide.",
+      "tags": [
+        "gpt55instant",
+        "chatgptnewdefaultmodel202",
+        "gpt55instantvsgpt53instan",
+        "gpt55instanthallucination"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
+      "source": "Dev.to",
+      "user": "Anup Karanjkar"
     },
     {
       "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
@@ -149,6 +178,21 @@
       "user": "Sanket Sahu"
     },
     {
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
+      "published_at": "2026-05-11T18:09:56Z",
+      "description": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
+      "tags": [
+        "ai",
+        "webdev",
+        "discuss",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
+      "source": "Dev.to",
+      "user": "Konark Sharma"
+    },
+    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -177,81 +221,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Is Brain Float (bf16) Worth it?",
-      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
-      "published_at": "2026-05-12T00:12:08Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "llm",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -705,23 +674,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1795,
       "user": "huangserva"
-    },
-    {
-      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "url": "https://github.com/DenAB-NVS/submarine",
-      "published_at": "2026-05-07T23:25:46Z",
-      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
-      "source": "GitHub",
-      "stars": 166,
-      "user": "DenAB-NVS"
     }
   ],
   "JavaScript": [
@@ -739,6 +693,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "onclick is great, actually",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
+      "published_at": "2026-05-13T19:10:34Z",
+      "description": "A few thoughts on `onclick` and how my opinion on it has changed.",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
+      "source": "Dev.to",
+      "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -947,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1795,
       "user": "huangserva"
     },
     {
@@ -996,36 +963,36 @@
       "user": "killervillsy"
     },
     {
-      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "url": "https://github.com/DenAB-NVS/submarine",
-      "published_at": "2026-05-07T23:25:46Z",
-      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "title": "GAwesome-Bot/polymarket-trading-bot-v2 - polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
+      "url": "https://github.com/GAwesome-Bot/polymarket-trading-bot-v2",
+      "published_at": "2026-05-13T08:44:24Z",
+      "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284221738?v=4",
       "source": "GitHub",
-      "stars": 166,
-      "user": "DenAB-NVS"
+      "stars": 168,
+      "user": "GAwesome-Bot"
     }
   ],
   "Python": [
     {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
+      "published_at": "2026-05-12T17:08:46Z",
+      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
       "tags": [
-        "ai",
-        "machinelearning",
         "python",
-        "huggingface"
+        "ai",
+        "videogen",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
       "source": "Dev.to",
-      "user": "Raihan"
+      "user": "Paige Bailey"
     },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
@@ -1189,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "ywnd1144"
     },
     {
@@ -1219,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 494,
       "user": "TencentARC"
     },
     {
@@ -1234,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 482,
       "user": "AvenueSleuth"
     },
     {
@@ -1249,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 432,
       "user": "ChristianJR19"
     }
   ],
@@ -1331,6 +1298,19 @@
   ],
   "WebDev": [
     {
+      "title": "onclick is great, actually",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
+      "published_at": "2026-05-13T19:10:34Z",
+      "description": "A few thoughts on `onclick` and how my opinion on it has changed.",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
+      "source": "Dev.to",
+      "user": "𒎏Wii 🏳️‍⚧️"
+    },
+    {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
       "published_at": "2026-05-07T23:15:51Z",
@@ -1343,21 +1323,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
       "source": "Dev.to",
       "user": "Jane Ori"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -1449,17 +1414,17 @@
       "user": "Eric D Johnson"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
+      "published_at": "2026-05-13T13:02:44Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
       "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
+        "awseks",
+        "aws",
+        "mcps",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1570,6 +1535,19 @@
     }
   ],
   "Database": [
+    {
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf",
+      "published_at": "2026-05-13T09:53:32Z",
+      "description": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
+      "tags": [
+        "beginners",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vy3wx3d00jxb34am25s.png",
+      "source": "Dev.to",
+      "user": "Kostas Kalafatis"
+    },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
@@ -1760,21 +1738,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
       "published_at": "2026-05-06T20:48:25Z",
@@ -1889,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1795,
       "user": "huangserva"
     },
     {
@@ -1938,19 +1901,19 @@
       "user": "killervillsy"
     },
     {
-      "title": "DenAB-NVS/submarine - Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
-      "url": "https://github.com/DenAB-NVS/submarine",
-      "published_at": "2026-05-07T23:25:46Z",
-      "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+      "title": "GAwesome-Bot/polymarket-trading-bot-v2 - polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
+      "url": "https://github.com/GAwesome-Bot/polymarket-trading-bot-v2",
+      "published_at": "2026-05-13T08:44:24Z",
+      "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277577823?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284221738?v=4",
       "source": "GitHub",
-      "stars": 166,
-      "user": "DenAB-NVS"
+      "stars": 168,
+      "user": "GAwesome-Bot"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1964,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 704,
       "user": "ywnd1144"
     },
     {
@@ -1994,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 494,
       "user": "TencentARC"
     },
     {
@@ -2009,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 482,
       "user": "AvenueSleuth"
     },
     {
@@ -2024,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 432,
       "user": "ChristianJR19"
     },
     {
@@ -2069,7 +2032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 84,
       "user": "ozgurcd"
     },
     {
