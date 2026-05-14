@@ -105,20 +105,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
-      "published_at": "2026-05-13T00:08:54Z",
-      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
-    {
       "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
       "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
       "published_at": "2026-05-12T17:08:46Z",
@@ -132,6 +118,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
+      "published_at": "2026-05-13T00:08:54Z",
+      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -206,6 +206,96 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "My fully offline AI-assisted Linux development machine",
+      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
+      "published_at": "2026-05-11T20:47:59Z",
+      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "tags": [
+        "linux",
+        "archlinux",
+        "development",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
+      "source": "Dev.to",
+      "user": "Deepu K Sasidharan"
+    },
+    {
+      "title": "Is Brain Float (bf16) Worth it?",
+      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
+      "published_at": "2026-05-12T00:12:08Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
+      "tags": [
+        "ai",
+        "devchallenge",
+        "llm",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
+      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
+      "published_at": "2026-05-11T17:43:38Z",
+      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "python",
+        "huggingface"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Raihan"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -324,21 +414,6 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "Code with Claude Extended SF: Heck yeah and then wait, what?",
-      "url": "https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd",
-      "published_at": "2026-05-09T17:26:14Z",
-      "description": "Heck yeah   I won a golden ticket to Code with Claude Extended (CCE) in San Francisco on May...",
-      "tags": [
-        "ai",
-        "claude",
-        "beginners",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffunn366wh708qjqunnpm.png",
-      "source": "Dev.to",
-      "user": "L. Cordero"
-    },
-    {
       "title": "Boring code is an organizational tell",
       "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
       "published_at": "2026-04-19T18:02:48Z",
@@ -412,96 +487,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
       "source": "Dev.to",
       "user": "Harsh "
-    },
-    {
-      "title": "Attractor Engineering: Seeing Software Development as Field Dynamics",
-      "url": "https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5",
-      "published_at": "2026-05-09T11:25:16Z",
-      "description": "A practical and formal view of software evolution as field-shaped dynamics in the age of AI-assisted development.",
-      "tags": [
-        "softwareengineering",
-        "architecture",
-        "ai",
-        "computerscience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvw8bn8j1akmvenobfbb.png",
-      "source": "Dev.to",
-      "user": "Hiroyuki Nakahata"
-    },
-    {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "published_at": "2026-05-02T19:30:01Z",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "TaskDev - a task runner for AI coding agents (MCP)",
-      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
-      "published_at": "2026-05-09T23:13:17Z",
-      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
-      "tags": [
-        "vscode",
-        "extensions",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
-      "source": "Dev.to",
-      "user": "Tolbxela Bot"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -648,10 +633,10 @@
       "user": "indigodaddy"
     },
     {
-      "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
+      "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
-      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "tags": [
         "javascript",
         "github",
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1819,
+      "stars": 1870,
       "user": "huangserva"
     }
   ],
@@ -736,36 +721,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
       "source": "Dev.to",
       "user": "Greg Konush"
-    },
-    {
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "published_at": "2026-05-03T13:05:28Z",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "tags": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0iq2kh1zlnv4u3kxt95p.png",
-      "source": "Dev.to",
-      "user": "Harshil Agrawal"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -888,10 +843,10 @@
       "user": "velmu"
     },
     {
-      "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
+      "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
-      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "tags": [
         "javascript",
         "github",
@@ -899,38 +854,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1819,
+      "stars": 1870,
       "user": "huangserva"
-    },
-    {
-      "title": "GAwesome-Bot/polymarket-trading-bot-v2 - polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
-      "url": "https://github.com/GAwesome-Bot/polymarket-trading-bot-v2",
-      "published_at": "2026-05-13T08:44:24Z",
-      "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284221738?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "GAwesome-Bot"
-    },
-    {
-      "title": "killervillsy/SessionToJson - GitHub Repository",
-      "url": "https://github.com/killervillsy/SessionToJson",
-      "published_at": "2026-05-09T02:52:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "killervillsy"
     },
     {
       "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
@@ -944,8 +869,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 187,
       "user": "PrimeKeeper58"
+    },
+    {
+      "title": "killervillsy/SessionToJson - GitHub Repository",
+      "url": "https://github.com/killervillsy/SessionToJson",
+      "published_at": "2026-05-09T02:52:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "killervillsy"
+    },
+    {
+      "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "url": "https://github.com/sleepinginsummer/agent-browser-cli",
+      "published_at": "2026-05-09T03:43:48Z",
+      "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "sleepinginsummer"
     },
     {
       "title": "cosmicstack-labs/mercury-agent-skills - A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
@@ -959,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277752932?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "cosmicstack-labs"
     }
   ],
@@ -978,6 +933,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
+      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
+      "published_at": "2026-05-11T17:43:38Z",
+      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "python",
+        "huggingface"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Raihan"
     },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
@@ -1141,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 734,
       "user": "ywnd1144"
     },
     {
@@ -1156,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 556,
       "user": "TencentARC"
     },
     {
@@ -1186,23 +1156,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 480,
       "user": "AvenueSleuth"
     },
     {
-      "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
-      "url": "https://github.com/ChristianJR19/Goblin-Agent",
-      "published_at": "2026-05-09T04:18:30Z",
+      "title": "lillian039/ELF - GitHub Repository",
+      "url": "https://github.com/lillian039/ELF",
+      "published_at": "2026-05-11T14:44:10Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 432,
-      "user": "ChristianJR19"
+      "stars": 431,
+      "user": "lillian039"
     }
   ],
   "DevOps": [
@@ -1264,21 +1234,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
     }
   ],
   "WebDev": [
@@ -1308,6 +1263,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
       "source": "Dev.to",
       "user": "Jane Ori"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -1414,6 +1384,21 @@
       "user": "xbill"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
       "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
       "published_at": "2026-05-06T05:53:26Z",
@@ -1459,51 +1444,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building ADK Agents with Phi Models on Azure Foundry",
-      "url": "https://dev.to/gde/building-adk-agents-with-phi-models-on-azure-foundry-25a2",
-      "published_at": "2026-05-06T14:32:51Z",
-      "description": "This article provides a step by step deployment guide for using Azure foundry models with ADK Agents....",
-      "tags": [
-        "microsoftphi4",
-        "agents",
-        "googleadk",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F453bkqiantkkt0rhtyl2.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How I Built an AI Agent That Investigates Cloud Bill Spikes (Architecture Inside)",
-      "url": "https://dev.to/nash_matrixgard/how-i-built-an-ai-agent-that-investigates-cloud-bill-spikes-architecture-inside-113p",
-      "published_at": "2026-04-22T02:48:26Z",
-      "description": "I built Ghost-hunter, an AI agent that investigates cloud bill spikes the way a senior on-call...",
-      "tags": [
-        "aws",
-        "devops",
-        "ai",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjb9iuir7ghsamqw83do.jpg",
-      "source": "Dev.to",
-      "user": "avinash"
-    },
-    {
-      "title": "Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage",
-      "url": "https://dev.to/railsstudent/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-n30",
-      "published_at": "2026-05-01T03:17:34Z",
-      "description": "Google released the Veo 3.1 Lite model for AI video generation in the Gemini API, Gemini in Vertex...",
-      "tags": [
-        "ai",
-        "angular",
-        "veo",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfbrvtegia8tc91ru1lp.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
       "url": "https://github.com/openclaw/clickclack",
       "published_at": "2026-05-08T03:11:04Z",
@@ -1515,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "openclaw"
     }
   ],
@@ -1723,6 +1663,21 @@
       "user": "Ivan Porta"
     },
     {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
+    },
+    {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
       "published_at": "2026-05-06T20:48:25Z",
@@ -1796,40 +1751,10 @@
       "user": "Shadab Khan"
     },
     {
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "published_at": "2026-05-02T19:30:01Z",
-      "description": "The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.",
-      "tags": [
-        "ai",
-        "agents",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ddakzjuqx24c2ayunsn.jpg",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
-      "title": "TaskDev - a task runner for AI coding agents (MCP)",
-      "url": "https://dev.to/tolbxela/taskdev-a-task-runner-for-ai-coding-agents-mcp-3kg1",
-      "published_at": "2026-05-09T23:13:17Z",
-      "description": "One place for your dev tasks. One place for your logs. And your AI agent sees them too.  Like most...",
-      "tags": [
-        "vscode",
-        "extensions",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8dfqfb164gvdrqmxgvsv.png",
-      "source": "Dev.to",
-      "user": "Tolbxela Bot"
-    },
-    {
-      "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
+      "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
-      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "tags": [
         "javascript",
         "github",
@@ -1837,38 +1762,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1819,
+      "stars": 1870,
       "user": "huangserva"
-    },
-    {
-      "title": "GAwesome-Bot/polymarket-trading-bot-v2 - polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
-      "url": "https://github.com/GAwesome-Bot/polymarket-trading-bot-v2",
-      "published_at": "2026-05-13T08:44:24Z",
-      "description": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284221738?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "GAwesome-Bot"
-    },
-    {
-      "title": "killervillsy/SessionToJson - GitHub Repository",
-      "url": "https://github.com/killervillsy/SessionToJson",
-      "published_at": "2026-05-09T02:52:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "killervillsy"
     },
     {
       "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
@@ -1882,8 +1777,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 187,
       "user": "PrimeKeeper58"
+    },
+    {
+      "title": "killervillsy/SessionToJson - GitHub Repository",
+      "url": "https://github.com/killervillsy/SessionToJson",
+      "published_at": "2026-05-09T02:52:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "killervillsy"
+    },
+    {
+      "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "url": "https://github.com/sleepinginsummer/agent-browser-cli",
+      "published_at": "2026-05-09T03:43:48Z",
+      "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "sleepinginsummer"
     },
     {
       "title": "cosmicstack-labs/mercury-agent-skills - A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
@@ -1897,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277752932?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "cosmicstack-labs"
     },
     {
@@ -1912,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 734,
       "user": "ywnd1144"
     },
     {
@@ -1927,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 556,
       "user": "TencentARC"
     },
     {
@@ -1957,23 +1882,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 480,
       "user": "AvenueSleuth"
     },
     {
-      "title": "ChristianJR19/Goblin-Agent - GitHub Repository",
-      "url": "https://github.com/ChristianJR19/Goblin-Agent",
-      "published_at": "2026-05-09T04:18:30Z",
+      "title": "lillian039/ELF - GitHub Repository",
+      "url": "https://github.com/lillian039/ELF",
+      "published_at": "2026-05-11T14:44:10Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 432,
-      "user": "ChristianJR19"
+      "stars": 431,
+      "user": "lillian039"
     },
     {
       "title": "tidwall/btype - B-tree based collection types for Go",
@@ -1987,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 109,
       "user": "tidwall"
     },
     {
@@ -2002,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 93,
       "user": "ozgurcd"
     },
     {
@@ -2017,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "openclaw"
     },
     {
