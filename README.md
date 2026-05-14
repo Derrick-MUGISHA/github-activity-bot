@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-14 21:00 CAT)
+## 📅 Latest Updates (2026-05-14 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,19 +135,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png" width="200" alt="My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why." />
+    <a href="https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png" width="200" alt="Agent Factory Recap: How Gemma 4 Taught Itself Physics" />
       <br/>
-      <b>My GitHub Graveyard has 27 dead projects. Here is ...</b>
+      <b>Agent Factory Recap: How Gemma 4 Taught Itself Phy...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png" width="200" alt="Agent Factory Recap: How Gemma 4 Taught Itself Physics" />
+    <a href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png" width="200" alt="My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why." />
       <br/>
-      <b>Agent Factory Recap: How Gemma 4 Taught Itself Phy...</b>
+      <b>My GitHub Graveyard has 27 dead projects. Here is ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png" width="200" alt="Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison" />
+    <a href="https://dev.to/mlh/vibe-coding-demystified-169b">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg" width="200" alt="Vibe Coding, Demystified" />
       <br/>
-      <b>Vercel AI SDK Middleware vs Genkit Middleware: a H...</b>
+      <b>Vibe Coding, Demystified</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,11 +197,12 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
 - [Agent Factory Recap: How Gemma 4 Taught Itself Physics](https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6) _[Dev.to]_
+- [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
 - [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) _[Dev.to]_
 - [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7) _[Dev.to]_
+- [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b) _[Dev.to]_
 - [Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg) _[Dev.to]_
 - [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) _[Dev.to]_
 - [GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners](https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj) _[Dev.to]_
 - [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
 - [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b) _[Dev.to]_
-- [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 
-_Last automated update: Thu, 14 May 2026 21:16:16 CAT_
+_Last automated update: Thu, 14 May 2026 22:51:32 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 14 May 2026 21:16:16 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Explain database indexing and when to use it
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Database: What is database normalization and denormalization?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: design, optimization
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Normal forms, redundancy, performance trade-offs
 
 </details>
 
-### 3. JavaScript: Implement a debounce function from scratch
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 14 May 2026 19:16:16 GMT</b><br/>
+  <b>Last automated update: Thu, 14 May 2026 20:51:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
