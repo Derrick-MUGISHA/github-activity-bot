@@ -16,20 +16,6 @@
       "user": "Eric D Johnson"
     },
     {
-      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
-      "published_at": "2026-05-13T00:08:54Z",
-      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
-    {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
       "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
       "published_at": "2026-05-12T04:17:48Z",
@@ -119,18 +105,18 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
+      "published_at": "2026-05-13T00:08:54Z",
+      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
       "tags": [
         "devchallenge",
         "gemmachallenge",
         "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Carlos Barbero"
     },
     {
       "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
@@ -161,6 +147,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
+    },
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Does AI Behave Like a Toxic Ex?",
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1804,
+      "stars": 1819,
       "user": "huangserva"
     }
   ],
@@ -899,38 +899,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1804,
+      "stars": 1819,
       "user": "huangserva"
-    },
-    {
-      "title": "kunchenguid/autopreso - Realtime speech to presentation. Let the whiteboard whiteboard itself.",
-      "url": "https://github.com/kunchenguid/autopreso",
-      "published_at": "2026-05-07T02:04:30Z",
-      "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
-      "source": "GitHub",
-      "stars": 304,
-      "user": "kunchenguid"
-    },
-    {
-      "title": "kerlos/pordee - ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
-      "url": "https://github.com/kerlos/pordee",
-      "published_at": "2026-05-07T15:26:07Z",
-      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "kerlos"
     },
     {
       "title": "GAwesome-Bot/polymarket-trading-bot-v2 - polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
@@ -944,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284221738?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 205,
       "user": "GAwesome-Bot"
     },
     {
@@ -959,8 +929,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "killervillsy"
+    },
+    {
+      "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
+      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
+      "published_at": "2026-05-13T22:45:27Z",
+      "description": "blooket menu || blooket || blooket hacks",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "PrimeKeeper58"
+    },
+    {
+      "title": "cosmicstack-labs/mercury-agent-skills - A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+      "published_at": "2026-05-09T08:16:53Z",
+      "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277752932?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "cosmicstack-labs"
     }
   ],
   "Python": [
@@ -1141,8 +1141,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 720,
       "user": "ywnd1144"
+    },
+    {
+      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "url": "https://github.com/TencentARC/Pixal3D",
+      "published_at": "2026-05-10T15:35:28Z",
+      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
+      "source": "GitHub",
+      "stars": 535,
+      "user": "TencentARC"
     },
     {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
@@ -1160,21 +1175,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "url": "https://github.com/TencentARC/Pixal3D",
-      "published_at": "2026-05-10T15:35:28Z",
-      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
-      "source": "GitHub",
-      "stars": 512,
-      "user": "TencentARC"
-    },
-    {
       "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
       "url": "https://github.com/AvenueSleuth/delta-exec",
       "published_at": "2026-05-08T20:10:42Z",
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 486,
       "user": "AvenueSleuth"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 432,
       "user": "ChristianJR19"
     }
   ],
@@ -1837,38 +1837,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1804,
+      "stars": 1819,
       "user": "huangserva"
-    },
-    {
-      "title": "kunchenguid/autopreso - Realtime speech to presentation. Let the whiteboard whiteboard itself.",
-      "url": "https://github.com/kunchenguid/autopreso",
-      "published_at": "2026-05-07T02:04:30Z",
-      "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
-      "source": "GitHub",
-      "stars": 304,
-      "user": "kunchenguid"
-    },
-    {
-      "title": "kerlos/pordee - ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
-      "url": "https://github.com/kerlos/pordee",
-      "published_at": "2026-05-07T15:26:07Z",
-      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5328474?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "kerlos"
     },
     {
       "title": "GAwesome-Bot/polymarket-trading-bot-v2 - polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
@@ -1882,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284221738?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 205,
       "user": "GAwesome-Bot"
     },
     {
@@ -1897,8 +1867,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "killervillsy"
+    },
+    {
+      "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
+      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
+      "published_at": "2026-05-13T22:45:27Z",
+      "description": "blooket menu || blooket || blooket hacks",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "PrimeKeeper58"
+    },
+    {
+      "title": "cosmicstack-labs/mercury-agent-skills - A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+      "published_at": "2026-05-09T08:16:53Z",
+      "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277752932?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "cosmicstack-labs"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1912,8 +1912,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 720,
       "user": "ywnd1144"
+    },
+    {
+      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "url": "https://github.com/TencentARC/Pixal3D",
+      "published_at": "2026-05-10T15:35:28Z",
+      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
+      "source": "GitHub",
+      "stars": 535,
+      "user": "TencentARC"
     },
     {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
@@ -1931,21 +1946,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "url": "https://github.com/TencentARC/Pixal3D",
-      "published_at": "2026-05-10T15:35:28Z",
-      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
-      "source": "GitHub",
-      "stars": 512,
-      "user": "TencentARC"
-    },
-    {
       "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
       "url": "https://github.com/AvenueSleuth/delta-exec",
       "published_at": "2026-05-08T20:10:42Z",
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 486,
       "user": "AvenueSleuth"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9389563?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 432,
       "user": "ChristianJR19"
     },
     {
@@ -2047,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "BigDaddy3334"
     }
   ]
