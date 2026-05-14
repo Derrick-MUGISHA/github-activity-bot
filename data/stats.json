@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
+    "AI": 46,
     "JavaScript": 19,
     "Python": 19,
     "DevOps": 4,
@@ -14,7 +14,7 @@
     "Mobile": 1,
     "Cloud": 7,
     "Database": 4,
-    "Security": 3,
+    "Security": 4,
     "Tools": 26
   },
   "by_language": {
@@ -74,7 +74,7 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 19,
+    "ai": 20,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -84,16 +84,16 @@
     "discuss": 9,
     "javascript": 7,
     "devchallenge": 7,
-    "webdev": 6,
-    "productivity": 6,
     "go": 6,
+    "webdev": 5,
+    "productivity": 5,
     "gemmachallenge": 5,
     "gemini": 4,
     "llm": 4,
     "opensource": 4,
     "watercooler": 4,
-    "career": 3,
-    "softwareengineering": 3
+    "programming": 3,
+    "gemma": 3
   },
   "trending_topics": [],
   "language_percentages": {
