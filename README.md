@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
-**Cloud**: 🟦🟦🟦🟦 9 (8.6%)
+**WebDev**: 🟦🟦🟦 7 (6.7%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦🟦 4 (3.8%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.5 (29.5%)
-JavaScript      █████████████████████████ 25.0 (25.0%)
-Java            █████████████████████ 20.5 (20.5%)
-Python          █████████████████████ 20.5 (20.5%)
-Rust            ██ 2.3 (2.3%)
-PHP             █ 1.1 (1.1%)
-Swift           █ 1.1 (1.1%)
+Go              ██████████████████████████████ 29.4 (29.4%)
+JavaScript      ████████████████████████ 23.5 (23.5%)
+Python          ███████████████████████ 22.4 (22.4%)
+Java            ████████████████████ 20.0 (20.0%)
+Rust            ██ 2.4 (2.4%)
+PHP             █ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 26
-    "JavaScript" : 22
-    "Java" : 18
-    "Python" : 18
+    "Go" : 25
+    "JavaScript" : 20
+    "Python" : 19
+    "Java" : 17
     "Rust" : 2
     "PHP" : 1
     "Swift" : 1
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![python](https://img.shields.io/badge/python-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-14 4:00 CAT)
+## 📅 Latest Updates (2026-05-14 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,19 +142,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg" width="200" alt="Lambda Just Got a File System. I Put AI Agents on It." />
+    <a href="https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png" width="200" alt="onclick is great, actually" />
       <br/>
-      <b>Lambda Just Got a File System. I Put AI Agents on ...</b>
+      <b>onclick is great, actually</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png" width="200" alt="onclick is great, actually" />
+    <a href="https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg" width="200" alt="Lambda Just Got a File System. I Put AI Agents on It." />
       <br/>
-      <b>onclick is great, actually</b>
+      <b>Lambda Just Got a File System. I Put AI Agents on ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -196,8 +196,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
-- [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) _[Dev.to]_
 - [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) _[Dev.to]_
+- [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) _[Dev.to]_
 - [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd) _[Dev.to]_
 - [Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation](https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72) _[Dev.to]_
 - [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
@@ -211,12 +211,12 @@ npm run test
 - [Playwright is Powerful, But Managing It at Scale? That's Another Story](https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37) _[Dev.to]_
 - [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm) _[Dev.to]_
 - [MCP Configuration for Google Workspace with Gemini CLI](https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2) _[Dev.to]_
-- [Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI](https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop) _[Dev.to]_
 - [Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn) _[Dev.to]_
+- [Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI](https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop) _[Dev.to]_
 - [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0) _[Dev.to]_
 - [Computers and upgrades](https://dev.to/unsungnovelty/computers-and-upgrades-3n7f) _[Dev.to]_
 
-_Last automated update: Thu, 14 May 2026 04:47:18 CAT_
+_Last automated update: Thu, 14 May 2026 08:22:05 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Thu, 14 May 2026 04:47:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 14 May 2026 02:47:18 GMT</b><br/>
+  <b>Last automated update: Thu, 14 May 2026 06:22:05 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
