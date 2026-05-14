@@ -489,6 +489,21 @@
       "user": "Harsh "
     },
     {
+      "title": "Attractor Engineering: Seeing Software Development as Field Dynamics",
+      "url": "https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5",
+      "published_at": "2026-05-09T11:25:16Z",
+      "description": "A practical and formal view of software evolution as field-shaped dynamics in the age of AI-assisted development.",
+      "tags": [
+        "softwareengineering",
+        "architecture",
+        "ai",
+        "computerscience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvw8bn8j1akmvenobfbb.png",
+      "source": "Dev.to",
+      "user": "Hiroyuki Nakahata"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1870,
+      "stars": 1922,
       "user": "huangserva"
     }
   ],
@@ -691,21 +706,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
-    },
-    {
-      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
-      "published_at": "2026-05-09T10:28:33Z",
-      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
-      "tags": [
-        "react",
-        "vue",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
-      "source": "Dev.to",
-      "user": "Abdullah Al Fahad"
     },
     {
       "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1870,
+      "stars": 1922,
       "user": "huangserva"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 180,
       "user": "killervillsy"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 125,
       "user": "sleepinginsummer"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 739,
       "user": "ywnd1144"
     },
     {
@@ -1126,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 571,
       "user": "TencentARC"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "patchfighterway90"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 458,
       "user": "lillian039"
     }
   ],
@@ -1291,21 +1291,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "I shipped a video player to npm — twice. What I learned about scoped CSS, \"use client\", and Nuxt modules.",
-      "url": "https://dev.to/imfahad/i-shipped-a-video-player-to-npm-twice-what-i-learned-about-scoped-css-use-client-and-nuxt-2dfl",
-      "published_at": "2026-05-09T10:28:33Z",
-      "description": "A small, HLS-capable video player for React and Vue, with zero global CSS side-effects. The build-in-public story behind @glitchlab/react-video-player and @glitchlab/vue-video-player, plus a live Vercel demo.",
-      "tags": [
-        "react",
-        "vue",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fss9wecu9ggwh038gqm2t.png",
-      "source": "Dev.to",
-      "user": "Abdullah Al Fahad"
     },
     {
       "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
@@ -1762,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1870,
+      "stars": 1922,
       "user": "huangserva"
     },
     {
@@ -1792,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 180,
       "user": "killervillsy"
     },
     {
@@ -1807,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 125,
       "user": "sleepinginsummer"
     },
     {
@@ -1837,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 739,
       "user": "ywnd1144"
     },
     {
@@ -1852,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 571,
       "user": "TencentARC"
     },
     {
@@ -1867,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "patchfighterway90"
     },
     {
@@ -1897,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 458,
       "user": "lillian039"
     },
     {
@@ -1912,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "tidwall"
     },
     {
@@ -1927,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "ozgurcd"
     },
     {
