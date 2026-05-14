@@ -1,6 +1,50 @@
 {
   "AI": [
     {
+      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
+      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6",
+      "published_at": "2026-05-14T14:10:49Z",
+      "description": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
+      "tags": [
+        "ai",
+        "gemma",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
+      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
+      "published_at": "2026-05-14T06:23:32Z",
+      "description": "Running modern AI models locally on older hardware sounds almost impossible. But with smaller models...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
+      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
+      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
+      "published_at": "2026-05-14T11:05:33Z",
+      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "vercel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
       "title": "Lambda Just Got a File System. I Put AI Agents on It.",
       "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
       "published_at": "2026-05-13T15:50:28Z",
@@ -16,6 +60,35 @@
       "user": "Eric D Johnson"
     },
     {
+      "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
+      "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
+      "published_at": "2026-05-13T21:25:01Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
+      "source": "Dev.to",
+      "user": "Vinicius F. Caridá"
+    },
+    {
+      "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
+      "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03",
+      "published_at": "2026-05-14T11:12:17Z",
+      "description": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
+      "tags": [
+        "ai",
+        "genkit",
+        "vertexai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
       "url": "https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72",
       "published_at": "2026-05-12T04:17:48Z",
@@ -29,6 +102,65 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
+      "published_at": "2026-05-13T19:13:14Z",
+      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "programming",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
+      "source": "Dev.to",
+      "user": "Vinicius Brasil"
+    },
+    {
+      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
+      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
+      "published_at": "2026-05-13T22:34:18Z",
+      "description": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
+      "tags": [
+        "cloud",
+        "eventsinyourcity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide",
+      "url": "https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj",
+      "published_at": "2026-05-13T17:44:23Z",
+      "description": "Lately I've been getting the same question over and over: how do you build an AI Agent inside Jira,...",
+      "tags": [
+        "ai",
+        "agents",
+        "beginners",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i0k5mfo3nfm6osfgkfg.png",
+      "source": "Dev.to",
+      "user": "Xianpeng Shen"
+    },
+    {
+      "title": "Gemma4 Speculative Decoding with n-gram",
+      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b",
+      "published_at": "2026-05-13T19:29:03Z",
+      "description": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -223,6 +355,21 @@
       "user": "Razu Kc"
     },
     {
+      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
+      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
+      "published_at": "2026-05-12T11:53:01Z",
+      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
+      "tags": [
+        "tech",
+        "opensource",
+        "webdev",
+        "ethics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
+      "source": "Dev.to",
+      "user": "Carlos Campos"
+    },
+    {
       "title": "Is Brain Float (bf16) Worth it?",
       "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
       "published_at": "2026-05-12T00:12:08Z",
@@ -369,124 +516,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
       "source": "Dev.to",
       "user": "Michael Larson"
-    },
-    {
-      "title": "There will still be art in software",
-      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
-      "published_at": "2026-05-05T21:47:47Z",
-      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
-      "tags": [
-        "ai",
-        "uidesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
-      "source": "Dev.to",
-      "user": "Josiah Nunemaker"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
-      "title": "Boring code is an organizational tell",
-      "url": "https://dev.to/simme/boring-code-is-an-organizational-tell-4gca",
-      "published_at": "2026-04-19T18:02:48Z",
-      "description": "If boring code is good, why is it so rare? Clever code is not the result of clever engineers. It's...",
-      "tags": [
-        "ai",
-        "leadership",
-        "culture",
-        "management"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgt0b1i91jq9nt3730zdk.png",
-      "source": "Dev.to",
-      "user": "Simme"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
-      "published_at": "2026-05-03T02:02:47Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "googleadk",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Local-first video transcription on Apple Silicon with mlx-whisper",
-      "url": "https://dev.to/a_mature_dev/local-first-video-transcription-on-apple-silicon-with-mlx-whisper-440l",
-      "published_at": "2026-05-07T05:05:54Z",
-      "description": "I do a lot of learning from online videos. Many of them are not in English. With AI becoming part of...",
-      "tags": [
-        "python",
-        "cli",
-        "opensource",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
-      "source": "Dev.to",
-      "user": "Dipesh Sukhani"
-    },
-    {
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "url": "https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece",
-      "published_at": "2026-05-05T10:52:28Z",
-      "description": "Three years ago, if you asked me \"what do you do?\" I had an answer I'm a software developer. I write...",
-      "tags": [
-        "ai",
-        "career",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmfri45xwvubepwfnfc18.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
-      "title": "Attractor Engineering: Seeing Software Development as Field Dynamics",
-      "url": "https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5",
-      "published_at": "2026-05-09T11:25:16Z",
-      "description": "A practical and formal view of software evolution as field-shaped dynamics in the age of AI-assisted development.",
-      "tags": [
-        "softwareengineering",
-        "architecture",
-        "ai",
-        "computerscience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffvw8bn8j1akmvenobfbb.png",
-      "source": "Dev.to",
-      "user": "Hiroyuki Nakahata"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -644,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1994,
       "user": "huangserva"
     }
   ],
@@ -665,6 +694,36 @@
       "user": "Aryan Choudhary"
     },
     {
+      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
+      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
+      "published_at": "2026-05-14T11:05:33Z",
+      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "vercel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
+      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
+      "published_at": "2026-05-14T10:02:32Z",
+      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
+      "tags": [
+        "sideprojects",
+        "webdev",
+        "ux",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
+      "source": "Dev.to",
+      "user": "Rahul Devaskar"
+    },
+    {
       "title": "onclick is great, actually",
       "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
       "published_at": "2026-05-13T19:10:34Z",
@@ -676,6 +735,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
       "source": "Dev.to",
       "user": "𒎏Wii 🏳️‍⚧️"
+    },
+    {
+      "title": "Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser",
+      "url": "https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l",
+      "published_at": "2026-05-13T18:54:57Z",
+      "description": "No installs. No accounts. No cost. A full-featured vector design editor built with Leafer UI and React.",
+      "tags": [
+        "design",
+        "opensource",
+        "webdev",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq97yl8txa4s1kob164u5.png",
+      "source": "Dev.to",
+      "user": "fayismahmood"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -839,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1994,
       "user": "huangserva"
     },
     {
@@ -854,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 275,
       "user": "PrimeKeeper58"
     },
     {
@@ -869,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "killervillsy"
     },
     {
@@ -884,23 +958,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 140,
       "user": "sleepinginsummer"
     },
     {
-      "title": "cosmicstack-labs/mercury-agent-skills - A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-      "published_at": "2026-05-09T08:16:53Z",
-      "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "url": "https://github.com/Siigari/claude-heartbeat",
+      "published_at": "2026-05-13T19:08:36Z",
+      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277752932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "cosmicstack-labs"
+      "stars": 114,
+      "user": "Siigari"
     }
   ],
   "Python": [
@@ -948,21 +1022,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
       "source": "Dev.to",
       "user": "Brus-Nockk"
-    },
-    {
-      "title": "Local-first video transcription on Apple Silicon with mlx-whisper",
-      "url": "https://dev.to/a_mature_dev/local-first-video-transcription-on-apple-silicon-with-mlx-whisper-440l",
-      "published_at": "2026-05-07T05:05:54Z",
-      "description": "I do a lot of learning from online videos. Many of them are not in English. With AI becoming part of...",
-      "tags": [
-        "python",
-        "cli",
-        "opensource",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvzb66jnq8dz9rct0ssq8.png",
-      "source": "Dev.to",
-      "user": "Dipesh Sukhani"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1096,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 758,
       "user": "ywnd1144"
     },
     {
@@ -1111,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 613,
       "user": "TencentARC"
     },
     {
@@ -1130,21 +1189,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
-      "source": "GitHub",
-      "stars": 483,
-      "user": "AvenueSleuth"
-    },
-    {
       "title": "lillian039/ELF - GitHub Repository",
       "url": "https://github.com/lillian039/ELF",
       "published_at": "2026-05-11T14:44:10Z",
@@ -1156,11 +1200,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 493,
       "user": "lillian039"
+    },
+    {
+      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
+      "url": "https://github.com/AvenueSleuth/delta-exec",
+      "published_at": "2026-05-08T20:10:42Z",
+      "description": "Delta Exec scripting utility",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "source": "GitHub",
+      "stars": 489,
+      "user": "AvenueSleuth"
     }
   ],
   "DevOps": [
+    {
+      "title": "Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide",
+      "url": "https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj",
+      "published_at": "2026-05-13T17:44:23Z",
+      "description": "Lately I've been getting the same question over and over: how do you build an AI Agent inside Jira,...",
+      "tags": [
+        "ai",
+        "agents",
+        "beginners",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i0k5mfo3nfm6osfgkfg.png",
+      "source": "Dev.to",
+      "user": "Xianpeng Shen"
+    },
     {
       "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
       "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37",
@@ -1307,6 +1381,21 @@
   ],
   "Mobile": [
     {
+      "title": "Building a custom launcher for ChromeOS",
+      "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7",
+      "published_at": "2026-05-14T11:11:33Z",
+      "description": "In this article, I will share some of my experience of enhancing Be nice to be a launcher on...",
+      "tags": [
+        "android",
+        "chromeos",
+        "ui",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
+    },
+    {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
       "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
       "published_at": "2026-05-06T20:48:25Z",
@@ -1339,6 +1428,20 @@
       "user": "Eric D Johnson"
     },
     {
+      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
+      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
+      "published_at": "2026-05-13T22:34:18Z",
+      "description": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
+      "tags": [
+        "cloud",
+        "eventsinyourcity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Deploying a Rust MCP Server to Amazon EKS",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
       "published_at": "2026-05-13T13:02:44Z",
@@ -1365,51 +1468,6 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
-      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
-      "published_at": "2026-05-06T05:53:26Z",
-      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
-      "tags": [
-        "linux",
-        "automation",
-        "vpn",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
-      "source": "Dev.to",
-      "user": "Vicente G. Reyes"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Functions, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-functions-and-gemini-cli-5di0",
-      "published_at": "2026-05-03T02:02:47Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "multiagentsystems",
-        "gemini",
-        "googleadk",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9f1uwkdmkv01lxzymzd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure App Service, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-app-service-and-gemini-cli-g8",
-      "published_at": "2026-05-03T00:05:41Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "gemini",
-        "a2aprotocol",
-        "azureappservice",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9ff7mxg6aalai8faz8b.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1516,21 +1574,6 @@
       "user": "Razu Kc"
     },
     {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1544,6 +1587,81 @@
     }
   ],
   "Tools": [
+    {
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
+      "published_at": "2026-05-13T18:32:33Z",
+      "description": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
+      "tags": [
+        "webdev",
+        "beginners",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
+      "source": "Dev.to",
+      "user": "S M Tahosin"
+    },
+    {
+      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
+      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
+      "published_at": "2026-05-14T10:02:32Z",
+      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
+      "tags": [
+        "sideprojects",
+        "webdev",
+        "ux",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
+      "source": "Dev.to",
+      "user": "Rahul Devaskar"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
+      "published_at": "2026-05-13T19:13:14Z",
+      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "programming",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
+      "source": "Dev.to",
+      "user": "Vinicius Brasil"
+    },
+    {
+      "title": "Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser",
+      "url": "https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l",
+      "published_at": "2026-05-13T18:54:57Z",
+      "description": "No installs. No accounts. No cost. A full-featured vector design editor built with Leafer UI and React.",
+      "tags": [
+        "design",
+        "opensource",
+        "webdev",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq97yl8txa4s1kob164u5.png",
+      "source": "Dev.to",
+      "user": "fayismahmood"
+    },
+    {
+      "title": "Gemma4 Speculative Decoding with n-gram",
+      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b",
+      "published_at": "2026-05-13T19:29:03Z",
+      "description": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
@@ -1618,6 +1736,21 @@
       "user": "Razu Kc"
     },
     {
+      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
+      "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5",
+      "published_at": "2026-05-12T07:30:00Z",
+      "description": "It was a Thursday afternoon when the Teams message came in.  A bug in production. A date formatting...",
+      "tags": [
+        "webdev",
+        "productivity",
+        "career",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1pq3iyqlw9w9fydcl7c.png",
+      "source": "Dev.to",
+      "user": "Gavin Cettolo"
+    },
+    {
       "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
       "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
       "published_at": "2026-04-27T07:34:34Z",
@@ -1663,49 +1796,6 @@
       "user": "Michael Larson"
     },
     {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
-      "published_at": "2026-05-02T08:22:42Z",
-      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
-      "tags": [
-        "programming",
-        "webdev",
-        "productivity",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
-      "source": "Dev.to",
-      "user": "Adam - The Developer"
-    },
-    {
-      "title": "There will still be art in software",
-      "url": "https://dev.to/josnun/there-will-still-be-art-in-software-388g",
-      "published_at": "2026-05-05T21:47:47Z",
-      "description": "Originally published on josnun.com    Larger groups gaining access to tools and capabilities that...",
-      "tags": [
-        "ai",
-        "uidesign"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ipa48htcwcp312p5si.png",
-      "source": "Dev.to",
-      "user": "Josiah Nunemaker"
-    },
-    {
-      "title": "I built a shell script that sets up your entire AI coding agent workspace in 2 minutes",
-      "url": "https://dev.to/shad_tech/i-built-a-shell-script-that-sets-up-your-entire-ai-coding-agent-workspace-in-2-minutes-13ep",
-      "published_at": "2026-04-25T02:52:00Z",
-      "description": "Stop repeating yourself to Claude Code and Codex. One script generates CLAUDE.md, AGENTS.md, security rules, testing strategy, and module specs — customized for your stack.",
-      "tags": [
-        "ai",
-        "productivity",
-        "devtools",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fshadkhan%2FAI-agents-template-builder%2Fe859e0f6a104854c78f25a2c2f6705f336377329%2Fagent_template_system.svg",
-      "source": "Dev.to",
-      "user": "Shadab Khan"
-    },
-    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1717,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1994,
       "user": "huangserva"
     },
     {
@@ -1732,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 275,
       "user": "PrimeKeeper58"
     },
     {
@@ -1747,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "killervillsy"
     },
     {
@@ -1762,23 +1852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 140,
       "user": "sleepinginsummer"
     },
     {
-      "title": "cosmicstack-labs/mercury-agent-skills - A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
-      "published_at": "2026-05-09T08:16:53Z",
-      "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "url": "https://github.com/Siigari/claude-heartbeat",
+      "published_at": "2026-05-13T19:08:36Z",
+      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277752932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "cosmicstack-labs"
+      "stars": 114,
+      "user": "Siigari"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1792,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 758,
       "user": "ywnd1144"
     },
     {
@@ -1807,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 613,
       "user": "TencentARC"
     },
     {
@@ -1826,21 +1916,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
-      "source": "GitHub",
-      "stars": 483,
-      "user": "AvenueSleuth"
-    },
-    {
       "title": "lillian039/ELF - GitHub Repository",
       "url": "https://github.com/lillian039/ELF",
       "published_at": "2026-05-11T14:44:10Z",
@@ -1852,8 +1927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 493,
       "user": "lillian039"
+    },
+    {
+      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
+      "url": "https://github.com/AvenueSleuth/delta-exec",
+      "published_at": "2026-05-08T20:10:42Z",
+      "description": "Delta Exec scripting utility",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "source": "GitHub",
+      "stars": 489,
+      "user": "AvenueSleuth"
     },
     {
       "title": "tidwall/btype - B-tree based collection types for Go",
@@ -1882,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "ozgurcd"
     },
     {
