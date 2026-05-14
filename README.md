@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-14 19:00 CAT)
+## 📅 Latest Updates (2026-05-14 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png" width="200" alt="Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)" />
+    <a href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png" width="200" alt="Two DEV Users. Two Countries. One Weird Little Avatar Project." />
       <br/>
-      <b>Old PC vs New AI: Can a 2015 Desktop Actually Run ...</b>
+      <b>Two DEV Users. Two Countries. One Weird Little Ava...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,10 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png" width="200" alt="Two DEV Users. Two Countries. One Weird Little Avatar Project." />
+    <a href="https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png" width="200" alt="Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)" />
       <br/>
-      <b>Two DEV Users. Two Countries. One Weird Little Ava...</b>
+      <b>Old PC vs New AI: Can a 2015 Desktop Actually Run ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,8 +199,8 @@ npm run test
 
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
 - [Agent Factory Recap: How Gemma 4 Taught Itself Physics](https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6) _[Dev.to]_
-- [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) _[Dev.to]_
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
+- [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) _[Dev.to]_
 - [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7) _[Dev.to]_
 - [Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg) _[Dev.to]_
 - [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 
-_Last automated update: Thu, 14 May 2026 19:25:42 CAT_
+_Last automated update: Thu, 14 May 2026 21:16:16 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 14 May 2026 19:25:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+B-tree, trade-offs, query performance
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 14 May 2026 17:25:42 GMT</b><br/>
+  <b>Last automated update: Thu, 14 May 2026 19:16:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

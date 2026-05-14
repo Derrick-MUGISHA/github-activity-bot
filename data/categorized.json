@@ -207,21 +207,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
-      "published_at": "2026-05-12T17:08:46Z",
-      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
-      "tags": [
-        "python",
-        "ai",
-        "videogen",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
       "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
       "published_at": "2026-05-13T00:08:54Z",
@@ -428,6 +413,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
+      "published_at": "2026-05-12T17:08:46Z",
+      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
+      "tags": [
+        "python",
+        "ai",
+        "videogen",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2003,
       "user": "huangserva"
     }
   ],
@@ -913,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2003,
       "user": "huangserva"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 314,
       "user": "PrimeKeeper58"
     },
     {
@@ -958,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "sleepinginsummer"
     },
     {
@@ -973,26 +973,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 122,
       "user": "Siigari"
     }
   ],
   "Python": [
-    {
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
-      "published_at": "2026-05-12T17:08:46Z",
-      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
-      "tags": [
-        "python",
-        "ai",
-        "videogen",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
     {
       "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
       "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
@@ -1007,6 +992,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Raihan"
+    },
+    {
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
+      "published_at": "2026-05-12T17:08:46Z",
+      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
+      "tags": [
+        "python",
+        "ai",
+        "videogen",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
@@ -1155,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 781,
       "user": "ywnd1144"
     },
     {
@@ -1170,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "TencentARC"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "lillian039"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 498,
       "user": "AvenueSleuth"
     }
   ],
@@ -1807,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2003,
       "user": "huangserva"
     },
     {
@@ -1822,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 314,
       "user": "PrimeKeeper58"
     },
     {
@@ -1852,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "sleepinginsummer"
     },
     {
@@ -1867,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 122,
       "user": "Siigari"
     },
     {
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 781,
       "user": "ywnd1144"
     },
     {
@@ -1897,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "TencentARC"
     },
     {
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "lillian039"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 498,
       "user": "AvenueSleuth"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "ozgurcd"
     },
     {
