@@ -6,11 +6,11 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 46,
-    "JavaScript": 20,
+    "AI": 47,
+    "JavaScript": 19,
     "Python": 19,
     "DevOps": 4,
-    "WebDev": 7,
+    "WebDev": 6,
     "Mobile": 1,
     "Cloud": 7,
     "Database": 4,
@@ -18,7 +18,7 @@
     "Tools": 27
   },
   "by_language": {
-    "JavaScript": 20,
+    "JavaScript": 19,
     "Go": 25,
     "Java": 17,
     "Rust": 2,
@@ -38,12 +38,12 @@
     "2026-05-04": 2,
     "2026-04-27": 3,
     "2026-04-26": 1,
-    "2026-05-09": 5,
     "2026-04-30": 2,
     "2026-05-03": 3,
     "2026-05-02": 1,
     "2026-04-25": 1,
     "2026-04-19": 1,
+    "2026-05-09": 5,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -74,7 +74,7 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 19,
+    "ai": 20,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -82,26 +82,26 @@
     "Python": 10,
     "python": 9,
     "discuss": 9,
-    "webdev": 8,
+    "webdev": 7,
     "javascript": 7,
     "devchallenge": 7,
-    "opensource": 6,
     "productivity": 6,
     "go": 6,
+    "opensource": 5,
     "gemmachallenge": 5,
     "gemini": 4,
     "llm": 4,
     "watercooler": 4,
     "career": 3,
-    "programming": 3
+    "softwareengineering": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "23.5",
-    "Go": "29.4",
-    "Java": "20.0",
+    "JavaScript": "22.6",
+    "Go": "29.8",
+    "Java": "20.2",
     "Rust": "2.4",
-    "Python": "22.4",
+    "Python": "22.6",
     "PHP": "1.2",
     "Swift": "1.2"
   }
