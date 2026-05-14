@@ -31,21 +31,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Compile-time vs runtime: where MCP security actually lives",
-      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
-      "published_at": "2026-05-12T10:46:36Z",
-      "description": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean one thing. It means at least four things, sitting at different points in the lifecycle of a tool call, solving different problems. Most teams I've talked to need two or three of them. Almost none of them realize that until they've shipped the wrong one first.",
-      "tags": [
-        "mcp",
-        "security",
-        "sandbox",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
-      "source": "Dev.to",
-      "user": "Razu Kc"
-    },
-    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
       "published_at": "2026-05-13T06:30:47Z",
@@ -59,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
-    },
-    {
-      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
-      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
-      "published_at": "2026-05-12T11:53:01Z",
-      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
-      "tags": [
-        "tech",
-        "opensource",
-        "webdev",
-        "ethics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
-      "source": "Dev.to",
-      "user": "Carlos Campos"
     },
     {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
@@ -659,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1922,
+      "stars": 1950,
       "user": "huangserva"
     }
   ],
@@ -854,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1922,
+      "stars": 1950,
       "user": "huangserva"
     },
     {
@@ -869,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "PrimeKeeper58"
     },
     {
@@ -899,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "sleepinginsummer"
     },
     {
@@ -1111,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 744,
       "user": "ywnd1144"
     },
     {
@@ -1126,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 591,
       "user": "TencentARC"
     },
     {
@@ -1141,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 535,
       "user": "patchfighterway90"
     },
     {
@@ -1156,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "AvenueSleuth"
     },
     {
@@ -1171,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 474,
       "user": "lillian039"
     }
   ],
@@ -1440,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "openclaw"
     }
   ],
@@ -1501,21 +1471,6 @@
   ],
   "Security": [
     {
-      "title": "Compile-time vs runtime: where MCP security actually lives",
-      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
-      "published_at": "2026-05-12T10:46:36Z",
-      "description": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean one thing. It means at least four things, sitting at different points in the lifecycle of a tool call, solving different problems. Most teams I've talked to need two or three of them. Almost none of them realize that until they've shipped the wrong one first.",
-      "tags": [
-        "mcp",
-        "security",
-        "sandbox",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
-      "source": "Dev.to",
-      "user": "Razu Kc"
-    },
-    {
       "title": "MCP Configuration for Google Workspace with Gemini CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2",
       "published_at": "2026-05-11T01:14:46Z",
@@ -1559,21 +1514,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Compile-time vs runtime: where MCP security actually lives",
-      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
-      "published_at": "2026-05-12T10:46:36Z",
-      "description": "If you run a Model Context Protocol (MCP) server in production, you've probably noticed that \"MCP security\" doesn't mean one thing. It means at least four things, sitting at different points in the lifecycle of a tool call, solving different problems. Most teams I've talked to need two or three of them. Almost none of them realize that until they've shipped the wrong one first.",
-      "tags": [
-        "mcp",
-        "security",
-        "sandbox",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqynkqn09l2h3opnfpgjn.png",
-      "source": "Dev.to",
-      "user": "Razu Kc"
-    },
     {
       "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
       "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5",
@@ -1747,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1922,
+      "stars": 1950,
       "user": "huangserva"
     },
     {
@@ -1762,7 +1702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "PrimeKeeper58"
     },
     {
@@ -1792,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "sleepinginsummer"
     },
     {
@@ -1822,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 744,
       "user": "ywnd1144"
     },
     {
@@ -1837,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 591,
       "user": "TencentARC"
     },
     {
@@ -1852,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 535,
       "user": "patchfighterway90"
     },
     {
@@ -1867,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "AvenueSleuth"
     },
     {
@@ -1882,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 474,
       "user": "lillian039"
     },
     {
@@ -1897,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "tidwall"
     },
     {
@@ -1927,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "openclaw"
     },
     {
@@ -1957,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 52,
       "user": "BigDaddy3334"
     }
   ]
