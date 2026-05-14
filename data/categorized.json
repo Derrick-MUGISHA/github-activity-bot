@@ -310,21 +310,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "My fully offline AI-assisted Linux development machine",
       "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
       "published_at": "2026-05-11T20:47:59Z",
@@ -338,6 +323,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
       "source": "Dev.to",
       "user": "Deepu K Sasidharan"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Compile-time vs runtime: where MCP security actually lives",
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2002,
       "user": "huangserva"
     }
   ],
@@ -913,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2002,
       "user": "huangserva"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 298,
       "user": "PrimeKeeper58"
     },
     {
@@ -958,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 147,
       "user": "sleepinginsummer"
     },
     {
@@ -973,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 119,
       "user": "Siigari"
     }
   ],
@@ -1155,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 770,
       "user": "ywnd1144"
     },
     {
@@ -1170,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 617,
       "user": "TencentARC"
     },
     {
@@ -1200,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 500,
       "user": "lillian039"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 496,
       "user": "AvenueSleuth"
     }
   ],
@@ -1483,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "openclaw"
     }
   ],
@@ -1807,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2002,
       "user": "huangserva"
     },
     {
@@ -1822,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 298,
       "user": "PrimeKeeper58"
     },
     {
@@ -1852,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 147,
       "user": "sleepinginsummer"
     },
     {
@@ -1867,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 119,
       "user": "Siigari"
     },
     {
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 770,
       "user": "ywnd1144"
     },
     {
@@ -1897,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 617,
       "user": "TencentARC"
     },
     {
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 500,
       "user": "lillian039"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 496,
       "user": "AvenueSleuth"
     },
     {
@@ -1972,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "ozgurcd"
     },
     {
@@ -1987,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "openclaw"
     },
     {
@@ -2017,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 54,
       "user": "BigDaddy3334"
     }
   ]
