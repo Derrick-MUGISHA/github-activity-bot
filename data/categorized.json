@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
-      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6",
-      "published_at": "2026-05-14T14:10:49Z",
-      "description": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
-      "tags": [
-        "ai",
-        "gemma",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
       "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
       "published_at": "2026-05-14T06:23:32Z",
@@ -101,6 +87,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
       "source": "Dev.to",
       "user": "Vinicius F. Caridá"
+    },
+    {
+      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
+      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6",
+      "published_at": "2026-05-14T14:10:49Z",
+      "description": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
+      "tags": [
+        "ai",
+        "gemma",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
@@ -625,16 +625,16 @@
       "user": "ranebo"
     },
     {
-      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
-      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
-      "published_at": "2018-05-08T17:51:44Z",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "published_at": "2026-05-10T17:19:28Z",
       "description": "HackerNews Discussion",
       "tags": [
         "AI"
       ],
       "cover_image": null,
       "source": "HackerNews",
-      "user": "ivank"
+      "user": "cylo"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2004,
+      "stars": 2006,
       "user": "huangserva"
     }
   ],
@@ -927,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2004,
+      "stars": 2006,
       "user": "huangserva"
     },
     {
@@ -942,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "PrimeKeeper58"
     },
     {
@@ -972,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "sleepinginsummer"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "Siigari"
     }
   ],
@@ -1169,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "ywnd1144"
     },
     {
@@ -1184,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "TencentARC"
     },
     {
@@ -1214,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "lillian039"
     },
     {
@@ -1806,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2004,
+      "stars": 2006,
       "user": "huangserva"
     },
     {
@@ -1821,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "PrimeKeeper58"
     },
     {
@@ -1851,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "sleepinginsummer"
     },
     {
@@ -1866,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "Siigari"
     },
     {
@@ -1881,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "ywnd1144"
     },
     {
@@ -1896,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 630,
       "user": "TencentARC"
     },
     {
@@ -1926,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "lillian039"
     },
     {
