@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-15-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -30,23 +30,23 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
-
-**WebDev**: 🟦🟦 6 (5.7%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Database**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**Cloud**: 🟦🟦 4 (3.8%)
+**Cloud**: 🟦🟦 5 (4.8%)
+
+**Database**: 🟦🟦 4 (3.8%)
+
+**Security**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 2 (1.9%)
-
-**Security**: 🟦 2 (1.9%)
 
 
 
@@ -60,34 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.4 (27.4%)
-Go              ██████████████████████████ 23.8 (23.8%)
-Java            █████████████████████████ 22.6 (22.6%)
-Python          ███████████████████████ 21.4 (21.4%)
-Kotlin          █ 1.2 (1.2%)
-Rust            █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
-Swift           █ 1.2 (1.2%)
+JavaScript      ██████████████████████████████ 27.2 (27.2%)
+Go              ██████████████████████████ 23.5 (23.5%)
+Java            ██████████████████████████ 23.5 (23.5%)
+Python          ███████████████████████ 21.0 (21.0%)
+Kotlin          ███ 2.5 (2.5%)
+Rust            ███ 2.5 (2.5%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Go" : 20
+    "JavaScript" : 22
+    "Go" : 19
     "Java" : 19
-    "Python" : 18
-    "Kotlin" : 1
-    "Rust" : 1
-    "PHP" : 1
-    "Swift" : 1
+    "Python" : 17
+    "Kotlin" : 2
+    "Rust" : 2
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
+![ai](https://img.shields.io/badge/ai-23-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![webdev](https://img.shields.io/badge/webdev-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-8-blue) ![gemma](https://img.shields.io/badge/gemma-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -127,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-15 14:00 CAT)
+## 📅 Latest Updates (2026-05-15 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,6 +140,35 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png" width="200" alt="Building "Sweets Vault" - a multimodal Gemini Agent with physical hardware integration" />
+      <br/>
+      <b>Building "Sweets Vault" - a multimodal Gemini Agen...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjcnn5bonin83i7xc23bg.png" width="200" alt="Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform" />
+      <br/>
+      <b>Gemini 3.1 Flash-Lite is now generally available o...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqi7fkdidff4j7wsfuaa.png" width="200" alt="Bypassing User Isolation on Android with a Screen Reader" />
+      <br/>
+      <b>Bypassing User Isolation on Android with a Screen ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg" width="200" alt="Building a custom launcher for ChromeOS" />
       <br/>
@@ -153,39 +178,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png" width="200" alt="Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison" />
+    <a href="https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg" width="200" alt="You don't 3D print a house. You print your tools." />
       <br/>
-      <b>Vercel AI SDK Middleware vs Genkit Middleware: a H...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png" width="200" alt="GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners" />
-      <br/>
-      <b>GemmaBridge: AI Bridging the Inclusion Gap for Neu...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png" width="200" alt="Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines" />
-      <br/>
-      <b>Genkit Middleware: Intercept, Extend and Harden yo...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png" width="200" alt="onclick is great, actually" />
-      <br/>
-      <b>onclick is great, actually</b>
+      <b>You don't 3D print a house. You print your tools.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +194,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
+- [Building "Sweets Vault" - a multimodal Gemini Agent with physical hardware integration](https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh) _[Dev.to]_
+- [Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform](https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg) _[Dev.to]_
+- [Bypassing User Isolation on Android with a Screen Reader](https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72) _[Dev.to]_
 - [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7) _[Dev.to]_
+- [You don't 3D print a house. You print your tools.](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00) _[Dev.to]_
 - [Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg) _[Dev.to]_
-- [GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners](https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba) _[Dev.to]_
+- [Circuits: Bit-Banging, SPI, and CPLD](https://dev.to/annavi11arrea1/circuits-bit-banging-spi-and-cpld-3b5o) _[Dev.to]_
+- [The Loading Screen](https://dev.to/gde/the-loading-screen-1ka8) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
 - [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) _[Dev.to]_
 - [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b) _[Dev.to]_
 - [I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual](https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b) _[Dev.to]_
 - [Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation](https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72) _[Dev.to]_
+- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 - [Agent Factory Recap: How Gemma 4 Taught Itself Physics](https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6) _[Dev.to]_
+- [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
 - [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
-- [Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l) _[Dev.to]_
-- [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
 - [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) _[Dev.to]_
-- [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj) _[Dev.to]_
-- [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
-- [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b) _[Dev.to]_
-- [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
-- [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
 
-_Last automated update: Fri, 15 May 2026 14:06:35 CAT_
+_Last automated update: Fri, 15 May 2026 16:33:58 CAT_
 
 
 
@@ -226,36 +222,36 @@ _Last automated update: Fri, 15 May 2026 14:06:35 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -289,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 15 May 2026 12:06:35 GMT</b><br/>
+  <b>Last automated update: Fri, 15 May 2026 14:33:58 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
