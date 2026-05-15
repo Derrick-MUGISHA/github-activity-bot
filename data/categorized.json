@@ -15,19 +15,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "You don't 3D print a house. You print your tools.",
-      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
-      "published_at": "2026-05-15T12:17:19Z",
-      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
-      "tags": [
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
-      "source": "Dev.to",
-      "user": "Luca Bianchi"
-    },
-    {
       "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
       "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
       "published_at": "2026-05-15T14:31:00Z",
@@ -42,19 +29,17 @@
       "user": "Vinicius F. Caridá"
     },
     {
-      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
-      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
-      "published_at": "2026-05-14T11:05:33Z",
-      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
+      "title": "You don't 3D print a house. You print your tools.",
+      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
+      "published_at": "2026-05-15T12:17:19Z",
+      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
       "tags": [
         "ai",
-        "genkit",
-        "genai",
-        "vercel"
+        "vibecoding"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
       "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
+      "user": "Luca Bianchi"
     },
     {
       "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
@@ -218,21 +203,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
-      "published_at": "2026-05-13T19:13:14Z",
-      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "programming",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
-      "source": "Dev.to",
-      "user": "Vinicius Brasil"
-    },
-    {
       "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
       "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
       "published_at": "2026-05-14T06:23:32Z",
@@ -246,6 +216,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
       "source": "Dev.to",
       "user": "Daniel Balcarek"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
+      "published_at": "2026-05-13T19:13:14Z",
+      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "programming",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
+      "source": "Dev.to",
+      "user": "Vinicius Brasil"
     },
     {
       "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
@@ -392,6 +377,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
+      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
+      "published_at": "2026-05-14T11:05:33Z",
+      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "vercel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -600,21 +600,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
-      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
-      "published_at": "2026-05-14T11:05:33Z",
-      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
-      "tags": [
-        "ai",
-        "genkit",
-        "genai",
-        "vercel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "Building Simple Tabs with Vanilla JavaScript",
       "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
       "published_at": "2026-05-15T11:26:06Z",
@@ -744,6 +729,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
+      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
+      "published_at": "2026-05-14T11:05:33Z",
+      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
+      "tags": [
+        "ai",
+        "genkit",
+        "genai",
+        "vercel"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
+      "source": "Dev.to",
+      "user": "Xavier Portilla Edo"
     },
     {
       "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
@@ -907,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 401,
       "user": "PrimeKeeper58"
     },
     {
@@ -937,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "killervillsy"
     },
     {
@@ -952,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "Siigari"
     }
   ],
@@ -1089,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 875,
       "user": "ywnd1144"
     },
     {
@@ -1104,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 711,
       "user": "TencentARC"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1487,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 77,
       "user": "aymanhs"
     },
     {
@@ -1753,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 401,
       "user": "PrimeKeeper58"
     },
     {
@@ -1783,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "killervillsy"
     },
     {
@@ -1798,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "Siigari"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 875,
       "user": "ywnd1144"
     },
     {
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 711,
       "user": "TencentARC"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 156,
       "user": "tidwall"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 77,
       "user": "aymanhs"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "BigDaddy3334"
     },
     {
