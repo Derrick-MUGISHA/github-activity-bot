@@ -15,6 +15,19 @@
       "user": "Remigiusz Samborski"
     },
     {
+      "title": "You don't 3D print a house. You print your tools.",
+      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
+      "published_at": "2026-05-15T12:17:19Z",
+      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
+      "source": "Dev.to",
+      "user": "Luca Bianchi"
+    },
+    {
       "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
       "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
       "published_at": "2026-05-15T14:31:00Z",
@@ -27,19 +40,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
       "source": "Dev.to",
       "user": "Vinicius F. Caridá"
-    },
-    {
-      "title": "You don't 3D print a house. You print your tools.",
-      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
-      "published_at": "2026-05-15T12:17:19Z",
-      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
-      "tags": [
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
-      "source": "Dev.to",
-      "user": "Luca Bianchi"
     },
     {
       "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
@@ -116,21 +116,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
-      "published_at": "2026-05-14T22:02:53Z",
-      "description": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
-      "tags": [
-        "mcp",
-        "ai",
-        "typescript",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
-      "source": "Dev.to",
-      "user": "Jonas Gauffin"
-    },
-    {
       "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
       "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
       "published_at": "2026-05-14T23:43:10Z",
@@ -144,6 +129,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
       "source": "Dev.to",
       "user": "Josh Saint Jacque"
+    },
+    {
+      "title": "Giving AI agents knowledge they were never trained on",
+      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
+      "published_at": "2026-05-14T22:02:53Z",
+      "description": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
+      "tags": [
+        "mcp",
+        "ai",
+        "typescript",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
+      "source": "Dev.to",
+      "user": "Jonas Gauffin"
     },
     {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
@@ -231,6 +231,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide",
+      "url": "https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj",
+      "published_at": "2026-05-13T17:44:23Z",
+      "description": "Lately I've been getting the same question over and over: how do you build an AI Agent inside Jira,...",
+      "tags": [
+        "ai",
+        "agents",
+        "beginners",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i0k5mfo3nfm6osfgkfg.png",
+      "source": "Dev.to",
+      "user": "Xianpeng Shen"
+    },
+    {
+      "title": "Gemma4 Speculative Decoding with n-gram",
+      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b",
+      "published_at": "2026-05-13T19:29:03Z",
+      "description": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
+      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
+      "published_at": "2026-05-13T06:30:47Z",
+      "description": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and chat-latest API. Full 2026 guide.",
+      "tags": [
+        "gpt55instant",
+        "chatgptnewdefaultmodel202",
+        "gpt55instantvsgpt53instan",
+        "gpt55instanthallucination"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
+      "source": "Dev.to",
+      "user": "Anup Karanjkar"
+    },
+    {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
     },
     {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
@@ -378,138 +438,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
       "source": "Dev.to",
       "user": "Deepu K Sasidharan"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
-      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
-      "published_at": "2026-05-12T11:53:01Z",
-      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
-      "tags": [
-        "tech",
-        "opensource",
-        "webdev",
-        "ethics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
-      "source": "Dev.to",
-      "user": "Carlos Campos"
-    },
-    {
-      "title": "Is Brain Float (bf16) Worth it?",
-      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
-      "published_at": "2026-05-12T00:12:08Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "llm",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
-      "published_at": "2026-05-12T17:08:46Z",
-      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
-      "tags": [
-        "python",
-        "ai",
-        "videogen",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
-      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
-      "published_at": "2026-05-13T00:08:54Z",
-      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -667,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2057,
       "user": "huangserva"
     }
   ],
@@ -729,21 +657,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
       "source": "Dev.to",
       "user": "Jonas Gauffin"
-    },
-    {
-      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
-      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
-      "published_at": "2026-05-14T10:02:32Z",
-      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
-      "tags": [
-        "sideprojects",
-        "webdev",
-        "ux",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
-      "source": "Dev.to",
-      "user": "Rahul Devaskar"
     },
     {
       "title": "Adding native-feeling haptics to Angular web apps with ng-haptics",
@@ -819,6 +732,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
+      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
+      "published_at": "2026-05-14T10:02:32Z",
+      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
+      "tags": [
+        "sideprojects",
+        "webdev",
+        "ux",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
+      "source": "Dev.to",
+      "user": "Rahul Devaskar"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -952,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2057,
       "user": "huangserva"
     },
     {
@@ -967,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 394,
       "user": "PrimeKeeper58"
     },
     {
@@ -1001,52 +929,22 @@
       "user": "killervillsy"
     },
     {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "url": "https://github.com/Siigari/claude-heartbeat",
+      "published_at": "2026-05-13T19:08:36Z",
+      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 181,
-      "user": "POLYMARKET-TRADER-LAB"
+      "stars": 149,
+      "user": "Siigari"
     }
   ],
   "Python": [
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
-    },
-    {
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "url": "https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn",
-      "published_at": "2026-05-12T17:08:46Z",
-      "description": "If you’ve been playing around with AI video generation lately, you already know the struggle: the...",
-      "tags": [
-        "python",
-        "ai",
-        "videogen",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1179,7 +1077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 875,
       "user": "ywnd1144"
     },
     {
@@ -1194,7 +1092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 702,
       "user": "TencentARC"
     },
     {
@@ -1209,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 593,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1244,6 +1142,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide",
+      "url": "https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj",
+      "published_at": "2026-05-13T17:44:23Z",
+      "description": "Lately I've been getting the same question over and over: how do you build an AI Agent inside Jira,...",
+      "tags": [
+        "ai",
+        "agents",
+        "beginners",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i0k5mfo3nfm6osfgkfg.png",
+      "source": "Dev.to",
+      "user": "Xianpeng Shen"
+    },
     {
       "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
       "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37",
@@ -1333,34 +1246,6 @@
       "user": "Jane Ori"
     },
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1374,6 +1259,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
+      "published_at": "2026-05-15T15:00:00Z",
+      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "tags": [
+        "androidxr",
+        "googleglass",
+        "googleassistant",
+        "voicefirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
+    },
     {
       "title": "Bypassing User Isolation on Android with a Screen Reader",
       "url": "https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72",
@@ -1389,21 +1289,6 @@
       "user": "Karol Wrótniak"
     },
     {
-      "title": "Building a custom launcher for ChromeOS",
-      "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7",
-      "published_at": "2026-05-14T11:11:33Z",
-      "description": "In this article, I will share some of my experience of enhancing Be nice to be a launcher on...",
-      "tags": [
-        "android",
-        "chromeos",
-        "ui",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
-    },
-    {
       "title": "Stop hand-writing IconData — introducing `icon_font_extractor`",
       "url": "https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2",
       "published_at": "2026-05-14T19:49:22Z",
@@ -1417,9 +1302,69 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhiveknvsq50r90r0r3dx.png",
       "source": "Dev.to",
       "user": "Julian Finkler"
+    },
+    {
+      "title": "Building a custom launcher for ChromeOS",
+      "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7",
+      "published_at": "2026-05-14T11:11:33Z",
+      "description": "In this article, I will share some of my experience of enhancing Be nice to be a launcher on...",
+      "tags": [
+        "android",
+        "chromeos",
+        "ui",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
     }
   ],
   "Cloud": [
+    {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
+      "published_at": "2026-05-15T15:00:00Z",
+      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "tags": [
+        "androidxr",
+        "googleglass",
+        "googleassistant",
+        "voicefirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure ACI",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
+      "published_at": "2026-05-15T13:02:34Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "mcpserver",
+        "gemini",
+        "iac",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure Functions",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
+      "published_at": "2026-05-15T13:01:46Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "agents",
+        "mcpserver",
+        "rust",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
@@ -1450,22 +1395,50 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
+      "published_at": "2026-05-13T13:02:44Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
       "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
+        "awseks",
+        "aws",
+        "mcps",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
     }
   ],
   "Database": [
+    {
+      "title": "SQL Execution Order: Write Queries That Think Like the Database",
+      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf",
+      "published_at": "2026-05-13T09:53:32Z",
+      "description": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
+      "tags": [
+        "beginners",
+        "sql"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vy3wx3d00jxb34am25s.png",
+      "source": "Dev.to",
+      "user": "Kostas Kalafatis"
+    },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
@@ -1493,6 +1466,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
+      "url": "https://github.com/aymanhs/nanotdb",
+      "published_at": "2026-05-14T06:00:30Z",
+      "description": "A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "aymanhs"
+    },
+    {
       "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
       "url": "https://github.com/davemorin/supacrawl",
       "published_at": "2026-05-10T08:00:13Z",
@@ -1506,21 +1494,6 @@
       "source": "GitHub",
       "stars": 51,
       "user": "davemorin"
-    },
-    {
-      "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "url": "https://github.com/aymanhs/nanotdb",
-      "published_at": "2026-05-14T06:00:30Z",
-      "description": "A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "aymanhs"
     }
   ],
   "Security": [
@@ -1611,21 +1584,6 @@
       "user": "Josh Saint Jacque"
     },
     {
-      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
-      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
-      "published_at": "2026-05-14T10:02:32Z",
-      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
-      "tags": [
-        "sideprojects",
-        "webdev",
-        "ux",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
-      "source": "Dev.to",
-      "user": "Rahul Devaskar"
-    },
-    {
       "title": "Stop hand-writing IconData — introducing `icon_font_extractor`",
       "url": "https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2",
       "published_at": "2026-05-14T19:49:22Z",
@@ -1671,6 +1629,36 @@
       "user": "fayismahmood"
     },
     {
+      "title": "Gemma4 Speculative Decoding with n-gram",
+      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b",
+      "published_at": "2026-05-13T19:29:03Z",
+      "description": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
+      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
+      "published_at": "2026-05-11T07:06:08Z",
+      "description": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools with a single curl command.",
+      "tags": [
+        "terminal",
+        "macos",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png",
+      "source": "Dev.to",
+      "user": "satyamsoni2211"
+    },
+    {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
       "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
       "published_at": "2026-05-11T07:36:44Z",
@@ -1700,6 +1688,21 @@
       "user": "Prakash"
     },
     {
+      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
+      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
+      "published_at": "2026-05-14T10:02:32Z",
+      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
+      "tags": [
+        "sideprojects",
+        "webdev",
+        "ux",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
+      "source": "Dev.to",
+      "user": "Rahul Devaskar"
+    },
+    {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
       "published_at": "2026-05-05T05:21:20Z",
@@ -1714,36 +1717,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
-      "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5",
-      "published_at": "2026-05-12T07:30:00Z",
-      "description": "It was a Thursday afternoon when the Teams message came in.  A bug in production. A date formatting...",
-      "tags": [
-        "webdev",
-        "productivity",
-        "career",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1pq3iyqlw9w9fydcl7c.png",
-      "source": "Dev.to",
-      "user": "Gavin Cettolo"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1755,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2057,
       "user": "huangserva"
     },
     {
@@ -1770,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 394,
       "user": "PrimeKeeper58"
     },
     {
@@ -1804,19 +1777,19 @@
       "user": "killervillsy"
     },
     {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "url": "https://github.com/Siigari/claude-heartbeat",
+      "published_at": "2026-05-13T19:08:36Z",
+      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 181,
-      "user": "POLYMARKET-TRADER-LAB"
+      "stars": 149,
+      "user": "Siigari"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1830,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 871,
+      "stars": 875,
       "user": "ywnd1144"
     },
     {
@@ -1845,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 702,
       "user": "TencentARC"
     },
     {
@@ -1860,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 593,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1905,8 +1878,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 142,
       "user": "tidwall"
+    },
+    {
+      "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
+      "url": "https://github.com/aymanhs/nanotdb",
+      "published_at": "2026-05-14T06:00:30Z",
+      "description": "A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "aymanhs"
     },
     {
       "title": "BigDaddy3334/olcrtc-manager-panel - GitHub Repository",
@@ -1920,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "BigDaddy3334"
     },
     {
@@ -1952,21 +1940,6 @@
       "source": "GitHub",
       "stars": 51,
       "user": "davemorin"
-    },
-    {
-      "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "url": "https://github.com/aymanhs/nanotdb",
-      "published_at": "2026-05-14T06:00:30Z",
-      "description": "A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "aymanhs"
     }
   ]
 }
