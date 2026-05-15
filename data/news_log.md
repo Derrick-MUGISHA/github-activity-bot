@@ -1734402,3 +1734402,773 @@ It was a Thursday afternoon when the Teams message came in.  A bug in production
 
 ---
 
+
+
+## 📰 DevTech News — 2026-05-15 16:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (49 articles)
+
+#### 1. [Building "Sweets Vault" - a multimodal Gemini Agent with physical hardware integration](https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh)
+📅 Fri, 15 May 2026 12:43:35 GMT
+👤 By: Remigiusz Samborski | 📌 Source: Dev.to
+
+![Building "Sweets Vault" - a multimodal Gemini Agent with physical hardware integration](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png)
+
+Motivating seven-year-olds to complete their daily reading and handwriting practice is a classic...
+
+🏷️ Tags: `ai`, `gemini`, `agents`
+
+---
+
+#### 2. [Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform](https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg)
+📅 Fri, 15 May 2026 13:13:00 GMT
+👤 By: Gemini Enterprise Team | 📌 Source: Dev.to
+
+![Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjcnn5bonin83i7xc23bg.png)
+
+Today, we're thrilled to announce that Gemini 3.1 Flash-Lite, our fastest and most cost-efficient...
+
+🏷️ Tags: `ai`, `machinelearning`, `google`, `gemini`
+
+---
+
+#### 3. [You don't 3D print a house. You print your tools.](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00)
+📅 Fri, 15 May 2026 12:17:19 GMT
+👤 By: Luca Bianchi | 📌 Source: Dev.to
+
+![You don't 3D print a house. You print your tools.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg)
+
+Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...
+
+🏷️ Tags: `ai`, `vibecoding`
+
+---
+
+#### 4. [Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg)
+📅 Thu, 14 May 2026 11:05:33 GMT
+👤 By: Xavier Portilla Edo | 📌 Source: Dev.to
+
+![Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png)
+
+Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...
+
+🏷️ Tags: `ai`, `genkit`, `genai`, `vercel`
+
+---
+
+#### 5. [The Loading Screen](https://dev.to/gde/the-loading-screen-1ka8)
+📅 Fri, 15 May 2026 08:46:20 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![The Loading Screen](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwba3jcuhws461p6rb3ko.png)
+
+BUILD WITH AI [Antigravity]  Building “The Loading Screen”: A Real-Time Interactive Experience with...
+
+🏷️ Tags: `ai`, `gamedev`, `google`, `showdev`
+
+---
+
+#### 6. [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03)
+📅 Thu, 14 May 2026 11:12:17 GMT
+👤 By: Xavier Portilla Edo | 📌 Source: Dev.to
+
+![Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png)
+
+Introduction   If you have been building anything non-trivial with Genkit, you have probably...
+
+🏷️ Tags: `ai`, `genkit`, `vertexai`, `tutorial`
+
+---
+
+#### 7. [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b)
+📅 Thu, 14 May 2026 20:04:04 GMT
+👤 By: MLH Team | 📌 Source: Dev.to
+
+![Vibe Coding, Demystified](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg)
+
+TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...
+
+🏷️ Tags: `vibecoding`, `learning`, `codenewbie`
+
+---
+
+#### 8. [Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation](https://dev.to/gde/gemini-api-file-search-enhanced-multimodal-capabilities-with-embedding-2-including-open-source-g72)
+📅 Tue, 12 May 2026 04:17:48 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl26itczzs2pel46balz7.png)
+
+(Image source: Google Blog - Gemini API File Search is now multimodal: build efficient, verifiable...
+
+🏷️ Tags: `api`, `gemini`, `llm`, `rag`
+
+---
+
+#### 9. [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o)
+📅 Thu, 14 May 2026 17:16:10 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![vLLM Gemma4 26B Tuning on v6e-4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp)
+
+✦ The successful benchmark run on TPU v6e-4 used the following "Balanced Production" flags. These...
+
+🏷️ Tags: `gemmachallenge`, `gemma`, `devchallenge`
+
+---
+
+#### 10. [Agent Factory Recap: How Gemma 4 Taught Itself Physics](https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6)
+📅 Thu, 14 May 2026 14:10:49 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![Agent Factory Recap: How Gemma 4 Taught Itself Physics](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png)
+
+In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...
+
+🏷️ Tags: `ai`, `gemma`, `agents`
+
+---
+
+### 🏷️ JavaScript (22 articles)
+
+#### 1. [Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg)
+📅 Thu, 14 May 2026 11:05:33 GMT
+👤 By: Xavier Portilla Edo | 📌 Source: Dev.to
+
+![Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png)
+
+Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...
+
+🏷️ Tags: `ai`, `genkit`, `genai`, `vercel`
+
+---
+
+#### 2. [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
+📅 Wed, 13 May 2026 19:10:34 GMT
+👤 By: 𒎏Wii 🏳️‍⚧️ | 📌 Source: Dev.to
+
+![onclick is great, actually](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png)
+
+A few thoughts on `onclick` and how my opinion on it has changed.
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+#### 3. [I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual](https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b)
+📅 Thu, 14 May 2026 10:02:32 GMT
+👤 By: Rahul Devaskar | 📌 Source: Dev.to
+
+![I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png)
+
+How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.
+
+🏷️ Tags: `sideprojects`, `webdev`, `ux`, `react`
+
+---
+
+#### 4. [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
+📅 Wed, 13 May 2026 07:07:13 GMT
+👤 By: Aryan Choudhary | 📌 Source: Dev.to
+
+![Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png)
+
+We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...
+
+🏷️ Tags: `webdev`, `nextjs`, `sideprojects`, `react`
+
+---
+
+#### 5. [Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l)
+📅 Wed, 13 May 2026 18:54:57 GMT
+👤 By: fayismahmood | 📌 Source: Dev.to
+
+![Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq97yl8txa4s1kob164u5.png)
+
+No installs. No accounts. No cost. A full-featured vector design editor built with Leafer UI and React.
+
+🏷️ Tags: `design`, `opensource`, `webdev`, `react`
+
+---
+
+#### 6. [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm)
+📅 Sun, 10 May 2026 18:28:13 GMT
+👤 By: Muhammad Ahsan Ayaz | 📌 Source: Dev.to
+
+![I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg)
+
+This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...
+
+🏷️ Tags: `ai`, `javascript`, `gemmachallenge`, `devchallenge`
+
+---
+
+#### 7. [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
+📅 Thu, 14 May 2026 04:29:48 GMT
+👤 By: GDS K S | 📌 Source: Dev.to
+
+![Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png)
+
+In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...
+
+🏷️ Tags: `webdev`, `performance`, `javascript`, `tutorial`
+
+---
+
+#### 8. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (17 articles)
+
+#### 1. [Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text](https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2)
+📅 Mon, 11 May 2026 17:43:38 GMT
+👤 By: Raihan | 📌 Source: Dev.to
+
+![Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2)
+
+How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.
+
+🏷️ Tags: `ai`, `machinelearning`, `python`, `huggingface`
+
+---
+
+#### 2. [Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2](https://dev.to/googleai/hacking-perfectly-square-ai-videos-with-veo-31-and-nanobanana-2-5cpn)
+📅 Tue, 12 May 2026 17:08:46 GMT
+👤 By: Paige Bailey | 📌 Source: Dev.to
+
+![Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png)
+
+If you’ve been playing around with AI video generation lately, you already know the struggle: the...
+
+🏷️ Tags: `python`, `ai`, `videogen`, `webdev`
+
+---
+
+#### 3. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://dev.to/shenxianpeng/building-an-ai-agent-inside-jira-a-jira-copilot-implementation-guide-2baj)
+📅 Wed, 13 May 2026 17:44:23 GMT
+👤 By: Xianpeng Shen | 📌 Source: Dev.to
+
+![Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2i0k5mfo3nfm6osfgkfg.png)
+
+Lately I've been getting the same question over and over: how do you build an AI Agent inside Jira,...
+
+🏷️ Tags: `ai`, `agents`, `beginners`, `devops`
+
+---
+
+#### 2. [Playwright is Powerful, But Managing It at Scale? That's Another Story](https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37)
+📅 Mon, 11 May 2026 04:12:45 GMT
+👤 By: Prakash | 📌 Source: Dev.to
+
+![Playwright is Powerful, But Managing It at Scale? That's Another Story](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FITechGenie%2Fitg-playwright-studio%2Fmain%2Fscreenshots%2Flogo.png)
+
+Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale
+
+🏷️ Tags: `playwright`, `testing`, `automation`, `devops`
+
+---
+
+#### 3. [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0)
+📅 Fri, 08 May 2026 06:39:25 GMT
+👤 By: Sanket Sahu | 📌 Source: Dev.to
+
+![Speed, caching, and the 40x cost wall](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png)
+
+Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.
+
+🏷️ Tags: `ai`, `llm`, `buildinpublic`, `devops`
+
+---
+
+#### 4. [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6)
+📅 Tue, 05 May 2026 08:01:34 GMT
+👤 By: Kahiro Okina | 📌 Source: Dev.to
+
+![Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png)
+
+This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...
+
+🏷️ Tags: `kubernetes`, `ocm`, `cncf`, `multicluster`
+
+---
+
+#### 5. [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+📅 Tue, 05 May 2026 05:21:20 GMT
+👤 By: Ivan Porta | 📌 Source: Dev.to
+
+![What Platform Teams Can Expect From Crossplane v2.2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png)
+
+A developer submits a ticket to request a database. Three days later, the platform team responds, but...
+
+🏷️ Tags: `crossplane`, `kubernetes`, `gitops`
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p)
+📅 Wed, 13 May 2026 19:10:34 GMT
+👤 By: 𒎏Wii 🏳️‍⚧️ | 📌 Source: Dev.to
+
+![onclick is great, actually](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png)
+
+A few thoughts on `onclick` and how my opinion on it has changed.
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+#### 2. [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8)
+📅 Thu, 07 May 2026 23:15:51 GMT
+👤 By: Jane Ori | 📌 Source: Dev.to
+
+![CSS - The single coolest API technique you can imagine.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png)
+
+To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...
+
+🏷️ Tags: `css`, `api`, `webdev`
+
+---
+
+#### 3. [I Love Tailwind. Sorry Not Sorry](https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh)
+📅 Mon, 04 May 2026 08:54:09 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![I Love Tailwind. Sorry Not Sorry](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png)
+
+I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...
+
+🏷️ Tags: `css`, `tailwindcss`, `frontend`, `discuss`
+
+---
+
+#### 4. [Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8)
+📅 Sun, 26 Apr 2026 13:10:27 GMT
+👤 By: Rahmon Toyeeb | 📌 Source: Dev.to
+
+![Service-to-Service Calls vs Event-Driven Flows: When to Use Which](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png)
+
+This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.
+
+🏷️ Tags: `backend`, `architecture`
+
+---
+
+#### 5. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (2 articles)
+
+#### 1. [Bypassing User Isolation on Android with a Screen Reader](https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72)
+📅 Fri, 15 May 2026 10:58:39 GMT
+👤 By: Karol Wrótniak | 📌 Source: Dev.to
+
+![Bypassing User Isolation on Android with a Screen Reader](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqi7fkdidff4j7wsfuaa.png)
+
+A single missing check in Android lets one user's screen reader leak another user's private...
+
+🏷️ Tags: `android`, `cybersecurity`, `a11y`
+
+---
+
+#### 2. [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7)
+📅 Thu, 14 May 2026 11:11:33 GMT
+👤 By: Thomas Künneth | 📌 Source: Dev.to
+
+![Building a custom launcher for ChromeOS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg)
+
+In this article, I will share some of my experience of enhancing Be nice to be a launcher on...
+
+🏷️ Tags: `android`, `chromeos`, `ui`, `programming`
+
+---
+
+### 🏷️ Cloud (5 articles)
+
+#### 1. [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd)
+📅 Thu, 14 May 2026 15:18:37 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `rust`, `agents`, `aws`, `awslambda`
+
+---
+
+#### 2. [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea)
+📅 Wed, 13 May 2026 22:34:18 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png)
+
+​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...
+
+🏷️ Tags: `cloud`, `eventsinyourcity`, `ai`
+
+---
+
+#### 3. [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g)
+📅 Wed, 13 May 2026 13:02:44 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Amazon EKS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `awseks`, `aws`, `mcps`, `agents`
+
+---
+
+#### 4. [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8)
+📅 Wed, 13 May 2026 15:50:28 GMT
+👤 By: Eric D Johnson | 📌 Source: Dev.to
+
+![Lambda Just Got a File System. I Put AI Agents on It.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg)
+
+You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...
+
+🏷️ Tags: `serverless`, `aws`, `lambda`, `ai`
+
+---
+
+#### 5. [Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7)
+📅 Mon, 04 May 2026 02:30:53 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png)
+
+Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...
+
+🏷️ Tags: `a2aprotocol`, `microsoftfabric`, `multiagentsystems`, `googleadk`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf)
+📅 Wed, 13 May 2026 09:53:32 GMT
+👤 By: Kostas Kalafatis | 📌 Source: Dev.to
+
+![SQL Execution Order: Write Queries That Think Like the Database](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vy3wx3d00jxb34am25s.png)
+
+Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...
+
+🏷️ Tags: `beginners`, `sql`
+
+---
+
+#### 2. [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+📅 Tue, 05 May 2026 05:21:20 GMT
+👤 By: Ivan Porta | 📌 Source: Dev.to
+
+![What Platform Teams Can Expect From Crossplane v2.2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png)
+
+A developer submits a ticket to request a database. Three days later, the platform team responds, but...
+
+🏷️ Tags: `crossplane`, `kubernetes`, `gitops`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 4. [davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis](https://github.com/davemorin/supacrawl)
+📅 Sun, 10 May 2026 08:00:13 GMT
+👤 By: davemorin | 📌 Source: GitHub
+
+![davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis](https://avatars.githubusercontent.com/u/78139?v=4)
+
+Mirror Supabase/Postgres into local SQLite for search and offline analysis
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 51
+
+---
+
+### 🏷️ Security (3 articles)
+
+#### 1. [Bypassing User Isolation on Android with a Screen Reader](https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72)
+📅 Fri, 15 May 2026 10:58:39 GMT
+👤 By: Karol Wrótniak | 📌 Source: Dev.to
+
+![Bypassing User Isolation on Android with a Screen Reader](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqi7fkdidff4j7wsfuaa.png)
+
+A single missing check in Android lets one user's screen reader leak another user's private...
+
+🏷️ Tags: `android`, `cybersecurity`, `a11y`
+
+---
+
+#### 2. [MCP Configuration for Google Workspace with Gemini CLI](https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2)
+📅 Mon, 11 May 2026 01:14:46 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Google Workspace with Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmoj4thmw07tk3jvlksdl.png)
+
+This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...
+
+🏷️ Tags: `googleworkspace`, `oauth2`, `mcps`, `gemini`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (27 articles)
+
+#### 1. [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9)
+📅 Wed, 13 May 2026 18:32:33 GMT
+👤 By: S M Tahosin | 📌 Source: Dev.to
+
+![My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png)
+
+I recently opened my GitHub account and filtered by private repositories. I actually counted them:...
+
+🏷️ Tags: `webdev`, `beginners`, `productivity`, `discuss`
+
+---
+
+#### 2. [You don't 3D print a house. You print your tools.](https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00)
+📅 Fri, 15 May 2026 12:17:19 GMT
+👤 By: Luca Bianchi | 📌 Source: Dev.to
+
+![You don't 3D print a house. You print your tools.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg)
+
+Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...
+
+🏷️ Tags: `ai`, `vibecoding`
+
+---
+
+#### 3. [I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual](https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b)
+📅 Thu, 14 May 2026 10:02:32 GMT
+👤 By: Rahul Devaskar | 📌 Source: Dev.to
+
+![I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png)
+
+How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.
+
+🏷️ Tags: `sideprojects`, `webdev`, `ux`, `react`
+
+---
+
+#### 4. [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck)
+📅 Wed, 13 May 2026 19:13:14 GMT
+👤 By: Vinicius Brasil | 📌 Source: Dev.to
+
+![How AI is changing my job as a Staff Engineer: Tracer bullets](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg)
+
+AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...
+
+🏷️ Tags: `ai`, `productivity`, `programming`, `architecture`
+
+---
+
+#### 5. [Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l)
+📅 Wed, 13 May 2026 18:54:57 GMT
+👤 By: fayismahmood | 📌 Source: Dev.to
+
+![Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq97yl8txa4s1kob164u5.png)
+
+No installs. No accounts. No cost. A full-featured vector design editor built with Leafer UI and React.
+
+🏷️ Tags: `design`, `opensource`, `webdev`, `react`
+
+---
+
+#### 6. [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b)
+📅 Wed, 13 May 2026 19:29:03 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma4 Speculative Decoding with n-gram](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp)
+
+Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...
+
+🏷️ Tags: `devchallenge`, `gemmachallenge`, `gemma`, `ai`
+
+---
+
+#### 7. [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5)
+📅 Mon, 11 May 2026 07:06:08 GMT
+👤 By: satyamsoni2211 | 📌 Source: Dev.to
+
+![I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png)
+
+Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools with a single curl command.
+
+🏷️ Tags: `terminal`, `macos`, `productivity`, `opensource`
+
+---
+
+#### 8. [Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work](https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo)
+📅 Mon, 11 May 2026 07:36:44 GMT
+👤 By: Michael Nikitochkin | 📌 Source: Dev.to
+
+![Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h5ny91q0p762zbpin0y.png)
+
+How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal requests into structured, actionable engineering tasks with multi-agent support.
+
+🏷️ Tags: `productivity`, `ai`, `programming`
+
+---
+
+#### 9. [Playwright is Powerful, But Managing It at Scale? That's Another Story](https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37)
+📅 Mon, 11 May 2026 04:12:45 GMT
+👤 By: Prakash | 📌 Source: Dev.to
+
+![Playwright is Powerful, But Managing It at Scale? That's Another Story](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FITechGenie%2Fitg-playwright-studio%2Fmain%2Fscreenshots%2Flogo.png)
+
+Part 1: Why we built ITG Playwright Studio - A web-based control plane for managing Playwright tests at scale
+
+🏷️ Tags: `playwright`, `testing`, `automation`, `devops`
+
+---
+
+#### 10. [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+📅 Tue, 05 May 2026 05:21:20 GMT
+👤 By: Ivan Porta | 📌 Source: Dev.to
+
+![What Platform Teams Can Expect From Crossplane v2.2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png)
+
+A developer submits a ticket to request a database. Three days later, the platform team responds, but...
+
+🏷️ Tags: `crossplane`, `kubernetes`, `gitops`
+
+---
+

@@ -1,6 +1,48 @@
 {
   "AI": [
     {
+      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
+      "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
+      "published_at": "2026-05-15T12:43:35Z",
+      "description": "Motivating seven-year-olds to complete their daily reading and handwriting practice is a classic...",
+      "tags": [
+        "ai",
+        "gemini",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
+      "url": "https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg",
+      "published_at": "2026-05-15T13:13:00Z",
+      "description": "Today, we're thrilled to announce that Gemini 3.1 Flash-Lite, our fastest and most cost-efficient...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "google",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjcnn5bonin83i7xc23bg.png",
+      "source": "Dev.to",
+      "user": "Gemini Enterprise Team"
+    },
+    {
+      "title": "You don't 3D print a house. You print your tools.",
+      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
+      "published_at": "2026-05-15T12:17:19Z",
+      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
+      "source": "Dev.to",
+      "user": "Luca Bianchi"
+    },
+    {
       "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
       "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
       "published_at": "2026-05-14T11:05:33Z",
@@ -16,18 +58,19 @@
       "user": "Xavier Portilla Edo"
     },
     {
-      "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
-      "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
-      "published_at": "2026-05-13T21:25:01Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "title": "The Loading Screen",
+      "url": "https://dev.to/gde/the-loading-screen-1ka8",
+      "published_at": "2026-05-15T08:46:20Z",
+      "description": "BUILD WITH AI [Antigravity]  Building “The Loading Screen”: A Real-Time Interactive Experience with...",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
+        "ai",
+        "gamedev",
+        "google",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwba3jcuhws461p6rb3ko.png",
       "source": "Dev.to",
-      "user": "Vinicius F. Caridá"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
@@ -74,6 +117,20 @@
       "user": "Evan Lin"
     },
     {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
+      "published_at": "2026-05-14T17:16:10Z",
+      "description": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "tags": [
+        "gemmachallenge",
+        "gemma",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
       "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6",
       "published_at": "2026-05-14T14:10:49Z",
@@ -103,6 +160,21 @@
       "user": "Vinicius Brasil"
     },
     {
+      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
+      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
+      "published_at": "2026-05-14T06:23:32Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  Running modern AI models locally...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
       "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
       "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
       "published_at": "2026-05-13T22:34:18Z",
@@ -115,21 +187,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
-      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
-      "published_at": "2026-05-14T06:23:32Z",
-      "description": "Running modern AI models locally on older hardware sounds almost impossible. But with smaller models...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
     },
     {
       "title": "Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide",
@@ -236,19 +293,18 @@
       "user": "GDS K S"
     },
     {
-      "title": "Speed, caching, and the 40x cost wall",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
-      "published_at": "2026-05-08T06:39:25Z",
-      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
+      "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
+      "published_at": "2026-05-13T21:25:01Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
       "tags": [
-        "ai",
-        "llm",
-        "buildinpublic",
-        "devops"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
       "source": "Dev.to",
-      "user": "Sanket Sahu"
+      "user": "Vinicius F. Caridá"
     },
     {
       "title": "Does AI Behave Like a Toxic Ex?",
@@ -264,6 +320,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
       "source": "Dev.to",
       "user": "Konark Sharma"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -457,81 +528,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
-      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
-      "published_at": "2026-05-07T20:21:26Z",
-      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
-      "tags": [
-        "backend",
-        "laravel",
-        "performance",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
-      "source": "Dev.to",
-      "user": "Fomin Vasyl"
-    },
-    {
-      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
-      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
-      "published_at": "2026-05-07T17:05:23Z",
-      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
-      "tags": [
-        "typescript",
-        "node",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
-      "source": "Dev.to",
-      "user": "Greg Konush"
-    },
-    {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
-    },
-    {
-      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
-      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
-      "published_at": "2026-05-03T00:00:00Z",
-      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "devrel",
-        "burnout"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
-      "source": "Dev.to",
-      "user": "Filipe Brito Ferreira"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -687,7 +683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2048,
       "user": "huangserva"
     }
   ],
@@ -794,21 +790,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
       "source": "Dev.to",
       "user": "GDS K S"
-    },
-    {
-      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
-      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
-      "published_at": "2026-05-07T17:05:23Z",
-      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
-      "tags": [
-        "typescript",
-        "node",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
-      "source": "Dev.to",
-      "user": "Greg Konush"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -942,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2048,
       "user": "huangserva"
     },
     {
@@ -957,23 +938,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 383,
       "user": "PrimeKeeper58"
-    },
-    {
-      "title": "killervillsy/SessionToJson - GitHub Repository",
-      "url": "https://github.com/killervillsy/SessionToJson",
-      "published_at": "2026-05-09T02:52:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
-      "source": "GitHub",
-      "stars": 191,
-      "user": "killervillsy"
     },
     {
       "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
@@ -987,23 +953,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "sleepinginsummer"
     },
     {
-      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
-      "url": "https://github.com/Siigari/claude-heartbeat",
-      "published_at": "2026-05-13T19:08:36Z",
-      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "title": "killervillsy/SessionToJson - GitHub Repository",
+      "url": "https://github.com/killervillsy/SessionToJson",
+      "published_at": "2026-05-09T02:52:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 144,
-      "user": "Siigari"
+      "stars": 193,
+      "user": "killervillsy"
+    },
+    {
+      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
+      "published_at": "2026-05-14T18:59:39Z",
+      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "POLYMARKET-TRADER-LAB"
     }
   ],
   "Python": [
@@ -1036,21 +1017,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmc9ojb9tirf5efemmyr.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
-    },
-    {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1184,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 865,
       "user": "ywnd1144"
     },
     {
@@ -1199,7 +1165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 688,
       "user": "TencentARC"
     },
     {
@@ -1214,7 +1180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 574,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1229,7 +1195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "lillian039"
     },
     {
@@ -1381,21 +1347,6 @@
       "user": "Rahmon Toyeeb"
     },
     {
-      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
-      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
-      "published_at": "2026-05-07T20:21:26Z",
-      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
-      "tags": [
-        "backend",
-        "laravel",
-        "performance",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
-      "source": "Dev.to",
-      "user": "Fomin Vasyl"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1410,6 +1361,20 @@
   ],
   "Mobile": [
     {
+      "title": "Bypassing User Isolation on Android with a Screen Reader",
+      "url": "https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72",
+      "published_at": "2026-05-15T10:58:39Z",
+      "description": "A single missing check in Android lets one user's screen reader leak another user's private...",
+      "tags": [
+        "android",
+        "cybersecurity",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqi7fkdidff4j7wsfuaa.png",
+      "source": "Dev.to",
+      "user": "Karol Wrótniak"
+    },
+    {
       "title": "Building a custom launcher for ChromeOS",
       "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7",
       "published_at": "2026-05-14T11:11:33Z",
@@ -1423,24 +1388,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
-    },
-    {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
     }
   ],
   "Cloud": [
+    {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
+      "published_at": "2026-05-14T15:18:37Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "rust",
+        "agents",
+        "aws",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
       "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
@@ -1530,20 +1495,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "Building a FHIR-Compliant ADT Database: Encounters, Polymorphism, and Facades",
-      "url": "https://dev.to/yusdirman/building-a-fhir-compliant-adt-database-encounters-polymorphism-and-facades-7n5",
-      "published_at": "2026-05-07T03:19:41Z",
-      "description": "HL7+FHIR with traditional DB and polymorphic",
-      "tags": [
-        "mariadb",
-        "hl7",
-        "fhir"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fi.postimg.cc%2FTPBQsv9j%2Fhl7fhir-mariadb.png",
-      "source": "Dev.to",
-      "user": "Yusdirman Lubis"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1572,6 +1523,20 @@
     }
   ],
   "Security": [
+    {
+      "title": "Bypassing User Isolation on Android with a Screen Reader",
+      "url": "https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72",
+      "published_at": "2026-05-15T10:58:39Z",
+      "description": "A single missing check in Android lets one user's screen reader leak another user's private...",
+      "tags": [
+        "android",
+        "cybersecurity",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqi7fkdidff4j7wsfuaa.png",
+      "source": "Dev.to",
+      "user": "Karol Wrótniak"
+    },
     {
       "title": "MCP Configuration for Google Workspace with Gemini CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2",
@@ -1615,6 +1580,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
       "source": "Dev.to",
       "user": "S M Tahosin"
+    },
+    {
+      "title": "You don't 3D print a house. You print your tools.",
+      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
+      "published_at": "2026-05-15T12:17:19Z",
+      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
+      "source": "Dev.to",
+      "user": "Luca Bianchi"
     },
     {
       "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
@@ -1765,36 +1743,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1806,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2048,
       "user": "huangserva"
     },
     {
@@ -1821,23 +1769,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 383,
       "user": "PrimeKeeper58"
-    },
-    {
-      "title": "killervillsy/SessionToJson - GitHub Repository",
-      "url": "https://github.com/killervillsy/SessionToJson",
-      "published_at": "2026-05-09T02:52:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
-      "source": "GitHub",
-      "stars": 191,
-      "user": "killervillsy"
     },
     {
       "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
@@ -1851,23 +1784,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 196,
       "user": "sleepinginsummer"
     },
     {
-      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
-      "url": "https://github.com/Siigari/claude-heartbeat",
-      "published_at": "2026-05-13T19:08:36Z",
-      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "title": "killervillsy/SessionToJson - GitHub Repository",
+      "url": "https://github.com/killervillsy/SessionToJson",
+      "published_at": "2026-05-09T02:52:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 144,
-      "user": "Siigari"
+      "stars": 193,
+      "user": "killervillsy"
+    },
+    {
+      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
+      "published_at": "2026-05-14T18:59:39Z",
+      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "POLYMARKET-TRADER-LAB"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1881,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 865,
       "user": "ywnd1144"
     },
     {
@@ -1896,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 688,
       "user": "TencentARC"
     },
     {
@@ -1911,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 574,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1926,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "lillian039"
     },
     {
