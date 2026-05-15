@@ -87,6 +87,35 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "Some Notes on OMO Orchestrator Claude Alternatives",
+      "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c",
+      "published_at": "2026-05-15T06:29:33Z",
+      "description": "I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...",
+      "tags": [
+        "engineering",
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcf5ybdiah0l3pzmlyjud.png",
+      "source": "Dev.to",
+      "user": "Brian Kirkpatrick"
+    },
+    {
+      "title": "Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp",
+      "url": "https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4",
+      "published_at": "2026-05-15T08:58:22Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4           Why I Built This   I...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faothqiyg4rjotxj5q8an.png",
+      "source": "Dev.to",
+      "user": "chuanman2707"
+    },
+    {
       "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
       "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03",
       "published_at": "2026-05-14T11:12:17Z",
@@ -278,21 +307,6 @@
       "user": "Anup Karanjkar"
     },
     {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "published_at": "2026-05-13T15:50:28Z",
-      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
-      "source": "Dev.to",
-      "user": "Eric D Johnson"
-    },
-    {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
       "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
       "published_at": "2026-05-11T07:36:44Z",
@@ -349,21 +363,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
       "source": "Dev.to",
       "user": "Vinicius F. Caridá"
-    },
-    {
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
-      "published_at": "2026-05-11T18:09:56Z",
-      "description": "Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq9qz7059xasq94xidf5b.png",
-      "source": "Dev.to",
-      "user": "Konark Sharma"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -595,7 +594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2057,
+      "stars": 2058,
       "user": "huangserva"
     }
   ],
@@ -614,6 +613,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Building Simple Tabs with Vanilla JavaScript",
+      "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
+      "published_at": "2026-05-15T11:26:06Z",
+      "description": "Tabs are one of those UI patterns you see everywhere — dashboards, settings pages, pricing sections,...",
+      "tags": [
+        "javascript",
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
+      "source": "Dev.to",
+      "user": "Razvan Zamfir"
     },
     {
       "title": "onclick is great, actually",
@@ -644,6 +656,21 @@
       "user": "Sarthak Ganguly"
     },
     {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+      "published_at": "2026-05-13T07:07:13Z",
+      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "sideprojects",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
+    {
       "title": "Giving AI agents knowledge they were never trained on",
       "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
       "published_at": "2026-05-14T22:02:53Z",
@@ -672,21 +699,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3la0uzq5nsv6f3tr4pp2.png",
       "source": "Dev.to",
       "user": "Nicolás Giacconi"
-    },
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-      "published_at": "2026-05-13T07:07:13Z",
-      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "tags": [
-        "webdev",
-        "nextjs",
-        "sideprojects",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
     },
     {
       "title": "Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser",
@@ -880,7 +892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2057,
+      "stars": 2058,
       "user": "huangserva"
     },
     {
@@ -895,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 400,
       "user": "PrimeKeeper58"
     },
     {
@@ -925,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "killervillsy"
     },
     {
@@ -940,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "Siigari"
     }
   ],
@@ -1077,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 876,
       "user": "ywnd1144"
     },
     {
@@ -1092,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "TencentARC"
     },
     {
@@ -1107,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 597,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1122,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 551,
       "user": "lillian039"
     },
     {
@@ -1218,6 +1230,19 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Building Simple Tabs with Vanilla JavaScript",
+      "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
+      "published_at": "2026-05-15T11:26:06Z",
+      "description": "Tabs are one of those UI patterns you see everywhere — dashboards, settings pages, pricing sections,...",
+      "tags": [
+        "javascript",
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
+      "source": "Dev.to",
+      "user": "Razvan Zamfir"
+    },
     {
       "title": "onclick is great, actually",
       "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
@@ -1336,21 +1361,6 @@
       "user": "Allen Firstenberg"
     },
     {
-      "title": "Deploying a Rust MCP Server to Azure ACI",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
-      "published_at": "2026-05-15T13:02:34Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "mcpserver",
-        "gemini",
-        "iac",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Azure Functions",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
       "published_at": "2026-05-15T13:01:46Z",
@@ -1362,6 +1372,21 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure ACI",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
+      "published_at": "2026-05-15T13:02:34Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "mcpserver",
+        "gemini",
+        "iac",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1408,21 +1433,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "published_at": "2026-05-13T15:50:28Z",
-      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
-      "source": "Dev.to",
-      "user": "Eric D Johnson"
     }
   ],
   "Database": [
@@ -1477,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 74,
       "user": "aymanhs"
     },
     {
@@ -1541,6 +1551,19 @@
   ],
   "Tools": [
     {
+      "title": "You don't 3D print a house. You print your tools.",
+      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
+      "published_at": "2026-05-15T12:17:19Z",
+      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
+      "source": "Dev.to",
+      "user": "Luca Bianchi"
+    },
+    {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
       "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
       "published_at": "2026-05-13T18:32:33Z",
@@ -1554,19 +1577,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
       "source": "Dev.to",
       "user": "S M Tahosin"
-    },
-    {
-      "title": "You don't 3D print a house. You print your tools.",
-      "url": "https://dev.to/aletheia/you-dont-3d-print-a-house-you-print-your-tools-2h00",
-      "published_at": "2026-05-15T12:17:19Z",
-      "description": "Vibe coding is to engineering what 3D printing is to making, and that's exactly why it...",
-      "tags": [
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
-      "source": "Dev.to",
-      "user": "Luca Bianchi"
     },
     {
       "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
@@ -1728,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2057,
+      "stars": 2058,
       "user": "huangserva"
     },
     {
@@ -1743,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 400,
       "user": "PrimeKeeper58"
     },
     {
@@ -1773,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "killervillsy"
     },
     {
@@ -1788,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "Siigari"
     },
     {
@@ -1803,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 876,
       "user": "ywnd1144"
     },
     {
@@ -1818,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 706,
       "user": "TencentARC"
     },
     {
@@ -1833,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 597,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1848,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 551,
       "user": "lillian039"
     },
     {
@@ -1878,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 152,
       "user": "tidwall"
     },
     {
@@ -1893,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 74,
       "user": "aymanhs"
     },
     {
@@ -1908,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 60,
       "user": "BigDaddy3334"
     },
     {
