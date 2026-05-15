@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
-      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
-      "published_at": "2026-05-14T06:23:32Z",
-      "description": "Running modern AI models locally on older hardware sounds almost impossible. But with smaller models...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
-    },
-    {
       "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
       "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
       "published_at": "2026-05-14T11:05:33Z",
@@ -29,20 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
-    },
-    {
-      "title": "Vibe Coding, Demystified",
-      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
-      "published_at": "2026-05-14T20:04:04Z",
-      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
-      "tags": [
-        "vibecoding",
-        "learning",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
     },
     {
       "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
@@ -72,6 +43,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Vibe Coding, Demystified",
+      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
+      "published_at": "2026-05-14T20:04:04Z",
+      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
+      "tags": [
+        "vibecoding",
+        "learning",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LINE Bot Implementation",
@@ -160,6 +145,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
+      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
+      "published_at": "2026-05-14T06:23:32Z",
+      "description": "Running modern AI models locally on older hardware sounds almost impossible. But with smaller models...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -517,6 +517,21 @@
       "user": "Filipe Brito Ferreira"
     },
     {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
+      "published_at": "2026-04-27T02:00:10Z",
+      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
+      "source": "Dev.to",
+      "user": "Michael Larson"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -672,26 +687,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2029,
+      "stars": 2038,
       "user": "huangserva"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-      "published_at": "2026-05-13T07:07:13Z",
-      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "tags": [
-        "webdev",
-        "nextjs",
-        "sideprojects",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
     {
       "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
       "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
@@ -734,6 +734,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
       "source": "Dev.to",
       "user": "Rahul Devaskar"
+    },
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+      "published_at": "2026-05-13T07:07:13Z",
+      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "sideprojects",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser",
@@ -927,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2029,
+      "stars": 2038,
       "user": "huangserva"
     },
     {
@@ -942,23 +957,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 370,
       "user": "PrimeKeeper58"
-    },
-    {
-      "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
-      "url": "https://github.com/sleepinginsummer/agent-browser-cli",
-      "published_at": "2026-05-09T03:43:48Z",
-      "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "sleepinginsummer"
     },
     {
       "title": "killervillsy/SessionToJson - GitHub Repository",
@@ -972,8 +972,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "killervillsy"
+    },
+    {
+      "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "url": "https://github.com/sleepinginsummer/agent-browser-cli",
+      "published_at": "2026-05-09T03:43:48Z",
+      "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
+      "source": "GitHub",
+      "stars": 188,
+      "user": "sleepinginsummer"
     },
     {
       "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
@@ -987,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "Siigari"
     }
   ],
@@ -1169,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 846,
       "user": "ywnd1144"
     },
     {
@@ -1184,8 +1199,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "TencentARC"
+    },
+    {
+      "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "published_at": "2026-05-12T23:05:32Z",
+      "description": "exploit for CVE-2026-42945",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
+      "source": "GitHub",
+      "stars": 543,
+      "user": "DepthFirstDisclosures"
     },
     {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
@@ -1203,21 +1233,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "published_at": "2026-05-12T23:05:32Z",
-      "description": "exploit for CVE-2026-42945",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
-      "source": "GitHub",
-      "stars": 531,
-      "user": "DepthFirstDisclosures"
-    },
-    {
       "title": "lillian039/ELF - GitHub Repository",
       "url": "https://github.com/lillian039/ELF",
       "published_at": "2026-05-11T14:44:10Z",
@@ -1229,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 533,
       "user": "lillian039"
     }
   ],
@@ -1765,6 +1780,21 @@
       "user": "Brus-Nockk"
     },
     {
+      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
+      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
+      "published_at": "2026-04-27T02:00:10Z",
+      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
+      "tags": [
+        "ai",
+        "llm",
+        "devtools",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
+      "source": "Dev.to",
+      "user": "Michael Larson"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1776,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2029,
+      "stars": 2038,
       "user": "huangserva"
     },
     {
@@ -1791,23 +1821,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 370,
       "user": "PrimeKeeper58"
-    },
-    {
-      "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
-      "url": "https://github.com/sleepinginsummer/agent-browser-cli",
-      "published_at": "2026-05-09T03:43:48Z",
-      "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "sleepinginsummer"
     },
     {
       "title": "killervillsy/SessionToJson - GitHub Repository",
@@ -1821,8 +1836,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68230308?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 189,
       "user": "killervillsy"
+    },
+    {
+      "title": "sleepinginsummer/agent-browser-cli - 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "url": "https://github.com/sleepinginsummer/agent-browser-cli",
+      "published_at": "2026-05-09T03:43:48Z",
+      "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
+      "source": "GitHub",
+      "stars": 188,
+      "user": "sleepinginsummer"
     },
     {
       "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
@@ -1836,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "Siigari"
     },
     {
@@ -1851,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 846,
       "user": "ywnd1144"
     },
     {
@@ -1866,8 +1896,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 667,
       "user": "TencentARC"
+    },
+    {
+      "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "published_at": "2026-05-12T23:05:32Z",
+      "description": "exploit for CVE-2026-42945",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
+      "source": "GitHub",
+      "stars": 543,
+      "user": "DepthFirstDisclosures"
     },
     {
       "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
@@ -1885,21 +1930,6 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "published_at": "2026-05-12T23:05:32Z",
-      "description": "exploit for CVE-2026-42945",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
-      "source": "GitHub",
-      "stars": 531,
-      "user": "DepthFirstDisclosures"
-    },
-    {
       "title": "lillian039/ELF - GitHub Repository",
       "url": "https://github.com/lillian039/ELF",
       "published_at": "2026-05-11T14:44:10Z",
@@ -1911,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 533,
       "user": "lillian039"
     },
     {
@@ -1926,8 +1956,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "tidwall"
+    },
+    {
+      "title": "BigDaddy3334/olcrtc-manager-panel - GitHub Repository",
+      "url": "https://github.com/BigDaddy3334/olcrtc-manager-panel",
+      "published_at": "2026-05-10T07:58:04Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
+      "source": "GitHub",
+      "stars": 57,
+      "user": "BigDaddy3334"
     },
     {
       "title": "rudrankriyam/Google-Health-CLI - Unofficial Google-Health-CLI for the Google Health API, written in Go",
@@ -1943,21 +1988,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "rudrankriyam"
-    },
-    {
-      "title": "BigDaddy3334/olcrtc-manager-panel - GitHub Repository",
-      "url": "https://github.com/BigDaddy3334/olcrtc-manager-panel",
-      "published_at": "2026-05-10T07:58:04Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
-      "source": "GitHub",
-      "stars": 56,
-      "user": "BigDaddy3334"
     },
     {
       "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
