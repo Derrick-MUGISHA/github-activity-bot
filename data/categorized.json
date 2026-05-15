@@ -45,21 +45,6 @@
       "user": "Xavier Portilla Edo"
     },
     {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "published_at": "2026-05-13T15:50:28Z",
-      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
-      "source": "Dev.to",
-      "user": "Eric D Johnson"
-    },
-    {
       "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
       "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
       "published_at": "2026-05-14T04:29:48Z",
@@ -205,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
+    },
+    {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
     },
     {
       "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
@@ -672,8 +672,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2006,
+      "stars": 2007,
       "user": "huangserva"
+    },
+    {
+      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "published_at": "2026-05-10T14:19:20Z",
+      "description": "Hentaihunter - How to steal your Doujinshi easily",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
+      "source": "GitHub",
+      "stars": 446,
+      "user": "TrueGunsmithFence"
     }
   ],
   "JavaScript": [
@@ -927,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2006,
+      "stars": 2007,
       "user": "huangserva"
     },
     {
@@ -942,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "PrimeKeeper58"
     },
     {
@@ -972,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 154,
       "user": "sleepinginsummer"
     },
     {
@@ -987,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "Siigari"
     }
   ],
@@ -1184,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 635,
       "user": "TencentARC"
     },
     {
@@ -1218,19 +1233,19 @@
       "user": "lillian039"
     },
     {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
+      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "published_at": "2026-05-10T14:19:20Z",
+      "description": "Hentaihunter - How to steal your Doujinshi easily",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 500,
-      "user": "AvenueSleuth"
+      "stars": 446,
+      "user": "TrueGunsmithFence"
     }
   ],
   "DevOps": [
@@ -1427,21 +1442,6 @@
   ],
   "Cloud": [
     {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "published_at": "2026-05-13T15:50:28Z",
-      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
-      "tags": [
-        "serverless",
-        "aws",
-        "lambda",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
-      "source": "Dev.to",
-      "user": "Eric D Johnson"
-    },
-    {
       "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
       "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
       "published_at": "2026-05-13T22:34:18Z",
@@ -1471,6 +1471,21 @@
       "user": "xbill"
     },
     {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -1484,21 +1499,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
-      "url": "https://github.com/openclaw/clickclack",
-      "published_at": "2026-05-08T03:11:04Z",
-      "description": "ClickClackClaw - The chat app with claws.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "openclaw"
     }
   ],
   "Database": [
@@ -1554,6 +1554,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "url": "https://github.com/davemorin/supacrawl",
+      "published_at": "2026-05-10T08:00:13Z",
+      "description": "Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "davemorin"
     }
   ],
   "Security": [
@@ -1806,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2006,
+      "stars": 2007,
       "user": "huangserva"
     },
     {
@@ -1821,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "PrimeKeeper58"
     },
     {
@@ -1851,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39239434?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 154,
       "user": "sleepinginsummer"
     },
     {
@@ -1866,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "Siigari"
     },
     {
@@ -1896,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 635,
       "user": "TencentARC"
     },
     {
@@ -1930,19 +1945,19 @@
       "user": "lillian039"
     },
     {
-      "title": "AvenueSleuth/delta-exec - Delta Exec scripting utility",
-      "url": "https://github.com/AvenueSleuth/delta-exec",
-      "published_at": "2026-05-08T20:10:42Z",
-      "description": "Delta Exec scripting utility",
+      "title": "TrueGunsmithFence/Hentaihunter - Hentaihunter - How to steal your Doujinshi easily",
+      "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+      "published_at": "2026-05-10T14:19:20Z",
+      "description": "Hentaihunter - How to steal your Doujinshi easily",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273872515?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273875654?v=4",
       "source": "GitHub",
-      "stars": 500,
-      "user": "AvenueSleuth"
+      "stars": 446,
+      "user": "TrueGunsmithFence"
     },
     {
       "title": "tidwall/btype - B-tree based collection types for Go",
@@ -1958,36 +1973,6 @@
       "source": "GitHub",
       "stars": 111,
       "user": "tidwall"
-    },
-    {
-      "title": "ozgurcd/gograph - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
-      "url": "https://github.com/ozgurcd/gograph",
-      "published_at": "2026-05-08T23:15:18Z",
-      "description": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2057185?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "ozgurcd"
-    },
-    {
-      "title": "openclaw/clickclack - ClickClackClaw - The chat app with claws.",
-      "url": "https://github.com/openclaw/clickclack",
-      "published_at": "2026-05-08T03:11:04Z",
-      "description": "ClickClackClaw - The chat app with claws.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252820863?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "openclaw"
     },
     {
       "title": "rudrankriyam/Google-Health-CLI - Unofficial Google-Health-CLI for the Google Health API, written in Go",
@@ -2018,6 +2003,36 @@
       "source": "GitHub",
       "stars": 56,
       "user": "BigDaddy3334"
+    },
+    {
+      "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "url": "https://github.com/davemorin/supacrawl",
+      "published_at": "2026-05-10T08:00:13Z",
+      "description": "Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "davemorin"
+    },
+    {
+      "title": "mizchi/pkfire - Typed task runner with Bazel-style incremental caching, configured in Pkl.",
+      "url": "https://github.com/mizchi/pkfire",
+      "published_at": "2026-05-10T10:33:32Z",
+      "description": "Typed task runner with Bazel-style incremental caching, configured in Pkl.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/73962?v=4",
+      "source": "GitHub",
+      "stars": 41,
+      "user": "mizchi"
     }
   ]
 }
