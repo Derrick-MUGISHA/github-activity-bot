@@ -177,20 +177,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
-      "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
-      "published_at": "2026-05-15T12:43:35Z",
-      "description": "Motivating seven-year-olds to complete their daily reading and handwriting practice is a classic...",
-      "tags": [
-        "ai",
-        "gemini",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
       "published_at": "2026-05-13T06:30:47Z",
@@ -351,20 +337,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
-      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6",
-      "published_at": "2026-05-14T14:10:49Z",
-      "description": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
-      "tags": [
-        "ai",
-        "gemma",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -376,36 +348,6 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "The Tech Giants Cannot Continue Like This: Why We Need an Opt-In Model and \"Pay-per-Citation\" by Law",
-      "url": "https://dev.to/jcarlosweb/the-tech-giants-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-4jgl",
-      "published_at": "2026-05-12T11:53:01Z",
-      "description": "A call for fair compensation, explicit consent, and data removal in the era of LLMs.",
-      "tags": [
-        "tech",
-        "opensource",
-        "webdev",
-        "ethics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmterf8a1t2bmh91555k.png",
-      "source": "Dev.to",
-      "user": "Carlos Campos"
-    },
-    {
-      "title": "Is Brain Float (bf16) Worth it?",
-      "url": "https://dev.to/gde/is-brain-float-worth-it-1lim",
-      "published_at": "2026-05-12T00:12:08Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  After some basic benchamarking -...",
-      "tags": [
-        "ai",
-        "devchallenge",
-        "llm",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsudk8hu19opai19xxuxe.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -438,6 +380,78 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
       "source": "Dev.to",
       "user": "Eric D Johnson"
+    },
+    {
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
+      "published_at": "2026-05-13T00:08:54Z",
+      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
+    {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
+    },
+    {
+      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
+      "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
+      "published_at": "2026-05-14T04:29:48Z",
+      "description": "In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...",
+      "tags": [
+        "webdev",
+        "performance",
+        "javascript",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
+      "source": "Dev.to",
+      "user": "GDS K S"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
+      "published_at": "2026-04-26T13:10:27Z",
+      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
+      "tags": [
+        "backend",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
+      "source": "Dev.to",
+      "user": "Rahmon Toyeeb"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -732,19 +746,19 @@
       "user": "Xavier Portilla Edo"
     },
     {
-      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
-      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
-      "published_at": "2026-05-14T10:02:32Z",
-      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
+      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
+      "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
+      "published_at": "2026-05-14T04:29:48Z",
+      "description": "In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...",
       "tags": [
-        "sideprojects",
         "webdev",
-        "ux",
-        "react"
+        "performance",
+        "javascript",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
       "source": "Dev.to",
-      "user": "Rahul Devaskar"
+      "user": "GDS K S"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -893,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "PrimeKeeper58"
     },
     {
@@ -908,7 +922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 200,
       "user": "boona13"
     },
     {
@@ -923,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -938,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "Siigari"
     }
   ],
@@ -1090,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "ywnd1144"
     },
     {
@@ -1105,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 793,
       "user": "TencentARC"
     },
     {
@@ -1120,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1257,6 +1271,34 @@
       "user": "Jane Ori"
     },
     {
+      "title": "I Love Tailwind. Sorry Not Sorry",
+      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
+      "published_at": "2026-05-04T08:54:09Z",
+      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
+      "tags": [
+        "css",
+        "tailwindcss",
+        "frontend",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
+      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
+      "published_at": "2026-04-26T13:10:27Z",
+      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
+      "tags": [
+        "backend",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
+      "source": "Dev.to",
+      "user": "Rahmon Toyeeb"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1341,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 200,
       "user": "boona13"
     }
   ],
@@ -1518,7 +1560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "aymanhs"
     },
     {
@@ -1551,21 +1593,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqi7fkdidff4j7wsfuaa.png",
       "source": "Dev.to",
       "user": "Karol Wrótniak"
-    },
-    {
-      "title": "MCP Configuration for Google Workspace with Gemini CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-gemini-cli-3nd2",
-      "published_at": "2026-05-11T01:14:46Z",
-      "description": "This article covers the MCP setup and configuration for using Google Workspace and underlying Gemini...",
-      "tags": [
-        "googleworkspace",
-        "oauth2",
-        "mcps",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmoj4thmw07tk3jvlksdl.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1715,21 +1742,6 @@
       "user": "Josh Saint Jacque"
     },
     {
-      "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
-      "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
-      "published_at": "2026-05-14T10:02:32Z",
-      "description": "How a year 3 NAPLAN cram session turned into a tool that grandparents now use to send quizzes over WhatsApp.",
-      "tags": [
-        "sideprojects",
-        "webdev",
-        "ux",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxd4s0j4vl8jtf9v2hmvw.png",
-      "source": "Dev.to",
-      "user": "Rahul Devaskar"
-    },
-    {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
       "published_at": "2026-05-05T05:21:20Z",
@@ -1759,6 +1771,21 @@
       "user": "Gavin Cettolo"
     },
     {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1785,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "PrimeKeeper58"
     },
     {
@@ -1800,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 200,
       "user": "boona13"
     },
     {
@@ -1815,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1830,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "Siigari"
     },
     {
@@ -1845,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "ywnd1144"
     },
     {
@@ -1860,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 793,
       "user": "TencentARC"
     },
     {
@@ -1875,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1920,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "tidwall"
     },
     {
@@ -1935,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "aymanhs"
     },
     {

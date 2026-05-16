@@ -28,15 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **Cloud**: 🟦🟦🟦🟦 8 (7.6%)
+
+**WebDev**: 🟦🟦🟦 6 (5.7%)
 
 **Mobile**: 🟦🟦 5 (4.8%)
 
@@ -44,9 +46,7 @@
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
-
-**Security**: 🟦 3 (2.9%)
+**Security**: 🟦 2 (1.9%)
 
 
 
@@ -60,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.1 (29.1%)
-Java            ████████████████████████ 23.3 (23.3%)
-Go              ██████████████████████ 20.9 (20.9%)
-Python          ███████████████████ 18.6 (18.6%)
-Rust            █████ 4.7 (4.7%)
-Kotlin          ████ 3.5 (3.5%)
+JavaScript      ██████████████████████████████ 28.4 (28.4%)
+Java            █████████████████████████ 23.9 (23.9%)
+Go              ███████████████████████ 21.6 (21.6%)
+Python          ███████████████████ 18.2 (18.2%)
+Rust            █████ 4.5 (4.5%)
+Kotlin          ████ 3.4 (3.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 25
-    "Java" : 20
-    "Go" : 18
+    "Java" : 21
+    "Go" : 19
     "Python" : 16
     "Rust" : 4
     "Kotlin" : 3
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-9-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-16 20:00 CAT)
+## 📅 Latest Updates (2026-05-16 21:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2) _[Dev.to]_
 - [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l) _[Dev.to]_
 
-_Last automated update: Sat, 16 May 2026 20:07:00 CAT_
+_Last automated update: Sat, 16 May 2026 21:31:56 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 16 May 2026 20:07:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Easy | **Topics**: data structures, mutability
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Mutability, performance, use cases
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Heap, stack, garbage collection
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 16 May 2026 18:07:00 GMT</b><br/>
+  <b>Last automated update: Sat, 16 May 2026 19:31:56 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
