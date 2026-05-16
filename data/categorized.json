@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
-      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
-      "published_at": "2026-05-15T14:31:00Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
-      "source": "Dev.to",
-      "user": "Vinicius F. Caridá"
-    },
-    {
       "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
       "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
       "published_at": "2026-05-15T12:43:35Z",
@@ -40,6 +26,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
       "source": "Dev.to",
       "user": "Luca Bianchi"
+    },
+    {
+      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
+      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
+      "published_at": "2026-05-15T14:31:00Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
+      "source": "Dev.to",
+      "user": "Vinicius F. Caridá"
     },
     {
       "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
@@ -307,21 +307,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
-      "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
-      "published_at": "2026-05-14T04:29:48Z",
-      "description": "In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
-    },
-    {
       "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
       "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
       "published_at": "2026-05-13T21:25:01Z",
@@ -410,19 +395,33 @@
       "user": "Jess Lee"
     },
     {
-      "title": "My fully offline AI-assisted Linux development machine",
-      "url": "https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl",
-      "published_at": "2026-05-11T20:47:59Z",
-      "description": "My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13",
+      "title": "Agent Factory Recap: How Gemma 4 Taught Itself Physics",
+      "url": "https://dev.to/googleai/agent-factory-recap-how-gemma-4-taught-itself-physics-17e6",
+      "published_at": "2026-05-14T14:10:49Z",
+      "description": "In this episode of The Agent Factory, Vlad Kolesnikov and I sat down with Omar Sanseviero from the...",
       "tags": [
-        "linux",
-        "archlinux",
-        "development",
-        "ai"
+        "ai",
+        "gemma",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdeepu.tech%2Fassets%2Fimages%2Flinux-2026%2Fmain.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgn07p9vjmfmx9xltwpro.png",
       "source": "Dev.to",
-      "user": "Deepu K Sasidharan"
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -580,7 +579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2070,
       "user": "huangserva"
     }
   ],
@@ -700,21 +699,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
-    },
-    {
-      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
-      "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
-      "published_at": "2026-05-14T04:29:48Z",
-      "description": "In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
     },
     {
       "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
@@ -878,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2070,
       "user": "huangserva"
     },
     {
@@ -893,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "PrimeKeeper58"
     },
     {
@@ -923,23 +907,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 147,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
-      "title": "kunchenguid/lavish-axi - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
-      "url": "https://github.com/kunchenguid/lavish-axi",
-      "published_at": "2026-05-11T18:19:29Z",
-      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "title": "Kappaemme-git/local-client-prospector-skill - GitHub Repository",
+      "url": "https://github.com/Kappaemme-git/local-client-prospector-skill",
+      "published_at": "2026-05-14T15:50:52Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 113,
-      "user": "kunchenguid"
+      "stars": 116,
+      "user": "Kappaemme-git"
     }
   ],
   "Python": [
@@ -1075,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 887,
       "user": "ywnd1144"
     },
     {
@@ -1090,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 759,
       "user": "TencentARC"
     },
     {
@@ -1105,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 620,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1120,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 561,
       "user": "lillian039"
     },
     {
@@ -1267,21 +1251,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "kunchenguid/lavish-axi - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
-      "url": "https://github.com/kunchenguid/lavish-axi",
-      "published_at": "2026-05-11T18:19:29Z",
-      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "kunchenguid"
     }
   ],
   "Mobile": [
@@ -1434,6 +1403,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1503,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "davemorin"
     }
   ],
@@ -1728,6 +1712,21 @@
       "user": "Ivan Porta"
     },
     {
+      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
+      "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5",
+      "published_at": "2026-05-12T07:30:00Z",
+      "description": "It was a Thursday afternoon when the Teams message came in.  A bug in production. A date formatting...",
+      "tags": [
+        "webdev",
+        "productivity",
+        "career",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1pq3iyqlw9w9fydcl7c.png",
+      "source": "Dev.to",
+      "user": "Gavin Cettolo"
+    },
+    {
       "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "url": "https://github.com/huangserva/3DCellForge",
       "published_at": "2026-05-10T10:34:50Z",
@@ -1739,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2070,
       "user": "huangserva"
     },
     {
@@ -1754,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "PrimeKeeper58"
     },
     {
@@ -1784,23 +1783,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 147,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
-      "title": "kunchenguid/lavish-axi - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
-      "url": "https://github.com/kunchenguid/lavish-axi",
-      "published_at": "2026-05-11T18:19:29Z",
-      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "title": "Kappaemme-git/local-client-prospector-skill - GitHub Repository",
+      "url": "https://github.com/Kappaemme-git/local-client-prospector-skill",
+      "published_at": "2026-05-14T15:50:52Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 113,
-      "user": "kunchenguid"
+      "stars": 116,
+      "user": "Kappaemme-git"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1814,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 887,
       "user": "ywnd1144"
     },
     {
@@ -1829,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 759,
       "user": "TencentARC"
     },
     {
@@ -1844,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 620,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1859,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 561,
       "user": "lillian039"
     },
     {
@@ -1889,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 168,
       "user": "tidwall"
     },
     {
@@ -1934,23 +1933,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "davemorin"
     },
     {
-      "title": "mizchi/pkfire - Typed task runner with Bazel-style incremental caching, configured in Pkl.",
-      "url": "https://github.com/mizchi/pkfire",
-      "published_at": "2026-05-10T10:33:32Z",
-      "description": "Typed task runner with Bazel-style incremental caching, configured in Pkl.",
+      "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
+      "url": "https://github.com/walkingddd/CPA-Helper",
+      "published_at": "2026-05-13T09:27:53Z",
+      "description": "CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/73962?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 41,
-      "user": "mizchi"
+      "stars": 44,
+      "user": "walkingddd"
     }
   ]
 }
