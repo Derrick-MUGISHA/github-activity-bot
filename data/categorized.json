@@ -116,21 +116,6 @@
       "user": "Xavier Portilla Edo"
     },
     {
-      "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
-      "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
-      "published_at": "2026-05-14T23:43:10Z",
-      "description": "Much of the modern software development lifecycle was built around code being expensive and hard to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
-      "source": "Dev.to",
-      "user": "Josh Saint Jacque"
-    },
-    {
       "title": "Giving AI agents knowledge they were never trained on",
       "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
       "published_at": "2026-05-14T22:02:53Z",
@@ -290,6 +275,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
+    },
+    {
+      "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
+      "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
+      "published_at": "2026-05-14T23:43:10Z",
+      "description": "Much of the modern software development lifecycle was built around code being expensive and hard to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
+      "source": "Dev.to",
+      "user": "Josh Saint Jacque"
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -595,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2078,
+      "stars": 2080,
       "user": "huangserva"
     }
   ],
@@ -627,21 +627,6 @@
       "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
-      "title": "Unity begone",
-      "url": "https://dev.to/sarthakganguly/unity-begone-56kc",
-      "published_at": "2026-05-14T18:19:42Z",
-      "description": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
-      "tags": [
-        "gamedev",
-        "unity3d",
-        "javascript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94ds4op5z2diyursl9xm.png",
-      "source": "Dev.to",
-      "user": "Sarthak Ganguly"
-    },
-    {
       "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
       "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
       "published_at": "2026-05-13T07:07:13Z",
@@ -655,6 +640,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Unity begone",
+      "url": "https://dev.to/sarthakganguly/unity-begone-56kc",
+      "published_at": "2026-05-14T18:19:42Z",
+      "description": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
+      "tags": [
+        "gamedev",
+        "unity3d",
+        "javascript",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94ds4op5z2diyursl9xm.png",
+      "source": "Dev.to",
+      "user": "Sarthak Ganguly"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -878,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2078,
+      "stars": 2080,
       "user": "huangserva"
     },
     {
@@ -893,23 +893,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 433,
       "user": "PrimeKeeper58"
-    },
-    {
-      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
-      "url": "https://github.com/Siigari/claude-heartbeat",
-      "published_at": "2026-05-13T19:08:36Z",
-      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "Siigari"
     },
     {
       "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -923,8 +908,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 158,
       "user": "POLYMARKET-TRADER-LAB"
+    },
+    {
+      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "url": "https://github.com/Siigari/claude-heartbeat",
+      "published_at": "2026-05-13T19:08:36Z",
+      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "Siigari"
     },
     {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
@@ -938,7 +938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 151,
       "user": "boona13"
     }
   ],
@@ -1090,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 894,
       "user": "ywnd1144"
     },
     {
@@ -1105,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 775,
       "user": "TencentARC"
     },
     {
@@ -1120,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1135,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 565,
       "user": "lillian039"
     },
     {
@@ -1341,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 151,
       "user": "boona13"
     }
   ],
@@ -1518,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "aymanhs"
     },
     {
@@ -1608,21 +1608,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
       "source": "Dev.to",
       "user": "S M Tahosin"
-    },
-    {
-      "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
-      "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
-      "published_at": "2026-05-14T23:43:10Z",
-      "description": "Much of the modern software development lifecycle was built around code being expensive and hard to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
-      "source": "Dev.to",
-      "user": "Josh Saint Jacque"
     },
     {
       "title": "Stop hand-writing IconData — introducing `icon_font_extractor`",
@@ -1715,6 +1700,21 @@
       "user": "Prakash"
     },
     {
+      "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
+      "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
+      "published_at": "2026-05-14T23:43:10Z",
+      "description": "Much of the modern software development lifecycle was built around code being expensive and hard to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
+      "source": "Dev.to",
+      "user": "Josh Saint Jacque"
+    },
+    {
       "title": "I built a quiz app with my 8-year-old to fix homework — and accidentally a family ritual",
       "url": "https://dev.to/apostopher/i-built-a-quiz-app-with-my-8-year-old-to-fix-homework-and-accidentally-a-family-ritual-1c1b",
       "published_at": "2026-05-14T10:02:32Z",
@@ -1770,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2078,
+      "stars": 2080,
       "user": "huangserva"
     },
     {
@@ -1785,23 +1785,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 433,
       "user": "PrimeKeeper58"
-    },
-    {
-      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
-      "url": "https://github.com/Siigari/claude-heartbeat",
-      "published_at": "2026-05-13T19:08:36Z",
-      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "Siigari"
     },
     {
       "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -1815,8 +1800,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 158,
       "user": "POLYMARKET-TRADER-LAB"
+    },
+    {
+      "title": "Siigari/claude-heartbeat - Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "url": "https://github.com/Siigari/claude-heartbeat",
+      "published_at": "2026-05-13T19:08:36Z",
+      "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "Siigari"
     },
     {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 151,
       "user": "boona13"
     },
     {
@@ -1845,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 894,
       "user": "ywnd1144"
     },
     {
@@ -1860,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 775,
       "user": "TencentARC"
     },
     {
@@ -1875,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1890,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 565,
       "user": "lillian039"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "aymanhs"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 50,
       "user": "walkingddd"
     }
   ]
