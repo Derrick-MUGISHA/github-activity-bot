@@ -234,20 +234,6 @@
       "user": "Anup Karanjkar"
     },
     {
-      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
-      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
-      "published_at": "2026-05-11T07:36:44Z",
-      "description": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal requests into structured, actionable engineering tasks with multi-agent support.",
-      "tags": [
-        "productivity",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h5ny91q0p762zbpin0y.png",
-      "source": "Dev.to",
-      "user": "Michael Nikitochkin"
-    },
-    {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
       "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
       "published_at": "2026-05-10T18:28:13Z",
@@ -439,6 +425,21 @@
       "user": "Raihan"
     },
     {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -594,7 +595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2074,
+      "stars": 2078,
       "user": "huangserva"
     }
   ],
@@ -877,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2074,
+      "stars": 2078,
       "user": "huangserva"
     },
     {
@@ -892,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "PrimeKeeper58"
     },
     {
@@ -922,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -937,7 +938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 131,
       "user": "boona13"
     }
   ],
@@ -1104,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 766,
       "user": "TencentARC"
     },
     {
@@ -1119,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1340,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 131,
       "user": "boona13"
     }
   ],
@@ -1448,6 +1449,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "published_at": "2026-05-13T15:50:28Z",
+      "description": "You've written this code before. An S3 event fires, your Lambda function wakes up, and the first...",
+      "tags": [
+        "serverless",
+        "aws",
+        "lambda",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
+      "source": "Dev.to",
+      "user": "Eric D Johnson"
     }
   ],
   "Database": [
@@ -1684,20 +1700,6 @@
       "user": "satyamsoni2211"
     },
     {
-      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
-      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
-      "published_at": "2026-05-11T07:36:44Z",
-      "description": "How an AI-driven workflow system helps volunteer engineering teams reduce onboarding friction by turning informal requests into structured, actionable engineering tasks with multi-agent support.",
-      "tags": [
-        "productivity",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h5ny91q0p762zbpin0y.png",
-      "source": "Dev.to",
-      "user": "Michael Nikitochkin"
-    },
-    {
       "title": "Playwright is Powerful, But Managing It at Scale? That's Another Story",
       "url": "https://dev.to/prakashm88/playwright-is-powerful-but-managing-it-at-scale-thats-another-story-2g37",
       "published_at": "2026-05-11T04:12:45Z",
@@ -1768,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2074,
+      "stars": 2078,
       "user": "huangserva"
     },
     {
@@ -1783,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "PrimeKeeper58"
     },
     {
@@ -1813,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 154,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1828,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 131,
       "user": "boona13"
     },
     {
@@ -1858,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 766,
       "user": "TencentARC"
     },
     {
@@ -1873,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1918,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "tidwall"
     },
     {
@@ -1948,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "BigDaddy3334"
     },
     {
