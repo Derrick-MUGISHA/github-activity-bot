@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.3%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **Cloud**: 🟦🟦🟦 7 (6.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**Mobile**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -62,8 +62,8 @@
 ```
 JavaScript      ██████████████████████████████ 29.4 (29.4%)
 Java            ████████████████████████ 23.5 (23.5%)
-Go              ██████████████████████ 21.2 (21.2%)
-Python          ██████████████████ 17.6 (17.6%)
+Go              ████████████████████ 20.0 (20.0%)
+Python          ███████████████████ 18.8 (18.8%)
 Rust            █████ 4.7 (4.7%)
 Kotlin          ████ 3.5 (3.5%)
 
@@ -73,8 +73,8 @@ Kotlin          ████ 3.5 (3.5%)
 pie title Programming Languages Distribution
     "JavaScript" : 25
     "Java" : 20
-    "Go" : 18
-    "Python" : 15
+    "Go" : 17
+    "Python" : 16
     "Rust" : 4
     "Kotlin" : 3
 ```
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-8-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![python](https://img.shields.io/badge/python-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-16 11:00 CAT)
+## 📅 Latest Updates (2026-05-16 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -205,16 +205,16 @@ npm run test
 - [Deploying a Rust MCP Server to Azure Functions](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg) _[Dev.to]_
 - [Building Simple Tabs with Vanilla JavaScript](https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n) _[Dev.to]_
 - [The Loading Screen](https://dev.to/gde/the-loading-screen-1ka8) _[Dev.to]_
-- [Bypassing User Isolation on Android with a Screen Reader](https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
-- [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b) _[Dev.to]_
 - [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) _[Dev.to]_
 - [Code Got Cheaper. Our Rituals Didn’t Notice.](https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491) _[Dev.to]_
 - [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc) _[Dev.to]_
+- [Join the Hermes Agent Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd) _[Dev.to]_
+- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
 
-_Last automated update: Sat, 16 May 2026 11:56:46 CAT_
+_Last automated update: Sat, 16 May 2026 13:02:33 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 16 May 2026 11:56:46 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 16 May 2026 09:56:46 GMT</b><br/>
+  <b>Last automated update: Sat, 16 May 2026 11:02:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

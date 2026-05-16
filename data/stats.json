@@ -6,37 +6,37 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 42,
+    "AI": 43,
     "JavaScript": 25,
-    "Python": 15,
-    "DevOps": 5,
+    "Python": 16,
+    "DevOps": 4,
     "WebDev": 4,
-    "Mobile": 4,
+    "Mobile": 5,
     "Cloud": 7,
     "Database": 5,
     "Security": 3,
     "Tools": 28
   },
   "by_language": {
-    "Go": 18,
+    "Go": 17,
     "Kotlin": 3,
     "Rust": 4,
     "JavaScript": 25,
     "Java": 20,
-    "Python": 15
+    "Python": 16
   },
   "by_date": {
     "2026-05-15": 14,
     "2026-05-14": 18,
-    "2026-05-13": 16,
-    "2026-05-12": 5,
-    "2026-05-11": 6,
+    "2026-05-13": 14,
+    "2026-05-11": 7,
     "2026-05-10": 7,
     "2026-05-08": 2,
     "2026-05-07": 3,
     "2026-05-06": 2,
     "2026-05-05": 3,
     "2026-05-04": 1,
+    "2026-05-12": 6,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -66,34 +66,34 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
-    "devchallenge": 10,
+    "devchallenge": 11,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "gemmachallenge": 9,
     "javascript": 9,
-    "agents": 8,
-    "gemmachallenge": 8,
+    "webdev": 8,
     "gemma": 8,
-    "webdev": 7,
+    "agents": 7,
     "productivity": 6,
-    "gemini": 5,
-    "python": 5,
+    "python": 6,
     "go": 5,
+    "gemini": 4,
     "programming": 4,
     "react": 4,
-    "discuss": 3,
-    "learning": 3
+    "opensource": 4,
+    "discuss": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "21.2",
+    "Go": "20.0",
     "Kotlin": "3.5",
     "Rust": "4.7",
     "JavaScript": "29.4",
     "Java": "23.5",
-    "Python": "17.6"
+    "Python": "18.8"
   }
 }
