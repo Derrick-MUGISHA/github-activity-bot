@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-102-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-16-orange)
 
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (43.1%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (25.5%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.5%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.7%)
 
-**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
+**Cloud**: 🟦🟦🟦🟦 8 (7.8%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 5 (4.9%)
 
-**Mobile**: 🟦🟦 5 (4.8%)
+**Mobile**: 🟦🟦 5 (4.9%)
 
-**Database**: 🟦🟦 5 (4.8%)
+**Database**: 🟦🟦 5 (4.9%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.9%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 57 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,19 +60,19 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6 (27.6%)
-Java            ██████████████████████████ 24.1 (24.1%)
-Go              ████████████████████████ 21.8 (21.8%)
-Python          ████████████████████ 18.4 (18.4%)
-Rust            █████ 4.6 (4.6%)
-Kotlin          ████ 3.4 (3.4%)
+JavaScript      ██████████████████████████████ 27.1 (27.1%)
+Java            ██████████████████████████ 23.5 (23.5%)
+Go              █████████████████████████ 22.4 (22.4%)
+Python          █████████████████████ 18.8 (18.8%)
+Rust            █████ 4.7 (4.7%)
+Kotlin          ████ 3.5 (3.5%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 21
+    "JavaScript" : 23
+    "Java" : 20
     "Go" : 19
     "Python" : 16
     "Rust" : 4
@@ -83,7 +83,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-9-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-8-blue) ![gemma](https://img.shields.io/badge/gemma-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-17 0:00 CAT)
+## 📅 Latest Updates (2026-05-17 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -160,15 +160,6 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png" width="200" alt="GemmaFin - Breaking the Cycle of Debt with Conversational AI" />
-      <br/>
-      <b>GemmaFin - Breaking the Cycle of Debt with Convers...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjcnn5bonin83i7xc23bg.png" width="200" alt="Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform" />
       <br/>
@@ -186,6 +177,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png" width="200" alt="Deploying a Rust MCP Server to Azure Functions" />
+      <br/>
+      <b>Deploying a Rust MCP Server to Azure Functions</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -196,11 +196,9 @@ npm run test
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l) _[Dev.to]_
 - [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0) _[Dev.to]_
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
-- [GemmaFin - Breaking the Cycle of Debt with Conversational AI](https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n) _[Dev.to]_
 - [Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform](https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg) _[Dev.to]_
 - [Deploying a Rust MCP Server to Azure ACI](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb) _[Dev.to]_
 - [Deploying a Rust MCP Server to Azure Functions](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg) _[Dev.to]_
-- [Building Simple Tabs with Vanilla JavaScript](https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n) _[Dev.to]_
 - [The Loading Screen](https://dev.to/gde/the-loading-screen-1ka8) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
@@ -208,13 +206,15 @@ npm run test
 - [onclick is great, actually](https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p) _[Dev.to]_
 - [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3) _[Dev.to]_
 - [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc) _[Dev.to]_
-- [Join the Hermes Agent Challenge: $1,000 in Prizes!](https://dev.to/devteam/join-the-hermes-agent-challenge-1000-in-prizes-13cd) _[Dev.to]_
 - [Bypassing User Isolation on Android with a Screen Reader](https://dev.to/gdg/bypassing-user-isolation-on-android-with-a-screen-reader-3k72) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 - [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2) _[Dev.to]_
 - [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l) _[Dev.to]_
+- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
+- [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
+- [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) _[Dev.to]_
 
-_Last automated update: Sun, 17 May 2026 00:09:19 CAT_
+_Last automated update: Sun, 17 May 2026 01:08:01 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 17 May 2026 00:09:19 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Execution timing, event loop phases
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 16 May 2026 22:09:19 GMT</b><br/>
+  <b>Last automated update: Sat, 16 May 2026 23:08:01 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
