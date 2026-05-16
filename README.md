@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-16 19:00 CAT)
+## 📅 Latest Updates (2026-05-16 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2) _[Dev.to]_
 - [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l) _[Dev.to]_
 
-_Last automated update: Sat, 16 May 2026 19:13:33 CAT_
+_Last automated update: Sat, 16 May 2026 20:07:00 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 16 May 2026 19:13:33 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Mutability, performance, use cases
 
 </details>
 
-### 2. SystemDesign: Design a URL shortening service like bit.ly
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 16 May 2026 17:13:33 GMT</b><br/>
+  <b>Last automated update: Sat, 16 May 2026 18:07:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
