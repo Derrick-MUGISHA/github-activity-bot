@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-16 23:00 CAT)
+## 📅 Latest Updates (2026-05-17 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -214,7 +214,7 @@ npm run test
 - [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2) _[Dev.to]_
 - [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l) _[Dev.to]_
 
-_Last automated update: Sat, 16 May 2026 23:23:58 CAT_
+_Last automated update: Sun, 17 May 2026 00:09:19 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sat, 16 May 2026 23:23:58 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Heap, stack, garbage collection
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. React: Implement a custom hook for fetching data
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Medium | **Topics**: hooks, async
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+useState, useEffect, loading states, error handling
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 16 May 2026 21:23:58 GMT</b><br/>
+  <b>Last automated update: Sat, 16 May 2026 22:09:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
