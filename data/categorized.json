@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
+      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
+      "published_at": "2026-05-15T14:31:00Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
+      "source": "Dev.to",
+      "user": "Vinicius F. Caridá"
+    },
+    {
       "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
       "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
       "published_at": "2026-05-15T12:43:35Z",
@@ -26,20 +40,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fuploads.postiz.com%2F6cfe257267674666b1656e5e8f4b2f8d.jpg",
       "source": "Dev.to",
       "user": "Luca Bianchi"
-    },
-    {
-      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
-      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
-      "published_at": "2026-05-15T14:31:00Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
-      "source": "Dev.to",
-      "user": "Vinicius F. Caridá"
     },
     {
       "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
@@ -580,23 +580,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2065,
       "user": "huangserva"
-    },
-    {
-      "title": "863401402/image-provenance - AI image detector and watermark disruption toolkit (client-side, WIP)",
-      "url": "https://github.com/863401402/image-provenance",
-      "published_at": "2026-05-12T02:02:49Z",
-      "description": "AI image detector and watermark disruption toolkit (client-side, WIP)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84736222?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "863401402"
     }
   ],
   "JavaScript": [
@@ -893,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2065,
       "user": "huangserva"
     },
     {
@@ -908,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "PrimeKeeper58"
     },
     {
@@ -938,23 +923,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 129,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
-      "title": "863401402/image-provenance - AI image detector and watermark disruption toolkit (client-side, WIP)",
-      "url": "https://github.com/863401402/image-provenance",
-      "published_at": "2026-05-12T02:02:49Z",
-      "description": "AI image detector and watermark disruption toolkit (client-side, WIP)",
+      "title": "kunchenguid/lavish-axi - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "url": "https://github.com/kunchenguid/lavish-axi",
+      "published_at": "2026-05-11T18:19:29Z",
+      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84736222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 109,
-      "user": "863401402"
+      "stars": 112,
+      "user": "kunchenguid"
     }
   ],
   "Python": [
@@ -1090,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 880,
       "user": "ywnd1144"
     },
     {
@@ -1105,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 738,
       "user": "TencentARC"
     },
     {
@@ -1120,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 611,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1135,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "lillian039"
     },
     {
@@ -1282,6 +1267,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "kunchenguid/lavish-axi - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "url": "https://github.com/kunchenguid/lavish-axi",
+      "published_at": "2026-05-11T18:19:29Z",
+      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "source": "GitHub",
+      "stars": 112,
+      "user": "kunchenguid"
     }
   ],
   "Mobile": [
@@ -1488,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 90,
       "user": "aymanhs"
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2065,
       "user": "huangserva"
     },
     {
@@ -1754,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 410,
       "user": "PrimeKeeper58"
     },
     {
@@ -1784,23 +1784,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 129,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
-      "title": "863401402/image-provenance - AI image detector and watermark disruption toolkit (client-side, WIP)",
-      "url": "https://github.com/863401402/image-provenance",
-      "published_at": "2026-05-12T02:02:49Z",
-      "description": "AI image detector and watermark disruption toolkit (client-side, WIP)",
+      "title": "kunchenguid/lavish-axi - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "url": "https://github.com/kunchenguid/lavish-axi",
+      "published_at": "2026-05-11T18:19:29Z",
+      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84736222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 109,
-      "user": "863401402"
+      "stars": 112,
+      "user": "kunchenguid"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 880,
       "user": "ywnd1144"
     },
     {
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 738,
       "user": "TencentARC"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 611,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "lillian039"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 163,
       "user": "tidwall"
     },
     {
@@ -1904,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 90,
       "user": "aymanhs"
     },
     {
