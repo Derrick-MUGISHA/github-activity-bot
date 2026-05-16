@@ -177,6 +177,20 @@
       "user": "xbill"
     },
     {
+      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
+      "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
+      "published_at": "2026-05-15T12:43:35Z",
+      "description": "Motivating seven-year-olds to complete their daily reading and handwriting practice is a classic...",
+      "tags": [
+        "ai",
+        "gemini",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
       "published_at": "2026-05-13T06:30:47Z",
@@ -609,7 +623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2087,
+      "stars": 2088,
       "user": "huangserva"
     }
   ],
@@ -699,21 +713,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3la0uzq5nsv6f3tr4pp2.png",
       "source": "Dev.to",
       "user": "Nicolás Giacconi"
-    },
-    {
-      "title": "Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser",
-      "url": "https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l",
-      "published_at": "2026-05-13T18:54:57Z",
-      "description": "No installs. No accounts. No cost. A full-featured vector design editor built with Leafer UI and React.",
-      "tags": [
-        "design",
-        "opensource",
-        "webdev",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq97yl8txa4s1kob164u5.png",
-      "source": "Dev.to",
-      "user": "fayismahmood"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -892,7 +891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2087,
+      "stars": 2088,
       "user": "huangserva"
     },
     {
@@ -907,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "PrimeKeeper58"
     },
     {
@@ -922,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 208,
       "user": "boona13"
     },
     {
@@ -1149,7 +1148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "lillian039"
     },
     {
@@ -1383,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 208,
       "user": "boona13"
     }
   ],
@@ -1560,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "aymanhs"
     },
     {
@@ -1575,7 +1574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "davemorin"
     }
   ],
@@ -1605,6 +1604,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "internetkafe/deathcore - High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
+      "url": "https://github.com/internetkafe/deathcore",
+      "published_at": "2026-05-11T10:00:12Z",
+      "description": "High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "internetkafe"
     }
   ],
   "Tools": [
@@ -1652,21 +1666,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
       "source": "Dev.to",
       "user": "Vinicius Brasil"
-    },
-    {
-      "title": "Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser",
-      "url": "https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l",
-      "published_at": "2026-05-13T18:54:57Z",
-      "description": "No installs. No accounts. No cost. A full-featured vector design editor built with Leafer UI and React.",
-      "tags": [
-        "design",
-        "opensource",
-        "webdev",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq97yl8txa4s1kob164u5.png",
-      "source": "Dev.to",
-      "user": "fayismahmood"
     },
     {
       "title": "Gemma4 Speculative Decoding with n-gram",
@@ -1797,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
       "source": "GitHub",
-      "stars": 2087,
+      "stars": 2088,
       "user": "huangserva"
     },
     {
@@ -1812,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "PrimeKeeper58"
     },
     {
@@ -1827,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 208,
       "user": "boona13"
     },
     {
@@ -1917,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "lillian039"
     },
     {
@@ -1947,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "tidwall"
     },
     {
@@ -1962,8 +1961,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "aymanhs"
+    },
+    {
+      "title": "internetkafe/deathcore - High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
+      "url": "https://github.com/internetkafe/deathcore",
+      "published_at": "2026-05-11T10:00:12Z",
+      "description": "High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "internetkafe"
     },
     {
       "title": "BigDaddy3334/olcrtc-manager-panel - GitHub Repository",
@@ -1992,23 +2006,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "davemorin"
-    },
-    {
-      "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
-      "url": "https://github.com/walkingddd/CPA-Helper",
-      "published_at": "2026-05-13T09:27:53Z",
-      "description": "CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
-      "source": "GitHub",
-      "stars": 51,
-      "user": "walkingddd"
     }
   ]
 }
