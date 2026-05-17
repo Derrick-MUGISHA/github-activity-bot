@@ -220,6 +220,20 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
+      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
+      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
+      "published_at": "2026-05-15T14:31:00Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
+      "source": "Dev.to",
+      "user": "Vinicius F. Caridá"
+    },
+    {
       "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
       "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
       "published_at": "2026-05-13T21:25:01Z",
@@ -598,19 +612,49 @@
       "user": "indigodaddy"
     },
     {
-      "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
-      "url": "https://github.com/huangserva/3DCellForge",
-      "published_at": "2026-05-10T10:34:50Z",
-      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
+      "title": "JUk1-GH/gpt-promo-scanner - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+      "url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+      "published_at": "2026-05-11T04:42:18Z",
+      "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/236887312?v=4",
       "source": "GitHub",
-      "stars": 2090,
-      "user": "huangserva"
+      "stars": 501,
+      "user": "JUk1-GH"
+    },
+    {
+      "title": "open-gitagent/langship.sh - The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
+      "url": "https://github.com/open-gitagent/langship.sh",
+      "published_at": "2026-05-11T13:56:55Z",
+      "description": "The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263700766?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "open-gitagent"
+    },
+    {
+      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "published_at": "2026-05-12T02:49:33Z",
+      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
+      "source": "GitHub",
+      "stars": 41,
+      "user": "Asymptote-Labs"
     }
   ],
   "JavaScript": [
@@ -716,6 +760,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Building Simple Tabs with Vanilla JavaScript",
+      "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
+      "published_at": "2026-05-15T11:26:06Z",
+      "description": "Tabs are one of those UI patterns you see everywhere — dashboards, settings pages, pricing sections,...",
+      "tags": [
+        "javascript",
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
+      "source": "Dev.to",
+      "user": "Razvan Zamfir"
     },
     {
       "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
@@ -853,21 +910,6 @@
       "user": "velmu"
     },
     {
-      "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
-      "url": "https://github.com/huangserva/3DCellForge",
-      "published_at": "2026-05-10T10:34:50Z",
-      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
-      "source": "GitHub",
-      "stars": 2090,
-      "user": "huangserva"
-    },
-    {
       "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
       "url": "https://github.com/PrimeKeeper58/blooket-hacks",
       "published_at": "2026-05-13T22:45:27Z",
@@ -894,7 +936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "boona13"
     },
     {
@@ -909,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -926,6 +968,21 @@
       "source": "GitHub",
       "stars": 160,
       "user": "Siigari"
+    },
+    {
+      "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "url": "https://github.com/arbitrageBot-group/Polymarket-trading-bot",
+      "published_at": "2026-05-14T19:28:03Z",
+      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "arbitrageBot-group"
     }
   ],
   "Python": [
@@ -1080,21 +1137,6 @@
       "user": "ywnd1144"
     },
     {
-      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "url": "https://github.com/TencentARC/Pixal3D",
-      "published_at": "2026-05-10T15:35:28Z",
-      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
-      "source": "GitHub",
-      "stars": 797,
-      "user": "TencentARC"
-    },
-    {
       "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
       "published_at": "2026-05-12T23:05:32Z",
@@ -1138,6 +1180,21 @@
       "source": "GitHub",
       "stars": 534,
       "user": "patchfighterway90"
+    },
+    {
+      "title": "JUk1-GH/gpt-promo-scanner - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+      "url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+      "published_at": "2026-05-11T04:42:18Z",
+      "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/236887312?v=4",
+      "source": "GitHub",
+      "stars": 501,
+      "user": "JUk1-GH"
     }
   ],
   "DevOps": [
@@ -1214,6 +1271,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
       "source": "Dev.to",
       "user": "𒎏Wii 🏳️‍⚧️"
+    },
+    {
+      "title": "Building Simple Tabs with Vanilla JavaScript",
+      "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
+      "published_at": "2026-05-15T11:26:06Z",
+      "description": "Tabs are one of those UI patterns you see everywhere — dashboards, settings pages, pricing sections,...",
+      "tags": [
+        "javascript",
+        "css"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
+      "source": "Dev.to",
+      "user": "Razvan Zamfir"
     },
     {
       "title": "CSS - The single coolest API technique you can imagine.",
@@ -1342,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "boona13"
     }
   ],
@@ -1521,21 +1591,6 @@
       "source": "GitHub",
       "stars": 99,
       "user": "aymanhs"
-    },
-    {
-      "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
-      "url": "https://github.com/davemorin/supacrawl",
-      "published_at": "2026-05-10T08:00:13Z",
-      "description": "Mirror Supabase/Postgres into local SQLite for search and offline analysis",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
-      "source": "GitHub",
-      "stars": 55,
-      "user": "davemorin"
     }
   ],
   "Security": [
@@ -1577,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 141,
       "user": "internetkafe"
     }
   ],
@@ -1745,21 +1800,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
-      "url": "https://github.com/huangserva/3DCellForge",
-      "published_at": "2026-05-10T10:34:50Z",
-      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/201197786?v=4",
-      "source": "GitHub",
-      "stars": 2090,
-      "user": "huangserva"
-    },
-    {
       "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
       "url": "https://github.com/PrimeKeeper58/blooket-hacks",
       "published_at": "2026-05-13T22:45:27Z",
@@ -1786,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "boona13"
     },
     {
@@ -1801,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1820,6 +1860,21 @@
       "user": "Siigari"
     },
     {
+      "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "url": "https://github.com/arbitrageBot-group/Polymarket-trading-bot",
+      "published_at": "2026-05-14T19:28:03Z",
+      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
+      "source": "GitHub",
+      "stars": 146,
+      "user": "arbitrageBot-group"
+    },
+    {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
       "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
       "published_at": "2026-05-12T11:29:47Z",
@@ -1833,21 +1888,6 @@
       "source": "GitHub",
       "stars": 901,
       "user": "ywnd1144"
-    },
-    {
-      "title": "TencentARC/Pixal3D - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "url": "https://github.com/TencentARC/Pixal3D",
-      "published_at": "2026-05-10T15:35:28Z",
-      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83739826?v=4",
-      "source": "GitHub",
-      "stars": 797,
-      "user": "TencentARC"
     },
     {
       "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
@@ -1895,19 +1935,19 @@
       "user": "patchfighterway90"
     },
     {
-      "title": "tidwall/btype - B-tree based collection types for Go",
-      "url": "https://github.com/tidwall/btype",
-      "published_at": "2026-05-10T13:52:32Z",
-      "description": "B-tree based collection types for Go",
+      "title": "JUk1-GH/gpt-promo-scanner - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+      "url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+      "published_at": "2026-05-11T04:42:18Z",
+      "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1156077?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/236887312?v=4",
       "source": "GitHub",
-      "stars": 181,
-      "user": "tidwall"
+      "stars": 501,
+      "user": "JUk1-GH"
     },
     {
       "title": "internetkafe/deathcore - High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
@@ -1921,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 141,
       "user": "internetkafe"
     },
     {
@@ -1940,34 +1980,49 @@
       "user": "aymanhs"
     },
     {
-      "title": "BigDaddy3334/olcrtc-manager-panel - GitHub Repository",
-      "url": "https://github.com/BigDaddy3334/olcrtc-manager-panel",
-      "published_at": "2026-05-10T07:58:04Z",
-      "description": "Trending GitHub Repository",
+      "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
+      "url": "https://github.com/walkingddd/CPA-Helper",
+      "published_at": "2026-05-13T09:27:53Z",
+      "description": "CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283338750?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 65,
-      "user": "BigDaddy3334"
+      "stars": 52,
+      "user": "walkingddd"
     },
     {
-      "title": "davemorin/supacrawl - Mirror Supabase/Postgres into local SQLite for search and offline analysis",
-      "url": "https://github.com/davemorin/supacrawl",
-      "published_at": "2026-05-10T08:00:13Z",
-      "description": "Mirror Supabase/Postgres into local SQLite for search and offline analysis",
+      "title": "open-gitagent/langship.sh - The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
+      "url": "https://github.com/open-gitagent/langship.sh",
+      "published_at": "2026-05-11T13:56:55Z",
+      "description": "The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78139?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263700766?v=4",
       "source": "GitHub",
-      "stars": 55,
-      "user": "davemorin"
+      "stars": 47,
+      "user": "open-gitagent"
+    },
+    {
+      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "published_at": "2026-05-12T02:49:33Z",
+      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
+      "source": "GitHub",
+      "stars": 41,
+      "user": "Asymptote-Labs"
     }
   ]
 }
