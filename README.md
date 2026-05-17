@@ -123,7 +123,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-17 2:00 CAT)
+## 📅 Latest Updates (2026-05-17 6:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -140,15 +140,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png" width="200" alt="Through the Blue Frames: UX From Google Glass to Gemini" />
-      <br/>
-      <b>Through the Blue Frames: UX From Google Glass to G...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png" width="200" alt="My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why." />
       <br/>
@@ -157,31 +148,40 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/the-loading-screen-1ka8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwba3jcuhws461p6rb3ko.png" width="200" alt="The Loading Screen" />
+      <br/>
+      <b>The Loading Screen</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjcnn5bonin83i7xc23bg.png" width="200" alt="Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform" />
+    <a href="https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcf5ybdiah0l3pzmlyjud.png" width="200" alt="Some Notes on OMO Orchestrator Claude Alternatives" />
       <br/>
-      <b>Gemini 3.1 Flash-Lite is now generally available o...</b>
+      <b>Some Notes on OMO Orchestrator Claude Alternatives</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png" width="200" alt="Deploying a Rust MCP Server to Azure ACI" />
+    <a href="https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faothqiyg4rjotxj5q8an.png" width="200" alt="Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp" />
       <br/>
-      <b>Deploying a Rust MCP Server to Azure ACI</b>
+      <b>Building a Local-First Hotel Receptionist with Gem...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png" width="200" alt="Deploying a Rust MCP Server to Azure Functions" />
+    <a href="https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png" width="200" alt="Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines" />
       <br/>
-      <b>Deploying a Rust MCP Server to Azure Functions</b>
+      <b>Genkit Middleware: Intercept, Extend and Harden yo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -194,11 +194,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l) _[Dev.to]_
-- [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0) _[Dev.to]_
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
-- [Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform](https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg) _[Dev.to]_
-- [Deploying a Rust MCP Server to Azure ACI](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb) _[Dev.to]_
-- [Deploying a Rust MCP Server to Azure Functions](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg) _[Dev.to]_
 - [The Loading Screen](https://dev.to/gde/the-loading-screen-1ka8) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
@@ -213,8 +209,12 @@ npm run test
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
 - [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6) _[Dev.to]_
+- [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
+- [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
+- [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
+- [Gemma4 Speculative Decoding with n-gram](https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b) _[Dev.to]_
 
-_Last automated update: Sun, 17 May 2026 02:07:39 CAT_
+_Last automated update: Sun, 17 May 2026 06:21:21 CAT_
 
 
 
@@ -222,36 +222,36 @@ _Last automated update: Sun, 17 May 2026 02:07:39 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -285,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 17 May 2026 00:07:39 GMT</b><br/>
+  <b>Last automated update: Sun, 17 May 2026 04:21:21 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
