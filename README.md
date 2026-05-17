@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-17 19:00 CAT)
+## 📅 Latest Updates (2026-05-17 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
 - [You don't 3D print a house. You print your tools.](https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00) _[Dev.to]_
 
-_Last automated update: Sun, 17 May 2026 19:41:04 CAT_
+_Last automated update: Sun, 17 May 2026 20:43:36 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Sun, 17 May 2026 19:41:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: Design a database schema for a social media platform
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Execution timing, event loop phases
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. React: What is the Virtual DOM and how does React use it?
+### 3. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: rendering, performance
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Diffing algorithm, reconciliation, efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 17 May 2026 17:41:04 GMT</b><br/>
+  <b>Last automated update: Sun, 17 May 2026 18:43:36 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
