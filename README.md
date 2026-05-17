@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-17 23:00 CAT)
+## 📅 Latest Updates (2026-05-18 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [You don't 3D print a house. You print your tools.](https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Sun, 17 May 2026 23:40:10 CAT_
+_Last automated update: Mon, 18 May 2026 00:36:09 CAT_
 
 
 
@@ -224,18 +224,29 @@ _Last automated update: Sun, 17 May 2026 23:40:10 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Database: What is database normalization and denormalization?
+
+**Difficulty**: Medium | **Topics**: design, optimization
+
+<details>
+<summary>💡 Hint</summary>
+
+Normal forms, redundancy, performance trade-offs
+
+</details>
+
+### 3. DataStructures: Implement LRU Cache
 
 **Difficulty**: Hard | **Topics**: design, hash map, linked list
 
@@ -243,17 +254,6 @@ Hash function, database design, caching, analytics
 <summary>💡 Hint</summary>
 
 Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 3. Python: What are generators and when would you use them?
-
-**Difficulty**: Medium | **Topics**: iterators, memory
-
-<details>
-<summary>💡 Hint</summary>
-
-yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 17 May 2026 21:40:10 GMT</b><br/>
+  <b>Last automated update: Sun, 17 May 2026 22:36:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
