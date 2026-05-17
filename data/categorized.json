@@ -133,21 +133,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Gemma4 Speculative Decoding with n-gram",
-      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b",
-      "published_at": "2026-05-13T19:29:03Z",
-      "description": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
       "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
       "published_at": "2026-05-15T12:43:35Z",
@@ -219,34 +204,6 @@
       "user": "Vinicius F. Caridá"
     },
     {
-      "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
-      "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
-      "published_at": "2026-05-13T21:25:01Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
-      "source": "Dev.to",
-      "user": "Vinicius F. Caridá"
-    },
-    {
-      "title": "Vibe Coding, Demystified",
-      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
-      "published_at": "2026-05-14T20:04:04Z",
-      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
-      "tags": [
-        "vibecoding",
-        "learning",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
       "published_at": "2026-05-08T06:39:25Z",
@@ -275,6 +232,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
       "source": "Dev.to",
       "user": "Josh Saint Jacque"
+    },
+    {
+      "title": "Vibe Coding, Demystified",
+      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
+      "published_at": "2026-05-14T20:04:04Z",
+      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
+      "tags": [
+        "vibecoding",
+        "learning",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -623,7 +594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/236887312?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 506,
       "user": "JUk1-GH"
     },
     {
@@ -653,26 +624,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "Asymptote-Labs"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-      "published_at": "2026-05-13T07:07:13Z",
-      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "tags": [
-        "webdev",
-        "nextjs",
-        "sideprojects",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
     {
       "title": "Unity begone",
       "url": "https://dev.to/sarthakganguly/unity-begone-56kc",
@@ -908,7 +864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "PrimeKeeper58"
     },
     {
@@ -923,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 453,
       "user": "boona13"
     },
     {
@@ -938,7 +894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 199,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -953,7 +909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 190,
       "user": "arbitrageBot-group"
     },
     {
@@ -1120,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 912,
       "user": "ywnd1144"
     },
     {
@@ -1135,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1150,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "lillian039"
     },
     {
@@ -1180,7 +1136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/236887312?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 506,
       "user": "JUk1-GH"
     }
   ],
@@ -1386,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 453,
       "user": "boona13"
     }
   ],
@@ -1657,21 +1613,6 @@
       "user": "Vinicius Brasil"
     },
     {
-      "title": "Gemma4 Speculative Decoding with n-gram",
-      "url": "https://dev.to/gde/gemma4-speculative-decoding-with-n-gram-1c9b",
-      "published_at": "2026-05-13T19:29:03Z",
-      "description": "Using the MCP Toolset for benchmarking- the 26B MOE Gemma4 model was updated with ngram speculative...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzddug2kk7v7nbvzeuqyd.webp",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "You don't 3D print a house. You print your tools.",
       "url": "https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00",
       "published_at": "2026-05-15T12:17:19Z",
@@ -1785,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "PrimeKeeper58"
     },
     {
@@ -1800,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 453,
       "user": "boona13"
     },
     {
@@ -1815,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 199,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1830,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 190,
       "user": "arbitrageBot-group"
     },
     {
@@ -1860,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 912,
       "user": "ywnd1144"
     },
     {
@@ -1875,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1890,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "lillian039"
     },
     {
@@ -1920,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/236887312?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 506,
       "user": "JUk1-GH"
     },
     {
@@ -1965,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 54,
       "user": "walkingddd"
     },
     {
@@ -1995,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "Asymptote-Labs"
     }
   ]
