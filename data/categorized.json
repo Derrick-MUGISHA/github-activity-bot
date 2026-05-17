@@ -278,6 +278,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
+      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
+      "published_at": "2026-05-14T06:23:32Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  Running modern AI models locally...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -422,6 +437,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
       "source": "Dev.to",
       "user": "Fomin Vasyl"
+    },
+    {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -686,6 +716,21 @@
       "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -817,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 552,
       "user": "boona13"
     },
     {
@@ -832,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 487,
       "user": "PrimeKeeper58"
     },
     {
@@ -1044,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 667,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1074,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "facebookresearch"
     },
     {
@@ -1089,7 +1134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 581,
       "user": "Kappaemme-git"
     }
   ],
@@ -1323,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 552,
       "user": "boona13"
     }
   ],
@@ -1692,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 552,
       "user": "boona13"
     },
     {
@@ -1707,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 487,
       "user": "PrimeKeeper58"
     },
     {
@@ -1782,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 667,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1812,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "facebookresearch"
     },
     {
@@ -1827,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 581,
       "user": "Kappaemme-git"
     },
     {
@@ -1872,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 82,
       "user": "kulikov0"
     },
     {
@@ -1902,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "rockorager"
     }
   ]
