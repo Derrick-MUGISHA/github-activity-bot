@@ -234,20 +234,6 @@
       "user": "Josh Saint Jacque"
     },
     {
-      "title": "Vibe Coding, Demystified",
-      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
-      "published_at": "2026-05-14T20:04:04Z",
-      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
-      "tags": [
-        "vibecoding",
-        "learning",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -260,21 +246,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
-      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
-      "published_at": "2026-05-14T11:05:33Z",
-      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
-      "tags": [
-        "ai",
-        "genkit",
-        "genai",
-        "vercel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -367,20 +338,6 @@
       "user": "Eric D Johnson"
     },
     {
-      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "url": "https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop",
-      "published_at": "2026-05-13T00:08:54Z",
-      "description": "What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe7xso8lx6dzis8i1paq8.png",
-      "source": "Dev.to",
-      "user": "Carlos Barbero"
-    },
-    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -426,6 +383,20 @@
       "user": "GDS K S"
     },
     {
+      "title": "GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners",
+      "url": "https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba",
+      "published_at": "2026-05-13T21:25:01Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafnyeqrgfl14qcb77kbs.png",
+      "source": "Dev.to",
+      "user": "Vinicius F. Caridá"
+    },
+    {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
       "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
       "published_at": "2026-04-26T13:10:27Z",
@@ -437,6 +408,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
       "source": "Dev.to",
       "user": "Rahmon Toyeeb"
+    },
+    {
+      "title": "Vibe Coding, Demystified",
+      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
+      "published_at": "2026-05-14T20:04:04Z",
+      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
+      "tags": [
+        "vibecoding",
+        "learning",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -690,21 +675,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
-      "url": "https://dev.to/gde/vercel-ai-sdk-middleware-vs-genkit-middleware-a-hands-on-comparison-41hg",
-      "published_at": "2026-05-14T11:05:33Z",
-      "description": "Introduction   Two of the most popular Gen AI frameworks in JavaScript/TypeScript, Vercel AI...",
-      "tags": [
-        "ai",
-        "genkit",
-        "genai",
-        "vercel"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "Building Simple Tabs with Vanilla JavaScript",
       "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
       "published_at": "2026-05-15T11:26:06Z",
@@ -716,6 +686,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
       "source": "Dev.to",
       "user": "Razvan Zamfir"
+    },
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+      "published_at": "2026-05-13T07:07:13Z",
+      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "sideprojects",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
@@ -731,6 +716,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
       "source": "Dev.to",
       "user": "GDS K S"
+    },
+    {
+      "title": "onclick is great, actually",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
+      "published_at": "2026-05-13T19:10:34Z",
+      "description": "A few thoughts on `onclick` and how my opinion on it has changed.",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
+      "source": "Dev.to",
+      "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -853,21 +851,6 @@
       "user": "velmu"
     },
     {
-      "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
-      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
-      "published_at": "2026-05-13T22:45:27Z",
-      "description": "blooket menu || blooket || blooket hacks",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
-      "source": "GitHub",
-      "stars": 474,
-      "user": "PrimeKeeper58"
-    },
-    {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "url": "https://github.com/boona13/mykonos-island-voxels",
       "published_at": "2026-05-14T05:35:33Z",
@@ -879,8 +862,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 488,
       "user": "boona13"
+    },
+    {
+      "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
+      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
+      "published_at": "2026-05-13T22:45:27Z",
+      "description": "blooket menu || blooket || blooket hacks",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "PrimeKeeper58"
     },
     {
       "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -894,7 +892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 209,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -909,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 208,
       "user": "arbitrageBot-group"
     },
     {
@@ -1091,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 660,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1106,23 +1104,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "lillian039"
     },
     {
-      "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
-      "url": "https://github.com/patchfighterway90/cs2-external-overlay",
-      "published_at": "2026-05-12T13:18:16Z",
-      "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
+      "url": "https://github.com/facebookresearch/vggt-omega",
+      "published_at": "2026-05-14T04:43:13Z",
+      "description": "[CVPR 2026 Oral] VGGT Omega",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 534,
-      "user": "patchfighterway90"
+      "stars": 526,
+      "user": "facebookresearch"
     },
     {
       "title": "JUk1-GH/gpt-promo-scanner - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
@@ -1258,6 +1256,19 @@
       "user": "Rahmon Toyeeb"
     },
     {
+      "title": "onclick is great, actually",
+      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
+      "published_at": "2026-05-13T19:10:34Z",
+      "description": "A few thoughts on `onclick` and how my opinion on it has changed.",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
+      "source": "Dev.to",
+      "user": "𒎏Wii 🏳️‍⚧️"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1342,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 488,
       "user": "boona13"
     }
   ],
@@ -1407,21 +1418,6 @@
       "user": "Allen Firstenberg"
     },
     {
-      "title": "Deploying a Rust MCP Server to Azure Functions",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
-      "published_at": "2026-05-15T13:01:46Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "agents",
-        "mcpserver",
-        "rust",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Azure ACI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
       "published_at": "2026-05-15T13:02:34Z",
@@ -1433,6 +1429,21 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure Functions",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
+      "published_at": "2026-05-15T13:01:46Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "agents",
+        "mcpserver",
+        "rust",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1715,21 +1726,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
-      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
-      "published_at": "2026-05-13T22:45:27Z",
-      "description": "blooket menu || blooket || blooket hacks",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
-      "source": "GitHub",
-      "stars": 474,
-      "user": "PrimeKeeper58"
-    },
-    {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "url": "https://github.com/boona13/mykonos-island-voxels",
       "published_at": "2026-05-14T05:35:33Z",
@@ -1741,8 +1737,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 488,
       "user": "boona13"
+    },
+    {
+      "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
+      "url": "https://github.com/PrimeKeeper58/blooket-hacks",
+      "published_at": "2026-05-13T22:45:27Z",
+      "description": "blooket menu || blooket || blooket hacks",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "PrimeKeeper58"
     },
     {
       "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -1756,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 209,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1771,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 208,
       "user": "arbitrageBot-group"
     },
     {
@@ -1816,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 660,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1831,23 +1842,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "lillian039"
     },
     {
-      "title": "patchfighterway90/cs2-external-overlay - The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
-      "url": "https://github.com/patchfighterway90/cs2-external-overlay",
-      "published_at": "2026-05-12T13:18:16Z",
-      "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
+      "url": "https://github.com/facebookresearch/vggt-omega",
+      "published_at": "2026-05-14T04:43:13Z",
+      "description": "[CVPR 2026 Oral] VGGT Omega",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272090371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 534,
-      "user": "patchfighterway90"
+      "stars": 526,
+      "user": "facebookresearch"
     },
     {
       "title": "JUk1-GH/gpt-promo-scanner - ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
@@ -1906,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 60,
       "user": "walkingddd"
     },
     {
