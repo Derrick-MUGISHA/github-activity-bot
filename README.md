@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-17 21:00 CAT)
+## 📅 Latest Updates (2026-05-17 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [You don't 3D print a house. You print your tools.](https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Sun, 17 May 2026 21:52:38 CAT_
+_Last automated update: Sun, 17 May 2026 22:44:16 CAT_
 
 
 
@@ -224,29 +224,7 @@ _Last automated update: Sun, 17 May 2026 21:52:38 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
-
-</details>
-
-### 2. React: What is the Virtual DOM and how does React use it?
-
-**Difficulty**: Easy | **Topics**: rendering, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Diffing algorithm, reconciliation, efficiency
-
-</details>
-
-### 3. NodeJS: How do you handle errors in async/await?
+### 1. NodeJS: How do you handle errors in async/await?
 
 **Difficulty**: Medium | **Topics**: error handling, async
 
@@ -254,6 +232,28 @@ Diffing algorithm, reconciliation, efficiency
 <summary>💡 Hint</summary>
 
 try/catch, .catch(), error middleware
+
+</details>
+
+### 2. SystemDesign: How would you design a rate limiter?
+
+**Difficulty**: Medium | **Topics**: system design, algorithms
+
+<details>
+<summary>💡 Hint</summary>
+
+Token bucket, sliding window, distributed systems
+
+</details>
+
+### 3. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 17 May 2026 19:52:38 GMT</b><br/>
+  <b>Last automated update: Sun, 17 May 2026 20:44:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
