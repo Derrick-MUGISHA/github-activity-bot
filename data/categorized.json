@@ -89,21 +89,6 @@
       "user": "xbill"
     },
     {
-      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
-      "url": "https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6",
-      "published_at": "2026-05-14T06:23:32Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  Running modern AI models locally...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dsx9vd5q3wnqwtk4pbc.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
-    },
-    {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
       "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
       "published_at": "2026-05-13T19:13:14Z",
@@ -847,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 537,
       "user": "boona13"
     },
     {
@@ -862,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "PrimeKeeper58"
     },
     {
@@ -877,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "arbitrageBot-group"
     },
     {
@@ -892,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1059,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 919,
       "user": "ywnd1144"
     },
     {
@@ -1104,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 576,
       "user": "facebookresearch"
     },
     {
@@ -1119,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 545,
       "user": "Kappaemme-git"
     }
   ],
@@ -1353,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 537,
       "user": "boona13"
     }
   ],
@@ -1515,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "aymanhs"
     }
   ],
@@ -1722,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 537,
       "user": "boona13"
     },
     {
@@ -1737,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "PrimeKeeper58"
     },
     {
@@ -1752,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "arbitrageBot-group"
     },
     {
@@ -1767,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1797,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 919,
       "user": "ywnd1144"
     },
     {
@@ -1842,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 576,
       "user": "facebookresearch"
     },
     {
@@ -1857,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 545,
       "user": "Kappaemme-git"
     },
     {
@@ -1887,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "aymanhs"
     },
     {
@@ -1906,6 +1891,21 @@
       "user": "walkingddd"
     },
     {
+      "title": "rockorager/comview - the best diff viewer ever made",
+      "url": "https://github.com/rockorager/comview",
+      "published_at": "2026-05-14T22:17:40Z",
+      "description": "the best diff viewer ever made",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "rockorager"
+    },
+    {
       "title": "open-gitagent/langship.sh - The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
       "url": "https://github.com/open-gitagent/langship.sh",
       "published_at": "2026-05-11T13:56:55Z",
@@ -1919,21 +1919,6 @@
       "source": "GitHub",
       "stars": 49,
       "user": "open-gitagent"
-    },
-    {
-      "title": "rockorager/comview - the best diff viewer ever made",
-      "url": "https://github.com/rockorager/comview",
-      "published_at": "2026-05-14T22:17:40Z",
-      "description": "the best diff viewer ever made",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
-      "source": "GitHub",
-      "stars": 49,
-      "user": "rockorager"
     }
   ]
 }
