@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 42,
+    "AI": 41,
     "JavaScript": 23,
     "Python": 16,
     "DevOps": 4,
@@ -27,9 +27,9 @@
     "PHP": 1
   },
   "by_date": {
-    "2026-05-13": 14,
     "2026-05-15": 15,
     "2026-05-14": 18,
+    "2026-05-13": 14,
     "2026-05-11": 7,
     "2026-05-10": 1,
     "2026-05-08": 3,
@@ -78,13 +78,13 @@
     "JavaScript": 10,
     "Python": 10,
     "devchallenge": 9,
-    "webdev": 6,
-    "discuss": 6,
     "agents": 6,
     "gemmachallenge": 6,
+    "discuss": 6,
+    "webdev": 6,
     "python": 6,
-    "productivity": 5,
     "gemma": 5,
+    "productivity": 5,
     "go": 5,
     "learning": 4,
     "aws": 3,
