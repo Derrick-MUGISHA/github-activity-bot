@@ -424,6 +424,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
+      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
+      "published_at": "2026-05-07T20:21:26Z",
+      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
+      "tags": [
+        "backend",
+        "laravel",
+        "performance",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
+      "source": "Dev.to",
+      "user": "Fomin Vasyl"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -579,7 +594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263700766?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "open-gitagent"
     }
   ],
@@ -832,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "boona13"
     },
     {
@@ -862,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "arbitrageBot-group"
     },
     {
@@ -892,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "Siigari"
     }
   ],
@@ -1044,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 918,
       "user": "ywnd1144"
     },
     {
@@ -1074,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "lillian039"
     },
     {
@@ -1089,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 568,
       "user": "facebookresearch"
     },
     {
@@ -1104,7 +1119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 530,
       "user": "Kappaemme-git"
     }
   ],
@@ -1239,6 +1254,21 @@
       "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
+      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
+      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
+      "published_at": "2026-05-07T20:21:26Z",
+      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
+      "tags": [
+        "backend",
+        "laravel",
+        "performance",
+        "php"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
+      "source": "Dev.to",
+      "user": "Fomin Vasyl"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1323,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "boona13"
     }
   ],
@@ -1399,21 +1429,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Azure Functions",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
-      "published_at": "2026-05-15T13:01:46Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "agents",
-        "mcpserver",
-        "rust",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1707,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "boona13"
     },
     {
@@ -1737,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "arbitrageBot-group"
     },
     {
@@ -1767,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7531001?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "Siigari"
     },
     {
@@ -1782,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 918,
       "user": "ywnd1144"
     },
     {
@@ -1812,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "lillian039"
     },
     {
@@ -1827,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 568,
       "user": "facebookresearch"
     },
     {
@@ -1842,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 530,
       "user": "Kappaemme-git"
     },
     {
@@ -1902,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263700766?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "open-gitagent"
     },
     {
@@ -1917,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 49,
       "user": "rockorager"
     }
   ]
