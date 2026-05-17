@@ -566,21 +566,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
-    },
-    {
-      "title": "open-gitagent/langship.sh - The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
-      "url": "https://github.com/open-gitagent/langship.sh",
-      "published_at": "2026-05-11T13:56:55Z",
-      "description": "The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263700766?v=4",
-      "source": "GitHub",
-      "stars": 50,
-      "user": "open-gitagent"
     }
   ],
   "JavaScript": [
@@ -832,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 545,
       "user": "boona13"
     },
     {
@@ -847,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "PrimeKeeper58"
     },
     {
@@ -862,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "arbitrageBot-group"
     },
     {
@@ -877,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1044,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 920,
       "user": "ywnd1144"
     },
     {
@@ -1059,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1074,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "lillian039"
     },
     {
@@ -1089,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "facebookresearch"
     },
     {
@@ -1104,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 569,
       "user": "Kappaemme-git"
     }
   ],
@@ -1338,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 545,
       "user": "boona13"
     }
   ],
@@ -1500,7 +1485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "aymanhs"
     }
   ],
@@ -1548,21 +1533,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
-      "published_at": "2026-05-13T18:32:33Z",
-      "description": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
-      "tags": [
-        "webdev",
-        "beginners",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
-      "source": "Dev.to",
-      "user": "S M Tahosin"
-    },
     {
       "title": "Stop hand-writing IconData — introducing `icon_font_extractor`",
       "url": "https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2",
@@ -1637,6 +1607,21 @@
       "user": "Prakash"
     },
     {
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
+      "published_at": "2026-05-13T18:32:33Z",
+      "description": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
+      "tags": [
+        "webdev",
+        "beginners",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
+      "source": "Dev.to",
+      "user": "S M Tahosin"
+    },
+    {
       "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
       "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
       "published_at": "2026-05-14T23:43:10Z",
@@ -1707,7 +1692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 545,
       "user": "boona13"
     },
     {
@@ -1722,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "PrimeKeeper58"
     },
     {
@@ -1737,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "arbitrageBot-group"
     },
     {
@@ -1752,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1782,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 920,
       "user": "ywnd1144"
     },
     {
@@ -1797,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1812,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "lillian039"
     },
     {
@@ -1827,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "facebookresearch"
     },
     {
@@ -1842,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 569,
       "user": "Kappaemme-git"
     },
     {
@@ -1872,8 +1857,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "aymanhs"
+    },
+    {
+      "title": "kulikov0/whitelist-bypass-iran - GitHub Repository",
+      "url": "https://github.com/kulikov0/whitelist-bypass-iran",
+      "published_at": "2026-05-11T19:49:16Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "kulikov0"
     },
     {
       "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "walkingddd"
     },
     {
@@ -1902,23 +1902,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "rockorager"
-    },
-    {
-      "title": "open-gitagent/langship.sh - The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
-      "url": "https://github.com/open-gitagent/langship.sh",
-      "published_at": "2026-05-11T13:56:55Z",
-      "description": "The platform for shipping, governing AI agents — framework-agnostic, multi-runtime, GitOps-native, self-hosted.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263700766?v=4",
-      "source": "GitHub",
-      "stars": 50,
-      "user": "open-gitagent"
     }
   ]
 }
