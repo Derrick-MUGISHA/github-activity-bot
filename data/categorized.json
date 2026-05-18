@@ -596,6 +596,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
+    },
+    {
+      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "published_at": "2026-05-12T02:49:33Z",
+      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "Asymptote-Labs"
     }
   ],
   "JavaScript": [
@@ -862,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 561,
       "user": "boona13"
     },
     {
@@ -877,7 +892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "PrimeKeeper58"
     },
     {
@@ -892,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 237,
       "user": "arbitrageBot-group"
     },
     {
@@ -907,7 +922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 224,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1089,23 +1104,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 673,
       "user": "DepthFirstDisclosures"
-    },
-    {
-      "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
-      "published_at": "2026-05-15T13:33:28Z",
-      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
-      "source": "GitHub",
-      "stars": 601,
-      "user": "Kappaemme-git"
     },
     {
       "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
@@ -1119,23 +1119,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 630,
       "user": "facebookresearch"
     },
     {
-      "title": "lillian039/ELF - GitHub Repository",
-      "url": "https://github.com/lillian039/ELF",
-      "published_at": "2026-05-11T14:44:10Z",
-      "description": "Trending GitHub Repository",
+      "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
+      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+      "published_at": "2026-05-15T13:33:28Z",
+      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 592,
-      "user": "lillian039"
+      "stars": 630,
+      "user": "Kappaemme-git"
+    },
+    {
+      "title": "EnsignKazekage/Prodigy-Hacks - Prodigymathgamehacking || prodigy hacks || prodigymathgame",
+      "url": "https://github.com/EnsignKazekage/Prodigy-Hacks",
+      "published_at": "2026-05-13T23:40:15Z",
+      "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "EnsignKazekage"
     }
   ],
   "DevOps": [
@@ -1368,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 561,
       "user": "boona13"
     }
   ],
@@ -1476,6 +1491,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonrda9ab9bs7y0uraij1.jpg",
       "source": "Dev.to",
       "user": "Eric D Johnson"
+    },
+    {
+      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "url": "https://github.com/internetkafe/cfsearch",
+      "published_at": "2026-05-16T07:22:39Z",
+      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "source": "GitHub",
+      "stars": 35,
+      "user": "internetkafe"
     }
   ],
   "Database": [
@@ -1560,21 +1590,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "internetkafe/deathcore - High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
-      "url": "https://github.com/internetkafe/deathcore",
-      "published_at": "2026-05-11T10:00:12Z",
-      "description": "High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
-      "source": "GitHub",
-      "stars": 179,
-      "user": "internetkafe"
     }
   ],
   "Tools": [
@@ -1737,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 561,
       "user": "boona13"
     },
     {
@@ -1752,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "PrimeKeeper58"
     },
     {
@@ -1767,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 237,
       "user": "arbitrageBot-group"
     },
     {
@@ -1782,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 224,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1827,23 +1842,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 673,
       "user": "DepthFirstDisclosures"
-    },
-    {
-      "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
-      "published_at": "2026-05-15T13:33:28Z",
-      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
-      "source": "GitHub",
-      "stars": 601,
-      "user": "Kappaemme-git"
     },
     {
       "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
@@ -1857,38 +1857,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 630,
       "user": "facebookresearch"
     },
     {
-      "title": "lillian039/ELF - GitHub Repository",
-      "url": "https://github.com/lillian039/ELF",
-      "published_at": "2026-05-11T14:44:10Z",
-      "description": "Trending GitHub Repository",
+      "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
+      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+      "published_at": "2026-05-15T13:33:28Z",
+      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88616362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 592,
-      "user": "lillian039"
+      "stars": 630,
+      "user": "Kappaemme-git"
     },
     {
-      "title": "internetkafe/deathcore - High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
-      "url": "https://github.com/internetkafe/deathcore",
-      "published_at": "2026-05-11T10:00:12Z",
-      "description": "High-performance load testing stress test (attack) tool that tears servers apart through VLESS tunnels. Supports XHTTP, gRPC, Reality, and post-quantum encryption. No mercy for your server.",
+      "title": "EnsignKazekage/Prodigy-Hacks - Prodigymathgamehacking || prodigy hacks || prodigymathgame",
+      "url": "https://github.com/EnsignKazekage/Prodigy-Hacks",
+      "published_at": "2026-05-13T23:40:15Z",
+      "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 179,
-      "user": "internetkafe"
+      "stars": 490,
+      "user": "EnsignKazekage"
     },
     {
       "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
@@ -1904,21 +1904,6 @@
       "source": "GitHub",
       "stars": 105,
       "user": "aymanhs"
-    },
-    {
-      "title": "kulikov0/whitelist-bypass-iran - GitHub Repository",
-      "url": "https://github.com/kulikov0/whitelist-bypass-iran",
-      "published_at": "2026-05-11T19:49:16Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19497634?v=4",
-      "source": "GitHub",
-      "stars": 86,
-      "user": "kulikov0"
     },
     {
       "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
@@ -1947,8 +1932,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "rockorager"
+    },
+    {
+      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "published_at": "2026-05-12T02:49:33Z",
+      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "Asymptote-Labs"
+    },
+    {
+      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "url": "https://github.com/internetkafe/cfsearch",
+      "published_at": "2026-05-16T07:22:39Z",
+      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "source": "GitHub",
+      "stars": 35,
+      "user": "internetkafe"
     }
   ]
 }
