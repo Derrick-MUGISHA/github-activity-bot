@@ -278,6 +278,21 @@
       "user": "Raihan"
     },
     {
+      "title": "The Last Developer Museum: From Stack Overflow to AI",
+      "url": "https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2",
+      "published_at": "2026-05-15T17:31:55Z",
+      "description": "Welcome to the Museum of Software Development.  Please keep your hands away from the exhibits.  Some...",
+      "tags": [
+        "discuss",
+        "programming",
+        "career",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk0eh90d64zqopam8d9b.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -512,18 +527,6 @@
       "user": "dmotz"
     },
     {
-      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-      "published_at": "2026-02-24T12:16:45Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "Qem"
-    },
-    {
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "published_at": "2026-05-15T20:26:47Z",
@@ -534,6 +537,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "reasonableklout"
+    },
+    {
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "published_at": "2026-02-24T12:16:45Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "Qem"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -582,6 +597,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
+    },
+    {
+      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "published_at": "2026-05-18T06:19:44Z",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "Doorman11991"
     }
   ],
   "JavaScript": [
@@ -833,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 629,
       "user": "boona13"
     },
     {
@@ -848,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 528,
       "user": "PrimeKeeper58"
     },
     {
@@ -863,8 +893,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 432,
       "user": "stephenlthorn"
+    },
+    {
+      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "published_at": "2026-05-18T06:19:44Z",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "Doorman11991"
     },
     {
       "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -878,23 +923,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "arbitrageBot-group"
-    },
-    {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
-      "source": "GitHub",
-      "stars": 241,
-      "user": "POLYMARKET-TRADER-LAB"
     }
   ],
   "Python": [
@@ -1049,21 +1079,6 @@
       "user": "arathore"
     },
     {
-      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
-      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
-      "published_at": "2026-05-12T11:29:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "ywnd1144"
-    },
-    {
       "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
       "url": "https://github.com/facebookresearch/vggt-omega",
       "published_at": "2026-05-14T04:43:13Z",
@@ -1075,8 +1090,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 939,
       "user": "facebookresearch"
+    },
+    {
+      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+      "published_at": "2026-05-12T11:29:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
+      "source": "GitHub",
+      "stars": 927,
+      "user": "ywnd1144"
     },
     {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
@@ -1090,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 733,
       "user": "Kappaemme-git"
     },
     {
@@ -1105,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 702,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1120,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 526,
       "user": "EnsignKazekage"
     }
   ],
@@ -1325,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 629,
       "user": "boona13"
     }
   ],
@@ -1418,21 +1448,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
-      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
-      "published_at": "2026-05-06T05:53:26Z",
-      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
-      "tags": [
-        "linux",
-        "automation",
-        "vpn",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
-      "source": "Dev.to",
-      "user": "Vicente G. Reyes"
     },
     {
       "title": "Deploying a Rust MCP Server to Azure Functions",
@@ -1694,7 +1709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 629,
       "user": "boona13"
     },
     {
@@ -1709,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 528,
       "user": "PrimeKeeper58"
     },
     {
@@ -1724,8 +1739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 432,
       "user": "stephenlthorn"
+    },
+    {
+      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "published_at": "2026-05-18T06:19:44Z",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "Doorman11991"
     },
     {
       "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -1739,38 +1769,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "arbitrageBot-group"
-    },
-    {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
-      "source": "GitHub",
-      "stars": 241,
-      "user": "POLYMARKET-TRADER-LAB"
-    },
-    {
-      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
-      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
-      "published_at": "2026-05-12T11:29:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "ywnd1144"
     },
     {
       "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
@@ -1784,8 +1784,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 939,
       "user": "facebookresearch"
+    },
+    {
+      "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+      "published_at": "2026-05-12T11:29:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
+      "source": "GitHub",
+      "stars": 927,
+      "user": "ywnd1144"
     },
     {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
@@ -1799,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 733,
       "user": "Kappaemme-git"
     },
     {
@@ -1814,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 702,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1829,8 +1844,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 526,
       "user": "EnsignKazekage"
+    },
+    {
+      "title": "vadimsemenykv/saboteur - GitHub Repository",
+      "url": "https://github.com/vadimsemenykv/saboteur",
+      "published_at": "2026-05-15T18:07:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8122660?v=4",
+      "source": "GitHub",
+      "stars": 158,
+      "user": "vadimsemenykv"
     },
     {
       "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
@@ -1848,21 +1878,6 @@
       "user": "aymanhs"
     },
     {
-      "title": "vadimsemenykv/saboteur - GitHub Repository",
-      "url": "https://github.com/vadimsemenykv/saboteur",
-      "published_at": "2026-05-15T18:07:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8122660?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "vadimsemenykv"
-    },
-    {
       "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
       "url": "https://github.com/walkingddd/CPA-Helper",
       "published_at": "2026-05-13T09:27:53Z",
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 89,
       "user": "walkingddd"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "rockorager"
     },
     {
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 50,
       "user": "kamalyes"
     }
   ]
