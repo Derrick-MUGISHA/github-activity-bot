@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-18 20:00 CAT)
+## 📅 Latest Updates (2026-05-18 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
 - [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0) _[Dev.to]_
 
-_Last automated update: Mon, 18 May 2026 20:28:50 CAT_
+_Last automated update: Mon, 18 May 2026 22:14:54 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 18 May 2026 20:28:50 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What are generators and when would you use them?
+### 1. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Sliding window, hash map, two pointers
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Execution timing, event loop phases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 18 May 2026 18:28:50 GMT</b><br/>
+  <b>Last automated update: Mon, 18 May 2026 20:14:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
