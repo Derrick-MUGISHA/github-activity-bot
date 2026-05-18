@@ -206,21 +206,6 @@
       "user": "Aryan Choudhary"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
-      "url": "https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg",
-      "published_at": "2026-05-15T13:13:00Z",
-      "description": "Today, we're thrilled to announce that Gemini 3.1 Flash-Lite, our fastest and most cost-efficient...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "google",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjcnn5bonin83i7xc23bg.png",
-      "source": "Dev.to",
-      "user": "Gemini Enterprise Team"
-    },
-    {
       "title": "Congrats to the OpenClaw Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
       "published_at": "2026-05-07T21:27:14Z",
@@ -236,6 +221,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
+      "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
+      "published_at": "2026-05-15T12:43:35Z",
+      "description": "Motivating seven-year-olds to complete their daily reading and handwriting practice is a classic...",
+      "tags": [
+        "ai",
+        "gemini",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -249,20 +248,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
-      "url": "https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh",
-      "published_at": "2026-05-15T12:43:35Z",
-      "description": "Motivating seven-year-olds to complete their daily reading and handwriting practice is a classic...",
-      "tags": [
-        "ai",
-        "gemini",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx3cx6bxspmy75pcaps71.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "You don't 3D print a house. You print your tools.",
@@ -321,21 +306,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
       "user": "Philippe MARTIN"
-    },
-    {
-      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
-      "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
-      "published_at": "2026-05-14T04:29:48Z",
-      "description": "In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
     },
     {
       "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
@@ -612,21 +582,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
-    },
-    {
-      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "published_at": "2026-05-12T02:49:33Z",
-      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "Asymptote-Labs"
     }
   ],
   "JavaScript": [
@@ -702,21 +657,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
-      "url": "https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb",
-      "published_at": "2026-05-14T04:29:48Z",
-      "description": "In February 2026 a developer named daivuk shipped a playable Quake-like first person shooter in a 64...",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5bwiu9lr3zlvpxpg9vj.png",
-      "source": "Dev.to",
-      "user": "GDS K S"
     },
     {
       "title": "onclick is great, actually",
@@ -893,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 620,
       "user": "boona13"
     },
     {
@@ -908,8 +848,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 527,
       "user": "PrimeKeeper58"
+    },
+    {
+      "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "published_at": "2026-05-15T12:40:18Z",
+      "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "stephenlthorn"
     },
     {
       "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -923,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 274,
       "user": "arbitrageBot-group"
     },
     {
@@ -938,23 +893,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "POLYMARKET-TRADER-LAB"
-    },
-    {
-      "title": "POLYMARKET-SPORTS/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-SPORTS/Polymarket-trading-bot",
-      "published_at": "2026-05-14T19:18:49Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284730655?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "POLYMARKET-SPORTS"
     }
   ],
   "Python": [
@@ -1120,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 925,
       "user": "ywnd1144"
     },
     {
@@ -1135,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 919,
       "user": "facebookresearch"
     },
     {
@@ -1150,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 714,
       "user": "Kappaemme-git"
     },
     {
@@ -1165,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1180,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 525,
       "user": "EnsignKazekage"
     }
   ],
@@ -1385,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 620,
       "user": "boona13"
     }
   ],
@@ -1476,6 +1416,36 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Automating Cloudflare WARP Based on WiFi SSID (Linux Guide)",
+      "url": "https://dev.to/highcenburg/automating-cloudflare-warp-based-on-wifi-ssid-linux-guide-3jca",
+      "published_at": "2026-05-06T05:53:26Z",
+      "description": "If you frequently switch between trusted and untrusted networks, manually toggling your VPN becomes...",
+      "tags": [
+        "linux",
+        "automation",
+        "vpn",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz841piyi1rtqu81dwksa.png",
+      "source": "Dev.to",
+      "user": "Vicente G. Reyes"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure Functions",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
+      "published_at": "2026-05-15T13:01:46Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "agents",
+        "mcpserver",
+        "rust",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
       "source": "Dev.to",
       "user": "xbill"
     }
@@ -1625,21 +1595,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
-      "url": "https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5",
-      "published_at": "2026-05-12T07:30:00Z",
-      "description": "It was a Thursday afternoon when the Teams message came in.  A bug in production. A date formatting...",
-      "tags": [
-        "webdev",
-        "productivity",
-        "career",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1pq3iyqlw9w9fydcl7c.png",
-      "source": "Dev.to",
-      "user": "Gavin Cettolo"
-    },
-    {
       "title": "You don't 3D print a house. You print your tools.",
       "url": "https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00",
       "published_at": "2026-05-15T12:17:19Z",
@@ -1739,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 620,
       "user": "boona13"
     },
     {
@@ -1754,8 +1709,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 527,
       "user": "PrimeKeeper58"
+    },
+    {
+      "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "published_at": "2026-05-15T12:40:18Z",
+      "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "stephenlthorn"
     },
     {
       "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -1769,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 274,
       "user": "arbitrageBot-group"
     },
     {
@@ -1784,23 +1754,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "POLYMARKET-TRADER-LAB"
-    },
-    {
-      "title": "POLYMARKET-SPORTS/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-SPORTS/Polymarket-trading-bot",
-      "published_at": "2026-05-14T19:18:49Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284730655?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "POLYMARKET-SPORTS"
     },
     {
       "title": "ywnd1144/Gopay_plus_automatic - GitHub Repository",
@@ -1814,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 925,
       "user": "ywnd1144"
     },
     {
@@ -1829,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 919,
       "user": "facebookresearch"
     },
     {
@@ -1844,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 714,
       "user": "Kappaemme-git"
     },
     {
@@ -1859,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1874,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 525,
       "user": "EnsignKazekage"
     },
     {
@@ -1893,6 +1848,21 @@
       "user": "aymanhs"
     },
     {
+      "title": "vadimsemenykv/saboteur - GitHub Repository",
+      "url": "https://github.com/vadimsemenykv/saboteur",
+      "published_at": "2026-05-15T18:07:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8122660?v=4",
+      "source": "GitHub",
+      "stars": 92,
+      "user": "vadimsemenykv"
+    },
+    {
       "title": "walkingddd/CPA-Helper - CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Codex 账号巡检。",
       "url": "https://github.com/walkingddd/CPA-Helper",
       "published_at": "2026-05-13T09:27:53Z",
@@ -1904,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 84,
       "user": "walkingddd"
     },
     {
@@ -1919,23 +1889,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "rockorager"
-    },
-    {
-      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "published_at": "2026-05-12T02:49:33Z",
-      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "Asymptote-Labs"
     },
     {
       "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
@@ -1949,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 48,
       "user": "kamalyes"
     }
   ]
