@@ -250,6 +250,21 @@
       "user": "xbill"
     },
     {
+      "title": "The Last Developer Museum: From Stack Overflow to AI",
+      "url": "https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2",
+      "published_at": "2026-05-15T17:31:55Z",
+      "description": "Welcome to the Museum of Software Development.  Please keep your hands away from the exhibits.  Some...",
+      "tags": [
+        "discuss",
+        "programming",
+        "career",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk0eh90d64zqopam8d9b.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "You don't 3D print a house. You print your tools.",
       "url": "https://dev.to/aws-heroes/you-dont-3d-print-a-house-you-print-your-tools-2h00",
       "published_at": "2026-05-15T12:17:19Z",
@@ -276,21 +291,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Raihan"
-    },
-    {
-      "title": "The Last Developer Museum: From Stack Overflow to AI",
-      "url": "https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2",
-      "published_at": "2026-05-15T17:31:55Z",
-      "description": "Welcome to the Museum of Software Development.  Please keep your hands away from the exhibits.  Some...",
-      "tags": [
-        "discuss",
-        "programming",
-        "career",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk0eh90d64zqopam8d9b.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "I Love Tailwind. Sorry Not Sorry",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 363,
       "user": "Doorman11991"
     }
   ],
@@ -863,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "boona13"
     },
     {
@@ -878,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "PrimeKeeper58"
     },
     {
@@ -893,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 450,
       "user": "stephenlthorn"
     },
     {
@@ -908,7 +908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 363,
       "user": "Doorman11991"
     },
     {
@@ -923,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "arbitrageBot-group"
     }
   ],
@@ -1090,7 +1090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 949,
       "user": "facebookresearch"
     },
     {
@@ -1105,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 929,
       "user": "ywnd1144"
     },
     {
@@ -1120,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 734,
       "user": "Kappaemme-git"
     },
     {
@@ -1135,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 703,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1150,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 527,
       "user": "EnsignKazekage"
     }
   ],
@@ -1355,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "boona13"
     }
   ],
@@ -1709,7 +1709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "boona13"
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "PrimeKeeper58"
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 450,
       "user": "stephenlthorn"
     },
     {
@@ -1754,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 363,
       "user": "Doorman11991"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "arbitrageBot-group"
     },
     {
@@ -1784,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 949,
       "user": "facebookresearch"
     },
     {
@@ -1799,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 929,
       "user": "ywnd1144"
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 734,
       "user": "Kappaemme-git"
     },
     {
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 703,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 527,
       "user": "EnsignKazekage"
     },
     {
@@ -1904,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "rockorager"
     },
     {

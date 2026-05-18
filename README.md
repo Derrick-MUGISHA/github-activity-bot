@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-18 18:00 CAT)
+## 📅 Latest Updates (2026-05-18 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
 - [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0) _[Dev.to]_
 
-_Last automated update: Mon, 18 May 2026 18:50:56 CAT_
+_Last automated update: Mon, 18 May 2026 20:28:50 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 18 May 2026 18:50:56 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+try/catch, .catch(), error middleware
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 18 May 2026 16:50:56 GMT</b><br/>
+  <b>Last automated update: Mon, 18 May 2026 18:28:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
