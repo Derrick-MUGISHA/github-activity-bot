@@ -16,21 +16,6 @@
       "user": "Srikar Phani Kumar Marti"
     },
     {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Agent Development Kit for Google Apps Script",
       "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
       "published_at": "2026-05-18T08:50:37Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 466,
       "user": "Doorman11991"
     },
     {
@@ -908,7 +908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "PrimeKeeper58"
     },
     {
@@ -923,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 480,
       "user": "stephenlthorn"
     },
     {
@@ -938,7 +938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 466,
       "user": "Doorman11991"
     },
     {
@@ -1105,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 961,
       "user": "facebookresearch"
     },
     {
@@ -1135,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 747,
       "user": "Kappaemme-git"
     },
     {
@@ -1150,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1165,7 +1165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "EnsignKazekage"
     }
   ],
@@ -1709,7 +1709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "PrimeKeeper58"
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 480,
       "user": "stephenlthorn"
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 466,
       "user": "Doorman11991"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 961,
       "user": "facebookresearch"
     },
     {
@@ -1799,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 747,
       "user": "Kappaemme-git"
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 708,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "EnsignKazekage"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "rockorager"
     },
     {
