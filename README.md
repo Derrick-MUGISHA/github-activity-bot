@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**Cloud**: 🟦🟦🟦🟦 8 (7.6%)
 
-**Cloud**: 🟦🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦🟦 7 (6.7%)
 
 **Database**: 🟦🟦 5 (4.8%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.0 (27.0%)
-Java            ██████████████████████████ 23.6 (23.6%)
-Go              █████████████████████████ 22.5 (22.5%)
-Python          █████████████████████ 19.1 (19.1%)
-Rust            ████ 3.4 (3.4%)
-Kotlin          ██ 2.2 (2.2%)
+JavaScript      ██████████████████████████████ 26.1 (26.1%)
+Java            ██████████████████████████ 22.7 (22.7%)
+Go              █████████████████████████ 21.6 (21.6%)
+Python          ██████████████████████ 19.3 (19.3%)
+Rust            ███████ 5.7 (5.7%)
+Kotlin          ███ 2.3 (2.3%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
 
@@ -73,11 +73,11 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 21
-    "Go" : 20
+    "JavaScript" : 23
+    "Java" : 20
+    "Go" : 19
     "Python" : 17
-    "Rust" : 3
+    "Rust" : 5
     "Kotlin" : 2
     "PHP" : 1
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![productivity](https://img.shields.io/badge/productivity-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![discuss](https://img.shields.io/badge/discuss-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) 
 
 
 
@@ -127,13 +127,22 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-18 12:00 CAT)
+## 📅 Latest Updates (2026-05-18 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/meme-monday-47g6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F37bwctkka02kg4m9mzlj.png" width="200" alt="Meme Monday" />
+      <br/>
+      <b>Meme Monday</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frp8m5tkiq2bm465ukvrq.png" width="200" alt="I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals" />
@@ -152,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faothqiyg4rjotxj5q8an.png" width="200" alt="Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp" />
@@ -161,8 +172,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png" width="200" alt="Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines" />
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-110l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F95usuv1nks8iux8tj3r0.jpg" width="200" alt="What was your win this week?!" />
-      <br/>
-      <b>What was your win this week?!</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -197,6 +197,7 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [Meme Monday](https://dev.to/ben/meme-monday-47g6) _[Dev.to]_
 - [I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals](https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [GemmaFin - Breaking the Cycle of Debt with Conversational AI](https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n) _[Dev.to]_
 - [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0) _[Dev.to]_
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) _[Dev.to]_
-- [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7) _[Dev.to]_
 
-_Last automated update: Mon, 18 May 2026 12:08:43 CAT_
+_Last automated update: Mon, 18 May 2026 16:00:09 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 18 May 2026 12:08:43 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Mutability, performance, use cases
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Sliding window, hash map, two pointers
 
 </details>
 
-### 3. NodeJS: Explain middleware in Express.js
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 18 May 2026 10:08:43 GMT</b><br/>
+  <b>Last automated update: Mon, 18 May 2026 14:00:09 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
