@@ -16,6 +16,36 @@
       "user": "Srikar Phani Kumar Marti"
     },
     {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Agent Development Kit for Google Apps Script",
+      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
+      "published_at": "2026-05-18T08:50:37Z",
+      "description": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
       "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c",
       "published_at": "2026-05-15T06:29:33Z",
@@ -58,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
+      "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a",
+      "published_at": "2026-05-18T01:21:13Z",
+      "description": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the...",
+      "tags": [
+        "gemma",
+        "handson",
+        "lmstudio",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz8fok20yeklqrjhp8jx.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -235,21 +280,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Last Developer Museum: From Stack Overflow to AI",
       "url": "https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2",
       "published_at": "2026-05-15T17:31:55Z",
@@ -263,6 +293,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk0eh90d64zqopam8d9b.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "You don't 3D print a house. You print your tools.",
@@ -408,51 +453,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fup9trhxuonuqx97dwuqn.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
-    },
-    {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
-    },
-    {
-      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
-      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
-      "published_at": "2026-05-03T00:00:00Z",
-      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "devrel",
-        "burnout"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
-      "source": "Dev.to",
-      "user": "Filipe Brito Ferreira"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -610,8 +610,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "Doorman11991"
+    },
+    {
+      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "published_at": "2026-05-12T02:49:33Z",
+      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
+      "source": "GitHub",
+      "stars": 50,
+      "user": "Asymptote-Labs"
     }
   ],
   "JavaScript": [
@@ -687,6 +702,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
+      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
+      "published_at": "2026-05-16T13:00:00Z",
+      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
+      "tags": [
+        "cycling",
+        "nextjs",
+        "googlecloud",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
+      "source": "Dev.to",
+      "user": "Akira Kikusato"
     },
     {
       "title": "onclick is great, actually",
@@ -863,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "boona13"
     },
     {
@@ -893,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 472,
       "user": "stephenlthorn"
     },
     {
@@ -908,7 +938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "Doorman11991"
     },
     {
@@ -923,7 +953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "arbitrageBot-group"
     }
   ],
@@ -942,21 +972,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Raihan"
-    },
-    {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1090,7 +1105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 959,
       "user": "facebookresearch"
     },
     {
@@ -1105,7 +1120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 931,
       "user": "ywnd1144"
     },
     {
@@ -1120,7 +1135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 745,
       "user": "Kappaemme-git"
     },
     {
@@ -1135,7 +1150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1150,7 +1165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 530,
       "user": "EnsignKazekage"
     }
   ],
@@ -1329,21 +1344,6 @@
       "user": "Thomas Künneth"
     },
     {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
-    },
-    {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "url": "https://github.com/boona13/mykonos-island-voxels",
       "published_at": "2026-05-14T05:35:33Z",
@@ -1355,11 +1355,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "boona13"
     }
   ],
   "Cloud": [
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
@@ -1420,6 +1435,21 @@
       "user": "Allen Firstenberg"
     },
     {
+      "title": "Deploying a Rust MCP Server to Azure Appservice",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-appservice-g9c",
+      "published_at": "2026-05-17T12:39:30Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "mcps",
+        "rust",
+        "azure",
+        "azureappservice"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Deploying a Rust MCP Server to Azure ACI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
       "published_at": "2026-05-15T13:02:34Z",
@@ -1450,19 +1480,19 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying a Rust MCP Server to Azure Functions",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-functions-3agg",
-      "published_at": "2026-05-15T13:01:46Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
+      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
+      "published_at": "2026-05-16T13:00:00Z",
+      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
       "tags": [
-        "agents",
-        "mcpserver",
-        "rust",
-        "azure"
+        "cycling",
+        "nextjs",
+        "googlecloud",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv6q1cb6f5vzbaj2oti46.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Akira Kikusato"
     }
   ],
   "Database": [
@@ -1653,51 +1683,6 @@
       "user": "Josh Saint Jacque"
     },
     {
-      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
-      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
-      "published_at": "2026-05-06T20:48:25Z",
-      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
-      "tags": [
-        "cli",
-        "go",
-        "infrastructure",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
-      "source": "Dev.to",
-      "user": "Brus-Nockk"
-    },
-    {
-      "title": "Platform-Neutral AI Tools Are the Safer Long-Term Bet",
-      "url": "https://dev.to/mrlarson2007_62/platform-neutral-ai-tools-are-the-safer-long-term-bet-42i1",
-      "published_at": "2026-04-27T02:00:10Z",
-      "description": "AI tool lock-in lives in your context and intent layer, not just the API. Why platform-neutral tooling protects what your team builds.",
-      "tags": [
-        "ai",
-        "llm",
-        "devtools",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftfmxqe4ifql2hiodo29j.png",
-      "source": "Dev.to",
-      "user": "Michael Larson"
-    },
-    {
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "url": "https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1",
-      "published_at": "2026-05-02T08:22:42Z",
-      "description": "We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There's...",
-      "tags": [
-        "programming",
-        "webdev",
-        "productivity",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjygg7a2fjhm97fss0gzj.png",
-      "source": "Dev.to",
-      "user": "Adam - The Developer"
-    },
-    {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "url": "https://github.com/boona13/mykonos-island-voxels",
       "published_at": "2026-05-14T05:35:33Z",
@@ -1709,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 631,
       "user": "boona13"
     },
     {
@@ -1739,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 472,
       "user": "stephenlthorn"
     },
     {
@@ -1754,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "Doorman11991"
     },
     {
@@ -1769,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "arbitrageBot-group"
     },
     {
@@ -1784,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 959,
       "user": "facebookresearch"
     },
     {
@@ -1799,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264395641?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 931,
       "user": "ywnd1144"
     },
     {
@@ -1814,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 745,
       "user": "Kappaemme-git"
     },
     {
@@ -1829,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229222067?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "DepthFirstDisclosures"
     },
     {
@@ -1844,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 530,
       "user": "EnsignKazekage"
     },
     {
@@ -1904,23 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 67,
       "user": "rockorager"
     },
     {
-      "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
-      "url": "https://github.com/kamalyes/go-argus",
-      "published_at": "2026-05-16T00:18:31Z",
-      "description": "零依赖 · 高性能 Go 结构体校验器",
+      "title": "Asymptote-Labs/agent-beacon - Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "published_at": "2026-05-12T02:49:33Z",
+      "description": "Beacon is the world’s first open-source endpoint telemetry layer for local AI agents.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/235623239?v=4",
       "source": "GitHub",
       "stars": 50,
-      "user": "kamalyes"
+      "user": "Asymptote-Labs"
     }
   ]
 }
