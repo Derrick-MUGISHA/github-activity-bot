@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-19 3:00 CAT)
+## 📅 Latest Updates (2026-05-19 8:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Tue, 19 May 2026 03:50:00 CAT_
+_Last automated update: Tue, 19 May 2026 08:04:48 CAT_
 
 
 
@@ -224,29 +224,18 @@ _Last automated update: Tue, 19 May 2026 03:50:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: What is the Virtual DOM and how does React use it?
+### 1. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: rendering, performance
-
-<details>
-<summary>💡 Hint</summary>
-
-Diffing algorithm, reconciliation, efficiency
-
-</details>
-
-### 2. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 2. DataStructures: Find the longest substring without repeating characters
 
 **Difficulty**: Medium | **Topics**: strings, sliding window
 
@@ -254,6 +243,17 @@ Call stack, callback queue, microtask queue
 <summary>💡 Hint</summary>
 
 Sliding window, hash map, two pointers
+
+</details>
+
+### 3. SystemDesign: Design Twitter's timeline feature
+
+**Difficulty**: Hard | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 19 May 2026 01:50:00 GMT</b><br/>
+  <b>Last automated update: Tue, 19 May 2026 06:04:48 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
