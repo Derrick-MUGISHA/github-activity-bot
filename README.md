@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Cloud**: 🟦🟦🟦🟦 9 (8.6%)
 
-**WebDev**: 🟦🟦🟦 7 (6.7%)
+**WebDev**: 🟦🟦🟦 6 (5.7%)
 
 **Database**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦 3 (2.9%)
+**Mobile**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 3 (2.9%)
+**DevOps**: 🟦 3 (2.9%)
 
 **Security**:  1 (1.0%)
 
@@ -60,32 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6 (27.6%)
-Java            █████████████████████████ 23.0 (23.0%)
-Go              ████████████████████████ 21.8 (21.8%)
-Python          ████████████████████ 18.4 (18.4%)
-Rust            ██████ 5.7 (5.7%)
-Kotlin          ███ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Go              ███████████████████████████ 23.6 (23.6%)
+Java            █████████████████████████ 21.3 (21.3%)
+Python          ██████████████████████ 19.1 (19.1%)
+Rust            ███████ 5.6 (5.6%)
+Kotlin          ███ 2.2 (2.2%)
 PHP             █ 1.1 (1.1%)
+Swift           █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 20
-    "Go" : 19
-    "Python" : 16
+    "JavaScript" : 23
+    "Go" : 21
+    "Java" : 19
+    "Python" : 17
     "Rust" : 5
     "Kotlin" : 2
     "PHP" : 1
+    "Swift" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) 
 
 
 
@@ -125,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-19 8:00 CAT)
+## 📅 Latest Updates (2026-05-19 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -142,39 +144,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frp8m5tkiq2bm465ukvrq.png" width="200" alt="I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals" />
-      <br/>
-      <b>I Ran AI Models Directly in the Browser and Measur...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-47g6">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F37bwctkka02kg4m9mzlj.png" width="200" alt="Meme Monday" />
       <br/>
       <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png" width="200" alt="Agent Development Kit for Google Apps Script" />
-      <br/>
-      <b>Agent Development Kit for Google Apps Script</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png" width="200" alt="Deploying a Rust A2A Agent to Google Cloud Run" />
-      <br/>
-      <b>Deploying a Rust A2A Agent to Google Cloud Run</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -189,6 +162,35 @@ npm run test
     <sub>Dev.to</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faothqiyg4rjotxj5q8an.png" width="200" alt="Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp" />
+      <br/>
+      <b>Building a Local-First Hotel Receptionist with Gem...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png" width="200" alt="Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines" />
+      <br/>
+      <b>Genkit Middleware: Intercept, Extend and Harden yo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png" width="200" alt="Agent Development Kit for Google Apps Script" />
+      <br/>
+      <b>Agent Development Kit for Google Apps Script</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
 </table>
 
 
@@ -196,13 +198,12 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd) _[Dev.to]_
-- [I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals](https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-47g6) _[Dev.to]_
-- [Agent Development Kit for Google Apps Script](https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho) _[Dev.to]_
-- [Deploying a Rust A2A Agent to Google Cloud Run](https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
+- [Agent Development Kit for Google Apps Script](https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho) _[Dev.to]_
+- [Deploying a Rust A2A Agent to Google Cloud Run](https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd) _[Dev.to]_
 - [Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally](https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a) _[Dev.to]_
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-110l) _[Dev.to]_
 - [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc) _[Dev.to]_
@@ -213,10 +214,11 @@ npm run test
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
 - [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
+- [I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals](https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj) _[Dev.to]_
 - [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Tue, 19 May 2026 08:04:48 CAT_
+_Last automated update: Tue, 19 May 2026 12:06:44 CAT_
 
 
 
@@ -224,36 +226,36 @@ _Last automated update: Tue, 19 May 2026 08:04:48 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a distributed cache system
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Execution timing, event loop phases
 
 </details>
 
-### 2. DataStructures: Find the longest substring without repeating characters
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. Database: Explain database indexing and when to use it
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+B-tree, trade-offs, query performance
 
 </details>
 
@@ -287,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 19 May 2026 06:04:48 GMT</b><br/>
+  <b>Last automated update: Tue, 19 May 2026 10:06:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
