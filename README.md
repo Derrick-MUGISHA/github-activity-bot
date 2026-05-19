@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-18-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-19-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3 (27.3%)
-Go              █████████████████████████ 22.7 (22.7%)
-Java            █████████████████████████ 22.7 (22.7%)
-Python          ████████████████████ 18.2 (18.2%)
+JavaScript      ██████████████████████████████ 27.6 (27.6%)
+Java            █████████████████████████ 23.0 (23.0%)
+Go              ████████████████████████ 21.8 (21.8%)
+Python          ████████████████████ 18.4 (18.4%)
 Rust            ██████ 5.7 (5.7%)
 Kotlin          ███ 2.3 (2.3%)
 PHP             █ 1.1 (1.1%)
@@ -73,8 +73,8 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 24
-    "Go" : 20
     "Java" : 20
+    "Go" : 19
     "Python" : 16
     "Rust" : 5
     "Kotlin" : 2
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-19 1:00 CAT)
+## 📅 Latest Updates (2026-05-19 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
 - [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Tue, 19 May 2026 01:45:04 CAT_
+_Last automated update: Tue, 19 May 2026 03:50:00 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Tue, 19 May 2026 01:45:04 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 18 May 2026 23:45:04 GMT</b><br/>
+  <b>Last automated update: Tue, 19 May 2026 01:50:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
