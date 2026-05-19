@@ -16,6 +16,21 @@
       "user": "bebechien"
     },
     {
+      "title": "Gemini 3.5 Flash Developer Guide",
+      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
+      "published_at": "2026-05-19T17:55:34Z",
+      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "published_at": "2026-05-18T11:21:44Z",
@@ -73,51 +88,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
-    },
-    {
-      "title": "Agent Development Kit for Google Apps Script",
-      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
-      "published_at": "2026-05-18T08:50:37Z",
-      "description": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
-      "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a",
-      "published_at": "2026-05-18T01:21:13Z",
-      "description": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the...",
-      "tags": [
-        "gemma",
-        "handson",
-        "lmstudio",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz8fok20yeklqrjhp8jx.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -208,18 +178,49 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
-      "url": "https://dev.to/gde/gemmafin-breaking-the-cycle-of-debt-with-conversational-ai-4l7n",
-      "published_at": "2026-05-15T14:31:00Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4  Note: This project is aimed at...",
+      "title": "Agent Development Kit for Google Apps Script",
+      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
+      "published_at": "2026-05-18T08:50:37Z",
+      "description": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "adk"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1crzl9u78pn26l5xf0ci.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
       "source": "Dev.to",
-      "user": "Vinicius F. Caridá"
+      "user": "Tanaike"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
+      "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a",
+      "published_at": "2026-05-18T01:21:13Z",
+      "description": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the...",
+      "tags": [
+        "gemma",
+        "handson",
+        "lmstudio",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz8fok20yeklqrjhp8jx.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -626,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 679,
       "user": "Doorman11991"
     },
     {
@@ -896,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 679,
       "user": "Doorman11991"
     },
     {
@@ -926,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 571,
       "user": "PrimeKeeper58"
     },
     {
@@ -941,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 544,
       "user": "stephenlthorn"
     },
     {
@@ -1123,7 +1124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1190,
       "user": "facebookresearch"
     },
     {
@@ -1138,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 784,
       "user": "Kappaemme-git"
     },
     {
@@ -1153,7 +1154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 573,
       "user": "EnsignKazekage"
     },
     {
@@ -1168,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "feder-cr"
     },
     {
@@ -1381,21 +1382,6 @@
   ],
   "Cloud": [
     {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
       "published_at": "2026-05-14T15:18:37Z",
@@ -1453,6 +1439,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
       "source": "Dev.to",
       "user": "Allen Firstenberg"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Deploying a Rust MCP Server to Azure Appservice",
@@ -1758,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 679,
       "user": "Doorman11991"
     },
     {
@@ -1788,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 571,
       "user": "PrimeKeeper58"
     },
     {
@@ -1803,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 544,
       "user": "stephenlthorn"
     },
     {
@@ -1833,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1190,
       "user": "facebookresearch"
     },
     {
@@ -1848,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 784,
       "user": "Kappaemme-git"
     },
     {
@@ -1863,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 573,
       "user": "EnsignKazekage"
     },
     {
@@ -1878,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "feder-cr"
     },
     {
@@ -1897,6 +1898,21 @@
       "user": "simonlin1212"
     },
     {
+      "title": "rockorager/comview - the best diff viewer ever made",
+      "url": "https://github.com/rockorager/comview",
+      "published_at": "2026-05-14T22:17:40Z",
+      "description": "the best diff viewer ever made",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "rockorager"
+    },
+    {
       "title": "vadimsemenykv/saboteur - GitHub Repository",
       "url": "https://github.com/vadimsemenykv/saboteur",
       "published_at": "2026-05-15T18:07:46Z",
@@ -1910,21 +1926,6 @@
       "source": "GitHub",
       "stars": 158,
       "user": "vadimsemenykv"
-    },
-    {
-      "title": "rockorager/comview - the best diff viewer ever made",
-      "url": "https://github.com/rockorager/comview",
-      "published_at": "2026-05-14T22:17:40Z",
-      "description": "the best diff viewer ever made",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
-      "source": "GitHub",
-      "stars": 157,
-      "user": "rockorager"
     },
     {
       "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
@@ -1953,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "walkingddd"
     },
     {
