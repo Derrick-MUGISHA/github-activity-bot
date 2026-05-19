@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Demystifying AI Agents with Turtle & Gemma",
+      "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
+      "published_at": "2026-05-19T00:37:24Z",
+      "description": "🐢 Speaking into Canvas   If you're anything like me, your very first taste of \"programming\"...",
+      "tags": [
+        "turtle",
+        "gemma",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fbebechien%2Fcozy-corner-future%2Fdevto-sync%2Fposts%2Fimages%2Fdemystifying-ai-agents-with-turtle-gemma.png",
+      "source": "Dev.to",
+      "user": "bebechien"
+    },
+    {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "published_at": "2026-05-18T11:21:44Z",
@@ -163,21 +178,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
-      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj",
-      "published_at": "2026-05-17T07:37:49Z",
-      "description": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
-      "tags": [
-        "webdev",
-        "ai",
-        "webvitals",
-        "corewebvitals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frp8m5tkiq2bm465ukvrq.png",
-      "source": "Dev.to",
-      "user": "Srikar Phani Kumar Marti"
-    },
-    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
       "published_at": "2026-05-13T06:30:47Z",
@@ -235,20 +235,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
-    },
-    {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -640,7 +626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 664,
       "user": "Doorman11991"
     },
     {
@@ -655,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 394,
       "user": "simonlin1212"
     }
   ],
@@ -899,21 +885,6 @@
       "user": "velmu"
     },
     {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "boona13"
-    },
-    {
       "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
       "url": "https://github.com/Doorman11991/smallcode",
       "published_at": "2026-05-18T06:19:44Z",
@@ -925,8 +896,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 664,
       "user": "Doorman11991"
+    },
+    {
+      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "url": "https://github.com/boona13/mykonos-island-voxels",
+      "published_at": "2026-05-14T05:35:33Z",
+      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
+      "source": "GitHub",
+      "stars": 655,
+      "user": "boona13"
     },
     {
       "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
@@ -940,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 566,
       "user": "PrimeKeeper58"
     },
     {
@@ -955,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 542,
       "user": "stephenlthorn"
     },
     {
@@ -970,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "arbitrageBot-group"
     }
   ],
@@ -1137,7 +1123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1180,
       "user": "facebookresearch"
     },
     {
@@ -1152,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 781,
       "user": "Kappaemme-git"
     },
     {
@@ -1167,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 569,
       "user": "EnsignKazekage"
     },
     {
@@ -1182,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 508,
       "user": "feder-cr"
     },
     {
@@ -1197,7 +1183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 394,
       "user": "simonlin1212"
     }
   ],
@@ -1389,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 655,
       "user": "boona13"
     }
   ],
@@ -1615,6 +1601,20 @@
   ],
   "Tools": [
     {
+      "title": "Terminal Superpowers You Should Be Using in 2026",
+      "url": "https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4",
+      "published_at": "2026-05-19T15:00:00Z",
+      "description": "I live in my terminal. Here's what I use to stay fast.   Fuzzy finder (fzf) Terminal motions Sudo...",
+      "tags": [
+        "productivity",
+        "cli",
+        "zsh"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
+    },
+    {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "published_at": "2026-05-18T11:21:44Z",
@@ -1747,21 +1747,6 @@
       "user": "Brus-Nockk"
     },
     {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "boona13"
-    },
-    {
       "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
       "url": "https://github.com/Doorman11991/smallcode",
       "published_at": "2026-05-18T06:19:44Z",
@@ -1773,8 +1758,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 664,
       "user": "Doorman11991"
+    },
+    {
+      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "url": "https://github.com/boona13/mykonos-island-voxels",
+      "published_at": "2026-05-14T05:35:33Z",
+      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
+      "source": "GitHub",
+      "stars": 655,
+      "user": "boona13"
     },
     {
       "title": "PrimeKeeper58/blooket-hacks - blooket menu || blooket || blooket hacks",
@@ -1788,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 566,
       "user": "PrimeKeeper58"
     },
     {
@@ -1803,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 542,
       "user": "stephenlthorn"
     },
     {
@@ -1818,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "arbitrageBot-group"
     },
     {
@@ -1833,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1180,
       "user": "facebookresearch"
     },
     {
@@ -1848,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 781,
       "user": "Kappaemme-git"
     },
     {
@@ -1863,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 569,
       "user": "EnsignKazekage"
     },
     {
@@ -1878,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 508,
       "user": "feder-cr"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 394,
       "user": "simonlin1212"
     },
     {
@@ -1910,6 +1910,21 @@
       "source": "GitHub",
       "stars": 158,
       "user": "vadimsemenykv"
+    },
+    {
+      "title": "rockorager/comview - the best diff viewer ever made",
+      "url": "https://github.com/rockorager/comview",
+      "published_at": "2026-05-14T22:17:40Z",
+      "description": "the best diff viewer ever made",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "rockorager"
     },
     {
       "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
@@ -1942,21 +1957,6 @@
       "user": "walkingddd"
     },
     {
-      "title": "rockorager/comview - the best diff viewer ever made",
-      "url": "https://github.com/rockorager/comview",
-      "published_at": "2026-05-14T22:17:40Z",
-      "description": "the best diff viewer ever made",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "rockorager"
-    },
-    {
       "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
       "url": "https://github.com/kamalyes/go-argus",
       "published_at": "2026-05-16T00:18:31Z",
@@ -1968,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "kamalyes"
     }
   ]
