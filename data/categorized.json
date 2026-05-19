@@ -1,51 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
-      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj",
-      "published_at": "2026-05-17T07:37:49Z",
-      "description": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
-      "tags": [
-        "webdev",
-        "ai",
-        "webvitals",
-        "corewebvitals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frp8m5tkiq2bm465ukvrq.png",
-      "source": "Dev.to",
-      "user": "Srikar Phani Kumar Marti"
-    },
-    {
-      "title": "Agent Development Kit for Google Apps Script",
-      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
-      "published_at": "2026-05-18T08:50:37Z",
-      "description": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
       "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c",
       "published_at": "2026-05-15T06:29:33Z",
@@ -88,6 +43,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png",
       "source": "Dev.to",
       "user": "Xavier Portilla Edo"
+    },
+    {
+      "title": "Agent Development Kit for Google Apps Script",
+      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
+      "published_at": "2026-05-18T08:50:37Z",
+      "description": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
@@ -161,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
+      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj",
+      "published_at": "2026-05-17T07:37:49Z",
+      "description": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
+      "tags": [
+        "webdev",
+        "ai",
+        "webvitals",
+        "corewebvitals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frp8m5tkiq2bm465ukvrq.png",
+      "source": "Dev.to",
+      "user": "Srikar Phani Kumar Marti"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -455,6 +455,36 @@
       "user": "Xavier Portilla Edo"
     },
     {
+      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
+      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
+      "published_at": "2026-05-06T20:48:25Z",
+      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
+      "tags": [
+        "cli",
+        "go",
+        "infrastructure",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
+      "source": "Dev.to",
+      "user": "Brus-Nockk"
+    },
+    {
+      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
+      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
+      "published_at": "2026-05-03T00:00:00Z",
+      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "devrel",
+        "burnout"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
+      "source": "Dev.to",
+      "user": "Filipe Brito Ferreira"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -610,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 605,
       "user": "Doorman11991"
     },
     {
@@ -625,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 369,
       "user": "simonlin1212"
     }
   ],
@@ -674,19 +704,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
-    },
-    {
-      "title": "Building Simple Tabs with Vanilla JavaScript",
-      "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
-      "published_at": "2026-05-15T11:26:06Z",
-      "description": "Tabs are one of those UI patterns you see everywhere — dashboards, settings pages, pricing sections,...",
-      "tags": [
-        "javascript",
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
-      "source": "Dev.to",
-      "user": "Razvan Zamfir"
     },
     {
       "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
@@ -893,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 649,
       "user": "boona13"
     },
     {
@@ -908,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 605,
       "user": "Doorman11991"
     },
     {
@@ -923,7 +940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 553,
       "user": "PrimeKeeper58"
     },
     {
@@ -938,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 523,
       "user": "stephenlthorn"
     },
     {
@@ -953,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 295,
       "user": "arbitrageBot-group"
     }
   ],
@@ -972,6 +989,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Raihan"
+    },
+    {
+      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
+      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
+      "published_at": "2026-05-06T20:48:25Z",
+      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
+      "tags": [
+        "cli",
+        "go",
+        "infrastructure",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
+      "source": "Dev.to",
+      "user": "Brus-Nockk"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1105,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1105,
       "user": "facebookresearch"
     },
     {
@@ -1120,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 771,
       "user": "Kappaemme-git"
     },
     {
@@ -1135,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 554,
       "user": "EnsignKazekage"
     },
     {
@@ -1150,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 467,
       "user": "feder-cr"
     },
     {
@@ -1165,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 369,
       "user": "simonlin1212"
     }
   ],
@@ -1216,19 +1248,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Building Simple Tabs with Vanilla JavaScript",
-      "url": "https://dev.to/zamfir80/building-simple-tabs-with-vanilla-javascript-307n",
-      "published_at": "2026-05-15T11:26:06Z",
-      "description": "Tabs are one of those UI patterns you see everywhere — dashboards, settings pages, pricing sections,...",
-      "tags": [
-        "javascript",
-        "css"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1s1fsskvz1xjqi8jq17h.png",
-      "source": "Dev.to",
-      "user": "Razvan Zamfir"
-    },
     {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
@@ -1344,6 +1363,21 @@
       "user": "Thomas Künneth"
     },
     {
+      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
+      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
+      "published_at": "2026-05-06T20:48:25Z",
+      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
+      "tags": [
+        "cli",
+        "go",
+        "infrastructure",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
+      "source": "Dev.to",
+      "user": "Brus-Nockk"
+    },
+    {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "url": "https://github.com/boona13/mykonos-island-voxels",
       "published_at": "2026-05-14T05:35:33Z",
@@ -1355,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 649,
       "user": "boona13"
     }
   ],
@@ -1561,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "aymanhs"
     }
   ],
@@ -1683,6 +1717,21 @@
       "user": "Josh Saint Jacque"
     },
     {
+      "title": "How I Built a CLI Tool That Generates and Manages Its Own Infrastructure",
+      "url": "https://dev.to/brusnockk/how-i-built-a-cli-tool-that-generates-and-manages-its-own-infrastructure-56oa",
+      "published_at": "2026-05-06T20:48:25Z",
+      "description": "A plain-English walkthrough of building SwiftDeploy — a declarative deployment tool in Go and...",
+      "tags": [
+        "cli",
+        "go",
+        "infrastructure",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekcikl852jbxilej5na9.png",
+      "source": "Dev.to",
+      "user": "Brus-Nockk"
+    },
+    {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "url": "https://github.com/boona13/mykonos-island-voxels",
       "published_at": "2026-05-14T05:35:33Z",
@@ -1694,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 649,
       "user": "boona13"
     },
     {
@@ -1709,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 605,
       "user": "Doorman11991"
     },
     {
@@ -1724,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 553,
       "user": "PrimeKeeper58"
     },
     {
@@ -1739,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 523,
       "user": "stephenlthorn"
     },
     {
@@ -1754,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 295,
       "user": "arbitrageBot-group"
     },
     {
@@ -1769,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1105,
       "user": "facebookresearch"
     },
     {
@@ -1784,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 771,
       "user": "Kappaemme-git"
     },
     {
@@ -1799,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 554,
       "user": "EnsignKazekage"
     },
     {
@@ -1814,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 467,
       "user": "feder-cr"
     },
     {
@@ -1829,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 369,
       "user": "simonlin1212"
     },
     {
@@ -1859,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "aymanhs"
     },
     {
@@ -1874,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 99,
       "user": "walkingddd"
     },
     {
@@ -1889,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 75,
       "user": "rockorager"
     },
     {
@@ -1904,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "kamalyes"
     }
   ]
