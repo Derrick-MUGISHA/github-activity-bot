@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "published_at": "2026-05-18T11:21:44Z",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "tags": [
+        "ai",
+        "opensource",
+        "transparency",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
       "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c",
       "published_at": "2026-05-15T06:29:33Z",
@@ -470,21 +485,6 @@
       "user": "Brus-Nockk"
     },
     {
-      "title": "We're Shipping More Code Than Ever. We Understand Less of It.",
-      "url": "https://dev.to/fbritoferreira/were-shipping-more-code-than-ever-we-understand-less-of-it-93n",
-      "published_at": "2026-05-03T00:00:00Z",
-      "description": "A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "devrel",
-        "burnout"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfa4orqnh1bjcbslj7fp.png",
-      "source": "Dev.to",
-      "user": "Filipe Brito Ferreira"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 633,
       "user": "Doorman11991"
     },
     {
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "simonlin1212"
     }
   ],
@@ -910,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "boona13"
     },
     {
@@ -925,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 633,
       "user": "Doorman11991"
     },
     {
@@ -940,7 +940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 561,
       "user": "PrimeKeeper58"
     },
     {
@@ -955,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 533,
       "user": "stephenlthorn"
     },
     {
@@ -970,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 301,
       "user": "arbitrageBot-group"
     }
   ],
@@ -1137,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1143,
       "user": "facebookresearch"
     },
     {
@@ -1152,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 777,
       "user": "Kappaemme-git"
     },
     {
@@ -1167,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 561,
       "user": "EnsignKazekage"
     },
     {
@@ -1182,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 486,
       "user": "feder-cr"
     },
     {
@@ -1197,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "simonlin1212"
     }
   ],
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "boona13"
     }
   ],
@@ -1615,6 +1615,21 @@
   ],
   "Tools": [
     {
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "published_at": "2026-05-18T11:21:44Z",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "tags": [
+        "ai",
+        "opensource",
+        "transparency",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
       "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
       "published_at": "2026-05-13T19:13:14Z",
@@ -1743,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "boona13"
     },
     {
@@ -1758,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 633,
       "user": "Doorman11991"
     },
     {
@@ -1773,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 561,
       "user": "PrimeKeeper58"
     },
     {
@@ -1788,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 533,
       "user": "stephenlthorn"
     },
     {
@@ -1803,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 301,
       "user": "arbitrageBot-group"
     },
     {
@@ -1818,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1143,
       "user": "facebookresearch"
     },
     {
@@ -1833,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 777,
       "user": "Kappaemme-git"
     },
     {
@@ -1848,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 561,
       "user": "EnsignKazekage"
     },
     {
@@ -1863,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 486,
       "user": "feder-cr"
     },
     {
@@ -1878,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "simonlin1212"
     },
     {
@@ -1923,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80940444?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 106,
       "user": "walkingddd"
     },
     {
@@ -1938,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 104,
       "user": "rockorager"
     },
     {
@@ -1953,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "kamalyes"
     }
   ]
