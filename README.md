@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -40,11 +40,11 @@
 
 **WebDev**: 🟦🟦🟦 6 (5.7%)
 
-**Database**: 🟦🟦 5 (4.8%)
-
 **Mobile**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (2.9%)
+**Database**: 🟦🟦 4 (3.8%)
+
+**DevOps**: 🟦 2 (1.9%)
 
 **Security**:  1 (1.0%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.6 (25.6%)
-Go              █████████████████████████████ 24.4 (24.4%)
-Java            █████████████████████████ 21.1 (21.1%)
-Python          ██████████████████████ 18.9 (18.9%)
-Rust            ███████ 5.6 (5.6%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Go              █████████████████████████████ 24.7 (24.7%)
+Java            █████████████████████████ 21.5 (21.5%)
+Python          █████████████████████ 18.3 (18.3%)
+Rust            ██████ 5.4 (5.4%)
 Kotlin          ███ 2.2 (2.2%)
 PHP             █ 1.1 (1.1%)
 Swift           █ 1.1 (1.1%)
@@ -73,9 +73,9 @@ Swift           █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Go" : 22
-    "Java" : 19
+    "JavaScript" : 24
+    "Go" : 23
+    "Java" : 20
     "Python" : 17
     "Rust" : 5
     "Kotlin" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-19 22:00 CAT)
+## 📅 Latest Updates (2026-05-19 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,6 +153,26 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png" width="200" alt="I built a free debugger because Next.js 16 'use cache' was completely invisible during development" />
+      <br/>
+      <b>I built a free debugger because Next.js 16 'use ca...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/building-a-rust-a2a-agent-4626">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png" width="200" alt="Building a Rust A2A Agent" />
+      <br/>
+      <b>Building a Rust A2A Agent</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/googleai/gemini-35-flash-developer-guide-1i46">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png" width="200" alt="Gemini 3.5 Flash Developer Guide" />
       <br/>
@@ -161,31 +181,11 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffh73pygd9v3jjyae30ho.jpg" width="200" alt="Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!" />
       <br/>
       <b>Tune in and Join the Google I/O 2026 Writing Chall...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png" width="200" alt="Terminal Superpowers You Should Be Using in 2026" />
-      <br/>
-      <b>Terminal Superpowers You Should Be Using in 2026</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png" width="200" alt="DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You" />
-      <br/>
-      <b>DeepSeek Is Running Inside Your Favorite AI Tool –...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,11 +199,14 @@ npm run test
 
 - [Demystifying AI Agents with Turtle & Gemma](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj) _[Dev.to]_
 - [Great Little Software: Rackula](https://dev.to/valeriavg/great-little-software-rackula-1pa1) _[Dev.to]_
+- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8) _[Dev.to]_
+- [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
 - [Gemini 3.5 Flash Developer Guide](https://dev.to/googleai/gemini-35-flash-developer-guide-1i46) _[Dev.to]_
 - [Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!](https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl) _[Dev.to]_
 - [Terminal Superpowers You Should Be Using in 2026](https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4) _[Dev.to]_
 - [DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd) _[Dev.to]_
+- [Google Cloud & Claude Code workshop - 5/29 in SF, CA.](https://dev.to/googleai/google-cloud-claude-code-workshop-529-in-sf-ca-4k87) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
@@ -213,12 +216,9 @@ npm run test
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
 - [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
-- [SQL Execution Order: Write Queries That Think Like the Database](https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
-- [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
-- [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Tue, 19 May 2026 22:13:00 CAT_
+_Last automated update: Tue, 19 May 2026 23:46:34 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 19 May 2026 22:13:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Mutability, performance, use cases
 
 </details>
 
-### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
+### 2. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Easy | **Topics**: variables, scope
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Scope, hoisting, and reassignment capabilities
+Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. JavaScript: Implement a debounce function from scratch
+### 3. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Token bucket, sliding window, Redis
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 19 May 2026 20:13:00 GMT</b><br/>
+  <b>Last automated update: Tue, 19 May 2026 21:46:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
