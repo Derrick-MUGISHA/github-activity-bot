@@ -16,6 +16,21 @@
       "user": "bebechien"
     },
     {
+      "title": "Building a Rust A2A Agent",
+      "url": "https://dev.to/gde/building-a-rust-a2a-agent-4626",
+      "published_at": "2026-05-18T12:52:55Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "agents",
+        "a2aprotocol",
+        "crate",
+        "rustprogramminglangu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Gemini 3.5 Flash Developer Guide",
       "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
       "published_at": "2026-05-19T17:55:34Z",
@@ -44,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
+      "url": "https://dev.to/googleai/google-cloud-claude-code-workshop-529-in-sf-ca-4k87",
+      "published_at": "2026-05-19T00:01:51Z",
+      "description": "Hey developers!   Want to learn best practices for integrating Claude into your Google Cloud...",
+      "tags": [
+        "ai",
+        "developers",
+        "eventsinyourcity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bese5i47m1i8iavzgkb.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
@@ -221,21 +250,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz8fok20yeklqrjhp8jx.png",
       "source": "Dev.to",
       "user": "leslysandra"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
-      "published_at": "2026-05-08T06:39:25Z",
-      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
-      "tags": [
-        "ai",
-        "llm",
-        "buildinpublic",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
-      "source": "Dev.to",
-      "user": "Sanket Sahu"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -627,7 +641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 704,
       "user": "Doorman11991"
     },
     {
@@ -642,11 +656,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "simonlin1212"
     }
   ],
   "JavaScript": [
+    {
+      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
+      "published_at": "2026-05-19T10:29:28Z",
+      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
+    },
     {
       "title": "Unity begone",
       "url": "https://dev.to/sarthakganguly/unity-begone-56kc",
@@ -897,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 704,
       "user": "Doorman11991"
     },
     {
@@ -927,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 576,
       "user": "PrimeKeeper58"
     },
     {
@@ -957,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "arbitrageBot-group"
     }
   ],
@@ -1124,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1200,
+      "stars": 1201,
       "user": "facebookresearch"
     },
     {
@@ -1139,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "Kappaemme-git"
     },
     {
@@ -1154,7 +1183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "EnsignKazekage"
     },
     {
@@ -1169,7 +1198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 529,
       "user": "feder-cr"
     },
     {
@@ -1184,26 +1213,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "simonlin1212"
     }
   ],
   "DevOps": [
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
-      "published_at": "2026-05-08T06:39:25Z",
-      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
-      "tags": [
-        "ai",
-        "llm",
-        "buildinpublic",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
-      "source": "Dev.to",
-      "user": "Sanket Sahu"
-    },
     {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
       "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
@@ -1382,6 +1396,20 @@
   ],
   "Cloud": [
     {
+      "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
+      "url": "https://dev.to/googleai/google-cloud-claude-code-workshop-529-in-sf-ca-4k87",
+      "published_at": "2026-05-19T00:01:51Z",
+      "description": "Hey developers!   Want to learn best practices for integrating Claude into your Google Cloud...",
+      "tags": [
+        "ai",
+        "developers",
+        "eventsinyourcity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bese5i47m1i8iavzgkb.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
       "published_at": "2026-05-14T15:18:37Z",
@@ -1456,21 +1484,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying a Rust MCP Server to Azure Appservice",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-appservice-g9c",
-      "published_at": "2026-05-17T12:39:30Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "mcps",
-        "rust",
-        "azure",
-        "azureappservice"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Azure ACI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
       "published_at": "2026-05-15T13:02:34Z",
@@ -1517,19 +1530,6 @@
     }
   ],
   "Database": [
-    {
-      "title": "SQL Execution Order: Write Queries That Think Like the Database",
-      "url": "https://dev.to/kalkwst/sql-execution-order-write-queries-that-think-like-the-database-13lf",
-      "published_at": "2026-05-13T09:53:32Z",
-      "description": "Most SQL bugs aren't logic errors. They're sequence errors — the result of writing a query in one...",
-      "tags": [
-        "beginners",
-        "sql"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vy3wx3d00jxb34am25s.png",
-      "source": "Dev.to",
-      "user": "Kostas Kalafatis"
-    },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
       "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
@@ -1759,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 704,
       "user": "Doorman11991"
     },
     {
@@ -1789,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874387?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 576,
       "user": "PrimeKeeper58"
     },
     {
@@ -1819,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "arbitrageBot-group"
     },
     {
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1200,
+      "stars": 1201,
       "user": "facebookresearch"
     },
     {
@@ -1849,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 786,
       "user": "Kappaemme-git"
     },
     {
@@ -1864,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273873846?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "EnsignKazekage"
     },
     {
@@ -1879,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 529,
       "user": "feder-cr"
     },
     {
@@ -1894,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166034225?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "simonlin1212"
     },
     {
@@ -1909,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 174,
       "user": "rockorager"
     },
     {
