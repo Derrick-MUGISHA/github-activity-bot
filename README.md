@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-7-blue)
+![Languages](https://img.shields.io/badge/Languages-6-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-20-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 21 (20.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦 3 (2.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Mobile**: 🟦 3 (2.9%)
 
 **Database**: 🟦 3 (2.9%)
 
-**Security**:  1 (1.0%)
+**Security**: 🟦 2 (1.9%)
 
 
 
@@ -60,32 +60,30 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8 (25.8%)
-Go              █████████████████████████████ 24.7 (24.7%)
-Java            █████████████████████████ 21.3 (21.3%)
-Python          █████████████████████ 18.0 (18.0%)
-Rust            ████████ 6.7 (6.7%)
-Kotlin          ███ 2.2 (2.2%)
-PHP             █ 1.1 (1.1%)
+Go              ██████████████████████████████ 24.7 (24.7%)
+JavaScript      ██████████████████████████████ 24.7 (24.7%)
+Java            ██████████████████████████ 21.2 (21.2%)
+Python          ████████████████████████ 20.0 (20.0%)
+Rust            █████████ 7.1 (7.1%)
+Kotlin          ███ 2.4 (2.4%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Go" : 22
-    "Java" : 19
-    "Python" : 16
+    "Go" : 21
+    "JavaScript" : 21
+    "Java" : 18
+    "Python" : 17
     "Rust" : 6
     "Kotlin" : 2
-    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,12 +123,41 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-20 16:00 CAT)
+## 📅 Latest Updates (2026-05-20 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png" width="200" alt="I decided to build a Kubernetes alternative. Yes, I know I'm crazy" />
+      <br/>
+      <b>I decided to build a Kubernetes alternative. Yes, ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc52tys36onc0skhr5o4.jpeg" width="200" alt="Google I/O 2026 - Day 1 - Live from the Front Row" />
+      <br/>
+      <b>Google I/O 2026 - Day 1 - Live from the Front Row</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png" width="200" alt="Found a Coordinated GitHub Follow Botnet Hiding in My Followers?" />
+      <br/>
+      <b>Found a Coordinated GitHub Follow Botnet Hiding in...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
 <tr>
   <td align="center" width="33%">
     <a href="https://dev.to/valeriavg/great-little-software-rackula-1pa1">
@@ -160,41 +187,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
 </tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/gemini-35-flash-developer-guide-1i46">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png" width="200" alt="Gemini 3.5 Flash Developer Guide" />
-      <br/>
-      <b>Gemini 3.5 Flash Developer Guide</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffh73pygd9v3jjyae30ho.jpg" width="200" alt="Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!" />
-      <br/>
-      <b>Tune in and Join the Google I/O 2026 Writing Chall...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png" width="200" alt="Terminal Superpowers You Should Be Using in 2026" />
-      <br/>
-      <b>Terminal Superpowers You Should Be Using in 2026</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
 </table>
 
 
 
 ### 📰 Top Headlines
 
+- [I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5) _[Dev.to]_
+- [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) _[Dev.to]_
+- [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl) _[Dev.to]_
 - [Great Little Software: Rackula](https://dev.to/valeriavg/great-little-software-rackula-1pa1) _[Dev.to]_
 - [Demystifying AI Agents with Turtle & Gemma](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj) _[Dev.to]_
 - [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
@@ -205,7 +206,6 @@ npm run test
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
-- [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 - [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8) _[Dev.to]_
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
@@ -213,10 +213,8 @@ npm run test
 - [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
-- [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
-- [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Wed, 20 May 2026 16:03:03 CAT_
+_Last automated update: Wed, 20 May 2026 19:27:42 CAT_
 
 
 
@@ -224,36 +222,36 @@ _Last automated update: Wed, 20 May 2026 16:03:03 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -287,7 +285,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 20 May 2026 14:03:03 GMT</b><br/>
+  <b>Last automated update: Wed, 20 May 2026 17:27:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
