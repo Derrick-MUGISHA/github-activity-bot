@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-20 23:00 CAT)
+## 📅 Latest Updates (2026-05-21 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -216,7 +216,7 @@ npm run test
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 
-_Last automated update: Wed, 20 May 2026 23:23:40 CAT_
+_Last automated update: Thu, 21 May 2026 00:50:52 CAT_
 
 
 
@@ -235,25 +235,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. JavaScript: What is the event loop and how does it work?
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 20 May 2026 21:23:40 GMT</b><br/>
+  <b>Last automated update: Wed, 20 May 2026 22:50:52 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
