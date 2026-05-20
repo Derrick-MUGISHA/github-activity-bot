@@ -30,7 +30,7 @@
 
 **AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-20 21:00 CAT)
+## 📅 Latest Updates (2026-05-20 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -171,19 +171,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/valeriavg/great-little-software-rackula-1pa1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7z1fd5ahsh3785vva8ll.png" width="200" alt="Great Little Software: Rackula" />
+    <a href="https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png" width="200" alt="Google I/O 2026: From Consumer to Builder" />
       <br/>
-      <b>Great Little Software: Rackula</b>
+      <b>Google I/O 2026: From Consumer to Builder</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fbebechien%2Fcozy-corner-future%2Fdevto-sync%2Fposts%2Fimages%2Fdemystifying-ai-agents-with-turtle-gemma.png" width="200" alt="Demystifying AI Agents with Turtle & Gemma" />
+    <a href="https://dev.to/valeriavg/great-little-software-rackula-1pa1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7z1fd5ahsh3785vva8ll.png" width="200" alt="Great Little Software: Rackula" />
       <br/>
-      <b>Demystifying AI Agents with Turtle & Gemma</b>
+      <b>Great Little Software: Rackula</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,11 +199,12 @@ npm run test
 - [I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5) _[Dev.to]_
 - [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl) _[Dev.to]_
 - [My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.](https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13) _[Dev.to]_
+- [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 - [Great Little Software: Rackula](https://dev.to/valeriavg/great-little-software-rackula-1pa1) _[Dev.to]_
 - [Demystifying AI Agents with Turtle & Gemma](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj) _[Dev.to]_
+- [Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices](https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5) _[Dev.to]_
 - [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
 - [Drow.js: A Practical Look at the Tiny Web Components Library](https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9) _[Dev.to]_
-- [Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices](https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5) _[Dev.to]_
 - [Gemini 3.5 Flash Developer Guide](https://dev.to/googleai/gemini-35-flash-developer-guide-1i46) _[Dev.to]_
 - [Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀](https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk) _[Dev.to]_
 - [Terminal Superpowers You Should Be Using in 2026](https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4) _[Dev.to]_
@@ -214,9 +215,8 @@ npm run test
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
-- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8) _[Dev.to]_
 
-_Last automated update: Wed, 20 May 2026 21:39:34 CAT_
+_Last automated update: Wed, 20 May 2026 23:23:40 CAT_
 
 
 
@@ -235,25 +235,25 @@ Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 3. React: Explain the difference between state and props
+### 3. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+with statement, setup/teardown, exception handling
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 20 May 2026 19:39:34 GMT</b><br/>
+  <b>Last automated update: Wed, 20 May 2026 21:23:40 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
