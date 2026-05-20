@@ -18,10 +18,10 @@
     "Tools": 23
   },
   "by_language": {
+    "Rust": 6,
+    "Go": 22,
     "JavaScript": 23,
     "Java": 19,
-    "Go": 22,
-    "Rust": 6,
     "Kotlin": 2,
     "Python": 16,
     "PHP": 1
@@ -85,21 +85,21 @@
     "devchallenge": 7,
     "agents": 6,
     "python": 6,
-    "productivity": 5,
     "gemma": 5,
+    "productivity": 5,
     "go": 5,
     "gemini": 4,
     "gemmachallenge": 4,
-    "nextjs": 3,
+    "a2aprotocol": 3,
     "llm": 3,
-    "a2aprotocol": 3
+    "nextjs": 3
   },
   "trending_topics": [],
   "language_percentages": {
+    "Rust": "6.7",
+    "Go": "24.7",
     "JavaScript": "25.8",
     "Java": "21.3",
-    "Go": "24.7",
-    "Rust": "6.7",
     "Kotlin": "2.2",
     "Python": "18.0",
     "PHP": "1.1"

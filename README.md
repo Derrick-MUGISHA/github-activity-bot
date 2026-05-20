@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-20 13:00 CAT)
+## 📅 Latest Updates (2026-05-20 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -133,39 +133,10 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png" width="200" alt="I built a free debugger because Next.js 16 'use cache' was completely invisible during development" />
-      <br/>
-      <b>I built a free debugger because Next.js 16 'use ca...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/valeriavg/great-little-software-rackula-1pa1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7z1fd5ahsh3785vva8ll.png" width="200" alt="Great Little Software: Rackula" />
       <br/>
       <b>Great Little Software: Rackula</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/gemini-35-flash-developer-guide-1i46">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png" width="200" alt="Gemini 3.5 Flash Developer Guide" />
-      <br/>
-      <b>Gemini 3.5 Flash Developer Guide</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png" width="200" alt="Terminal Superpowers You Should Be Using in 2026" />
-      <br/>
-      <b>Terminal Superpowers You Should Be Using in 2026</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -189,34 +160,63 @@ npm run test
     <sub>Dev.to</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/gemini-35-flash-developer-guide-1i46">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png" width="200" alt="Gemini 3.5 Flash Developer Guide" />
+      <br/>
+      <b>Gemini 3.5 Flash Developer Guide</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffh73pygd9v3jjyae30ho.jpg" width="200" alt="Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!" />
+      <br/>
+      <b>Tune in and Join the Google I/O 2026 Writing Chall...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png" width="200" alt="Terminal Superpowers You Should Be Using in 2026" />
+      <br/>
+      <b>Terminal Superpowers You Should Be Using in 2026</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
 </table>
 
 
 
 ### 📰 Top Headlines
 
-- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8) _[Dev.to]_
 - [Great Little Software: Rackula](https://dev.to/valeriavg/great-little-software-rackula-1pa1) _[Dev.to]_
-- [Gemini 3.5 Flash Developer Guide](https://dev.to/googleai/gemini-35-flash-developer-guide-1i46) _[Dev.to]_
-- [Terminal Superpowers You Should Be Using in 2026](https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4) _[Dev.to]_
 - [Demystifying AI Agents with Turtle & Gemma](https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj) _[Dev.to]_
 - [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
+- [Gemini 3.5 Flash Developer Guide](https://dev.to/googleai/gemini-35-flash-developer-guide-1i46) _[Dev.to]_
 - [Tune in and Join the Google I/O 2026 Writing Challenge: $1,000 in Prizes!!](https://dev.to/devteam/tune-in-and-join-the-google-io-2026-writing-challenge-1000-in-prizes-4apl) _[Dev.to]_
-- [DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47) _[Dev.to]_
+- [Terminal Superpowers You Should Be Using in 2026](https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4) _[Dev.to]_
 - [Google Cloud & Claude Code workshop - 5/29 in SF, CA.](https://dev.to/googleai/google-cloud-claude-code-workshop-529-in-sf-ca-4k87) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
 - [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
+- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8) _[Dev.to]_
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
 - [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 - [GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026](https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4) _[Dev.to]_
+- [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5) _[Dev.to]_
 
-_Last automated update: Wed, 20 May 2026 13:19:52 CAT_
+_Last automated update: Wed, 20 May 2026 16:03:03 CAT_
 
 
 
@@ -224,36 +224,36 @@ _Last automated update: Wed, 20 May 2026 13:19:52 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 20 May 2026 11:19:52 GMT</b><br/>
+  <b>Last automated update: Wed, 20 May 2026 14:03:03 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
