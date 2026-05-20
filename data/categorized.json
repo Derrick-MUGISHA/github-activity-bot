@@ -28,6 +28,21 @@
       "user": "Santhoshkumar. P"
     },
     {
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
+      "published_at": "2026-05-20T19:41:08Z",
+      "description": "I tune in to Google I/O every year. But this year felt different.  In the past, I watched as a...",
+      "tags": [
+        "ai",
+        "buildinpublic",
+        "google",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
+      "source": "Dev.to",
+      "user": "Michellebuchiokonicha"
+    },
+    {
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
       "published_at": "2026-05-19T00:37:24Z",
@@ -457,21 +472,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 822,
       "user": "Doorman11991"
     }
   ],
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 920,
       "user": "FoundZiGu"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 822,
       "user": "Doorman11991"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "boona13"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 570,
       "user": "stephenlthorn"
     },
     {
@@ -1065,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1343,
       "user": "facebookresearch"
     },
     {
@@ -1080,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 802,
       "user": "Kappaemme-git"
     },
     {
@@ -1095,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 555,
       "user": "sapientinc"
     },
     {
@@ -1110,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 500,
       "user": "bytedance"
     },
     {
@@ -1125,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 484,
       "user": "Glazenovatag"
     }
   ],
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "boona13"
     }
   ],
@@ -1636,21 +1636,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1662,7 +1647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 920,
       "user": "FoundZiGu"
     },
     {
@@ -1677,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 822,
       "user": "Doorman11991"
     },
     {
@@ -1692,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "boona13"
     },
     {
@@ -1707,7 +1692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 570,
       "user": "stephenlthorn"
     },
     {
@@ -1737,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1343,
       "user": "facebookresearch"
     },
     {
@@ -1752,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 802,
       "user": "Kappaemme-git"
     },
     {
@@ -1767,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 555,
       "user": "sapientinc"
     },
     {
@@ -1782,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 500,
       "user": "bytedance"
     },
     {
@@ -1797,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 484,
       "user": "Glazenovatag"
     },
     {
