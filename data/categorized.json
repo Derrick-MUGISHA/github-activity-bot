@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
+      "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji",
+      "published_at": "2026-05-20T15:02:06Z",
+      "description": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
+      "tags": [
+        "devchallenge",
+        "googleiochallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc52tys36onc0skhr5o4.jpeg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
       "published_at": "2026-05-19T00:37:24Z",
@@ -175,6 +188,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
+    },
+    {
+      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
+      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
+      "published_at": "2026-05-18T20:30:40Z",
+      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
+      "source": "Dev.to",
+      "user": "Zanne"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -413,51 +441,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
-      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
-      "published_at": "2026-05-07T20:21:26Z",
-      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
-      "tags": [
-        "backend",
-        "laravel",
-        "performance",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
-      "source": "Dev.to",
-      "user": "Fomin Vasyl"
-    },
-    {
-      "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
-      "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
-      "published_at": "2026-05-14T23:43:10Z",
-      "description": "Much of the modern software development lifecycle was built around code being expensive and hard to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
-      "source": "Dev.to",
-      "user": "Josh Saint Jacque"
-    },
-    {
-      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
-      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
-      "published_at": "2026-05-07T17:05:23Z",
-      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
-      "tags": [
-        "typescript",
-        "node",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
-      "source": "Dev.to",
-      "user": "Greg Konush"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -613,26 +596,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 799,
       "user": "Doorman11991"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Unity begone",
-      "url": "https://dev.to/sarthakganguly/unity-begone-56kc",
-      "published_at": "2026-05-14T18:19:42Z",
-      "description": "Here is a challenge.  Search for \"web gaming portal\" on Google or any other search engine of your...",
-      "tags": [
-        "gamedev",
-        "unity3d",
-        "javascript",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94ds4op5z2diyursl9xm.png",
-      "source": "Dev.to",
-      "user": "Sarthak Ganguly"
-    },
     {
       "title": "Giving AI agents knowledge they were never trained on",
       "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
@@ -720,21 +688,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
       "source": "Dev.to",
       "user": "𒎏Wii 🏳️‍⚧️"
-    },
-    {
-      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
-      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
-      "published_at": "2026-05-07T17:05:23Z",
-      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
-      "tags": [
-        "typescript",
-        "node",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
-      "source": "Dev.to",
-      "user": "Greg Konush"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -868,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 903,
       "user": "FoundZiGu"
     },
     {
@@ -883,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 799,
       "user": "Doorman11991"
     },
     {
@@ -898,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 675,
       "user": "boona13"
     },
     {
@@ -913,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 563,
       "user": "stephenlthorn"
     },
     {
@@ -928,11 +881,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "POLYMARKET-TRADER-LAB"
     }
   ],
   "Python": [
+    {
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "published_at": "2026-05-19T21:32:45Z",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "tags": [
+        "security",
+        "github",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
+      "source": "Dev.to",
+      "user": "GnomeMan4201"
+    },
     {
       "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
       "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
@@ -1080,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1329,
       "user": "facebookresearch"
     },
     {
@@ -1095,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "Kappaemme-git"
     },
     {
@@ -1110,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 538,
       "user": "sapientinc"
     },
     {
@@ -1125,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 467,
       "user": "Glazenovatag"
     },
     {
@@ -1140,11 +1108,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 453,
       "user": "bytedance"
     }
   ],
   "DevOps": [
+    {
+      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
+      "published_at": "2026-05-20T11:44:59Z",
+      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
+      "tags": [
+        "opensource",
+        "kubernetes",
+        "devops",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png",
+      "source": "Dev.to",
+      "user": "Dener Fernandes"
+    },
     {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
@@ -1247,21 +1230,6 @@
       "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
-      "title": "Stop Pre-Generating Image Thumbnails in Laravel — Do It On-The-Fly Instead",
-      "url": "https://dev.to/fomvasss/stop-pre-generating-image-thumbnails-in-laravel-do-it-on-the-fly-instead-3lb8",
-      "published_at": "2026-05-07T20:21:26Z",
-      "description": "Every Laravel project eventually hits the same wall: a designer asks for a new image size, and...",
-      "tags": [
-        "backend",
-        "laravel",
-        "performance",
-        "php"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frt7i9j4f3ytx99pbr3ra.png",
-      "source": "Dev.to",
-      "user": "Fomin Vasyl"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1317,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 675,
       "user": "boona13"
     }
   ],
@@ -1525,11 +1493,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "aymanhs"
     }
   ],
   "Security": [
+    {
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "published_at": "2026-05-19T21:32:45Z",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "tags": [
+        "security",
+        "github",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
+      "source": "Dev.to",
+      "user": "GnomeMan4201"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1544,6 +1527,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "published_at": "2026-05-19T21:32:45Z",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "tags": [
+        "security",
+        "github",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
+      "source": "Dev.to",
+      "user": "GnomeMan4201"
+    },
     {
       "title": "Terminal Superpowers You Should Be Using in 2026",
       "url": "https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4",
@@ -1648,21 +1646,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "Code Got Cheaper. Our Rituals Didn’t Notice.",
-      "url": "https://dev.to/joshsaintjacque/code-got-cheaper-our-rituals-didnt-notice-491",
-      "published_at": "2026-05-14T23:43:10Z",
-      "description": "Much of the modern software development lifecycle was built around code being expensive and hard to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
-      "source": "Dev.to",
-      "user": "Josh Saint Jacque"
-    },
-    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1674,7 +1657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 903,
       "user": "FoundZiGu"
     },
     {
@@ -1689,7 +1672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 799,
       "user": "Doorman11991"
     },
     {
@@ -1704,7 +1687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 675,
       "user": "boona13"
     },
     {
@@ -1719,7 +1702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 563,
       "user": "stephenlthorn"
     },
     {
@@ -1734,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1749,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1329,
       "user": "facebookresearch"
     },
     {
@@ -1764,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "Kappaemme-git"
     },
     {
@@ -1779,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 538,
       "user": "sapientinc"
     },
     {
@@ -1794,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 467,
       "user": "Glazenovatag"
     },
     {
@@ -1809,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 453,
       "user": "bytedance"
     },
     {
@@ -1824,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 215,
       "user": "rockorager"
     },
     {
@@ -1854,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "aymanhs"
     },
     {
