@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Gemini 3.5 Flash Developer Guide",
+      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
+      "published_at": "2026-05-19T17:55:34Z",
+      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
+    },
+    {
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
       "published_at": "2026-05-19T00:37:24Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Gemini 3.5 Flash Developer Guide",
-      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
-      "published_at": "2026-05-19T17:55:34Z",
-      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
     },
     {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
@@ -641,23 +641,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 737,
       "user": "Doorman11991"
-    },
-    {
-      "title": "agentic-in/elephant-agent - Personal-Model First Self Evolving AI Agent 🐘",
-      "url": "https://github.com/agentic-in/elephant-agent",
-      "published_at": "2026-05-15T07:08:17Z",
-      "description": "Personal-Model First Self Evolving AI Agent 🐘",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "agentic-in"
     }
   ],
   "JavaScript": [
@@ -926,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 737,
       "user": "Doorman11991"
     },
     {
@@ -941,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 665,
       "user": "boona13"
     },
     {
@@ -956,8 +941,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 553,
       "user": "stephenlthorn"
+    },
+    {
+      "title": "FoundZiGu/GuJumpgate - GitHub Repository",
+      "url": "https://github.com/FoundZiGu/GuJumpgate",
+      "published_at": "2026-05-19T11:52:52Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
+      "source": "GitHub",
+      "stars": 457,
+      "user": "FoundZiGu"
     },
     {
       "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -971,23 +971,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 309,
       "user": "arbitrageBot-group"
-    },
-    {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "POLYMARKET-TRADER-LAB"
     }
   ],
   "Python": [
@@ -1153,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1209,
+      "stars": 1240,
       "user": "facebookresearch"
     },
     {
@@ -1168,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 789,
       "user": "Kappaemme-git"
     },
     {
@@ -1183,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 436,
       "user": "sapientinc"
     },
     {
@@ -1198,23 +1183,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 384,
       "user": "Glazenovatag"
     },
     {
-      "title": "agentic-in/elephant-agent - Personal-Model First Self Evolving AI Agent 🐘",
-      "url": "https://github.com/agentic-in/elephant-agent",
-      "published_at": "2026-05-15T07:08:17Z",
-      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+      "url": "https://github.com/bytedance/Lance",
+      "published_at": "2026-05-15T05:42:08Z",
+      "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 340,
-      "user": "agentic-in"
+      "stars": 349,
+      "user": "bytedance"
     }
   ],
   "DevOps": [
@@ -1390,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 665,
       "user": "boona13"
     }
   ],
@@ -1774,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 737,
       "user": "Doorman11991"
     },
     {
@@ -1789,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 665,
       "user": "boona13"
     },
     {
@@ -1804,8 +1789,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 553,
       "user": "stephenlthorn"
+    },
+    {
+      "title": "FoundZiGu/GuJumpgate - GitHub Repository",
+      "url": "https://github.com/FoundZiGu/GuJumpgate",
+      "published_at": "2026-05-19T11:52:52Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
+      "source": "GitHub",
+      "stars": 457,
+      "user": "FoundZiGu"
     },
     {
       "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
@@ -1819,23 +1819,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 309,
       "user": "arbitrageBot-group"
-    },
-    {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "POLYMARKET-TRADER-LAB"
     },
     {
       "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
@@ -1849,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1209,
+      "stars": 1240,
       "user": "facebookresearch"
     },
     {
@@ -1864,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 789,
       "user": "Kappaemme-git"
     },
     {
@@ -1879,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 436,
       "user": "sapientinc"
     },
     {
@@ -1894,23 +1879,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 384,
       "user": "Glazenovatag"
     },
     {
-      "title": "agentic-in/elephant-agent - Personal-Model First Self Evolving AI Agent 🐘",
-      "url": "https://github.com/agentic-in/elephant-agent",
-      "published_at": "2026-05-15T07:08:17Z",
-      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+      "url": "https://github.com/bytedance/Lance",
+      "published_at": "2026-05-15T05:42:08Z",
+      "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 340,
-      "user": "agentic-in"
+      "stars": 349,
+      "user": "bytedance"
     },
     {
       "title": "rockorager/comview - the best diff viewer ever made",
@@ -1924,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 194,
       "user": "rockorager"
     },
     {
@@ -1969,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 57,
       "user": "kamalyes"
     },
     {

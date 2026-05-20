@@ -6,7 +6,7 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 47,
+    "AI": 46,
     "JavaScript": 24,
     "Python": 17,
     "DevOps": 2,
@@ -20,18 +20,18 @@
   "by_language": {
     "JavaScript": 24,
     "Java": 20,
-    "Rust": 5,
     "Go": 23,
+    "Rust": 5,
     "Kotlin": 2,
     "Python": 17,
     "PHP": 1,
     "Swift": 1
   },
   "by_date": {
-    "2026-05-19": 8,
+    "2026-05-19": 9,
     "2026-05-18": 9,
     "2026-05-15": 12,
-    "2026-05-14": 15,
+    "2026-05-14": 14,
     "2026-05-13": 8,
     "2026-05-11": 3,
     "2026-05-10": 1,
@@ -81,8 +81,8 @@
     "Python": 10,
     "javascript": 9,
     "discuss": 9,
-    "agents": 7,
     "webdev": 7,
+    "agents": 7,
     "python": 7,
     "devchallenge": 6,
     "go": 6,
@@ -98,8 +98,8 @@
   "language_percentages": {
     "JavaScript": "25.8",
     "Java": "21.5",
-    "Rust": "5.4",
     "Go": "24.7",
+    "Rust": "5.4",
     "Kotlin": "2.2",
     "Python": "18.3",
     "PHP": "1.1",
