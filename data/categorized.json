@@ -14,6 +14,20 @@
       "user": "xbill"
     },
     {
+      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
+      "published_at": "2026-05-20T12:26:19Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "tags": [
+        "devchallenge",
+        "gemma",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
+      "source": "Dev.to",
+      "user": "Santhoshkumar. P"
+    },
+    {
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
       "published_at": "2026-05-19T00:37:24Z",
@@ -57,6 +71,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
       "source": "Dev.to",
       "user": "Patrick Loeber"
+    },
+    {
+      "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
+      "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk",
+      "published_at": "2026-05-19T23:37:00Z",
+      "description": "Do I just post about cool events? Maybe? But that's good, right? Now here's another!   Scaling...",
+      "tags": [
+        "ai",
+        "eventsinyourcity",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwmpkwxdzksf7m06grfly.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
@@ -218,6 +246,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "Your AI Agent is Stuck in a Loop. Here's the Memory Layer That Breaks It and Saves You Money",
+      "url": "https://dev.to/kike/your-ai-agent-is-stuck-in-a-loop-heres-the-memory-layer-that-breaks-it-and-saves-you-money-5fni",
+      "published_at": "2026-05-19T13:20:53Z",
+      "description": "Every time you open a new chat in Cursor, VS Code, Antigravity and even Claude Desktop, you paste...",
+      "tags": [
+        "ai",
+        "mcp",
+        "opensource",
+        "deepseek"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp20shtiwxj1vfv3mwz1z.png",
+      "source": "Dev.to",
+      "user": "Enrique B."
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
     },
     {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
@@ -414,33 +472,6 @@
       "user": "Philippe MARTIN"
     },
     {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "Vibe Coding, Demystified",
-      "url": "https://dev.to/mlh/vibe-coding-demystified-169b",
-      "published_at": "2026-05-14T20:04:04Z",
-      "description": "TL;DR -Vibe coding is the practice of building real software by talking to an AI, in plain...",
-      "tags": [
-        "vibecoding",
-        "learning",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuyutjblop4d61tpnw820.jpg",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -596,11 +627,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 811,
       "user": "Doorman11991"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
+      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
+      "published_at": "2026-05-20T05:44:43Z",
+      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
+      "source": "Dev.to",
+      "user": "John Facey"
+    },
     {
       "title": "Giving AI agents knowledge they were never trained on",
       "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
@@ -660,34 +705,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
-      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
-      "published_at": "2026-05-16T13:00:00Z",
-      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
-      "tags": [
-        "cycling",
-        "nextjs",
-        "googlecloud",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
-      "source": "Dev.to",
-      "user": "Akira Kikusato"
-    },
-    {
-      "title": "onclick is great, actually",
-      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
-      "published_at": "2026-05-13T19:10:34Z",
-      "description": "A few thoughts on `onclick` and how my opinion on it has changed.",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
-      "source": "Dev.to",
-      "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -821,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 918,
       "user": "FoundZiGu"
     },
     {
@@ -836,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 811,
       "user": "Doorman11991"
     },
     {
@@ -866,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 565,
       "user": "stephenlthorn"
     },
     {
@@ -881,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "POLYMARKET-TRADER-LAB"
     }
   ],
@@ -1048,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1336,
       "user": "facebookresearch"
     },
     {
@@ -1063,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 799,
       "user": "Kappaemme-git"
     },
     {
@@ -1078,23 +1095,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 551,
       "user": "sapientinc"
-    },
-    {
-      "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking",
-      "published_at": "2026-05-19T10:31:27Z",
-      "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "Glazenovatag"
     },
     {
       "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
@@ -1108,8 +1110,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 479,
       "user": "bytedance"
+    },
+    {
+      "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
+      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking",
+      "published_at": "2026-05-19T10:31:27Z",
+      "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
+      "source": "GitHub",
+      "stars": 478,
+      "user": "Glazenovatag"
     }
   ],
   "DevOps": [
@@ -1175,6 +1192,20 @@
   ],
   "WebDev": [
     {
+      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
+      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
+      "published_at": "2026-05-20T05:44:43Z",
+      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
+      "source": "Dev.to",
+      "user": "John Facey"
+    },
+    {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
       "published_at": "2026-05-07T23:15:51Z",
@@ -1202,32 +1233,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Service-to-Service Calls vs Event-Driven Flows: When to Use Which",
-      "url": "https://dev.to/toybz/service-to-service-calls-vs-event-driven-flows-when-to-use-which-1da8",
-      "published_at": "2026-04-26T13:10:27Z",
-      "description": "This post breaks down the difference between direct service calls, jobs and workers, and event-driven flows in plain terms, with a simple way to decide when each one makes sense.",
-      "tags": [
-        "backend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk5x6xw4z8cxuwkfyxsu.png",
-      "source": "Dev.to",
-      "user": "Rahmon Toyeeb"
-    },
-    {
-      "title": "onclick is great, actually",
-      "url": "https://dev.to/darkwiiplayer/onclick-is-great-actually-1l3p",
-      "published_at": "2026-05-13T19:10:34Z",
-      "description": "A few thoughts on `onclick` and how my opinion on it has changed.",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
-      "source": "Dev.to",
-      "user": "𒎏Wii 🏳️‍⚧️"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1424,21 +1429,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
-      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
-      "published_at": "2026-05-16T13:00:00Z",
-      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
-      "tags": [
-        "cycling",
-        "nextjs",
-        "googlecloud",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
-      "source": "Dev.to",
-      "user": "Akira Kikusato"
-    },
-    {
       "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
       "url": "https://github.com/internetkafe/cfsearch",
       "published_at": "2026-05-16T07:22:39Z",
@@ -1493,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "aymanhs"
     }
   ],
@@ -1587,6 +1577,21 @@
       "user": "satyamsoni2211"
     },
     {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
+    },
+    {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "published_at": "2026-05-18T11:21:44Z",
@@ -1657,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 918,
       "user": "FoundZiGu"
     },
     {
@@ -1672,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 811,
       "user": "Doorman11991"
     },
     {
@@ -1702,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 565,
       "user": "stephenlthorn"
     },
     {
@@ -1717,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1732,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1336,
       "user": "facebookresearch"
     },
     {
@@ -1747,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 799,
       "user": "Kappaemme-git"
     },
     {
@@ -1762,23 +1767,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 551,
       "user": "sapientinc"
-    },
-    {
-      "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking",
-      "published_at": "2026-05-19T10:31:27Z",
-      "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "Glazenovatag"
     },
     {
       "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
@@ -1792,8 +1782,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 479,
       "user": "bytedance"
+    },
+    {
+      "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
+      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking",
+      "published_at": "2026-05-19T10:31:27Z",
+      "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
+      "source": "GitHub",
+      "stars": 478,
+      "user": "Glazenovatag"
     },
     {
       "title": "rockorager/comview - the best diff viewer ever made",
@@ -1837,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "aymanhs"
     },
     {
