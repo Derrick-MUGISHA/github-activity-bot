@@ -311,21 +311,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "The Last Developer Museum: From Stack Overflow to AI",
-      "url": "https://dev.to/hemapriya_kanagala/the-last-developer-museum-from-stack-overflow-to-ai-2lm2",
-      "published_at": "2026-05-15T17:31:55Z",
-      "description": "Welcome to the Museum of Software Development.  Please keep your hands away from the exhibits.  Some...",
-      "tags": [
-        "discuss",
-        "programming",
-        "career",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk0eh90d64zqopam8d9b.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
       "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
       "published_at": "2026-05-04T02:30:53Z",
@@ -456,6 +441,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fjoshsaintjacque.com%2Frails%2Factive_storage%2Fblobs%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NjgsInB1ciI6ImJsb2JfaWQifX0%3D--cf71d2960930330bea593cc4850662dc00e7f331%2Fig_027b2e6c19326e3e016a0658045300819ab5c5d2ce97c4d38f.png",
       "source": "Dev.to",
       "user": "Josh Saint Jacque"
+    },
+    {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 761,
       "user": "Doorman11991"
     }
   ],
@@ -720,6 +720,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdms785qx2lc7dzs25uon.png",
       "source": "Dev.to",
       "user": "𒎏Wii 🏳️‍⚧️"
+    },
+    {
+      "title": "Why agents need workbook APIs instead of spreadsheet screenshots",
+      "url": "https://dev.to/gregkonush/why-agents-need-workbook-apis-instead-of-spreadsheet-screenshots-3d61",
+      "published_at": "2026-05-07T17:05:23Z",
+      "description": "A practical case for treating spreadsheet state as an API boundary for Node services and coding agents.",
+      "tags": [
+        "typescript",
+        "node",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fproompteng%2Fbilig%2Fmain%2Fdocs%2Fassets%2Fgithub-social-preview.png",
+      "source": "Dev.to",
+      "user": "Greg Konush"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -853,23 +868,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 761,
       "user": "Doorman11991"
-    },
-    {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 670,
-      "user": "boona13"
     },
     {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
@@ -883,8 +883,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 706,
       "user": "FoundZiGu"
+    },
+    {
+      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "url": "https://github.com/boona13/mykonos-island-voxels",
+      "published_at": "2026-05-14T05:35:33Z",
+      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
+      "source": "GitHub",
+      "stars": 671,
+      "user": "boona13"
     },
     {
       "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
@@ -898,23 +913,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 560,
       "user": "stephenlthorn"
     },
     {
-      "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/arbitrageBot-group/Polymarket-trading-bot",
-      "published_at": "2026-05-14T19:28:03Z",
+      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
+      "published_at": "2026-05-14T18:59:39Z",
       "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 314,
-      "user": "arbitrageBot-group"
+      "stars": 274,
+      "user": "POLYMARKET-TRADER-LAB"
     }
   ],
   "Python": [
@@ -1065,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1299,
       "user": "facebookresearch"
     },
     {
@@ -1080,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 794,
       "user": "Kappaemme-git"
     },
     {
@@ -1095,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 481,
       "user": "sapientinc"
     },
     {
@@ -1110,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 431,
       "user": "Glazenovatag"
     },
     {
@@ -1125,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 411,
       "user": "bytedance"
     }
   ],
@@ -1302,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 671,
       "user": "boona13"
     }
   ],
@@ -1467,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
       "source": "GitHub",
-      "stars": 35,
+      "stars": 36,
       "user": "internetkafe"
     }
   ],
@@ -1659,23 +1674,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 761,
       "user": "Doorman11991"
-    },
-    {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 670,
-      "user": "boona13"
     },
     {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
@@ -1689,8 +1689,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 706,
       "user": "FoundZiGu"
+    },
+    {
+      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "url": "https://github.com/boona13/mykonos-island-voxels",
+      "published_at": "2026-05-14T05:35:33Z",
+      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
+      "source": "GitHub",
+      "stars": 671,
+      "user": "boona13"
     },
     {
       "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
@@ -1704,23 +1719,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 560,
       "user": "stephenlthorn"
     },
     {
-      "title": "arbitrageBot-group/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/arbitrageBot-group/Polymarket-trading-bot",
-      "published_at": "2026-05-14T19:28:03Z",
+      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
+      "published_at": "2026-05-14T18:59:39Z",
       "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284737606?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 314,
-      "user": "arbitrageBot-group"
+      "stars": 274,
+      "user": "POLYMARKET-TRADER-LAB"
     },
     {
       "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
@@ -1734,7 +1749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1299,
       "user": "facebookresearch"
     },
     {
@@ -1749,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 794,
       "user": "Kappaemme-git"
     },
     {
@@ -1764,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 481,
       "user": "sapientinc"
     },
     {
@@ -1779,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 431,
       "user": "Glazenovatag"
     },
     {
@@ -1794,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 411,
       "user": "bytedance"
     },
     {
@@ -1809,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 209,
       "user": "rockorager"
     },
     {
@@ -1854,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "kamalyes"
     },
     {
@@ -1869,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
       "source": "GitHub",
-      "stars": 35,
+      "stars": 36,
       "user": "internetkafe"
     }
   ]
