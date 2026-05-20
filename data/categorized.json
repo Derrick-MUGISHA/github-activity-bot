@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Gemini 3.5 Flash Developer Guide",
-      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
-      "published_at": "2026-05-19T17:55:34Z",
-      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
       "published_at": "2026-05-19T00:37:24Z",
@@ -46,19 +31,19 @@
       "user": "xbill"
     },
     {
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "published_at": "2026-05-18T11:21:44Z",
-      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "title": "Gemini 3.5 Flash Developer Guide",
+      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
+      "published_at": "2026-05-19T17:55:34Z",
+      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
       "tags": [
         "ai",
-        "opensource",
-        "transparency",
-        "discuss"
+        "gemini",
+        "google",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
       "source": "Dev.to",
-      "user": "Harsh "
+      "user": "Patrick Loeber"
     },
     {
       "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
@@ -205,6 +190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "published_at": "2026-05-18T11:21:44Z",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "tags": [
+        "ai",
+        "opensource",
+        "transparency",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "Agent Development Kit for Google Apps Script",
@@ -613,26 +613,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 779,
       "user": "Doorman11991"
     }
   ],
   "JavaScript": [
-    {
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
-      "published_at": "2026-05-19T10:29:28Z",
-      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
     {
       "title": "Unity begone",
       "url": "https://dev.to/sarthakganguly/unity-begone-56kc",
@@ -662,6 +647,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
       "source": "Dev.to",
       "user": "Jonas Gauffin"
+    },
+    {
+      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
+      "published_at": "2026-05-19T10:29:28Z",
+      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -857,21 +857,6 @@
       "user": "velmu"
     },
     {
-      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "published_at": "2026-05-18T06:19:44Z",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
-      "source": "GitHub",
-      "stars": 761,
-      "user": "Doorman11991"
-    },
-    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -883,8 +868,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 798,
       "user": "FoundZiGu"
+    },
+    {
+      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "published_at": "2026-05-18T06:19:44Z",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
+      "source": "GitHub",
+      "stars": 779,
+      "user": "Doorman11991"
     },
     {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
@@ -898,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "boona13"
     },
     {
@@ -913,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "stephenlthorn"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "POLYMARKET-TRADER-LAB"
     }
   ],
@@ -1080,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1316,
       "user": "facebookresearch"
     },
     {
@@ -1095,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 796,
       "user": "Kappaemme-git"
     },
     {
@@ -1110,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 518,
       "user": "sapientinc"
     },
     {
@@ -1125,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 445,
       "user": "Glazenovatag"
     },
     {
@@ -1140,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 433,
       "user": "bytedance"
     }
   ],
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "boona13"
     }
   ],
@@ -1559,21 +1559,6 @@
       "user": "Sean Boult"
     },
     {
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "published_at": "2026-05-18T11:21:44Z",
-      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
-      "tags": [
-        "ai",
-        "opensource",
-        "transparency",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
       "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
       "published_at": "2026-05-13T19:13:14Z",
@@ -1602,6 +1587,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png",
       "source": "Dev.to",
       "user": "satyamsoni2211"
+    },
+    {
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "published_at": "2026-05-18T11:21:44Z",
+      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
+      "tags": [
+        "ai",
+        "opensource",
+        "transparency",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
+      "source": "Dev.to",
+      "user": "Harsh "
     },
     {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
@@ -1663,21 +1663,6 @@
       "user": "Josh Saint Jacque"
     },
     {
-      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "published_at": "2026-05-18T06:19:44Z",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
-      "source": "GitHub",
-      "stars": 761,
-      "user": "Doorman11991"
-    },
-    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1689,8 +1674,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 798,
       "user": "FoundZiGu"
+    },
+    {
+      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "url": "https://github.com/Doorman11991/smallcode",
+      "published_at": "2026-05-18T06:19:44Z",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
+      "source": "GitHub",
+      "stars": 779,
+      "user": "Doorman11991"
     },
     {
       "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
@@ -1704,7 +1704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "boona13"
     },
     {
@@ -1719,7 +1719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "stephenlthorn"
     },
     {
@@ -1734,7 +1734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 277,
       "user": "POLYMARKET-TRADER-LAB"
     },
     {
@@ -1749,7 +1749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1316,
       "user": "facebookresearch"
     },
     {
@@ -1764,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 796,
       "user": "Kappaemme-git"
     },
     {
@@ -1779,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 518,
       "user": "sapientinc"
     },
     {
@@ -1794,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 445,
       "user": "Glazenovatag"
     },
     {
@@ -1809,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 433,
       "user": "bytedance"
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 213,
       "user": "rockorager"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 61,
       "user": "kamalyes"
     },
     {
