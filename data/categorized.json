@@ -14,6 +14,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
+      "published_at": "2026-05-20T19:41:08Z",
+      "description": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
+      "tags": [
+        "ai",
+        "buildinpublic",
+        "google",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
+      "source": "Dev.to",
+      "user": "Michellebuchiokonicha"
+    },
+    {
       "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
       "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
       "published_at": "2026-05-20T12:26:19Z",
@@ -26,36 +41,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
       "source": "Dev.to",
       "user": "Santhoshkumar. P"
-    },
-    {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
-      "published_at": "2026-05-20T19:41:08Z",
-      "description": "I tune in to Google I/O every year (since 2024). But this year felt different.  In the past, I...",
-      "tags": [
-        "ai",
-        "buildinpublic",
-        "google",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
-      "source": "Dev.to",
-      "user": "Michellebuchiokonicha"
-    },
-    {
-      "title": "Demystifying AI Agents with Turtle & Gemma",
-      "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
-      "published_at": "2026-05-19T00:37:24Z",
-      "description": "🐢 Speaking into Canvas   If you're anything like me, your very first taste of \"programming\"...",
-      "tags": [
-        "turtle",
-        "gemma",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fbebechien%2Fcozy-corner-future%2Fdevto-sync%2Fposts%2Fimages%2Fdemystifying-ai-agents-with-turtle-gemma.png",
-      "source": "Dev.to",
-      "user": "bebechien"
     },
     {
       "title": "Building a Rust A2A Agent",
@@ -201,6 +186,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Demystifying AI Agents with Turtle & Gemma",
+      "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
+      "published_at": "2026-05-19T00:37:24Z",
+      "description": "🐢 Speaking into Canvas   If you're anything like me, your very first taste of \"programming\"...",
+      "tags": [
+        "turtle",
+        "gemma",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fbebechien%2Fcozy-corner-future%2Fdevto-sync%2Fposts%2Fimages%2Fdemystifying-ai-agents-with-turtle-gemma.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 914,
       "user": "Doorman11991"
     },
     {
@@ -677,21 +677,6 @@
       "user": "John Facey"
     },
     {
-      "title": "Giving AI agents knowledge they were never trained on",
-      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
-      "published_at": "2026-05-14T22:02:53Z",
-      "description": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
-      "tags": [
-        "mcp",
-        "ai",
-        "typescript",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
-      "source": "Dev.to",
-      "user": "Jonas Gauffin"
-    },
-    {
       "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
       "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
       "published_at": "2026-05-19T10:29:28Z",
@@ -705,6 +690,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "Giving AI agents knowledge they were never trained on",
+      "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
+      "published_at": "2026-05-14T22:02:53Z",
+      "description": "I love coding my own stuff, and my clients typically have lots of internal specifications and...",
+      "tags": [
+        "mcp",
+        "ai",
+        "typescript",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
+      "source": "Dev.to",
+      "user": "Jonas Gauffin"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1146,
       "user": "FoundZiGu"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 914,
       "user": "Doorman11991"
     },
     {
@@ -898,8 +898,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "stephenlthorn"
+    },
+    {
+      "title": "zhouyoukang1234-spec/windsurf-assistant - A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+      "url": "https://github.com/zhouyoukang1234-spec/windsurf-assistant",
+      "published_at": "2026-05-17T15:43:18Z",
+      "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "zhouyoukang1234-spec"
     },
     {
       "title": "energypantry/agent-browser-runtime - GitHub Repository",
@@ -913,23 +928,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "energypantry"
-    },
-    {
-      "title": "kiddo-pwn/ffffirefox - GitHub Repository",
-      "url": "https://github.com/kiddo-pwn/ffffirefox",
-      "published_at": "2026-05-15T16:57:40Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50818874?v=4",
-      "source": "GitHub",
-      "stars": 74,
-      "user": "kiddo-pwn"
     }
   ],
   "Python": [
@@ -1110,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 590,
       "user": "sapientinc"
     },
     {
@@ -1125,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 585,
       "user": "bytedance"
     },
     {
@@ -1140,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 531,
       "user": "Glazenovatag"
     },
     {
@@ -1155,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 383,
       "user": "evilsocket"
     }
   ],
@@ -1485,21 +1485,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "RuoJi6/database_scan - GitHub Repository",
-      "url": "https://github.com/RuoJi6/database_scan",
-      "published_at": "2026-05-15T01:22:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
-      "source": "GitHub",
-      "stars": 20,
-      "user": "RuoJi6"
     }
   ],
   "Security": [
@@ -1677,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1146,
       "user": "FoundZiGu"
     },
     {
@@ -1692,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 914,
       "user": "Doorman11991"
     },
     {
@@ -1707,8 +1692,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 572,
       "user": "stephenlthorn"
+    },
+    {
+      "title": "zhouyoukang1234-spec/windsurf-assistant - A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+      "url": "https://github.com/zhouyoukang1234-spec/windsurf-assistant",
+      "published_at": "2026-05-17T15:43:18Z",
+      "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "zhouyoukang1234-spec"
     },
     {
       "title": "energypantry/agent-browser-runtime - GitHub Repository",
@@ -1722,23 +1722,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "energypantry"
-    },
-    {
-      "title": "kiddo-pwn/ffffirefox - GitHub Repository",
-      "url": "https://github.com/kiddo-pwn/ffffirefox",
-      "published_at": "2026-05-15T16:57:40Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50818874?v=4",
-      "source": "GitHub",
-      "stars": 74,
-      "user": "kiddo-pwn"
     },
     {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
@@ -1767,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 590,
       "user": "sapientinc"
     },
     {
@@ -1782,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 585,
       "user": "bytedance"
     },
     {
@@ -1797,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 531,
       "user": "Glazenovatag"
     },
     {
@@ -1812,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 383,
       "user": "evilsocket"
     },
     {
@@ -1842,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "kamalyes"
     },
     {
@@ -1876,19 +1861,19 @@
       "user": "732124645"
     },
     {
-      "title": "RuoJi6/database_scan - GitHub Repository",
-      "url": "https://github.com/RuoJi6/database_scan",
-      "published_at": "2026-05-15T01:22:31Z",
-      "description": "Trending GitHub Repository",
+      "title": "ninehills/pdf2md - PDF to Markdown OCR tools",
+      "url": "https://github.com/ninehills/pdf2md",
+      "published_at": "2026-05-20T07:19:49Z",
+      "description": "PDF to Markdown OCR tools",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 20,
-      "user": "RuoJi6"
+      "stars": 24,
+      "user": "ninehills"
     }
   ]
 }
