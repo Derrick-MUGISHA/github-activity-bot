@@ -14,18 +14,49 @@
       "user": "xbill"
     },
     {
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
-      "published_at": "2026-05-20T12:26:19Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "title": "From Years to Hours",
+      "url": "https://dev.to/annaspies/from-years-to-hours-joe",
+      "published_at": "2026-05-21T01:37:32Z",
+      "description": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
       "tags": [
-        "devchallenge",
-        "gemma",
-        "gemmachallenge"
+        "ai",
+        "stripe",
+        "cli",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png",
       "source": "Dev.to",
-      "user": "Santhoshkumar. P"
+      "user": "Anna"
+    },
+    {
+      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
+      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
+      "published_at": "2026-05-21T15:49:59Z",
+      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
+      "tags": [
+        "agents",
+        "cloud",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
+      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
+      "published_at": "2026-05-20T20:09:10Z",
+      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
+      "tags": [
+        "go",
+        "containers",
+        "linux",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
+      "source": "Dev.to",
+      "user": "Yechiel Kalmenson"
     },
     {
       "title": "Building a Rust A2A Agent",
@@ -56,20 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
       "source": "Dev.to",
       "user": "Michellebuchiokonicha"
-    },
-    {
-      "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
-      "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk",
-      "published_at": "2026-05-19T23:37:00Z",
-      "description": "Do I just post about cool events? Maybe? But that's good, right? Now here's another!   Scaling...",
-      "tags": [
-        "ai",
-        "eventsinyourcity",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwmpkwxdzksf7m06grfly.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
@@ -145,6 +162,20 @@
       "user": "Jonas Gauffin"
     },
     {
+      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
+      "published_at": "2026-05-20T12:26:19Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "tags": [
+        "devchallenge",
+        "gemma",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
+      "source": "Dev.to",
+      "user": "Santhoshkumar. P"
+    },
+    {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
       "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
       "published_at": "2026-05-14T17:16:10Z",
@@ -174,20 +205,6 @@
       "user": "Vinicius Brasil"
     },
     {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
-      "published_at": "2026-05-13T22:34:18Z",
-      "description": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "tags": [
-        "cloud",
-        "eventsinyourcity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Demystifying AI Agents with Turtle & Gemma",
       "url": "https://dev.to/googleai/demystifying-ai-agents-with-turtle-gemma-4ajj",
       "published_at": "2026-05-19T00:37:24Z",
@@ -201,6 +218,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fbebechien%2Fcozy-corner-future%2Fdevto-sync%2Fposts%2Fimages%2Fdemystifying-ai-agents-with-turtle-gemma.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
+      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
+      "published_at": "2026-05-13T22:34:18Z",
+      "description": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
+      "tags": [
+        "cloud",
+        "eventsinyourcity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -248,6 +279,20 @@
       "user": "Patrick Loeber"
     },
     {
+      "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
+      "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk",
+      "published_at": "2026-05-19T23:37:00Z",
+      "description": "Do I just post about cool events? Maybe? But that's good, right? Now here's another!   Scaling...",
+      "tags": [
+        "ai",
+        "eventsinyourcity",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwmpkwxdzksf7m06grfly.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Your AI Agent is Stuck in a Loop. Here's the Memory Layer That Breaks It and Saves You Money",
       "url": "https://dev.to/kike/your-ai-agent-is-stuck-in-a-loop-heres-the-memory-layer-that-breaks-it-and-saves-you-money-5fni",
       "published_at": "2026-05-19T13:20:53Z",
@@ -291,21 +336,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
       "source": "Dev.to",
       "user": "Esteban Hernández"
-    },
-    {
-      "title": "Agent Development Kit for Google Apps Script",
-      "url": "https://dev.to/gde/agent-development-kit-for-google-apps-script-38ho",
-      "published_at": "2026-05-18T08:50:37Z",
-      "description": "Abstract   Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F443rq0t7l5imnnoai64p.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Deploying a Rust A2A Agent to Google Cloud Run",
@@ -380,96 +410,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
-    },
-    {
-      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
-      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
-      "published_at": "2026-05-18T20:30:40Z",
-      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
-      "source": "Dev.to",
-      "user": "Zanne"
-    },
-    {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -627,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 1011,
       "user": "Doorman11991"
     },
     {
@@ -642,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "agentic-in"
     },
     {
@@ -657,8 +597,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 51,
       "user": "DEEIX-AI"
+    },
+    {
+      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
+      "url": "https://github.com/732124645/PromptOps",
+      "published_at": "2026-05-15T15:02:15Z",
+      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "732124645"
     }
   ],
   "JavaScript": [
@@ -735,21 +690,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
-      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
-      "published_at": "2026-05-16T13:00:00Z",
-      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
-      "tags": [
-        "cycling",
-        "nextjs",
-        "googlecloud",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
-      "source": "Dev.to",
-      "user": "Akira Kikusato"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -883,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1359,
       "user": "FoundZiGu"
     },
     {
@@ -898,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 1011,
       "user": "Doorman11991"
     },
     {
@@ -917,21 +857,6 @@
       "user": "stephenlthorn"
     },
     {
-      "title": "zhouyoukang1234-spec/windsurf-assistant - A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-      "url": "https://github.com/zhouyoukang1234-spec/windsurf-assistant",
-      "published_at": "2026-05-17T15:43:18Z",
-      "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "zhouyoukang1234-spec"
-    },
-    {
       "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
       "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
       "published_at": "2026-05-18T13:38:23Z",
@@ -943,8 +868,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 100,
       "user": "DeFiCryptoBots"
+    },
+    {
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "energypantry"
     }
   ],
   "Python": [
@@ -962,21 +902,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
-    },
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1110,7 +1035,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "Kappaemme-git"
     },
     {
@@ -1125,7 +1050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 640,
       "user": "bytedance"
     },
     {
@@ -1140,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 620,
       "user": "sapientinc"
     },
     {
@@ -1155,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "evilsocket"
     },
     {
@@ -1170,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "agentic-in"
     }
   ],
@@ -1237,6 +1162,21 @@
   ],
   "WebDev": [
     {
+      "title": "Accessibility - This looks like a job for a developer advocate!",
+      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12",
+      "published_at": "2026-05-21T12:56:55Z",
+      "description": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
+      "tags": [
+        "a11y",
+        "devrel",
+        "codenewbie",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png",
+      "source": "Dev.to",
+      "user": "Andy Haskell"
+    },
+    {
       "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
       "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
       "published_at": "2026-05-20T05:44:43Z",
@@ -1265,21 +1205,6 @@
       "user": "Jane Ori"
     },
     {
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
-      "published_at": "2026-05-04T08:54:09Z",
-      "description": "I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...",
-      "tags": [
-        "css",
-        "tailwindcss",
-        "frontend",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fli5mqjfv32ln8lmmjh5f.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1293,6 +1218,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "jnigen and swiftgen in 2026 - some lessons learned",
+      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni",
+      "published_at": "2026-05-20T21:09:48Z",
+      "description": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
+      "tags": [
+        "flutter",
+        "dart",
+        "jni",
+        "ffi"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felhq7qeb3cztkdc90yxm.png",
+      "source": "Dev.to",
+      "user": "Dominik Roszkowski"
+    },
     {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
       "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
@@ -1325,6 +1265,36 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
+      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
+      "published_at": "2026-05-21T15:49:59Z",
+      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
+      "tags": [
+        "agents",
+        "cloud",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Building a Production Company Website on AWS — Project Overview",
+      "url": "https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm",
+      "published_at": "2026-05-21T00:05:06Z",
+      "description": "What We Built   This series documents the end-to-end process of designing, building, and...",
+      "tags": [
+        "aws",
+        "webdev",
+        "tutorial",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb1mivpyt9lot9ug6pkg.png",
+      "source": "Dev.to",
+      "user": "Josh Blair"
+    },
     {
       "title": "Google Cloud & Claude Code workshop - 5/29 in SF, CA.",
       "url": "https://dev.to/googleai/google-cloud-claude-code-workshop-529-in-sf-ca-4k87",
@@ -1442,51 +1412,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
-      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
-      "published_at": "2026-05-16T13:00:00Z",
-      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
-      "tags": [
-        "cycling",
-        "nextjs",
-        "googlecloud",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
-      "source": "Dev.to",
-      "user": "Akira Kikusato"
-    },
-    {
-      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "url": "https://github.com/internetkafe/cfsearch",
-      "published_at": "2026-05-16T07:22:39Z",
-      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
-      "source": "GitHub",
-      "stars": 36,
-      "user": "internetkafe"
     }
   ],
   "Database": [
@@ -1561,6 +1486,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
+    },
+    {
+      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
+      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67",
+      "published_at": "2026-05-20T00:00:00Z",
+      "description": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
+      "tags": [
+        "fea",
+        "heattransfer",
+        "optimization",
+        "matlab"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhql6qma76ftowsnusu0.png",
+      "source": "Dev.to",
+      "user": "Precise Simulation"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -1666,21 +1606,6 @@
       "user": "Ivan Porta"
     },
     {
-      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
-      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
-      "published_at": "2026-04-27T07:34:34Z",
-      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
-      "tags": [
-        "ai",
-        "agents",
-        "development",
-        "workspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
-      "source": "Dev.to",
-      "user": "Philippe MARTIN"
-    },
-    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1692,7 +1617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1359,
       "user": "FoundZiGu"
     },
     {
@@ -1707,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 1011,
       "user": "Doorman11991"
     },
     {
@@ -1726,21 +1651,6 @@
       "user": "stephenlthorn"
     },
     {
-      "title": "zhouyoukang1234-spec/windsurf-assistant - A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-      "url": "https://github.com/zhouyoukang1234-spec/windsurf-assistant",
-      "published_at": "2026-05-17T15:43:18Z",
-      "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "zhouyoukang1234-spec"
-    },
-    {
       "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
       "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
       "published_at": "2026-05-18T13:38:23Z",
@@ -1752,8 +1662,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 100,
       "user": "DeFiCryptoBots"
+    },
+    {
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "energypantry"
     },
     {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
@@ -1767,7 +1692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 812,
       "user": "Kappaemme-git"
     },
     {
@@ -1782,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 640,
       "user": "bytedance"
     },
     {
@@ -1797,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 620,
       "user": "sapientinc"
     },
     {
@@ -1812,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "evilsocket"
     },
     {
@@ -1827,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "agentic-in"
     },
     {
@@ -1842,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8122660?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 157,
       "user": "vadimsemenykv"
     },
     {
@@ -1872,23 +1797,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 51,
       "user": "DEEIX-AI"
-    },
-    {
-      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "url": "https://github.com/internetkafe/cfsearch",
-      "published_at": "2026-05-16T07:22:39Z",
-      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
-      "source": "GitHub",
-      "stars": 36,
-      "user": "internetkafe"
     },
     {
       "title": "ninehills/pdf2md - PDF to Markdown OCR tools",
@@ -1902,8 +1812,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 36,
       "user": "ninehills"
+    },
+    {
+      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
+      "url": "https://github.com/732124645/PromptOps",
+      "published_at": "2026-05-15T15:02:15Z",
+      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "732124645"
     }
   ]
 }
