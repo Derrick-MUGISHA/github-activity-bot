@@ -32,7 +32,7 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 19 (18.1%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
@@ -40,7 +40,7 @@
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -60,22 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.3 (25.3%)
-JavaScript      ███████████████████████████ 23.0 (23.0%)
-Java            █████████████████████████ 20.7 (20.7%)
-Python          ██████████████████████ 18.4 (18.4%)
-Rust            ████████ 6.9 (6.9%)
-PHP             ███ 2.3 (2.3%)
-Kotlin          ███ 2.3 (2.3%)
-Swift           █ 1.1 (1.1%)
+Go              ██████████████████████████████ 25.9 (25.9%)
+JavaScript      ██████████████████████████ 22.4 (22.4%)
+Java            ███████████████████████ 20.0 (20.0%)
+Python          ██████████████████████ 18.8 (18.8%)
+Rust            ████████ 7.1 (7.1%)
+PHP             ███ 2.4 (2.4%)
+Kotlin          ███ 2.4 (2.4%)
+Swift           █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 22
-    "JavaScript" : 20
-    "Java" : 18
+    "JavaScript" : 19
+    "Java" : 17
     "Python" : 16
     "Rust" : 6
     "PHP" : 2
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![gemma](https://img.shields.io/badge/gemma-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![gemma](https://img.shields.io/badge/gemma-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-21 21:00 CAT)
+## 📅 Latest Updates (2026-05-21 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -164,6 +164,15 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/mlh/inside-100daysofsolana-a-guided-path-into-web3-5hk0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzfyhjqn83xdg3nfce2jy.png" width="200" alt="Inside #100DaysofSolana: A Guided Path into Web3" />
+      <br/>
+      <b>Inside #100DaysofSolana: A Guided Path into Web3</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg" width="200" alt="Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)" />
       <br/>
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png" width="200" alt="From Code to Cloud: 3 Labs for Deploying Your AI Agent" />
-      <br/>
-      <b>From Code to Cloud: 3 Labs for Deploying Your AI A...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -200,6 +200,7 @@ npm run test
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
 - [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe) _[Dev.to]_
 - [Accessibility - This looks like a job for a developer advocate!](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) _[Dev.to]_
+- [Inside #100DaysofSolana: A Guided Path into Web3](https://dev.to/mlh/inside-100daysofsolana-a-guided-path-into-web3-5hk0) _[Dev.to]_
 - [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) _[Dev.to]_
 - [The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0](https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14) _[Dev.to]_
 - [From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
 - [I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5) _[Dev.to]_
-- [My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.](https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13) _[Dev.to]_
 
-_Last automated update: Thu, 21 May 2026 21:17:41 CAT_
+_Last automated update: Thu, 21 May 2026 23:09:55 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 21 May 2026 21:17:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: What are closures and provide a practical example?
+### 1. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: functions, scope
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Function + lexical environment, data privacy, callbacks
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 2. Python: Explain GIL and its implications for multithreading
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Mutability, performance, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 21 May 2026 19:17:41 GMT</b><br/>
+  <b>Last automated update: Thu, 21 May 2026 21:09:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
