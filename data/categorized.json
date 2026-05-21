@@ -16,21 +16,6 @@
       "user": "Anna"
     },
     {
-      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
-      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
-      "published_at": "2026-05-20T20:09:10Z",
-      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
-      "tags": [
-        "docker",
-        "go",
-        "containers",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
-      "source": "Dev.to",
-      "user": "Yechiel Kalmenson"
-    },
-    {
       "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
       "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
       "published_at": "2026-05-21T15:49:59Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
       "source": "Dev.to",
       "user": "Santhoshkumar. P"
+    },
+    {
+      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
+      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
+      "published_at": "2026-05-20T20:09:10Z",
+      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
+      "tags": [
+        "docker",
+        "go",
+        "containers",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
+      "source": "Dev.to",
+      "user": "Yechiel Kalmenson"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1069,
       "user": "Doorman11991"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "DEEIX-AI"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1396,
       "user": "FoundZiGu"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1069,
       "user": "Doorman11991"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "DeFiCryptoBots"
     },
     {
@@ -1006,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 819,
       "user": "Kappaemme-git"
     },
     {
@@ -1021,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 656,
       "user": "bytedance"
     },
     {
@@ -1036,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "sapientinc"
     },
     {
@@ -1066,26 +1066,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "LiuMengxuan04"
     }
   ],
   "DevOps": [
-    {
-      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
-      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
-      "published_at": "2026-05-20T20:09:10Z",
-      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
-      "tags": [
-        "docker",
-        "go",
-        "containers",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
-      "source": "Dev.to",
-      "user": "Yechiel Kalmenson"
-    },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
       "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
@@ -1100,6 +1085,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png",
       "source": "Dev.to",
       "user": "Dener Fernandes"
+    },
+    {
+      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
+      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
+      "published_at": "2026-05-20T20:09:10Z",
+      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
+      "tags": [
+        "docker",
+        "go",
+        "containers",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
+      "source": "Dev.to",
+      "user": "Yechiel Kalmenson"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -1603,7 +1603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1396,
       "user": "FoundZiGu"
     },
     {
@@ -1618,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1069,
       "user": "Doorman11991"
     },
     {
@@ -1648,7 +1648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "DeFiCryptoBots"
     },
     {
@@ -1678,7 +1678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 819,
       "user": "Kappaemme-git"
     },
     {
@@ -1693,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 656,
       "user": "bytedance"
     },
     {
@@ -1708,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "sapientinc"
     },
     {
@@ -1738,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "LiuMengxuan04"
     },
     {
@@ -1783,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "DEEIX-AI"
     },
     {

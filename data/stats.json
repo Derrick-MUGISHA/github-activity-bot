@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -19,8 +19,8 @@
   },
   "by_language": {
     "Go": 21,
-    "Swift": 1,
     "Rust": 6,
+    "Swift": 1,
     "JavaScript": 20,
     "Python": 16,
     "Java": 18,
@@ -30,11 +30,11 @@
   "by_date": {
     "2026-05-21": 8,
     "2026-05-20": 11,
-    "2026-05-19": 12,
     "2026-05-18": 9,
     "2026-05-15": 11,
     "2026-05-14": 5,
     "2026-05-13": 6,
+    "2026-05-19": 11,
     "2026-05-11": 2,
     "2026-05-10": 1,
     "2026-05-08": 1,
@@ -80,12 +80,12 @@
     "Python": 10,
     "devchallenge": 9,
     "agents": 8,
-    "webdev": 8,
     "javascript": 8,
+    "webdev": 7,
     "gemma": 7,
     "opensource": 7,
-    "go": 6,
     "gemmachallenge": 6,
+    "go": 6,
     "python": 6,
     "gemini": 5,
     "productivity": 4,
@@ -96,8 +96,8 @@
   "trending_topics": [],
   "language_percentages": {
     "Go": "24.4",
-    "Swift": "1.2",
     "Rust": "7.0",
+    "Swift": "1.2",
     "JavaScript": "23.3",
     "Python": "18.6",
     "Java": "20.9",
