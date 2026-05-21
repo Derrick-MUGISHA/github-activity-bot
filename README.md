@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
@@ -85,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![gemma](https://img.shields.io/badge/gemma-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -125,7 +125,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-21 13:00 CAT)
+## 📅 Latest Updates (2026-05-21 16:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -180,10 +180,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/building-a-rust-a2a-agent-4626">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png" width="200" alt="Building a Rust A2A Agent" />
+    <a href="https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png" width="200" alt="Found a Coordinated GitHub Follow Botnet Hiding in My Followers?" />
       <br/>
-      <b>Building a Rust A2A Agent</b>
+      <b>Found a Coordinated GitHub Follow Botnet Hiding in...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,10 +200,10 @@ npm run test
 - [Great Little Software: Rackula](https://dev.to/valeriavg/great-little-software-rackula-1pa1) _[Dev.to]_
 - [My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.](https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13) _[Dev.to]_
 - [Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices](https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5) _[Dev.to]_
+- [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl) _[Dev.to]_
 - [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
 - [Drow.js: A Practical Look at the Tiny Web Components Library](https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
-- [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl) _[Dev.to]_
 - [Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀](https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk) _[Dev.to]_
 - [3 takeaways from the IO '26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2) _[Dev.to]_
 - [Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau](https://dev.to/robertobutti/understanding-correlation-in-php-pearson-vs-spearman-vs-kendall-tau-28m1) _[Dev.to]_
@@ -211,12 +211,12 @@ npm run test
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
 - [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03) _[Dev.to]_
-- [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
+- [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 
-_Last automated update: Thu, 21 May 2026 13:43:49 CAT_
+_Last automated update: Thu, 21 May 2026 16:26:30 CAT_
 
 
 
@@ -224,25 +224,25 @@ _Last automated update: Thu, 21 May 2026 13:43:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Java: Explain the Java memory model
+### 2. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -287,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 21 May 2026 11:43:49 GMT</b><br/>
+  <b>Last automated update: Thu, 21 May 2026 14:26:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

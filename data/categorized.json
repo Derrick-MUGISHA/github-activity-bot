@@ -627,23 +627,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 990,
       "user": "Doorman11991"
     },
     {
-      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
-      "url": "https://github.com/732124645/PromptOps",
-      "published_at": "2026-05-15T15:02:15Z",
-      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "title": "agentic-in/elephant-agent - Personal-Model First Self Evolving AI Agent 🐘",
+      "url": "https://github.com/agentic-in/elephant-agent",
+      "published_at": "2026-05-15T07:08:17Z",
+      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "agentic-in"
+    },
+    {
+      "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+      "published_at": "2026-05-21T08:57:01Z",
+      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 31,
-      "user": "732124645"
+      "stars": 45,
+      "user": "DEEIX-AI"
     }
   ],
   "JavaScript": [
@@ -660,21 +675,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
       "source": "Dev.to",
       "user": "John Facey"
-    },
-    {
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
-      "published_at": "2026-05-19T10:29:28Z",
-      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -705,6 +705,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
+      "published_at": "2026-05-19T10:29:28Z",
+      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
+      "tags": [
+        "nextjs",
+        "webdev",
+        "javascript",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
@@ -868,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1288,
       "user": "FoundZiGu"
     },
     {
@@ -883,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 990,
       "user": "Doorman11991"
     },
     {
@@ -898,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 576,
       "user": "stephenlthorn"
     },
     {
@@ -917,19 +932,19 @@
       "user": "zhouyoukang1234-spec"
     },
     {
-      "title": "energypantry/agent-browser-runtime - GitHub Repository",
-      "url": "https://github.com/energypantry/agent-browser-runtime",
-      "published_at": "2026-05-17T06:43:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
+      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+      "published_at": "2026-05-18T13:38:23Z",
+      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 81,
-      "user": "energypantry"
+      "stars": 82,
+      "user": "DeFiCryptoBots"
     }
   ],
   "Python": [
@@ -1095,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 810,
       "user": "Kappaemme-git"
     },
     {
@@ -1110,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 631,
       "user": "bytedance"
     },
     {
@@ -1125,23 +1140,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 608,
       "user": "sapientinc"
-    },
-    {
-      "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking",
-      "published_at": "2026-05-19T10:31:27Z",
-      "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
-      "source": "GitHub",
-      "stars": 551,
-      "user": "Glazenovatag"
     },
     {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
@@ -1155,8 +1155,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 393,
       "user": "evilsocket"
+    },
+    {
+      "title": "agentic-in/elephant-agent - Personal-Model First Self Evolving AI Agent 🐘",
+      "url": "https://github.com/agentic-in/elephant-agent",
+      "published_at": "2026-05-15T07:08:17Z",
+      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "agentic-in"
     }
   ],
   "DevOps": [
@@ -1677,7 +1692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1288,
       "user": "FoundZiGu"
     },
     {
@@ -1692,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 990,
       "user": "Doorman11991"
     },
     {
@@ -1707,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 576,
       "user": "stephenlthorn"
     },
     {
@@ -1726,19 +1741,19 @@
       "user": "zhouyoukang1234-spec"
     },
     {
-      "title": "energypantry/agent-browser-runtime - GitHub Repository",
-      "url": "https://github.com/energypantry/agent-browser-runtime",
-      "published_at": "2026-05-17T06:43:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
+      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+      "published_at": "2026-05-18T13:38:23Z",
+      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 81,
-      "user": "energypantry"
+      "stars": 82,
+      "user": "DeFiCryptoBots"
     },
     {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
@@ -1752,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 810,
       "user": "Kappaemme-git"
     },
     {
@@ -1767,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 631,
       "user": "bytedance"
     },
     {
@@ -1782,23 +1797,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 608,
       "user": "sapientinc"
-    },
-    {
-      "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking",
-      "published_at": "2026-05-19T10:31:27Z",
-      "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
-      "source": "GitHub",
-      "stars": 551,
-      "user": "Glazenovatag"
     },
     {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
@@ -1812,8 +1812,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 393,
       "user": "evilsocket"
+    },
+    {
+      "title": "agentic-in/elephant-agent - Personal-Model First Self Evolving AI Agent 🐘",
+      "url": "https://github.com/agentic-in/elephant-agent",
+      "published_at": "2026-05-15T07:08:17Z",
+      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/274756484?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "agentic-in"
     },
     {
       "title": "vadimsemenykv/saboteur - GitHub Repository",
@@ -1842,8 +1857,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "kamalyes"
+    },
+    {
+      "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+      "published_at": "2026-05-21T08:57:01Z",
+      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "DEEIX-AI"
     },
     {
       "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
@@ -1861,21 +1891,6 @@
       "user": "internetkafe"
     },
     {
-      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
-      "url": "https://github.com/732124645/PromptOps",
-      "published_at": "2026-05-15T15:02:15Z",
-      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
-      "source": "GitHub",
-      "stars": 31,
-      "user": "732124645"
-    },
-    {
       "title": "ninehills/pdf2md - PDF to Markdown OCR tools",
       "url": "https://github.com/ninehills/pdf2md",
       "published_at": "2026-05-20T07:19:49Z",
@@ -1887,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 30,
+      "stars": 34,
       "user": "ninehills"
     }
   ]
