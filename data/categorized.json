@@ -31,7 +31,7 @@
       "title": "Google I/O 2026: From Consumer to Builder",
       "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
       "published_at": "2026-05-20T19:41:08Z",
-      "description": "I tune in to Google I/O every year. But this year felt different.  In the past, I watched as a...",
+      "description": "I tune in to Google I/O every year (since 2024). But this year felt different.  In the past, I...",
       "tags": [
         "ai",
         "buildinpublic",
@@ -442,6 +442,21 @@
       "user": "Raihan"
     },
     {
+      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
+      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
+      "published_at": "2026-05-18T20:30:40Z",
+      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
+      "source": "Dev.to",
+      "user": "Zanne"
+    },
+    {
       "title": "I Love Tailwind. Sorry Not Sorry",
       "url": "https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh",
       "published_at": "2026-05-04T08:54:09Z",
@@ -457,19 +472,19 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
-      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
-      "published_at": "2026-05-18T20:30:40Z",
-      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
+        "ai",
+        "agents",
+        "development",
+        "workspace"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
       "source": "Dev.to",
-      "user": "Zanne"
+      "user": "Philippe MARTIN"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -627,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 854,
       "user": "Doorman11991"
     },
     {
@@ -644,21 +659,6 @@
       "source": "GitHub",
       "stars": 31,
       "user": "732124645"
-    },
-    {
-      "title": "zjl88858/forza-painter-geometrize-gpu - This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
-      "url": "https://github.com/zjl88858/forza-painter-geometrize-gpu",
-      "published_at": "2026-05-17T17:50:57Z",
-      "description": "This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29473998?v=4",
-      "source": "GitHub",
-      "stars": 17,
-      "user": "zjl88858"
     }
   ],
   "JavaScript": [
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 1058,
       "user": "FoundZiGu"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 854,
       "user": "Doorman11991"
     },
     {
@@ -902,6 +902,21 @@
       "user": "stephenlthorn"
     },
     {
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "energypantry"
+    },
+    {
       "title": "kiddo-pwn/ffffirefox - GitHub Repository",
       "url": "https://github.com/kiddo-pwn/ffffirefox",
       "published_at": "2026-05-15T16:57:40Z",
@@ -915,36 +930,6 @@
       "source": "GitHub",
       "stars": 74,
       "user": "kiddo-pwn"
-    },
-    {
-      "title": "energypantry/agent-browser-runtime - GitHub Repository",
-      "url": "https://github.com/energypantry/agent-browser-runtime",
-      "published_at": "2026-05-17T06:43:23Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
-      "source": "GitHub",
-      "stars": 74,
-      "user": "energypantry"
-    },
-    {
-      "title": "zjl88858/forza-painter-geometrize-gpu - This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
-      "url": "https://github.com/zjl88858/forza-painter-geometrize-gpu",
-      "published_at": "2026-05-17T17:50:57Z",
-      "description": "This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29473998?v=4",
-      "source": "GitHub",
-      "stars": 17,
-      "user": "zjl88858"
     }
   ],
   "Python": [
@@ -1110,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 808,
       "user": "Kappaemme-git"
     },
     {
@@ -1125,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 577,
       "user": "sapientinc"
     },
     {
@@ -1140,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 545,
       "user": "bytedance"
     },
     {
@@ -1155,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 508,
       "user": "Glazenovatag"
     },
     {
@@ -1170,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "evilsocket"
     }
   ],
@@ -1500,6 +1485,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "RuoJi6/database_scan - GitHub Repository",
+      "url": "https://github.com/RuoJi6/database_scan",
+      "published_at": "2026-05-15T01:22:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
+      "source": "GitHub",
+      "stars": 20,
+      "user": "RuoJi6"
     }
   ],
   "Security": [
@@ -1548,20 +1548,6 @@
       "user": "GnomeMan4201"
     },
     {
-      "title": "Terminal Superpowers You Should Be Using in 2026",
-      "url": "https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4",
-      "published_at": "2026-05-19T15:00:00Z",
-      "description": "I live in my terminal. Here's what I use to stay fast.   Fuzzy finder (fzf) Terminal motions Sudo...",
-      "tags": [
-        "productivity",
-        "cli",
-        "zsh"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
       "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
       "published_at": "2026-05-13T19:13:14Z",
@@ -1590,6 +1576,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png",
       "source": "Dev.to",
       "user": "satyamsoni2211"
+    },
+    {
+      "title": "Terminal Superpowers You Should Be Using in 2026",
+      "url": "https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4",
+      "published_at": "2026-05-19T15:00:00Z",
+      "description": "I live in my terminal. Here's what I use to stay fast.   Fuzzy finder (fzf) Terminal motions Sudo...",
+      "tags": [
+        "productivity",
+        "cli",
+        "zsh"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png",
+      "source": "Dev.to",
+      "user": "Sean Boult"
     },
     {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
@@ -1651,6 +1651,21 @@
       "user": "Ivan Porta"
     },
     {
+      "title": "Creating a CLI Tool with AI Agents: My Journey with kdn",
+      "url": "https://dev.to/feloy/creating-a-cli-tool-with-ai-agents-my-journey-with-kdn-46d8",
+      "published_at": "2026-04-27T07:34:34Z",
+      "description": "A few months ago, my experience with AI assistance was limited to tab completions in Cursor. The kind...",
+      "tags": [
+        "ai",
+        "agents",
+        "development",
+        "workspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1x0ue6hpu76pn0gr9p8k.png",
+      "source": "Dev.to",
+      "user": "Philippe MARTIN"
+    },
+    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1662,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 1058,
       "user": "FoundZiGu"
     },
     {
@@ -1677,7 +1692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 854,
       "user": "Doorman11991"
     },
     {
@@ -1696,6 +1711,21 @@
       "user": "stephenlthorn"
     },
     {
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "energypantry"
+    },
+    {
       "title": "kiddo-pwn/ffffirefox - GitHub Repository",
       "url": "https://github.com/kiddo-pwn/ffffirefox",
       "published_at": "2026-05-15T16:57:40Z",
@@ -1711,21 +1741,6 @@
       "user": "kiddo-pwn"
     },
     {
-      "title": "energypantry/agent-browser-runtime - GitHub Repository",
-      "url": "https://github.com/energypantry/agent-browser-runtime",
-      "published_at": "2026-05-17T06:43:23Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
-      "source": "GitHub",
-      "stars": 74,
-      "user": "energypantry"
-    },
-    {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
       "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
       "published_at": "2026-05-15T13:33:28Z",
@@ -1737,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 808,
       "user": "Kappaemme-git"
     },
     {
@@ -1752,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 577,
       "user": "sapientinc"
     },
     {
@@ -1767,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 545,
       "user": "bytedance"
     },
     {
@@ -1782,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 508,
       "user": "Glazenovatag"
     },
     {
@@ -1797,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 377,
       "user": "evilsocket"
     },
     {
@@ -1827,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "kamalyes"
     },
     {
@@ -1861,19 +1876,19 @@
       "user": "732124645"
     },
     {
-      "title": "zjl88858/forza-painter-geometrize-gpu - This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
-      "url": "https://github.com/zjl88858/forza-painter-geometrize-gpu",
-      "published_at": "2026-05-17T17:50:57Z",
-      "description": "This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "title": "RuoJi6/database_scan - GitHub Repository",
+      "url": "https://github.com/RuoJi6/database_scan",
+      "published_at": "2026-05-15T01:22:31Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29473998?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 17,
-      "user": "zjl88858"
+      "stars": 20,
+      "user": "RuoJi6"
     }
   ]
 }
