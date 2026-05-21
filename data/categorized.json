@@ -73,21 +73,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemini 3.5 Flash Developer Guide",
-      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
-      "published_at": "2026-05-19T17:55:34Z",
-      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
       "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk",
       "published_at": "2026-05-19T23:37:00Z",
@@ -233,21 +218,6 @@
       "user": "Anup Karanjkar"
     },
     {
-      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
-      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
-      "published_at": "2026-05-18T20:30:40Z",
-      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
-      "source": "Dev.to",
-      "user": "Zanne"
-    },
-    {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
       "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
       "published_at": "2026-05-10T18:28:13Z",
@@ -261,6 +231,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "Gemini 3.5 Flash Developer Guide",
+      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
+      "published_at": "2026-05-19T17:55:34Z",
+      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "Your AI Agent is Stuck in a Loop. Here's the Memory Layer That Breaks It and Saves You Money",
@@ -472,6 +457,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
+      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
+      "published_at": "2026-05-18T20:30:40Z",
+      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
+      "source": "Dev.to",
+      "user": "Zanne"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -627,8 +627,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 836,
       "user": "Doorman11991"
+    },
+    {
+      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
+      "url": "https://github.com/732124645/PromptOps",
+      "published_at": "2026-05-15T15:02:15Z",
+      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "732124645"
+    },
+    {
+      "title": "zjl88858/forza-painter-geometrize-gpu - This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "url": "https://github.com/zjl88858/forza-painter-geometrize-gpu",
+      "published_at": "2026-05-17T17:50:57Z",
+      "description": "This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29473998?v=4",
+      "source": "GitHub",
+      "stars": 17,
+      "user": "zjl88858"
     }
   ],
   "JavaScript": [
@@ -838,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 927,
       "user": "FoundZiGu"
     },
     {
@@ -853,23 +883,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 836,
       "user": "Doorman11991"
-    },
-    {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "boona13"
     },
     {
       "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
@@ -883,23 +898,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "stephenlthorn"
     },
     {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "title": "kiddo-pwn/ffffirefox - GitHub Repository",
+      "url": "https://github.com/kiddo-pwn/ffffirefox",
+      "published_at": "2026-05-15T16:57:40Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50818874?v=4",
       "source": "GitHub",
-      "stars": 279,
-      "user": "POLYMARKET-TRADER-LAB"
+      "stars": 74,
+      "user": "kiddo-pwn"
+    },
+    {
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "energypantry"
+    },
+    {
+      "title": "zjl88858/forza-painter-geometrize-gpu - This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "url": "https://github.com/zjl88858/forza-painter-geometrize-gpu",
+      "published_at": "2026-05-17T17:50:57Z",
+      "description": "This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29473998?v=4",
+      "source": "GitHub",
+      "stars": 17,
+      "user": "zjl88858"
     }
   ],
   "Python": [
@@ -1054,21 +1099,6 @@
       "user": "arathore"
     },
     {
-      "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
-      "url": "https://github.com/facebookresearch/vggt-omega",
-      "published_at": "2026-05-14T04:43:13Z",
-      "description": "[CVPR 2026 Oral] VGGT Omega",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
-      "source": "GitHub",
-      "stars": 1343,
-      "user": "facebookresearch"
-    },
-    {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
       "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
       "published_at": "2026-05-15T13:33:28Z",
@@ -1095,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 564,
       "user": "sapientinc"
     },
     {
@@ -1110,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 509,
       "user": "bytedance"
     },
     {
@@ -1125,8 +1155,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "Glazenovatag"
+    },
+    {
+      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
+      "url": "https://github.com/evilsocket/audit",
+      "published_at": "2026-05-18T20:42:44Z",
+      "description": "An 8-stage vulnerability-discovery agent.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
+      "source": "GitHub",
+      "stars": 369,
+      "user": "evilsocket"
     }
   ],
   "DevOps": [
@@ -1277,21 +1322,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
-    },
-    {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "boona13"
     }
   ],
   "Cloud": [
@@ -1470,21 +1500,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "url": "https://github.com/aymanhs/nanotdb",
-      "published_at": "2026-05-14T06:00:30Z",
-      "description": "A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "aymanhs"
     }
   ],
   "Security": [
@@ -1647,7 +1662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 927,
       "user": "FoundZiGu"
     },
     {
@@ -1662,23 +1677,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 836,
       "user": "Doorman11991"
-    },
-    {
-      "title": "boona13/mykonos-island-voxels - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "url": "https://github.com/boona13/mykonos-island-voxels",
-      "published_at": "2026-05-14T05:35:33Z",
-      "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/132214668?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "boona13"
     },
     {
       "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
@@ -1692,38 +1692,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "stephenlthorn"
     },
     {
-      "title": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot - polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
-      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "published_at": "2026-05-14T18:59:39Z",
-      "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "title": "kiddo-pwn/ffffirefox - GitHub Repository",
+      "url": "https://github.com/kiddo-pwn/ffffirefox",
+      "published_at": "2026-05-15T16:57:40Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284728294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50818874?v=4",
       "source": "GitHub",
-      "stars": 279,
-      "user": "POLYMARKET-TRADER-LAB"
+      "stars": 74,
+      "user": "kiddo-pwn"
     },
     {
-      "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
-      "url": "https://github.com/facebookresearch/vggt-omega",
-      "published_at": "2026-05-14T04:43:13Z",
-      "description": "[CVPR 2026 Oral] VGGT Omega",
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16943930?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 1343,
-      "user": "facebookresearch"
+      "stars": 74,
+      "user": "energypantry"
     },
     {
       "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
@@ -1752,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 564,
       "user": "sapientinc"
     },
     {
@@ -1767,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 509,
       "user": "bytedance"
     },
     {
@@ -1782,23 +1782,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "Glazenovatag"
     },
     {
-      "title": "rockorager/comview - the best diff viewer ever made",
-      "url": "https://github.com/rockorager/comview",
-      "published_at": "2026-05-14T22:17:40Z",
-      "description": "the best diff viewer ever made",
+      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
+      "url": "https://github.com/evilsocket/audit",
+      "published_at": "2026-05-18T20:42:44Z",
+      "description": "An 8-stage vulnerability-discovery agent.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/476352?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 216,
-      "user": "rockorager"
+      "stars": 369,
+      "user": "evilsocket"
     },
     {
       "title": "vadimsemenykv/saboteur - GitHub Repository",
@@ -1814,21 +1814,6 @@
       "source": "GitHub",
       "stars": 158,
       "user": "vadimsemenykv"
-    },
-    {
-      "title": "aymanhs/nanotdb - A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "url": "https://github.com/aymanhs/nanotdb",
-      "published_at": "2026-05-14T06:00:30Z",
-      "description": "A tiny, append‑only time‑series database designed for long‑running sensor data on modest hardware.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18005165?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "aymanhs"
     },
     {
       "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
@@ -1859,6 +1844,36 @@
       "source": "GitHub",
       "stars": 36,
       "user": "internetkafe"
+    },
+    {
+      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
+      "url": "https://github.com/732124645/PromptOps",
+      "published_at": "2026-05-15T15:02:15Z",
+      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "732124645"
+    },
+    {
+      "title": "zjl88858/forza-painter-geometrize-gpu - This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "url": "https://github.com/zjl88858/forza-painter-geometrize-gpu",
+      "published_at": "2026-05-17T17:50:57Z",
+      "description": "This is a third-party geometrize JSON generation tool for [forza-painter](https://github.com/forza-painter/forza-painter). Its goal is to improve JSON generation efficiency so that higher-quality liveries can be produced in the same amount of time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29473998?v=4",
+      "source": "GitHub",
+      "stars": 17,
+      "user": "zjl88858"
     }
   ]
 }
