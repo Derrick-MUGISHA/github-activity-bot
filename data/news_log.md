@@ -1797554,3 +1797554,777 @@ A developer submits a ticket to request a database. Three days later, the platfo
 
 ---
 
+
+
+## 📰 DevTech News — 2026-05-22 0:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (42 articles)
+
+#### 1. [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe)
+📅 Thu, 21 May 2026 01:37:32 GMT
+👤 By: Anna | 📌 Source: Dev.to
+
+![From Years to Hours](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png)
+
+It's not a brag for me to say "I've been visualizing infrastructure since 2018" - it's the actual...
+
+🏷️ Tags: `ai`, `stripe`, `cli`, `agents`
+
+---
+
+#### 2. [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma)
+📅 Wed, 20 May 2026 20:09:10 GMT
+👤 By: Yechiel Kalmenson | 📌 Source: Dev.to
+
+![Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg)
+
+The "Works on My Machine" Problem   We've all been there. You spend days writing a new...
+
+🏷️ Tags: `docker`, `go`, `containers`, `linux`
+
+---
+
+#### 3. [From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn)
+📅 Thu, 21 May 2026 15:49:59 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png)
+
+You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...
+
+🏷️ Tags: `agents`, `cloud`, `googlecloud`, `ai`
+
+---
+
+#### 4. [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626)
+📅 Mon, 18 May 2026 12:52:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building a Rust A2A Agent](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png)
+
+Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...
+
+🏷️ Tags: `agents`, `a2aprotocol`, `crate`, `rustprogramminglangu`
+
+---
+
+#### 5. [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom)
+📅 Wed, 20 May 2026 19:41:08 GMT
+👤 By: Michellebuchiokonicha | 📌 Source: Dev.to
+
+![Google I/O 2026: From Consumer to Builder](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png)
+
+I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...
+
+🏷️ Tags: `ai`, `buildinpublic`, `google`, `machinelearning`
+
+---
+
+#### 6. [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji)
+📅 Wed, 20 May 2026 15:02:06 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Google I/O 2026 - Day 1 - Live from the Front Row](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc52tys36onc0skhr5o4.jpeg)
+
+This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...
+
+🏷️ Tags: `devchallenge`, `googleiochallenge`
+
+---
+
+#### 7. [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c)
+📅 Fri, 15 May 2026 06:29:33 GMT
+👤 By: Brian Kirkpatrick | 📌 Source: Dev.to
+
+![Some Notes on OMO Orchestrator Claude Alternatives](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcf5ybdiah0l3pzmlyjud.png)
+
+I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...
+
+🏷️ Tags: `engineering`, `agents`, `ai`
+
+---
+
+#### 8. [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4)
+📅 Fri, 15 May 2026 08:58:22 GMT
+👤 By: chuanman2707 | 📌 Source: Dev.to
+
+![Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faothqiyg4rjotxj5q8an.png)
+
+This is a submission for the Gemma 4 Challenge: Write About Gemma 4           Why I Built This   I...
+
+🏷️ Tags: `devchallenge`, `gemmachallenge`, `gemma`, `ai`
+
+---
+
+#### 9. [Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03)
+📅 Thu, 14 May 2026 11:12:17 GMT
+👤 By: Xavier Portilla Edo | 📌 Source: Dev.to
+
+![Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png)
+
+Introduction   If you have been building anything non-trivial with Genkit, you have probably...
+
+🏷️ Tags: `ai`, `genkit`, `vertexai`, `tutorial`
+
+---
+
+#### 10. [My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.](https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13)
+📅 Wed, 20 May 2026 12:26:19 GMT
+👤 By: Santhoshkumar. P | 📌 Source: Dev.to
+
+![My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png)
+
+This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...
+
+🏷️ Tags: `devchallenge`, `gemma`, `gemmachallenge`
+
+---
+
+### 🏷️ JavaScript (20 articles)
+
+#### 1. [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7)
+📅 Thu, 14 May 2026 22:02:53 GMT
+👤 By: Jonas Gauffin | 📌 Source: Dev.to
+
+![Giving AI agents knowledge they were never trained on](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png)
+
+I love coding my own stuff, and my clients typically have lots of internal specifications and...
+
+🏷️ Tags: `mcp`, `ai`, `typescript`, `llm`
+
+---
+
+#### 2. [Drow.js: A Practical Look at the Tiny Web Components Library](https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9)
+📅 Wed, 20 May 2026 05:44:43 GMT
+👤 By: John Facey | 📌 Source: Dev.to
+
+![Drow.js: A Practical Look at the Tiny Web Components Library](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png)
+
+Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...
+
+🏷️ Tags: `frontend`, `javascript`, `webdev`
+
+---
+
+#### 3. [I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm)
+📅 Sun, 10 May 2026 18:28:13 GMT
+👤 By: Muhammad Ahsan Ayaz | 📌 Source: Dev.to
+
+![I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg)
+
+This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...
+
+🏷️ Tags: `ai`, `javascript`, `gemmachallenge`, `devchallenge`
+
+---
+
+#### 4. [I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8)
+📅 Tue, 19 May 2026 10:29:28 GMT
+👤 By: Shubhra Pokhariya | 📌 Source: Dev.to
+
+![I built a free debugger because Next.js 16 'use cache' was completely invisible during development](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png)
+
+I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...
+
+🏷️ Tags: `nextjs`, `webdev`, `javascript`, `performance`
+
+---
+
+#### 5. [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
+📅 Wed, 13 May 2026 07:07:13 GMT
+👤 By: Aryan Choudhary | 📌 Source: Dev.to
+
+![Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png)
+
+We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...
+
+🏷️ Tags: `webdev`, `nextjs`, `sideprojects`, `react`
+
+---
+
+#### 6. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (16 articles)
+
+#### 1. [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl)
+📅 Tue, 19 May 2026 21:32:45 GMT
+👤 By: GnomeMan4201 | 📌 Source: Dev.to
+
+![Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png)
+
+Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.
+
+🏷️ Tags: `security`, `github`, `python`, `opensource`
+
+---
+
+#### 2. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma)
+📅 Wed, 20 May 2026 20:09:10 GMT
+👤 By: Yechiel Kalmenson | 📌 Source: Dev.to
+
+![Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg)
+
+The "Works on My Machine" Problem   We've all been there. You spend days writing a new...
+
+🏷️ Tags: `docker`, `go`, `containers`, `linux`
+
+---
+
+#### 2. [I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5)
+📅 Wed, 20 May 2026 11:44:59 GMT
+👤 By: Dener Fernandes | 📌 Source: Dev.to
+
+![I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png)
+
+Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...
+
+🏷️ Tags: `opensource`, `kubernetes`, `devops`, `infrastructure`
+
+---
+
+#### 3. [Speed, caching, and the 40x cost wall](https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0)
+📅 Fri, 08 May 2026 06:39:25 GMT
+👤 By: Sanket Sahu | 📌 Source: Dev.to
+
+![Speed, caching, and the 40x cost wall](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png)
+
+Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.
+
+🏷️ Tags: `ai`, `llm`, `buildinpublic`, `devops`
+
+---
+
+#### 4. [Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6)
+📅 Tue, 05 May 2026 08:01:34 GMT
+👤 By: Kahiro Okina | 📌 Source: Dev.to
+
+![Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png)
+
+This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...
+
+🏷️ Tags: `kubernetes`, `ocm`, `cncf`, `multicluster`
+
+---
+
+#### 5. [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+📅 Tue, 05 May 2026 05:21:20 GMT
+👤 By: Ivan Porta | 📌 Source: Dev.to
+
+![What Platform Teams Can Expect From Crossplane v2.2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png)
+
+A developer submits a ticket to request a database. Three days later, the platform team responds, but...
+
+🏷️ Tags: `crossplane`, `kubernetes`, `gitops`
+
+---
+
+### 🏷️ WebDev (4 articles)
+
+#### 1. [Accessibility - This looks like a job for a developer advocate!](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12)
+📅 Thu, 21 May 2026 12:56:55 GMT
+👤 By: Andy Haskell | 📌 Source: Dev.to
+
+![Accessibility - This looks like a job for a developer advocate!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png)
+
+At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....
+
+🏷️ Tags: `a11y`, `devrel`, `codenewbie`, `career`
+
+---
+
+#### 2. [Drow.js: A Practical Look at the Tiny Web Components Library](https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9)
+📅 Wed, 20 May 2026 05:44:43 GMT
+👤 By: John Facey | 📌 Source: Dev.to
+
+![Drow.js: A Practical Look at the Tiny Web Components Library](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png)
+
+Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...
+
+🏷️ Tags: `frontend`, `javascript`, `webdev`
+
+---
+
+#### 3. [CSS - The single coolest API technique you can imagine.](https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8)
+📅 Thu, 07 May 2026 23:15:51 GMT
+👤 By: Jane Ori | 📌 Source: Dev.to
+
+![CSS - The single coolest API technique you can imagine.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png)
+
+To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...
+
+🏷️ Tags: `css`, `api`, `webdev`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni)
+📅 Wed, 20 May 2026 21:09:48 GMT
+👤 By: Dominik Roszkowski | 📌 Source: Dev.to
+
+![jnigen and swiftgen in 2026 - some lessons learned](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felhq7qeb3cztkdc90yxm.png)
+
+Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...
+
+🏷️ Tags: `flutter`, `dart`, `jni`, `ffi`
+
+---
+
+#### 2. [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0)
+📅 Fri, 15 May 2026 15:00:00 GMT
+👤 By: Allen Firstenberg | 📌 Source: Dev.to
+
+![Through the Blue Frames: UX From Google Glass to Gemini](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png)
+
+It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...
+
+🏷️ Tags: `androidxr`, `googleglass`, `googleassistant`, `voicefirst`
+
+---
+
+#### 3. [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7)
+📅 Thu, 14 May 2026 11:11:33 GMT
+👤 By: Thomas Künneth | 📌 Source: Dev.to
+
+![Building a custom launcher for ChromeOS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg)
+
+In this article, I will share some of my experience of enhancing Be nice to be a launcher on...
+
+🏷️ Tags: `android`, `chromeos`, `ui`, `programming`
+
+---
+
+### 🏷️ Cloud (9 articles)
+
+#### 1. [From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn)
+📅 Thu, 21 May 2026 15:49:59 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png)
+
+You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...
+
+🏷️ Tags: `agents`, `cloud`, `googlecloud`, `ai`
+
+---
+
+#### 2. [Building a Production Company Website on AWS — Project Overview](https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm)
+📅 Thu, 21 May 2026 00:05:06 GMT
+👤 By: Josh Blair | 📌 Source: Dev.to
+
+![Building a Production Company Website on AWS — Project Overview](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb1mivpyt9lot9ug6pkg.png)
+
+What We Built   This series documents the end-to-end process of designing, building, and...
+
+🏷️ Tags: `aws`, `webdev`, `tutorial`, `cloud`
+
+---
+
+#### 3. [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd)
+📅 Thu, 14 May 2026 15:18:37 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `rust`, `agents`, `aws`, `awslambda`
+
+---
+
+#### 4. [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea)
+📅 Wed, 13 May 2026 22:34:18 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png)
+
+​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...
+
+🏷️ Tags: `cloud`, `eventsinyourcity`, `ai`
+
+---
+
+#### 5. [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g)
+📅 Wed, 13 May 2026 13:02:44 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Amazon EKS](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `awseks`, `aws`, `mcps`, `agents`
+
+---
+
+#### 6. [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0)
+📅 Fri, 15 May 2026 15:00:00 GMT
+👤 By: Allen Firstenberg | 📌 Source: Dev.to
+
+![Through the Blue Frames: UX From Google Glass to Gemini](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png)
+
+It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...
+
+🏷️ Tags: `androidxr`, `googleglass`, `googleassistant`, `voicefirst`
+
+---
+
+#### 7. [Deploying a Rust A2A Agent to Google Cloud Run](https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd)
+📅 Mon, 18 May 2026 03:02:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust A2A Agent to Google Cloud Run](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png)
+
+Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...
+
+🏷️ Tags: `rust`, `gemini`, `googlecloudrun`, `a2aprotocol`
+
+---
+
+#### 8. [Deploying a Rust MCP Server to Azure Appservice](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-appservice-g9c)
+📅 Sun, 17 May 2026 12:39:30 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Azure Appservice](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `mcps`, `rust`, `azure`, `azureappservice`
+
+---
+
+#### 9. [Deploying a Rust MCP Server to Azure ACI](https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb)
+📅 Fri, 15 May 2026 13:02:34 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Azure ACI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `mcpserver`, `gemini`, `iac`, `azure`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+📅 Tue, 05 May 2026 05:21:20 GMT
+👤 By: Ivan Porta | 📌 Source: Dev.to
+
+![What Platform Teams Can Expect From Crossplane v2.2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png)
+
+A developer submits a ticket to request a database. Three days later, the platform team responds, but...
+
+🏷️ Tags: `crossplane`, `kubernetes`, `gitops`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (2 articles)
+
+#### 1. [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl)
+📅 Tue, 19 May 2026 21:32:45 GMT
+👤 By: GnomeMan4201 | 📌 Source: Dev.to
+
+![Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png)
+
+Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.
+
+🏷️ Tags: `security`, `github`, `python`, `opensource`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (25 articles)
+
+#### 1. [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41)
+📅 Thu, 21 May 2026 17:33:15 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png)
+
+We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...
+
+🏷️ Tags: `githubchallenge`, `devchallenge`, `githubcopilot`
+
+---
+
+#### 2. [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67)
+📅 Wed, 20 May 2026 00:00:00 GMT
+👤 By: Precise Simulation | 📌 Source: Dev.to
+
+![Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhql6qma76ftowsnusu0.png)
+
+The following post shows how to define and solve a two parameter thermal FEA design and optimization...
+
+🏷️ Tags: `fea`, `heattransfer`, `optimization`, `matlab`
+
+---
+
+#### 3. [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck)
+📅 Wed, 13 May 2026 19:13:14 GMT
+👤 By: Vinicius Brasil | 📌 Source: Dev.to
+
+![How AI is changing my job as a Staff Engineer: Tracer bullets](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg)
+
+AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...
+
+🏷️ Tags: `ai`, `productivity`, `programming`, `architecture`
+
+---
+
+#### 4. [Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl)
+📅 Tue, 19 May 2026 21:32:45 GMT
+👤 By: GnomeMan4201 | 📌 Source: Dev.to
+
+![Found a Coordinated GitHub Follow Botnet Hiding in My Followers?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png)
+
+Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.
+
+🏷️ Tags: `security`, `github`, `python`, `opensource`
+
+---
+
+#### 5. [I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5)
+📅 Mon, 11 May 2026 07:06:08 GMT
+👤 By: satyamsoni2211 | 📌 Source: Dev.to
+
+![I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png)
+
+Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools with a single curl command.
+
+🏷️ Tags: `terminal`, `macos`, `productivity`, `opensource`
+
+---
+
+#### 6. [Terminal Superpowers You Should Be Using in 2026](https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4)
+📅 Tue, 19 May 2026 15:00:00 GMT
+👤 By: Sean Boult | 📌 Source: Dev.to
+
+![Terminal Superpowers You Should Be Using in 2026](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png)
+
+I live in my terminal. Here's what I use to stay fast.   Fuzzy finder (fzf) Terminal motions Sudo...
+
+🏷️ Tags: `productivity`, `cli`, `zsh`
+
+---
+
+#### 7. [DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47)
+📅 Mon, 18 May 2026 11:21:44 GMT
+👤 By: Harsh  | 📌 Source: Dev.to
+
+![DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png)
+
+I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...
+
+🏷️ Tags: `ai`, `opensource`, `transparency`, `discuss`
+
+---
+
+#### 8. [lysofdev-ailog: A git log for Why Your AI Agent Did What It Did](https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea)
+📅 Tue, 19 May 2026 01:19:01 GMT
+👤 By: Esteban Hernández | 📌 Source: Dev.to
+
+![lysofdev-ailog: A git log for Why Your AI Agent Did What It Did](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg)
+
+Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.
+
+🏷️ Tags: `agents`, `ai`, `showdev`, `tooling`
+
+---
+
+#### 9. [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9)
+📅 Wed, 13 May 2026 18:32:33 GMT
+👤 By: S M Tahosin | 📌 Source: Dev.to
+
+![My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png)
+
+I recently opened my GitHub account and filtered by private repositories. I actually counted them:...
+
+🏷️ Tags: `webdev`, `beginners`, `productivity`, `discuss`
+
+---
+
+#### 10. [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+📅 Tue, 05 May 2026 05:21:20 GMT
+👤 By: Ivan Porta | 📌 Source: Dev.to
+
+![What Platform Teams Can Expect From Crossplane v2.2](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png)
+
+A developer submits a ticket to request a database. Three days later, the platform team responds, but...
+
+🏷️ Tags: `crossplane`, `kubernetes`, `gitops`
+
+---
+
