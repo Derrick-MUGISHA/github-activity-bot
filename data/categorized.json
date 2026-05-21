@@ -14,21 +14,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
-      "published_at": "2026-05-20T19:41:08Z",
-      "description": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
-      "tags": [
-        "ai",
-        "buildinpublic",
-        "google",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
-      "source": "Dev.to",
-      "user": "Michellebuchiokonicha"
-    },
-    {
       "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
       "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
       "published_at": "2026-05-20T12:26:19Z",
@@ -56,6 +41,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
+      "published_at": "2026-05-20T19:41:08Z",
+      "description": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
+      "tags": [
+        "ai",
+        "buildinpublic",
+        "google",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
+      "source": "Dev.to",
+      "user": "Michellebuchiokonicha"
     },
     {
       "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
@@ -263,21 +263,6 @@
       "user": "Enrique B."
     },
     {
-      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
-      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
-      "published_at": "2026-05-19T01:19:01Z",
-      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
-      "tags": [
-        "agents",
-        "ai",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
-      "source": "Dev.to",
-      "user": "Esteban Hernández"
-    },
-    {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "published_at": "2026-05-18T11:21:44Z",
@@ -291,6 +276,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
     },
     {
       "title": "Agent Development Kit for Google Apps Script",
@@ -410,21 +410,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
-      "url": "https://dev.to/mspk97/i-ran-ai-models-directly-in-the-browser-and-measured-what-it-did-to-core-web-vitals-4adj",
-      "published_at": "2026-05-17T07:37:49Z",
-      "description": "Everyone is shipping AI features. Sentiment analysis on user input, speech recognition without...",
-      "tags": [
-        "webdev",
-        "ai",
-        "webvitals",
-        "corewebvitals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frp8m5tkiq2bm465ukvrq.png",
-      "source": "Dev.to",
-      "user": "Srikar Phani Kumar Marti"
     },
     {
       "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
@@ -642,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 958,
       "user": "Doorman11991"
     },
     {
@@ -735,6 +720,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
+      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
+      "published_at": "2026-05-16T13:00:00Z",
+      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
+      "tags": [
+        "cycling",
+        "nextjs",
+        "googlecloud",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
+      "source": "Dev.to",
+      "user": "Akira Kikusato"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1233,
       "user": "FoundZiGu"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 958,
       "user": "Doorman11991"
     },
     {
@@ -898,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 574,
       "user": "stephenlthorn"
     },
     {
@@ -913,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 83,
       "user": "zhouyoukang1234-spec"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "energypantry"
     }
   ],
@@ -1095,23 +1095,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 809,
       "user": "Kappaemme-git"
-    },
-    {
-      "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "url": "https://github.com/sapientinc/HRM-Text",
-      "published_at": "2026-05-18T03:10:52Z",
-      "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
-      "source": "GitHub",
-      "stars": 590,
-      "user": "sapientinc"
     },
     {
       "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
@@ -1125,8 +1110,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 612,
       "user": "bytedance"
+    },
+    {
+      "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+      "url": "https://github.com/sapientinc/HRM-Text",
+      "published_at": "2026-05-18T03:10:52Z",
+      "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
+      "source": "GitHub",
+      "stars": 595,
+      "user": "sapientinc"
     },
     {
       "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
@@ -1140,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 551,
       "user": "Glazenovatag"
     },
     {
@@ -1155,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 388,
       "user": "evilsocket"
     }
   ],
@@ -1444,6 +1444,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
+      "url": "https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g",
+      "published_at": "2026-05-16T13:00:00Z",
+      "description": "I built a road-cycling analytics web app on Next.js and Cloud Run that pulls data from the Strava API to visualize CTL/ATL/TSB and plan weekly workouts — without paying for Strava's premium tier.",
+      "tags": [
+        "cycling",
+        "nextjs",
+        "googlecloud",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fkikuriyou%2Fzenn-content%2Fmain%2Fimages%2Farticles%2Fride-analysis-app%2Flanding_page.png",
+      "source": "Dev.to",
+      "user": "Akira Kikusato"
+    },
+    {
       "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
       "url": "https://github.com/internetkafe/cfsearch",
       "published_at": "2026-05-16T07:22:39Z",
@@ -1577,21 +1592,6 @@
       "user": "Sean Boult"
     },
     {
-      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
-      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
-      "published_at": "2026-05-19T01:19:01Z",
-      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
-      "tags": [
-        "agents",
-        "ai",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
-      "source": "Dev.to",
-      "user": "Esteban Hernández"
-    },
-    {
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "published_at": "2026-05-18T11:21:44Z",
@@ -1605,6 +1605,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
       "source": "Dev.to",
       "user": "Harsh "
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
     },
     {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
@@ -1662,7 +1677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1233,
       "user": "FoundZiGu"
     },
     {
@@ -1677,7 +1692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 958,
       "user": "Doorman11991"
     },
     {
@@ -1692,7 +1707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 574,
       "user": "stephenlthorn"
     },
     {
@@ -1707,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 83,
       "user": "zhouyoukang1234-spec"
     },
     {
@@ -1722,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "energypantry"
     },
     {
@@ -1737,23 +1752,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 809,
       "user": "Kappaemme-git"
-    },
-    {
-      "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "url": "https://github.com/sapientinc/HRM-Text",
-      "published_at": "2026-05-18T03:10:52Z",
-      "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
-      "source": "GitHub",
-      "stars": 590,
-      "user": "sapientinc"
     },
     {
       "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
@@ -1767,8 +1767,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 612,
       "user": "bytedance"
+    },
+    {
+      "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+      "url": "https://github.com/sapientinc/HRM-Text",
+      "published_at": "2026-05-18T03:10:52Z",
+      "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
+      "source": "GitHub",
+      "stars": 595,
+      "user": "sapientinc"
     },
     {
       "title": "Glazenovatag/hyperliquid-whale-order-tracking - A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
@@ -1782,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273875054?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 551,
       "user": "Glazenovatag"
     },
     {
@@ -1797,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 388,
       "user": "evilsocket"
     },
     {
@@ -1827,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 66,
       "user": "kamalyes"
     },
     {
@@ -1872,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 24,
+      "stars": 30,
       "user": "ninehills"
     }
   ]
