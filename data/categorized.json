@@ -1,6 +1,78 @@
 {
   "AI": [
     {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
+      "published_at": "2026-05-22T16:52:42Z",
+      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
+      "source": "Dev.to",
+      "user": "Tracy Gilmore"
+    },
+    {
+      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
+      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
+      "published_at": "2026-05-22T15:25:26Z",
+      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
+      "tags": [
+        "ai",
+        "llm",
+        "showdev",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
+      "source": "Dev.to",
+      "user": "Alex Obreja"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
+    },
+    {
       "title": "From Years to Hours",
       "url": "https://dev.to/annaspies/from-years-to-hours-joe",
       "published_at": "2026-05-21T01:37:32Z",
@@ -323,66 +395,6 @@
       "user": "Aryan Choudhary"
     },
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
-    },
-    {
-      "title": "Building a Rust A2A Agent",
-      "url": "https://dev.to/gde/building-a-rust-a2a-agent-4626",
-      "published_at": "2026-05-18T12:52:55Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "agents",
-        "a2aprotocol",
-        "crate",
-        "rustprogramminglangu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -538,7 +550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1194,
       "user": "Doorman11991"
     },
     {
@@ -553,7 +565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 270,
       "user": "edgenuitybot"
     },
     {
@@ -568,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 414,
       "user": "lynote-ai"
     },
     {
@@ -583,8 +595,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "DEEIX-AI"
+    },
+    {
+      "title": "perplexityai/bumblebee - Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
+      "url": "https://github.com/perplexityai/bumblebee",
+      "published_at": "2026-05-20T18:11:37Z",
+      "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "perplexityai"
     },
     {
       "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
@@ -600,24 +627,53 @@
       "source": "GitHub",
       "stars": 26,
       "user": "jiangmuran"
-    },
-    {
-      "title": "hloolx/HloolMail - Self-hosted temporary mail and custom-domain inbox platform",
-      "url": "https://github.com/hloolx/HloolMail",
-      "published_at": "2026-05-18T15:30:32Z",
-      "description": "Self-hosted temporary mail and custom-domain inbox platform",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/103986006?v=4",
-      "source": "GitHub",
-      "stars": 21,
-      "user": "hloolx"
     }
   ],
   "JavaScript": [
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
+    },
+    {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
+      "published_at": "2026-05-22T13:22:27Z",
+      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "tags": [
+        "playwright",
+        "testing",
+        "typescript",
+        "mockttp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
+      "source": "Dev.to",
+      "user": "Simon Knott"
+    },
+    {
+      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
+      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9",
+      "published_at": "2026-05-22T12:10:25Z",
+      "description": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
+      "tags": [
+        "websocket",
+        "multiplayer",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9slo04foqjpjqmfmlez.png",
+      "source": "Dev.to",
+      "user": "Daniel Kalevski"
+    },
     {
       "title": "Giving AI agents knowledge they were never trained on",
       "url": "https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7",
@@ -676,21 +732,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-      "published_at": "2026-05-13T07:07:13Z",
-      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "tags": [
-        "webdev",
-        "nextjs",
-        "sideprojects",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -824,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1722,
       "user": "FoundZiGu"
     },
     {
@@ -839,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1194,
       "user": "Doorman11991"
     },
     {
@@ -854,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 270,
       "user": "edgenuitybot"
     },
     {
@@ -869,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 187,
       "user": "run-liyi"
     },
     {
@@ -884,11 +925,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 146,
       "user": "Frank-Masciopinto"
     }
   ],
   "Python": [
+    {
+      "title": "Local MCP Development with Python and Antigravity CLI",
+      "url": "https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg",
+      "published_at": "2026-05-21T15:35:20Z",
+      "description": "This article re-visits and updates an existing deployment originally built with Gemini CLI and...",
+      "tags": [
+        "mcpserver",
+        "python",
+        "antigravitycli",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1azr6l4mgik0e6fhmgv.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "The OCR Rabbit Hole",
+      "url": "https://dev.to/awjudd/the-ocr-rabbit-hole-3h7",
+      "published_at": "2026-05-21T15:44:33Z",
+      "description": "Long weekend. I've got a pile of handwritten documents that need to become structured data. Should be a weekend project. OCR exists, it's been around forever, this is a solved problem. Right?",
+      "tags": [
+        "recipes",
+        "ocr",
+        "learning",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
+      "source": "Dev.to",
+      "user": "Andrew Judd"
+    },
     {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
@@ -903,21 +974,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
-    },
-    {
-      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
-      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
-      "published_at": "2026-05-11T17:43:38Z",
-      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "python",
-        "huggingface"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Raihan"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1051,7 +1107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "sapientinc"
     },
     {
@@ -1066,7 +1122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "LiuMengxuan04"
     },
     {
@@ -1081,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "evilsocket"
     },
     {
@@ -1096,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "WUBING2023"
     },
     {
@@ -1111,11 +1167,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 414,
       "user": "lynote-ai"
     }
   ],
   "DevOps": [
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
+    },
     {
       "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
       "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
@@ -1162,35 +1233,6 @@
       "user": "Sanket Sahu"
     },
     {
-      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
-      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
-      "published_at": "2026-05-05T08:01:34Z",
-      "description": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
-      "tags": [
-        "kubernetes",
-        "ocm",
-        "cncf",
-        "multicluster"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
-      "source": "Dev.to",
-      "user": "Kahiro Okina"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
       "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
       "url": "https://github.com/jiangmuran/claude-in-box",
       "published_at": "2026-05-21T07:18:03Z",
@@ -1235,20 +1277,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
       "source": "Dev.to",
       "user": "John Facey"
-    },
-    {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
-      "published_at": "2026-05-07T23:15:51Z",
-      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "tags": [
-        "css",
-        "api",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
-      "source": "Dev.to",
-      "user": "Jane Ori"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1311,6 +1339,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
       "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
@@ -1444,37 +1487,23 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
     {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
+      "published_at": "2026-05-22T15:12:33Z",
+      "description": "About storing application configs in code rather than database",
       "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
+        "configs",
+        "mindset",
+        "database",
+        "dx"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
       "source": "Dev.to",
-      "user": "Ivan Porta"
+      "user": "Bimochan Shrestha"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1532,6 +1561,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
+      "published_at": "2026-05-22T13:22:27Z",
+      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "tags": [
+        "playwright",
+        "testing",
+        "typescript",
+        "mockttp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
+      "source": "Dev.to",
+      "user": "Simon Knott"
+    },
+    {
+      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
+      "published_at": "2026-05-22T15:12:33Z",
+      "description": "About storing application configs in code rather than database",
+      "tags": [
+        "configs",
+        "mindset",
+        "database",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
+      "source": "Dev.to",
+      "user": "Bimochan Shrestha"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
     },
     {
       "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
@@ -1638,20 +1712,6 @@
       "user": "S M Tahosin"
     },
     {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1663,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1722,
       "user": "FoundZiGu"
     },
     {
@@ -1678,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1194,
       "user": "Doorman11991"
     },
     {
@@ -1693,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 270,
       "user": "edgenuitybot"
     },
     {
@@ -1708,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 187,
       "user": "run-liyi"
     },
     {
@@ -1723,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 146,
       "user": "Frank-Masciopinto"
     },
     {
@@ -1738,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "sapientinc"
     },
     {
@@ -1753,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "LiuMengxuan04"
     },
     {
@@ -1768,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "evilsocket"
     },
     {
@@ -1783,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "WUBING2023"
     },
     {
@@ -1798,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 414,
       "user": "lynote-ai"
     },
     {
@@ -1813,8 +1873,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "DEEIX-AI"
+    },
+    {
+      "title": "perplexityai/bumblebee - Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
+      "url": "https://github.com/perplexityai/bumblebee",
+      "published_at": "2026-05-20T18:11:37Z",
+      "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "perplexityai"
     },
     {
       "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
@@ -1843,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 43,
       "user": "ninehills"
     },
     {
@@ -1860,21 +1935,6 @@
       "source": "GitHub",
       "stars": 26,
       "user": "jiangmuran"
-    },
-    {
-      "title": "hloolx/HloolMail - Self-hosted temporary mail and custom-domain inbox platform",
-      "url": "https://github.com/hloolx/HloolMail",
-      "published_at": "2026-05-18T15:30:32Z",
-      "description": "Self-hosted temporary mail and custom-domain inbox platform",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/103986006?v=4",
-      "source": "GitHub",
-      "stars": 21,
-      "user": "hloolx"
     }
   ]
 }
