@@ -1,12 +1,12 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
+    "AI": 44,
     "JavaScript": 20,
     "Python": 17,
     "DevOps": 6,
@@ -36,7 +36,7 @@
     "2026-05-19": 11,
     "2026-05-11": 3,
     "2026-05-10": 1,
-    "2026-05-18": 9,
+    "2026-05-18": 8,
     "2026-05-08": 2,
     "2026-05-17": 3,
     "2026-05-06": 2,
@@ -73,19 +73,19 @@
     "2026-05-16": 1
   },
   "top_tags": {
-    "ai": 17,
+    "ai": 16,
     "github": 16,
     "open-source": 15,
-    "devchallenge": 11,
+    "devchallenge": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
     "agents": 8,
     "webdev": 8,
     "javascript": 8,
-    "gemmachallenge": 7,
-    "gemma": 7,
     "python": 7,
+    "gemmachallenge": 6,
+    "gemma": 6,
     "go": 6,
     "opensource": 5,
     "productivity": 4,
