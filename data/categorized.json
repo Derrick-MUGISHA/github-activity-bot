@@ -16,21 +16,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Building a Rust A2A Agent",
-      "url": "https://dev.to/gde/building-a-rust-a2a-agent-4626",
-      "published_at": "2026-05-18T12:52:55Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "agents",
-        "a2aprotocol",
-        "crate",
-        "rustprogramminglangu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "From Years to Hours",
       "url": "https://dev.to/annaspies/from-years-to-hours-joe",
       "published_at": "2026-05-21T01:37:32Z",
@@ -264,21 +249,6 @@
       "user": "Enrique B."
     },
     {
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "published_at": "2026-05-18T11:21:44Z",
-      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
-      "tags": [
-        "ai",
-        "opensource",
-        "transparency",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -381,6 +351,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
+      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
+      "published_at": "2026-05-11T17:43:38Z",
+      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "python",
+        "huggingface"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Raihan"
+    },
+    {
+      "title": "Building a Rust A2A Agent",
+      "url": "https://dev.to/gde/building-a-rust-a2a-agent-4626",
+      "published_at": "2026-05-18T12:52:55Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "agents",
+        "a2aprotocol",
+        "crate",
+        "rustprogramminglangu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Three Generations Built This Robot. Gemma 4 Taught Him to Listen.",
+      "url": "https://dev.to/zanne/meet-tobor-i-gave-our-40-year-old-family-robot-a-local-ai-brain-with-gemma-4-1d53",
+      "published_at": "2026-05-18T20:30:40Z",
+      "description": "A three-generation project. A performance robot. A mindfulness guru running entirely offline.  This...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8qufnd243asjlf13kx5b.png",
+      "source": "Dev.to",
+      "user": "Zanne"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -538,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1176,
       "user": "Doorman11991"
     },
     {
@@ -553,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 235,
       "user": "edgenuitybot"
     },
     {
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 368,
       "user": "lynote-ai"
     },
     {
@@ -583,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 103,
       "user": "DEEIX-AI"
     },
     {
@@ -600,6 +615,21 @@
       "source": "GitHub",
       "stars": 26,
       "user": "jiangmuran"
+    },
+    {
+      "title": "hloolx/HloolMail - Self-hosted temporary mail and custom-domain inbox platform",
+      "url": "https://github.com/hloolx/HloolMail",
+      "published_at": "2026-05-18T15:30:32Z",
+      "description": "Self-hosted temporary mail and custom-domain inbox platform",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/103986006?v=4",
+      "source": "GitHub",
+      "stars": 21,
+      "user": "hloolx"
     }
   ],
   "JavaScript": [
@@ -809,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1636,
+      "stars": 1657,
       "user": "FoundZiGu"
     },
     {
@@ -824,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1176,
       "user": "Doorman11991"
     },
     {
@@ -839,23 +869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 235,
       "user": "edgenuitybot"
-    },
-    {
-      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
-      "published_at": "2026-05-18T13:38:23Z",
-      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "DeFiCryptoBots"
     },
     {
       "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
@@ -869,8 +884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 156,
       "user": "run-liyi"
+    },
+    {
+      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "url": "https://github.com/Frank-Masciopinto/no-kings",
+      "published_at": "2026-05-21T14:11:45Z",
+      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "Frank-Masciopinto"
     }
   ],
   "Python": [
@@ -888,6 +918,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
+    },
+    {
+      "title": "Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text",
+      "url": "https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2",
+      "published_at": "2026-05-11T17:43:38Z",
+      "description": "How a 184M-parameter DeBERTa fine-tune matches Claude Haiku 4.5 and GPT-4o within 4 points of accuracy on healthcare intent classification at 22× lower latency and ~$0 per inference.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "python",
+        "huggingface"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fhuggingface.co%2Fraihan-js%2Fclarioscope-intent-deberta-v1%2Fresolve%2Fmain%2Faccuracy_vs_latency.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Raihan"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1021,23 +1066,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 643,
       "user": "sapientinc"
-    },
-    {
-      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
-      "url": "https://github.com/evilsocket/audit",
-      "published_at": "2026-05-18T20:42:44Z",
-      "description": "An 8-stage vulnerability-discovery agent.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
-      "source": "GitHub",
-      "stars": 424,
-      "user": "evilsocket"
     },
     {
       "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
@@ -1051,8 +1081,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 430,
       "user": "LiuMengxuan04"
+    },
+    {
+      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
+      "url": "https://github.com/evilsocket/audit",
+      "published_at": "2026-05-18T20:42:44Z",
+      "description": "An 8-stage vulnerability-discovery agent.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
+      "source": "GitHub",
+      "stars": 427,
+      "user": "evilsocket"
     },
     {
       "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
@@ -1066,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 409,
       "user": "WUBING2023"
     },
     {
@@ -1081,26 +1126,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 368,
       "user": "lynote-ai"
     }
   ],
   "DevOps": [
-    {
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
-      "published_at": "2026-05-20T11:44:59Z",
-      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
-      "tags": [
-        "opensource",
-        "kubernetes",
-        "devops",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png",
-      "source": "Dev.to",
-      "user": "Dener Fernandes"
-    },
     {
       "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
       "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
@@ -1115,6 +1145,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
       "source": "Dev.to",
       "user": "Yechiel Kalmenson"
+    },
+    {
+      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
+      "published_at": "2026-05-20T11:44:59Z",
+      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
+      "tags": [
+        "opensource",
+        "kubernetes",
+        "devops",
+        "infrastructure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png",
+      "source": "Dev.to",
+      "user": "Dener Fernandes"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -1174,21 +1219,6 @@
       "source": "GitHub",
       "stars": 26,
       "user": "jiangmuran"
-    },
-    {
-      "title": "kuberik/kuberik - Kubernetes-native continuous delivery. Safe, hands-off deployments.",
-      "url": "https://github.com/kuberik/kuberik",
-      "published_at": "2026-05-17T12:52:06Z",
-      "description": "Kubernetes-native continuous delivery. Safe, hands-off deployments.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52839881?v=4",
-      "source": "GitHub",
-      "stars": 21,
-      "user": "kuberik"
     }
   ],
   "WebDev": [
@@ -1593,21 +1623,6 @@
       "user": "Sean Boult"
     },
     {
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "published_at": "2026-05-18T11:21:44Z",
-      "description": "I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...",
-      "tags": [
-        "ai",
-        "opensource",
-        "transparency",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif1jog3awx1yii1c0p90.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -1663,7 +1678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1636,
+      "stars": 1657,
       "user": "FoundZiGu"
     },
     {
@@ -1678,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1176,
       "user": "Doorman11991"
     },
     {
@@ -1693,23 +1708,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 235,
       "user": "edgenuitybot"
-    },
-    {
-      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
-      "published_at": "2026-05-18T13:38:23Z",
-      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "DeFiCryptoBots"
     },
     {
       "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
@@ -1723,8 +1723,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 156,
       "user": "run-liyi"
+    },
+    {
+      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "url": "https://github.com/Frank-Masciopinto/no-kings",
+      "published_at": "2026-05-21T14:11:45Z",
+      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "Frank-Masciopinto"
     },
     {
       "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
@@ -1738,23 +1753,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 643,
       "user": "sapientinc"
-    },
-    {
-      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
-      "url": "https://github.com/evilsocket/audit",
-      "published_at": "2026-05-18T20:42:44Z",
-      "description": "An 8-stage vulnerability-discovery agent.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
-      "source": "GitHub",
-      "stars": 424,
-      "user": "evilsocket"
     },
     {
       "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
@@ -1768,8 +1768,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 430,
       "user": "LiuMengxuan04"
+    },
+    {
+      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
+      "url": "https://github.com/evilsocket/audit",
+      "published_at": "2026-05-18T20:42:44Z",
+      "description": "An 8-stage vulnerability-discovery agent.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
+      "source": "GitHub",
+      "stars": 427,
+      "user": "evilsocket"
     },
     {
       "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
@@ -1783,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 409,
       "user": "WUBING2023"
     },
     {
@@ -1798,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 368,
       "user": "lynote-ai"
     },
     {
@@ -1813,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 103,
       "user": "DEEIX-AI"
     },
     {
@@ -1828,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 61,
       "user": "kamalyes"
     },
     {
@@ -1862,19 +1877,19 @@
       "user": "jiangmuran"
     },
     {
-      "title": "kuberik/kuberik - Kubernetes-native continuous delivery. Safe, hands-off deployments.",
-      "url": "https://github.com/kuberik/kuberik",
-      "published_at": "2026-05-17T12:52:06Z",
-      "description": "Kubernetes-native continuous delivery. Safe, hands-off deployments.",
+      "title": "hloolx/HloolMail - Self-hosted temporary mail and custom-domain inbox platform",
+      "url": "https://github.com/hloolx/HloolMail",
+      "published_at": "2026-05-18T15:30:32Z",
+      "description": "Self-hosted temporary mail and custom-domain inbox platform",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52839881?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/103986006?v=4",
       "source": "GitHub",
       "stars": 21,
-      "user": "kuberik"
+      "user": "hloolx"
     }
   ]
 }
