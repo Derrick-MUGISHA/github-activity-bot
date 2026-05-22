@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "From Years to Hours",
-      "url": "https://dev.to/annaspies/from-years-to-hours-joe",
-      "published_at": "2026-05-21T01:37:32Z",
-      "description": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
-      "tags": [
-        "ai",
-        "stripe",
-        "cli",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png",
-      "source": "Dev.to",
-      "user": "Anna"
-    },
-    {
       "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
       "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
       "published_at": "2026-05-21T15:49:59Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fanz32cdjsonp4292fnfy.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Years to Hours",
+      "url": "https://dev.to/annaspies/from-years-to-hours-joe",
+      "published_at": "2026-05-21T01:37:32Z",
+      "description": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
+      "tags": [
+        "ai",
+        "stripe",
+        "cli",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png",
+      "source": "Dev.to",
+      "user": "Anna"
     },
     {
       "title": "Google I/O 2026: From Consumer to Builder",
@@ -553,8 +553,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1137,
       "user": "Doorman11991"
+    },
+    {
+      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "url": "https://github.com/edgenuitybot/exodusbot",
+      "published_at": "2026-05-19T00:45:04Z",
+      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
+      "source": "GitHub",
+      "stars": 126,
+      "user": "edgenuitybot"
     },
     {
       "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 320,
       "user": "lynote-ai"
     },
     {
@@ -583,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 94,
       "user": "DEEIX-AI"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1520,
+      "stars": 1595,
       "user": "FoundZiGu"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1137,
       "user": "Doorman11991"
     },
     {
@@ -843,34 +858,34 @@
       "user": "DeFiCryptoBots"
     },
     {
-      "title": "zhouyoukang1234-spec/windsurf-assistant - A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-      "url": "https://github.com/zhouyoukang1234-spec/windsurf-assistant",
-      "published_at": "2026-05-17T15:43:18Z",
-      "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "url": "https://github.com/edgenuitybot/exodusbot",
+      "published_at": "2026-05-19T00:45:04Z",
+      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 91,
-      "user": "zhouyoukang1234-spec"
+      "stars": 126,
+      "user": "edgenuitybot"
     },
     {
-      "title": "energypantry/agent-browser-runtime - GitHub Repository",
-      "url": "https://github.com/energypantry/agent-browser-runtime",
-      "published_at": "2026-05-17T06:43:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "url": "https://github.com/run-liyi/wechatpay",
+      "published_at": "2026-05-21T06:40:00Z",
+      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "energypantry"
+      "stars": 112,
+      "user": "run-liyi"
     }
   ],
   "Python": [
@@ -1021,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 638,
       "user": "sapientinc"
     },
     {
@@ -1036,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 421,
       "user": "evilsocket"
     },
     {
@@ -1051,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 418,
       "user": "LiuMengxuan04"
     },
     {
@@ -1066,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 365,
       "user": "WUBING2023"
     },
     {
@@ -1081,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 320,
       "user": "lynote-ai"
     }
   ],
@@ -1663,7 +1678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1520,
+      "stars": 1595,
       "user": "FoundZiGu"
     },
     {
@@ -1678,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1137,
       "user": "Doorman11991"
     },
     {
@@ -1697,34 +1712,34 @@
       "user": "DeFiCryptoBots"
     },
     {
-      "title": "zhouyoukang1234-spec/windsurf-assistant - A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
-      "url": "https://github.com/zhouyoukang1234-spec/windsurf-assistant",
-      "published_at": "2026-05-17T15:43:18Z",
-      "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损.",
+      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "url": "https://github.com/edgenuitybot/exodusbot",
+      "published_at": "2026-05-19T00:45:04Z",
+      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 91,
-      "user": "zhouyoukang1234-spec"
+      "stars": 126,
+      "user": "edgenuitybot"
     },
     {
-      "title": "energypantry/agent-browser-runtime - GitHub Repository",
-      "url": "https://github.com/energypantry/agent-browser-runtime",
-      "published_at": "2026-05-17T06:43:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "url": "https://github.com/run-liyi/wechatpay",
+      "published_at": "2026-05-21T06:40:00Z",
+      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "energypantry"
+      "stars": 112,
+      "user": "run-liyi"
     },
     {
       "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
@@ -1738,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 638,
       "user": "sapientinc"
     },
     {
@@ -1753,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 421,
       "user": "evilsocket"
     },
     {
@@ -1768,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 418,
       "user": "LiuMengxuan04"
     },
     {
@@ -1783,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 365,
       "user": "WUBING2023"
     },
     {
@@ -1798,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 320,
       "user": "lynote-ai"
     },
     {
@@ -1813,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 94,
       "user": "DEEIX-AI"
     },
     {
