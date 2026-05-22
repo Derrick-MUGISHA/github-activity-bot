@@ -103,21 +103,6 @@
       "user": "chuanman2707"
     },
     {
-      "title": "Genkit Middleware: Intercept, Extend and Harden your Gen AI Pipelines",
-      "url": "https://dev.to/gde/genkit-middleware-intercept-extend-and-harden-your-gen-ai-pipelines-4k03",
-      "published_at": "2026-05-14T11:12:17Z",
-      "description": "Introduction   If you have been building anything non-trivial with Genkit, you have probably...",
-      "tags": [
-        "ai",
-        "genkit",
-        "vertexai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk30ggf87qzdt1bim0prs.png",
-      "source": "Dev.to",
-      "user": "Xavier Portilla Edo"
-    },
-    {
       "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
       "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
       "published_at": "2026-05-20T12:26:19Z",
@@ -553,7 +538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1157,
       "user": "Doorman11991"
     },
     {
@@ -568,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 213,
       "user": "edgenuitybot"
     },
     {
@@ -583,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 338,
       "user": "lynote-ai"
     },
     {
@@ -598,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "DEEIX-AI"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1595,
+      "stars": 1636,
       "user": "FoundZiGu"
     },
     {
@@ -839,23 +824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1157,
       "user": "Doorman11991"
-    },
-    {
-      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
-      "published_at": "2026-05-18T13:38:23Z",
-      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "DeFiCryptoBots"
     },
     {
       "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
@@ -869,8 +839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 213,
       "user": "edgenuitybot"
+    },
+    {
+      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
+      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+      "published_at": "2026-05-18T13:38:23Z",
+      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "DeFiCryptoBots"
     },
     {
       "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
@@ -884,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 137,
       "user": "run-liyi"
     }
   ],
@@ -1036,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "sapientinc"
     },
     {
@@ -1051,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 424,
       "user": "evilsocket"
     },
     {
@@ -1066,7 +1051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "LiuMengxuan04"
     },
     {
@@ -1081,7 +1066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 396,
       "user": "WUBING2023"
     },
     {
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 338,
       "user": "lynote-ai"
     }
   ],
@@ -1189,6 +1174,21 @@
       "source": "GitHub",
       "stars": 26,
       "user": "jiangmuran"
+    },
+    {
+      "title": "kuberik/kuberik - Kubernetes-native continuous delivery. Safe, hands-off deployments.",
+      "url": "https://github.com/kuberik/kuberik",
+      "published_at": "2026-05-17T12:52:06Z",
+      "description": "Kubernetes-native continuous delivery. Safe, hands-off deployments.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52839881?v=4",
+      "source": "GitHub",
+      "stars": 21,
+      "user": "kuberik"
     }
   ],
   "WebDev": [
@@ -1444,21 +1444,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "url": "https://github.com/internetkafe/cfsearch",
-      "published_at": "2026-05-16T07:22:39Z",
-      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
-      "source": "GitHub",
-      "stars": 24,
-      "user": "internetkafe"
     }
   ],
   "Database": [
@@ -1678,7 +1663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1595,
+      "stars": 1636,
       "user": "FoundZiGu"
     },
     {
@@ -1693,23 +1678,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1157,
       "user": "Doorman11991"
-    },
-    {
-      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
-      "published_at": "2026-05-18T13:38:23Z",
-      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
-      "source": "GitHub",
-      "stars": 146,
-      "user": "DeFiCryptoBots"
     },
     {
       "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
@@ -1723,8 +1693,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 213,
       "user": "edgenuitybot"
+    },
+    {
+      "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
+      "url": "https://github.com/DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free",
+      "published_at": "2026-05-18T13:38:23Z",
+      "description": "Our Free Solana Sniper for Pumpfun with multiple strategies",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "DeFiCryptoBots"
     },
     {
       "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
@@ -1738,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 137,
       "user": "run-liyi"
     },
     {
@@ -1753,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "sapientinc"
     },
     {
@@ -1768,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 424,
       "user": "evilsocket"
     },
     {
@@ -1783,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 421,
       "user": "LiuMengxuan04"
     },
     {
@@ -1798,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 396,
       "user": "WUBING2023"
     },
     {
@@ -1813,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 338,
       "user": "lynote-ai"
     },
     {
@@ -1828,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "DEEIX-AI"
     },
     {
@@ -1858,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "ninehills"
     },
     {
@@ -1877,19 +1862,19 @@
       "user": "jiangmuran"
     },
     {
-      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
-      "url": "https://github.com/internetkafe/cfsearch",
-      "published_at": "2026-05-16T07:22:39Z",
-      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "title": "kuberik/kuberik - Kubernetes-native continuous delivery. Safe, hands-off deployments.",
+      "url": "https://github.com/kuberik/kuberik",
+      "published_at": "2026-05-17T12:52:06Z",
+      "description": "Kubernetes-native continuous delivery. Safe, hands-off deployments.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52839881?v=4",
       "source": "GitHub",
-      "stars": 24,
-      "user": "internetkafe"
+      "stars": 21,
+      "user": "kuberik"
     }
   ]
 }
