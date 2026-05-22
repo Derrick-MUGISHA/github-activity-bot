@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-21-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-22-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.4%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 16 (15.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦 9 (8.7%)
+**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 24.4 (24.4%)
-JavaScript      █████████████████████████████ 23.3 (23.3%)
-Java            ██████████████████████████ 20.9 (20.9%)
-Python          ███████████████████████ 18.6 (18.6%)
-Rust            █████████ 7.0 (7.0%)
-PHP             ███ 2.3 (2.3%)
-Kotlin          ███ 2.3 (2.3%)
-Swift           █ 1.2 (1.2%)
+Go              ██████████████████████████████ 23.5 (23.5%)
+JavaScript      ██████████████████████████████ 23.5 (23.5%)
+Java            ███████████████████████████ 21.2 (21.2%)
+Python          ████████████████████████ 18.8 (18.8%)
+Rust            █████████ 7.1 (7.1%)
+PHP             ███ 2.4 (2.4%)
+Kotlin          ███ 2.4 (2.4%)
+Swift           ██ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 21
+    "Go" : 20
     "JavaScript" : 20
     "Java" : 18
     "Python" : 16
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemma](https://img.shields.io/badge/gemma-7-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-22 1:00 CAT)
+## 📅 Latest Updates (2026-05-22 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices](https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5) _[Dev.to]_
 
-_Last automated update: Fri, 22 May 2026 01:40:32 CAT_
+_Last automated update: Fri, 22 May 2026 03:35:00 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 22 May 2026 01:40:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: How would you optimize a React app's performance?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 2. NodeJS: Explain middleware in Express.js
+### 2. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: express, architecture
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Request/response cycle, next(), chain of functions
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Call stack, callback queue, microtask queue
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 21 May 2026 23:40:32 GMT</b><br/>
+  <b>Last automated update: Fri, 22 May 2026 01:35:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
