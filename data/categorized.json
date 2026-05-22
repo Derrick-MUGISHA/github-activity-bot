@@ -383,6 +383,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -538,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1110,
       "user": "Doorman11991"
     },
     {
@@ -553,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 299,
       "user": "lynote-ai"
     },
     {
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 86,
       "user": "DEEIX-AI"
     },
     {
@@ -583,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 25,
+      "stars": 26,
       "user": "jiangmuran"
     }
   ],
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1443,
+      "stars": 1520,
       "user": "FoundZiGu"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1110,
       "user": "Doorman11991"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 146,
       "user": "DeFiCryptoBots"
     },
     {
@@ -839,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 91,
       "user": "zhouyoukang1234-spec"
     },
     {
@@ -854,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 88,
       "user": "energypantry"
     }
   ],
@@ -1006,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 634,
       "user": "sapientinc"
     },
     {
@@ -1021,7 +1036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 413,
       "user": "evilsocket"
     },
     {
@@ -1036,8 +1051,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 409,
       "user": "LiuMengxuan04"
+    },
+    {
+      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "url": "https://github.com/WUBING2023/PaperSpine",
+      "published_at": "2026-05-17T08:37:31Z",
+      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "WUBING2023"
     },
     {
       "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
@@ -1051,23 +1081,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 299,
       "user": "lynote-ai"
-    },
-    {
-      "title": "Klotzkette/claude-fuer-deutsches-recht - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
-      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
-      "published_at": "2026-05-18T16:43:56Z",
-      "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39582916?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "Klotzkette"
     }
   ],
   "DevOps": [
@@ -1157,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 25,
+      "stars": 26,
       "user": "jiangmuran"
     }
   ],
@@ -1401,6 +1416,21 @@
       "user": "xbill"
     },
     {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
       "url": "https://github.com/internetkafe/cfsearch",
       "published_at": "2026-05-16T07:22:39Z",
@@ -1633,7 +1663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1443,
+      "stars": 1520,
       "user": "FoundZiGu"
     },
     {
@@ -1648,7 +1678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1110,
       "user": "Doorman11991"
     },
     {
@@ -1663,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 146,
       "user": "DeFiCryptoBots"
     },
     {
@@ -1678,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240407432?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 91,
       "user": "zhouyoukang1234-spec"
     },
     {
@@ -1693,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 88,
       "user": "energypantry"
     },
     {
@@ -1708,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 634,
       "user": "sapientinc"
     },
     {
@@ -1723,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 413,
       "user": "evilsocket"
     },
     {
@@ -1738,8 +1768,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 409,
       "user": "LiuMengxuan04"
+    },
+    {
+      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "url": "https://github.com/WUBING2023/PaperSpine",
+      "published_at": "2026-05-17T08:37:31Z",
+      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "WUBING2023"
     },
     {
       "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
@@ -1753,38 +1798,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 299,
       "user": "lynote-ai"
-    },
-    {
-      "title": "Klotzkette/claude-fuer-deutsches-recht - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
-      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
-      "published_at": "2026-05-18T16:43:56Z",
-      "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39582916?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "Klotzkette"
-    },
-    {
-      "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
-      "url": "https://github.com/kamalyes/go-argus",
-      "published_at": "2026-05-16T00:18:31Z",
-      "description": "零依赖 · 高性能 Go 结构体校验器",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
-      "source": "GitHub",
-      "stars": 68,
-      "user": "kamalyes"
     },
     {
       "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
@@ -1798,8 +1813,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 86,
       "user": "DEEIX-AI"
+    },
+    {
+      "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
+      "url": "https://github.com/kamalyes/go-argus",
+      "published_at": "2026-05-16T00:18:31Z",
+      "description": "零依赖 · 高性能 Go 结构体校验器",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "kamalyes"
     },
     {
       "title": "ninehills/pdf2md - PDF to Markdown OCR tools",
@@ -1813,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 41,
       "user": "ninehills"
     },
     {
@@ -1828,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 25,
+      "stars": 26,
       "user": "jiangmuran"
     },
     {
