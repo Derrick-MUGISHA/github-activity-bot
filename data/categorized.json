@@ -46,6 +46,21 @@
       "user": "Sacha Greif"
     },
     {
+      "title": "AI Agent Failure Modes Beyond Hallucination",
+      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
+      "published_at": "2026-05-22T14:59:09Z",
+      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
+    },
+    {
       "title": "The subtle impact of AI (& IT) on jobs",
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
       "published_at": "2026-05-22T16:52:42Z",
@@ -217,6 +232,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
       "source": "Dev.to",
       "user": "Jonas Gauffin"
+    },
+    {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
+      "published_at": "2026-05-14T17:16:10Z",
+      "description": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "tags": [
+        "gemmachallenge",
+        "gemma",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -551,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1211,
       "user": "Doorman11991"
     },
     {
@@ -581,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 437,
       "user": "lynote-ai"
     },
     {
@@ -596,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 271,
       "user": "perplexityai"
     },
     {
@@ -718,21 +747,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
-    },
-    {
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
-      "published_at": "2026-05-19T10:29:28Z",
-      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -866,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1739,
+      "stars": 1745,
       "user": "FoundZiGu"
     },
     {
@@ -881,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1211,
       "user": "Doorman11991"
     },
     {
@@ -911,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "run-liyi"
     },
     {
@@ -1112,6 +1126,21 @@
       "user": "sapientinc"
     },
     {
+      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "url": "https://github.com/lynote-ai/humanize-text",
+      "published_at": "2026-05-18T10:12:15Z",
+      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
+      "source": "GitHub",
+      "stars": 437,
+      "user": "lynote-ai"
+    },
+    {
       "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
       "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
       "published_at": "2026-05-17T11:25:47Z",
@@ -1127,21 +1156,6 @@
       "user": "LiuMengxuan04"
     },
     {
-      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "url": "https://github.com/lynote-ai/humanize-text",
-      "published_at": "2026-05-18T10:12:15Z",
-      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "lynote-ai"
-    },
-    {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
       "url": "https://github.com/evilsocket/audit",
       "published_at": "2026-05-18T20:42:44Z",
@@ -1153,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "evilsocket"
     },
     {
@@ -1473,21 +1487,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Azure ACI",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
-      "published_at": "2026-05-15T13:02:34Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "mcpserver",
-        "gemini",
-        "iac",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -1739,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1739,
+      "stars": 1745,
       "user": "FoundZiGu"
     },
     {
@@ -1754,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1211,
       "user": "Doorman11991"
     },
     {
@@ -1784,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "run-liyi"
     },
     {
@@ -1818,6 +1817,21 @@
       "user": "sapientinc"
     },
     {
+      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "url": "https://github.com/lynote-ai/humanize-text",
+      "published_at": "2026-05-18T10:12:15Z",
+      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
+      "source": "GitHub",
+      "stars": 437,
+      "user": "lynote-ai"
+    },
+    {
       "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
       "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
       "published_at": "2026-05-17T11:25:47Z",
@@ -1833,21 +1847,6 @@
       "user": "LiuMengxuan04"
     },
     {
-      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "url": "https://github.com/lynote-ai/humanize-text",
-      "published_at": "2026-05-18T10:12:15Z",
-      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "lynote-ai"
-    },
-    {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
       "url": "https://github.com/evilsocket/audit",
       "published_at": "2026-05-18T20:42:44Z",
@@ -1859,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "evilsocket"
     },
     {
@@ -1889,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 271,
       "user": "perplexityai"
     },
     {
