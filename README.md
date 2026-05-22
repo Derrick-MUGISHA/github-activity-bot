@@ -28,15 +28,15 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
 
 **DevOps**: 🟦🟦🟦 6 (5.7%)
 
@@ -60,34 +60,34 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 23.5 (23.5%)
-JavaScript      ██████████████████████████████ 23.5 (23.5%)
-Java            ███████████████████████████ 21.2 (21.2%)
-Python          ████████████████████████ 18.8 (18.8%)
+Go              ██████████████████████████████ 24.7 (24.7%)
+JavaScript      █████████████████████████████ 23.5 (23.5%)
+Java            ██████████████████████████ 21.2 (21.2%)
+Python          ███████████████████████ 18.8 (18.8%)
 Rust            █████████ 7.1 (7.1%)
-PHP             ███ 2.4 (2.4%)
 Kotlin          ███ 2.4 (2.4%)
-Swift           ██ 1.2 (1.2%)
+Swift           █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 20
+    "Go" : 21
     "JavaScript" : 20
     "Java" : 18
     "Python" : 16
     "Rust" : 6
-    "PHP" : 2
     "Kotlin" : 2
     "Swift" : 1
+    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![opensource](https://img.shields.io/badge/opensource-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-22 3:00 CAT)
+## 📅 Latest Updates (2026-05-22 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -207,7 +207,6 @@ npm run test
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
 - [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
-- [Getting Started with Antigravity CLI](https://dev.to/gde/getting-started-with-antigravity-cli-183g) _[Dev.to]_
 - [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Building a Local-First Hotel Receptionist with Gemma 4, GGUF, and llama.cpp](https://dev.to/chuanman2707/building-a-local-first-hotel-receptionist-with-gemma-4-gguf-and-llamacpp-51a4) _[Dev.to]_
@@ -217,8 +216,9 @@ npm run test
 - [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices](https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5) _[Dev.to]_
+- [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 
-_Last automated update: Fri, 22 May 2026 03:35:00 CAT_
+_Last automated update: Fri, 22 May 2026 07:49:25 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Fri, 22 May 2026 03:35:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Heap, stack, garbage collection
 
 </details>
 
-### 2. SystemDesign: Design Twitter's timeline feature
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. JavaScript: What is the event loop and how does it work?
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: async, runtime
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Call stack, callback queue, microtask queue
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 22 May 2026 01:35:00 GMT</b><br/>
+  <b>Last automated update: Fri, 22 May 2026 05:49:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
