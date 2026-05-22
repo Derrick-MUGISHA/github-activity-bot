@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 20 (19.0%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-22 7:00 CAT)
+## 📅 Latest Updates (2026-05-22 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,39 +144,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/annaspies/from-years-to-hours-joe">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png" width="200" alt="From Years to Hours" />
-      <br/>
-      <b>From Years to Hours</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png" width="200" alt="Accessibility - This looks like a job for a developer advocate!" />
       <br/>
       <b>Accessibility - This looks like a job for a develo...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/mlh/inside-100daysofsolana-a-guided-path-into-web3-5hk0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzfyhjqn83xdg3nfce2jy.png" width="200" alt="Inside #100DaysofSolana: A Guided Path into Web3" />
-      <br/>
-      <b>Inside #100DaysofSolana: A Guided Path into Web3</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fka1irjtrmebdfmx699pi.png" width="200" alt="The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0" />
-      <br/>
-      <b>The $1000 Operating System: Rearchitecting the Dev...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -191,6 +162,35 @@ npm run test
     <sub>Dev.to</sub>
   </td>
 </tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb1mivpyt9lot9ug6pkg.png" width="200" alt="Building a Production Company Website on AWS — Project Overview" />
+      <br/>
+      <b>Building a Production Company Website on AWS — Pro...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhql6qma76ftowsnusu0.png" width="200" alt="Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics" />
+      <br/>
+      <b>Dual Parameter Thermal FEA Design Optimization wit...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fka1irjtrmebdfmx699pi.png" width="200" alt="The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0" />
+      <br/>
+      <b>The $1000 Operating System: Rearchitecting the Dev...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
 </table>
 
 
@@ -198,14 +198,14 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
-- [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe) _[Dev.to]_
 - [Accessibility - This looks like a job for a developer advocate!](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) _[Dev.to]_
-- [Inside #100DaysofSolana: A Guided Path into Web3](https://dev.to/mlh/inside-100daysofsolana-a-guided-path-into-web3-5hk0) _[Dev.to]_
-- [The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0](https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14) _[Dev.to]_
 - [From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn) _[Dev.to]_
 - [Building a Production Company Website on AWS — Project Overview](https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm) _[Dev.to]_
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
+- [The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0](https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14) _[Dev.to]_
+- [Inside #100DaysofSolana: A Guided Path into Web3](https://dev.to/mlh/inside-100daysofsolana-a-guided-path-into-web3-5hk0) _[Dev.to]_
 - [Building a Rust A2A Agent](https://dev.to/gde/building-a-rust-a2a-agent-4626) _[Dev.to]_
+- [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 - [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Your Story: Local Gemma 4 Interactive Fiction That Remembers Your Choices](https://dev.to/1412601/your-story-local-gemma-4-interactive-fiction-that-remembers-your-choices-43d5) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 
-_Last automated update: Fri, 22 May 2026 07:49:25 CAT_
+_Last automated update: Fri, 22 May 2026 10:55:54 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Fri, 22 May 2026 07:49:25 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -248,14 +248,14 @@ Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 22 May 2026 05:49:25 GMT</b><br/>
+  <b>Last automated update: Fri, 22 May 2026 08:55:54 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
