@@ -250,21 +250,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "Gemini 3.5 Flash Developer Guide",
-      "url": "https://dev.to/googleai/gemini-35-flash-developer-guide-1i46",
-      "published_at": "2026-05-19T17:55:34Z",
-      "description": "Gemini 3.5 Flash is generally available (GA), stable, and ready for scaled production use. As our...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xvesbdat735rxwhwvaw.png",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀",
       "url": "https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk",
       "published_at": "2026-05-19T23:37:00Z",
@@ -339,21 +324,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
-      "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a",
-      "published_at": "2026-05-18T01:21:13Z",
-      "description": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the...",
-      "tags": [
-        "gemma",
-        "handson",
-        "lmstudio",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcz8fok20yeklqrjhp8jx.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
       "published_at": "2026-05-08T06:39:25Z",
@@ -396,6 +366,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -553,8 +538,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1082,
       "user": "Doorman11991"
+    },
+    {
+      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "url": "https://github.com/lynote-ai/humanize-text",
+      "published_at": "2026-05-18T10:12:15Z",
+      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "lynote-ai"
     },
     {
       "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
@@ -568,23 +568,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 60,
       "user": "DEEIX-AI"
     },
     {
-      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
-      "url": "https://github.com/732124645/PromptOps",
-      "published_at": "2026-05-15T15:02:15Z",
-      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
+      "url": "https://github.com/jiangmuran/claude-in-box",
+      "published_at": "2026-05-21T07:18:03Z",
+      "description": "Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 31,
-      "user": "732124645"
+      "stars": 25,
+      "user": "jiangmuran"
     }
   ],
   "JavaScript": [
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1443,
       "user": "FoundZiGu"
     },
     {
@@ -809,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1082,
       "user": "Doorman11991"
-    },
-    {
-      "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
-      "published_at": "2026-05-15T12:40:18Z",
-      "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
-      "source": "GitHub",
-      "stars": 578,
-      "user": "stephenlthorn"
     },
     {
       "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "DeFiCryptoBots"
     },
     {
@@ -856,6 +841,21 @@
       "source": "GitHub",
       "stars": 88,
       "user": "zhouyoukang1234-spec"
+    },
+    {
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "energypantry"
     }
   ],
   "Python": [
@@ -995,36 +995,6 @@
       "user": "arathore"
     },
     {
-      "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
-      "published_at": "2026-05-15T13:33:28Z",
-      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
-      "source": "GitHub",
-      "stars": 819,
-      "user": "Kappaemme-git"
-    },
-    {
-      "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
-      "url": "https://github.com/bytedance/Lance",
-      "published_at": "2026-05-15T05:42:08Z",
-      "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
-      "source": "GitHub",
-      "stars": 656,
-      "user": "bytedance"
-    },
-    {
       "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
       "url": "https://github.com/sapientinc/HRM-Text",
       "published_at": "2026-05-18T03:10:52Z",
@@ -1036,7 +1006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "sapientinc"
     },
     {
@@ -1051,7 +1021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "evilsocket"
     },
     {
@@ -1066,8 +1036,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 397,
       "user": "LiuMengxuan04"
+    },
+    {
+      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "url": "https://github.com/lynote-ai/humanize-text",
+      "published_at": "2026-05-18T10:12:15Z",
+      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "lynote-ai"
+    },
+    {
+      "title": "Klotzkette/claude-fuer-deutsches-recht - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+      "published_at": "2026-05-18T16:43:56Z",
+      "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39582916?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "Klotzkette"
     }
   ],
   "DevOps": [
@@ -1144,6 +1144,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
+      "url": "https://github.com/jiangmuran/claude-in-box",
+      "published_at": "2026-05-21T07:18:03Z",
+      "description": "Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
+      "source": "GitHub",
+      "stars": 25,
+      "user": "jiangmuran"
     }
   ],
   "WebDev": [
@@ -1384,6 +1399,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "url": "https://github.com/internetkafe/cfsearch",
+      "published_at": "2026-05-16T07:22:39Z",
+      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "source": "GitHub",
+      "stars": 24,
+      "user": "internetkafe"
     }
   ],
   "Database": [
@@ -1603,7 +1633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1443,
       "user": "FoundZiGu"
     },
     {
@@ -1618,23 +1648,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1082,
       "user": "Doorman11991"
-    },
-    {
-      "title": "stephenlthorn/auto-identity-remove - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
-      "published_at": "2026-05-15T12:40:18Z",
-      "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49094234?v=4",
-      "source": "GitHub",
-      "stars": 578,
-      "user": "stephenlthorn"
     },
     {
       "title": "DeFiCryptoBots/CryptoBots-Solana-Sniper-PumpFun-Free - Our Free Solana Sniper for Pumpfun with multiple strategies",
@@ -1648,7 +1663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285696684?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "DeFiCryptoBots"
     },
     {
@@ -1667,34 +1682,19 @@
       "user": "zhouyoukang1234-spec"
     },
     {
-      "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization reports",
-      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
-      "published_at": "2026-05-15T13:33:28Z",
-      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+      "title": "energypantry/agent-browser-runtime - GitHub Repository",
+      "url": "https://github.com/energypantry/agent-browser-runtime",
+      "published_at": "2026-05-17T06:43:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203409268?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34472578?v=4",
       "source": "GitHub",
-      "stars": 819,
-      "user": "Kappaemme-git"
-    },
-    {
-      "title": "bytedance/Lance - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
-      "url": "https://github.com/bytedance/Lance",
-      "published_at": "2026-05-15T05:42:08Z",
-      "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4158466?v=4",
-      "source": "GitHub",
-      "stars": 656,
-      "user": "bytedance"
+      "stars": 86,
+      "user": "energypantry"
     },
     {
       "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
@@ -1708,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 631,
       "user": "sapientinc"
     },
     {
@@ -1723,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "evilsocket"
     },
     {
@@ -1738,23 +1738,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 397,
       "user": "LiuMengxuan04"
     },
     {
-      "title": "vadimsemenykv/saboteur - GitHub Repository",
-      "url": "https://github.com/vadimsemenykv/saboteur",
-      "published_at": "2026-05-15T18:07:46Z",
-      "description": "Trending GitHub Repository",
+      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+      "url": "https://github.com/lynote-ai/humanize-text",
+      "published_at": "2026-05-18T10:12:15Z",
+      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8122660?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 157,
-      "user": "vadimsemenykv"
+      "stars": 289,
+      "user": "lynote-ai"
+    },
+    {
+      "title": "Klotzkette/claude-fuer-deutsches-recht - ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+      "published_at": "2026-05-18T16:43:56Z",
+      "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39582916?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "Klotzkette"
     },
     {
       "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
@@ -1783,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 60,
       "user": "DEEIX-AI"
     },
     {
@@ -1798,23 +1813,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 37,
+      "stars": 38,
       "user": "ninehills"
     },
     {
-      "title": "732124645/PromptOps - Open-source runtime platform for AI prompts, agents, and workflows.",
-      "url": "https://github.com/732124645/PromptOps",
-      "published_at": "2026-05-15T15:02:15Z",
-      "description": "Open-source runtime platform for AI prompts, agents, and workflows.",
+      "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
+      "url": "https://github.com/jiangmuran/claude-in-box",
+      "published_at": "2026-05-21T07:18:03Z",
+      "description": "Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52958359?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 31,
-      "user": "732124645"
+      "stars": 25,
+      "user": "jiangmuran"
+    },
+    {
+      "title": "internetkafe/cfsearch - cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "url": "https://github.com/internetkafe/cfsearch",
+      "published_at": "2026-05-16T07:22:39Z",
+      "description": "cfsearch — быстрое и лёгкое средство на Go для поиска реального IP-адреса сайта, скрытого за CDN (например, Cloudflare). Инструмент отправляет HTTP/HTTPS-запросы на указанные IP-адреса с подставленным заголовком Host и проверяет, содержится ли домен в теле ответа (при статусе 200).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282813976?v=4",
+      "source": "GitHub",
+      "stars": 24,
+      "user": "internetkafe"
     }
   ]
 }
