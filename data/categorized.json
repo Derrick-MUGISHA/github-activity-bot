@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
       "published_at": "2026-05-22T16:27:19Z",
@@ -29,6 +14,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
+      "published_at": "2026-05-22T18:24:09Z",
+      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
+      "source": "Dev.to",
+      "user": "Regnard Raquedan"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
     },
     {
       "title": "The subtle impact of AI (& IT) on jobs",
@@ -202,20 +217,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftnt2by91u6yud227fz4o.png",
       "source": "Dev.to",
       "user": "Jonas Gauffin"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
-      "published_at": "2026-05-14T17:16:10Z",
-      "description": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "tags": [
-        "gemmachallenge",
-        "gemma",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -550,7 +551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1201,
       "user": "Doorman11991"
     },
     {
@@ -565,7 +566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 274,
       "user": "edgenuitybot"
     },
     {
@@ -580,23 +581,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "lynote-ai"
-    },
-    {
-      "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-      "published_at": "2026-05-21T08:57:01Z",
-      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
-      "source": "GitHub",
-      "stars": 108,
-      "user": "DEEIX-AI"
     },
     {
       "title": "perplexityai/bumblebee - Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
@@ -610,8 +596,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 182,
       "user": "perplexityai"
+    },
+    {
+      "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+      "published_at": "2026-05-21T08:57:01Z",
+      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "DEEIX-AI"
     },
     {
       "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
@@ -865,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1735,
       "user": "FoundZiGu"
     },
     {
@@ -880,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1201,
       "user": "Doorman11991"
     },
     {
@@ -895,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 274,
       "user": "edgenuitybot"
     },
     {
@@ -910,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 194,
       "user": "run-liyi"
     },
     {
@@ -925,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 145,
       "user": "Frank-Masciopinto"
     }
   ],
@@ -1107,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "sapientinc"
     },
     {
@@ -1137,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "evilsocket"
     },
     {
@@ -1152,7 +1153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 427,
       "user": "WUBING2023"
     },
     {
@@ -1167,7 +1168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "lynote-ai"
     }
   ],
@@ -1563,6 +1564,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
+      "published_at": "2026-05-22T18:24:09Z",
+      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
+      "source": "Dev.to",
+      "user": "Regnard Raquedan"
+    },
+    {
       "title": "Mocking Server Side HTTP in Playwright with mockttp",
       "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
       "published_at": "2026-05-22T13:22:27Z",
@@ -1723,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1722,
+      "stars": 1735,
       "user": "FoundZiGu"
     },
     {
@@ -1738,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1201,
       "user": "Doorman11991"
     },
     {
@@ -1753,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 274,
       "user": "edgenuitybot"
     },
     {
@@ -1768,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 194,
       "user": "run-liyi"
     },
     {
@@ -1783,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 145,
       "user": "Frank-Masciopinto"
     },
     {
@@ -1798,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "sapientinc"
     },
     {
@@ -1828,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "evilsocket"
     },
     {
@@ -1843,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 427,
       "user": "WUBING2023"
     },
     {
@@ -1858,23 +1874,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 426,
       "user": "lynote-ai"
-    },
-    {
-      "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-      "published_at": "2026-05-21T08:57:01Z",
-      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
-      "source": "GitHub",
-      "stars": 108,
-      "user": "DEEIX-AI"
     },
     {
       "title": "perplexityai/bumblebee - Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
@@ -1888,8 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 182,
       "user": "perplexityai"
+    },
+    {
+      "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+      "published_at": "2026-05-21T08:57:01Z",
+      "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "DEEIX-AI"
     },
     {
       "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
