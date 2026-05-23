@@ -536,7 +536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1286,
       "user": "Doorman11991"
     },
     {
@@ -566,7 +566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "lynote-ai"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 919,
       "user": "perplexityai"
     },
     {
@@ -600,19 +600,19 @@
       "user": "DEEIX-AI"
     },
     {
-      "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
-      "url": "https://github.com/jiangmuran/claude-in-box",
-      "published_at": "2026-05-21T07:18:03Z",
-      "description": "Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
+      "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "url": "https://github.com/neochaotic/leoflow",
+      "published_at": "2026-05-22T03:51:23Z",
+      "description": "GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 27,
-      "user": "jiangmuran"
+      "stars": 28,
+      "user": "neochaotic"
     }
   ],
   "JavaScript": [
@@ -703,21 +703,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
-    },
-    {
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "url": "https://dev.to/shubhradev/i-built-a-free-debugger-because-nextjs-16-use-cache-was-completely-invisible-during-development-4a8",
-      "published_at": "2026-05-19T10:29:28Z",
-      "description": "I spent an afternoon debugging a component that kept re-fetching on every single request.  It had...",
-      "tags": [
-        "nextjs",
-        "webdev",
-        "javascript",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bnd65517g78hbu5jj52.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2039,
       "user": "FoundZiGu"
     },
     {
@@ -866,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1286,
       "user": "Doorman11991"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 320,
       "user": "open-gsd"
     },
     {
@@ -911,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "run-liyi"
     }
   ],
@@ -1093,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "sapientinc"
     },
     {
@@ -1108,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "lynote-ai"
     },
     {
@@ -1123,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 514,
       "user": "WUBING2023"
     },
     {
@@ -1153,7 +1138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "evilsocket"
     }
   ],
@@ -1232,39 +1217,9 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
       "source": "Dev.to",
       "user": "Kahiro Okina"
-    },
-    {
-      "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
-      "url": "https://github.com/jiangmuran/claude-in-box",
-      "published_at": "2026-05-21T07:18:03Z",
-      "description": "Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
-      "source": "GitHub",
-      "stars": 27,
-      "user": "jiangmuran"
     }
   ],
   "WebDev": [
-    {
-      "title": "Accessibility - This looks like a job for a developer advocate!",
-      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12",
-      "published_at": "2026-05-21T12:56:55Z",
-      "description": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
-      "tags": [
-        "a11y",
-        "devrel",
-        "codenewbie",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png",
-      "source": "Dev.to",
-      "user": "Andy Haskell"
-    },
     {
       "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
       "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
@@ -1739,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2039,
       "user": "FoundZiGu"
     },
     {
@@ -1754,7 +1709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1286,
       "user": "Doorman11991"
     },
     {
@@ -1769,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 320,
       "user": "open-gsd"
     },
     {
@@ -1799,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "run-liyi"
     },
     {
@@ -1814,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 672,
       "user": "sapientinc"
     },
     {
@@ -1829,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "lynote-ai"
     },
     {
@@ -1844,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 514,
       "user": "WUBING2023"
     },
     {
@@ -1874,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "evilsocket"
     },
     {
@@ -1889,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 919,
       "user": "perplexityai"
     },
     {
@@ -1934,23 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/82623017?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 37,
       "user": "aaron-kidwell"
     },
     {
-      "title": "jiangmuran/claude-in-box - Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
-      "url": "https://github.com/jiangmuran/claude-in-box",
-      "published_at": "2026-05-21T07:18:03Z",
-      "description": "Portable Claude Code dev environment in a Docker container — multi-session, hook-driven, web-managed, with transparent SOCKS5. Runs on a Raspberry Pi.",
+      "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "url": "https://github.com/neochaotic/leoflow",
+      "published_at": "2026-05-22T03:51:23Z",
+      "description": "GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 27,
-      "user": "jiangmuran"
+      "stars": 28,
+      "user": "neochaotic"
     }
   ]
 }
