@@ -46,21 +46,6 @@
       "user": "Sacha Greif"
     },
     {
-      "title": "AI Agent Failure Modes Beyond Hallucination",
-      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
-      "published_at": "2026-05-22T14:59:09Z",
-      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "The subtle impact of AI (& IT) on jobs",
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
       "published_at": "2026-05-22T16:52:42Z",
@@ -86,6 +71,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
       "source": "Dev.to",
       "user": "Alex Obreja"
+    },
+    {
+      "title": "AI Agent Failure Modes Beyond Hallucination",
+      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
+      "published_at": "2026-05-22T14:59:09Z",
+      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "From Years to Hours",
@@ -188,20 +188,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faothqiyg4rjotxj5q8an.png",
       "source": "Dev.to",
       "user": "chuanman2707"
-    },
-    {
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
-      "published_at": "2026-05-20T12:26:19Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
-      "tags": [
-        "devchallenge",
-        "gemma",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
-      "source": "Dev.to",
-      "user": "Santhoshkumar. P"
     },
     {
       "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
@@ -396,6 +382,20 @@
       "user": "Sanket Sahu"
     },
     {
+      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
+      "published_at": "2026-05-20T12:26:19Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "tags": [
+        "devchallenge",
+        "gemma",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
+      "source": "Dev.to",
+      "user": "Santhoshkumar. P"
+    },
+    {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
       "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
       "published_at": "2026-05-06T22:44:16Z",
@@ -580,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "Doorman11991"
     },
     {
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 476,
       "user": "lynote-ai"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 421,
       "user": "perplexityai"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "DEEIX-AI"
     },
     {
@@ -895,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1825,
       "user": "FoundZiGu"
     },
     {
@@ -910,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "Doorman11991"
     },
     {
@@ -940,23 +940,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 213,
       "user": "run-liyi"
     },
     {
-      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
-      "url": "https://github.com/Frank-Masciopinto/no-kings",
-      "published_at": "2026-05-21T14:11:45Z",
-      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
+      "url": "https://github.com/open-gsd/get-shit-done-redux",
+      "published_at": "2026-05-22T11:36:21Z",
+      "description": "Getting Shit Done, the Aftermath",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "Frank-Masciopinto"
+      "stars": 167,
+      "user": "open-gsd"
     }
   ],
   "Python": [
@@ -1137,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "sapientinc"
     },
     {
@@ -1152,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 476,
       "user": "lynote-ai"
     },
     {
@@ -1167,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 457,
       "user": "WUBING2023"
     },
     {
@@ -1182,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 446,
       "user": "LiuMengxuan04"
     },
     {
@@ -1197,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "evilsocket"
     }
   ],
@@ -1502,6 +1502,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Azure ACI",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
+      "published_at": "2026-05-15T13:02:34Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "mcpserver",
+        "gemini",
+        "iac",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1753,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1825,
       "user": "FoundZiGu"
     },
     {
@@ -1768,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "Doorman11991"
     },
     {
@@ -1798,23 +1813,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 213,
       "user": "run-liyi"
     },
     {
-      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
-      "url": "https://github.com/Frank-Masciopinto/no-kings",
-      "published_at": "2026-05-21T14:11:45Z",
-      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
+      "url": "https://github.com/open-gsd/get-shit-done-redux",
+      "published_at": "2026-05-22T11:36:21Z",
+      "description": "Getting Shit Done, the Aftermath",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "Frank-Masciopinto"
+      "stars": 167,
+      "user": "open-gsd"
     },
     {
       "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
@@ -1828,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "sapientinc"
     },
     {
@@ -1843,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 476,
       "user": "lynote-ai"
     },
     {
@@ -1858,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 457,
       "user": "WUBING2023"
     },
     {
@@ -1873,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 446,
       "user": "LiuMengxuan04"
     },
     {
@@ -1888,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "evilsocket"
     },
     {
@@ -1903,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 421,
       "user": "perplexityai"
     },
     {
@@ -1918,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "DEEIX-AI"
     },
     {
