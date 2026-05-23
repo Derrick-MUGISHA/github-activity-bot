@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-23 21:00 CAT)
+## 📅 Latest Updates (2026-05-23 22:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 
-_Last automated update: Sat, 23 May 2026 21:51:54 CAT_
+_Last automated update: Sat, 23 May 2026 22:44:28 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 23 May 2026 21:51:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Mutability, performance, use cases
 
 </details>
 
-### 2. Database: What is database normalization and denormalization?
+### 2. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 3. SystemDesign: Design a distributed cache system
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 23 May 2026 19:51:54 GMT</b><br/>
+  <b>Last automated update: Sat, 23 May 2026 20:44:28 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
