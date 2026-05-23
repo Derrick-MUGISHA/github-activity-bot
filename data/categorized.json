@@ -31,33 +31,6 @@
       "user": "Regnard Raquedan"
     },
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
-      "published_at": "2026-05-22T16:52:42Z",
-      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
-      "source": "Dev.to",
-      "user": "Tracy Gilmore"
-    },
-    {
       "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
       "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
       "published_at": "2026-05-22T15:25:26Z",
@@ -86,6 +59,33 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
       "source": "Dev.to",
       "user": "Maxim Saplin"
+    },
+    {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
+      "published_at": "2026-05-22T16:52:42Z",
+      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
+      "source": "Dev.to",
+      "user": "Tracy Gilmore"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
     },
     {
       "title": "From Years to Hours",
@@ -580,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1252,
       "user": "Doorman11991"
     },
     {
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 497,
       "user": "lynote-ai"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 535,
       "user": "perplexityai"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "DEEIX-AI"
     },
     {
@@ -661,21 +661,6 @@
   ],
   "JavaScript": [
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
       "title": "Mocking Server Side HTTP in Playwright with mockttp",
       "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
       "published_at": "2026-05-22T13:22:27Z",
@@ -689,6 +674,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
       "source": "Dev.to",
       "user": "Simon Knott"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
     },
     {
       "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
@@ -880,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1879,
+      "stars": 1913,
       "user": "FoundZiGu"
     },
     {
@@ -895,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1252,
       "user": "Doorman11991"
     },
     {
@@ -925,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 223,
       "user": "run-liyi"
     },
     {
@@ -940,7 +940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 206,
       "user": "open-gsd"
     }
   ],
@@ -1137,7 +1137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 497,
       "user": "lynote-ai"
     },
     {
@@ -1152,7 +1152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 478,
       "user": "WUBING2023"
     },
     {
@@ -1167,7 +1167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 454,
       "user": "LiuMengxuan04"
     },
     {
@@ -1182,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "evilsocket"
     }
   ],
@@ -1753,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1879,
+      "stars": 1913,
       "user": "FoundZiGu"
     },
     {
@@ -1768,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1252,
       "user": "Doorman11991"
     },
     {
@@ -1798,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 223,
       "user": "run-liyi"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 206,
       "user": "open-gsd"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 497,
       "user": "lynote-ai"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 478,
       "user": "WUBING2023"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 454,
       "user": "LiuMengxuan04"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 439,
       "user": "evilsocket"
     },
     {
@@ -1903,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 535,
       "user": "perplexityai"
     },
     {
@@ -1918,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "DEEIX-AI"
     },
     {
@@ -1963,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/82623017?v=4",
       "source": "GitHub",
-      "stars": 23,
+      "stars": 24,
       "user": "aaron-kidwell"
     }
   ]
