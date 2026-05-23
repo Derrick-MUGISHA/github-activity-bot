@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -36,9 +36,9 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦 3 (2.9%)
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemma](https://img.shields.io/badge/gemma-7-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-23 18:00 CAT)
+## 📅 Latest Updates (2026-05-23 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Accessibility - This looks like a job for a developer advocate!](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 
-_Last automated update: Sat, 23 May 2026 18:39:44 CAT_
+_Last automated update: Sat, 23 May 2026 19:43:00 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 23 May 2026 18:39:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 2. Database: What is the difference between SQL and NoSQL databases?
+### 2. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 23 May 2026 16:39:44 GMT</b><br/>
+  <b>Last automated update: Sat, 23 May 2026 17:43:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
