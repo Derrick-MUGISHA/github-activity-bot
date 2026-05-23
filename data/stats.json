@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 104,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -29,7 +29,7 @@
   },
   "by_date": {
     "2026-05-22": 13,
-    "2026-05-21": 13,
+    "2026-05-21": 12,
     "2026-05-20": 11,
     "2026-05-15": 5,
     "2026-05-14": 4,
@@ -81,9 +81,9 @@
     "agents": 8,
     "javascript": 8,
     "python": 8,
-    "webdev": 7,
     "gemmachallenge": 7,
     "gemma": 7,
+    "webdev": 6,
     "go": 6,
     "productivity": 5,
     "opensource": 5,
