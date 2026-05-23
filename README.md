@@ -127,22 +127,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-23 16:00 CAT)
+## 📅 Latest Updates (2026-05-23 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-2ohc">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F340ok4tk65fhynhkxksk.jpg" width="200" alt="What was your win this week!?" />
-      <br/>
-      <b>What was your win this week!?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png" width="200" alt="Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!" />
@@ -157,6 +148,15 @@ npm run test
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png" width="200" alt="How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV" />
       <br/>
       <b>How we're using Gemini Embeddings to build a smart...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-2ohc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F340ok4tk65fhynhkxksk.jpg" width="200" alt="What was your win this week!?" />
+      <br/>
+      <b>What was your win this week!?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,14 +197,14 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
 - [How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f) _[Dev.to]_
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
 - [Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide](https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5) _[Dev.to]_
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
 - [AI Agent Failure Modes Beyond Hallucination](https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g) _[Dev.to]_
-- [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
 - [The subtle impact of AI (& IT) on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55) _[Dev.to]_
+- [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
 - [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
 - [Validating Gemma 4 for Industrial IoT: A Governance Pattern](https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k) _[Dev.to]_
 - [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Accessibility - This looks like a job for a developer advocate!](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 
-_Last automated update: Sat, 23 May 2026 16:15:05 CAT_
+_Last automated update: Sat, 23 May 2026 18:39:44 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 23 May 2026 16:15:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Find the longest substring without repeating characters
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Java: What are Java Streams and how do they work?
+### 3. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 23 May 2026 14:15:05 GMT</b><br/>
+  <b>Last automated update: Sat, 23 May 2026 16:39:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
