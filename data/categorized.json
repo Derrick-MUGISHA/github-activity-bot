@@ -46,21 +46,6 @@
       "user": "Alex Obreja"
     },
     {
-      "title": "AI Agent Failure Modes Beyond Hallucination",
-      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
-      "published_at": "2026-05-22T14:59:09Z",
-      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "The subtle impact of AI (& IT) on jobs",
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
       "published_at": "2026-05-22T16:52:42Z",
@@ -129,6 +114,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc52tys36onc0skhr5o4.jpeg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AI Agent Failure Modes Beyond Hallucination",
+      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
+      "published_at": "2026-05-22T14:59:09Z",
+      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "Some Notes on OMO Orchestrator Claude Alternatives",
@@ -536,7 +536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1280,
+      "stars": 1283,
       "user": "Doorman11991"
     },
     {
@@ -566,7 +566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 534,
       "user": "lynote-ai"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 824,
       "user": "perplexityai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2026,
+      "stars": 2033,
       "user": "FoundZiGu"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1280,
+      "stars": 1283,
       "user": "Doorman11991"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "open-gsd"
     },
     {
@@ -911,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 246,
       "user": "run-liyi"
     }
   ],
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 671,
       "user": "sapientinc"
     },
     {
@@ -1108,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 534,
       "user": "lynote-ai"
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2026,
+      "stars": 2033,
       "user": "FoundZiGu"
     },
     {
@@ -1754,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1280,
+      "stars": 1283,
       "user": "Doorman11991"
     },
     {
@@ -1769,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 312,
       "user": "open-gsd"
     },
     {
@@ -1799,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 246,
       "user": "run-liyi"
     },
     {
@@ -1814,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 671,
       "user": "sapientinc"
     },
     {
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 534,
       "user": "lynote-ai"
     },
     {
@@ -1889,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 824,
       "user": "perplexityai"
     },
     {
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/82623017?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 34,
       "user": "aaron-kidwell"
     },
     {
