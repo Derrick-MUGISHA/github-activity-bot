@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-23 19:00 CAT)
+## 📅 Latest Updates (2026-05-23 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png" width="200" alt="AI Agent Failure Modes Beyond Hallucination" />
+    <a href="https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png" width="200" alt="The subtle impact of AI (& IT) on jobs" />
       <br/>
-      <b>AI Agent Failure Modes Beyond Hallucination</b>
+      <b>The subtle impact of AI (& IT) on jobs</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,7 +202,6 @@ npm run test
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
 - [Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide](https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5) _[Dev.to]_
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
-- [AI Agent Failure Modes Beyond Hallucination](https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g) _[Dev.to]_
 - [The subtle impact of AI (& IT) on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55) _[Dev.to]_
 - [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
 - [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
@@ -216,9 +215,10 @@ npm run test
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 - [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) _[Dev.to]_
 - [Accessibility - This looks like a job for a developer advocate!](https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12) _[Dev.to]_
+- [AI Agent Failure Modes Beyond Hallucination](https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 
-_Last automated update: Sat, 23 May 2026 19:43:00 CAT_
+_Last automated update: Sat, 23 May 2026 20:43:45 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 23 May 2026 19:43:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Python: What is the difference between list and tuple in Python?
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Easy | **Topics**: data structures, mutability
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Mutability, performance, use cases
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 23 May 2026 17:43:00 GMT</b><br/>
+  <b>Last automated update: Sat, 23 May 2026 18:43:45 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
