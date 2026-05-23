@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-23 7:00 CAT)
+## 📅 Latest Updates (2026-05-23 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -206,9 +206,9 @@ npm run test
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
 - [AI Agent Failure Modes Beyond Hallucination](https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g) _[Dev.to]_
 - [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
-- [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph) _[Dev.to]_
 - [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9) _[Dev.to]_
 - [Validating Gemma 4 for Industrial IoT: A Governance Pattern](https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k) _[Dev.to]_
+- [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph) _[Dev.to]_
 - [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe) _[Dev.to]_
 - [Hosting a Docker runner for processing GitLab CI/CD pipelines](https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk) _[Dev.to]_
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Local MCP Development with Python and Antigravity CLI](https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 
-_Last automated update: Sat, 23 May 2026 07:55:06 CAT_
+_Last automated update: Sat, 23 May 2026 10:12:37 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sat, 23 May 2026 07:55:06 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Execution timing, event loop phases
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. React: How would you optimize a React app's performance?
+### 3. Java: Explain the Java memory model
 
-**Difficulty**: Hard | **Topics**: optimization, performance
+**Difficulty**: Hard | **Topics**: memory, JVM
 
 <details>
 <summary>💡 Hint</summary>
 
-React.memo, useMemo, useCallback, code splitting, lazy loading
+Heap, stack, garbage collection
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 23 May 2026 05:55:06 GMT</b><br/>
+  <b>Last automated update: Sat, 23 May 2026 08:12:37 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
