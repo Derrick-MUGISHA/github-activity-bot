@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-22-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-23-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-23 1:00 CAT)
+## 📅 Latest Updates (2026-05-23 4:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,15 +210,15 @@ npm run test
 - [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph) _[Dev.to]_
 - [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9) _[Dev.to]_
 - [GizmoGuard - Spy Bot (Powered by Gemma4)](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200) _[Dev.to]_
-- [Hosting a Docker runner for processing GitLab CI/CD pipelines](https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk) _[Dev.to]_
 - [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe) _[Dev.to]_
+- [Hosting a Docker runner for processing GitLab CI/CD pipelines](https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk) _[Dev.to]_
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
 - [The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0](https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14) _[Dev.to]_
 - [Inside #100DaysofSolana: A Guided Path into Web3](https://dev.to/mlh/inside-100daysofsolana-a-guided-path-into-web3-5hk0) _[Dev.to]_
 - [From Code to Cloud: 3 Labs for Deploying Your AI Agent](https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn) _[Dev.to]_
 - [Local MCP Development with Python and Antigravity CLI](https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg) _[Dev.to]_
 
-_Last automated update: Sat, 23 May 2026 01:46:30 CAT_
+_Last automated update: Sat, 23 May 2026 04:41:02 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Sat, 23 May 2026 01:46:30 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -248,14 +248,14 @@ B-tree, trade-offs, query performance
 
 </details>
 
-### 3. NodeJS: Implement rate limiting for an API
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 22 May 2026 23:46:30 GMT</b><br/>
+  <b>Last automated update: Sat, 23 May 2026 02:41:02 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -88,21 +88,6 @@
       "user": "Alex Obreja"
     },
     {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
-    },
-    {
       "title": "From Years to Hours",
       "url": "https://dev.to/annaspies/from-years-to-hours-joe",
       "published_at": "2026-05-21T01:37:32Z",
@@ -116,6 +101,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png",
       "source": "Dev.to",
       "user": "Anna"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
     },
     {
       "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
@@ -580,7 +580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1232,
       "user": "Doorman11991"
     },
     {
@@ -610,7 +610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 458,
       "user": "lynote-ai"
     },
     {
@@ -625,7 +625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 356,
       "user": "perplexityai"
     },
     {
@@ -640,7 +640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "DEEIX-AI"
     },
     {
@@ -655,8 +655,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 26,
+      "stars": 27,
       "user": "jiangmuran"
+    },
+    {
+      "title": "hloolx/HloolMail - Self-hosted temporary mail and custom-domain inbox platform",
+      "url": "https://github.com/hloolx/HloolMail",
+      "published_at": "2026-05-18T15:30:32Z",
+      "description": "Self-hosted temporary mail and custom-domain inbox platform",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/103986006?v=4",
+      "source": "GitHub",
+      "stars": 21,
+      "user": "hloolx"
     }
   ],
   "JavaScript": [
@@ -880,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1750,
+      "stars": 1784,
       "user": "FoundZiGu"
     },
     {
@@ -895,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1232,
       "user": "Doorman11991"
     },
     {
@@ -925,7 +940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "run-liyi"
     },
     {
@@ -1137,8 +1152,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 458,
       "user": "lynote-ai"
+    },
+    {
+      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "url": "https://github.com/WUBING2023/PaperSpine",
+      "published_at": "2026-05-17T08:37:31Z",
+      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
+      "source": "GitHub",
+      "stars": 438,
+      "user": "WUBING2023"
     },
     {
       "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
@@ -1152,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "LiuMengxuan04"
     },
     {
@@ -1167,23 +1197,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "evilsocket"
-    },
-    {
-      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "url": "https://github.com/WUBING2023/PaperSpine",
-      "published_at": "2026-05-17T08:37:31Z",
-      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
-      "source": "GitHub",
-      "stars": 429,
-      "user": "WUBING2023"
     }
   ],
   "DevOps": [
@@ -1259,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 26,
+      "stars": 27,
       "user": "jiangmuran"
     }
   ],
@@ -1738,7 +1753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 1750,
+      "stars": 1784,
       "user": "FoundZiGu"
     },
     {
@@ -1753,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1232,
       "user": "Doorman11991"
     },
     {
@@ -1783,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "run-liyi"
     },
     {
@@ -1828,8 +1843,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 458,
       "user": "lynote-ai"
+    },
+    {
+      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "url": "https://github.com/WUBING2023/PaperSpine",
+      "published_at": "2026-05-17T08:37:31Z",
+      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
+      "source": "GitHub",
+      "stars": 438,
+      "user": "WUBING2023"
     },
     {
       "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
@@ -1843,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "LiuMengxuan04"
     },
     {
@@ -1858,23 +1888,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "evilsocket"
-    },
-    {
-      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "url": "https://github.com/WUBING2023/PaperSpine",
-      "published_at": "2026-05-17T08:37:31Z",
-      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
-      "source": "GitHub",
-      "stars": 429,
-      "user": "WUBING2023"
     },
     {
       "title": "perplexityai/bumblebee - Read-only tool for inventorying packages, extensions, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks.",
@@ -1888,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 356,
       "user": "perplexityai"
     },
     {
@@ -1903,23 +1918,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "DEEIX-AI"
-    },
-    {
-      "title": "kamalyes/go-argus - 零依赖 · 高性能 Go 结构体校验器",
-      "url": "https://github.com/kamalyes/go-argus",
-      "published_at": "2026-05-16T00:18:31Z",
-      "description": "零依赖 · 高性能 Go 结构体校验器",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40486003?v=4",
-      "source": "GitHub",
-      "stars": 61,
-      "user": "kamalyes"
     },
     {
       "title": "ninehills/pdf2md - PDF to Markdown OCR tools",
@@ -1948,8 +1948,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72869031?v=4",
       "source": "GitHub",
-      "stars": 26,
+      "stars": 27,
       "user": "jiangmuran"
+    },
+    {
+      "title": "hloolx/HloolMail - Self-hosted temporary mail and custom-domain inbox platform",
+      "url": "https://github.com/hloolx/HloolMail",
+      "published_at": "2026-05-18T15:30:32Z",
+      "description": "Self-hosted temporary mail and custom-domain inbox platform",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/103986006?v=4",
+      "source": "GitHub",
+      "stars": 21,
+      "user": "hloolx"
     }
   ]
 }
