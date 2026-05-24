@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-24 22:00 CAT)
+## 📅 Latest Updates (2026-05-24 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 
-_Last automated update: Sun, 24 May 2026 22:35:17 CAT_
+_Last automated update: Sun, 24 May 2026 23:38:44 CAT_
 
 
 
@@ -226,14 +226,14 @@ _Last automated update: Sun, 24 May 2026 22:35:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What are Java Streams and how do they work?
+### 1. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -248,14 +248,14 @@ Ownership, mutability, data flow direction
 
 </details>
 
-### 3. Database: What is the difference between SQL and NoSQL databases?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 24 May 2026 20:35:17 GMT</b><br/>
+  <b>Last automated update: Sun, 24 May 2026 21:38:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
