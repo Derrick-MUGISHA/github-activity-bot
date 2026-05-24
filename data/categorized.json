@@ -58,21 +58,6 @@
       "user": "Tracy Gilmore"
     },
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
       "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
       "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
       "published_at": "2026-05-22T09:29:03Z",
@@ -158,6 +143,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
       "source": "Dev.to",
       "user": "Yechiel Kalmenson"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -536,7 +536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1346,
       "user": "Doorman11991"
     },
     {
@@ -566,7 +566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 582,
       "user": "lynote-ai"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 405,
       "user": "0xSero"
     },
     {
@@ -596,7 +596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1605,
       "user": "perplexityai"
     },
     {
@@ -611,7 +611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "DEEIX-AI"
     }
   ],
@@ -632,6 +632,20 @@
       "user": "Simon Knott"
     },
     {
+      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
+      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9",
+      "published_at": "2026-05-22T12:10:25Z",
+      "description": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
+      "tags": [
+        "websocket",
+        "multiplayer",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9slo04foqjpjqmfmlez.png",
+      "source": "Dev.to",
+      "user": "Daniel Kalevski"
+    },
+    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -645,20 +659,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
       "user": "Sacha Greif"
-    },
-    {
-      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
-      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9",
-      "published_at": "2026-05-22T12:10:25Z",
-      "description": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
-      "tags": [
-        "websocket",
-        "multiplayer",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9slo04foqjpjqmfmlez.png",
-      "source": "Dev.to",
-      "user": "Daniel Kalevski"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2116,
+      "stars": 2158,
       "user": "FoundZiGu"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1346,
       "user": "Doorman11991"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 410,
       "user": "open-gsd"
     },
     {
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 307,
       "user": "run-liyi"
     },
     {
@@ -1048,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 692,
       "user": "sapientinc"
     },
     {
@@ -1063,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 582,
       "user": "lynote-ai"
     },
     {
@@ -1078,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "evilsocket"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 439,
       "user": "paradigmxyz"
     },
     {
@@ -1108,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 405,
       "user": "0xSero"
     }
   ],
@@ -1561,21 +1561,6 @@
       "user": "Simon Knott"
     },
     {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
-      "published_at": "2026-05-22T15:12:33Z",
-      "description": "About storing application configs in code rather than database",
-      "tags": [
-        "configs",
-        "mindset",
-        "database",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
-      "source": "Dev.to",
-      "user": "Bimochan Shrestha"
-    },
-    {
       "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
       "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
       "published_at": "2026-05-22T09:29:03Z",
@@ -1619,6 +1604,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
       "source": "Dev.to",
       "user": "Vinicius Brasil"
+    },
+    {
+      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
+      "published_at": "2026-05-22T15:12:33Z",
+      "description": "About storing application configs in code rather than database",
+      "tags": [
+        "configs",
+        "mindset",
+        "database",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
+      "source": "Dev.to",
+      "user": "Bimochan Shrestha"
     },
     {
       "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
@@ -1705,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2116,
+      "stars": 2158,
       "user": "FoundZiGu"
     },
     {
@@ -1720,7 +1720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1346,
       "user": "Doorman11991"
     },
     {
@@ -1735,7 +1735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 410,
       "user": "open-gsd"
     },
     {
@@ -1750,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 307,
       "user": "run-liyi"
     },
     {
@@ -1780,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 692,
       "user": "sapientinc"
     },
     {
@@ -1795,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 582,
       "user": "lynote-ai"
     },
     {
@@ -1810,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "evilsocket"
     },
     {
@@ -1825,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 439,
       "user": "paradigmxyz"
     },
     {
@@ -1840,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 405,
       "user": "0xSero"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1605,
       "user": "perplexityai"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "DEEIX-AI"
     },
     {
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 30,
+      "stars": 32,
       "user": "ivngineer"
     }
   ]
