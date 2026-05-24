@@ -16,6 +16,18 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
+      "published_at": "2026-05-22T16:52:42Z",
+      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
+      "source": "Dev.to",
+      "user": "Tracy Gilmore"
+    },
+    {
       "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
       "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
       "published_at": "2026-05-22T18:24:09Z",
@@ -29,18 +41,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
       "source": "Dev.to",
       "user": "Regnard Raquedan"
-    },
-    {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
-      "published_at": "2026-05-22T16:52:42Z",
-      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
-      "source": "Dev.to",
-      "user": "Tracy Gilmore"
     },
     {
       "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
@@ -522,7 +522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1361,
       "user": "Doorman11991"
     },
     {
@@ -552,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 601,
       "user": "lynote-ai"
     },
     {
@@ -567,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 432,
       "user": "0xSero"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1764,
+      "stars": 1832,
       "user": "perplexityai"
     },
     {
@@ -597,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "DEEIX-AI"
     }
   ],
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2233,
       "user": "FoundZiGu"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1361,
       "user": "Doorman11991"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 463,
       "user": "open-gsd"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 337,
       "user": "run-liyi"
     },
     {
@@ -1049,7 +1049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "sapientinc"
     },
     {
@@ -1064,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 601,
       "user": "lynote-ai"
     },
     {
@@ -1079,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "evilsocket"
     },
     {
@@ -1094,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "paradigmxyz"
     },
     {
@@ -1109,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 432,
       "user": "0xSero"
     }
   ],
@@ -1532,21 +1532,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
-      "published_at": "2026-05-22T18:24:09Z",
-      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
-      "source": "Dev.to",
-      "user": "Regnard Raquedan"
-    },
-    {
       "title": "Mocking Server Side HTTP in Playwright with mockttp",
       "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
       "published_at": "2026-05-22T13:22:27Z",
@@ -1560,6 +1545,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
       "source": "Dev.to",
       "user": "Simon Knott"
+    },
+    {
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
+      "published_at": "2026-05-22T18:24:09Z",
+      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
+      "source": "Dev.to",
+      "user": "Regnard Raquedan"
     },
     {
       "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
@@ -1706,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2233,
       "user": "FoundZiGu"
     },
     {
@@ -1721,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1361,
       "user": "Doorman11991"
     },
     {
@@ -1736,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 463,
       "user": "open-gsd"
     },
     {
@@ -1751,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 337,
       "user": "run-liyi"
     },
     {
@@ -1781,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "sapientinc"
     },
     {
@@ -1796,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 601,
       "user": "lynote-ai"
     },
     {
@@ -1811,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "evilsocket"
     },
     {
@@ -1826,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "paradigmxyz"
     },
     {
@@ -1841,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 432,
       "user": "0xSero"
     },
     {
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1764,
+      "stars": 1832,
       "user": "perplexityai"
     },
     {
@@ -1871,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "DEEIX-AI"
     },
     {
@@ -1916,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "ivngineer"
     }
   ]
