@@ -86,21 +86,6 @@
       "user": "xbill"
     },
     {
-      "title": "AI Agent Failure Modes Beyond Hallucination",
-      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
-      "published_at": "2026-05-22T14:59:09Z",
-      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -522,7 +507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1371,
       "user": "Doorman11991"
     },
     {
@@ -552,7 +537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 627,
       "user": "lynote-ai"
     },
     {
@@ -567,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "0xSero"
     },
     {
@@ -582,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1955,
+      "stars": 2000,
       "user": "perplexityai"
     },
     {
@@ -597,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "DEEIX-AI"
     }
   ],
@@ -837,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2270,
+      "stars": 2286,
       "user": "FoundZiGu"
     },
     {
@@ -852,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1371,
       "user": "Doorman11991"
     },
     {
@@ -867,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 504,
       "user": "open-gsd"
     },
     {
@@ -882,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 353,
       "user": "run-liyi"
     },
     {
@@ -899,6 +884,21 @@
       "source": "GitHub",
       "stars": 274,
       "user": "edgenuitybot"
+    },
+    {
+      "title": "Tong89/smartNode - GitHub Repository",
+      "url": "https://github.com/Tong89/smartNode",
+      "published_at": "2026-05-21T07:31:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "Tong89"
     }
   ],
   "Python": [
@@ -1064,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 627,
       "user": "lynote-ai"
     },
     {
@@ -1079,8 +1079,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "evilsocket"
+    },
+    {
+      "title": "Tong89/smartNode - GitHub Repository",
+      "url": "https://github.com/Tong89/smartNode",
+      "published_at": "2026-05-21T07:31:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "Tong89"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -1094,23 +1109,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "0xSero"
-    },
-    {
-      "title": "paradigmxyz/centaur - Multiplayer, self-hosted, secure agents.",
-      "url": "https://github.com/paradigmxyz/centaur",
-      "published_at": "2026-05-18T17:30:29Z",
-      "description": "Multiplayer, self-hosted, secure agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "paradigmxyz"
     }
   ],
   "DevOps": [
@@ -1706,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2270,
+      "stars": 2286,
       "user": "FoundZiGu"
     },
     {
@@ -1721,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1371,
       "user": "Doorman11991"
     },
     {
@@ -1736,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 504,
       "user": "open-gsd"
     },
     {
@@ -1751,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 353,
       "user": "run-liyi"
     },
     {
@@ -1796,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 627,
       "user": "lynote-ai"
     },
     {
@@ -1811,8 +1811,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "evilsocket"
+    },
+    {
+      "title": "Tong89/smartNode - GitHub Repository",
+      "url": "https://github.com/Tong89/smartNode",
+      "published_at": "2026-05-21T07:31:35Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "Tong89"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -1826,23 +1841,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "0xSero"
-    },
-    {
-      "title": "paradigmxyz/centaur - Multiplayer, self-hosted, secure agents.",
-      "url": "https://github.com/paradigmxyz/centaur",
-      "published_at": "2026-05-18T17:30:29Z",
-      "description": "Multiplayer, self-hosted, secure agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "paradigmxyz"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1955,
+      "stars": 2000,
       "user": "perplexityai"
     },
     {
@@ -1871,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "DEEIX-AI"
     },
     {

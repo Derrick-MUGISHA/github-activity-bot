@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-24-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.4%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (22.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 16 (15.4%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 10 (9.6%)
 
-**DevOps**: 🟦🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦🟦 6 (5.8%)
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.1 (26.1%)
-JavaScript      █████████████████████████████ 25.0 (25.0%)
-Java            ████████████████████████ 20.5 (20.5%)
-Python          █████████████████████ 18.2 (18.2%)
-Rust            ███████ 5.7 (5.7%)
-Kotlin          ███ 2.3 (2.3%)
+Go              ██████████████████████████████ 25.8 (25.8%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Java            ███████████████████████ 20.2 (20.2%)
+Python          █████████████████████ 18.0 (18.0%)
+Rust            ███████ 5.6 (5.6%)
+Kotlin          ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -74,7 +74,7 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 23
-    "JavaScript" : 22
+    "JavaScript" : 23
     "Java" : 18
     "Python" : 16
     "Rust" : 5
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-15-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-24 17:00 CAT)
+## 📅 Latest Updates (2026-05-24 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -210,15 +210,15 @@ npm run test
 - [The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0](https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 - [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) _[Dev.to]_
-- [AI Agent Failure Modes Beyond Hallucination](https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
 - [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) _[Dev.to]_
 - [GizmoGuard - Spy Bot (Powered by Gemma4)](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200) _[Dev.to]_
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
+- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 
-_Last automated update: Sun, 24 May 2026 17:59:00 CAT_
+_Last automated update: Sun, 24 May 2026 19:10:30 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 24 May 2026 17:59:00 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Ownership, mutability, data flow direction
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 24 May 2026 15:59:00 GMT</b><br/>
+  <b>Last automated update: Sun, 24 May 2026 17:10:30 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
