@@ -537,7 +537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 647,
       "user": "lynote-ai"
     },
     {
@@ -552,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "0xSero"
     },
     {
@@ -567,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2101,
       "user": "perplexityai"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2310,
       "user": "FoundZiGu"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 535,
       "user": "open-gsd"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 373,
       "user": "run-liyi"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 480,
       "user": "Tong89"
     }
   ],
@@ -1049,7 +1049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "sapientinc"
     },
     {
@@ -1064,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 647,
       "user": "lynote-ai"
     },
     {
@@ -1079,8 +1079,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 480,
       "user": "Tong89"
+    },
+    {
+      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "url": "https://github.com/0xSero/codex-shim",
+      "published_at": "2026-05-22T07:38:07Z",
+      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "0xSero"
     },
     {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
@@ -1096,21 +1111,6 @@
       "source": "GitHub",
       "stars": 464,
       "user": "evilsocket"
-    },
-    {
-      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-      "url": "https://github.com/0xSero/codex-shim",
-      "published_at": "2026-05-22T07:38:07Z",
-      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
-      "source": "GitHub",
-      "stars": 463,
-      "user": "0xSero"
     }
   ],
   "DevOps": [
@@ -1706,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2310,
       "user": "FoundZiGu"
     },
     {
@@ -1736,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 535,
       "user": "open-gsd"
     },
     {
@@ -1751,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 373,
       "user": "run-liyi"
     },
     {
@@ -1781,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "sapientinc"
     },
     {
@@ -1796,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 647,
       "user": "lynote-ai"
     },
     {
@@ -1811,8 +1811,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 480,
       "user": "Tong89"
+    },
+    {
+      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "url": "https://github.com/0xSero/codex-shim",
+      "published_at": "2026-05-22T07:38:07Z",
+      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "0xSero"
     },
     {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
@@ -1830,21 +1845,6 @@
       "user": "evilsocket"
     },
     {
-      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-      "url": "https://github.com/0xSero/codex-shim",
-      "published_at": "2026-05-22T07:38:07Z",
-      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
-      "source": "GitHub",
-      "stars": 463,
-      "user": "0xSero"
-    },
-    {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
       "url": "https://github.com/perplexityai/bumblebee",
       "published_at": "2026-05-20T18:11:37Z",
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2101,
       "user": "perplexityai"
     },
     {
