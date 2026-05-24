@@ -31,21 +31,6 @@
       "user": "Regnard Raquedan"
     },
     {
-      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
-      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
-      "published_at": "2026-05-22T15:25:26Z",
-      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
-      "tags": [
-        "ai",
-        "llm",
-        "showdev",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
-      "source": "Dev.to",
-      "user": "Alex Obreja"
-    },
-    {
       "title": "The subtle impact of AI (& IT) on jobs",
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
       "published_at": "2026-05-22T16:52:42Z",
@@ -116,18 +101,19 @@
       "user": "Maxim Saplin"
     },
     {
-      "title": "Some Notes on OMO Orchestrator Claude Alternatives",
-      "url": "https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c",
-      "published_at": "2026-05-15T06:29:33Z",
-      "description": "I'm a big fan of my current agentic coding stack:    OpenCode for harnessing basics, skills, and...",
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
       "tags": [
-        "engineering",
-        "agents",
-        "ai"
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcf5ybdiah0l3pzmlyjud.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
-      "user": "Brian Kirkpatrick"
+      "user": "Sacha Greif"
     },
     {
       "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
@@ -145,19 +131,19 @@
       "user": "Yechiel Kalmenson"
     },
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
+      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
+      "published_at": "2026-05-22T15:25:26Z",
+      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
       "tags": [
         "ai",
-        "javascript",
-        "news",
-        "webdev"
+        "llm",
+        "showdev",
+        "vibecoding"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
       "source": "Dev.to",
-      "user": "Sacha Greif"
+      "user": "Alex Obreja"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -536,7 +522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1355,
       "user": "Doorman11991"
     },
     {
@@ -566,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 589,
       "user": "lynote-ai"
     },
     {
@@ -581,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 415,
       "user": "0xSero"
     },
     {
@@ -596,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1705,
       "user": "perplexityai"
     },
     {
@@ -611,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "DEEIX-AI"
     }
   ],
@@ -851,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2158,
+      "stars": 2198,
       "user": "FoundZiGu"
     },
     {
@@ -866,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1355,
       "user": "Doorman11991"
     },
     {
@@ -881,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 429,
       "user": "open-gsd"
     },
     {
@@ -896,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 321,
       "user": "run-liyi"
     },
     {
@@ -916,6 +902,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "The OCR Rabbit Hole",
+      "url": "https://dev.to/awjudd/the-ocr-rabbit-hole-3h7",
+      "published_at": "2026-05-21T15:44:33Z",
+      "description": "Long weekend. I've got a pile of handwritten documents that need to become structured data. Should be a weekend project. OCR exists, it's been around forever, this is a solved problem. Right?",
+      "tags": [
+        "recipes",
+        "ocr",
+        "learning",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
+      "source": "Dev.to",
+      "user": "Andrew Judd"
+    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1048,7 +1049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 696,
       "user": "sapientinc"
     },
     {
@@ -1063,7 +1064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 589,
       "user": "lynote-ai"
     },
     {
@@ -1078,7 +1079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "evilsocket"
     },
     {
@@ -1093,7 +1094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 443,
       "user": "paradigmxyz"
     },
     {
@@ -1108,7 +1109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 415,
       "user": "0xSero"
     }
   ],
@@ -1705,7 +1706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2158,
+      "stars": 2198,
       "user": "FoundZiGu"
     },
     {
@@ -1720,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1355,
       "user": "Doorman11991"
     },
     {
@@ -1735,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 429,
       "user": "open-gsd"
     },
     {
@@ -1750,7 +1751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 321,
       "user": "run-liyi"
     },
     {
@@ -1780,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 696,
       "user": "sapientinc"
     },
     {
@@ -1795,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 589,
       "user": "lynote-ai"
     },
     {
@@ -1810,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "evilsocket"
     },
     {
@@ -1825,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 443,
       "user": "paradigmxyz"
     },
     {
@@ -1840,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 415,
       "user": "0xSero"
     },
     {
@@ -1855,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1705,
       "user": "perplexityai"
     },
     {
@@ -1870,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "DEEIX-AI"
     },
     {
@@ -1900,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/82623017?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "aaron-kidwell"
     },
     {
@@ -1915,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 34,
       "user": "ivngineer"
     }
   ]
