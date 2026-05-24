@@ -1,18 +1,18 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 45,
+    "AI": 44,
     "JavaScript": 22,
-    "Python": 16,
+    "Python": 15,
     "DevOps": 6,
     "WebDev": 4,
     "Mobile": 3,
-    "Cloud": 9,
+    "Cloud": 10,
     "Database": 3,
     "Security": 1,
     "Tools": 27
@@ -21,17 +21,17 @@
     "Go": 22,
     "JavaScript": 22,
     "Java": 18,
-    "Python": 16,
     "Swift": 1,
     "Rust": 5,
     "PHP": 1,
-    "Kotlin": 2
+    "Kotlin": 2,
+    "Python": 15
   },
   "by_date": {
-    "2026-05-22": 15,
-    "2026-05-21": 9,
+    "2026-05-22": 14,
+    "2026-05-21": 10,
     "2026-05-20": 12,
-    "2026-05-15": 4,
+    "2026-05-15": 5,
     "2026-05-14": 4,
     "2026-05-13": 6,
     "2026-05-11": 2,
@@ -79,29 +79,29 @@
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
+    "webdev": 8,
     "javascript": 8,
-    "webdev": 7,
     "gemmachallenge": 7,
     "agents": 7,
     "gemma": 6,
-    "python": 6,
     "go": 6,
     "productivity": 5,
+    "python": 5,
     "gemini": 4,
     "programming": 4,
     "opensource": 4,
-    "llm": 3,
-    "showdev": 3
+    "discuss": 3,
+    "llm": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "25.3",
-    "JavaScript": "25.3",
-    "Java": "20.7",
-    "Python": "18.4",
-    "Swift": "1.1",
-    "Rust": "5.7",
-    "PHP": "1.1",
-    "Kotlin": "2.3"
+    "Go": "25.6",
+    "JavaScript": "25.6",
+    "Java": "20.9",
+    "Swift": "1.2",
+    "Rust": "5.8",
+    "PHP": "1.2",
+    "Kotlin": "2.3",
+    "Python": "17.4"
   }
 }

@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-24-orange)
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (43.3%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (26.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.2%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.4%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Cloud**: 🟦🟦🟦🟦 9 (8.7%)
+**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
-**DevOps**: 🟦🟦🟦 6 (5.8%)
+**DevOps**: 🟦🟦🟦 6 (5.7%)
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 59 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,14 +60,14 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.3 (25.3%)
-JavaScript      ██████████████████████████████ 25.3 (25.3%)
-Java            █████████████████████████ 20.7 (20.7%)
-Python          ██████████████████████ 18.4 (18.4%)
-Rust            ███████ 5.7 (5.7%)
+Go              ██████████████████████████████ 25.6 (25.6%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Java            ████████████████████████ 20.9 (20.9%)
+Python          ████████████████████ 17.4 (17.4%)
+Rust            ███████ 5.8 (5.8%)
 Kotlin          ███ 2.3 (2.3%)
-Swift           █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
+Swift           █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
@@ -76,7 +76,7 @@ pie title Programming Languages Distribution
     "Go" : 22
     "JavaScript" : 22
     "Java" : 18
-    "Python" : 16
+    "Python" : 15
     "Rust" : 5
     "Kotlin" : 2
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![python](https://img.shields.io/badge/python-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-24 3:00 CAT)
+## 📅 Latest Updates (2026-05-24 7:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -211,14 +211,14 @@ npm run test
 - [Hosting a Docker runner for processing GitLab CI/CD pipelines](https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk) _[Dev.to]_
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
 - [The $1000 Operating System: Rearchitecting the Dev Team Inside Antigravity 2.0](https://dev.to/gde/the-1000-operating-system-rearchitecting-the-dev-team-inside-antigravity-20-1j14) _[Dev.to]_
-- [Local MCP Development with Python and Antigravity CLI](https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 - [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji) _[Dev.to]_
 - [AI Agent Failure Modes Beyond Hallucination](https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
+- [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) _[Dev.to]_
 
-_Last automated update: Sun, 24 May 2026 03:35:42 CAT_
+_Last automated update: Sun, 24 May 2026 07:47:16 CAT_
 
 
 
@@ -226,18 +226,29 @@ _Last automated update: Sun, 24 May 2026 03:35:42 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is database normalization and denormalization?
+### 1. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: design, optimization
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Normal forms, redundancy, performance trade-offs
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. JavaScript: Implement a debounce function from scratch
+
+**Difficulty**: Hard | **Topics**: functions, timing
+
+<details>
+<summary>💡 Hint</summary>
+
+setTimeout, clearTimeout, wrapper function
+
+</details>
+
+### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
 **Difficulty**: Medium | **Topics**: event loop, async
 
@@ -245,17 +256,6 @@ Normal forms, redundancy, performance trade-offs
 <summary>💡 Hint</summary>
 
 Execution timing, event loop phases
-
-</details>
-
-### 3. React: What are hooks and why were they introduced?
-
-**Difficulty**: Medium | **Topics**: hooks, functional components
-
-<details>
-<summary>💡 Hint</summary>
-
-State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 24 May 2026 01:35:42 GMT</b><br/>
+  <b>Last automated update: Sun, 24 May 2026 05:47:16 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

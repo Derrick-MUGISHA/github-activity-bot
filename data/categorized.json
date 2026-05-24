@@ -536,7 +536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1335,
       "user": "Doorman11991"
     },
     {
@@ -566,7 +566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 572,
       "user": "lynote-ai"
     },
     {
@@ -581,7 +581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 396,
       "user": "0xSero"
     },
     {
@@ -596,7 +596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1462,
       "user": "perplexityai"
     },
     {
@@ -611,23 +611,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 131,
       "user": "DEEIX-AI"
-    },
-    {
-      "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
-      "url": "https://github.com/neochaotic/leoflow",
-      "published_at": "2026-05-22T03:51:23Z",
-      "description": "GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
-      "source": "GitHub",
-      "stars": 30,
-      "user": "neochaotic"
     }
   ],
   "JavaScript": [
@@ -866,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2116,
       "user": "FoundZiGu"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1335,
       "user": "Doorman11991"
     },
     {
@@ -896,8 +881,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 395,
       "user": "open-gsd"
+    },
+    {
+      "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "url": "https://github.com/run-liyi/wechatpay",
+      "published_at": "2026-05-21T06:40:00Z",
+      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "run-liyi"
     },
     {
       "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
@@ -913,39 +913,9 @@
       "source": "GitHub",
       "stars": 274,
       "user": "edgenuitybot"
-    },
-    {
-      "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "url": "https://github.com/run-liyi/wechatpay",
-      "published_at": "2026-05-21T06:40:00Z",
-      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "run-liyi"
     }
   ],
   "Python": [
-    {
-      "title": "Local MCP Development with Python and Antigravity CLI",
-      "url": "https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg",
-      "published_at": "2026-05-21T15:35:20Z",
-      "description": "This article re-visits and updates an existing deployment originally built with Gemini CLI and...",
-      "tags": [
-        "mcpserver",
-        "python",
-        "antigravitycli",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1azr6l4mgik0e6fhmgv.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1078,7 +1048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 690,
       "user": "sapientinc"
     },
     {
@@ -1093,7 +1063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 572,
       "user": "lynote-ai"
     },
     {
@@ -1108,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 450,
       "user": "evilsocket"
     },
     {
@@ -1123,7 +1093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 436,
       "user": "paradigmxyz"
     },
     {
@@ -1138,7 +1108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 396,
       "user": "0xSero"
     }
   ],
@@ -1458,6 +1428,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building a Production Company Website on AWS — Project Overview",
+      "url": "https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm",
+      "published_at": "2026-05-21T00:05:06Z",
+      "description": "What We Built   This series documents the end-to-end process of designing, building, and...",
+      "tags": [
+        "aws",
+        "webdev",
+        "tutorial",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb1mivpyt9lot9ug6pkg.png",
+      "source": "Dev.to",
+      "user": "Josh Blair"
+    },
+    {
       "title": "Deploying a Rust MCP Server to Azure ACI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
       "published_at": "2026-05-15T13:02:34Z",
@@ -1720,7 +1705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2116,
       "user": "FoundZiGu"
     },
     {
@@ -1735,7 +1720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1335,
       "user": "Doorman11991"
     },
     {
@@ -1750,8 +1735,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 395,
       "user": "open-gsd"
+    },
+    {
+      "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "url": "https://github.com/run-liyi/wechatpay",
+      "published_at": "2026-05-21T06:40:00Z",
+      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "run-liyi"
     },
     {
       "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
@@ -1769,21 +1769,6 @@
       "user": "edgenuitybot"
     },
     {
-      "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "url": "https://github.com/run-liyi/wechatpay",
-      "published_at": "2026-05-21T06:40:00Z",
-      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "run-liyi"
-    },
-    {
       "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
       "url": "https://github.com/sapientinc/HRM-Text",
       "published_at": "2026-05-18T03:10:52Z",
@@ -1795,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 690,
       "user": "sapientinc"
     },
     {
@@ -1810,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 572,
       "user": "lynote-ai"
     },
     {
@@ -1825,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 450,
       "user": "evilsocket"
     },
     {
@@ -1840,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 436,
       "user": "paradigmxyz"
     },
     {
@@ -1855,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 396,
       "user": "0xSero"
     },
     {
@@ -1870,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1462,
       "user": "perplexityai"
     },
     {
@@ -1885,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 131,
       "user": "DEEIX-AI"
     },
     {
@@ -1900,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270298?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "ninehills"
     },
     {
@@ -1919,19 +1904,19 @@
       "user": "aaron-kidwell"
     },
     {
-      "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
-      "url": "https://github.com/neochaotic/leoflow",
-      "published_at": "2026-05-22T03:51:23Z",
-      "description": "GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "title": "ivngineer/sword - A feature-rich GUI software store for Linux",
+      "url": "https://github.com/ivngineer/sword",
+      "published_at": "2026-05-21T12:30:41Z",
+      "description": "A feature-rich GUI software store for Linux",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
       "stars": 30,
-      "user": "neochaotic"
+      "user": "ivngineer"
     }
   ]
 }
