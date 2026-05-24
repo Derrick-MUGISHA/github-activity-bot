@@ -323,6 +323,20 @@
       "user": "xbill"
     },
     {
+      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
+      "published_at": "2026-05-20T12:26:19Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
+      "tags": [
+        "devchallenge",
+        "gemma",
+        "gemmachallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
+      "source": "Dev.to",
+      "user": "Santhoshkumar. P"
+    },
+    {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
       "published_at": "2026-05-08T06:39:25Z",
@@ -336,20 +350,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
-    },
-    {
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
-      "published_at": "2026-05-20T12:26:19Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
-      "tags": [
-        "devchallenge",
-        "gemma",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
-      "source": "Dev.to",
-      "user": "Santhoshkumar. P"
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -536,7 +536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1321,
       "user": "Doorman11991"
     },
     {
@@ -566,8 +566,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 557,
       "user": "lynote-ai"
+    },
+    {
+      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "url": "https://github.com/0xSero/codex-shim",
+      "published_at": "2026-05-22T07:38:07Z",
+      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "0xSero"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -581,7 +596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1285,
       "user": "perplexityai"
     },
     {
@@ -703,6 +718,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+      "published_at": "2026-05-13T07:07:13Z",
+      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "sideprojects",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -836,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2047,
+      "stars": 2053,
       "user": "FoundZiGu"
     },
     {
@@ -851,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1321,
       "user": "Doorman11991"
     },
     {
@@ -866,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 368,
       "user": "open-gsd"
     },
     {
@@ -896,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 263,
       "user": "run-liyi"
     }
   ],
@@ -915,21 +945,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1azr6l4mgik0e6fhmgv.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "published_at": "2026-05-19T21:32:45Z",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "tags": [
-        "security",
-        "github",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
-      "source": "Dev.to",
-      "user": "GnomeMan4201"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1063,7 +1078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "sapientinc"
     },
     {
@@ -1078,38 +1093,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 557,
       "user": "lynote-ai"
-    },
-    {
-      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "url": "https://github.com/WUBING2023/PaperSpine",
-      "published_at": "2026-05-17T08:37:31Z",
-      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
-      "source": "GitHub",
-      "stars": 515,
-      "user": "WUBING2023"
-    },
-    {
-      "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
-      "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-      "published_at": "2026-05-17T11:25:47Z",
-      "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
-      "source": "GitHub",
-      "stars": 463,
-      "user": "LiuMengxuan04"
     },
     {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
@@ -1123,8 +1108,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 446,
       "user": "evilsocket"
+    },
+    {
+      "title": "paradigmxyz/centaur - Multiplayer, self-hosted, secure agents.",
+      "url": "https://github.com/paradigmxyz/centaur",
+      "published_at": "2026-05-18T17:30:29Z",
+      "description": "Multiplayer, self-hosted, secure agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
+      "source": "GitHub",
+      "stars": 433,
+      "user": "paradigmxyz"
+    },
+    {
+      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "url": "https://github.com/0xSero/codex-shim",
+      "published_at": "2026-05-22T07:38:07Z",
+      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "0xSero"
     }
   ],
   "DevOps": [
@@ -1202,6 +1217,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
       "source": "Dev.to",
       "user": "Kahiro Okina"
+    },
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
     }
   ],
   "WebDev": [
@@ -1218,6 +1247,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
       "source": "Dev.to",
       "user": "John Facey"
+    },
+    {
+      "title": "Accessibility - This looks like a job for a developer advocate!",
+      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12",
+      "published_at": "2026-05-21T12:56:55Z",
+      "description": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
+      "tags": [
+        "a11y",
+        "devrel",
+        "codenewbie",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png",
+      "source": "Dev.to",
+      "user": "Andy Haskell"
+    },
+    {
+      "title": "CSS - The single coolest API technique you can imagine.",
+      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
+      "published_at": "2026-05-07T23:15:51Z",
+      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
+      "tags": [
+        "css",
+        "api",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
+      "source": "Dev.to",
+      "user": "Jane Ori"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1294,21 +1352,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Building a Production Company Website on AWS — Project Overview",
-      "url": "https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm",
-      "published_at": "2026-05-21T00:05:06Z",
-      "description": "What We Built   This series documents the end-to-end process of designing, building, and...",
-      "tags": [
-        "aws",
-        "webdev",
-        "tutorial",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb1mivpyt9lot9ug6pkg.png",
-      "source": "Dev.to",
-      "user": "Josh Blair"
     },
     {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
@@ -1447,6 +1490,20 @@
       "user": "Bimochan Shrestha"
     },
     {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1460,21 +1517,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "published_at": "2026-05-19T21:32:45Z",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "tags": [
-        "security",
-        "github",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
-      "source": "Dev.to",
-      "user": "GnomeMan4201"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1594,21 +1636,6 @@
       "user": "Vinicius Brasil"
     },
     {
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "published_at": "2026-05-19T21:32:45Z",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "tags": [
-        "security",
-        "github",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
-      "source": "Dev.to",
-      "user": "GnomeMan4201"
-    },
-    {
       "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
       "published_at": "2026-05-11T07:06:08Z",
@@ -1668,6 +1695,20 @@
       "user": "S M Tahosin"
     },
     {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
+    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1679,7 +1720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2047,
+      "stars": 2053,
       "user": "FoundZiGu"
     },
     {
@@ -1694,7 +1735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1321,
       "user": "Doorman11991"
     },
     {
@@ -1709,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 368,
       "user": "open-gsd"
     },
     {
@@ -1739,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 263,
       "user": "run-liyi"
     },
     {
@@ -1754,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "sapientinc"
     },
     {
@@ -1769,38 +1810,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 557,
       "user": "lynote-ai"
-    },
-    {
-      "title": "WUBING2023/PaperSpine - PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "url": "https://github.com/WUBING2023/PaperSpine",
-      "published_at": "2026-05-17T08:37:31Z",
-      "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242776933?v=4",
-      "source": "GitHub",
-      "stars": 515,
-      "user": "WUBING2023"
-    },
-    {
-      "title": "LiuMengxuan04/shushu-internship-tool - 把岗位描述变项目，把项目变简历，把简历变面试。",
-      "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
-      "published_at": "2026-05-17T11:25:47Z",
-      "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/225589786?v=4",
-      "source": "GitHub",
-      "stars": 463,
-      "user": "LiuMengxuan04"
     },
     {
       "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
@@ -1814,8 +1825,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 446,
       "user": "evilsocket"
+    },
+    {
+      "title": "paradigmxyz/centaur - Multiplayer, self-hosted, secure agents.",
+      "url": "https://github.com/paradigmxyz/centaur",
+      "published_at": "2026-05-18T17:30:29Z",
+      "description": "Multiplayer, self-hosted, secure agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97369466?v=4",
+      "source": "GitHub",
+      "stars": 433,
+      "user": "paradigmxyz"
+    },
+    {
+      "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "url": "https://github.com/0xSero/codex-shim",
+      "published_at": "2026-05-22T07:38:07Z",
+      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "0xSero"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -1829,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1285,
       "user": "perplexityai"
     },
     {
@@ -1874,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/82623017?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 41,
       "user": "aaron-kidwell"
     },
     {
