@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-24 12:00 CAT)
+## 📅 Latest Updates (2026-05-24 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 
-_Last automated update: Sun, 24 May 2026 12:17:49 CAT_
+_Last automated update: Sun, 24 May 2026 13:48:25 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 24 May 2026 12:17:49 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Implement a context manager using __enter__ and __exit__
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. Java: What are Java Streams and how do they work?
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: functional programming, collections
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Lazy evaluation, pipeline, terminal operations
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. Python: Implement a context manager using __enter__ and __exit__
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Hard | **Topics**: context managers, resource management
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-with statement, setup/teardown, exception handling
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 24 May 2026 10:17:49 GMT</b><br/>
+  <b>Last automated update: Sun, 24 May 2026 11:48:25 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
