@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-24 16:00 CAT)
+## 📅 Latest Updates (2026-05-24 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 
-_Last automated update: Sun, 24 May 2026 16:48:01 CAT_
+_Last automated update: Sun, 24 May 2026 17:59:00 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Sun, 24 May 2026 16:48:01 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. SystemDesign: Design a URL shortening service like bit.ly
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Medium | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Hash function, database design, caching, analytics
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. Java: What is the difference between abstract class and interface?
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: OOP, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 24 May 2026 14:48:01 GMT</b><br/>
+  <b>Last automated update: Sun, 24 May 2026 15:59:00 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
