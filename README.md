@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-24 7:00 CAT)
+## 📅 Latest Updates (2026-05-24 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -204,9 +204,7 @@ npm run test
 - [I built a version manager for llama.cpp using nothing but vibe coding.](https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e) _[Dev.to]_
 - [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
 - [The subtle impact of AI (& IT) on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55) _[Dev.to]_
-- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
 - [Validating Gemma 4 for Industrial IoT: A Governance Pattern](https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k) _[Dev.to]_
-- [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph) _[Dev.to]_
 - [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9) _[Dev.to]_
 - [Hosting a Docker runner for processing GitLab CI/CD pipelines](https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk) _[Dev.to]_
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
@@ -217,8 +215,10 @@ npm run test
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Some Notes on OMO Orchestrator Claude Alternatives](https://dev.to/tythos/some-notes-on-omo-orchestrator-claude-alternatives-1a7c) _[Dev.to]_
 - [Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)](https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma) _[Dev.to]_
+- [GizmoGuard - Spy Bot (Powered by Gemma4)](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200) _[Dev.to]_
+- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
 
-_Last automated update: Sun, 24 May 2026 07:47:16 CAT_
+_Last automated update: Sun, 24 May 2026 10:24:44 CAT_
 
 
 
@@ -237,25 +237,25 @@ Token bucket, sliding window, distributed systems
 
 </details>
 
-### 2. JavaScript: Implement a debounce function from scratch
+### 2. DataStructures: Implement LRU Cache
 
-**Difficulty**: Hard | **Topics**: functions, timing
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-setTimeout, clearTimeout, wrapper function
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 24 May 2026 05:47:16 GMT</b><br/>
+  <b>Last automated update: Sun, 24 May 2026 08:24:44 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
