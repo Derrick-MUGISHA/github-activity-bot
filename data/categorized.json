@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
+      "published_at": "2026-05-22T16:52:42Z",
+      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
+      "source": "Dev.to",
+      "user": "Tracy Gilmore"
+    },
+    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
       "published_at": "2026-05-22T16:27:19Z",
@@ -14,18 +26,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
-      "published_at": "2026-05-22T16:52:42Z",
-      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
-      "source": "Dev.to",
-      "user": "Tracy Gilmore"
     },
     {
       "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
@@ -496,21 +496,6 @@
       "user": "indigodaddy"
     },
     {
-      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "published_at": "2026-05-18T06:19:44Z",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
-      "source": "GitHub",
-      "stars": 1380,
-      "user": "Doorman11991"
-    },
-    {
       "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
       "url": "https://github.com/edgenuitybot/exodusbot",
       "published_at": "2026-05-19T00:45:04Z",
@@ -526,21 +511,6 @@
       "user": "edgenuitybot"
     },
     {
-      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "url": "https://github.com/lynote-ai/humanize-text",
-      "published_at": "2026-05-18T10:12:15Z",
-      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "lynote-ai"
-    },
-    {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
       "url": "https://github.com/0xSero/codex-shim",
       "published_at": "2026-05-22T07:38:07Z",
@@ -552,8 +522,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "0xSero"
+    },
+    {
+      "title": "Jawaz-Keyzor/DarkGPT - Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "url": "https://github.com/Jawaz-Keyzor/DarkGPT",
+      "published_at": "2026-05-21T19:57:34Z",
+      "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178296144?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "Jawaz-Keyzor"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -567,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2135,
+      "stars": 2171,
       "user": "perplexityai"
     },
     {
@@ -582,8 +567,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "DEEIX-AI"
+    },
+    {
+      "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "url": "https://github.com/neochaotic/leoflow",
+      "published_at": "2026-05-22T03:51:23Z",
+      "description": "GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "neochaotic"
     }
   ],
   "JavaScript": [
@@ -822,23 +822,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2317,
+      "stars": 2341,
       "user": "FoundZiGu"
-    },
-    {
-      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "published_at": "2026-05-18T06:19:44Z",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
-      "source": "GitHub",
-      "stars": 1380,
-      "user": "Doorman11991"
     },
     {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
@@ -852,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 571,
       "user": "open-gsd"
     },
     {
@@ -867,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 396,
       "user": "run-liyi"
     },
     {
@@ -886,6 +871,21 @@
       "user": "edgenuitybot"
     },
     {
+      "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "url": "https://github.com/jianshuo/ccglass",
+      "published_at": "2026-05-22T05:35:11Z",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
+      "source": "GitHub",
+      "stars": 242,
+      "user": "jianshuo"
+    },
+    {
       "title": "Tong89/smartNode - GitHub Repository",
       "url": "https://github.com/Tong89/smartNode",
       "published_at": "2026-05-21T07:31:35Z",
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 511,
       "user": "Tong89"
     }
   ],
@@ -1038,36 +1038,6 @@
       "user": "arathore"
     },
     {
-      "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "url": "https://github.com/sapientinc/HRM-Text",
-      "published_at": "2026-05-18T03:10:52Z",
-      "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
-      "source": "GitHub",
-      "stars": 706,
-      "user": "sapientinc"
-    },
-    {
-      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "url": "https://github.com/lynote-ai/humanize-text",
-      "published_at": "2026-05-18T10:12:15Z",
-      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "lynote-ai"
-    },
-    {
       "title": "Tong89/smartNode - GitHub Repository",
       "url": "https://github.com/Tong89/smartNode",
       "published_at": "2026-05-21T07:31:35Z",
@@ -1079,7 +1049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 511,
       "user": "Tong89"
     },
     {
@@ -1094,23 +1064,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "0xSero"
     },
     {
-      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
-      "url": "https://github.com/evilsocket/audit",
-      "published_at": "2026-05-18T20:42:44Z",
-      "description": "An 8-stage vulnerability-discovery agent.",
+      "title": "zhaoyue4810/pianke - GitHub Repository",
+      "url": "https://github.com/zhaoyue4810/pianke",
+      "published_at": "2026-05-22T06:33:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 465,
-      "user": "evilsocket"
+      "stars": 302,
+      "user": "zhaoyue4810"
+    },
+    {
+      "title": "orchestration-agent/AgentOrchestration - GitHub Repository",
+      "url": "https://github.com/orchestration-agent/AgentOrchestration",
+      "published_at": "2026-05-19T14:28:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
+      "source": "GitHub",
+      "stars": 267,
+      "user": "orchestration-agent"
+    },
+    {
+      "title": "Jawaz-Keyzor/DarkGPT - Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "url": "https://github.com/Jawaz-Keyzor/DarkGPT",
+      "published_at": "2026-05-21T19:57:34Z",
+      "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178296144?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "Jawaz-Keyzor"
     }
   ],
   "DevOps": [
@@ -1706,23 +1706,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2317,
+      "stars": 2341,
       "user": "FoundZiGu"
-    },
-    {
-      "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "published_at": "2026-05-18T06:19:44Z",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283874042?v=4",
-      "source": "GitHub",
-      "stars": 1380,
-      "user": "Doorman11991"
     },
     {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
@@ -1736,7 +1721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 571,
       "user": "open-gsd"
     },
     {
@@ -1751,7 +1736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 396,
       "user": "run-liyi"
     },
     {
@@ -1770,34 +1755,19 @@
       "user": "edgenuitybot"
     },
     {
-      "title": "sapientinc/HRM-Text - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-      "url": "https://github.com/sapientinc/HRM-Text",
-      "published_at": "2026-05-18T03:10:52Z",
-      "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+      "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "url": "https://github.com/jianshuo/ccglass",
+      "published_at": "2026-05-22T05:35:11Z",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 706,
-      "user": "sapientinc"
-    },
-    {
-      "title": "lynote-ai/humanize-text - Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "url": "https://github.com/lynote-ai/humanize-text",
-      "published_at": "2026-05-18T10:12:15Z",
-      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285635790?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "lynote-ai"
+      "stars": 242,
+      "user": "jianshuo"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -1811,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 511,
       "user": "Tong89"
     },
     {
@@ -1826,23 +1796,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "0xSero"
     },
     {
-      "title": "evilsocket/audit - An 8-stage vulnerability-discovery agent.",
-      "url": "https://github.com/evilsocket/audit",
-      "published_at": "2026-05-18T20:42:44Z",
-      "description": "An 8-stage vulnerability-discovery agent.",
+      "title": "zhaoyue4810/pianke - GitHub Repository",
+      "url": "https://github.com/zhaoyue4810/pianke",
+      "published_at": "2026-05-22T06:33:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/86922?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 465,
-      "user": "evilsocket"
+      "stars": 302,
+      "user": "zhaoyue4810"
+    },
+    {
+      "title": "orchestration-agent/AgentOrchestration - GitHub Repository",
+      "url": "https://github.com/orchestration-agent/AgentOrchestration",
+      "published_at": "2026-05-19T14:28:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
+      "source": "GitHub",
+      "stars": 267,
+      "user": "orchestration-agent"
+    },
+    {
+      "title": "Jawaz-Keyzor/DarkGPT - Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "url": "https://github.com/Jawaz-Keyzor/DarkGPT",
+      "published_at": "2026-05-21T19:57:34Z",
+      "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178296144?v=4",
+      "source": "GitHub",
+      "stars": 247,
+      "user": "Jawaz-Keyzor"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2135,
+      "stars": 2171,
       "user": "perplexityai"
     },
     {
@@ -1871,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "DEEIX-AI"
     },
     {
@@ -1890,21 +1890,6 @@
       "user": "ninehills"
     },
     {
-      "title": "aaron-kidwell/goLoL - goLoL is a Windows host scanner that finds an always up to date listing of LOLBAS binaries present on the current machine and lists techniques you can run at your current privilege level with MITRE ATT&CK mappings and example commands.",
-      "url": "https://github.com/aaron-kidwell/goLoL",
-      "published_at": "2026-05-18T21:25:07Z",
-      "description": "goLoL is a Windows host scanner that finds an always up to date listing of LOLBAS binaries present on the current machine and lists techniques you can run at your current privilege level with MITRE ATT&CK mappings and example commands.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/82623017?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "aaron-kidwell"
-    },
-    {
       "title": "ivngineer/sword - A feature-rich GUI software store for Linux",
       "url": "https://github.com/ivngineer/sword",
       "published_at": "2026-05-21T12:30:41Z",
@@ -1918,6 +1903,21 @@
       "source": "GitHub",
       "stars": 39,
       "user": "ivngineer"
+    },
+    {
+      "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "url": "https://github.com/neochaotic/leoflow",
+      "published_at": "2026-05-22T03:51:23Z",
+      "description": "GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "neochaotic"
     }
   ]
 }
