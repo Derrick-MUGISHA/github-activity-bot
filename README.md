@@ -34,7 +34,7 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
 **Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.4 (26.4%)
-Go              ██████████████████████████ 23.0 (23.0%)
-Java            ████████████████████████ 20.7 (20.7%)
-Python          ██████████████████████ 19.5 (19.5%)
-Rust            ██████ 5.7 (5.7%)
-Kotlin          ███ 2.3 (2.3%)
+JavaScript      ██████████████████████████████ 25.8 (25.8%)
+Go              ███████████████████████████ 23.6 (23.6%)
+Java            ███████████████████████ 20.2 (20.2%)
+Python          ███████████████████████ 20.2 (20.2%)
+Rust            ███████ 5.6 (5.6%)
+Kotlin          ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -74,9 +74,9 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Go" : 20
+    "Go" : 21
     "Java" : 18
-    "Python" : 17
+    "Python" : 18
     "Rust" : 5
     "Kotlin" : 2
     "Swift" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![webdev](https://img.shields.io/badge/webdev-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-25 15:00 CAT)
+## 📅 Latest Updates (2026-05-25 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,19 +144,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-194f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69qitmpd30p71r3t5gjb.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-2ohc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F340ok4tk65fhynhkxksk.jpg" width="200" alt="What was your win this week!?" />
       <br/>
-      <b>Meme Monday</b>
+      <b>What was your win this week!?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-2ohc">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F340ok4tk65fhynhkxksk.jpg" width="200" alt="What was your win this week!?" />
+    <a href="https://dev.to/ben/meme-monday-194f">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69qitmpd30p71r3t5gjb.png" width="200" alt="Meme Monday" />
       <br/>
-      <b>What was your win this week!?</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 ### 📰 Top Headlines
 
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
 - [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
 - [The subtle impact of AI (& IT) on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55) _[Dev.to]_
 - [How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f) _[Dev.to]_
@@ -209,16 +209,16 @@ npm run test
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
 - [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom) _[Dev.to]_
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
-- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
 - [GizmoGuard - Spy Bot (Powered by Gemma4)](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200) _[Dev.to]_
+- [The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d) _[Dev.to]_
 - [Giving AI agents knowledge they were never trained on](https://dev.to/jgauffin/giving-ai-agents-knowledge-they-were-never-trained-on-5fd7) _[Dev.to]_
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
 - [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
-- [From Years to Hours](https://dev.to/annaspies/from-years-to-hours-joe) _[Dev.to]_
+- [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 
-_Last automated update: Mon, 25 May 2026 15:57:47 CAT_
+_Last automated update: Mon, 25 May 2026 18:23:42 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 25 May 2026 15:57:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement a function to reverse a linked list
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Database: Explain database indexing and when to use it
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+B-tree, trade-offs, query performance
 
 </details>
 
-### 3. Java: What is the difference between abstract class and interface?
+### 3. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 25 May 2026 13:57:47 GMT</b><br/>
+  <b>Last automated update: Mon, 25 May 2026 16:23:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

@@ -131,21 +131,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "From Years to Hours",
-      "url": "https://dev.to/annaspies/from-years-to-hours-joe",
-      "published_at": "2026-05-21T01:37:32Z",
-      "description": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual...",
-      "tags": [
-        "ai",
-        "stripe",
-        "cli",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png",
-      "source": "Dev.to",
-      "user": "Anna"
-    },
-    {
       "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
       "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
       "published_at": "2026-05-22T18:24:09Z",
@@ -340,6 +325,21 @@
       "user": "xbill"
     },
     {
+      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
+      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
+      "published_at": "2026-05-21T15:49:59Z",
+      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
+      "tags": [
+        "agents",
+        "cloud",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -510,7 +510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 561,
       "user": "0xSero"
     },
     {
@@ -525,7 +525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 272,
       "user": "VILA-Lab"
     },
     {
@@ -540,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2464,
       "user": "perplexityai"
     },
     {
@@ -555,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "DEEIX-AI"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 35,
       "user": "neochaotic"
     }
   ],
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2485,
+      "stars": 2513,
       "user": "FoundZiGu"
     },
     {
@@ -825,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 763,
       "user": "open-gsd"
     },
     {
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 484,
       "user": "run-liyi"
     },
     {
@@ -855,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "jianshuo"
     },
     {
@@ -885,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 619,
       "user": "Tong89"
     }
   ],
@@ -919,6 +919,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
       "source": "Dev.to",
       "user": "Andrew Judd"
+    },
+    {
+      "title": "Local MCP Development with Python and Antigravity CLI",
+      "url": "https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg",
+      "published_at": "2026-05-21T15:35:20Z",
+      "description": "This article re-visits and updates an existing deployment originally built with Gemini CLI and...",
+      "tags": [
+        "mcpserver",
+        "python",
+        "antigravitycli",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1azr6l4mgik0e6fhmgv.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1052,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 619,
       "user": "Tong89"
     },
     {
@@ -1067,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 561,
       "user": "0xSero"
     },
     {
@@ -1082,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 385,
       "user": "zhaoyue4810"
     },
     {
@@ -1097,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "orchestration-agent"
     },
     {
@@ -1112,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 272,
       "user": "VILA-Lab"
     }
   ],
@@ -1402,21 +1417,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a Production Company Website on AWS — Project Overview",
-      "url": "https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm",
-      "published_at": "2026-05-21T00:05:06Z",
-      "description": "What We Built   This series documents the end-to-end process of designing, building, and...",
-      "tags": [
-        "aws",
-        "webdev",
-        "tutorial",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffb1mivpyt9lot9ug6pkg.png",
-      "source": "Dev.to",
-      "user": "Josh Blair"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Azure ACI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
       "published_at": "2026-05-15T13:02:34Z",
@@ -1445,6 +1445,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
+      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
+      "published_at": "2026-05-21T15:49:59Z",
+      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
+      "tags": [
+        "agents",
+        "cloud",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     }
   ],
   "Database": [
@@ -1710,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2485,
+      "stars": 2513,
       "user": "FoundZiGu"
     },
     {
@@ -1725,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 763,
       "user": "open-gsd"
     },
     {
@@ -1740,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 484,
       "user": "run-liyi"
     },
     {
@@ -1755,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "jianshuo"
     },
     {
@@ -1785,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 619,
       "user": "Tong89"
     },
     {
@@ -1800,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 561,
       "user": "0xSero"
     },
     {
@@ -1815,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 385,
       "user": "zhaoyue4810"
     },
     {
@@ -1830,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "orchestration-agent"
     },
     {
@@ -1845,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 272,
       "user": "VILA-Lab"
     },
     {
@@ -1860,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2464,
       "user": "perplexityai"
     },
     {
@@ -1875,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "DEEIX-AI"
     },
     {
@@ -1920,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 35,
       "user": "neochaotic"
     }
   ]
