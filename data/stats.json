@@ -1,12 +1,12 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 42,
+    "AI": 43,
     "JavaScript": 23,
     "Python": 16,
     "DevOps": 6,
@@ -15,7 +15,7 @@
     "Cloud": 10,
     "Database": 3,
     "Security": 1,
-    "Tools": 27
+    "Tools": 26
   },
   "by_language": {
     "JavaScript": 23,
@@ -28,21 +28,22 @@
     "Python": 16
   },
   "by_date": {
-    "2026-05-21": 13,
-    "2026-05-22": 16,
-    "2026-05-20": 12,
+    "2026-05-21": 11,
+    "2026-05-22": 18,
+    "2026-05-20": 11,
     "2026-05-14": 4,
     "2026-05-13": 6,
     "2026-05-11": 2,
     "2026-05-10": 1,
-    "2026-05-19": 7,
+    "2026-05-19": 6,
     "2026-05-18": 2,
     "2026-05-15": 4,
-    "2026-05-08": 1,
+    "2026-05-08": 2,
     "2026-05-17": 1,
     "2026-05-06": 2,
-    "2026-05-07": 2,
+    "2026-05-07": 3,
     "2026-05-05": 3,
+    "2026-05-04": 1,
     "2026-03-11": 1,
     "2024-02-27": 1,
     "2024-07-23": 1,
@@ -72,7 +73,7 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 15,
+    "ai": 16,
     "github": 15,
     "open-source": 15,
     "devchallenge": 10,
@@ -81,17 +82,17 @@
     "Python": 10,
     "webdev": 8,
     "javascript": 8,
-    "gemmachallenge": 7,
-    "gemma": 6,
+    "gemmachallenge": 6,
     "go": 6,
     "python": 6,
-    "productivity": 5,
+    "gemma": 5,
     "agents": 5,
+    "discuss": 4,
     "gemini": 4,
+    "programming": 4,
+    "productivity": 4,
     "opensource": 4,
-    "discuss": 3,
-    "programming": 3,
-    "llm": 3
+    "weeklyretro": 3
   },
   "trending_topics": [],
   "language_percentages": {
