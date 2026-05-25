@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-25 21:00 CAT)
+## 📅 Latest Updates (2026-05-25 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 
-_Last automated update: Mon, 25 May 2026 21:58:02 CAT_
+_Last automated update: Mon, 25 May 2026 23:13:19 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Mon, 25 May 2026 21:58:02 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 25 May 2026 19:58:02 GMT</b><br/>
+  <b>Last automated update: Mon, 25 May 2026 21:13:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
