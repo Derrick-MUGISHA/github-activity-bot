@@ -219,21 +219,6 @@
       "user": "Anup Karanjkar"
     },
     {
-      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
-      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
-      "published_at": "2026-05-21T15:49:59Z",
-      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
-      "tags": [
-        "agents",
-        "cloud",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
       "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
       "published_at": "2026-05-10T18:28:13Z",
@@ -247,6 +232,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "AI Agent Failure Modes Beyond Hallucination",
+      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
+      "published_at": "2026-05-22T14:59:09Z",
+      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
+      "tags": [
+        "ai",
+        "agents",
+        "vibecoding",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "Your AI Agent is Stuck in a Loop. Here's the Memory Layer That Breaks It and Saves You Money",
@@ -294,20 +294,6 @@
       "user": "xbill"
     },
     {
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "url": "https://dev.to/sann3/my-6-year-old-asks-400-questions-a-day-so-i-built-him-a-gemma-4-ai-tutor-1e13",
-      "published_at": "2026-05-20T12:26:19Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4   My 6-year-old asks me four...",
-      "tags": [
-        "devchallenge",
-        "gemma",
-        "gemmachallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fejg0x9hawjfjgm71d7wy.png",
-      "source": "Dev.to",
-      "user": "Santhoshkumar. P"
-    },
-    {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
       "published_at": "2026-05-08T06:39:25Z",
@@ -350,6 +336,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -522,23 +538,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 491,
       "user": "0xSero"
     },
     {
-      "title": "Jawaz-Keyzor/DarkGPT - Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
-      "url": "https://github.com/Jawaz-Keyzor/DarkGPT",
-      "published_at": "2026-05-21T19:57:34Z",
-      "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "published_at": "2026-05-22T13:37:03Z",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178296144?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "Jawaz-Keyzor"
+      "stars": 250,
+      "user": "VILA-Lab"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -552,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2171,
+      "stars": 2258,
       "user": "perplexityai"
     },
     {
@@ -567,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "DEEIX-AI"
     },
     {
@@ -822,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2341,
+      "stars": 2397,
       "user": "FoundZiGu"
     },
     {
@@ -837,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 619,
       "user": "open-gsd"
     },
     {
@@ -852,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 424,
       "user": "run-liyi"
     },
     {
@@ -882,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 260,
       "user": "jianshuo"
     },
     {
@@ -897,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 550,
       "user": "Tong89"
     }
   ],
@@ -1049,7 +1065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 550,
       "user": "Tong89"
     },
     {
@@ -1064,7 +1080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 491,
       "user": "0xSero"
     },
     {
@@ -1079,7 +1095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 332,
       "user": "zhaoyue4810"
     },
     {
@@ -1094,23 +1110,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 272,
       "user": "orchestration-agent"
     },
     {
-      "title": "Jawaz-Keyzor/DarkGPT - Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
-      "url": "https://github.com/Jawaz-Keyzor/DarkGPT",
-      "published_at": "2026-05-21T19:57:34Z",
-      "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "published_at": "2026-05-22T13:37:03Z",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178296144?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "Jawaz-Keyzor"
+      "stars": 250,
+      "user": "VILA-Lab"
     }
   ],
   "DevOps": [
@@ -1369,21 +1385,6 @@
       "user": "xbill"
     },
     {
-      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
-      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
-      "published_at": "2026-05-21T15:49:59Z",
-      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
-      "tags": [
-        "agents",
-        "cloud",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
       "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
       "published_at": "2026-05-15T15:00:00Z",
@@ -1455,6 +1456,21 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
     }
@@ -1637,20 +1653,6 @@
       "user": "satyamsoni2211"
     },
     {
-      "title": "Terminal Superpowers You Should Be Using in 2026",
-      "url": "https://dev.to/aws/terminal-superpowers-you-should-be-using-in-2026-38b4",
-      "published_at": "2026-05-19T15:00:00Z",
-      "description": "I live in my terminal. Here's what I use to stay fast.   Fuzzy finder (fzf) Terminal motions Sudo...",
-      "tags": [
-        "productivity",
-        "cli",
-        "zsh"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnoqkufx74avhqpk1cr8i.png",
-      "source": "Dev.to",
-      "user": "Sean Boult"
-    },
-    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -1706,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2341,
+      "stars": 2397,
       "user": "FoundZiGu"
     },
     {
@@ -1721,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 619,
       "user": "open-gsd"
     },
     {
@@ -1736,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 424,
       "user": "run-liyi"
     },
     {
@@ -1766,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 260,
       "user": "jianshuo"
     },
     {
@@ -1781,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 550,
       "user": "Tong89"
     },
     {
@@ -1796,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 491,
       "user": "0xSero"
     },
     {
@@ -1811,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 332,
       "user": "zhaoyue4810"
     },
     {
@@ -1826,23 +1828,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 272,
       "user": "orchestration-agent"
     },
     {
-      "title": "Jawaz-Keyzor/DarkGPT - Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
-      "url": "https://github.com/Jawaz-Keyzor/DarkGPT",
-      "published_at": "2026-05-21T19:57:34Z",
-      "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source.",
+      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "published_at": "2026-05-22T13:37:03Z",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178296144?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "Jawaz-Keyzor"
+      "stars": 250,
+      "user": "VILA-Lab"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -1856,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2171,
+      "stars": 2258,
       "user": "perplexityai"
     },
     {
@@ -1871,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "DEEIX-AI"
     },
     {
@@ -1901,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "ivngineer"
     },
     {
