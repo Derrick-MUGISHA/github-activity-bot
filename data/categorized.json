@@ -28,21 +28,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
-      "published_at": "2026-05-22T18:24:09Z",
-      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
-      "source": "Dev.to",
-      "user": "Regnard Raquedan"
-    },
-    {
       "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
       "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
       "published_at": "2026-05-22T09:29:03Z",
@@ -73,19 +58,6 @@
       "user": "Michellebuchiokonicha"
     },
     {
-      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "url": "https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji",
-      "published_at": "2026-05-20T15:02:06Z",
-      "description": "This is a submission for the Google I/O Writing Challenge  I had barely caught up from my email...",
-      "tags": [
-        "devchallenge",
-        "googleiochallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc52tys36onc0skhr5o4.jpeg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -99,36 +71,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
       "user": "Sacha Greif"
-    },
-    {
-      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
-      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
-      "published_at": "2026-05-20T20:09:10Z",
-      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
-      "tags": [
-        "docker",
-        "go",
-        "containers",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
-      "source": "Dev.to",
-      "user": "Yechiel Kalmenson"
-    },
-    {
-      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
-      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
-      "published_at": "2026-05-22T15:25:26Z",
-      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
-      "tags": [
-        "ai",
-        "llm",
-        "showdev",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
-      "source": "Dev.to",
-      "user": "Alex Obreja"
     },
     {
       "title": "Giving AI agents knowledge they were never trained on",
@@ -202,6 +144,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms835jkp0uic9e70dbcq.png",
       "source": "Dev.to",
       "user": "Anna"
+    },
+    {
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
+      "published_at": "2026-05-22T18:24:09Z",
+      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
+      "source": "Dev.to",
+      "user": "Regnard Raquedan"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -538,7 +495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 512,
       "user": "0xSero"
     },
     {
@@ -553,7 +510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 259,
       "user": "VILA-Lab"
     },
     {
@@ -568,7 +525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2258,
+      "stars": 2346,
       "user": "perplexityai"
     },
     {
@@ -583,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "DEEIX-AI"
     },
     {
@@ -598,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 33,
       "user": "neochaotic"
     }
   ],
@@ -838,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2397,
+      "stars": 2464,
       "user": "FoundZiGu"
     },
     {
@@ -853,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 693,
       "user": "open-gsd"
     },
     {
@@ -868,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 457,
       "user": "run-liyi"
     },
     {
@@ -898,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 271,
       "user": "jianshuo"
     },
     {
@@ -913,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 584,
       "user": "Tong89"
     }
   ],
@@ -932,6 +889,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
       "source": "Dev.to",
       "user": "Andrew Judd"
+    },
+    {
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "published_at": "2026-05-19T21:32:45Z",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "tags": [
+        "security",
+        "github",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
+      "source": "Dev.to",
+      "user": "GnomeMan4201"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1065,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 584,
       "user": "Tong89"
     },
     {
@@ -1080,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 512,
       "user": "0xSero"
     },
     {
@@ -1095,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 353,
       "user": "zhaoyue4810"
     },
     {
@@ -1110,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 278,
       "user": "orchestration-agent"
     },
     {
@@ -1125,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 259,
       "user": "VILA-Lab"
     }
   ],
@@ -1144,21 +1116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
       "source": "Dev.to",
       "user": "Janice"
-    },
-    {
-      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 1)",
-      "url": "https://dev.to/yechielk/shipping-your-machine-building-a-container-in-60-lines-of-code-part-1-14ma",
-      "published_at": "2026-05-20T20:09:10Z",
-      "description": "The \"Works on My Machine\" Problem   We've all been there. You spend days writing a new...",
-      "tags": [
-        "docker",
-        "go",
-        "containers",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3rlbuq6cd7veva0toc5b.jpg",
-      "source": "Dev.to",
-      "user": "Yechiel Kalmenson"
     },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
@@ -1520,6 +1477,21 @@
   ],
   "Security": [
     {
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "published_at": "2026-05-19T21:32:45Z",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "tags": [
+        "security",
+        "github",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
+      "source": "Dev.to",
+      "user": "GnomeMan4201"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1561,21 +1533,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
       "source": "Dev.to",
       "user": "Simon Knott"
-    },
-    {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
-      "published_at": "2026-05-22T18:24:09Z",
-      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
-      "source": "Dev.to",
-      "user": "Regnard Raquedan"
     },
     {
       "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
@@ -1638,6 +1595,21 @@
       "user": "Bimochan Shrestha"
     },
     {
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
+      "published_at": "2026-05-22T18:24:09Z",
+      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
+      "source": "Dev.to",
+      "user": "Regnard Raquedan"
+    },
+    {
       "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
       "published_at": "2026-05-11T07:06:08Z",
@@ -1697,6 +1669,21 @@
       "user": "Ivan Porta"
     },
     {
+      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
+      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
+      "published_at": "2026-05-19T21:32:45Z",
+      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
+      "tags": [
+        "security",
+        "github",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
+      "source": "Dev.to",
+      "user": "GnomeMan4201"
+    },
+    {
       "title": "FoundZiGu/GuJumpgate - GitHub Repository",
       "url": "https://github.com/FoundZiGu/GuJumpgate",
       "published_at": "2026-05-19T11:52:52Z",
@@ -1708,7 +1695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2397,
+      "stars": 2464,
       "user": "FoundZiGu"
     },
     {
@@ -1723,7 +1710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 693,
       "user": "open-gsd"
     },
     {
@@ -1738,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 457,
       "user": "run-liyi"
     },
     {
@@ -1768,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 271,
       "user": "jianshuo"
     },
     {
@@ -1783,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 584,
       "user": "Tong89"
     },
     {
@@ -1798,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 512,
       "user": "0xSero"
     },
     {
@@ -1813,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 353,
       "user": "zhaoyue4810"
     },
     {
@@ -1828,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 278,
       "user": "orchestration-agent"
     },
     {
@@ -1843,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 259,
       "user": "VILA-Lab"
     },
     {
@@ -1858,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2258,
+      "stars": 2346,
       "user": "perplexityai"
     },
     {
@@ -1873,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "DEEIX-AI"
     },
     {
@@ -1903,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 42,
       "user": "ivngineer"
     },
     {
@@ -1918,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 33,
       "user": "neochaotic"
     }
   ]
