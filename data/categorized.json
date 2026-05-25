@@ -295,6 +295,21 @@
       "user": "Aryan Choudhary"
     },
     {
+      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
+      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
+      "published_at": "2026-05-22T15:25:26Z",
+      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
+      "tags": [
+        "ai",
+        "llm",
+        "showdev",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
+      "source": "Dev.to",
+      "user": "Alex Obreja"
+    },
+    {
       "title": "Congrats to the OpenClaw Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
       "published_at": "2026-05-07T21:27:14Z",
@@ -480,7 +495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 271,
       "user": "edgenuitybot"
     },
     {
@@ -495,7 +510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 545,
       "user": "0xSero"
     },
     {
@@ -510,7 +525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "VILA-Lab"
     },
     {
@@ -525,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2346,
+      "stars": 2404,
       "user": "perplexityai"
     },
     {
@@ -540,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 145,
       "user": "DEEIX-AI"
     },
     {
@@ -555,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 34,
       "user": "neochaotic"
     }
   ],
@@ -795,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2464,
+      "stars": 2485,
       "user": "FoundZiGu"
     },
     {
@@ -810,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 734,
       "user": "open-gsd"
     },
     {
@@ -825,23 +840,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "run-liyi"
-    },
-    {
-      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "url": "https://github.com/edgenuitybot/exodusbot",
-      "published_at": "2026-05-19T00:45:04Z",
-      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
-      "source": "GitHub",
-      "stars": 274,
-      "user": "edgenuitybot"
     },
     {
       "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
@@ -855,8 +855,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 278,
       "user": "jianshuo"
+    },
+    {
+      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "url": "https://github.com/edgenuitybot/exodusbot",
+      "published_at": "2026-05-19T00:45:04Z",
+      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "edgenuitybot"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -870,26 +885,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 607,
       "user": "Tong89"
     }
   ],
   "Python": [
-    {
-      "title": "The OCR Rabbit Hole",
-      "url": "https://dev.to/awjudd/the-ocr-rabbit-hole-3h7",
-      "published_at": "2026-05-21T15:44:33Z",
-      "description": "Long weekend. I've got a pile of handwritten documents that need to become structured data. Should be a weekend project. OCR exists, it's been around forever, this is a solved problem. Right?",
-      "tags": [
-        "recipes",
-        "ocr",
-        "learning",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
-      "source": "Dev.to",
-      "user": "Andrew Judd"
-    },
     {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
@@ -904,6 +904,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
+    },
+    {
+      "title": "The OCR Rabbit Hole",
+      "url": "https://dev.to/awjudd/the-ocr-rabbit-hole-3h7",
+      "published_at": "2026-05-21T15:44:33Z",
+      "description": "Long weekend. I've got a pile of handwritten documents that need to become structured data. Should be a weekend project. OCR exists, it's been around forever, this is a solved problem. Right?",
+      "tags": [
+        "recipes",
+        "ocr",
+        "learning",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
+      "source": "Dev.to",
+      "user": "Andrew Judd"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1037,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 607,
       "user": "Tong89"
     },
     {
@@ -1052,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 545,
       "user": "0xSero"
     },
     {
@@ -1067,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 368,
       "user": "zhaoyue4810"
     },
     {
@@ -1082,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "orchestration-agent"
     },
     {
@@ -1097,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "VILA-Lab"
     }
   ],
@@ -1695,7 +1710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 2464,
+      "stars": 2485,
       "user": "FoundZiGu"
     },
     {
@@ -1710,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 734,
       "user": "open-gsd"
     },
     {
@@ -1725,23 +1740,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 474,
       "user": "run-liyi"
-    },
-    {
-      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "url": "https://github.com/edgenuitybot/exodusbot",
-      "published_at": "2026-05-19T00:45:04Z",
-      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
-      "source": "GitHub",
-      "stars": 274,
-      "user": "edgenuitybot"
     },
     {
       "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
@@ -1755,8 +1755,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 278,
       "user": "jianshuo"
+    },
+    {
+      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "url": "https://github.com/edgenuitybot/exodusbot",
+      "published_at": "2026-05-19T00:45:04Z",
+      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "edgenuitybot"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -1770,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 607,
       "user": "Tong89"
     },
     {
@@ -1785,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 545,
       "user": "0xSero"
     },
     {
@@ -1800,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 368,
       "user": "zhaoyue4810"
     },
     {
@@ -1815,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "orchestration-agent"
     },
     {
@@ -1830,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "VILA-Lab"
     },
     {
@@ -1845,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2346,
+      "stars": 2404,
       "user": "perplexityai"
     },
     {
@@ -1860,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 145,
       "user": "DEEIX-AI"
     },
     {
@@ -1890,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 45,
       "user": "ivngineer"
     },
     {
@@ -1905,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16567284?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 34,
       "user": "neochaotic"
     }
   ]
