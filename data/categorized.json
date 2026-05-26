@@ -43,21 +43,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
-    },
-    {
       "title": "Google I/O 2026: From Consumer to Builder",
       "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
       "published_at": "2026-05-20T19:41:08Z",
@@ -71,21 +56,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
       "source": "Dev.to",
       "user": "Michellebuchiokonicha"
-    },
-    {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -510,7 +480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 613,
       "user": "0xSero"
     },
     {
@@ -525,7 +495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 292,
       "user": "VILA-Lab"
     },
     {
@@ -540,7 +510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 260,
       "user": "hanyi0000"
     },
     {
@@ -555,7 +525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2631,
+      "stars": 2680,
       "user": "perplexityai"
     },
     {
@@ -570,26 +540,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 165,
       "user": "DEEIX-AI"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
-      "published_at": "2026-05-22T13:22:27Z",
-      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "tags": [
-        "playwright",
-        "testing",
-        "typescript",
-        "mockttp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
-      "source": "Dev.to",
-      "user": "Simon Knott"
-    },
     {
       "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
       "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9",
@@ -603,21 +558,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9slo04foqjpjqmfmlez.png",
       "source": "Dev.to",
       "user": "Daniel Kalevski"
-    },
-    {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
     },
     {
       "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
@@ -795,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 937,
       "user": "open-gsd"
     },
     {
@@ -810,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 623,
       "user": "run-liyi"
     },
     {
@@ -825,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "jianshuo"
     },
     {
@@ -844,19 +784,19 @@
       "user": "matem6"
     },
     {
-      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
-      "url": "https://github.com/Frank-Masciopinto/no-kings",
-      "published_at": "2026-05-21T14:11:45Z",
-      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "title": "elyelysiox/recaptcha - Documentation and reverse engineering of reCAPTCHA",
+      "url": "https://github.com/elyelysiox/recaptcha",
+      "published_at": "2026-05-22T05:26:53Z",
+      "description": "Documentation and reverse engineering of reCAPTCHA",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108831238?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "Frank-Masciopinto"
+      "stars": 144,
+      "user": "elyelysiox"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -870,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 843,
       "user": "Tong89"
     }
   ],
@@ -1052,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 843,
       "user": "Tong89"
     },
     {
@@ -1067,7 +1007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 613,
       "user": "0xSero"
     },
     {
@@ -1082,7 +1022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 415,
       "user": "zhaoyue4810"
     },
     {
@@ -1097,7 +1037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 292,
       "user": "VILA-Lab"
     },
     {
@@ -1112,26 +1052,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 260,
       "user": "hanyi0000"
     }
   ],
   "DevOps": [
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
-    },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
       "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
@@ -1545,41 +1470,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 260,
       "user": "hanyi0000"
     }
   ],
   "Tools": [
-    {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
-      "published_at": "2026-05-22T13:22:27Z",
-      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "tags": [
-        "playwright",
-        "testing",
-        "typescript",
-        "mockttp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
-      "source": "Dev.to",
-      "user": "Simon Knott"
-    },
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
-    },
     {
       "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
       "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67",
@@ -1740,7 +1635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 937,
       "user": "open-gsd"
     },
     {
@@ -1755,7 +1650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 623,
       "user": "run-liyi"
     },
     {
@@ -1770,7 +1665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "jianshuo"
     },
     {
@@ -1789,19 +1684,19 @@
       "user": "matem6"
     },
     {
-      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
-      "url": "https://github.com/Frank-Masciopinto/no-kings",
-      "published_at": "2026-05-21T14:11:45Z",
-      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "title": "elyelysiox/recaptcha - Documentation and reverse engineering of reCAPTCHA",
+      "url": "https://github.com/elyelysiox/recaptcha",
+      "published_at": "2026-05-22T05:26:53Z",
+      "description": "Documentation and reverse engineering of reCAPTCHA",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108831238?v=4",
       "source": "GitHub",
-      "stars": 145,
-      "user": "Frank-Masciopinto"
+      "stars": 144,
+      "user": "elyelysiox"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -1815,7 +1710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 843,
       "user": "Tong89"
     },
     {
@@ -1830,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 613,
       "user": "0xSero"
     },
     {
@@ -1845,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 415,
       "user": "zhaoyue4810"
     },
     {
@@ -1860,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 292,
       "user": "VILA-Lab"
     },
     {
@@ -1875,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 260,
       "user": "hanyi0000"
     },
     {
@@ -1890,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2631,
+      "stars": 2680,
       "user": "perplexityai"
     },
     {
@@ -1905,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 165,
       "user": "DEEIX-AI"
     },
     {
