@@ -16,6 +16,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
+      "url": "https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl",
+      "published_at": "2026-05-26T06:02:54Z",
+      "description": "Abstract   Integrating autonomous AI agents into enterprise architectures exposes critical...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "The subtle impact of AI (& IT) on jobs",
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
       "published_at": "2026-05-22T16:52:42Z",
@@ -56,6 +71,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
       "source": "Dev.to",
       "user": "Michellebuchiokonicha"
+    },
+    {
+      "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
+      "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0",
+      "published_at": "2026-05-24T10:36:37Z",
+      "description": "Introduction   We had a few big announcements from Google I/O 2026 in the AI space. One was...",
+      "tags": [
+        "agentskills",
+        "antigravitycli",
+        "gemini",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AB802PZpg3VXtrJPX-VP3YA.jpeg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -235,6 +265,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
+    },
+    {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
       "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
       "published_at": "2026-05-06T06:28:42Z",
@@ -248,6 +293,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Google I/O 2026: What Happens When Everything Connects?",
+      "url": "https://dev.to/gdg/google-io-2026-what-happens-when-everything-connects-4gf8",
+      "published_at": "2026-05-23T14:03:06Z",
+      "description": "This is a submission for the Google I/O Writing Challenge  Google I/O 2026 showed us something that...",
+      "tags": [
+        "devchallenge",
+        "googleiochallenge",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9xn2hdo69y4hpvp0sz1i.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
@@ -293,6 +353,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
+      "published_at": "2026-05-22T15:46:31Z",
+      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
+      "tags": [
+        "rust",
+        "aca",
+        "a2aprotocol",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
     },
     {
       "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
@@ -465,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 181,
       "user": "matem6"
     },
     {
@@ -480,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 625,
       "user": "0xSero"
     },
     {
@@ -495,23 +585,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 299,
       "user": "VILA-Lab"
-    },
-    {
-      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
-      "published_at": "2026-05-21T17:04:35Z",
-      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
-      "source": "GitHub",
-      "stars": 260,
-      "user": "hanyi0000"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -525,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2680,
+      "stars": 2990,
       "user": "perplexityai"
     },
     {
@@ -589,6 +664,21 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
+    },
+    {
       "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
       "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
       "published_at": "2026-05-13T07:07:13Z",
@@ -602,6 +692,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
       "source": "Dev.to",
       "user": "Aryan Choudhary"
+    },
+    {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
+      "published_at": "2026-05-22T13:22:27Z",
+      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "tags": [
+        "playwright",
+        "testing",
+        "typescript",
+        "mockttp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
+      "source": "Dev.to",
+      "user": "Simon Knott"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -735,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 1026,
       "user": "open-gsd"
     },
     {
@@ -750,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 706,
       "user": "run-liyi"
     },
     {
@@ -765,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "jianshuo"
     },
     {
@@ -780,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 181,
       "user": "matem6"
     },
     {
@@ -810,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 963,
       "user": "Tong89"
     }
   ],
@@ -829,21 +934,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
-    },
-    {
-      "title": "The OCR Rabbit Hole",
-      "url": "https://dev.to/awjudd/the-ocr-rabbit-hole-3h7",
-      "published_at": "2026-05-21T15:44:33Z",
-      "description": "Long weekend. I've got a pile of handwritten documents that need to become structured data. Should be a weekend project. OCR exists, it's been around forever, this is a solved problem. Right?",
-      "tags": [
-        "recipes",
-        "ocr",
-        "learning",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feyjw5m2bstp3gn0lm50w.png",
-      "source": "Dev.to",
-      "user": "Andrew Judd"
     },
     {
       "title": "Local MCP Development with Python and Antigravity CLI",
@@ -992,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 963,
       "user": "Tong89"
     },
     {
@@ -1007,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 625,
       "user": "0xSero"
     },
     {
@@ -1022,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 431,
       "user": "zhaoyue4810"
     },
     {
@@ -1037,23 +1127,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 299,
       "user": "VILA-Lab"
     },
     {
-      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
-      "published_at": "2026-05-21T17:04:35Z",
-      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "title": "nv-tlabs/PiD - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+      "url": "https://github.com/nv-tlabs/PiD",
+      "published_at": "2026-05-21T00:22:20Z",
+      "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 260,
-      "user": "hanyi0000"
+      "stars": 277,
+      "user": "nv-tlabs"
     }
   ],
   "DevOps": [
@@ -1115,6 +1205,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
     }
   ],
   "WebDev": [
@@ -1342,6 +1447,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google I/O 2026: What Happens When Everything Connects?",
+      "url": "https://dev.to/gdg/google-io-2026-what-happens-when-everything-connects-4gf8",
+      "published_at": "2026-05-23T14:03:06Z",
+      "description": "This is a submission for the Google I/O Writing Challenge  Google I/O 2026 showed us something that...",
+      "tags": [
+        "devchallenge",
+        "googleiochallenge",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9xn2hdo69y4hpvp0sz1i.png",
+      "source": "Dev.to",
+      "user": "Romina Elena Mendez Escobar"
+    },
+    {
       "title": "Deploying a Rust MCP Server to Azure ACI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-aci-15nb",
       "published_at": "2026-05-15T13:02:34Z",
@@ -1368,6 +1488,21 @@
         "googleadk"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
+      "published_at": "2026-05-22T15:46:31Z",
+      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
+      "tags": [
+        "rust",
+        "aca",
+        "a2aprotocol",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1457,21 +1592,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
-      "published_at": "2026-05-21T17:04:35Z",
-      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
-      "source": "GitHub",
-      "stars": 260,
-      "user": "hanyi0000"
     }
   ],
   "Tools": [
@@ -1624,6 +1744,36 @@
       "user": "GnomeMan4201"
     },
     {
+      "title": "Mocking Server Side HTTP in Playwright with mockttp",
+      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
+      "published_at": "2026-05-22T13:22:27Z",
+      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
+      "tags": [
+        "playwright",
+        "testing",
+        "typescript",
+        "mockttp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
+      "source": "Dev.to",
+      "user": "Simon Knott"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
+    },
+    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -1635,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 1026,
       "user": "open-gsd"
     },
     {
@@ -1650,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 706,
       "user": "run-liyi"
     },
     {
@@ -1665,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "jianshuo"
     },
     {
@@ -1680,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 181,
       "user": "matem6"
     },
     {
@@ -1710,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 963,
       "user": "Tong89"
     },
     {
@@ -1725,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 625,
       "user": "0xSero"
     },
     {
@@ -1740,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 431,
       "user": "zhaoyue4810"
     },
     {
@@ -1755,23 +1905,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 299,
       "user": "VILA-Lab"
     },
     {
-      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
-      "published_at": "2026-05-21T17:04:35Z",
-      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "title": "nv-tlabs/PiD - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+      "url": "https://github.com/nv-tlabs/PiD",
+      "published_at": "2026-05-21T00:22:20Z",
+      "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 260,
-      "user": "hanyi0000"
+      "stars": 277,
+      "user": "nv-tlabs"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -1785,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2680,
+      "stars": 2990,
       "user": "perplexityai"
     },
     {
@@ -1845,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63286?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 40,
       "user": "adisbladis"
     }
   ]
