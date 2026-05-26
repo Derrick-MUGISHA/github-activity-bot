@@ -31,18 +31,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
-      "published_at": "2026-05-22T16:52:42Z",
-      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
-      "source": "Dev.to",
-      "user": "Tracy Gilmore"
-    },
-    {
       "title": "The Quiet AI War Inside Your Browser",
       "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
       "published_at": "2026-05-25T22:09:47Z",
@@ -56,6 +44,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
       "source": "Dev.to",
       "user": "Beto Muniz"
+    },
+    {
+      "title": "The subtle impact of AI (& IT) on jobs",
+      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
+      "published_at": "2026-05-22T16:52:42Z",
+      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
+      "source": "Dev.to",
+      "user": "Tracy Gilmore"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -191,21 +191,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
-      "published_at": "2026-05-22T18:24:09Z",
-      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
-      "source": "Dev.to",
-      "user": "Regnard Raquedan"
-    },
-    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
       "published_at": "2026-05-13T06:30:47Z",
@@ -296,21 +281,6 @@
       "user": "xbill"
     },
     {
-      "title": "Speed, caching, and the 40x cost wall",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
-      "published_at": "2026-05-08T06:39:25Z",
-      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
-      "tags": [
-        "ai",
-        "llm",
-        "buildinpublic",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
-      "source": "Dev.to",
-      "user": "Sanket Sahu"
-    },
-    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -324,6 +294,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
       "user": "Sacha Greif"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
     },
     {
       "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
@@ -555,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 181,
       "user": "matem6"
     },
     {
@@ -570,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "0xSero"
     },
     {
@@ -585,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 305,
       "user": "VILA-Lab"
     },
     {
@@ -600,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 3066,
+      "stars": 3114,
       "user": "perplexityai"
     },
     {
@@ -840,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1068,
       "user": "open-gsd"
     },
     {
@@ -855,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 743,
       "user": "run-liyi"
     },
     {
@@ -885,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 181,
       "user": "matem6"
     },
     {
@@ -915,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1038,
       "user": "Tong89"
     }
   ],
@@ -1067,7 +1052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1038,
       "user": "Tong89"
     },
     {
@@ -1082,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "0xSero"
     },
     {
@@ -1112,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 305,
       "user": "VILA-Lab"
     },
     {
@@ -1127,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 295,
       "user": "nv-tlabs"
     }
   ],
@@ -1656,21 +1641,6 @@
       "user": "Bimochan Shrestha"
     },
     {
-      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
-      "url": "https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5",
-      "published_at": "2026-05-22T18:24:09Z",
-      "description": "Like many Google Antigravity users, I was very excited about the Antigravity 2.0 announcement at...",
-      "tags": [
-        "ai",
-        "webdev",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04twswhcdcj09dz21o96.png",
-      "source": "Dev.to",
-      "user": "Regnard Raquedan"
-    },
-    {
       "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
       "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
       "published_at": "2026-05-11T07:06:08Z",
@@ -1742,7 +1712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1068,
       "user": "open-gsd"
     },
     {
@@ -1757,7 +1727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 743,
       "user": "run-liyi"
     },
     {
@@ -1787,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 181,
       "user": "matem6"
     },
     {
@@ -1817,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1038,
       "user": "Tong89"
     },
     {
@@ -1832,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "0xSero"
     },
     {
@@ -1862,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 305,
       "user": "VILA-Lab"
     },
     {
@@ -1877,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 295,
       "user": "nv-tlabs"
     },
     {
@@ -1892,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 3066,
+      "stars": 3114,
       "user": "perplexityai"
     },
     {
