@@ -34,19 +34,19 @@
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦🟦 4 (3.8%)
+
+**Security**: 🟦🟦 4 (3.8%)
 
 **Mobile**: 🟦 3 (2.9%)
 
-**Database**: 🟦 3 (2.9%)
-
-**Security**: 🟦 2 (1.9%)
+**Database**: 🟦 2 (1.9%)
 
 
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.3 (25.3%)
-JavaScript      █████████████████████████████ 24.2 (24.2%)
-Java            ███████████████████████ 19.8 (19.8%)
-Python          ██████████████████████ 18.7 (18.7%)
-Rust            █████████ 7.7 (7.7%)
+Go              ██████████████████████████████ 25.6 (25.6%)
+JavaScript      █████████████████████████████ 24.4 (24.4%)
+Java            █████████████████████████ 21.1 (21.1%)
+Python          █████████████████████ 17.8 (17.8%)
+Rust            ████████ 6.7 (6.7%)
 Kotlin          ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
@@ -75,9 +75,9 @@ PHP             █ 1.1 (1.1%)
 pie title Programming Languages Distribution
     "Go" : 23
     "JavaScript" : 22
-    "Java" : 18
-    "Python" : 17
-    "Rust" : 7
+    "Java" : 19
+    "Python" : 16
+    "Rust" : 6
     "Kotlin" : 2
     "Swift" : 1
     "PHP" : 1
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![go](https://img.shields.io/badge/go-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-26 18:00 CAT)
+## 📅 Latest Updates (2026-05-26 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,6 +144,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png" width="200" alt="Github Copilot helped us cut down 50-75% time in our e-commerce business" />
+      <br/>
+      <b>Github Copilot helped us cut down 50-75% time in o...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png" width="200" alt="Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script" />
       <br/>
@@ -152,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png" width="200" alt="The subtle impact of AI (& IT) on jobs" />
@@ -161,31 +172,20 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png" width="200" alt="How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV" />
+    <a href="https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8163cb46w8n0apvis3tv.png" width="200" alt="In Defense of Manual Memory Management" />
       <br/>
-      <b>How we're using Gemini Embeddings to build a smart...</b>
+      <b>In Defense of Manual Memory Management</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-194f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69qitmpd30p71r3t5gjb.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg" width="200" alt="The Quiet AI War Inside Your Browser" />
       <br/>
-      <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2v8f33llh4f5qyhikq7n.png" width="200" alt="Validating Gemma 4 for Industrial IoT: A Governance Pattern" />
-      <br/>
-      <b>Validating Gemma 4 for Industrial IoT: A Governanc...</b>
+      <b>The Quiet AI War Inside Your Browser</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,9 +198,14 @@ npm run test
 ### 📰 Top Headlines
 
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
+- [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
 - [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl) _[Dev.to]_
 - [The subtle impact of AI (& IT) on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55) _[Dev.to]_
+- [In Defense of Manual Memory Management](https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo) _[Dev.to]_
+- [The Quiet AI War Inside Your Browser](https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd) _[Dev.to]_
 - [How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f) _[Dev.to]_
+- [A practitioner's guide to getting more value out of AI coding: agent quality & token optimization](https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j) _[Dev.to]_
+- [AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers](https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
 - [Validating Gemma 4 for Industrial IoT: A Governance Pattern](https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k) _[Dev.to]_
 - [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9) _[Dev.to]_
@@ -210,15 +215,10 @@ npm run test
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Configuring MCP Servers and Skills for Antigravity CLI and IDE](https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
-- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
-- [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
-- [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
-- [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
-- [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
-- [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph) _[Dev.to]_
-- [Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide](https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5) _[Dev.to]_
+- [OIC: From a Working Toast Watcher to a General "Watch It for Me" Agent](https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm) _[Dev.to]_
+- [AI Agents in CI/CD: Give Them Context, Not Production Authority](https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2) _[Dev.to]_
 
-_Last automated update: Tue, 26 May 2026 18:08:44 CAT_
+_Last automated update: Tue, 26 May 2026 20:36:33 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 26 May 2026 18:08:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: Design a URL shortening service like bit.ly
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. React: Implement a custom hook for fetching data
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Medium | **Topics**: hooks, async
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-useState, useEffect, loading states, error handling
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Database: Design a database schema for a social media platform
+### 3. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Hard | **Topics**: design, scalability
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Users, posts, relationships, indexes, partitioning
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 26 May 2026 16:08:44 GMT</b><br/>
+  <b>Last automated update: Tue, 26 May 2026 18:36:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
