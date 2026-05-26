@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "The subtle impact of AI (& IT) on jobs",
       "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
       "published_at": "2026-05-22T16:52:42Z",
@@ -484,19 +499,19 @@
       "user": "indigodaddy"
     },
     {
-      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "url": "https://github.com/edgenuitybot/exodusbot",
-      "published_at": "2026-05-19T00:45:04Z",
-      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+      "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
+      "published_at": "2026-05-21T13:19:07Z",
+      "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "edgenuitybot"
+      "stars": 171,
+      "user": "matem6"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -510,7 +525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "0xSero"
     },
     {
@@ -525,8 +540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "VILA-Lab"
+    },
+    {
+      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+      "published_at": "2026-05-21T17:04:35Z",
+      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "hanyi0000"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -540,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2571,
+      "stars": 2584,
       "user": "perplexityai"
     },
     {
@@ -555,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 152,
       "user": "DEEIX-AI"
     }
   ],
@@ -784,21 +814,6 @@
       "user": "velmu"
     },
     {
-      "title": "FoundZiGu/GuJumpgate - GitHub Repository",
-      "url": "https://github.com/FoundZiGu/GuJumpgate",
-      "published_at": "2026-05-19T11:52:52Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
-      "source": "GitHub",
-      "stars": 2529,
-      "user": "FoundZiGu"
-    },
-    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -810,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 856,
       "user": "open-gsd"
     },
     {
@@ -825,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 536,
       "user": "run-liyi"
     },
     {
@@ -840,23 +855,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 286,
       "user": "jianshuo"
     },
     {
-      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "url": "https://github.com/edgenuitybot/exodusbot",
-      "published_at": "2026-05-19T00:45:04Z",
-      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+      "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
+      "published_at": "2026-05-21T13:19:07Z",
+      "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "edgenuitybot"
+      "stars": 171,
+      "user": "matem6"
+    },
+    {
+      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "url": "https://github.com/Frank-Masciopinto/no-kings",
+      "published_at": "2026-05-21T14:11:45Z",
+      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "Frank-Masciopinto"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -870,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "Tong89"
     }
   ],
@@ -1052,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "Tong89"
     },
     {
@@ -1067,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "0xSero"
     },
     {
@@ -1082,23 +1112,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "zhaoyue4810"
-    },
-    {
-      "title": "orchestration-agent/AgentOrchestration - GitHub Repository",
-      "url": "https://github.com/orchestration-agent/AgentOrchestration",
-      "published_at": "2026-05-19T14:28:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "orchestration-agent"
     },
     {
       "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
@@ -1112,8 +1127,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "VILA-Lab"
+    },
+    {
+      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+      "published_at": "2026-05-21T17:04:35Z",
+      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "hanyi0000"
     }
   ],
   "DevOps": [
@@ -1208,21 +1238,6 @@
       "user": "John Facey"
     },
     {
-      "title": "Accessibility - This looks like a job for a developer advocate!",
-      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12",
-      "published_at": "2026-05-21T12:56:55Z",
-      "description": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
-      "tags": [
-        "a11y",
-        "devrel",
-        "codenewbie",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png",
-      "source": "Dev.to",
-      "user": "Andy Haskell"
-    },
-    {
       "title": "CSS - The single coolest API technique you can imagine.",
       "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
       "published_at": "2026-05-07T23:15:51Z",
@@ -1297,6 +1312,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
@@ -1517,6 +1547,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+      "published_at": "2026-05-21T17:04:35Z",
+      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "hanyi0000"
     }
   ],
   "Tools": [
@@ -1699,21 +1744,6 @@
       "user": "GnomeMan4201"
     },
     {
-      "title": "FoundZiGu/GuJumpgate - GitHub Repository",
-      "url": "https://github.com/FoundZiGu/GuJumpgate",
-      "published_at": "2026-05-19T11:52:52Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
-      "source": "GitHub",
-      "stars": 2529,
-      "user": "FoundZiGu"
-    },
-    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -1725,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 856,
       "user": "open-gsd"
     },
     {
@@ -1740,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 536,
       "user": "run-liyi"
     },
     {
@@ -1755,23 +1785,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 286,
       "user": "jianshuo"
     },
     {
-      "title": "edgenuitybot/exodusbot - Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-      "url": "https://github.com/edgenuitybot/exodusbot",
-      "published_at": "2026-05-19T00:45:04Z",
-      "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+      "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+      "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
+      "published_at": "2026-05-21T13:19:07Z",
+      "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285849160?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "edgenuitybot"
+      "stars": 171,
+      "user": "matem6"
+    },
+    {
+      "title": "Frank-Masciopinto/no-kings - No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "url": "https://github.com/Frank-Masciopinto/no-kings",
+      "published_at": "2026-05-21T14:11:45Z",
+      "description": "No Kings — see who owns the site you're browsing  BlackRock, Vanguard, and State Street show up on almost every major company's shareholder list. No Kings maps the website in your active tab to its parent company and shows how much the \"Big Three\" index-fund giants hold — plus who actually has voting control when it isn't them. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/78543213?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "Frank-Masciopinto"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -1785,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 697,
       "user": "Tong89"
     },
     {
@@ -1800,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "0xSero"
     },
     {
@@ -1815,23 +1860,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "zhaoyue4810"
-    },
-    {
-      "title": "orchestration-agent/AgentOrchestration - GitHub Repository",
-      "url": "https://github.com/orchestration-agent/AgentOrchestration",
-      "published_at": "2026-05-19T14:28:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286040747?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "orchestration-agent"
     },
     {
       "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
@@ -1845,8 +1875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 281,
       "user": "VILA-Lab"
+    },
+    {
+      "title": "hanyi0000/chatgpt-plus-automation-toolkit - 自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+      "published_at": "2026-05-21T17:04:35Z",
+      "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169607393?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "hanyi0000"
     },
     {
       "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
@@ -1860,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2571,
+      "stars": 2584,
       "user": "perplexityai"
     },
     {
@@ -1875,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 152,
       "user": "DEEIX-AI"
     },
     {
@@ -1920,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63286?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "adisbladis"
     }
   ]
