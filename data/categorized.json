@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
+    },
+    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -555,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "0xSero"
     },
     {
@@ -570,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "VILA-Lab"
     },
     {
@@ -585,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 3114,
+      "stars": 3144,
       "user": "perplexityai"
     },
     {
@@ -605,6 +620,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
+    },
     {
       "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
       "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9",
@@ -633,20 +663,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
-    },
-    {
-      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
-      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
-      "published_at": "2026-05-20T05:44:43Z",
-      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
-      "source": "Dev.to",
-      "user": "John Facey"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -825,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1080,
       "user": "open-gsd"
     },
     {
@@ -840,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 763,
       "user": "run-liyi"
     },
     {
@@ -900,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1062,
       "user": "Tong89"
     }
   ],
@@ -1052,7 +1068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1062,
       "user": "Tong89"
     },
     {
@@ -1067,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "0xSero"
     },
     {
@@ -1082,7 +1098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "zhaoyue4810"
     },
     {
@@ -1097,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "VILA-Lab"
     },
     {
@@ -1112,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "nv-tlabs"
     }
   ],
@@ -1193,20 +1209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
       "source": "Dev.to",
       "user": "Beto Muniz"
-    },
-    {
-      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
-      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
-      "published_at": "2026-05-20T05:44:43Z",
-      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
-      "source": "Dev.to",
-      "user": "John Facey"
     },
     {
       "title": "Accessibility - This looks like a job for a developer advocate!",
@@ -1712,7 +1714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1080,
       "user": "open-gsd"
     },
     {
@@ -1727,7 +1729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 763,
       "user": "run-liyi"
     },
     {
@@ -1787,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1062,
       "user": "Tong89"
     },
     {
@@ -1802,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 634,
       "user": "0xSero"
     },
     {
@@ -1817,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "zhaoyue4810"
     },
     {
@@ -1832,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "VILA-Lab"
     },
     {
@@ -1847,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "nv-tlabs"
     },
     {
@@ -1862,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 3114,
+      "stars": 3144,
       "user": "perplexityai"
     },
     {

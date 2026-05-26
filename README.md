@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
@@ -38,9 +38,9 @@
 
 **Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
-**WebDev**: 🟦🟦 5 (4.8%)
-
 **DevOps**: 🟦🟦 4 (3.8%)
+
+**WebDev**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦🟦 4 (3.8%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 24.7 (24.7%)
-JavaScript      ██████████████████████████████ 24.7 (24.7%)
-Java            ██████████████████████████ 21.3 (21.3%)
-Python          ██████████████████████ 18.0 (18.0%)
+Go              ██████████████████████████████ 25.6 (25.6%)
+JavaScript      █████████████████████████████ 24.4 (24.4%)
+Java            █████████████████████████ 21.1 (21.1%)
+Python          █████████████████████ 17.8 (17.8%)
 Rust            ████████ 6.7 (6.7%)
 Kotlin          ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
@@ -73,7 +73,7 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 22
+    "Go" : 23
     "JavaScript" : 22
     "Java" : 19
     "Python" : 16
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-26 22:00 CAT)
+## 📅 Latest Updates (2026-05-27 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,6 +144,15 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png" width="200" alt="An LLM API call, in 4 GIFs" />
+      <br/>
+      <b>An LLM API call, in 4 GIFs</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png" width="200" alt="Why does AI forget what you said (and how to fix it)" />
       <br/>
@@ -152,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png" width="200" alt="Github Copilot helped us cut down 50-75% time in our e-commerce business" />
@@ -161,8 +172,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png" width="200" alt="Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script" />
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png" width="200" alt="The subtle impact of AI (& IT) on jobs" />
-      <br/>
-      <b>The subtle impact of AI (& IT) on jobs</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -198,6 +198,7 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
+- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
 - [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
 - [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl) _[Dev.to]_
@@ -207,7 +208,6 @@ npm run test
 - [How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f) _[Dev.to]_
 - [A practitioner's guide to getting more value out of AI coding: agent quality & token optimization](https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j) _[Dev.to]_
 - [AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers](https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
 - [Validating Gemma 4 for Industrial IoT: A Governance Pattern](https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k) _[Dev.to]_
 - [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9) _[Dev.to]_
 - [Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics](https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67) _[Dev.to]_
@@ -216,9 +216,9 @@ npm run test
 - [jnigen and swiftgen in 2026 - some lessons learned](https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni) _[Dev.to]_
 - [Configuring MCP Servers and Skills for Antigravity CLI and IDE](https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
-- [OIC: From a Working Toast Watcher to a General "Watch It for Me" Agent](https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm) _[Dev.to]_
+- [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
 
-_Last automated update: Tue, 26 May 2026 22:36:13 CAT_
+_Last automated update: Wed, 27 May 2026 00:11:33 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Tue, 26 May 2026 22:36:13 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. SystemDesign: Design Twitter's timeline feature
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: system design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Fan-out, caching, ranking, real-time updates
 
 </details>
 
-### 2. Java: What is the difference between abstract class and interface?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. JavaScript: Explain event delegation and why it's useful
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 26 May 2026 20:36:13 GMT</b><br/>
+  <b>Last automated update: Tue, 26 May 2026 22:11:33 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
