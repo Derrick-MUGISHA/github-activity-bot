@@ -43,6 +43,21 @@
       "user": "Tracy Gilmore"
     },
     {
+      "title": "The Quiet AI War Inside Your Browser",
+      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
+      "published_at": "2026-05-25T22:09:47Z",
+      "description": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
+      "tags": [
+        "ai",
+        "frontend",
+        "browser",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
+      "source": "Dev.to",
+      "user": "Beto Muniz"
+    },
+    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
       "published_at": "2026-05-22T16:27:19Z",
@@ -56,6 +71,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
+      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
+      "published_at": "2026-05-25T20:15:13Z",
+      "description": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and token cost optimization.",
+      "tags": [
+        "agents",
+        "ai",
+        "github",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
+      "source": "Dev.to",
+      "user": "Maxim Salnikov"
+    },
+    {
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
+      "published_at": "2026-05-25T18:22:35Z",
+      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
+      "source": "Dev.to",
+      "user": "Jesse Williams"
     },
     {
       "title": "Google I/O 2026: From Consumer to Builder",
@@ -86,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AB802PZpg3VXtrJPX-VP3YA.jpeg",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -176,21 +236,6 @@
       "user": "Muhammad Ahsan Ayaz"
     },
     {
-      "title": "AI Agent Failure Modes Beyond Hallucination",
-      "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g",
-      "published_at": "2026-05-22T14:59:09Z",
-      "description": "AI can make mistakes, models hallucinate, models make stuff up - those are well-known complaints. Yet...",
-      "tags": [
-        "ai",
-        "agents",
-        "vibecoding",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnykweww93e36ax9wybdk.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Your AI Agent is Stuck in a Loop. Here's the Memory Layer That Breaks It and Saves You Money",
       "url": "https://dev.to/kike/your-ai-agent-is-stuck-in-a-loop-heres-the-memory-layer-that-breaks-it-and-saves-you-money-5fni",
       "published_at": "2026-05-19T13:20:53Z",
@@ -219,6 +264,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
       "source": "Dev.to",
       "user": "Esteban Hernández"
+    },
+    {
+      "title": "Build It, Then Use It: How I wrote 435 AI engineering lessons from scratch",
+      "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
+      "published_at": "2026-05-24T13:50:05Z",
+      "description": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "agents",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisapfk112x773j6r8j07.jpeg",
+      "source": "Dev.to",
+      "user": "Rohit Ghumare"
     },
     {
       "title": "Deploying a Rust A2A Agent to Google Cloud Run",
@@ -251,20 +311,6 @@
       "user": "Sanket Sahu"
     },
     {
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
-      "published_at": "2026-05-06T22:44:16Z",
-      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -278,6 +324,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
       "user": "Sacha Greif"
+    },
+    {
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "I Didn’t Stop Building. I Just Left My Laptop.",
@@ -310,94 +370,34 @@
       "user": "Romina Elena Mendez Escobar"
     },
     {
-      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
-      "url": "https://dev.to/osirissgfx/i-built-a-version-manager-for-llamacpp-using-nothing-but-vibe-coding-475e",
-      "published_at": "2026-05-22T15:25:26Z",
-      "description": "Hey everyone,  I wanted to share a little side project I cooked up over the last week. So, long story...",
-      "tags": [
-        "ai",
-        "llm",
-        "showdev",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4frk9bemvigujfrohcvr.png",
-      "source": "Dev.to",
-      "user": "Alex Obreja"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "title": "WebMCP Is the Quiet Google I/O Announcement That Could Make Web Apps Agent-Ready",
+      "url": "https://dev.to/nkalra0123/webmcp-is-the-quiet-google-io-announcement-that-could-make-web-apps-agent-ready-1p9l",
+      "published_at": "2026-05-24T11:54:22Z",
+      "description": "This is a submission for the Google I/O Writing Challenge    At Google I/O 2026, the loud...",
       "tags": [
         "devchallenge",
-        "openclawchallenge",
-        "openclaw",
+        "googleiochallenge",
+        "webdev",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qqsw2zajxqsz26qk0w8.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Nitin Kalra"
     },
     {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "title": "SimGemma: Democratizing STEM Education with Offline-First AI Simulations",
+      "url": "https://dev.to/damodharanj/simgemma-democratizing-stem-education-with-offline-first-ai-simulations-4409",
+      "published_at": "2026-05-24T05:18:38Z",
+      "description": "Introduction   Imagine a classroom in a remote village. There’s a blackboard, a few...",
       "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
-      "published_at": "2026-05-22T15:46:31Z",
-      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
-      "tags": [
-        "rust",
-        "aca",
-        "a2aprotocol",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
-    },
-    {
-      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
-      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
-      "published_at": "2026-05-21T15:49:59Z",
-      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
-      "tags": [
-        "agents",
-        "cloud",
-        "googlecloud",
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fte2wg2u2qg7jtah1to7l.png",
       "source": "Dev.to",
-      "user": "Shir Meir Lador"
+      "user": "Damodharan J"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -555,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "matem6"
     },
     {
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "0xSero"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "VILA-Lab"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2990,
+      "stars": 3066,
       "user": "perplexityai"
     },
     {
@@ -633,6 +633,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9slo04foqjpjqmfmlez.png",
       "source": "Dev.to",
       "user": "Daniel Kalevski"
+    },
+    {
+      "title": "I Turned npm outdated into a CI Gate — Here's How",
+      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
+      "published_at": "2026-05-24T17:20:15Z",
+      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
+      "tags": [
+        "javascript",
+        "node",
+        "ci",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
+      "source": "Dev.to",
+      "user": "Sulthon Zainul Habib"
     },
     {
       "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
@@ -679,34 +694,19 @@
       "user": "Sacha Greif"
     },
     {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-      "published_at": "2026-05-13T07:07:13Z",
-      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "title": "How to organise a complex React project",
+      "url": "https://dev.to/ramonpoli/how-to-organise-a-complex-react-project-2fn0",
+      "published_at": "2026-05-24T11:21:40Z",
+      "description": "When it comes to starting a new project that you know is going to be big, a sound file structure is a...",
       "tags": [
-        "webdev",
-        "nextjs",
-        "sideprojects",
-        "react"
+        "programming",
+        "react",
+        "frontend",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuhqph3edh7io54eabmx.png",
       "source": "Dev.to",
-      "user": "Aryan Choudhary"
-    },
-    {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
-      "published_at": "2026-05-22T13:22:27Z",
-      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "tags": [
-        "playwright",
-        "testing",
-        "typescript",
-        "mockttp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
-      "source": "Dev.to",
-      "user": "Simon Knott"
+      "user": "Ramon Polidura"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1054,
       "user": "open-gsd"
     },
     {
@@ -855,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 729,
       "user": "run-liyi"
     },
     {
@@ -885,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "matem6"
     },
     {
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108831238?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 147,
       "user": "elyelysiox"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1009,
       "user": "Tong89"
     }
   ],
@@ -934,21 +934,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
       "source": "Dev.to",
       "user": "GnomeMan4201"
-    },
-    {
-      "title": "Local MCP Development with Python and Antigravity CLI",
-      "url": "https://dev.to/gde/local-mcp-development-with-python-and-antigravity-cli-3ojg",
-      "published_at": "2026-05-21T15:35:20Z",
-      "description": "This article re-visits and updates an existing deployment originally built with Gemini CLI and...",
-      "tags": [
-        "mcpserver",
-        "python",
-        "antigravitycli",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn1azr6l4mgik0e6fhmgv.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1082,7 +1067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1009,
       "user": "Tong89"
     },
     {
@@ -1097,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "0xSero"
     },
     {
@@ -1112,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "zhaoyue4810"
     },
     {
@@ -1127,7 +1112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "VILA-Lab"
     },
     {
@@ -1142,11 +1127,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 289,
       "user": "nv-tlabs"
     }
   ],
   "DevOps": [
+    {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
+    },
     {
       "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
       "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
@@ -1191,38 +1191,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
       "source": "Dev.to",
       "user": "Kahiro Okina"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
     }
   ],
   "WebDev": [
+    {
+      "title": "The Quiet AI War Inside Your Browser",
+      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
+      "published_at": "2026-05-25T22:09:47Z",
+      "description": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
+      "tags": [
+        "ai",
+        "frontend",
+        "browser",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
+      "source": "Dev.to",
+      "user": "Beto Muniz"
+    },
     {
       "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
       "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
@@ -1253,18 +1239,19 @@
       "user": "Andy Haskell"
     },
     {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
-      "published_at": "2026-05-07T23:15:51Z",
-      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
+      "title": "How to organise a complex React project",
+      "url": "https://dev.to/ramonpoli/how-to-organise-a-complex-react-project-2fn0",
+      "published_at": "2026-05-24T11:21:40Z",
+      "description": "When it comes to starting a new project that you know is going to be big, a sound file structure is a...",
       "tags": [
-        "css",
-        "api",
-        "webdev"
+        "programming",
+        "react",
+        "frontend",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuhqph3edh7io54eabmx.png",
       "source": "Dev.to",
-      "user": "Jane Ori"
+      "user": "Ramon Polidura"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1475,51 +1462,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
-      "published_at": "2026-05-22T15:46:31Z",
-      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
-      "tags": [
-        "rust",
-        "aca",
-        "a2aprotocol",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "From Code to Cloud: 3 Labs for Deploying Your AI Agent",
-      "url": "https://dev.to/googleai/from-code-to-cloud-3-labs-for-deploying-your-ai-agent-4dcn",
-      "published_at": "2026-05-21T15:49:59Z",
-      "description": "You've built a powerful AI agent. It works on your local machine, it's intelligent, and it's ready to...",
-      "tags": [
-        "agents",
-        "cloud",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjr46gnw83pw0gh1nigm.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     }
   ],
   "Database": [
@@ -1539,20 +1481,6 @@
       "user": "Bimochan Shrestha"
     },
     {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1566,6 +1494,36 @@
     }
   ],
   "Security": [
+    {
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
+      "published_at": "2026-05-25T18:22:35Z",
+      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
+      "source": "Dev.to",
+      "user": "Jesse Williams"
+    },
+    {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
+    },
     {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
@@ -1596,6 +1554,34 @@
   ],
   "Tools": [
     {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
+      "published_at": "2026-05-26T08:08:46Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
+      "source": "Dev.to",
+      "user": "Marcus Ang"
+    },
+    {
+      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
+      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
+      "published_at": "2026-05-25T20:15:13Z",
+      "description": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and token cost optimization.",
+      "tags": [
+        "agents",
+        "ai",
+        "github",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
+      "source": "Dev.to",
+      "user": "Maxim Salnikov"
+    },
+    {
       "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
       "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67",
       "published_at": "2026-05-20T00:00:00Z",
@@ -1623,6 +1609,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "I Turned npm outdated into a CI Gate — Here's How",
+      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
+      "published_at": "2026-05-24T17:20:15Z",
+      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
+      "tags": [
+        "javascript",
+        "node",
+        "ci",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
+      "source": "Dev.to",
+      "user": "Sulthon Zainul Habib"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -1715,20 +1716,6 @@
       "user": "S M Tahosin"
     },
     {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
       "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
       "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
       "published_at": "2026-05-19T21:32:45Z",
@@ -1744,36 +1731,6 @@
       "user": "GnomeMan4201"
     },
     {
-      "title": "Mocking Server Side HTTP in Playwright with mockttp",
-      "url": "https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo",
-      "published_at": "2026-05-22T13:22:27Z",
-      "description": "Mock outgoing HTTP from your server in Playwright tests by running a per-worker mockttp forward proxy.",
-      "tags": [
-        "playwright",
-        "testing",
-        "typescript",
-        "mockttp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png",
-      "source": "Dev.to",
-      "user": "Simon Knott"
-    },
-    {
-      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
-      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
-      "published_at": "2026-05-22T09:29:03Z",
-      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
-      "tags": [
-        "gitlab",
-        "cicd",
-        "docker",
-        "container"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
-      "source": "Dev.to",
-      "user": "Janice"
-    },
-    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -1785,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1054,
       "user": "open-gsd"
     },
     {
@@ -1800,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 729,
       "user": "run-liyi"
     },
     {
@@ -1830,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "matem6"
     },
     {
@@ -1845,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108831238?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 147,
       "user": "elyelysiox"
     },
     {
@@ -1860,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1009,
       "user": "Tong89"
     },
     {
@@ -1875,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "0xSero"
     },
     {
@@ -1890,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 435,
       "user": "zhaoyue4810"
     },
     {
@@ -1905,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "VILA-Lab"
     },
     {
@@ -1920,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 289,
       "user": "nv-tlabs"
     },
     {
@@ -1935,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 2990,
+      "stars": 3066,
       "user": "perplexityai"
     },
     {
@@ -1995,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63286?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 42,
       "user": "adisbladis"
     }
   ]
