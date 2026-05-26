@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-25-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-26-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 40 (38.1%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
 
-**DevOps**: 🟦🟦🟦 5 (4.8%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
+**WebDev**: 🟦 3 (2.9%)
 
-**Mobile**: 🟦🟦 3 (2.9%)
+**Mobile**: 🟦 3 (2.9%)
 
-**Database**: 🟦🟦 3 (2.9%)
+**Database**: 🟦 3 (2.9%)
 
-**Security**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (2.9%)
 
 
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8 (25.8%)
-Go              ███████████████████████████ 23.6 (23.6%)
-Java            ███████████████████████ 20.2 (20.2%)
-Python          ███████████████████████ 20.2 (20.2%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Go              █████████████████████████████ 24.4 (24.4%)
+Java            ███████████████████████ 20.0 (20.0%)
+Python          ███████████████████████ 20.0 (20.0%)
 Rust            ███████ 5.6 (5.6%)
 Kotlin          ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
@@ -74,7 +74,7 @@ PHP             █ 1.1 (1.1%)
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 23
-    "Go" : 21
+    "Go" : 22
     "Java" : 18
     "Python" : 18
     "Rust" : 5
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![python](https://img.shields.io/badge/python-8-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![gemma](https://img.shields.io/badge/gemma-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,13 +127,22 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-26 1:00 CAT)
+## 📅 Latest Updates (2026-05-26 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png" width="200" alt="Why does AI forget what you said (and how to fix it)" />
+      <br/>
+      <b>Why does AI forget what you said (and how to fix i...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-2ohc">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F340ok4tk65fhynhkxksk.jpg" width="200" alt="What was your win this week!?" />
@@ -152,6 +161,8 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw4h1bwk8alljrwgjyzou.png" width="200" alt="Mocking Server Side HTTP in Playwright with mockttp" />
@@ -161,8 +172,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png" width="200" alt="The subtle impact of AI (& IT) on jobs" />
@@ -181,15 +190,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2v8f33llh4f5qyhikq7n.png" width="200" alt="Validating Gemma 4 for Industrial IoT: A Governance Pattern" />
-      <br/>
-      <b>Validating Gemma 4 for Industrial IoT: A Governanc...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -197,6 +197,7 @@ npm run test
 
 ### 📰 Top Headlines
 
+- [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
 - [Mocking Server Side HTTP in Playwright with mockttp](https://dev.to/playwright/mocking-server-side-http-in-playwright-with-mockttp-58jo) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
 - [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 - [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea) _[Dev.to]_
-- [Deploying a Rust MCP Server to Amazon EKS](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g) _[Dev.to]_
 
-_Last automated update: Tue, 26 May 2026 01:37:31 CAT_
+_Last automated update: Tue, 26 May 2026 03:29:19 CAT_
 
 
 
@@ -226,29 +226,7 @@ _Last automated update: Tue, 26 May 2026 01:37:31 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: What is the difference between list and tuple in Python?
-
-**Difficulty**: Easy | **Topics**: data structures, mutability
-
-<details>
-<summary>💡 Hint</summary>
-
-Mutability, performance, use cases
-
-</details>
-
-### 2. Database: What is database normalization and denormalization?
-
-**Difficulty**: Medium | **Topics**: design, optimization
-
-<details>
-<summary>💡 Hint</summary>
-
-Normal forms, redundancy, performance trade-offs
-
-</details>
-
-### 3. SystemDesign: Design Twitter's timeline feature
+### 1. SystemDesign: Design Twitter's timeline feature
 
 **Difficulty**: Hard | **Topics**: system design, scalability
 
@@ -256,6 +234,28 @@ Normal forms, redundancy, performance trade-offs
 <summary>💡 Hint</summary>
 
 Fan-out, caching, ranking, real-time updates
+
+</details>
+
+### 2. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
+
+</details>
+
+### 3. Java: What are Java Streams and how do they work?
+
+**Difficulty**: Medium | **Topics**: functional programming, collections
+
+<details>
+<summary>💡 Hint</summary>
+
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 25 May 2026 23:37:31 GMT</b><br/>
+  <b>Last automated update: Tue, 26 May 2026 01:29:19 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
