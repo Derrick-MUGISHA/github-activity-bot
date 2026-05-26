@@ -73,21 +73,6 @@
       "user": "Tracy Gilmore"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
       "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
       "published_at": "2026-05-25T20:15:13Z",
@@ -204,6 +189,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "0xSero"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "VILA-Lab"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 3144,
+      "stars": 3164,
       "user": "perplexityai"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "DEEIX-AI"
     }
   ],
@@ -663,6 +663,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
+    },
+    {
+      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
+      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
+      "published_at": "2026-05-20T05:44:43Z",
+      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
+      "source": "Dev.to",
+      "user": "John Facey"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -841,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1086,
       "user": "open-gsd"
     },
     {
@@ -856,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 776,
       "user": "run-liyi"
     },
     {
@@ -901,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108831238?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "elyelysiox"
     },
     {
@@ -916,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1084,
       "user": "Tong89"
     }
   ],
@@ -1068,7 +1082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1084,
       "user": "Tong89"
     },
     {
@@ -1083,7 +1097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "0xSero"
     },
     {
@@ -1113,7 +1127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "VILA-Lab"
     },
     {
@@ -1209,6 +1223,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
       "source": "Dev.to",
       "user": "Beto Muniz"
+    },
+    {
+      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
+      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
+      "published_at": "2026-05-20T05:44:43Z",
+      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
+      "source": "Dev.to",
+      "user": "John Facey"
     },
     {
       "title": "Accessibility - This looks like a job for a developer advocate!",
@@ -1317,21 +1345,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
       "published_at": "2026-05-14T15:18:37Z",
@@ -1374,6 +1387,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
@@ -1714,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1086,
       "user": "open-gsd"
     },
     {
@@ -1729,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 776,
       "user": "run-liyi"
     },
     {
@@ -1774,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108831238?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "elyelysiox"
     },
     {
@@ -1789,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1084,
       "user": "Tong89"
     },
     {
@@ -1804,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "0xSero"
     },
     {
@@ -1834,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "VILA-Lab"
     },
     {
@@ -1864,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 3144,
+      "stars": 3164,
       "user": "perplexityai"
     },
     {
@@ -1879,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "DEEIX-AI"
     },
     {
