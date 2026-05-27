@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-27 23:00 CAT)
+## 📅 Latest Updates (2026-05-28 1:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a) _[Dev.to]_
 - [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6) _[Dev.to]_
 
-_Last automated update: Wed, 27 May 2026 23:50:17 CAT_
+_Last automated update: Thu, 28 May 2026 01:13:32 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 27 May 2026 23:50:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: Explain the Java memory model
+### 1. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 2. DataStructures: Implement LRU Cache
+### 2. Python: Explain decorators in Python with an example
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: functions, metaprogramming
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Function wrappers, @syntax, practical uses
 
 </details>
 
-### 3. DataStructures: Implement LRU Cache
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 27 May 2026 21:50:17 GMT</b><br/>
+  <b>Last automated update: Wed, 27 May 2026 23:13:32 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

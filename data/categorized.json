@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "bryanyzhu"
     },
     {
@@ -602,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "DEEIX-AI"
     }
   ],
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1326,
       "user": "open-gsd"
     },
     {
@@ -857,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1030,
       "user": "run-liyi"
     },
     {
@@ -872,7 +872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "jianshuo"
     },
     {
@@ -887,7 +887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "SigmaTradeLabs"
     },
     {
@@ -902,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "bryanyzhu"
     },
     {
@@ -917,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1527,
       "user": "Tong89"
     }
   ],
@@ -1084,7 +1084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1527,
       "user": "Tong89"
     },
     {
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 499,
       "user": "zhaoyue4810"
     },
     {
@@ -1129,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "nv-tlabs"
     },
     {
@@ -1593,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "aahl"
     }
   ],
@@ -1703,19 +1703,6 @@
       "user": "xbill"
     },
     {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
-      "published_at": "2026-05-26T08:08:46Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
-      "source": "Dev.to",
-      "user": "Marcus Ang"
-    },
-    {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
       "published_at": "2026-05-21T17:33:15Z",
@@ -1728,6 +1715,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
+      "published_at": "2026-05-26T08:08:46Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
+      "source": "Dev.to",
+      "user": "Marcus Ang"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -1800,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1326,
       "user": "open-gsd"
     },
     {
@@ -1815,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1030,
       "user": "run-liyi"
     },
     {
@@ -1830,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "jianshuo"
     },
     {
@@ -1845,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1860,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "bryanyzhu"
     },
     {
@@ -1875,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1496,
+      "stars": 1527,
       "user": "Tong89"
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 499,
       "user": "zhaoyue4810"
     },
     {
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "nv-tlabs"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "DEEIX-AI"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "aahl"
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "HotRiceNoodles"
     }
   ]
