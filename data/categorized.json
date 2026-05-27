@@ -46,18 +46,6 @@
       "user": "Beto Muniz"
     },
     {
-      "title": "The subtle impact of AI (& IT) on jobs",
-      "url": "https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55",
-      "published_at": "2026-05-22T16:52:42Z",
-      "description": "If you are very fortunate you might find a career that excites you. That has certainly been the case...",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png",
-      "source": "Dev.to",
-      "user": "Tracy Gilmore"
-    },
-    {
       "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
       "url": "https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl",
       "published_at": "2026-05-26T06:02:54Z",
@@ -281,21 +269,6 @@
       "user": "Rohit Ghumare"
     },
     {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -309,6 +282,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
       "user": "Sacha Greif"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
+      "published_at": "2026-05-18T03:02:39Z",
+      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "tags": [
+        "rust",
+        "gemini",
+        "googlecloudrun",
+        "a2aprotocol"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -398,6 +386,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fte2wg2u2qg7jtah1to7l.png",
       "source": "Dev.to",
       "user": "Damodharan J"
+    },
+    {
+      "title": "Your AI assistant is blind to your data. Here's how to fix that.",
+      "url": "https://dev.to/pauloancheta/your-ai-assistant-is-blind-to-your-data-heres-how-to-fix-that-4l5a",
+      "published_at": "2026-05-24T00:59:26Z",
+      "description": "Most MCP setups hand your AI a database URL and hope for the best. activerecord-mcp mounts an MCP server inside your existing Rails app. No new process, no raw SQL, no credentials floating around. Your AI can query your data. Your denied columns stay denied.",
+      "tags": [
+        "rails",
+        "ruby",
+        "ai",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fenauoyoi1ab4mmnj19y6.png",
+      "source": "Dev.to",
+      "user": "Paulo Ancheta"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -544,6 +547,21 @@
       "user": "indigodaddy"
     },
     {
+      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "published_at": "2026-05-23T03:59:52Z",
+      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "bryanyzhu"
+    },
+    {
       "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
       "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
       "published_at": "2026-05-21T13:19:07Z",
@@ -555,23 +573,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 188,
       "user": "matem6"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 150,
-      "user": "neuralCPL"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -585,7 +588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 639,
       "user": "0xSero"
     },
     {
@@ -600,7 +603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 315,
       "user": "VILA-Lab"
     },
     {
@@ -649,20 +652,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire",
-      "url": "https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9",
-      "published_at": "2026-05-22T12:10:25Z",
-      "description": "If you have ever tried to build a multiplayer game, a collaborative editor, or a chat server in...",
-      "tags": [
-        "websocket",
-        "multiplayer",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9slo04foqjpjqmfmlez.png",
-      "source": "Dev.to",
-      "user": "Daniel Kalevski"
     },
     {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
@@ -870,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1144,
       "user": "open-gsd"
     },
     {
@@ -885,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 858,
       "user": "run-liyi"
     },
     {
@@ -900,8 +889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 308,
       "user": "jianshuo"
+    },
+    {
+      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "published_at": "2026-05-23T03:59:52Z",
+      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "bryanyzhu"
     },
     {
       "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
@@ -915,23 +919,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 188,
       "user": "matem6"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 150,
-      "user": "neuralCPL"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -945,7 +934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1225,
       "user": "Tong89"
     }
   ],
@@ -1097,7 +1086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1225,
       "user": "Tong89"
     },
     {
@@ -1112,7 +1101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 639,
       "user": "0xSero"
     },
     {
@@ -1127,23 +1116,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "zhaoyue4810"
-    },
-    {
-      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-      "url": "https://github.com/VILA-Lab/FigMirror",
-      "published_at": "2026-05-22T13:37:03Z",
-      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "VILA-Lab"
     },
     {
       "title": "nv-tlabs/PiD - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
@@ -1157,8 +1131,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 330,
       "user": "nv-tlabs"
+    },
+    {
+      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "published_at": "2026-05-22T13:37:03Z",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
+      "source": "GitHub",
+      "stars": 315,
+      "user": "VILA-Lab"
     }
   ],
   "DevOps": [
@@ -1206,6 +1195,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
+    },
+    {
+      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
+      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
+      "published_at": "2026-05-05T08:01:34Z",
+      "description": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
+      "tags": [
+        "kubernetes",
+        "ocm",
+        "cncf",
+        "multicluster"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
+      "source": "Dev.to",
+      "user": "Kahiro Okina"
+    },
+    {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
     }
   ],
   "WebDev": [
@@ -1237,21 +1255,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
       "source": "Dev.to",
       "user": "John Facey"
-    },
-    {
-      "title": "Accessibility - This looks like a job for a developer advocate!",
-      "url": "https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12",
-      "published_at": "2026-05-21T12:56:55Z",
-      "description": "At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....",
-      "tags": [
-        "a11y",
-        "devrel",
-        "codenewbie",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgy7a28vlqdgp7r6r7s7h.png",
-      "source": "Dev.to",
-      "user": "Andy Haskell"
     },
     {
       "title": "How to organise a complex React project",
@@ -1496,6 +1499,35 @@
       "user": "Bimochan Shrestha"
     },
     {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
+    {
+      "title": "Your AI assistant is blind to your data. Here's how to fix that.",
+      "url": "https://dev.to/pauloancheta/your-ai-assistant-is-blind-to-your-data-heres-how-to-fix-that-4l5a",
+      "published_at": "2026-05-24T00:59:26Z",
+      "description": "Most MCP setups hand your AI a database URL and hope for the best. activerecord-mcp mounts an MCP server inside your existing Rails app. No new process, no raw SQL, no credentials floating around. Your AI can query your data. Your denied columns stay denied.",
+      "tags": [
+        "rails",
+        "ruby",
+        "ai",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fenauoyoi1ab4mmnj19y6.png",
+      "source": "Dev.to",
+      "user": "Paulo Ancheta"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1731,6 +1763,20 @@
       "user": "GnomeMan4201"
     },
     {
+      "title": "What Platform Teams Can Expect From Crossplane v2.2",
+      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
+      "published_at": "2026-05-05T05:21:20Z",
+      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "tags": [
+        "crossplane",
+        "kubernetes",
+        "gitops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "source": "Dev.to",
+      "user": "Ivan Porta"
+    },
+    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -1742,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1144,
       "user": "open-gsd"
     },
     {
@@ -1757,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 858,
       "user": "run-liyi"
     },
     {
@@ -1772,8 +1818,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 308,
       "user": "jianshuo"
+    },
+    {
+      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "published_at": "2026-05-23T03:59:52Z",
+      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "bryanyzhu"
     },
     {
       "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
@@ -1787,23 +1848,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 188,
       "user": "matem6"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 150,
-      "user": "neuralCPL"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -1817,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1225,
       "user": "Tong89"
     },
     {
@@ -1832,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 639,
       "user": "0xSero"
     },
     {
@@ -1847,23 +1893,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 443,
       "user": "zhaoyue4810"
-    },
-    {
-      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-      "url": "https://github.com/VILA-Lab/FigMirror",
-      "published_at": "2026-05-22T13:37:03Z",
-      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "VILA-Lab"
     },
     {
       "title": "nv-tlabs/PiD - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
@@ -1877,8 +1908,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 330,
       "user": "nv-tlabs"
+    },
+    {
+      "title": "VILA-Lab/FigMirror - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "url": "https://github.com/VILA-Lab/FigMirror",
+      "published_at": "2026-05-22T13:37:03Z",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
+      "source": "GitHub",
+      "stars": 315,
+      "user": "VILA-Lab"
     },
     {
       "title": "DEEIX-AI/DEEIX-Chat - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
@@ -1922,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63286?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 43,
       "user": "adisbladis"
     },
     {
