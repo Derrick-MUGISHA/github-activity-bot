@@ -91,21 +91,6 @@
       "user": "Jesse Williams"
     },
     {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "url": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
-      "published_at": "2026-05-20T19:41:08Z",
-      "description": "I often tune in to Google I/O. But this year felt different.  In the past, I watched as a consumer. I...",
-      "tags": [
-        "ai",
-        "buildinpublic",
-        "google",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffr3wg59q5lm4guwzamnz.png",
-      "source": "Dev.to",
-      "user": "Michellebuchiokonicha"
-    },
-    {
       "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
       "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0",
       "published_at": "2026-05-24T10:36:37Z",
@@ -136,6 +121,21 @@
       "user": "Grigor Khachatryan"
     },
     {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
       "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
       "published_at": "2026-05-14T17:16:10Z",
@@ -163,35 +163,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
       "source": "Dev.to",
       "user": "Vinicius Brasil"
-    },
-    {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
-      "published_at": "2026-05-13T22:34:18Z",
-      "description": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "tags": [
-        "cloud",
-        "eventsinyourcity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
@@ -558,7 +529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 253,
       "user": "bryanyzhu"
     },
     {
@@ -573,7 +544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "matem6"
     },
     {
@@ -588,7 +559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 649,
       "user": "0xSero"
     },
     {
@@ -603,7 +574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 319,
       "user": "VILA-Lab"
     },
     {
@@ -667,20 +638,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
-    },
-    {
-      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
-      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
-      "published_at": "2026-05-20T05:44:43Z",
-      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
-      "source": "Dev.to",
-      "user": "John Facey"
     },
     {
       "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
@@ -859,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1208,
       "user": "open-gsd"
     },
     {
@@ -874,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 899,
       "user": "run-liyi"
     },
     {
@@ -889,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "jianshuo"
     },
     {
@@ -904,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 253,
       "user": "bryanyzhu"
     },
     {
@@ -919,7 +876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "matem6"
     },
     {
@@ -934,7 +891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1225,
+      "stars": 1302,
       "user": "Tong89"
     }
   ],
@@ -1086,7 +1043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1225,
+      "stars": 1302,
       "user": "Tong89"
     },
     {
@@ -1101,7 +1058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 649,
       "user": "0xSero"
     },
     {
@@ -1116,7 +1073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 464,
       "user": "zhaoyue4810"
     },
     {
@@ -1131,7 +1088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 346,
       "user": "nv-tlabs"
     },
     {
@@ -1146,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 319,
       "user": "VILA-Lab"
     }
   ],
@@ -1243,20 +1200,6 @@
       "user": "Beto Muniz"
     },
     {
-      "title": "Drow.js: A Practical Look at the Tiny Web Components Library",
-      "url": "https://dev.to/johnfacey/drowjs-a-practical-look-at-the-tiny-web-components-library-3mb9",
-      "published_at": "2026-05-20T05:44:43Z",
-      "description": "Drow.js: A Practical Look at the Tiny Web Components Library   If you've built a Web...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56dp11dmitce76n8f444.png",
-      "source": "Dev.to",
-      "user": "John Facey"
-    },
-    {
       "title": "How to organise a complex React project",
       "url": "https://dev.to/ramonpoli/how-to-organise-a-complex-react-project-2fn0",
       "published_at": "2026-05-24T11:21:40Z",
@@ -1285,21 +1228,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "jnigen and swiftgen in 2026 - some lessons learned",
-      "url": "https://dev.to/orestesgaolin/jnigen-and-swiftgen-in-2026-some-lessons-learned-16ni",
-      "published_at": "2026-05-20T21:09:48Z",
-      "description": "Package jni 1.0.0 was recently published. It's a good opportunity to share some of my lessons from...",
-      "tags": [
-        "flutter",
-        "dart",
-        "jni",
-        "ffi"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felhq7qeb3cztkdc90yxm.png",
-      "source": "Dev.to",
-      "user": "Dominik Roszkowski"
-    },
     {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
       "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
@@ -1348,6 +1276,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
       "published_at": "2026-05-14T15:18:37Z",
@@ -1363,20 +1306,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA",
-      "url": "https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea",
-      "published_at": "2026-05-13T22:34:18Z",
-      "description": "​​Register: https://luma.com/GoogleNVIDIA  Join Google Cloud and NVIDIA in Mountain View, CA for an...",
-      "tags": [
-        "cloud",
-        "eventsinyourcity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxa0ribwkxo1181yoquqb.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Amazon EKS",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
       "published_at": "2026-05-13T13:02:44Z",
@@ -1390,21 +1319,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
@@ -1538,6 +1452,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "aahl/tgnas - TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
+      "url": "https://github.com/aahl/tgnas",
+      "published_at": "2026-05-23T11:11:54Z",
+      "description": "TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "aahl"
     }
   ],
   "Security": [
@@ -1627,21 +1556,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
       "source": "Dev.to",
       "user": "Maxim Salnikov"
-    },
-    {
-      "title": "Dual Parameter Thermal FEA Design Optimization with FEATool Multiphysics",
-      "url": "https://dev.to/precise-simulation/dual-parameter-thermal-fea-design-optimization-with-featool-multiphysics-m67",
-      "published_at": "2026-05-20T00:00:00Z",
-      "description": "The following post shows how to define and solve a two parameter thermal FEA design and optimization...",
-      "tags": [
-        "fea",
-        "heattransfer",
-        "optimization",
-        "matlab"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhql6qma76ftowsnusu0.png",
-      "source": "Dev.to",
-      "user": "Precise Simulation"
     },
     {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
@@ -1788,7 +1702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1144,
+      "stars": 1208,
       "user": "open-gsd"
     },
     {
@@ -1803,7 +1717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 899,
       "user": "run-liyi"
     },
     {
@@ -1818,7 +1732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "jianshuo"
     },
     {
@@ -1833,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 253,
       "user": "bryanyzhu"
     },
     {
@@ -1848,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "matem6"
     },
     {
@@ -1863,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1225,
+      "stars": 1302,
       "user": "Tong89"
     },
     {
@@ -1878,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 649,
       "user": "0xSero"
     },
     {
@@ -1893,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 464,
       "user": "zhaoyue4810"
     },
     {
@@ -1908,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 346,
       "user": "nv-tlabs"
     },
     {
@@ -1923,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 319,
       "user": "VILA-Lab"
     },
     {
@@ -1953,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189747547?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "ivngineer"
     },
     {
@@ -1972,6 +1886,21 @@
       "user": "adisbladis"
     },
     {
+      "title": "aahl/tgnas - TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
+      "url": "https://github.com/aahl/tgnas",
+      "published_at": "2026-05-23T11:11:54Z",
+      "description": "TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "aahl"
+    },
+    {
       "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
       "url": "https://github.com/neochaotic/leoflow",
       "published_at": "2026-05-22T03:51:23Z",
@@ -1985,21 +1914,6 @@
       "source": "GitHub",
       "stars": 37,
       "user": "neochaotic"
-    },
-    {
-      "title": "mberneti/clab - Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
-      "url": "https://github.com/mberneti/clab",
-      "published_at": "2026-05-24T08:37:41Z",
-      "description": "Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3443365?v=4",
-      "source": "GitHub",
-      "stars": 32,
-      "user": "mberneti"
     }
   ]
 }
