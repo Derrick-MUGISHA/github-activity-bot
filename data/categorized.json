@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "An LLM API call, in 4 GIFs",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
       "published_at": "2026-05-26T20:52:22Z",
@@ -29,6 +42,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
+      "published_at": "2026-05-27T11:19:34Z",
+      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "tags": [
+        "mjml",
+        "i18n",
+        "opensource",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
+      "source": "Dev.to",
+      "user": "Michal Král"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "tags": [
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
+      "source": "Dev.to",
+      "user": "Sahil SIlare"
     },
     {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
@@ -61,6 +104,36 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
+      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4",
+      "published_at": "2026-05-27T06:41:07Z",
+      "description": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
+      "tags": [
+        "llm",
+        "agents",
+        "enterprise",
+        "aisafety"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ov5zahgt44ia2pwsmjd.png",
+      "source": "Dev.to",
+      "user": "Kamal Rawat"
+    },
+    {
+      "title": "Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds",
+      "url": "https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c",
+      "published_at": "2026-05-26T22:54:18Z",
+      "description": "Stop choosing between speed and structure, you don't have to.               The Tension...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "sdd",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
+      "source": "Dev.to",
+      "user": "Tahirih Jaliri "
+    },
+    {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
       "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
       "published_at": "2026-05-26T23:07:48Z",
@@ -76,6 +149,20 @@
       "user": "xbill"
     },
     {
+      "title": "Making a New Native App for a Jailbroken iPhone 6",
+      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
+      "published_at": "2026-05-26T23:19:30Z",
+      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
+      "tags": [
+        "iphone",
+        "ios",
+        "retrocomputing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
+      "source": "Dev.to",
+      "user": "Adolfo Reyna"
+    },
+    {
       "title": "The Quiet AI War Inside Your Browser",
       "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
       "published_at": "2026-05-25T22:09:47Z",
@@ -89,21 +176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
       "source": "Dev.to",
       "user": "Beto Muniz"
-    },
-    {
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
-      "published_at": "2026-05-25T18:22:35Z",
-      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
-      "source": "Dev.to",
-      "user": "Jesse Williams"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -149,50 +221,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "vLLM Gemma4 26B Tuning on v6e-4",
-      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
-      "published_at": "2026-05-14T17:16:10Z",
-      "description": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
-      "tags": [
-        "gemmachallenge",
-        "gemma",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
-      "published_at": "2026-05-13T19:13:14Z",
-      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "programming",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
-      "source": "Dev.to",
-      "user": "Vinicius Brasil"
-    },
-    {
-      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
-      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
-      "published_at": "2026-05-13T06:30:47Z",
-      "description": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and chat-latest API. Full 2026 guide.",
-      "tags": [
-        "gpt55instant",
-        "chatgptnewdefaultmodel202",
-        "gpt55instantvsgpt53instan",
-        "gpt55instanthallucination"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
-      "source": "Dev.to",
-      "user": "Anup Karanjkar"
     },
     {
       "title": "The Most Concerning AI Risk of 2026",
@@ -544,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "0xSero"
     },
     {
@@ -559,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "VILA-Lab"
     },
     {
@@ -579,6 +607,19 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
     {
       "title": "An LLM API call, in 4 GIFs",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
@@ -610,19 +651,19 @@
       "user": "Divyesh"
     },
     {
-      "title": "I Turned npm outdated into a CI Gate — Here's How",
-      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
-      "published_at": "2026-05-24T17:20:15Z",
-      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
+      "published_at": "2026-05-27T11:19:34Z",
+      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
       "tags": [
-        "javascript",
-        "node",
-        "ci",
-        "devtools"
+        "mjml",
+        "i18n",
+        "opensource",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
-      "user": "Sulthon Zainul Habib"
+      "user": "Michal Král"
     },
     {
       "title": "The Most Concerning AI Risk of 2026",
@@ -801,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1320,
       "user": "open-gsd"
     },
     {
@@ -816,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1019,
       "user": "run-liyi"
     },
     {
@@ -876,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1465,
+      "stars": 1496,
       "user": "Tong89"
     }
   ],
@@ -1043,7 +1084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1465,
+      "stars": 1496,
       "user": "Tong89"
     },
     {
@@ -1058,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "0xSero"
     },
     {
@@ -1103,11 +1144,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "VILA-Lab"
     }
   ],
   "DevOps": [
+    {
+      "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
+      "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
+      "published_at": "2026-05-26T16:43:57Z",
+      "description": "For years, NGINX has been the default choice for reverse proxying and load balancing.  It solved...",
+      "tags": [
+        "nginx",
+        "kubernetes",
+        "devops",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
+      "source": "Dev.to",
+      "user": "Himanshu Gupta"
+    },
     {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
@@ -1170,6 +1226,35 @@
   ],
   "WebDev": [
     {
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
+      "published_at": "2026-05-27T14:09:19Z",
+      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "tags": [
+        "a11y",
+        "html",
+        "forms"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
+      "source": "Dev.to",
+      "user": "Christian Heilmann"
+    },
+    {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
+      "published_at": "2026-05-27T11:19:34Z",
+      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "tags": [
+        "mjml",
+        "i18n",
+        "opensource",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
+      "source": "Dev.to",
+      "user": "Michal Král"
+    },
+    {
       "title": "The Quiet AI War Inside Your Browser",
       "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
       "published_at": "2026-05-25T22:09:47Z",
@@ -1227,6 +1312,20 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Making a New Native App for a Jailbroken iPhone 6",
+      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
+      "published_at": "2026-05-26T23:19:30Z",
+      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
+      "tags": [
+        "iphone",
+        "ios",
+        "retrocomputing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
+      "source": "Dev.to",
+      "user": "Adolfo Reyna"
+    },
     {
       "title": "Building a custom launcher for ChromeOS",
       "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7",
@@ -1335,36 +1434,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
-      "published_at": "2026-05-14T15:18:37Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "rust",
-        "agents",
-        "aws",
-        "awslambda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Amazon EKS",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
-      "published_at": "2026-05-13T13:02:44Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "awseks",
-        "aws",
-        "mcps",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying a Rust A2A Agent to Google Cloud Run",
       "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
       "published_at": "2026-05-18T03:02:39Z",
@@ -1442,19 +1511,34 @@
   ],
   "Database": [
     {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
-      "published_at": "2026-05-22T15:12:33Z",
-      "description": "About storing application configs in code rather than database",
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
       "tags": [
-        "configs",
-        "mindset",
-        "database",
-        "dx"
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
       "source": "Dev.to",
-      "user": "Bimochan Shrestha"
+      "user": "Sahil SIlare"
+    },
+    {
+      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
+      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4",
+      "published_at": "2026-05-27T06:41:07Z",
+      "description": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
+      "tags": [
+        "llm",
+        "agents",
+        "enterprise",
+        "aisafety"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ov5zahgt44ia2pwsmjd.png",
+      "source": "Dev.to",
+      "user": "Kamal Rawat"
     },
     {
       "title": "What Platform Teams Can Expect From Crossplane v2.2",
@@ -1514,21 +1598,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
-      "published_at": "2026-05-25T18:22:35Z",
-      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
-      "source": "Dev.to",
-      "user": "Jesse Williams"
-    },
     {
       "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
       "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
@@ -1676,51 +1745,6 @@
       "user": "Maxim Salnikov"
     },
     {
-      "title": "I Turned npm outdated into a CI Gate — Here's How",
-      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
-      "published_at": "2026-05-24T17:20:15Z",
-      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
-      "tags": [
-        "javascript",
-        "node",
-        "ci",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
-      "source": "Dev.to",
-      "user": "Sulthon Zainul Habib"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
-      "published_at": "2026-05-13T19:13:14Z",
-      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "programming",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
-      "source": "Dev.to",
-      "user": "Vinicius Brasil"
-    },
-    {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
-      "published_at": "2026-05-22T15:12:33Z",
-      "description": "About storing application configs in code rather than database",
-      "tags": [
-        "configs",
-        "mindset",
-        "database",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
-      "source": "Dev.to",
-      "user": "Bimochan Shrestha"
-    },
-    {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
       "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
       "published_at": "2026-05-13T18:32:33Z",
@@ -1776,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1320,
       "user": "open-gsd"
     },
     {
@@ -1791,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1019,
       "user": "run-liyi"
     },
     {
@@ -1851,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1465,
+      "stars": 1496,
       "user": "Tong89"
     },
     {
@@ -1866,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 655,
       "user": "0xSero"
     },
     {
@@ -1911,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "VILA-Lab"
     },
     {
@@ -1971,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63286?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "adisbladis"
     },
     {
@@ -1986,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 43,
       "user": "HotRiceNoodles"
     }
   ]
