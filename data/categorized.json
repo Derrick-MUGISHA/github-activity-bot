@@ -106,21 +106,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
-      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
-      "published_at": "2026-05-25T05:00:31Z",
-      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
-      "tags": [
-        "security",
-        "ai",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
-      "source": "Dev.to",
-      "user": "Grigor Khachatryan"
-    },
-    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
       "published_at": "2026-05-22T16:27:19Z",
@@ -193,21 +178,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
       "source": "Dev.to",
       "user": "Muhammad Ahsan Ayaz"
-    },
-    {
-      "title": "Your AI Agent is Stuck in a Loop. Here's the Memory Layer That Breaks It and Saves You Money",
-      "url": "https://dev.to/kike/your-ai-agent-is-stuck-in-a-loop-heres-the-memory-layer-that-breaks-it-and-saves-you-money-5fni",
-      "published_at": "2026-05-19T13:20:53Z",
-      "description": "Every time you open a new chat in Cursor, VS Code, Antigravity and even Claude Desktop, you paste...",
-      "tags": [
-        "ai",
-        "mcp",
-        "opensource",
-        "deepseek"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp20shtiwxj1vfv3mwz1z.png",
-      "source": "Dev.to",
-      "user": "Enrique B."
     },
     {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
@@ -329,6 +299,21 @@
       "user": "Romina Elena Mendez Escobar"
     },
     {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
+    },
+    {
       "title": "WebMCP Is the Quiet Google I/O Announcement That Could Make Web Apps Agent-Ready",
       "url": "https://dev.to/nkalra0123/webmcp-is-the-quiet-google-io-announcement-that-could-make-web-apps-agent-ready-1p9l",
       "published_at": "2026-05-24T11:54:22Z",
@@ -372,6 +357,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fenauoyoi1ab4mmnj19y6.png",
       "source": "Dev.to",
       "user": "Paulo Ancheta"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "published_at": "2026-05-07T21:27:14Z",
+      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
+      "tags": [
+        "devchallenge",
+        "openclawchallenge",
+        "openclaw",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
+      "published_at": "2026-05-22T15:46:31Z",
+      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
+      "tags": [
+        "rust",
+        "aca",
+        "a2aprotocol",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -529,23 +574,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "bryanyzhu"
     },
     {
-      "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
-      "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
-      "published_at": "2026-05-21T13:19:07Z",
-      "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+      "published_at": "2026-05-25T17:54:33Z",
+      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 190,
-      "user": "matem6"
+      "stars": 205,
+      "user": "neuralCPL"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -559,7 +604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "0xSero"
     },
     {
@@ -574,7 +619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "VILA-Lab"
     },
     {
@@ -683,6 +728,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuhqph3edh7io54eabmx.png",
       "source": "Dev.to",
       "user": "Ramon Polidura"
+    },
+    {
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
+      "published_at": "2026-05-13T07:07:13Z",
+      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
+      "tags": [
+        "webdev",
+        "nextjs",
+        "sideprojects",
+        "react"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -816,7 +876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1246,
       "user": "open-gsd"
     },
     {
@@ -831,7 +891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 932,
       "user": "run-liyi"
     },
     {
@@ -846,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "jianshuo"
     },
     {
@@ -861,23 +921,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "bryanyzhu"
     },
     {
-      "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
-      "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
-      "published_at": "2026-05-21T13:19:07Z",
-      "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+      "published_at": "2026-05-25T17:54:33Z",
+      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 190,
-      "user": "matem6"
+      "stars": 205,
+      "user": "neuralCPL"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -891,7 +951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1365,
       "user": "Tong89"
     }
   ],
@@ -1043,7 +1103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1365,
       "user": "Tong89"
     },
     {
@@ -1058,7 +1118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "0xSero"
     },
     {
@@ -1073,7 +1133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 475,
       "user": "zhaoyue4810"
     },
     {
@@ -1088,7 +1148,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 357,
       "user": "nv-tlabs"
     },
     {
@@ -1103,41 +1163,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "VILA-Lab"
     }
   ],
   "DevOps": [
-    {
-      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
-      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
-      "published_at": "2026-05-25T05:00:31Z",
-      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
-      "tags": [
-        "security",
-        "ai",
-        "programming",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
-      "source": "Dev.to",
-      "user": "Grigor Khachatryan"
-    },
-    {
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "url": "https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5",
-      "published_at": "2026-05-20T11:44:59Z",
-      "description": "Using Kubernetes is a love-hate relationship.  Love, because before it, deploying to production was...",
-      "tags": [
-        "opensource",
-        "kubernetes",
-        "devops",
-        "infrastructure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvf6opj5leafp5c95cxm.png",
-      "source": "Dev.to",
-      "user": "Dener Fernandes"
-    },
     {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
@@ -1152,6 +1182,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
+    },
+    {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
     },
     {
       "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
@@ -1181,6 +1226,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
       "source": "Dev.to",
       "user": "Ivan Porta"
+    },
+    {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
     }
   ],
   "WebDev": [
@@ -1213,6 +1273,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuhqph3edh7io54eabmx.png",
       "source": "Dev.to",
       "user": "Ramon Polidura"
+    },
+    {
+      "title": "CSS - The single coolest API technique you can imagine.",
+      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
+      "published_at": "2026-05-07T23:15:51Z",
+      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
+      "tags": [
+        "css",
+        "api",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
+      "source": "Dev.to",
+      "user": "Jane Ori"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1394,6 +1468,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
+      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
+      "published_at": "2026-05-04T02:30:53Z",
+      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
+      "tags": [
+        "a2aprotocol",
+        "microsoftfabric",
+        "multiagentsystems",
+        "googleadk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
+      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
+      "published_at": "2026-05-22T15:46:31Z",
+      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
+      "tags": [
+        "rust",
+        "aca",
+        "a2aprotocol",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
+      "source": "Dev.to",
+      "user": "xbill"
     }
   ],
   "Database": [
@@ -1465,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 47,
       "user": "aahl"
     }
   ],
@@ -1691,6 +1795,21 @@
       "user": "Ivan Porta"
     },
     {
+      "title": "Hosting a Docker runner for processing GitLab CI/CD pipelines",
+      "url": "https://dev.to/urmajesty516/hosting-a-docker-runner-for-processing-gitlab-cicd-pipelines-58bk",
+      "published_at": "2026-05-22T09:29:03Z",
+      "description": "GitLab allows you to host your own runners to process CI/CD jobs. You can either configure your own...",
+      "tags": [
+        "gitlab",
+        "cicd",
+        "docker",
+        "container"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhxzh7m4mrpd5d8fvp41.png",
+      "source": "Dev.to",
+      "user": "Janice"
+    },
+    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -1702,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1246,
       "user": "open-gsd"
     },
     {
@@ -1717,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106264291?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 932,
       "user": "run-liyi"
     },
     {
@@ -1732,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "jianshuo"
     },
     {
@@ -1747,23 +1866,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "bryanyzhu"
     },
     {
-      "title": "matem6/P2JB-Y2JB-Porting - PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
-      "url": "https://github.com/matem6/P2JB-Y2JB-Porting",
-      "published_at": "2026-05-21T13:19:07Z",
-      "description": "PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow",
+      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+      "published_at": "2026-05-25T17:54:33Z",
+      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2808337?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 190,
-      "user": "matem6"
+      "stars": 205,
+      "user": "neuralCPL"
     },
     {
       "title": "Tong89/smartNode - GitHub Repository",
@@ -1777,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96812539?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1365,
       "user": "Tong89"
     },
     {
@@ -1792,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "0xSero"
     },
     {
@@ -1807,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 475,
       "user": "zhaoyue4810"
     },
     {
@@ -1822,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49653101?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 357,
       "user": "nv-tlabs"
     },
     {
@@ -1837,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "VILA-Lab"
     },
     {
@@ -1854,6 +1973,21 @@
       "source": "GitHub",
       "stars": 166,
       "user": "DEEIX-AI"
+    },
+    {
+      "title": "aahl/tgnas - TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
+      "url": "https://github.com/aahl/tgnas",
+      "published_at": "2026-05-23T11:11:54Z",
+      "description": "TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "aahl"
     },
     {
       "title": "ivngineer/sword - A feature-rich GUI software store for Linux",
@@ -1882,23 +2016,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63286?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "adisbladis"
-    },
-    {
-      "title": "aahl/tgnas - TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
-      "url": "https://github.com/aahl/tgnas",
-      "published_at": "2026-05-23T11:11:54Z",
-      "description": "TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
-      "source": "GitHub",
-      "stars": 38,
-      "user": "aahl"
     },
     {
       "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
