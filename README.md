@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
-
-**DevOps**: 🟦🟦 5 (4.8%)
+**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
 
 **Database**: 🟦🟦 5 (4.8%)
+
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
@@ -60,11 +60,11 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 24.4 (24.4%)
-Go              ██████████████████████████████ 24.4 (24.4%)
-Java            ██████████████████████████ 21.1 (21.1%)
-Python          ██████████████████████ 17.8 (17.8%)
-Rust            ██████████ 7.8 (7.8%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Go              ███████████████████████████ 23.3 (23.3%)
+Java            █████████████████████████ 21.1 (21.1%)
+Python          █████████████████████ 17.8 (17.8%)
+Rust            █████████ 7.8 (7.8%)
 Kotlin          ███ 2.2 (2.2%)
 PHP             █ 1.1 (1.1%)
 Ruby            █ 1.1 (1.1%)
@@ -73,8 +73,8 @@ Ruby            █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 22
-    "Go" : 22
+    "JavaScript" : 23
+    "Go" : 21
     "Java" : 19
     "Python" : 16
     "Rust" : 7
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-27 16:00 CAT)
+## 📅 Latest Updates (2026-05-27 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png" width="200" alt="Why does AI forget what you said (and how to fix it)" />
+    <a href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png" width="200" alt="Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞" />
       <br/>
-      <b>Why does AI forget what you said (and how to fix i...</b>
+      <b>Reviving a 12K+ Star Abandoned Library: toastr-nex...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,10 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg" width="200" alt="The Quiet AI War Inside Your Browser" />
+    <a href="https://dev.to/jcubic/polish-blog-about-wikipedia-49g3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9e7o1yiwsx9izzr7gag6.png" width="200" alt="Polish Blog About Wikipedia" />
       <br/>
-      <b>The Quiet AI War Inside Your Browser</b>
+      <b>Polish Blog About Wikipedia</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png" width="200" alt="Github Copilot helped us cut down 50-75% time in our e-commerce business" />
+    <a href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png" width="200" alt="Why does AI forget what you said (and how to fix it)" />
       <br/>
-      <b>Github Copilot helped us cut down 50-75% time in o...</b>
+      <b>Why does AI forget what you said (and how to fix i...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,26 +199,26 @@ npm run test
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
+- [Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞](https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf) _[Dev.to]_
+- [Polish Blog About Wikipedia](https://dev.to/jcubic/polish-blog-about-wikipedia-49g3) _[Dev.to]_
+- [Can Google Antigravity 2.0 Pass the "Napkin Challenge"? 📝🚀](https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2) _[Dev.to]_
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
 - [The Quiet AI War Inside Your Browser](https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd) _[Dev.to]_
-- [Can Google Antigravity 2.0 Pass the "Napkin Challenge"? 📝🚀](https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2) _[Dev.to]_
-- [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
-- [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl) _[Dev.to]_
-- [A practitioner's guide to getting more value out of AI coding: agent quality & token optimization](https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j) _[Dev.to]_
-- [AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers](https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i) _[Dev.to]_
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
-- [Configuring MCP Servers and Skills for Antigravity CLI and IDE](https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0) _[Dev.to]_
 - [In Defense of Manual Memory Management](https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo) _[Dev.to]_
+- [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
+- [AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers](https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i) _[Dev.to]_
+- [A practitioner's guide to getting more value out of AI coding: agent quality & token optimization](https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j) _[Dev.to]_
+- [Configuring MCP Servers and Skills for Antigravity CLI and IDE](https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
 - [How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f) _[Dev.to]_
-- [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
+- [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl) _[Dev.to]_
 - [OIC: From a Working Toast Watcher to a General "Watch It for Me" Agent](https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm) _[Dev.to]_
 - [I Turned npm outdated into a CI Gate — Here's How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o) _[Dev.to]_
 - [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o) _[Dev.to]_
 - [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd) _[Dev.to]_
-- [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck) _[Dev.to]_
 
-_Last automated update: Wed, 27 May 2026 16:02:18 CAT_
+_Last automated update: Wed, 27 May 2026 19:33:42 CAT_
 
 
 
@@ -226,7 +226,29 @@ _Last automated update: Wed, 27 May 2026 16:02:18 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. React: What is the Virtual DOM and how does React use it?
+
+**Difficulty**: Easy | **Topics**: rendering, performance
+
+<details>
+<summary>💡 Hint</summary>
+
+Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+### 2. NodeJS: Explain middleware in Express.js
+
+**Difficulty**: Easy | **Topics**: express, architecture
+
+<details>
+<summary>💡 Hint</summary>
+
+Request/response cycle, next(), chain of functions
+
+</details>
+
+### 3. SystemDesign: How would you design a rate limiter?
 
 **Difficulty**: Medium | **Topics**: system design, algorithms
 
@@ -234,28 +256,6 @@ _Sharpen your skills with these curated questions_
 <summary>💡 Hint</summary>
 
 Token bucket, sliding window, distributed systems
-
-</details>
-
-### 2. JavaScript: Explain event delegation and why it's useful
-
-**Difficulty**: Medium | **Topics**: events, DOM
-
-<details>
-<summary>💡 Hint</summary>
-
-Event bubbling, single listener for multiple elements
-
-</details>
-
-### 3. JavaScript: What is the event loop and how does it work?
-
-**Difficulty**: Hard | **Topics**: async, runtime
-
-<details>
-<summary>💡 Hint</summary>
-
-Call stack, callback queue, microtask queue
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 27 May 2026 14:02:18 GMT</b><br/>
+  <b>Last automated update: Wed, 27 May 2026 17:33:42 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
