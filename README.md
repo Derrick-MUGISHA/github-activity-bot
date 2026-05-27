@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-26-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-27-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,7 +28,7 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
@@ -36,13 +36,13 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
-
 **Security**: 🟦🟦 4 (3.8%)
+
+**DevOps**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.0 (25.0%)
-Go              ██████████████████████████████ 25.0 (25.0%)
-Java            ██████████████████████████ 21.7 (21.7%)
-Python          █████████████████████ 17.4 (17.4%)
+Go              ██████████████████████████████ 25.8 (25.8%)
+JavaScript      █████████████████████████████ 24.7 (24.7%)
+Java            █████████████████████████ 21.5 (21.5%)
+Python          ████████████████████ 17.2 (17.2%)
 Rust            ████████ 6.5 (6.5%)
 Kotlin          ███ 2.2 (2.2%)
 Swift           █ 1.1 (1.1%)
@@ -73,8 +73,8 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
+    "Go" : 24
     "JavaScript" : 23
-    "Go" : 23
     "Java" : 20
     "Python" : 16
     "Rust" : 6
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![gemini](https://img.shields.io/badge/gemini-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-17-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-13-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![gemmachallenge](https://img.shields.io/badge/gemmachallenge-7-blue) ![gemini](https://img.shields.io/badge/gemini-6-blue) ![gemma](https://img.shields.io/badge/gemma-6-blue) ![opensource](https://img.shields.io/badge/opensource-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-27 1:00 CAT)
+## 📅 Latest Updates (2026-05-27 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -153,10 +153,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png" width="200" alt="Why does AI forget what you said (and how to fix it)" />
+    <a href="https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz9enodgaspr8yvtbu4eo.png" width="200" alt="Can Google Antigravity 2.0 Pass the "Napkin Challenge"? 📝🚀" />
       <br/>
-      <b>Why does AI forget what you said (and how to fix i...</b>
+      <b>Can Google Antigravity 2.0 Pass the "Napkin Challe...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,19 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png" width="200" alt="Github Copilot helped us cut down 50-75% time in our e-commerce business" />
+    <a href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png" width="200" alt="Why does AI forget what you said (and how to fix it)" />
       <br/>
-      <b>Github Copilot helped us cut down 50-75% time in o...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png" width="200" alt="Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script" />
-      <br/>
-      <b>Vibe Code All Google APIs: The Zero-Trust Autonomo...</b>
+      <b>Why does AI forget what you said (and how to fix i...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xq88jhbbjasnyfhezpo.png" width="200" alt="The subtle impact of AI (& IT) on jobs" />
+      <br/>
+      <b>The subtle impact of AI (& IT) on jobs</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -199,12 +199,13 @@ npm run test
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
+- [Can Google Antigravity 2.0 Pass the "Napkin Challenge"? 📝🚀](https://dev.to/googleai/can-google-antigravity-20-pass-the-napkin-challenge-2ai2) _[Dev.to]_
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
-- [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
-- [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl) _[Dev.to]_
 - [The Quiet AI War Inside Your Browser](https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd) _[Dev.to]_
 - [The subtle impact of AI (& IT) on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55) _[Dev.to]_
 - [In Defense of Manual Memory Management](https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo) _[Dev.to]_
+- [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
+- [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl) _[Dev.to]_
 - [A practitioner's guide to getting more value out of AI coding: agent quality & token optimization](https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j) _[Dev.to]_
 - [AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers](https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i) _[Dev.to]_
 - [Validating Gemma 4 for Industrial IoT: A Governance Pattern](https://dev.to/gohchunlin/validating-gemma-4-for-industrial-iot-a-governance-pattern-3d6k) _[Dev.to]_
@@ -216,9 +217,8 @@ npm run test
 - [Configuring MCP Servers and Skills for Antigravity CLI and IDE](https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0) _[Dev.to]_
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2ohc) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-194f) _[Dev.to]_
-- [OIC: From a Working Toast Watcher to a General "Watch It for Me" Agent](https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm) _[Dev.to]_
 
-_Last automated update: Wed, 27 May 2026 01:33:05 CAT_
+_Last automated update: Wed, 27 May 2026 03:50:55 CAT_
 
 
 
@@ -226,18 +226,29 @@ _Last automated update: Wed, 27 May 2026 01:33:05 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. JavaScript: Explain event delegation and why it's useful
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: events, DOM
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Event bubbling, single listener for multiple elements
 
 </details>
 
-### 2. React: What are hooks and why were they introduced?
+### 2. JavaScript: Explain event delegation and why it's useful
+
+**Difficulty**: Medium | **Topics**: events, DOM
+
+<details>
+<summary>💡 Hint</summary>
+
+Event bubbling, single listener for multiple elements
+
+</details>
+
+### 3. React: What are hooks and why were they introduced?
 
 **Difficulty**: Medium | **Topics**: hooks, functional components
 
@@ -245,17 +256,6 @@ try/catch, .catch(), error middleware
 <summary>💡 Hint</summary>
 
 State in functional components, reusable logic, cleaner code
-
-</details>
-
-### 3. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
-
-<details>
-<summary>💡 Hint</summary>
-
-Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 26 May 2026 23:33:05 GMT</b><br/>
+  <b>Last automated update: Wed, 27 May 2026 01:50:55 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
