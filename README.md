@@ -3,7 +3,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-8-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-27-orange)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-28-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
@@ -60,20 +60,20 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.4 (26.4%)
-Go              ██████████████████████████ 23.0 (23.0%)
-Java            ████████████████████████ 20.7 (20.7%)
-Python          ██████████████████████ 19.5 (19.5%)
-Rust            ████████ 6.9 (6.9%)
-Swift           █ 1.1 (1.1%)
-Kotlin          █ 1.1 (1.1%)
-Ruby            █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 25.6 (25.6%)
+Go              ███████████████████████████ 23.3 (23.3%)
+Java            ████████████████████████ 20.9 (20.9%)
+Python          ███████████████████████ 19.8 (19.8%)
+Rust            ████████ 7.0 (7.0%)
+Swift           █ 1.2 (1.2%)
+Kotlin          █ 1.2 (1.2%)
+Ruby            █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
+    "JavaScript" : 22
     "Go" : 20
     "Java" : 18
     "Python" : 17
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-28 1:00 CAT)
+## 📅 Latest Updates (2026-05-28 2:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -218,7 +218,7 @@ npm run test
 - [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a) _[Dev.to]_
 - [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6) _[Dev.to]_
 
-_Last automated update: Thu, 28 May 2026 01:13:32 CAT_
+_Last automated update: Thu, 28 May 2026 02:14:50 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 28 May 2026 01:13:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Python: Explain GIL and its implications for multithreading
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Token bucket, sliding window, distributed systems
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 27 May 2026 23:13:32 GMT</b><br/>
+  <b>Last automated update: Thu, 28 May 2026 00:14:50 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
