@@ -29,19 +29,34 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
-      "published_at": "2026-05-27T09:44:36Z",
-      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
+      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
+      "published_at": "2026-05-28T14:54:55Z",
+      "description": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
       "tags": [
-        "ai",
-        "cli",
-        "google",
-        "productivity"
+        "antigravity",
+        "gemini",
+        "napkinchallenge",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "tags": [
+        "android",
+        "ai",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -59,21 +74,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
-      "published_at": "2026-05-27T11:19:34Z",
-      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "tags": [
-        "mjml",
-        "i18n",
-        "opensource",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
-      "source": "Dev.to",
-      "user": "Michal Král"
-    },
-    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -89,6 +89,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
+      "published_at": "2026-05-27T11:19:34Z",
+      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "tags": [
+        "mjml",
+        "i18n",
+        "opensource",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
+      "source": "Dev.to",
+      "user": "Michal Král"
+    },
+    {
       "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
       "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
       "published_at": "2026-05-27T10:23:24Z",
@@ -102,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
       "source": "Dev.to",
       "user": "Sahil SIlare"
+    },
+    {
+      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
+      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1",
+      "published_at": "2026-05-27T15:12:00Z",
+      "description": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
+      "tags": [
+        "mcps",
+        "googleadk",
+        "a2aprotocol",
+        "crosslanguage"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuizbsin53iguphdi0hy.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
@@ -164,6 +194,21 @@
       "user": "Maxim Salnikov"
     },
     {
+      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
+      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
+      "published_at": "2026-05-27T09:44:36Z",
+      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "tags": [
+        "ai",
+        "cli",
+        "google",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Making a New Native App for a Jailbroken iPhone 6",
       "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
       "published_at": "2026-05-26T23:19:30Z",
@@ -191,21 +236,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
-      "url": "https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl",
-      "published_at": "2026-05-26T06:02:54Z",
-      "description": "Abstract   Integrating autonomous AI agents into enterprise architectures exposes critical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -586,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "bryanyzhu"
     },
     {
@@ -601,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 265,
       "user": "neuralCPL"
     },
     {
@@ -616,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "0xSero"
     },
     {
@@ -631,7 +661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 349,
       "user": "VILA-Lab"
     },
     {
@@ -646,7 +676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 334,
       "user": "FlashML-org"
     },
     {
@@ -901,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1519,
       "user": "open-gsd"
     },
     {
@@ -916,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "SigmaTradeLabs"
     },
     {
@@ -931,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 340,
       "user": "jianshuo"
     },
     {
@@ -946,7 +976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "bryanyzhu"
     },
     {
@@ -961,7 +991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 265,
       "user": "neuralCPL"
     }
   ],
@@ -1113,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "0xSero"
     },
     {
@@ -1128,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "zhaoyue4810"
     },
     {
@@ -1143,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 349,
       "user": "VILA-Lab"
     },
     {
@@ -1158,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "Novaquant-labs"
     },
     {
@@ -1173,26 +1203,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 334,
       "user": "FlashML-org"
     }
   ],
   "DevOps": [
-    {
-      "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
-      "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
-      "published_at": "2026-05-26T16:43:57Z",
-      "description": "For years, NGINX has been the default choice for reverse proxying and load balancing.  It solved...",
-      "tags": [
-        "nginx",
-        "kubernetes",
-        "devops",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
-      "source": "Dev.to",
-      "user": "Himanshu Gupta"
-    },
     {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
@@ -1283,6 +1298,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "tags": [
+        "android",
+        "ai",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
     {
       "title": "Making a New Native App for a Jailbroken iPhone 6",
       "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
@@ -1580,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "aahl"
     }
   ],
@@ -1630,6 +1660,19 @@
   ],
   "Tools": [
     {
+      "title": "Copilot helped me deploy my passion project to the App Store",
+      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
+      "published_at": "2026-05-28T12:42:44Z",
+      "description": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG",
+      "source": "Dev.to",
+      "user": "Harita Duggirala"
+    },
+    {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
       "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
       "published_at": "2026-05-27T04:59:28Z",
@@ -1643,21 +1686,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
       "source": "Dev.to",
       "user": "Divyesh"
-    },
-    {
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
-      "published_at": "2026-05-27T09:44:36Z",
-      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
-      "tags": [
-        "ai",
-        "cli",
-        "google",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -1730,6 +1758,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
       "source": "Dev.to",
       "user": "Maxim Salnikov"
+    },
+    {
+      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
+      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
+      "published_at": "2026-05-27T09:44:36Z",
+      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "tags": [
+        "ai",
+        "cli",
+        "google",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
@@ -1833,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1519,
       "user": "open-gsd"
     },
     {
@@ -1848,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1863,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 340,
       "user": "jianshuo"
     },
     {
@@ -1878,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "bryanyzhu"
     },
     {
@@ -1893,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 265,
       "user": "neuralCPL"
     },
     {
@@ -1908,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "0xSero"
     },
     {
@@ -1923,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 524,
       "user": "zhaoyue4810"
     },
     {
@@ -1938,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 349,
       "user": "VILA-Lab"
     },
     {
@@ -1953,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "Novaquant-labs"
     },
     {
@@ -1968,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 334,
       "user": "FlashML-org"
     },
     {
@@ -1983,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "aahl"
     },
     {
@@ -1998,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 61,
       "user": "HotRiceNoodles"
     },
     {
@@ -2013,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3443365?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 45,
       "user": "mberneti"
     },
     {
@@ -2043,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47962758?v=4",
       "source": "GitHub",
-      "stars": 33,
+      "stars": 34,
       "user": "samosvalishe"
     }
   ]
