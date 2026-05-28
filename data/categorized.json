@@ -29,21 +29,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
-      "published_at": "2026-05-27T11:19:34Z",
-      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "tags": [
-        "mjml",
-        "i18n",
-        "opensource",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
-      "source": "Dev.to",
-      "user": "Michal Král"
-    },
-    {
       "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
       "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
       "published_at": "2026-05-27T10:23:24Z",
@@ -89,6 +74,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
+      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
+      "published_at": "2026-05-27T11:19:34Z",
+      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
+      "tags": [
+        "mjml",
+        "i18n",
+        "opensource",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
+      "source": "Dev.to",
+      "user": "Michal Král"
+    },
+    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -132,21 +132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
       "source": "Dev.to",
       "user": "Tahirih Jaliri "
-    },
-    {
-      "title": "Pokemon Battle Simulator Napkin Challenge!",
-      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
-      "published_at": "2026-05-26T23:07:48Z",
-      "description": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
-      "tags": [
-        "napkinchallenge",
-        "antigravity",
-        "cli",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Making a New Native App for a Jailbroken iPhone 6",
@@ -206,6 +191,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
       "source": "Dev.to",
       "user": "Maxim Salnikov"
+    },
+    {
+      "title": "Pokemon Battle Simulator Napkin Challenge!",
+      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
+      "published_at": "2026-05-26T23:07:48Z",
+      "description": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
+      "tags": [
+        "napkinchallenge",
+        "antigravity",
+        "cli",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
@@ -557,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 276,
       "user": "bryanyzhu"
     },
     {
@@ -572,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 250,
       "user": "neuralCPL"
     },
     {
@@ -587,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 667,
       "user": "0xSero"
     },
     {
@@ -602,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "VILA-Lab"
     },
     {
@@ -617,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 295,
       "user": "FlashML-org"
     },
     {
@@ -651,21 +651,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
-    },
-    {
       "title": "An LLM API call, in 4 GIFs",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
       "published_at": "2026-05-26T20:52:22Z",
@@ -679,6 +664,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
+    },
+    {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
+      "source": "Dev.to",
+      "user": "Divyesh"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -872,23 +872,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1406,
       "user": "open-gsd"
-    },
-    {
-      "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-      "url": "https://github.com/jianshuo/ccglass",
-      "published_at": "2026-05-22T05:35:11Z",
-      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "jianshuo"
     },
     {
       "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
@@ -902,8 +887,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 323,
       "user": "SigmaTradeLabs"
+    },
+    {
+      "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "url": "https://github.com/jianshuo/ccglass",
+      "published_at": "2026-05-22T05:35:11Z",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "jianshuo"
     },
     {
       "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
@@ -917,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 276,
       "user": "bryanyzhu"
     },
     {
@@ -932,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 250,
       "user": "neuralCPL"
     }
   ],
@@ -1099,7 +1099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 667,
       "user": "0xSero"
     },
     {
@@ -1114,7 +1114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 521,
       "user": "zhaoyue4810"
     },
     {
@@ -1129,7 +1129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "VILA-Lab"
     },
     {
@@ -1144,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 323,
       "user": "Novaquant-labs"
     },
     {
@@ -1159,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 295,
       "user": "FlashML-org"
     }
   ],
@@ -1241,6 +1241,20 @@
   ],
   "WebDev": [
     {
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
+      "published_at": "2026-05-27T14:09:19Z",
+      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "tags": [
+        "a11y",
+        "html",
+        "forms"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
+      "source": "Dev.to",
+      "user": "Christian Heilmann"
+    },
+    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -1254,20 +1268,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
-    },
-    {
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
-      "published_at": "2026-05-27T14:09:19Z",
-      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
-      "tags": [
-        "a11y",
-        "html",
-        "forms"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
-      "source": "Dev.to",
-      "user": "Christian Heilmann"
     },
     {
       "title": "The Quiet AI War Inside Your Browser",
@@ -1389,21 +1389,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Pokemon Battle Simulator Napkin Challenge!",
-      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
-      "published_at": "2026-05-26T23:07:48Z",
-      "description": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
-      "tags": [
-        "napkinchallenge",
-        "antigravity",
-        "cli",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "AWS Cloud Shell with Antigravity CLI",
       "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a",
       "published_at": "2026-05-26T19:07:25Z",
@@ -1447,6 +1432,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Pokemon Battle Simulator Napkin Challenge!",
+      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
+      "published_at": "2026-05-26T23:07:48Z",
+      "description": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
+      "tags": [
+        "napkinchallenge",
+        "antigravity",
+        "cli",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Deploying a Rust A2A Agent to Google Cloud Run",
@@ -1608,7 +1608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "aahl"
     }
   ],
@@ -1658,21 +1658,6 @@
   ],
   "Tools": [
     {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
-    },
-    {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
       "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
       "published_at": "2026-05-27T09:44:36Z",
@@ -1701,6 +1686,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
+      "source": "Dev.to",
+      "user": "Divyesh"
     },
     {
       "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
@@ -1815,23 +1815,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1373,
+      "stars": 1406,
       "user": "open-gsd"
-    },
-    {
-      "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-      "url": "https://github.com/jianshuo/ccglass",
-      "published_at": "2026-05-22T05:35:11Z",
-      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "jianshuo"
     },
     {
       "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
@@ -1845,8 +1830,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 323,
       "user": "SigmaTradeLabs"
+    },
+    {
+      "title": "jianshuo/ccglass - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "url": "https://github.com/jianshuo/ccglass",
+      "published_at": "2026-05-22T05:35:11Z",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "jianshuo"
     },
     {
       "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
@@ -1860,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 276,
       "user": "bryanyzhu"
     },
     {
@@ -1875,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 250,
       "user": "neuralCPL"
     },
     {
@@ -1890,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 667,
       "user": "0xSero"
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 521,
       "user": "zhaoyue4810"
     },
     {
@@ -1920,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "VILA-Lab"
     },
     {
@@ -1935,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 323,
       "user": "Novaquant-labs"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 295,
       "user": "FlashML-org"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "aahl"
     },
     {
@@ -1980,8 +1980,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 58,
       "user": "HotRiceNoodles"
+    },
+    {
+      "title": "mberneti/clab - Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
+      "url": "https://github.com/mberneti/clab",
+      "published_at": "2026-05-24T08:37:41Z",
+      "description": "Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3443365?v=4",
+      "source": "GitHub",
+      "stars": 39,
+      "user": "mberneti"
     },
     {
       "title": "neochaotic/leoflow - GitOps-first, container-native workflow orchestrator in Go (Airflow-UI compatible).",
@@ -1997,21 +2012,6 @@
       "source": "GitHub",
       "stars": 37,
       "user": "neochaotic"
-    },
-    {
-      "title": "mberneti/clab - Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
-      "url": "https://github.com/mberneti/clab",
-      "published_at": "2026-05-24T08:37:41Z",
-      "description": "Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3443365?v=4",
-      "source": "GitHub",
-      "stars": 34,
-      "user": "mberneti"
     },
     {
       "title": "samosvalishe/free-turn-proxy - Универсальный прокси-туннель для инкапсуляции UDP/TCP трафика поверх протокола TURN",
