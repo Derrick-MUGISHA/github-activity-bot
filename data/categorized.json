@@ -29,6 +29,21 @@
       "user": "Jasmin Virdi"
     },
     {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
       "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
       "published_at": "2026-05-28T15:56:02Z",
@@ -89,6 +104,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
+      "source": "Dev.to",
+      "user": "Pato"
+    },
+    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -104,19 +134,19 @@
       "user": "Michal Král"
     },
     {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "title": "AI fatigue is very real and people are fighting back!",
+      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
+      "published_at": "2026-05-27T19:45:09Z",
+      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
       "tags": [
         "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
+        "workplace",
+        "discuss",
+        "career"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
       "source": "Dev.to",
-      "user": "Pato"
+      "user": "Fayaz"
     },
     {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
@@ -192,21 +222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
       "source": "Dev.to",
       "user": "Tahirih Jaliri "
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -602,23 +617,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "bryanyzhu"
     },
     {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "published_at": "2026-05-27T05:46:25Z",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 268,
-      "user": "neuralCPL"
+      "stars": 272,
+      "user": "withkynam"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -632,7 +647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 683,
       "user": "0xSero"
     },
     {
@@ -647,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "VILA-Lab"
     },
     {
@@ -662,7 +677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 353,
       "user": "FlashML-org"
     },
     {
@@ -677,7 +692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 165,
       "user": "MatinSenPai"
     },
     {
@@ -962,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1540,
+      "stars": 1553,
       "user": "open-gsd"
     },
     {
@@ -977,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "jianshuo"
     },
     {
@@ -1007,23 +1022,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "bryanyzhu"
     },
     {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "published_at": "2026-05-27T05:46:25Z",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 268,
-      "user": "neuralCPL"
+      "stars": 272,
+      "user": "withkynam"
     }
   ],
   "Python": [
@@ -1174,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 683,
       "user": "0xSero"
     },
     {
@@ -1204,7 +1219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "VILA-Lab"
     },
     {
@@ -1219,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 353,
       "user": "FlashML-org"
     },
     {
@@ -1451,21 +1466,6 @@
       "user": "xbill"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
       "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
       "published_at": "2026-05-26T23:07:48Z",
@@ -1661,6 +1661,21 @@
   ],
   "Tools": [
     {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "Copilot helped me deploy my passion project to the App Store",
       "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
       "published_at": "2026-05-28T12:42:44Z",
@@ -1745,20 +1760,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
       "source": "Dev.to",
       "user": "Marcus Ang"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
-      "published_at": "2026-05-21T17:33:15Z",
-      "description": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -1877,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1540,
+      "stars": 1553,
       "user": "open-gsd"
     },
     {
@@ -1892,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "jianshuo"
     },
     {
@@ -1922,23 +1923,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "bryanyzhu"
     },
     {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "published_at": "2026-05-27T05:46:25Z",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 268,
-      "user": "neuralCPL"
+      "stars": 272,
+      "user": "withkynam"
     },
     {
       "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
@@ -1952,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69639595?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 683,
       "user": "0xSero"
     },
     {
@@ -1982,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "VILA-Lab"
     },
     {
@@ -1997,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 353,
       "user": "FlashML-org"
     },
     {
@@ -2027,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 165,
       "user": "MatinSenPai"
     },
     {
