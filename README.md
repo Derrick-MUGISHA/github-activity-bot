@@ -36,7 +36,7 @@
 
 **Python**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦 10 (9.5%)
+**Cloud**: 🟦🟦🟦🟦 11 (10.5%)
 
 **Database**: 🟦🟦 5 (4.8%)
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-28 23:00 CAT)
+## 📅 Latest Updates (2026-05-29 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -173,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre5xs0i3tusrwrpbaj3e.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG" width="200" alt="Copilot helped me deploy my passion project to the App Store" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Copilot helped me deploy my passion project to the...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png" width="200" alt="How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre5xs0i3tusrwrpbaj3e.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>How a 500 MB Buffer Killed Our Archival Job — And ...</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -201,9 +201,9 @@ npm run test
 - [Winner Announcement Delayed for the Gemma 4 Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-gemma-4-challenge-2opb) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
 - [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
+- [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek) _[Dev.to]_
-- [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6) _[Dev.to]_
 - [In 2026, you can just prompt your way to a working Android app. 🤯](https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9) _[Dev.to]_
 - [How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)](https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah) _[Dev.to]_
 - [Building an SEO crawler in TypeScript: what I learned](https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Claude Code Slash Commands You Should Know (I wasn't either)](https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf) _[Dev.to]_
 - [I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL](https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8) _[Dev.to]_
 
-_Last automated update: Thu, 28 May 2026 23:29:36 CAT_
+_Last automated update: Fri, 29 May 2026 00:54:02 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 28 May 2026 23:29:36 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Implement rate limiting for an API
+### 1. NodeJS: Explain middleware in Express.js
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Easy | **Topics**: express, architecture
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-### 3. React: What are hooks and why were they introduced?
+### 3. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Medium | **Topics**: hooks, functional components
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-State in functional components, reusable logic, cleaner code
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 28 May 2026 21:29:36 GMT</b><br/>
+  <b>Last automated update: Thu, 28 May 2026 22:54:02 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
