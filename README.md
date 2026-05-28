@@ -28,9 +28,9 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 22 (21.0%)
 
@@ -42,11 +42,11 @@
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (2.9%)
-
-**Mobile**: 🟦 3 (2.9%)
+**Mobile**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 3 (2.9%)
+
+**DevOps**: 🟦 2 (1.9%)
 
 
 
@@ -64,8 +64,8 @@ JavaScript      █████████████████████�
 Java            ███████████████████████████ 22.5 (22.5%)
 Go              ███████████████████████████ 22.5 (22.5%)
 Python          ██████████████████████ 18.0 (18.0%)
-Rust            ██████████ 7.9 (7.9%)
-Kotlin          ███ 2.2 (2.2%)
+Rust            ████████ 6.7 (6.7%)
+Kotlin          ████ 3.4 (3.4%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -77,8 +77,8 @@ pie title Programming Languages Distribution
     "Java" : 20
     "Go" : 20
     "Python" : 16
-    "Rust" : 7
-    "Kotlin" : 2
+    "Rust" : 6
+    "Kotlin" : 3
     "Swift" : 1
     "PHP" : 1
 ```
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![python](https://img.shields.io/badge/python-6-blue) ![discuss](https://img.shields.io/badge/discuss-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![gemini](https://img.shields.io/badge/gemini-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-28 14:00 CAT)
+## 📅 Latest Updates (2026-05-28 18:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -164,28 +164,28 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png" width="200" alt="Accessibility question: is nesting interactive elements bad?" />
+    <a href="https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png" width="200" alt="How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)" />
       <br/>
-      <b>Accessibility question: is nesting interactive ele...</b>
+      <b>How I built a supersonic AI riddling duel in under...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png" width="200" alt="Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞" />
+    <a href="https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG" width="200" alt="Copilot helped me deploy my passion project to the App Store" />
       <br/>
-      <b>Reviving a 12K+ Star Abandoned Library: toastr-nex...</b>
+      <b>Copilot helped me deploy my passion project to the...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png" width="200" alt="Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode" />
+    <a href="https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png" width="200" alt="In 2026, you can just prompt your way to a working Android app. 🤯" />
       <br/>
-      <b>Using Google's New AI Command-Line Assistant: Anti...</b>
+      <b>In 2026, you can just prompt your way to a working...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -200,25 +200,25 @@ npm run test
 - [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
+- [How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)](https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah) _[Dev.to]_
+- [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6) _[Dev.to]_
+- [In 2026, you can just prompt your way to a working Android app. 🤯](https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9) _[Dev.to]_
 - [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof) _[Dev.to]_
 - [Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞](https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf) _[Dev.to]_
-- [Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode](https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d) _[Dev.to]_
 - [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) _[Dev.to]_
-- [I Built a Tiny Chrome Extension to Save My Mouse Wheel (Auto Scroll)](https://dev.to/codebunny20/i-built-a-tiny-chrome-extension-to-save-my-mouse-wheel-auto-scroll-1f8e) _[Dev.to]_
-- [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
+- [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL](https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8) _[Dev.to]_
 - [Advent of Code 2015 days 3-8 in Clojure](https://dev.to/andyn/advent-of-code-2015-days-3-8-in-clojure-3c94) _[Dev.to]_
+- [Cross Language A2A Agent Benchmarking with Antigravity CLI](https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1) _[Dev.to]_
 - [An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.](https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4) _[Dev.to]_
 - [Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds](https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c) _[Dev.to]_
 - [Revisiting Benchmarking- Building a Rust A2A Agent](https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2) _[Dev.to]_
-- [Polish Blog About Wikipedia](https://dev.to/jcubic/polish-blog-about-wikipedia-49g3) _[Dev.to]_
 - [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a) _[Dev.to]_
 - [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6) _[Dev.to]_
 - [In Defense of Manual Memory Management](https://dev.to/dayvster/in-defense-of-manual-memory-management-3jpo) _[Dev.to]_
-- [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
 
-_Last automated update: Thu, 28 May 2026 14:05:47 CAT_
+_Last automated update: Thu, 28 May 2026 18:32:46 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Thu, 28 May 2026 14:05:47 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. Python: What are generators and when would you use them?
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Medium | **Topics**: iterators, memory
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Thu, 28 May 2026 12:05:47 GMT</b><br/>
+  <b>Last automated update: Thu, 28 May 2026 16:32:46 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
