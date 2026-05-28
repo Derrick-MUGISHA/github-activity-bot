@@ -29,21 +29,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
-      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
-      "published_at": "2026-05-27T10:23:24Z",
-      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
-      "tags": [
-        "ai",
-        "sql",
-        "webdev",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
-      "source": "Dev.to",
-      "user": "Sahil SIlare"
-    },
-    {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
       "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
       "published_at": "2026-05-27T09:44:36Z",
@@ -104,6 +89,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "tags": [
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
+      "source": "Dev.to",
+      "user": "Sahil SIlare"
+    },
+    {
       "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
       "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4",
       "published_at": "2026-05-27T06:41:07Z",
@@ -132,35 +132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
       "source": "Dev.to",
       "user": "Tahirih Jaliri "
-    },
-    {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
-      "published_at": "2026-05-26T23:19:30Z",
-      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
-      "tags": [
-        "iphone",
-        "ios",
-        "retrocomputing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
-      "source": "Dev.to",
-      "user": "Adolfo Reyna"
-    },
-    {
-      "title": "The Quiet AI War Inside Your Browser",
-      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
-      "published_at": "2026-05-25T22:09:47Z",
-      "description": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
-      "tags": [
-        "ai",
-        "frontend",
-        "browser",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
-      "source": "Dev.to",
-      "user": "Beto Muniz"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -193,6 +164,20 @@
       "user": "Maxim Salnikov"
     },
     {
+      "title": "Making a New Native App for a Jailbroken iPhone 6",
+      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
+      "published_at": "2026-05-26T23:19:30Z",
+      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
+      "tags": [
+        "iphone",
+        "ios",
+        "retrocomputing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
+      "source": "Dev.to",
+      "user": "Adolfo Reyna"
+    },
+    {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
       "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
       "published_at": "2026-05-26T23:07:48Z",
@@ -223,6 +208,110 @@
       "user": "Tanaike"
     },
     {
+      "title": "vLLM Gemma4 26B Tuning on v6e-4",
+      "url": "https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o",
+      "published_at": "2026-05-14T17:16:10Z",
+      "description": "✦ The successful benchmark run on TPU v6e-4 used the following \"Balanced Production\" flags. These...",
+      "tags": [
+        "gemmachallenge",
+        "gemma",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
+      "published_at": "2026-05-13T19:13:14Z",
+      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "programming",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
+      "source": "Dev.to",
+      "user": "Vinicius Brasil"
+    },
+    {
+      "title": "The Quiet AI War Inside Your Browser",
+      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
+      "published_at": "2026-05-25T22:09:47Z",
+      "description": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
+      "tags": [
+        "ai",
+        "frontend",
+        "browser",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
+      "source": "Dev.to",
+      "user": "Beto Muniz"
+    },
+    {
+      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
+      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
+      "published_at": "2026-05-13T06:30:47Z",
+      "description": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and chat-latest API. Full 2026 guide.",
+      "tags": [
+        "gpt55instant",
+        "chatgptnewdefaultmodel202",
+        "gpt55instantvsgpt53instan",
+        "gpt55instanthallucination"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
+      "source": "Dev.to",
+      "user": "Anup Karanjkar"
+    },
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
+      "published_at": "2026-05-10T18:28:13Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "tags": [
+        "ai",
+        "javascript",
+        "gemmachallenge",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
+      "source": "Dev.to",
+      "user": "Muhammad Ahsan Ayaz"
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
+    },
+    {
+      "title": "Build It, Then Use It: How I wrote 435 AI engineering lessons from scratch",
+      "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
+      "published_at": "2026-05-24T13:50:05Z",
+      "description": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "agents",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisapfk112x773j6r8j07.jpeg",
+      "source": "Dev.to",
+      "user": "Rohit Ghumare"
+    },
+    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -238,6 +327,21 @@
       "user": "Sacha Greif"
     },
     {
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
+      "published_at": "2026-05-25T18:22:35Z",
+      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
+      "source": "Dev.to",
+      "user": "Jesse Williams"
+    },
+    {
       "title": "Deploying a Rust A2A Agent to Google Cloud Run",
       "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
       "published_at": "2026-05-18T03:02:39Z",
@@ -251,6 +355,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
+      "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0",
+      "published_at": "2026-05-24T10:36:37Z",
+      "description": "Introduction   We had a few big announcements from Google I/O 2026 in the AI space. One was...",
+      "tags": [
+        "agentskills",
+        "antigravitycli",
+        "gemini",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AB802PZpg3VXtrJPX-VP3YA.jpeg",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Speed, caching, and the 40x cost wall",
@@ -310,96 +429,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
       "source": "Dev.to",
       "user": "Grigor Khachatryan"
-    },
-    {
-      "title": "WebMCP Is the Quiet Google I/O Announcement That Could Make Web Apps Agent-Ready",
-      "url": "https://dev.to/nkalra0123/webmcp-is-the-quiet-google-io-announcement-that-could-make-web-apps-agent-ready-1p9l",
-      "published_at": "2026-05-24T11:54:22Z",
-      "description": "This is a submission for the Google I/O Writing Challenge    At Google I/O 2026, the loud...",
-      "tags": [
-        "devchallenge",
-        "googleiochallenge",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qqsw2zajxqsz26qk0w8.png",
-      "source": "Dev.to",
-      "user": "Nitin Kalra"
-    },
-    {
-      "title": "SimGemma: Democratizing STEM Education with Offline-First AI Simulations",
-      "url": "https://dev.to/damodharanj/simgemma-democratizing-stem-education-with-offline-first-ai-simulations-4409",
-      "published_at": "2026-05-24T05:18:38Z",
-      "description": "Introduction   Imagine a classroom in a remote village. There’s a blackboard, a few...",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fte2wg2u2qg7jtah1to7l.png",
-      "source": "Dev.to",
-      "user": "Damodharan J"
-    },
-    {
-      "title": "Your AI assistant is blind to your data. Here's how to fix that.",
-      "url": "https://dev.to/pauloancheta/your-ai-assistant-is-blind-to-your-data-heres-how-to-fix-that-4l5a",
-      "published_at": "2026-05-24T00:59:26Z",
-      "description": "Most MCP setups hand your AI a database URL and hope for the best. activerecord-mcp mounts an MCP server inside your existing Rails app. No new process, no raw SQL, no credentials floating around. Your AI can query your data. Your denied columns stay denied.",
-      "tags": [
-        "rails",
-        "ruby",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fenauoyoi1ab4mmnj19y6.png",
-      "source": "Dev.to",
-      "user": "Paulo Ancheta"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "published_at": "2026-05-07T21:27:14Z",
-      "description": "The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...",
-      "tags": [
-        "devchallenge",
-        "openclawchallenge",
-        "openclaw",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnl9p01xiixzcjsw5peb.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
-      "published_at": "2026-05-22T15:46:31Z",
-      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
-      "tags": [
-        "rust",
-        "aca",
-        "a2aprotocol",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -557,7 +586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 280,
       "user": "bryanyzhu"
     },
     {
@@ -572,7 +601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 255,
       "user": "neuralCPL"
     },
     {
@@ -602,7 +631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "VILA-Lab"
     },
     {
@@ -617,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 316,
       "user": "FlashML-org"
     },
     {
@@ -696,6 +725,36 @@
       "user": "Michal Král"
     },
     {
+      "title": "I Turned npm outdated into a CI Gate — Here's How",
+      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
+      "published_at": "2026-05-24T17:20:15Z",
+      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
+      "tags": [
+        "javascript",
+        "node",
+        "ci",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
+      "source": "Dev.to",
+      "user": "Sulthon Zainul Habib"
+    },
+    {
+      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
+      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
+      "published_at": "2026-05-10T18:28:13Z",
+      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
+      "tags": [
+        "ai",
+        "javascript",
+        "gemmachallenge",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
+      "source": "Dev.to",
+      "user": "Muhammad Ahsan Ayaz"
+    },
+    {
       "title": "The Most Concerning AI Risk of 2026",
       "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
       "published_at": "2026-05-22T06:49:44Z",
@@ -709,36 +768,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
       "source": "Dev.to",
       "user": "Sacha Greif"
-    },
-    {
-      "title": "How to organise a complex React project",
-      "url": "https://dev.to/ramonpoli/how-to-organise-a-complex-react-project-2fn0",
-      "published_at": "2026-05-24T11:21:40Z",
-      "description": "When it comes to starting a new project that you know is going to be big, a sound file structure is a...",
-      "tags": [
-        "programming",
-        "react",
-        "frontend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuhqph3edh7io54eabmx.png",
-      "source": "Dev.to",
-      "user": "Ramon Polidura"
-    },
-    {
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "url": "https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3",
-      "published_at": "2026-05-13T07:07:13Z",
-      "description": "We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...",
-      "tags": [
-        "webdev",
-        "nextjs",
-        "sideprojects",
-        "react"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7aysz0kmk78v0fyh8uw.png",
-      "source": "Dev.to",
-      "user": "Aryan Choudhary"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -872,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1460,
       "user": "open-gsd"
     },
     {
@@ -887,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 329,
       "user": "SigmaTradeLabs"
     },
     {
@@ -902,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 327,
       "user": "jianshuo"
     },
     {
@@ -917,7 +946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 280,
       "user": "bryanyzhu"
     },
     {
@@ -932,7 +961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 255,
       "user": "neuralCPL"
     }
   ],
@@ -951,21 +980,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "published_at": "2026-05-19T21:32:45Z",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "tags": [
-        "security",
-        "github",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
-      "source": "Dev.to",
-      "user": "GnomeMan4201"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1114,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 523,
       "user": "zhaoyue4810"
     },
     {
@@ -1129,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "VILA-Lab"
     },
     {
@@ -1144,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 329,
       "user": "Novaquant-labs"
     },
     {
@@ -1159,7 +1173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 316,
       "user": "FlashML-org"
     }
   ],
@@ -1208,35 +1222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
       "source": "Dev.to",
       "user": "Grigor Khachatryan"
-    },
-    {
-      "title": "Getting Started with the Cluster Inventory API on OCM (Part 1: ClusterProfile)",
-      "url": "https://dev.to/kahirokunn/build-an-open-cluster-management-hub-spoke-environment-and-enable-cluster-inventory-api-kk6",
-      "published_at": "2026-05-05T08:01:34Z",
-      "description": "This is Part 1 of a two-part series. Part 2 (coming soon): Connecting to spoke clusters from a...",
-      "tags": [
-        "kubernetes",
-        "ocm",
-        "cncf",
-        "multicluster"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsduwqahv54qe405um1y5.png",
-      "source": "Dev.to",
-      "user": "Kahiro Okina"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
     }
   ],
   "WebDev": [
@@ -1285,35 +1270,6 @@
       "user": "Beto Muniz"
     },
     {
-      "title": "How to organise a complex React project",
-      "url": "https://dev.to/ramonpoli/how-to-organise-a-complex-react-project-2fn0",
-      "published_at": "2026-05-24T11:21:40Z",
-      "description": "When it comes to starting a new project that you know is going to be big, a sound file structure is a...",
-      "tags": [
-        "programming",
-        "react",
-        "frontend",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuhqph3edh7io54eabmx.png",
-      "source": "Dev.to",
-      "user": "Ramon Polidura"
-    },
-    {
-      "title": "CSS - The single coolest API technique you can imagine.",
-      "url": "https://dev.to/janeori/css-the-single-coolest-api-technique-you-can-imagine-4ma8",
-      "published_at": "2026-05-07T23:15:51Z",
-      "description": "To simply call Kizu's Cyclic Space Toggles an upgrade to my Space Toggle technique is like calling...",
-      "tags": [
-        "css",
-        "api",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnmgxx65oe464hdj66si.png",
-      "source": "Dev.to",
-      "user": "Jane Ori"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1340,6 +1296,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
       "source": "Dev.to",
       "user": "Adolfo Reyna"
+    },
+    {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
+      "published_at": "2026-05-15T15:00:00Z",
+      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "tags": [
+        "androidxr",
+        "googleglass",
+        "googleassistant",
+        "voicefirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
     },
     {
       "title": "Building a custom launcher for ChromeOS",
@@ -1449,6 +1420,51 @@
       "user": "xbill"
     },
     {
+      "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
+      "published_at": "2026-05-14T15:18:37Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "rust",
+        "agents",
+        "aws",
+        "awslambda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Deploying a Rust MCP Server to Amazon EKS",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
+      "published_at": "2026-05-13T13:02:44Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "awseks",
+        "aws",
+        "mcps",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
+      "published_at": "2026-05-15T15:00:00Z",
+      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "tags": [
+        "androidxr",
+        "googleglass",
+        "googleassistant",
+        "voicefirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
+    },
+    {
       "title": "Deploying a Rust A2A Agent to Google Cloud Run",
       "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
       "published_at": "2026-05-18T03:02:39Z",
@@ -1492,36 +1508,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthtxjymcxzvmbsbiq9vb.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Multi-Agent A2A with the Agent Development Kit(ADK), Azure Fabric, and Gemini CLI",
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-fabric-and-gemini-cli-al7",
-      "published_at": "2026-05-04T02:30:53Z",
-      "description": "Leveraging the Google Agent Development Kit (ADK) and the underlying Gemini LLM to build Multi-Agent...",
-      "tags": [
-        "a2aprotocol",
-        "microsoftfabric",
-        "multiagentsystems",
-        "googleadk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jj0wmbcthel6x2wrqek.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Deploying a Rust A2A Agent to Azure Container Apps (ACA)",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-azure-container-apps-aca-2g93",
-      "published_at": "2026-05-22T15:46:31Z",
-      "description": "This article covers building Agent applications with the Agent to Agent (A2A) protocol using the Rust...",
-      "tags": [
-        "rust",
-        "aca",
-        "a2aprotocol",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnc5ela365u4dhu6nx3nd.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -1556,33 +1542,19 @@
       "user": "Kamal Rawat"
     },
     {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
+      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
+      "published_at": "2026-05-22T15:12:33Z",
+      "description": "About storing application configs in code rather than database",
       "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
+        "configs",
+        "mindset",
+        "database",
+        "dx"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
       "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
-      "title": "Your AI assistant is blind to your data. Here's how to fix that.",
-      "url": "https://dev.to/pauloancheta/your-ai-assistant-is-blind-to-your-data-heres-how-to-fix-that-4l5a",
-      "published_at": "2026-05-24T00:59:26Z",
-      "description": "Most MCP setups hand your AI a database URL and hope for the best. activerecord-mcp mounts an MCP server inside your existing Rails app. No new process, no raw SQL, no credentials floating around. Your AI can query your data. Your denied columns stay denied.",
-      "tags": [
-        "rails",
-        "ruby",
-        "ai",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fenauoyoi1ab4mmnj19y6.png",
-      "source": "Dev.to",
-      "user": "Paulo Ancheta"
+      "user": "Bimochan Shrestha"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1614,6 +1586,21 @@
   ],
   "Security": [
     {
+      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
+      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
+      "published_at": "2026-05-25T18:22:35Z",
+      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "tags": [
+        "ai",
+        "security",
+        "agents",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
+      "source": "Dev.to",
+      "user": "Jesse Williams"
+    },
+    {
       "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
       "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
       "published_at": "2026-05-25T05:00:31Z",
@@ -1629,21 +1616,6 @@
       "user": "Grigor Khachatryan"
     },
     {
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "published_at": "2026-05-19T21:32:45Z",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "tags": [
-        "security",
-        "github",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
-      "source": "Dev.to",
-      "user": "GnomeMan4201"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1657,6 +1629,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
+      "source": "Dev.to",
+      "user": "Divyesh"
+    },
     {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
       "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
@@ -1686,21 +1673,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
     },
     {
       "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
@@ -1760,6 +1732,81 @@
       "user": "Maxim Salnikov"
     },
     {
+      "title": "I Turned npm outdated into a CI Gate — Here's How",
+      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
+      "published_at": "2026-05-24T17:20:15Z",
+      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
+      "tags": [
+        "javascript",
+        "node",
+        "ci",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
+      "source": "Dev.to",
+      "user": "Sulthon Zainul Habib"
+    },
+    {
+      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
+      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
+      "published_at": "2026-05-13T19:13:14Z",
+      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
+      "tags": [
+        "ai",
+        "productivity",
+        "programming",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
+      "source": "Dev.to",
+      "user": "Vinicius Brasil"
+    },
+    {
+      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
+      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
+      "published_at": "2026-05-22T15:12:33Z",
+      "description": "About storing application configs in code rather than database",
+      "tags": [
+        "configs",
+        "mindset",
+        "database",
+        "dx"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
+      "source": "Dev.to",
+      "user": "Bimochan Shrestha"
+    },
+    {
+      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
+      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
+      "published_at": "2026-05-11T07:06:08Z",
+      "description": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools with a single curl command.",
+      "tags": [
+        "terminal",
+        "macos",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png",
+      "source": "Dev.to",
+      "user": "satyamsoni2211"
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
+    },
+    {
       "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
       "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
       "published_at": "2026-05-13T18:32:33Z",
@@ -1775,35 +1822,6 @@
       "user": "S M Tahosin"
     },
     {
-      "title": "Found a Coordinated GitHub Follow Botnet Hiding in My Followers?",
-      "url": "https://dev.to/gnomeman4201/i-found-a-coordinated-github-follow-botnet-hiding-in-my-followers-kgl",
-      "published_at": "2026-05-19T21:32:45Z",
-      "description": "Eight accounts, six years of creation dates, following counts within a range of 25. Here's how following-list overlap analysis exposed a coordinated inauthentic network that cross-follow detection completely missed.",
-      "tags": [
-        "security",
-        "github",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frrup4rp7zu5rhqjcqxo0.png",
-      "source": "Dev.to",
-      "user": "GnomeMan4201"
-    },
-    {
-      "title": "What Platform Teams Can Expect From Crossplane v2.2",
-      "url": "https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1",
-      "published_at": "2026-05-05T05:21:20Z",
-      "description": "A developer submits a ticket to request a database. Three days later, the platform team responds, but...",
-      "tags": [
-        "crossplane",
-        "kubernetes",
-        "gitops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32fwse55kpymc96w91of.png",
-      "source": "Dev.to",
-      "user": "Ivan Porta"
-    },
-    {
       "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
       "url": "https://github.com/open-gsd/get-shit-done-redux",
       "published_at": "2026-05-22T11:36:21Z",
@@ -1815,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286935422?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1460,
       "user": "open-gsd"
     },
     {
@@ -1830,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 329,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1845,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2012831?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 327,
       "user": "jianshuo"
     },
     {
@@ -1860,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 280,
       "user": "bryanyzhu"
     },
     {
@@ -1875,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 255,
       "user": "neuralCPL"
     },
     {
@@ -1905,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33751004?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 523,
       "user": "zhaoyue4810"
     },
     {
@@ -1920,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/101944607?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "VILA-Lab"
     },
     {
@@ -1935,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 329,
       "user": "Novaquant-labs"
     },
     {
@@ -1950,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 316,
       "user": "FlashML-org"
     },
     {
@@ -1980,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "HotRiceNoodles"
     },
     {
@@ -1995,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3443365?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 43,
       "user": "mberneti"
     },
     {
@@ -2025,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47962758?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 33,
       "user": "samosvalishe"
     }
   ]
