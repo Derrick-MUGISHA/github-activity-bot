@@ -14,21 +14,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
       "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
       "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
       "published_at": "2026-05-28T14:53:02Z",
@@ -44,21 +29,6 @@
       "user": "Harsh "
     },
     {
-      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
-      "published_at": "2026-05-28T15:56:02Z",
-      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
-      "tags": [
-        "android",
-        "ai",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
       "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
       "published_at": "2026-05-28T14:54:55Z",
@@ -72,6 +42,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "tags": [
+        "android",
+        "ai",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
     },
     {
       "title": "Why does AI forget what you said (and how to fix it)",
@@ -119,19 +104,19 @@
       "user": "Michal Král"
     },
     {
-      "title": "AI fatigue is very real and people are fighting back!",
-      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
-      "published_at": "2026-05-27T19:45:09Z",
-      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
       "tags": [
+        "llm",
+        "javascript",
         "ai",
-        "workplace",
-        "discuss",
-        "career"
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
-      "user": "Fayaz"
+      "user": "Jasmin Virdi"
     },
     {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
@@ -224,6 +209,36 @@
       "user": "Evan Lin"
     },
     {
+      "title": "AI fatigue is very real and people are fighting back!",
+      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
+      "published_at": "2026-05-27T19:45:09Z",
+      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
+      "tags": [
+        "ai",
+        "workplace",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
+      "source": "Dev.to",
+      "user": "Fayaz"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
       "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
       "published_at": "2026-05-25T20:15:13Z",
@@ -281,21 +296,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script",
-      "url": "https://dev.to/gde/vibe-code-all-google-apis-the-zero-trust-autonomous-agent-for-google-apps-script-jcl",
-      "published_at": "2026-05-26T06:02:54Z",
-      "description": "Abstract   Integrating autonomous AI agents into enterprise architectures exposes critical...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjx6aqj8ey6omzu391265.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -357,21 +357,6 @@
       "user": "Anup Karanjkar"
     },
     {
-      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
-      "published_at": "2026-05-10T18:28:13Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
-      "tags": [
-        "ai",
-        "javascript",
-        "gemmachallenge",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
-      "source": "Dev.to",
-      "user": "Muhammad Ahsan Ayaz"
-    },
-    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -385,21 +370,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
       "source": "Dev.to",
       "user": "Esteban Hernández"
-    },
-    {
-      "title": "Build It, Then Use It: How I wrote 435 AI engineering lessons from scratch",
-      "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d",
-      "published_at": "2026-05-24T13:50:05Z",
-      "description": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "agents",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisapfk112x773j6r8j07.jpeg",
-      "source": "Dev.to",
-      "user": "Rohit Ghumare"
     },
     {
       "title": "The Most Concerning AI Risk of 2026",
@@ -432,21 +402,6 @@
       "user": "Jesse Williams"
     },
     {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
-      "tags": [
-        "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
       "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0",
       "published_at": "2026-05-24T10:36:37Z",
@@ -460,6 +415,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AB802PZpg3VXtrJPX-VP3YA.jpeg",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -606,6 +576,21 @@
       "user": "indigodaddy"
     },
     {
+      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "published_at": "2026-05-27T05:46:25Z",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "withkynam"
+    },
+    {
       "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
       "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
       "published_at": "2026-05-23T03:59:52Z",
@@ -621,21 +606,6 @@
       "user": "bryanyzhu"
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 278,
-      "user": "withkynam"
-    },
-    {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "url": "https://github.com/neuralCPL/polymarket-trading-bot",
       "published_at": "2026-05-25T17:54:33Z",
@@ -647,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 286,
       "user": "neuralCPL"
     },
     {
@@ -662,23 +632,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 372,
       "user": "FlashML-org"
     },
     {
-      "title": "Astraltenprosper/uncensored-ai-image-video-generator - AI tool for generating uncensored images and videos (18+)",
-      "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-      "published_at": "2026-05-23T22:55:11Z",
-      "description": "AI tool for generating uncensored images and videos (18+)",
+      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "published_at": "2026-05-28T11:25:55Z",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874484?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 222,
-      "user": "Astraltenprosper"
+      "stars": 282,
+      "user": "Sophomoresty"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -692,7 +662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 230,
       "user": "MatinSenPai"
     },
     {
@@ -724,36 +694,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
-      "title": "Building an SEO crawler in TypeScript: what I learned",
-      "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
-      "published_at": "2026-05-28T08:32:17Z",
-      "description": "I have been working on a project called SEOCore, which is an SEO crawler and audit CLI built with...",
-      "tags": [
-        "programming",
-        "typescript",
-        "node",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oa8q3x1tyd6u5iji4cb.png",
-      "source": "Dev.to",
-      "user": "Alfon"
     },
     {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
@@ -801,6 +741,36 @@
       "user": "Michal Král"
     },
     {
+      "title": "Building an SEO crawler in TypeScript: what I learned",
+      "url": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
+      "published_at": "2026-05-28T08:32:17Z",
+      "description": "I have been working on a project called SEOCore, which is an SEO crawler and audit CLI built with...",
+      "tags": [
+        "programming",
+        "typescript",
+        "node",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oa8q3x1tyd6u5iji4cb.png",
+      "source": "Dev.to",
+      "user": "Alfon"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
+    },
+    {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
       "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
       "published_at": "2026-05-24T17:20:15Z",
@@ -814,21 +784,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
-    },
-    {
-      "title": "I Built a Chrome Extension to Sync AI Studio System Instructions. Here's Why chrome.storage.sync Couldn't Do It",
-      "url": "https://dev.to/codewithahsan/i-built-a-chrome-extension-to-sync-ai-studio-system-instructions-heres-why-chromestoragesync-2llm",
-      "published_at": "2026-05-10T18:28:13Z",
-      "description": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4  I use Google AI Studio on three...",
-      "tags": [
-        "ai",
-        "javascript",
-        "gemmachallenge",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj8omntf4mlhi63u9iaj.jpg",
-      "source": "Dev.to",
-      "user": "Muhammad Ahsan Ayaz"
     },
     {
       "title": "The Most Concerning AI Risk of 2026",
@@ -966,6 +921,21 @@
       "user": "velmu"
     },
     {
+      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "published_at": "2026-05-27T05:46:25Z",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "withkynam"
+    },
+    {
       "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
       "url": "https://github.com/SigmaTradeLabs/aster-bot",
       "published_at": "2026-05-25T17:22:59Z",
@@ -977,7 +947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "SigmaTradeLabs"
     },
     {
@@ -996,21 +966,6 @@
       "user": "bryanyzhu"
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 278,
-      "user": "withkynam"
-    },
-    {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "url": "https://github.com/neuralCPL/polymarket-trading-bot",
       "published_at": "2026-05-25T17:54:33Z",
@@ -1022,7 +977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 286,
       "user": "neuralCPL"
     },
     {
@@ -1037,7 +992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281925319?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "real-Elysia886"
     }
   ],
@@ -1189,7 +1144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 372,
       "user": "FlashML-org"
     },
     {
@@ -1204,8 +1159,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "Novaquant-labs"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "published_at": "2026-05-28T11:25:55Z",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
+      "source": "GitHub",
+      "stars": 282,
+      "user": "Sophomoresty"
     },
     {
       "title": "leochlon/ntkmirror - GitHub Repository",
@@ -1219,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60907456?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "leochlon"
     },
     {
@@ -1234,23 +1204,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874408?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "resonancegnatassess"
-    },
-    {
-      "title": "Astraltenprosper/uncensored-ai-image-video-generator - AI tool for generating uncensored images and videos (18+)",
-      "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-      "published_at": "2026-05-23T22:55:11Z",
-      "description": "AI tool for generating uncensored images and videos (18+)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874484?v=4",
-      "source": "GitHub",
-      "stars": 222,
-      "user": "Astraltenprosper"
     }
   ],
   "DevOps": [
@@ -1268,6 +1223,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
+    },
+    {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
     }
   ],
   "WebDev": [
@@ -1466,6 +1436,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
       "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
       "published_at": "2026-05-26T23:07:48Z",
@@ -1496,21 +1481,6 @@
       "user": "xbill"
     },
     {
-      "title": "Deploying a Rust MCP Server to Amazon EKS",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-eks-183g",
-      "published_at": "2026-05-13T13:02:44Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "awseks",
-        "aws",
-        "mcps",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjpazjjazetdqofjjhcjy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
       "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
       "published_at": "2026-05-15T15:00:00Z",
@@ -1526,17 +1496,17 @@
       "user": "Allen Firstenberg"
     },
     {
-      "title": "Deploying a Rust A2A Agent to Google Cloud Run",
-      "url": "https://dev.to/gde/deploying-a-rust-a2a-agent-to-google-cloud-run-30jd",
-      "published_at": "2026-05-18T03:02:39Z",
-      "description": "Leveraging the Gemini CLI and the underlying Gemini LLM to build A2A Agent Applications with the Rust...",
+      "title": "Deploying a Rust MCP Server to Azure Appservice",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-appservice-g9c",
+      "published_at": "2026-05-17T12:39:30Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
       "tags": [
+        "mcps",
         "rust",
-        "gemini",
-        "googlecloudrun",
-        "a2aprotocol"
+        "azure",
+        "azureappservice"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xwhctzymrww5jhvyiwr.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1552,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 230,
       "user": "MatinSenPai"
     }
   ],
@@ -1626,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 77,
       "user": "aahl"
     }
   ],
@@ -1777,6 +1747,20 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
+      "published_at": "2026-05-21T17:33:15Z",
+      "description": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
       "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
       "published_at": "2026-05-25T20:15:13Z",
@@ -1852,21 +1836,6 @@
       "user": "Bimochan Shrestha"
     },
     {
-      "title": "I Built a One-Command macOS Terminal Setup — Ghostty + Zsh + 30 Modern CLI Tools",
-      "url": "https://dev.to/satyamsoni2211/i-built-a-one-command-macos-terminal-setup-ghostty-zsh-30-modern-cli-tools-43f5",
-      "published_at": "2026-05-11T07:06:08Z",
-      "description": "Stop wasting hours configuring your terminal. dev-accelerator sets up Ghostty, Zsh, Starship, and 30+ modern CLI tools with a single curl command.",
-      "tags": [
-        "terminal",
-        "macos",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx55705j6cdqv6c7u4gg.png",
-      "source": "Dev.to",
-      "user": "satyamsoni2211"
-    },
-    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -1882,6 +1851,36 @@
       "user": "Esteban Hernández"
     },
     {
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
+      "published_at": "2026-05-13T18:32:33Z",
+      "description": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
+      "tags": [
+        "webdev",
+        "beginners",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
+      "source": "Dev.to",
+      "user": "S M Tahosin"
+    },
+    {
+      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "published_at": "2026-05-27T05:46:25Z",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "withkynam"
+    },
+    {
       "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
       "url": "https://github.com/SigmaTradeLabs/aster-bot",
       "published_at": "2026-05-25T17:22:59Z",
@@ -1893,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1912,21 +1911,6 @@
       "user": "bryanyzhu"
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 278,
-      "user": "withkynam"
-    },
-    {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "url": "https://github.com/neuralCPL/polymarket-trading-bot",
       "published_at": "2026-05-25T17:54:33Z",
@@ -1938,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 286,
       "user": "neuralCPL"
     },
     {
@@ -1953,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281925319?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "real-Elysia886"
     },
     {
@@ -1968,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 372,
       "user": "FlashML-org"
     },
     {
@@ -1983,8 +1967,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "Novaquant-labs"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "published_at": "2026-05-28T11:25:55Z",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
+      "source": "GitHub",
+      "stars": 282,
+      "user": "Sophomoresty"
     },
     {
       "title": "leochlon/ntkmirror - GitHub Repository",
@@ -1998,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60907456?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "leochlon"
     },
     {
@@ -2013,23 +2012,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874408?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "resonancegnatassess"
-    },
-    {
-      "title": "Astraltenprosper/uncensored-ai-image-video-generator - AI tool for generating uncensored images and videos (18+)",
-      "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-      "published_at": "2026-05-23T22:55:11Z",
-      "description": "AI tool for generating uncensored images and videos (18+)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874484?v=4",
-      "source": "GitHub",
-      "stars": 222,
-      "user": "Astraltenprosper"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -2043,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 230,
       "user": "MatinSenPai"
     },
     {
@@ -2058,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33683650?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 77,
       "user": "aahl"
     },
     {
@@ -2073,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 70,
       "user": "HotRiceNoodles"
     },
     {
