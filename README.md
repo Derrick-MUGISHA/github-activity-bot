@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 28 (26.7%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 15 (14.3%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 11 (10.5%)
+**Cloud**: 🟦🟦🟦🟦 9 (8.6%)
 
-**Database**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**WebDev**: 🟦🟦 4 (3.8%)
-
 **Mobile**: 🟦🟦 4 (3.8%)
+
+**Database**: 🟦🟦 4 (3.8%)
 
 **Security**: 🟦 3 (2.9%)
 
@@ -60,10 +60,10 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.7 (26.7%)
-Go              █████████████████████████ 22.1 (22.1%)
-Java            █████████████████████████ 22.1 (22.1%)
-Python          █████████████████████ 18.6 (18.6%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Java            ████████████████████████ 22.1 (22.1%)
+Go              ████████████████████████ 22.1 (22.1%)
+Python          ███████████████████ 17.4 (17.4%)
 Kotlin          ████ 3.5 (3.5%)
 Rust            ████ 3.5 (3.5%)
 Swift           █ 1.2 (1.2%)
@@ -74,10 +74,10 @@ CSharp          █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
-    "Go" : 19
+    "JavaScript" : 24
     "Java" : 19
-    "Python" : 16
+    "Go" : 19
+    "Python" : 15
     "Kotlin" : 3
     "Rust" : 3
     "Swift" : 1
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![webdev](https://img.shields.io/badge/webdev-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) 
 
 
 
@@ -128,22 +128,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-29 16:00 CAT)
+## 📅 Latest Updates (2026-05-29 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
-      <br/>
-      <b>How Are Developers Actually Using AI At Work?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-i1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfi7226r8a36s3k6mo1o.jpg" width="200" alt="What was your win this week?" />
@@ -154,16 +145,34 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png" width="200" alt="Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI" />
+    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
       <br/>
-      <b>Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run,...</b>
+      <b>How Are Developers Actually Using AI At Work?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkg6cytyvg18qzqnt87fl.jpg" width="200" alt="DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together" />
+      <br/>
+      <b>DevRelCon NYC 2026: Where Developer Relations, Dev...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
 </tr>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png" width="200" alt="The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments" />
+      <br/>
+      <b>The Kubernetes Overkill: Why I Built a "K8s Killer...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre5xs0i3tusrwrpbaj3e.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -174,19 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png" width="200" alt="I Spent 10x Longer Debugging AI Code Than Writing It" />
+    <a href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png" width="200" alt="An LLM API call, in 4 GIFs" />
       <br/>
-      <b>I Spent 10x Longer Debugging AI Code Than Writing ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png" width="200" alt="The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments" />
-      <br/>
-      <b>The Kubernetes Overkill: Why I Built a "K8s Killer...</b>
+      <b>An LLM API call, in 4 GIFs</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,16 +198,17 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
-- [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
-- [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
+- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
+- [DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together](https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468) _[Dev.to]_
 - [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) _[Dev.to]_
-- [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6) _[Dev.to]_
-- [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek) _[Dev.to]_
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
-- [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
+- [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6) _[Dev.to]_
+- [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
+- [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek) _[Dev.to]_
+- [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1) _[Dev.to]_
+- [The Stylelint Rule That Was Silently Rewriting Our SCSS Colors](https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb) _[Dev.to]_
 - [Winner Announcement Delayed for the Gemma 4 Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-gemma-4-challenge-2opb) _[Dev.to]_
 - [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [In 2026, you can just prompt your way to a working Android app. 🤯](https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9) _[Dev.to]_
@@ -217,9 +218,8 @@ npm run test
 - [Claude Code Slash Commands You Should Know (I wasn't either)](https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf) _[Dev.to]_
 - [I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL](https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8) _[Dev.to]_
 - [Cross Language A2A Agent Benchmarking with Antigravity CLI](https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1) _[Dev.to]_
-- [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
 
-_Last automated update: Fri, 29 May 2026 16:59:44 CAT_
+_Last automated update: Fri, 29 May 2026 20:13:20 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Fri, 29 May 2026 16:59:44 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Java: What is the difference between abstract class and interface?
+### 1. JavaScript: What is the event loop and how does it work?
 
-**Difficulty**: Easy | **Topics**: OOP, design
+**Difficulty**: Hard | **Topics**: async, runtime
 
 <details>
 <summary>💡 Hint</summary>
 
-Multiple inheritance, method implementation, use cases
+Call stack, callback queue, microtask queue
 
 </details>
 
-### 2. NodeJS: Implement rate limiting for an API
+### 2. DataStructures: Find the median of two sorted arrays
 
-**Difficulty**: Hard | **Topics**: security, middleware
+**Difficulty**: Hard | **Topics**: arrays, binary search
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, Redis
+Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-### 3. Java: Explain the Java memory model
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: memory, JVM
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Heap, stack, garbage collection
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 29 May 2026 14:59:44 GMT</b><br/>
+  <b>Last automated update: Fri, 29 May 2026 18:13:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
