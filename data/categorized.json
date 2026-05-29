@@ -29,21 +29,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "published_at": "2026-05-29T12:11:12Z",
-      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
-      "tags": [
-        "machinelearning",
-        "ai",
-        "llm",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
-      "source": "Dev.to",
-      "user": "Sergey Parfenov"
-    },
-    {
       "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
       "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
       "published_at": "2026-05-29T10:33:32Z",
@@ -57,6 +42,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
       "source": "Dev.to",
       "user": "PeterMilovcik"
+    },
+    {
+      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
+      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
+      "published_at": "2026-05-29T12:11:12Z",
+      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
+      "tags": [
+        "machinelearning",
+        "ai",
+        "llm",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
+      "source": "Dev.to",
+      "user": "Sergey Parfenov"
     },
     {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "withkynam"
     },
     {
@@ -558,21 +558,6 @@
       "user": "neuralCPL"
     },
     {
-      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "published_at": "2026-05-23T03:59:52Z",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "bryanyzhu"
-    },
-    {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
       "url": "https://github.com/FlashML-org/flashlib",
       "published_at": "2026-05-26T17:19:26Z",
@@ -584,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "FlashML-org"
     },
     {
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "Sophomoresty"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "baoweise-bot"
     },
     {
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ace-trump-tech"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "MatinSenPai"
     }
   ],
@@ -899,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "withkynam"
     },
     {
@@ -914,8 +899,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "SigmaTradeLabs"
+    },
+    {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 300,
+      "user": "paraschopra"
     },
     {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -933,34 +933,19 @@
       "user": "neuralCPL"
     },
     {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
+      "published_at": "2026-05-25T00:57:33Z",
+      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "paraschopra"
-    },
-    {
-      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "published_at": "2026-05-23T03:59:52Z",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "bryanyzhu"
+      "stars": 296,
+      "user": "ytnrvdf"
     }
   ],
   "Python": [
@@ -1096,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "FlashML-org"
     },
     {
@@ -1111,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "Sophomoresty"
     },
     {
@@ -1126,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "Novaquant-labs"
     },
     {
@@ -1141,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "baoweise-bot"
     },
     {
@@ -1156,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ace-trump-tech"
     }
   ],
@@ -1490,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ace-trump-tech"
     },
     {
@@ -1505,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "MatinSenPai"
     }
   ],
@@ -1790,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "withkynam"
     },
     {
@@ -1805,8 +1790,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "SigmaTradeLabs"
+    },
+    {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 300,
+      "user": "paraschopra"
     },
     {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -1824,34 +1824,19 @@
       "user": "neuralCPL"
     },
     {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
+      "published_at": "2026-05-25T00:57:33Z",
+      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "paraschopra"
-    },
-    {
-      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "published_at": "2026-05-23T03:59:52Z",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "bryanyzhu"
+      "stars": 296,
+      "user": "ytnrvdf"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -1865,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "FlashML-org"
     },
     {
@@ -1880,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "Sophomoresty"
     },
     {
@@ -1895,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "Novaquant-labs"
     },
     {
@@ -1910,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "baoweise-bot"
     },
     {
@@ -1925,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "ace-trump-tech"
     },
     {
@@ -1940,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "MatinSenPai"
     },
     {
