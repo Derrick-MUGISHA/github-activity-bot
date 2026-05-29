@@ -59,21 +59,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
-      "source": "Dev.to",
-      "user": "Pato"
-    },
-    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -192,36 +177,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "AI fatigue is very real and people are fighting back!",
-      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
-      "published_at": "2026-05-27T19:45:09Z",
-      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
-      "tags": [
-        "ai",
-        "workplace",
-        "discuss",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -587,7 +542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 477,
       "user": "withkynam"
     },
     {
@@ -602,7 +557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "neuralCPL"
     },
     {
@@ -617,7 +572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "bryanyzhu"
     },
     {
@@ -632,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "FlashML-org"
     },
     {
@@ -647,7 +602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 371,
       "user": "Sophomoresty"
     },
     {
@@ -662,7 +617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 312,
       "user": "baoweise-bot"
     },
     {
@@ -677,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 280,
       "user": "ace-trump-tech"
     },
     {
@@ -692,23 +647,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 320,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "url": "https://github.com/mergeos-bounties/mergeos",
-      "published_at": "2026-05-26T04:55:11Z",
-      "description": "AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287856247?v=4",
-      "source": "GitHub",
-      "stars": 37,
-      "user": "mergeos-bounties"
     }
   ],
   "JavaScript": [
@@ -962,7 +902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 477,
       "user": "withkynam"
     },
     {
@@ -977,7 +917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "SigmaTradeLabs"
     },
     {
@@ -992,7 +932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "neuralCPL"
     },
     {
@@ -1007,23 +947,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "bryanyzhu"
     },
     {
-      "title": "real-Elysia886/Todo-Tree-Next - Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
-      "url": "https://github.com/real-Elysia886/Todo-Tree-Next",
-      "published_at": "2026-05-23T09:33:41Z",
-      "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281925319?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "real-Elysia886"
+      "stars": 267,
+      "user": "paraschopra"
     }
   ],
   "Python": [
@@ -1174,23 +1114,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "FlashML-org"
-    },
-    {
-      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
-      "published_at": "2026-05-25T17:37:48Z",
-      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
-      "source": "GitHub",
-      "stars": 351,
-      "user": "Novaquant-labs"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -1204,8 +1129,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 371,
       "user": "Sophomoresty"
+    },
+    {
+      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
+      "published_at": "2026-05-25T17:37:48Z",
+      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
+      "source": "GitHub",
+      "stars": 352,
+      "user": "Novaquant-labs"
     },
     {
       "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
@@ -1219,7 +1159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 312,
       "user": "baoweise-bot"
     },
     {
@@ -1234,11 +1174,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 280,
       "user": "ace-trump-tech"
     }
   ],
   "DevOps": [
+    {
+      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
+      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k",
+      "published_at": "2026-05-29T09:48:30Z",
+      "description": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
       "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek",
@@ -1287,20 +1237,6 @@
   ],
   "WebDev": [
     {
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
-      "published_at": "2026-05-27T14:09:19Z",
-      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
-      "tags": [
-        "a11y",
-        "html",
-        "forms"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
-      "source": "Dev.to",
-      "user": "Christian Heilmann"
-    },
-    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -1314,6 +1250,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
+    },
+    {
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
+      "published_at": "2026-05-27T14:09:19Z",
+      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "tags": [
+        "a11y",
+        "html",
+        "forms"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
+      "source": "Dev.to",
+      "user": "Christian Heilmann"
     },
     {
       "title": "The Quiet AI War Inside Your Browser",
@@ -1406,6 +1356,21 @@
   ],
   "Cloud": [
     {
+      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h",
+      "published_at": "2026-05-28T20:13:09Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "googlecloudrun",
+        "antigravitycli",
+        "gemma4",
+        "mcpserver"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -1419,21 +1384,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
-      "source": "Dev.to",
-      "user": "Pato"
     },
     {
       "title": "AWS Cloud Shell with Antigravity CLI",
@@ -1479,21 +1429,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
@@ -1567,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 280,
       "user": "ace-trump-tech"
     },
     {
@@ -1582,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 320,
       "user": "MatinSenPai"
     }
   ],
@@ -1734,21 +1669,6 @@
       "user": "Harita Duggirala"
     },
     {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
-      "source": "Dev.to",
-      "user": "Pato"
-    },
-    {
       "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
       "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2",
       "published_at": "2026-05-27T02:55:27Z",
@@ -1805,20 +1725,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
-      "published_at": "2026-05-21T17:33:15Z",
-      "description": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
-      "tags": [
-        "githubchallenge",
-        "devchallenge",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -1937,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 477,
       "user": "withkynam"
     },
     {
@@ -1952,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1967,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 298,
       "user": "neuralCPL"
     },
     {
@@ -1982,23 +1888,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "bryanyzhu"
     },
     {
-      "title": "real-Elysia886/Todo-Tree-Next - Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
-      "url": "https://github.com/real-Elysia886/Todo-Tree-Next",
-      "published_at": "2026-05-23T09:33:41Z",
-      "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281925319?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 247,
-      "user": "real-Elysia886"
+      "stars": 267,
+      "user": "paraschopra"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -2012,23 +1918,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "FlashML-org"
-    },
-    {
-      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
-      "published_at": "2026-05-25T17:37:48Z",
-      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
-      "source": "GitHub",
-      "stars": 351,
-      "user": "Novaquant-labs"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -2042,8 +1933,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 371,
       "user": "Sophomoresty"
+    },
+    {
+      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
+      "published_at": "2026-05-25T17:37:48Z",
+      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
+      "source": "GitHub",
+      "stars": 352,
+      "user": "Novaquant-labs"
     },
     {
       "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
@@ -2057,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 312,
       "user": "baoweise-bot"
     },
     {
@@ -2072,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 280,
       "user": "ace-trump-tech"
     },
     {
@@ -2087,8 +1993,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 320,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "HotRiceNoodles/CrossLink - Unified large model proxy gateway, providing load balancing, fault transfer, current limiting, budget management, content auditing, caching, and MCP gateway capabilities.",
+      "url": "https://github.com/HotRiceNoodles/CrossLink",
+      "published_at": "2026-05-24T12:18:07Z",
+      "description": "Unified large model proxy gateway, providing load balancing, fault transfer, current limiting, budget management, content auditing, caching, and MCP gateway capabilities.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "HotRiceNoodles"
     },
     {
       "title": "aahl/tgnas - TgNAS is an S3-compatible and WebDAV-capable gateway backed by Telegram storage and local SQLite metadata.",
@@ -2106,21 +2027,6 @@
       "user": "aahl"
     },
     {
-      "title": "HotRiceNoodles/CrossLink - Unified large model proxy gateway, providing load balancing, fault transfer, current limiting, budget management, content auditing, caching, and MCP gateway capabilities.",
-      "url": "https://github.com/HotRiceNoodles/CrossLink",
-      "published_at": "2026-05-24T12:18:07Z",
-      "description": "Unified large model proxy gateway, providing load balancing, fault transfer, current limiting, budget management, content auditing, caching, and MCP gateway capabilities.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "HotRiceNoodles"
-    },
-    {
       "title": "mberneti/clab - Open source Claude skill for automated GitLab MR reviews. Configurable lint rules, semantic analysis, and inline comment posting for self-hosted GitLab instances.",
       "url": "https://github.com/mberneti/clab",
       "published_at": "2026-05-24T08:37:41Z",
@@ -2136,19 +2042,19 @@
       "user": "mberneti"
     },
     {
-      "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "url": "https://github.com/mergeos-bounties/mergeos",
-      "published_at": "2026-05-26T04:55:11Z",
-      "description": "AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
+      "title": "hereww/codextools - GitHub Repository",
+      "url": "https://github.com/hereww/codextools",
+      "published_at": "2026-05-24T08:04:11Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287856247?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6443202?v=4",
       "source": "GitHub",
-      "stars": 37,
-      "user": "mergeos-bounties"
+      "stars": 39,
+      "user": "hereww"
     }
   ]
 }
