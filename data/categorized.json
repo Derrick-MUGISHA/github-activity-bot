@@ -176,19 +176,79 @@
       "user": "Harsh "
     },
     {
-      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
-      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
-      "published_at": "2026-05-25T20:15:13Z",
-      "description": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and token cost optimization.",
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
+      "published_at": "2026-05-27T09:44:24Z",
+      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
       "tags": [
-        "agents",
         "ai",
-        "github",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
       "source": "Dev.to",
-      "user": "Maxim Salnikov"
+      "user": "Pato"
+    },
+    {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "tags": [
+        "android",
+        "ai",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
+      "title": "AI fatigue is very real and people are fighting back!",
+      "url": "https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l",
+      "published_at": "2026-05-27T19:45:09Z",
+      "description": "Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...",
+      "tags": [
+        "ai",
+        "workplace",
+        "discuss",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
+      "source": "Dev.to",
+      "user": "Fayaz"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
@@ -218,6 +278,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
       "source": "Dev.to",
       "user": "Adolfo Reyna"
+    },
+    {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
@@ -292,96 +367,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
-    },
-    {
-      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
-      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
-      "published_at": "2026-05-19T01:19:01Z",
-      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
-      "tags": [
-        "agents",
-        "ai",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
-      "source": "Dev.to",
-      "user": "Esteban Hernández"
-    },
-    {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
-      "published_at": "2026-05-25T18:22:35Z",
-      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
-      "tags": [
-        "ai",
-        "security",
-        "agents",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
-      "source": "Dev.to",
-      "user": "Jesse Williams"
-    },
-    {
-      "title": "Configuring MCP Servers and Skills for Antigravity CLI and IDE",
-      "url": "https://dev.to/gde/configuring-mcp-servers-and-skills-for-antigravity-cli-and-ide-2bh0",
-      "published_at": "2026-05-24T10:36:37Z",
-      "description": "Introduction   We had a few big announcements from Google I/O 2026 in the AI space. One was...",
-      "tags": [
-        "agentskills",
-        "antigravitycli",
-        "gemini",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AB802PZpg3VXtrJPX-VP3YA.jpeg",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
-      "published_at": "2026-05-08T06:39:25Z",
-      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
-      "tags": [
-        "ai",
-        "llm",
-        "buildinpublic",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
-      "source": "Dev.to",
-      "user": "Sanket Sahu"
-    },
-    {
-      "title": "Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds",
-      "url": "https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c",
-      "published_at": "2026-05-26T22:54:18Z",
-      "description": "Stop choosing between speed and structure, you don't have to.               The Tension...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "sdd",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
-      "source": "Dev.to",
-      "user": "Tahirih Jaliri "
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -539,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "withkynam"
     },
     {
@@ -554,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "neuralCPL"
     },
     {
@@ -569,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "FlashML-org"
     },
     {
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 358,
       "user": "baoweise-bot"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "ace-trump-tech"
     },
     {
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "MatinSenPai"
     }
   ],
@@ -723,6 +708,36 @@
       "user": "Divyesh"
     },
     {
+      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
+      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
+      "published_at": "2026-05-27T20:56:35Z",
+      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
+      "tags": [
+        "webdev",
+        "security",
+        "career",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
+      "source": "Dev.to",
+      "user": "Arsenic"
+    },
+    {
+      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
+      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
+      "published_at": "2026-05-28T14:39:29Z",
+      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "enum",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
+      "source": "Dev.to",
+      "user": "Sage Starr"
+    },
+    {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
       "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
       "published_at": "2026-05-24T17:20:15Z",
@@ -736,21 +751,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
-    },
-    {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "withkynam"
     },
     {
@@ -899,23 +899,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "SigmaTradeLabs"
-    },
-    {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "paraschopra"
     },
     {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -929,8 +914,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "neuralCPL"
+    },
+    {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "paraschopra"
     },
     {
       "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
@@ -944,11 +944,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 302,
       "user": "ytnrvdf"
     }
   ],
   "Python": [
+    {
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
+      "published_at": "2026-05-27T09:44:24Z",
+      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1081,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "FlashML-org"
     },
     {
@@ -1100,21 +1115,6 @@
       "user": "Sophomoresty"
     },
     {
-      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
-      "published_at": "2026-05-25T17:37:48Z",
-      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
-      "source": "GitHub",
-      "stars": 355,
-      "user": "Novaquant-labs"
-    },
-    {
       "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
       "url": "https://github.com/baoweise-bot/aimili-vpngate",
       "published_at": "2026-05-25T14:13:24Z",
@@ -1126,8 +1126,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 358,
       "user": "baoweise-bot"
+    },
+    {
+      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
+      "published_at": "2026-05-25T17:37:48Z",
+      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
+      "source": "GitHub",
+      "stars": 356,
+      "user": "Novaquant-labs"
     },
     {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
@@ -1141,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "ace-trump-tech"
     }
   ],
@@ -1205,21 +1220,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
-    },
-    {
-      "title": "Speed, caching, and the 40x cost wall",
-      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
-      "published_at": "2026-05-08T06:39:25Z",
-      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
-      "tags": [
-        "ai",
-        "llm",
-        "buildinpublic",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
-      "source": "Dev.to",
-      "user": "Sanket Sahu"
     }
   ],
   "WebDev": [
@@ -1269,6 +1269,35 @@
       "user": "Sanket Bhor"
     },
     {
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
+      "published_at": "2026-05-27T14:09:19Z",
+      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "tags": [
+        "a11y",
+        "html",
+        "forms"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
+      "source": "Dev.to",
+      "user": "Christian Heilmann"
+    },
+    {
+      "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
+      "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
+      "published_at": "2026-05-28T14:39:29Z",
+      "description": "After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "enum",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
+      "source": "Dev.to",
+      "user": "Sage Starr"
+    },
+    {
       "title": "The Quiet AI War Inside Your Browser",
       "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
       "published_at": "2026-05-25T22:09:47Z",
@@ -1298,6 +1327,21 @@
   ],
   "Mobile": [
     {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "tags": [
+        "android",
+        "ai",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
       "title": "Making a New Native App for a Jailbroken iPhone 6",
       "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
       "published_at": "2026-05-26T23:19:30Z",
@@ -1310,36 +1354,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
       "source": "Dev.to",
       "user": "Adolfo Reyna"
-    },
-    {
-      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
-      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
-      "published_at": "2026-05-15T15:00:00Z",
-      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
-      "tags": [
-        "androidxr",
-        "googleglass",
-        "googleassistant",
-        "voicefirst"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
-      "source": "Dev.to",
-      "user": "Allen Firstenberg"
-    },
-    {
-      "title": "Building a custom launcher for ChromeOS",
-      "url": "https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7",
-      "published_at": "2026-05-14T11:11:33Z",
-      "description": "In this article, I will share some of my experience of enhancing Be nice to be a launcher on...",
-      "tags": [
-        "android",
-        "chromeos",
-        "ui",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
     }
   ],
   "Cloud": [
@@ -1404,6 +1418,66 @@
       "user": "xbill"
     },
     {
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
+      "published_at": "2026-05-27T09:44:24Z",
+      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
+      "source": "Dev.to",
+      "user": "Pato"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
       "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
       "published_at": "2026-05-26T23:07:48Z",
@@ -1434,36 +1508,6 @@
       "user": "xbill"
     },
     {
-      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
-      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
-      "published_at": "2026-05-15T15:00:00Z",
-      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
-      "tags": [
-        "androidxr",
-        "googleglass",
-        "googleassistant",
-        "voicefirst"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
-      "source": "Dev.to",
-      "user": "Allen Firstenberg"
-    },
-    {
-      "title": "Deploying a Rust MCP Server to Azure Appservice",
-      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-appservice-g9c",
-      "published_at": "2026-05-17T12:39:30Z",
-      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
-      "tags": [
-        "mcps",
-        "rust",
-        "azure",
-        "azureappservice"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
       "published_at": "2026-05-26T05:24:10Z",
@@ -1475,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "ace-trump-tech"
     },
     {
@@ -1490,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "MatinSenPai"
     }
   ],
@@ -1555,19 +1599,19 @@
   ],
   "Security": [
     {
-      "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
-      "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
-      "published_at": "2026-05-25T18:22:35Z",
-      "description": "IAM, DLP, and API gateways are necessary parts of an organization's security stack. None of them...",
+      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
+      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
+      "published_at": "2026-05-27T20:56:35Z",
+      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
       "tags": [
-        "ai",
+        "webdev",
         "security",
-        "agents",
-        "machinelearning"
+        "career",
+        "node"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpyrd0651c1897ftinp36.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
       "source": "Dev.to",
-      "user": "Jesse Williams"
+      "user": "Arsenic"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1659,19 +1703,74 @@
       "user": "Divyesh"
     },
     {
-      "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
-      "url": "https://dev.to/webmaxru/a-practitioners-guide-to-getting-more-value-out-of-ai-coding-agent-quality-token-optimization-3n7j",
-      "published_at": "2026-05-25T20:15:13Z",
-      "description": "A practitioner's guide to getting more value out of AI coding agents — drawn from a GitHub workshop on agent quality and token cost optimization.",
+      "title": "Copilot helped me deploy my passion project to the App Store",
+      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
+      "published_at": "2026-05-28T12:42:44Z",
+      "description": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
       "tags": [
-        "agents",
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG",
+      "source": "Dev.to",
+      "user": "Harita Duggirala"
+    },
+    {
+      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
+      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
+      "published_at": "2026-05-26T08:08:46Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
+      "source": "Dev.to",
+      "user": "Marcus Ang"
+    },
+    {
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
+      "published_at": "2026-05-27T09:44:24Z",
+      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
+      "tags": [
         "ai",
-        "github",
+        "gemini",
+        "google",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fso77uatapgvpgdr901ys.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
       "source": "Dev.to",
-      "user": "Maxim Salnikov"
+      "user": "Pato"
+    },
+    {
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
+      "published_at": "2026-05-21T17:33:15Z",
+      "description": "We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...",
+      "tags": [
+        "githubchallenge",
+        "devchallenge",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
@@ -1734,36 +1833,6 @@
       "user": "Bimochan Shrestha"
     },
     {
-      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
-      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
-      "published_at": "2026-05-19T01:19:01Z",
-      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
-      "tags": [
-        "agents",
-        "ai",
-        "showdev",
-        "tooling"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
-      "source": "Dev.to",
-      "user": "Esteban Hernández"
-    },
-    {
-      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
-      "published_at": "2026-05-13T18:32:33Z",
-      "description": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
-      "tags": [
-        "webdev",
-        "beginners",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
-      "source": "Dev.to",
-      "user": "S M Tahosin"
-    },
-    {
       "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "published_at": "2026-05-27T05:46:25Z",
@@ -1775,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "withkynam"
     },
     {
@@ -1790,23 +1859,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "SigmaTradeLabs"
-    },
-    {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "paraschopra"
     },
     {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -1820,8 +1874,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "neuralCPL"
+    },
+    {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "paraschopra"
     },
     {
       "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
@@ -1835,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 302,
       "user": "ytnrvdf"
     },
     {
@@ -1850,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "FlashML-org"
     },
     {
@@ -1869,21 +1938,6 @@
       "user": "Sophomoresty"
     },
     {
-      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
-      "published_at": "2026-05-25T17:37:48Z",
-      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
-      "source": "GitHub",
-      "stars": 355,
-      "user": "Novaquant-labs"
-    },
-    {
       "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
       "url": "https://github.com/baoweise-bot/aimili-vpngate",
       "published_at": "2026-05-25T14:13:24Z",
@@ -1895,8 +1949,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 358,
       "user": "baoweise-bot"
+    },
+    {
+      "title": "Novaquant-labs/hyperliquid-trading-bot - hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
+      "published_at": "2026-05-25T17:37:48Z",
+      "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
+      "source": "GitHub",
+      "stars": 356,
+      "user": "Novaquant-labs"
     },
     {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
@@ -1910,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "ace-trump-tech"
     },
     {
@@ -1925,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "MatinSenPai"
     },
     {
