@@ -29,36 +29,6 @@
       "user": "Harsh "
     },
     {
-      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
-      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
-      "published_at": "2026-05-28T14:54:55Z",
-      "description": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
-      "tags": [
-        "antigravity",
-        "gemini",
-        "napkinchallenge",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
-      "published_at": "2026-05-28T15:56:02Z",
-      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
-      "tags": [
-        "android",
-        "ai",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -89,6 +59,21 @@
       "user": "Pato"
     },
     {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
+    },
+    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -104,19 +89,34 @@
       "user": "Michal Král"
     },
     {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
       "tags": [
-        "llm",
-        "javascript",
+        "android",
         "ai",
-        "beginners"
+        "programming",
+        "mobile"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
       "source": "Dev.to",
-      "user": "Jasmin Virdi"
+      "user": "Paige Bailey"
+    },
+    {
+      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
+      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
+      "published_at": "2026-05-28T14:54:55Z",
+      "description": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "napkinchallenge",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
@@ -576,51 +576,6 @@
       "user": "indigodaddy"
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "withkynam"
-    },
-    {
-      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "published_at": "2026-05-23T03:59:52Z",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "bryanyzhu"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 286,
-      "user": "neuralCPL"
-    },
-    {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
       "url": "https://github.com/FlashML-org/flashlib",
       "published_at": "2026-05-26T17:19:26Z",
@@ -632,7 +587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "FlashML-org"
     },
     {
@@ -647,8 +602,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 307,
       "user": "Sophomoresty"
+    },
+    {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "ace-trump-tech"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -662,7 +632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 261,
       "user": "MatinSenPai"
     },
     {
@@ -696,21 +666,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
-    },
-    {
       "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
       "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
       "published_at": "2026-05-27T20:56:35Z",
@@ -724,6 +679,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
       "source": "Dev.to",
       "user": "Arsenic"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -756,19 +726,19 @@
       "user": "Alfon"
     },
     {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
       "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
       "source": "Dev.to",
-      "user": "Jasmin Virdi"
+      "user": "Divyesh"
     },
     {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
@@ -919,81 +889,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "withkynam"
-    },
-    {
-      "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "url": "https://github.com/SigmaTradeLabs/aster-bot",
-      "published_at": "2026-05-25T17:22:59Z",
-      "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "SigmaTradeLabs"
-    },
-    {
-      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "published_at": "2026-05-23T03:59:52Z",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "bryanyzhu"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 286,
-      "user": "neuralCPL"
-    },
-    {
-      "title": "real-Elysia886/Todo-Tree-Next - Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
-      "url": "https://github.com/real-Elysia886/Todo-Tree-Next",
-      "published_at": "2026-05-23T09:33:41Z",
-      "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281925319?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "real-Elysia886"
     }
   ],
   "Python": [
@@ -1144,7 +1039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "FlashML-org"
     },
     {
@@ -1159,7 +1054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 348,
       "user": "Novaquant-labs"
     },
     {
@@ -1174,23 +1069,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 307,
       "user": "Sophomoresty"
     },
     {
-      "title": "leochlon/ntkmirror - GitHub Repository",
-      "url": "https://github.com/leochlon/ntkmirror",
-      "published_at": "2026-05-23T16:38:24Z",
-      "description": "Trending GitHub Repository",
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60907456?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "leochlon"
+      "stars": 251,
+      "user": "ace-trump-tech"
     },
     {
       "title": "resonancegnatassess/Lossless-Scaling - Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install.",
@@ -1204,11 +1099,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874408?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 248,
       "user": "resonancegnatassess"
     }
   ],
   "DevOps": [
+    {
+      "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
+      "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek",
+      "published_at": "2026-05-28T13:23:43Z",
+      "description": "The job that kept dying   We run a nightly archival job that exports a few large Postgres...",
+      "tags": [
+        "dataengineering",
+        "go",
+        "kubernetes",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png",
+      "source": "Dev.to",
+      "user": "Harish"
+    },
     {
       "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
       "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
@@ -1511,6 +1421,21 @@
       "user": "xbill"
     },
     {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "ace-trump-tech"
+    },
+    {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
       "url": "https://github.com/MatinSenPai/SenPaiScanner",
       "published_at": "2026-05-28T17:02:54Z",
@@ -1522,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 261,
       "user": "MatinSenPai"
     }
   ],
@@ -1674,21 +1599,6 @@
       "user": "Harita Duggirala"
     },
     {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
-    },
-    {
       "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
       "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
       "published_at": "2026-05-27T18:50:56Z",
@@ -1717,6 +1627,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3h3xmboq9h4jmsdmsbk3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
+      "source": "Dev.to",
+      "user": "Divyesh"
     },
     {
       "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
@@ -1866,81 +1791,6 @@
       "user": "S M Tahosin"
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "withkynam"
-    },
-    {
-      "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "url": "https://github.com/SigmaTradeLabs/aster-bot",
-      "published_at": "2026-05-25T17:22:59Z",
-      "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "SigmaTradeLabs"
-    },
-    {
-      "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "published_at": "2026-05-23T03:59:52Z",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "bryanyzhu"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 286,
-      "user": "neuralCPL"
-    },
-    {
-      "title": "real-Elysia886/Todo-Tree-Next - Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
-      "url": "https://github.com/real-Elysia886/Todo-Tree-Next",
-      "published_at": "2026-05-23T09:33:41Z",
-      "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281925319?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "real-Elysia886"
-    },
-    {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
       "url": "https://github.com/FlashML-org/flashlib",
       "published_at": "2026-05-26T17:19:26Z",
@@ -1952,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "FlashML-org"
     },
     {
@@ -1967,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 348,
       "user": "Novaquant-labs"
     },
     {
@@ -1982,23 +1832,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 307,
       "user": "Sophomoresty"
     },
     {
-      "title": "leochlon/ntkmirror - GitHub Repository",
-      "url": "https://github.com/leochlon/ntkmirror",
-      "published_at": "2026-05-23T16:38:24Z",
-      "description": "Trending GitHub Repository",
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60907456?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "leochlon"
+      "stars": 251,
+      "user": "ace-trump-tech"
     },
     {
       "title": "resonancegnatassess/Lossless-Scaling - Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install.",
@@ -2012,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874408?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 248,
       "user": "resonancegnatassess"
     },
     {
@@ -2027,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 261,
       "user": "MatinSenPai"
     },
     {
@@ -2057,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "HotRiceNoodles"
     },
     {
