@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-100-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-29-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,25 +28,25 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (46.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (25.0%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (18.0%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (16.0%)
+**Python**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 12 (12.0%)
+**Cloud**: 🟦🟦🟦🟦🟦 12 (11.4%)
 
-**Database**: 🟦🟦 5 (5.0%)
+**Database**: 🟦🟦 5 (4.8%)
 
-**WebDev**: 🟦🟦 4 (4.0%)
+**WebDev**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦🟦 4 (4.0%)
+**Mobile**: 🟦🟦 4 (3.8%)
 
-**DevOps**: 🟦 3 (3.0%)
+**DevOps**: 🟦 3 (2.9%)
 
-**Security**: 🟦 3 (3.0%)
+**Security**: 🟦 3 (2.9%)
 
 
 
@@ -54,31 +54,32 @@
 
 - **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
-- **GitHub**: 10 articles
+- **GitHub**: 15 articles
 
 
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.3 (26.3%)
-JavaScript      ███████████████████████████ 23.7 (23.7%)
-Python          ████████████████████████ 21.1 (21.1%)
-Java            █████████████████████ 18.4 (18.4%)
-Kotlin          ████ 3.9 (3.9%)
-Rust            ████ 3.9 (3.9%)
-Swift           █ 1.3 (1.3%)
-PHP             █ 1.3 (1.3%)
+JavaScript      ██████████████████████████████ 26.1 (26.1%)
+Go              ██████████████████████████ 22.7 (22.7%)
+Java            █████████████████████████ 21.6 (21.6%)
+Python          █████████████████████ 18.2 (18.2%)
+Rust            █████ 4.5 (4.5%)
+Kotlin          ████ 3.4 (3.4%)
+Swift           █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
+    "JavaScript" : 23
     "Go" : 20
-    "JavaScript" : 18
+    "Java" : 19
     "Python" : 16
-    "Java" : 14
+    "Rust" : 4
     "Kotlin" : 3
-    "Rust" : 3
     "Swift" : 1
     "PHP" : 1
 ```
@@ -87,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![open-source](https://img.shields.io/badge/open-source-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-16-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![webdev](https://img.shields.io/badge/webdev-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) 
 
 
 
@@ -127,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-29 10:00 CAT)
+## 📅 Latest Updates (2026-05-29 13:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,19 +145,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png" width="200" alt="I Spent 10x Longer Debugging AI Code Than Writing It" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre5xs0i3tusrwrpbaj3e.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>I Spent 10x Longer Debugging AI Code Than Writing ...</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre5xs0i3tusrwrpbaj3e.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png" width="200" alt="I Spent 10x Longer Debugging AI Code Than Writing It" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>I Spent 10x Longer Debugging AI Code Than Writing ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -173,19 +174,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/winner-announcement-delayed-for-the-gemma-4-challenge-2opb">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw67ijjs3oipy1t52vhhu.png" width="200" alt="Winner Announcement Delayed for the Gemma 4 Challenge" />
+    <a href="https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png" width="200" alt="Accessibility question: is nesting interactive elements bad?" />
       <br/>
-      <b>Winner Announcement Delayed for the Gemma 4 Challe...</b>
+      <b>Accessibility question: is nesting interactive ele...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png" width="200" alt="Accessibility question: is nesting interactive elements bad?" />
+    <a href="https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png" width="200" alt="How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It" />
       <br/>
-      <b>Accessibility question: is nesting interactive ele...</b>
+      <b>How a 500 MB Buffer Killed Our Archival Job — And ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,16 +199,15 @@ npm run test
 ### 📰 Top Headlines
 
 - [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
-- [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
+- [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
 - [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6) _[Dev.to]_
-- [Winner Announcement Delayed for the Gemma 4 Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-gemma-4-challenge-2opb) _[Dev.to]_
 - [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof) _[Dev.to]_
 - [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek) _[Dev.to]_
-- [How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi) _[Dev.to]_
+- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
 - [Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7) _[Dev.to]_
-- [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
+- [Winner Announcement Delayed for the Gemma 4 Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-gemma-4-challenge-2opb) _[Dev.to]_
 - [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [In 2026, you can just prompt your way to a working Android app. 🤯](https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9) _[Dev.to]_
 - [How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)](https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah) _[Dev.to]_
@@ -217,8 +217,9 @@ npm run test
 - [Cross Language A2A Agent Benchmarking with Antigravity CLI](https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1) _[Dev.to]_
 - [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
 - [An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.](https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4) _[Dev.to]_
+- [Revisiting Benchmarking- Building a Rust A2A Agent](https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2) _[Dev.to]_
 
-_Last automated update: Fri, 29 May 2026 10:30:09 CAT_
+_Last automated update: Fri, 29 May 2026 13:49:38 CAT_
 
 
 
@@ -226,29 +227,18 @@ _Last automated update: Fri, 29 May 2026 10:30:09 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. NodeJS: What is the difference between process.nextTick() and setImmediate()?
 
-**Difficulty**: Easy | **Topics**: databases, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Schema, scalability, ACID vs BASE
-
-</details>
-
-### 2. Python: Explain decorators in Python with an example
-
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Medium | **Topics**: event loop, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Execution timing, event loop phases
 
 </details>
 
-### 3. React: Implement a custom hook for fetching data
+### 2. React: Implement a custom hook for fetching data
 
 **Difficulty**: Medium | **Topics**: hooks, async
 
@@ -256,6 +246,17 @@ Function wrappers, @syntax, practical uses
 <summary>💡 Hint</summary>
 
 useState, useEffect, loading states, error handling
+
+</details>
+
+### 3. JavaScript: Explain event delegation and why it's useful
+
+**Difficulty**: Medium | **Topics**: events, DOM
+
+<details>
+<summary>💡 Hint</summary>
+
+Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -289,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Fri, 29 May 2026 08:30:09 GMT</b><br/>
+  <b>Last automated update: Fri, 29 May 2026 11:49:38 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
