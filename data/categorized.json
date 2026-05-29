@@ -29,6 +29,36 @@
       "user": "Jasmin Virdi"
     },
     {
+      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
+      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
+      "published_at": "2026-05-29T12:11:12Z",
+      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
+      "tags": [
+        "machinelearning",
+        "ai",
+        "llm",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
+      "source": "Dev.to",
+      "user": "Sergey Parfenov"
+    },
+    {
+      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
+      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
+      "published_at": "2026-05-29T10:33:32Z",
+      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
+      "tags": [
+        "ai",
+        "githubcopilot",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
+      "source": "Dev.to",
+      "user": "PeterMilovcik"
+    },
+    {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
       "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
       "published_at": "2026-05-28T18:50:28Z",
@@ -57,21 +87,6 @@
       "user": "Michal Král"
     },
     {
-      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
-      "published_at": "2026-05-28T15:56:02Z",
-      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
-      "tags": [
-        "android",
-        "ai",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
-    {
       "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
       "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
       "published_at": "2026-05-28T14:54:55Z",
@@ -85,6 +100,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
+      "published_at": "2026-05-28T19:04:59Z",
+      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "tags": [
+        "ai",
+        "contentwriting",
+        "documentation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
+      "source": "Dev.to",
+      "user": "Karl L. Hughes"
     },
     {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
@@ -145,20 +174,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
       "source": "Dev.to",
       "user": "Harsh "
-    },
-    {
-      "title": "The Software Developer's Guide to AEO",
-      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
-      "published_at": "2026-05-28T19:04:59Z",
-      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
-      "tags": [
-        "ai",
-        "contentwriting",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
-      "source": "Dev.to",
-      "user": "Karl L. Hughes"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -524,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "withkynam"
     },
     {
@@ -569,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "FlashML-org"
     },
     {
@@ -584,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "Sophomoresty"
     },
     {
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 351,
       "user": "baoweise-bot"
     },
     {
@@ -614,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "ace-trump-tech"
     },
     {
@@ -629,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "MatinSenPai"
     }
   ],
@@ -663,21 +678,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
-      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
-      "published_at": "2026-05-28T20:30:12Z",
-      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
-      "tags": [
-        "angular",
-        "scss",
-        "stylelint",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
-      "source": "Dev.to",
-      "user": "Sanket Bhor"
-    },
-    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -691,6 +691,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
+    },
+    {
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
+      "published_at": "2026-05-28T20:30:12Z",
+      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
+      "tags": [
+        "angular",
+        "scss",
+        "stylelint",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
+      "source": "Dev.to",
+      "user": "Sanket Bhor"
     },
     {
       "title": "Building an SEO crawler in TypeScript: what I learned",
@@ -721,21 +736,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
       "source": "Dev.to",
       "user": "Divyesh"
-    },
-    {
-      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-      "published_at": "2026-05-27T20:56:35Z",
-      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
-      "tags": [
-        "webdev",
-        "security",
-        "career",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
-      "source": "Dev.to",
-      "user": "Arsenic"
     },
     {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "withkynam"
     },
     {
@@ -933,6 +933,21 @@
       "user": "neuralCPL"
     },
     {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "paraschopra"
+    },
+    {
       "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
       "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
       "published_at": "2026-05-23T03:59:52Z",
@@ -946,21 +961,6 @@
       "source": "GitHub",
       "stars": 294,
       "user": "bryanyzhu"
-    },
-    {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "paraschopra"
     }
   ],
   "Python": [
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "FlashML-org"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "Sophomoresty"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 351,
       "user": "baoweise-bot"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "ace-trump-tech"
     }
   ],
@@ -1192,6 +1192,21 @@
       "user": "Harish"
     },
     {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
+      "tags": [
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
+      "source": "Dev.to",
+      "user": "Cristhian Ferreira "
+    },
+    {
       "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
       "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
       "published_at": "2026-05-26T16:43:57Z",
@@ -1224,19 +1239,19 @@
   ],
   "WebDev": [
     {
-      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
-      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
-      "published_at": "2026-05-28T20:30:12Z",
-      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
       "tags": [
-        "angular",
-        "scss",
-        "stylelint",
-        "webdev"
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
-      "user": "Sanket Bhor"
+      "user": "Cristhian Ferreira "
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -1254,18 +1269,19 @@
       "user": "Michal Král"
     },
     {
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
-      "published_at": "2026-05-27T14:09:19Z",
-      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
+      "published_at": "2026-05-28T20:30:12Z",
+      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
       "tags": [
-        "a11y",
-        "html",
-        "forms"
+        "angular",
+        "scss",
+        "stylelint",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
       "source": "Dev.to",
-      "user": "Christian Heilmann"
+      "user": "Sanket Bhor"
     },
     {
       "title": "The Quiet AI War Inside Your Browser",
@@ -1296,21 +1312,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
-      "published_at": "2026-05-28T15:56:02Z",
-      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
-      "tags": [
-        "android",
-        "ai",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
-    },
     {
       "title": "Making a New Native App for a Jailbroken iPhone 6",
       "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
@@ -1371,6 +1372,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
+      "tags": [
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
+      "source": "Dev.to",
+      "user": "Cristhian Ferreira "
     },
     {
       "title": "AWS Cloud Shell with Antigravity CLI",
@@ -1474,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "ace-trump-tech"
     },
     {
@@ -1489,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "MatinSenPai"
     }
   ],
@@ -1554,21 +1570,6 @@
   ],
   "Security": [
     {
-      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-      "published_at": "2026-05-27T20:56:35Z",
-      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
-      "tags": [
-        "webdev",
-        "security",
-        "career",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
-      "source": "Dev.to",
-      "user": "Arsenic"
-    },
-    {
       "title": "AI Agent Governance vs IAM vs DLP vs API Gateways: What Each One Actually Covers",
       "url": "https://dev.to/jwilliamsr/ai-agent-governance-vs-iam-vs-dlp-vs-api-gateways-what-each-one-actually-covers-50i",
       "published_at": "2026-05-25T18:22:35Z",
@@ -1598,32 +1599,34 @@
   ],
   "Tools": [
     {
-      "title": "Copilot helped me deploy my passion project to the App Store",
-      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
-      "published_at": "2026-05-28T12:42:44Z",
-      "description": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
+      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
+      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
+      "published_at": "2026-05-29T10:33:32Z",
+      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
       "tags": [
-        "devchallenge",
-        "githubchallenge"
+        "ai",
+        "githubcopilot",
+        "programming",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
       "source": "Dev.to",
-      "user": "Harita Duggirala"
+      "user": "PeterMilovcik"
     },
     {
-      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
-      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2",
-      "published_at": "2026-05-27T02:55:27Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "a2a",
-        "benchmarking"
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3h3xmboq9h4jmsdmsbk3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Cristhian Ferreira "
     },
     {
       "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
@@ -1641,6 +1644,21 @@
       "user": "Harsh "
     },
     {
+      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
+      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2",
+      "published_at": "2026-05-27T02:55:27Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "a2a",
+        "benchmarking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3h3xmboq9h4jmsdmsbk3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
       "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
       "published_at": "2026-05-27T04:59:28Z",
@@ -1654,19 +1672,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
       "source": "Dev.to",
       "user": "Divyesh"
-    },
-    {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
-      "published_at": "2026-05-26T08:08:46Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
-      "source": "Dev.to",
-      "user": "Marcus Ang"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -1785,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "withkynam"
     },
     {
@@ -1819,6 +1824,21 @@
       "user": "neuralCPL"
     },
     {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "paraschopra"
+    },
+    {
       "title": "bryanyzhu/agentic-ai-system-course - Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
       "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
       "published_at": "2026-05-23T03:59:52Z",
@@ -1834,21 +1854,6 @@
       "user": "bryanyzhu"
     },
     {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "paraschopra"
-    },
-    {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
       "url": "https://github.com/FlashML-org/flashlib",
       "published_at": "2026-05-26T17:19:26Z",
@@ -1860,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "FlashML-org"
     },
     {
@@ -1875,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "Sophomoresty"
     },
     {
@@ -1905,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 351,
       "user": "baoweise-bot"
     },
     {
@@ -1920,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "ace-trump-tech"
     },
     {
@@ -1935,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "MatinSenPai"
     },
     {
