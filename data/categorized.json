@@ -14,21 +14,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "published_at": "2026-05-28T14:53:02Z",
-      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "An LLM API call, in 4 GIFs",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
       "published_at": "2026-05-26T20:52:22Z",
@@ -44,19 +29,17 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "published_at": "2026-05-25T15:08:33Z",
-      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
+      "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
+      "published_at": "2026-05-28T18:50:28Z",
+      "description": "Agentic coding has brought AI crashing into the software industry, but just because you can make a project quickly, that doesn't mean it's ready for production. So how can your business stay safe while shipping AI code?",
       "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
+        "webdev",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fviktorkoves.com%2Fpost-assets%2Fai-shovelware%2Fai-shovelware-social.jpg%3F",
       "source": "Dev.to",
-      "user": "Rohini Gaonkar"
+      "user": "Viktor Köves"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -149,34 +132,33 @@
       "user": "xbill"
     },
     {
-      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
-      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4",
-      "published_at": "2026-05-27T06:41:07Z",
-      "description": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
-      "tags": [
-        "llm",
-        "agents",
-        "enterprise",
-        "aisafety"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ov5zahgt44ia2pwsmjd.png",
-      "source": "Dev.to",
-      "user": "Kamal Rawat"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
       "tags": [
         "ai",
-        "gemini",
-        "google",
-        "python"
+        "programming",
+        "productivity",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Harsh "
+    },
+    {
+      "title": "The Software Developer's Guide to AEO",
+      "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
+      "published_at": "2026-05-28T19:04:59Z",
+      "description": "When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...",
+      "tags": [
+        "ai",
+        "contentwriting",
+        "documentation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
+      "source": "Dev.to",
+      "user": "Karl L. Hughes"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -542,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 490,
       "user": "withkynam"
     },
     {
@@ -557,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "neuralCPL"
     },
     {
@@ -572,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "bryanyzhu"
     },
     {
@@ -587,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 386,
       "user": "FlashML-org"
     },
     {
@@ -602,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 384,
       "user": "Sophomoresty"
     },
     {
@@ -617,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 342,
       "user": "baoweise-bot"
     },
     {
@@ -632,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 297,
       "user": "ace-trump-tech"
     },
     {
@@ -647,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 354,
       "user": "MatinSenPai"
     }
   ],
@@ -679,6 +661,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
+    },
+    {
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
+      "published_at": "2026-05-28T20:30:12Z",
+      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
+      "tags": [
+        "angular",
+        "scss",
+        "stylelint",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
+      "source": "Dev.to",
+      "user": "Sanket Bhor"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -902,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 490,
       "user": "withkynam"
     },
     {
@@ -917,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "SigmaTradeLabs"
     },
     {
@@ -932,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "neuralCPL"
     },
     {
@@ -947,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "bryanyzhu"
     },
     {
@@ -962,26 +959,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 285,
       "user": "paraschopra"
     }
   ],
   "Python": [
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1114,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 386,
       "user": "FlashML-org"
     },
     {
@@ -1129,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 384,
       "user": "Sophomoresty"
     },
     {
@@ -1144,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Novaquant-labs"
     },
     {
@@ -1159,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 342,
       "user": "baoweise-bot"
     },
     {
@@ -1174,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 297,
       "user": "ace-trump-tech"
     }
   ],
@@ -1184,7 +1166,12 @@
       "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k",
       "published_at": "2026-05-29T09:48:30Z",
       "description": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
-      "tags": [],
+      "tags": [
+        "architecture",
+        "devops",
+        "kubernetes",
+        "showdev"
+      ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
@@ -1236,6 +1223,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
+      "published_at": "2026-05-28T20:30:12Z",
+      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
+      "tags": [
+        "angular",
+        "scss",
+        "stylelint",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
+      "source": "Dev.to",
+      "user": "Sanket Bhor"
+    },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
@@ -1371,21 +1373,6 @@
       "user": "xbill"
     },
     {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "published_at": "2026-05-25T15:08:33Z",
-      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "AWS Cloud Shell with Antigravity CLI",
       "url": "https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a",
       "published_at": "2026-05-26T19:07:25Z",
@@ -1414,21 +1401,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
@@ -1502,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 297,
       "user": "ace-trump-tech"
     },
     {
@@ -1517,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 354,
       "user": "MatinSenPai"
     }
   ],
@@ -1536,21 +1508,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
       "source": "Dev.to",
       "user": "Sahil SIlare"
-    },
-    {
-      "title": "An AI Agent Wiped a Production Database in 9 Seconds. What Engineers Must Design Before Shipping.",
-      "url": "https://dev.to/ksr007/an-ai-agent-wiped-a-production-database-in-9-seconds-what-engineers-must-design-before-shipping-5cp4",
-      "published_at": "2026-05-27T06:41:07Z",
-      "description": "April 25, 2026. 9 seconds.  That's all it took for a Cursor AI agent to delete the entire production...",
-      "tags": [
-        "llm",
-        "agents",
-        "enterprise",
-        "aisafety"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ov5zahgt44ia2pwsmjd.png",
-      "source": "Dev.to",
-      "user": "Kamal Rawat"
     },
     {
       "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
@@ -1641,21 +1598,6 @@
   ],
   "Tools": [
     {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "published_at": "2026-05-28T14:53:02Z",
-      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
       "title": "Copilot helped me deploy my passion project to the App Store",
       "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
       "published_at": "2026-05-28T12:42:44Z",
@@ -1684,6 +1626,21 @@
       "user": "xbill"
     },
     {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
       "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
       "published_at": "2026-05-27T04:59:28Z",
@@ -1710,21 +1667,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
       "source": "Dev.to",
       "user": "Marcus Ang"
-    },
-    {
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "published_at": "2026-05-27T09:44:24Z",
-      "description": "Preface   In the previous article, we successfully upgraded the LINE business card...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "A practitioner's guide to getting more value out of AI coding: agent quality & token optimization",
@@ -1843,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 490,
       "user": "withkynam"
     },
     {
@@ -1858,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1873,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "neuralCPL"
     },
     {
@@ -1888,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16021460?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 294,
       "user": "bryanyzhu"
     },
     {
@@ -1903,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 285,
       "user": "paraschopra"
     },
     {
@@ -1918,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 386,
       "user": "FlashML-org"
     },
     {
@@ -1933,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 384,
       "user": "Sophomoresty"
     },
     {
@@ -1948,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 354,
       "user": "Novaquant-labs"
     },
     {
@@ -1963,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 342,
       "user": "baoweise-bot"
     },
     {
@@ -1978,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 297,
       "user": "ace-trump-tech"
     },
     {
@@ -1993,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 354,
       "user": "MatinSenPai"
     },
     {
@@ -2053,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6443202?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "hereww"
     }
   ]
