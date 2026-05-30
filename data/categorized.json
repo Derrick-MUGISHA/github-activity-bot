@@ -324,21 +324,6 @@
       "user": "Esteban Hernández"
     },
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
       "url": "https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf",
       "published_at": "2026-05-27T23:34:00Z",
@@ -352,6 +337,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5g286r9vioyqgfep6ywn.png",
       "source": "Dev.to",
       "user": "Lizzie Siegle"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "tags": [
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
+      "source": "Dev.to",
+      "user": "Sahil SIlare"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -509,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 564,
       "user": "withkynam"
     },
     {
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 498,
       "user": "baoweise-bot"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 417,
       "user": "Sophomoresty"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "ace-trump-tech"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 455,
       "user": "MatinSenPai"
     },
     {
@@ -753,21 +753,6 @@
       "user": "Arsenic"
     },
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "published_at": "2026-05-22T06:49:44Z",
-      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
-      "tags": [
-        "ai",
-        "javascript",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
-      "source": "Dev.to",
-      "user": "Sacha Greif"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -899,8 +884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 564,
       "user": "withkynam"
+    },
+    {
+      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
+      "published_at": "2026-05-25T00:57:33Z",
+      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
+      "source": "GitHub",
+      "stars": 378,
+      "user": "ytnrvdf"
     },
     {
       "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
@@ -918,19 +918,19 @@
       "user": "SigmaTradeLabs"
     },
     {
-      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
-      "published_at": "2026-05-25T00:57:33Z",
-      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 370,
-      "user": "ytnrvdf"
+      "stars": 329,
+      "user": "paraschopra"
     },
     {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -946,21 +946,6 @@
       "source": "GitHub",
       "stars": 329,
       "user": "neuralCPL"
-    },
-    {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "paraschopra"
     }
   ],
   "Python": [
@@ -1111,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 498,
       "user": "baoweise-bot"
     },
     {
@@ -1126,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 417,
       "user": "Sophomoresty"
     },
     {
@@ -1156,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "ace-trump-tech"
     },
     {
@@ -1549,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "ace-trump-tech"
     },
     {
@@ -1564,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 455,
       "user": "MatinSenPai"
     }
   ],
@@ -1583,6 +1568,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
       "source": "Dev.to",
       "user": "Bimochan Shrestha"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "tags": [
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
+      "source": "Dev.to",
+      "user": "Sahil SIlare"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1844,8 +1844,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 564,
       "user": "withkynam"
+    },
+    {
+      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
+      "published_at": "2026-05-25T00:57:33Z",
+      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
+      "source": "GitHub",
+      "stars": 378,
+      "user": "ytnrvdf"
     },
     {
       "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
@@ -1863,19 +1878,19 @@
       "user": "SigmaTradeLabs"
     },
     {
-      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
-      "published_at": "2026-05-25T00:57:33Z",
-      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 370,
-      "user": "ytnrvdf"
+      "stars": 329,
+      "user": "paraschopra"
     },
     {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -1893,21 +1908,6 @@
       "user": "neuralCPL"
     },
     {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "paraschopra"
-    },
-    {
       "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
       "url": "https://github.com/baoweise-bot/aimili-vpngate",
       "published_at": "2026-05-25T14:13:24Z",
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 498,
       "user": "baoweise-bot"
     },
     {
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 417,
       "user": "Sophomoresty"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 391,
       "user": "ace-trump-tech"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 455,
       "user": "MatinSenPai"
     },
     {
