@@ -1,7 +1,7 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-30-orange)
 
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (42.3%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.9%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.1%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.4%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 13 (12.5%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦🟦 6 (5.8%)
 
-**DevOps**: 🟦🟦 4 (3.8%)
+**DevOps**: 🟦 3 (2.9%)
 
 **Mobile**: 🟦 3 (2.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.6 (28.6%)
-Java            ████████████████████████ 22.6 (22.6%)
-Go              █████████████████████ 20.2 (20.2%)
-Python          ████████████████████ 19.0 (19.0%)
+JavaScript      ██████████████████████████████ 28.9 (28.9%)
+Java            ████████████████████████ 22.9 (22.9%)
+Go              ████████████████████ 19.3 (19.3%)
+Python          ████████████████████ 19.3 (19.3%)
 Rust            ████ 3.6 (3.6%)
-Kotlin          ███ 2.4 (2.4%)
+Kotlin          ██ 2.4 (2.4%)
 Swift           █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
@@ -76,7 +76,7 @@ CSharp          █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 19
-    "Go" : 17
+    "Go" : 16
     "Python" : 16
     "Rust" : 3
     "Kotlin" : 2
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-30 19:00 CAT)
+## 📅 Latest Updates (2026-05-30 20:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Revisiting Benchmarking- Building a Rust A2A Agent](https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2) _[Dev.to]_
 - [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a) _[Dev.to]_
 
-_Last automated update: Sat, 30 May 2026 19:19:54 CAT_
+_Last automated update: Sat, 30 May 2026 20:37:13 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 30 May 2026 19:19:54 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. DataStructures: Implement LRU Cache
+### 1. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
-### 2. DataStructures: Implement a function to reverse a linked list
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: linked lists, pointers
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-Iterative or recursive, three pointers
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. JavaScript: What are closures and provide a practical example?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Medium | **Topics**: functions, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 30 May 2026 17:19:54 GMT</b><br/>
+  <b>Last automated update: Sat, 30 May 2026 18:37:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
