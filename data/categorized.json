@@ -29,21 +29,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
-      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
-      "published_at": "2026-05-29T10:33:32Z",
-      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
-      "source": "Dev.to",
-      "user": "PeterMilovcik"
-    },
-    {
       "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
       "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
       "published_at": "2026-05-29T12:11:12Z",
@@ -70,6 +55,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fviktorkoves.com%2Fpost-assets%2Fai-shovelware%2Fai-shovelware-social.jpg%3F",
       "source": "Dev.to",
       "user": "Viktor Köves"
+    },
+    {
+      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
+      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
+      "published_at": "2026-05-29T10:33:32Z",
+      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
+      "tags": [
+        "ai",
+        "githubcopilot",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
+      "source": "Dev.to",
+      "user": "PeterMilovcik"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -509,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "withkynam"
     },
     {
@@ -524,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 319,
       "user": "neuralCPL"
     },
     {
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 450,
       "user": "baoweise-bot"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 405,
       "user": "Sophomoresty"
     },
     {
@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 397,
       "user": "FlashML-org"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 336,
       "user": "ace-trump-tech"
     },
     {
@@ -599,8 +599,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 381,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
+      "url": "https://github.com/mergeos-bounties/mergeos",
+      "published_at": "2026-05-26T04:55:11Z",
+      "description": "AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287856247?v=4",
+      "source": "GitHub",
+      "stars": 39,
+      "user": "mergeos-bounties"
     }
   ],
   "JavaScript": [
@@ -869,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "withkynam"
     },
     {
@@ -884,23 +899,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 364,
       "user": "SigmaTradeLabs"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "neuralCPL"
     },
     {
       "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
@@ -914,8 +914,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 323,
       "user": "ytnrvdf"
+    },
+    {
+      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+      "published_at": "2026-05-25T17:54:33Z",
+      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
+      "source": "GitHub",
+      "stars": 319,
+      "user": "neuralCPL"
     },
     {
       "title": "paraschopra/make-pages-interactive - GitHub Repository",
@@ -929,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "paraschopra"
     }
   ],
@@ -1081,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 450,
       "user": "baoweise-bot"
     },
     {
@@ -1096,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 405,
       "user": "Sophomoresty"
     },
     {
@@ -1111,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 397,
       "user": "FlashML-org"
     },
     {
@@ -1126,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 366,
       "user": "Novaquant-labs"
     },
     {
@@ -1141,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 336,
       "user": "ace-trump-tech"
     }
   ],
@@ -1504,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 336,
       "user": "ace-trump-tech"
     },
     {
@@ -1519,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 381,
       "user": "MatinSenPai"
     }
   ],
@@ -1814,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "withkynam"
     },
     {
@@ -1829,23 +1844,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 364,
       "user": "SigmaTradeLabs"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "neuralCPL"
     },
     {
       "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
@@ -1859,8 +1859,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 323,
       "user": "ytnrvdf"
+    },
+    {
+      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+      "published_at": "2026-05-25T17:54:33Z",
+      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
+      "source": "GitHub",
+      "stars": 319,
+      "user": "neuralCPL"
     },
     {
       "title": "paraschopra/make-pages-interactive - GitHub Repository",
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "paraschopra"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 450,
       "user": "baoweise-bot"
     },
     {
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 405,
       "user": "Sophomoresty"
     },
     {
@@ -1919,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 397,
       "user": "FlashML-org"
     },
     {
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 366,
       "user": "Novaquant-labs"
     },
     {
@@ -1949,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 336,
       "user": "ace-trump-tech"
     },
     {
@@ -1964,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 381,
       "user": "MatinSenPai"
     },
     {
@@ -1979,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287435184?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "HotRiceNoodles"
     },
     {
@@ -2013,19 +2028,19 @@
       "user": "hereww"
     },
     {
-      "title": "samosvalishe/free-turn-proxy - Универсальный прокси-туннель для инкапсуляции UDP/TCP трафика поверх протокола TURN",
-      "url": "https://github.com/samosvalishe/free-turn-proxy",
-      "published_at": "2026-05-24T18:26:24Z",
-      "description": "Универсальный прокси-туннель для инкапсуляции UDP/TCP трафика поверх протокола TURN",
+      "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
+      "url": "https://github.com/mergeos-bounties/mergeos",
+      "published_at": "2026-05-26T04:55:11Z",
+      "description": "AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47962758?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/287856247?v=4",
       "source": "GitHub",
       "stars": 39,
-      "user": "samosvalishe"
+      "user": "mergeos-bounties"
     }
   ]
 }
