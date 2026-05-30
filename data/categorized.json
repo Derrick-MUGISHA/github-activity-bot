@@ -191,21 +191,6 @@
       "user": "Fayaz"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
       "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
       "published_at": "2026-05-28T14:53:02Z",
@@ -263,6 +248,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -509,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "withkynam"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 443,
       "user": "Sophomoresty"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "ace-trump-tech"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 564,
       "user": "MatinSenPai"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "withkynam"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "ytnrvdf"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 443,
       "user": "Sophomoresty"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "ace-trump-tech"
     },
     {
@@ -1433,21 +1433,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -1476,6 +1461,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "published_at": "2026-05-22T16:27:19Z",
+      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
+      "tags": [
+        "gemini",
+        "ai",
+        "googlecloud",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
@@ -1534,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "ace-trump-tech"
     },
     {
@@ -1549,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 564,
       "user": "MatinSenPai"
     }
   ],
@@ -1673,19 +1673,6 @@
       "user": "Divyesh"
     },
     {
-      "title": "Copilot helped me deploy my passion project to the App Store",
-      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
-      "published_at": "2026-05-28T12:42:44Z",
-      "description": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG",
-      "source": "Dev.to",
-      "user": "Harita Duggirala"
-    },
-    {
       "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
       "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
       "published_at": "2026-05-26T08:08:46Z",
@@ -1756,6 +1743,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
+    },
+    {
+      "title": "Copilot helped me deploy my passion project to the App Store",
+      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
+      "published_at": "2026-05-28T12:42:44Z",
+      "description": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG",
+      "source": "Dev.to",
+      "user": "Harita Duggirala"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "withkynam"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "ytnrvdf"
     },
     {
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 443,
       "user": "Sophomoresty"
     },
     {
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 400,
       "user": "ace-trump-tech"
     },
     {
@@ -1979,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 564,
       "user": "MatinSenPai"
     },
     {
@@ -2013,6 +2013,21 @@
       "user": "mberneti"
     },
     {
+      "title": "macan-dev/EasySNI - Bypass censorships using Go Lang",
+      "url": "https://github.com/macan-dev/EasySNI",
+      "published_at": "2026-05-25T22:10:30Z",
+      "description": "Bypass censorships using Go Lang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "macan-dev"
+    },
+    {
       "title": "79E/auto-openai-account - 自动化注册 Openai / ChatGpt 账号",
       "url": "https://github.com/79E/auto-openai-account",
       "published_at": "2026-05-26T04:52:53Z",
@@ -2026,21 +2041,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "79E"
-    },
-    {
-      "title": "macan-dev/EasySNI - Bypass censorships using Go Lang",
-      "url": "https://github.com/macan-dev/EasySNI",
-      "published_at": "2026-05-25T22:10:30Z",
-      "description": "Bypass censorships using Go Lang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "macan-dev"
     }
   ]
 }
