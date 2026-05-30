@@ -1,19 +1,19 @@
 {
-  "total": 105,
+  "total": 103,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 58,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 44,
+    "AI": 42,
     "JavaScript": 24,
     "Python": 16,
     "DevOps": 4,
     "WebDev": 7,
     "Mobile": 2,
     "Cloud": 12,
-    "Database": 3,
+    "Database": 2,
     "Security": 2,
     "Tools": 29
   },
@@ -29,9 +29,9 @@
   },
   "by_date": {
     "2026-05-29": 7,
-    "2026-05-27": 18,
+    "2026-05-27": 17,
     "2026-05-26": 12,
-    "2026-05-28": 16,
+    "2026-05-28": 15,
     "2026-05-21": 1,
     "2026-05-22": 3,
     "2026-05-25": 9,
@@ -70,7 +70,7 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 16,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -78,9 +78,9 @@
     "Python": 10,
     "javascript": 9,
     "devchallenge": 9,
-    "webdev": 7,
     "discuss": 6,
     "go": 6,
+    "webdev": 6,
     "programming": 6,
     "python": 6,
     "productivity": 5,
@@ -88,8 +88,8 @@
     "antigravitycli": 4,
     "aws": 4,
     "opensource": 4,
-    "gemini": 4,
-    "cli": 4
+    "cli": 4,
+    "devops": 3
   },
   "trending_topics": [],
   "language_percentages": {
