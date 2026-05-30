@@ -6,14 +6,14 @@
     "GitHub": 15
   },
   "by_category": {
-    "AI": 44,
+    "AI": 43,
     "JavaScript": 24,
     "Python": 16,
     "DevOps": 4,
     "WebDev": 7,
     "Mobile": 2,
     "Cloud": 12,
-    "Database": 4,
+    "Database": 3,
     "Security": 2,
     "Tools": 29
   },
@@ -29,13 +29,13 @@
   },
   "by_date": {
     "2026-05-29": 7,
-    "2026-05-27": 19,
+    "2026-05-27": 18,
     "2026-05-26": 11,
     "2026-05-28": 16,
     "2026-05-21": 1,
     "2026-05-22": 3,
-    "2026-05-25": 8,
-    "2026-05-24": 4,
+    "2026-05-25": 9,
+    "2026-05-24": 5,
     "2026-05-08": 1,
     "2026-05-14": 2,
     "2026-05-13": 2,
@@ -67,11 +67,10 @@
     "2021-08-25": 1,
     "2017-11-27": 1,
     "2026-05-11": 1,
-    "2025-05-07": 1,
-    "2026-05-23": 1
+    "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 19,
+    "ai": 18,
     "github": 15,
     "open-source": 15,
     "AI": 10,
@@ -81,16 +80,16 @@
     "devchallenge": 9,
     "webdev": 7,
     "discuss": 6,
+    "programming": 6,
     "go": 6,
     "python": 6,
-    "programming": 5,
     "productivity": 5,
     "githubchallenge": 5,
-    "agents": 4,
     "antigravitycli": 4,
     "aws": 4,
     "opensource": 4,
-    "gemini": 4
+    "gemini": 4,
+    "cli": 4
   },
   "trending_topics": [],
   "language_percentages": {
