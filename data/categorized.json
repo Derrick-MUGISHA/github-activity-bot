@@ -29,21 +29,6 @@
       "user": "Arqam Waheed"
     },
     {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
-    },
-    {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
       "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
       "published_at": "2026-05-28T18:50:28Z",
@@ -114,6 +99,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuizbsin53iguphdi0hy.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -509,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 586,
       "user": "withkynam"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 464,
       "user": "Sophomoresty"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 398,
       "user": "ace-trump-tech"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 582,
       "user": "MatinSenPai"
     },
     {
@@ -631,21 +631,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "An LLM API call, in 4 GIFs",
-      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-      "published_at": "2026-05-26T20:52:22Z",
-      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
-      "tags": [
-        "llm",
-        "javascript",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
-      "source": "Dev.to",
-      "user": "Jasmin Virdi"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -691,6 +676,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oa8q3x1tyd6u5iji4cb.png",
       "source": "Dev.to",
       "user": "Alfon"
+    },
+    {
+      "title": "An LLM API call, in 4 GIFs",
+      "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
+      "published_at": "2026-05-26T20:52:22Z",
+      "description": "This is the first post of series Building TinyAgent where we are going to build a small agent from...",
+      "tags": [
+        "llm",
+        "javascript",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
+      "source": "Dev.to",
+      "user": "Jasmin Virdi"
     },
     {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 586,
       "user": "withkynam"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "ytnrvdf"
     },
     {
@@ -914,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 464,
       "user": "Sophomoresty"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 398,
       "user": "ace-trump-tech"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "Novaquant-labs"
     }
   ],
@@ -1534,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 398,
       "user": "ace-trump-tech"
     },
     {
@@ -1549,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 582,
       "user": "MatinSenPai"
     }
   ],
@@ -1829,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 586,
       "user": "withkynam"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "ytnrvdf"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 464,
       "user": "Sophomoresty"
     },
     {
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 398,
       "user": "ace-trump-tech"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "Novaquant-labs"
     },
     {
@@ -1979,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 582,
       "user": "MatinSenPai"
     },
     {
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "macan-dev"
     },
     {
