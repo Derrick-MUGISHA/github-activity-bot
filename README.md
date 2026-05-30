@@ -1,8 +1,8 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-103-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-9-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-30-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,19 +28,19 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 42 (40.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (28.2%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (23.3%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 16 (15.5%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 12 (11.7%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 12 (11.4%)
 
-**WebDev**: 🟦🟦🟦 7 (6.8%)
+**WebDev**: 🟦🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦🟦 4 (3.9%)
+**DevOps**: 🟦🟦 4 (3.8%)
 
 **Mobile**: 🟦 2 (1.9%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 58 articles
+- **Dev.to**: 60 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -62,11 +62,12 @@
 ```
 JavaScript      ██████████████████████████████ 28.9 (28.9%)
 Java            ████████████████████████ 22.9 (22.9%)
-Go              ████████████████████████ 22.9 (22.9%)
+Go              ███████████████████████ 21.7 (21.7%)
 Python          ████████████████████ 19.3 (19.3%)
 Rust            ██ 2.4 (2.4%)
 Kotlin          █ 1.2 (1.2%)
 Swift           █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
 
 ```
@@ -75,19 +76,19 @@ CSharp          █ 1.2 (1.2%)
 pie title Programming Languages Distribution
     "JavaScript" : 24
     "Java" : 19
-    "Go" : 19
+    "Go" : 18
     "Python" : 16
     "Rust" : 2
     "Kotlin" : 1
     "Swift" : 1
-    "CSharp" : 1
+    "PHP" : 1
 ```
 
 
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-16-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -127,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-30 10:00 CAT)
+## 📅 Latest Updates (2026-05-30 12:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -182,10 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png" width="200" alt="Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI" />
+    <a href="https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png" width="200" alt="The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments" />
       <br/>
-      <b>Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run,...</b>
+      <b>The Kubernetes Overkill: Why I Built a "K8s Killer...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -202,8 +203,8 @@ npm run test
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
 - [How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)](https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o) _[Dev.to]_
-- [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
 - [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) _[Dev.to]_
+- [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
 - [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek) _[Dev.to]_
 - [I was wrong about Electron](https://dev.to/moboudra/i-was-wrong-about-electron-1e9g) _[Dev.to]_
 - [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1) _[Dev.to]_
@@ -215,10 +216,10 @@ npm run test
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 - [Building an SEO crawler in TypeScript: what I learned](https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo) _[Dev.to]_
 - [Cross Language A2A Agent Benchmarking with Antigravity CLI](https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1) _[Dev.to]_
-- [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
 - [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
+- [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
 
-_Last automated update: Sat, 30 May 2026 10:40:01 CAT_
+_Last automated update: Sat, 30 May 2026 12:28:13 CAT_
 
 
 
@@ -226,36 +227,36 @@ _Last automated update: Sat, 30 May 2026 10:40:01 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. React: Explain the difference between state and props
+### 1. React: What is the Virtual DOM and how does React use it?
 
-**Difficulty**: Easy | **Topics**: data flow, components
+**Difficulty**: Easy | **Topics**: rendering, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Ownership, mutability, data flow direction
+Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-### 2. SystemDesign: Design a distributed cache system
+### 2. Python: Explain GIL and its implications for multithreading
 
-**Difficulty**: Hard | **Topics**: distributed systems, caching
+**Difficulty**: Hard | **Topics**: concurrency, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-Consistency, partitioning, replication, eviction policies
+Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-### 3. Python: What are generators and when would you use them?
+### 3. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -289,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 30 May 2026 08:40:01 GMT</b><br/>
+  <b>Last automated update: Sat, 30 May 2026 10:28:13 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
