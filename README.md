@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 43 (41.0%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 44 (41.9%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 12 (11.4%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 13 (12.4%)
 
 **WebDev**: 🟦🟦🟦 6 (5.7%)
 
 **DevOps**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦 2 (1.9%)
+**Mobile**: 🟦 3 (2.9%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.9 (28.9%)
-Java            ████████████████████████ 22.9 (22.9%)
-Go              ███████████████████████ 21.7 (21.7%)
-Python          ████████████████████ 19.3 (19.3%)
+JavaScript      ██████████████████████████████ 29.4 (29.4%)
+Java            ████████████████████████ 23.5 (23.5%)
+Go              ████████████████████ 20.0 (20.0%)
+Python          ███████████████████ 18.8 (18.8%)
 Rust            ██ 2.4 (2.4%)
-Kotlin          █ 1.2 (1.2%)
+Kotlin          ██ 2.4 (2.4%)
 Swift           █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
@@ -74,12 +74,12 @@ CSharp          █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
-    "Java" : 19
-    "Go" : 18
+    "JavaScript" : 25
+    "Java" : 20
+    "Go" : 17
     "Python" : 16
     "Rust" : 2
-    "Kotlin" : 1
+    "Kotlin" : 2
     "Swift" : 1
     "PHP" : 1
 ```
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-17-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![webdev](https://img.shields.io/badge/webdev-5-blue) ![productivity](https://img.shields.io/badge/productivity-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
+![ai](https://img.shields.io/badge/ai-18-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![javascript](https://img.shields.io/badge/javascript-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![agents](https://img.shields.io/badge/agents-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-30 13:00 CAT)
+## 📅 Latest Updates (2026-05-30 15:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -183,10 +183,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png" width="200" alt="The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments" />
+    <a href="https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png" width="200" alt="Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI" />
       <br/>
-      <b>The Kubernetes Overkill: Why I Built a "K8s Killer...</b>
+      <b>Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run,...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -203,9 +203,7 @@ npm run test
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)](https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o) _[Dev.to]_
-- [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) _[Dev.to]_
 - [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
-- [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek) _[Dev.to]_
 - [I was wrong about Electron](https://dev.to/moboudra/i-was-wrong-about-electron-1e9g) _[Dev.to]_
 - [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1) _[Dev.to]_
 - [VS Code Prompt Files - Custom Slash Commands for GitHub Copilot](https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f) _[Dev.to]_
@@ -218,8 +216,10 @@ npm run test
 - [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
 - [Cross Language A2A Agent Benchmarking with Antigravity CLI](https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1) _[Dev.to]_
 - [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
+- [Revisiting Benchmarking- Building a Rust A2A Agent](https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2) _[Dev.to]_
+- [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a) _[Dev.to]_
 
-_Last automated update: Sat, 30 May 2026 13:53:22 CAT_
+_Last automated update: Sat, 30 May 2026 15:21:11 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sat, 30 May 2026 13:53:22 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: How do you handle errors in async/await?
+### 1. React: How would you optimize a React app's performance?
 
-**Difficulty**: Medium | **Topics**: error handling, async
+**Difficulty**: Hard | **Topics**: optimization, performance
 
 <details>
 <summary>💡 Hint</summary>
 
-try/catch, .catch(), error middleware
+React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-### 2. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. Python: Explain GIL and its implications for multithreading
+### 3. DataStructures: Find the longest substring without repeating characters
 
-**Difficulty**: Hard | **Topics**: concurrency, performance
+**Difficulty**: Medium | **Topics**: strings, sliding window
 
 <details>
 <summary>💡 Hint</summary>
 
-Global Interpreter Lock, multiprocessing alternatives
+Sliding window, hash map, two pointers
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sat, 30 May 2026 11:53:22 GMT</b><br/>
+  <b>Last automated update: Sat, 30 May 2026 13:21:11 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
