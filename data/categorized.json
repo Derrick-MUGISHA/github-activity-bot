@@ -206,21 +206,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
-      "published_at": "2026-05-27T09:44:36Z",
-      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
-      "tags": [
-        "ai",
-        "cli",
-        "google",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -337,6 +322,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
       "source": "Dev.to",
       "user": "Esteban Hernández"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
+    },
+    {
+      "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
+      "url": "https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf",
+      "published_at": "2026-05-27T23:34:00Z",
+      "description": "Here are some Claude Code slash commands you may not know (I didn't know these.)",
+      "tags": [
+        "ai",
+        "claude",
+        "claudecode",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5g286r9vioyqgfep6ywn.png",
+      "source": "Dev.to",
+      "user": "Lizzie Siegle"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -494,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 555,
       "user": "withkynam"
     },
     {
@@ -509,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "neuralCPL"
     },
     {
@@ -524,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "baoweise-bot"
     },
     {
@@ -539,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "Sophomoresty"
     },
     {
@@ -569,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 381,
       "user": "ace-trump-tech"
     },
     {
@@ -584,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 435,
       "user": "MatinSenPai"
     },
     {
@@ -693,21 +708,6 @@
       "user": "Divyesh"
     },
     {
-      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-      "published_at": "2026-05-27T20:56:35Z",
-      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
-      "tags": [
-        "webdev",
-        "security",
-        "career",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
-      "source": "Dev.to",
-      "user": "Arsenic"
-    },
-    {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
       "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
       "published_at": "2026-05-28T14:39:29Z",
@@ -736,6 +736,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
+    },
+    {
+      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
+      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
+      "published_at": "2026-05-27T20:56:35Z",
+      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
+      "tags": [
+        "webdev",
+        "security",
+        "career",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
+      "source": "Dev.to",
+      "user": "Arsenic"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -869,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 555,
       "user": "withkynam"
     },
     {
@@ -884,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "SigmaTradeLabs"
     },
     {
@@ -899,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 355,
       "user": "ytnrvdf"
     },
     {
@@ -914,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "neuralCPL"
     },
     {
@@ -929,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "paraschopra"
     }
   ],
@@ -1081,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "baoweise-bot"
     },
     {
@@ -1096,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "Sophomoresty"
     },
     {
@@ -1126,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 381,
       "user": "ace-trump-tech"
     },
     {
@@ -1141,11 +1171,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 373,
       "user": "Novaquant-labs"
     }
   ],
   "DevOps": [
+    {
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "published_at": "2026-05-29T01:46:49Z",
+      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
+      "tags": [
+        "aws",
+        "terraform",
+        "serverless",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
+      "source": "Dev.to",
+      "user": "Cristhian Ferreira "
+    },
     {
       "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
       "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k",
@@ -1175,21 +1220,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png",
       "source": "Dev.to",
       "user": "Harish"
-    },
-    {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "published_at": "2026-05-29T01:46:49Z",
-      "description": "How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.",
-      "tags": [
-        "aws",
-        "terraform",
-        "serverless",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
-      "source": "Dev.to",
-      "user": "Cristhian Ferreira "
     },
     {
       "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
@@ -1324,6 +1354,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
       "source": "Dev.to",
       "user": "Adolfo Reyna"
+    },
+    {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
+      "published_at": "2026-05-15T15:00:00Z",
+      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "tags": [
+        "androidxr",
+        "googleglass",
+        "googleassistant",
+        "voicefirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
     }
   ],
   "Cloud": [
@@ -1478,6 +1523,21 @@
       "user": "Pato"
     },
     {
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
+      "published_at": "2026-05-15T15:00:00Z",
+      "description": "It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...",
+      "tags": [
+        "androidxr",
+        "googleglass",
+        "googleassistant",
+        "voicefirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
+    },
+    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
       "published_at": "2026-05-26T05:24:10Z",
@@ -1489,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 381,
       "user": "ace-trump-tech"
     },
     {
@@ -1504,7 +1564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 435,
       "user": "MatinSenPai"
     }
   ],
@@ -1698,21 +1758,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
-      "published_at": "2026-05-27T09:44:36Z",
-      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
-      "tags": [
-        "ai",
-        "cli",
-        "google",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "I Turned npm outdated into a CI Gate — Here's How",
       "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
       "published_at": "2026-05-24T17:20:15Z",
@@ -1799,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 555,
       "user": "withkynam"
     },
     {
@@ -1814,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 371,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1829,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 355,
       "user": "ytnrvdf"
     },
     {
@@ -1844,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "neuralCPL"
     },
     {
@@ -1859,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "paraschopra"
     },
     {
@@ -1874,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "baoweise-bot"
     },
     {
@@ -1889,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "Sophomoresty"
     },
     {
@@ -1919,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 381,
       "user": "ace-trump-tech"
     },
     {
@@ -1934,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 373,
       "user": "Novaquant-labs"
     },
     {
@@ -1949,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 435,
       "user": "MatinSenPai"
     },
     {
@@ -1998,19 +2043,19 @@
       "user": "79E"
     },
     {
-      "title": "hereww/codextools - GitHub Repository",
-      "url": "https://github.com/hereww/codextools",
-      "published_at": "2026-05-24T08:04:11Z",
-      "description": "Trending GitHub Repository",
+      "title": "macan-dev/EasySNI - Bypass censorships using Go Lang",
+      "url": "https://github.com/macan-dev/EasySNI",
+      "published_at": "2026-05-25T22:10:30Z",
+      "description": "Bypass censorships using Go Lang",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6443202?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
       "source": "GitHub",
-      "stars": 40,
-      "user": "hereww"
+      "stars": 41,
+      "user": "macan-dev"
     }
   ]
 }
