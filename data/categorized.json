@@ -146,21 +146,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
-      "source": "Dev.to",
-      "user": "Pato"
-    },
-    {
       "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
       "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
       "published_at": "2026-05-28T15:56:02Z",
@@ -174,6 +159,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
+    },
+    {
+      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
+      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
+      "published_at": "2026-05-28T14:54:55Z",
+      "description": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "napkinchallenge",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "AI fatigue is very real and people are fighting back!",
@@ -221,20 +221,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
-      "published_at": "2026-05-26T23:19:30Z",
-      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
-      "tags": [
-        "iphone",
-        "ios",
-        "retrocomputing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
-      "source": "Dev.to",
-      "user": "Adolfo Reyna"
-    },
-    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "published_at": "2026-05-25T15:08:33Z",
@@ -248,6 +234,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Making a New Native App for a Jailbroken iPhone 6",
+      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
+      "published_at": "2026-05-26T23:19:30Z",
+      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
+      "tags": [
+        "iphone",
+        "ios",
+        "retrocomputing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
+      "source": "Dev.to",
+      "user": "Adolfo Reyna"
     },
     {
       "title": "Pokemon Battle Simulator Napkin Challenge!",
@@ -294,21 +294,6 @@
       "user": "Vinicius Brasil"
     },
     {
-      "title": "The Quiet AI War Inside Your Browser",
-      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
-      "published_at": "2026-05-25T22:09:47Z",
-      "description": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
-      "tags": [
-        "ai",
-        "frontend",
-        "browser",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
-      "source": "Dev.to",
-      "user": "Beto Muniz"
-    },
-    {
       "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
       "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
       "published_at": "2026-05-13T06:30:47Z",
@@ -322,6 +307,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
+    },
+    {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
+      "source": "Dev.to",
+      "user": "Pato"
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -479,7 +494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "withkynam"
     },
     {
@@ -494,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "neuralCPL"
     },
     {
@@ -509,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 475,
       "user": "baoweise-bot"
     },
     {
@@ -524,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "Sophomoresty"
     },
     {
@@ -539,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "FlashML-org"
     },
     {
@@ -554,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 368,
       "user": "ace-trump-tech"
     },
     {
@@ -569,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 424,
       "user": "MatinSenPai"
     },
     {
@@ -854,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "withkynam"
     },
     {
@@ -869,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "SigmaTradeLabs"
     },
     {
@@ -884,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "ytnrvdf"
     },
     {
@@ -899,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "neuralCPL"
     },
     {
@@ -914,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 320,
       "user": "paraschopra"
     }
   ],
@@ -1066,7 +1081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 475,
       "user": "baoweise-bot"
     },
     {
@@ -1081,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "Sophomoresty"
     },
     {
@@ -1096,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "FlashML-org"
     },
     {
@@ -1111,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 369,
       "user": "Novaquant-labs"
     },
     {
@@ -1126,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 368,
       "user": "ace-trump-tech"
     }
   ],
@@ -1268,21 +1283,6 @@
       "user": "Sage Starr"
     },
     {
-      "title": "The Quiet AI War Inside Your Browser",
-      "url": "https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd",
-      "published_at": "2026-05-25T22:09:47Z",
-      "description": "Google shipped the Prompt API in Chrome 148 on May 5, 2026. Mozilla objected. Apple's WebKit team...",
-      "tags": [
-        "ai",
-        "frontend",
-        "browser",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffuh1wcyzd9105sxtfkb5.jpeg",
-      "source": "Dev.to",
-      "user": "Beto Muniz"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1403,21 +1403,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
-      "source": "Dev.to",
-      "user": "Pato"
-    },
-    {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
       "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
       "published_at": "2026-05-22T16:27:19Z",
@@ -1478,6 +1463,21 @@
       "user": "xbill"
     },
     {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
+      "source": "Dev.to",
+      "user": "Pato"
+    },
+    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
       "published_at": "2026-05-26T05:24:10Z",
@@ -1489,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 368,
       "user": "ace-trump-tech"
     },
     {
@@ -1504,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 424,
       "user": "MatinSenPai"
     }
   ],
@@ -1684,21 +1684,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
-      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
-      "published_at": "2026-05-27T18:50:56Z",
-      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
-      "source": "Dev.to",
-      "user": "Pato"
-    },
-    {
       "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
       "url": "https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41",
       "published_at": "2026-05-21T17:33:15Z",
@@ -1773,6 +1758,36 @@
       "user": "Bimochan Shrestha"
     },
     {
+      "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
+      "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
+      "published_at": "2026-05-27T18:50:56Z",
+      "description": "A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png",
+      "source": "Dev.to",
+      "user": "Pato"
+    },
+    {
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "published_at": "2026-05-19T01:19:01Z",
+      "description": "Stop losing the reasoning behind AI-driven changes. `ailog` gives every agent decision a permanent, searchable home — in a single file that lives next to your code.",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiepChlG6jzuuM5lEf7nwaW5qe3XMf8RxDFzrxyB_eQvtnT_LwMLzPD_YgM5g_s3iGSzvrPBYXpL7GrA2sZ3ZHR97MMtkJbj7Hv0E5WVDSmL-W8PFanVryMwzuNDBnZlmfQgOKzmI9wrbU%2Fw600-h314-p-k-no-nu%2Fmedieval-scribe.jpg",
+      "source": "Dev.to",
+      "user": "Esteban Hernández"
+    },
+    {
       "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "published_at": "2026-05-27T05:46:25Z",
@@ -1784,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "withkynam"
     },
     {
@@ -1799,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 367,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1814,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "ytnrvdf"
     },
     {
@@ -1829,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "neuralCPL"
     },
     {
@@ -1844,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 320,
       "user": "paraschopra"
     },
     {
@@ -1859,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 475,
       "user": "baoweise-bot"
     },
     {
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "Sophomoresty"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "FlashML-org"
     },
     {
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 369,
       "user": "Novaquant-labs"
     },
     {
@@ -1919,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 368,
       "user": "ace-trump-tech"
     },
     {
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 424,
       "user": "MatinSenPai"
     },
     {
