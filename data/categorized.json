@@ -44,21 +44,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "published_at": "2026-05-29T12:11:12Z",
-      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
-      "tags": [
-        "machinelearning",
-        "ai",
-        "llm",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
-      "source": "Dev.to",
-      "user": "Sergey Parfenov"
-    },
-    {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
       "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
       "published_at": "2026-05-28T18:50:28Z",
@@ -144,6 +129,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
+      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
+      "published_at": "2026-05-29T12:11:12Z",
+      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
+      "tags": [
+        "machinelearning",
+        "ai",
+        "llm",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
+      "source": "Dev.to",
+      "user": "Sergey Parfenov"
     },
     {
       "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
@@ -509,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 574,
       "user": "withkynam"
     },
     {
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "baoweise-bot"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 423,
       "user": "Sophomoresty"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "ace-trump-tech"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 507,
       "user": "MatinSenPai"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 574,
       "user": "withkynam"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 395,
       "user": "ytnrvdf"
     },
     {
@@ -929,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "paraschopra"
     },
     {
@@ -1096,7 +1096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "baoweise-bot"
     },
     {
@@ -1111,7 +1111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 423,
       "user": "Sophomoresty"
     },
     {
@@ -1141,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "ace-trump-tech"
     },
     {
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "Novaquant-labs"
     }
   ],
@@ -1205,6 +1205,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
+    },
+    {
+      "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
+      "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek",
+      "published_at": "2026-05-28T13:23:43Z",
+      "description": "The job that kept dying   We run a nightly archival job that exports a few large Postgres...",
+      "tags": [
+        "dataengineering",
+        "go",
+        "kubernetes",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png",
+      "source": "Dev.to",
+      "user": "Harish"
     }
   ],
   "WebDev": [
@@ -1519,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "ace-trump-tech"
     },
     {
@@ -1534,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 507,
       "user": "MatinSenPai"
     }
   ],
@@ -1814,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 574,
       "user": "withkynam"
     },
     {
@@ -1829,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 395,
       "user": "ytnrvdf"
     },
     {
@@ -1859,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 332,
       "user": "paraschopra"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "baoweise-bot"
     },
     {
@@ -1904,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 423,
       "user": "Sophomoresty"
     },
     {
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 397,
       "user": "ace-trump-tech"
     },
     {
@@ -1949,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286711328?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "Novaquant-labs"
     },
     {
@@ -1964,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 507,
       "user": "MatinSenPai"
     },
     {
