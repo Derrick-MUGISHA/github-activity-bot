@@ -1887064,3 +1887064,821 @@ About storing application configs in code rather than database
 
 ---
 
+
+
+## 📰 DevTech News — 2026-05-31 23:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (44 articles)
+
+#### 1. [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c)
+📅 Sat, 30 May 2026 16:00:54 GMT
+👤 By: Arqam Waheed | 📌 Source: Dev.to
+
+![I Made My AI Models Argue, Then Let Hermes Be the Judge](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png)
+
+A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.
+
+🏷️ Tags: `hermesagentchallenge`, `devchallenge`, `agents`, `ai`
+
+---
+
+#### 2. [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c)
+📅 Wed, 27 May 2026 07:11:18 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![How Are Developers Actually Using AI At Work?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png)
+
+JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...
+
+🏷️ Tags: `discuss`, `ai`
+
+---
+
+#### 3. [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
+📅 Wed, 27 May 2026 11:19:34 GMT
+👤 By: Michal Král | 📌 Source: Dev.to
+
+![I love MJML — I just didn't want a whole templating engine for two tiny things](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png)
+
+I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...
+
+🏷️ Tags: `mjml`, `i18n`, `opensource`, `javascript`
+
+---
+
+#### 4. [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h)
+📅 Thu, 28 May 2026 19:04:59 GMT
+👤 By: Karl L. Hughes | 📌 Source: Dev.to
+
+![The Software Developer's Guide to AEO](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png)
+
+When I was writing code full-time five years ago, I Googled error messages, opened five tabs, and...
+
+🏷️ Tags: `ai`, `contentwriting`, `documentation`
+
+---
+
+#### 5. [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+📅 Tue, 26 May 2026 20:52:22 GMT
+👤 By: Jasmin Virdi | 📌 Source: Dev.to
+
+![An LLM API call, in 4 GIFs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png)
+
+This is the first post of series Building TinyAgent where we are going to build a small agent from...
+
+🏷️ Tags: `llm`, `javascript`, `ai`, `beginners`
+
+---
+
+#### 6. [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe)
+📅 Wed, 27 May 2026 09:44:24 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png)
+
+Preface   In the previous article, we successfully upgraded the LINE business card...
+
+🏷️ Tags: `ai`, `gemini`, `google`, `python`
+
+---
+
+#### 7. [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l)
+📅 Wed, 27 May 2026 19:45:09 GMT
+👤 By: Fayaz | 📌 Source: Dev.to
+
+![AI fatigue is very real and people are fighting back!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png)
+
+Don't really like how CEOs are acting like AI is the solution for everything, it certainly is...
+
+🏷️ Tags: `ai`, `workplace`, `discuss`, `career`
+
+---
+
+#### 8. [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4)
+📅 Thu, 28 May 2026 14:53:02 GMT
+👤 By: Harsh  | 📌 Source: Dev.to
+
+![I Spent 10x Longer Debugging AI Code Than Writing It](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png)
+
+AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `discuss`
+
+---
+
+#### 9. [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6)
+📅 Mon, 25 May 2026 15:08:33 GMT
+👤 By: Rohini Gaonkar | 📌 Source: Dev.to
+
+![Why does AI forget what you said (and how to fix it)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png)
+
+I received following comment on my hallucinations blog post.                       Comment on Why...
+
+🏷️ Tags: `ai`, `beginners`, `aws`, `tutorial`
+
+---
+
+#### 10. [Making a New Native App for a Jailbroken iPhone 6](https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5)
+📅 Tue, 26 May 2026 23:19:30 GMT
+👤 By: Adolfo Reyna | 📌 Source: Dev.to
+
+![Making a New Native App for a Jailbroken iPhone 6](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png)
+
+Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.
+
+🏷️ Tags: `iphone`, `ios`, `retrocomputing`
+
+---
+
+### 🏷️ JavaScript (25 articles)
+
+#### 1. [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c)
+📅 Wed, 27 May 2026 07:11:18 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![How Are Developers Actually Using AI At Work?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png)
+
+JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...
+
+🏷️ Tags: `discuss`, `ai`
+
+---
+
+#### 2. [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
+📅 Wed, 27 May 2026 11:19:34 GMT
+👤 By: Michal Král | 📌 Source: Dev.to
+
+![I love MJML — I just didn't want a whole templating engine for two tiny things](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png)
+
+I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...
+
+🏷️ Tags: `mjml`, `i18n`, `opensource`, `javascript`
+
+---
+
+#### 3. [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+📅 Tue, 26 May 2026 20:52:22 GMT
+👤 By: Jasmin Virdi | 📌 Source: Dev.to
+
+![An LLM API call, in 4 GIFs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png)
+
+This is the first post of series Building TinyAgent where we are going to build a small agent from...
+
+🏷️ Tags: `llm`, `javascript`, `ai`, `beginners`
+
+---
+
+#### 4. [TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2)
+📅 Thu, 28 May 2026 14:39:29 GMT
+👤 By: Sage Starr | 📌 Source: Dev.to
+
+![TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png)
+
+After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...
+
+🏷️ Tags: `typescript`, `javascript`, `enum`, `opensource`
+
+---
+
+#### 5. [I Turned npm outdated into a CI Gate — Here's How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o)
+📅 Sun, 24 May 2026 17:20:15 GMT
+👤 By: Sulthon Zainul Habib | 📌 Source: Dev.to
+
+![I Turned npm outdated into a CI Gate — Here's How](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png)
+
+You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....
+
+🏷️ Tags: `javascript`, `node`, `ci`, `devtools`
+
+---
+
+#### 6. [Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞](https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf)
+📅 Wed, 27 May 2026 04:59:28 GMT
+👤 By: Divyesh | 📌 Source: Dev.to
+
+![Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`, `typescript`, `opensource`
+
+---
+
+#### 7. [How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi)
+📅 Wed, 27 May 2026 20:56:35 GMT
+👤 By: Arsenic | 📌 Source: Dev.to
+
+![How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png)
+
+Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...
+
+🏷️ Tags: `webdev`, `security`, `career`, `node`
+
+---
+
+#### 8. [Building an SEO crawler in TypeScript: what I learned](https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo)
+📅 Thu, 28 May 2026 08:32:17 GMT
+👤 By: Alfon | 📌 Source: Dev.to
+
+![Building an SEO crawler in TypeScript: what I learned](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2oa8q3x1tyd6u5iji4cb.png)
+
+I have been working on a project called SEOCore, which is an SEO crawler and audit CLI built with...
+
+🏷️ Tags: `programming`, `typescript`, `node`, `opensource`
+
+---
+
+#### 9. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (16 articles)
+
+#### 1. [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe)
+📅 Wed, 27 May 2026 09:44:24 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png)
+
+Preface   In the previous article, we successfully upgraded the LINE business card...
+
+🏷️ Tags: `ai`, `gemini`, `google`, `python`
+
+---
+
+#### 2. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (5 articles)
+
+#### 1. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 2. [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k)
+📅 Fri, 29 May 2026 09:48:30 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png)
+
+Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...
+
+🏷️ Tags: `architecture`, `devops`, `kubernetes`, `showdev`
+
+---
+
+#### 3. [Default Nginx Is Dead? Here’s What’s Replacing It](https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en)
+📅 Tue, 26 May 2026 16:43:57 GMT
+👤 By: Himanshu Gupta | 📌 Source: Dev.to
+
+![Default Nginx Is Dead? Here’s What’s Replacing It](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png)
+
+For years, NGINX has been the default choice for reverse proxying and load balancing.  It solved...
+
+🏷️ Tags: `nginx`, `kubernetes`, `devops`, `webdev`
+
+---
+
+#### 4. [How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek)
+📅 Thu, 28 May 2026 13:23:43 GMT
+👤 By: Harish | 📌 Source: Dev.to
+
+![How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png)
+
+The job that kept dying   We run a nightly archival job that exports a few large Postgres...
+
+🏷️ Tags: `dataengineering`, `go`, `kubernetes`, `performance`
+
+---
+
+#### 5. [docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes](https://github.com/docker-desktop-windows/docker-desktop)
+📅 Sun, 31 May 2026 16:54:01 GMT
+👤 By: docker-desktop-windows | 📌 Source: GitHub
+
+![docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes](https://avatars.githubusercontent.com/u/153310672?v=4)
+
+docker desktop windows mac install download free windows 11 github wsl2 kubernetes
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 104
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 2. [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
+📅 Wed, 27 May 2026 11:19:34 GMT
+👤 By: Michal Král | 📌 Source: Dev.to
+
+![I love MJML — I just didn't want a whole templating engine for two tiny things](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png)
+
+I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...
+
+🏷️ Tags: `mjml`, `i18n`, `opensource`, `javascript`
+
+---
+
+#### 3. [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof)
+📅 Wed, 27 May 2026 14:09:19 GMT
+👤 By: Christian Heilmann | 📌 Source: Dev.to
+
+![Accessibility question: is nesting interactive elements bad?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png)
+
+Is it confusing to have links inside labels? Does it break in some screenreaders?
+
+🏷️ Tags: `a11y`, `html`, `forms`
+
+---
+
+#### 4. [TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2)
+📅 Thu, 28 May 2026 14:39:29 GMT
+👤 By: Sage Starr | 📌 Source: Dev.to
+
+![TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png)
+
+After enough frontend work, the “should we use TypeScript enums?” debate matters less than a more...
+
+🏷️ Tags: `typescript`, `javascript`, `enum`, `opensource`
+
+---
+
+#### 5. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [Making a New Native App for a Jailbroken iPhone 6](https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5)
+📅 Tue, 26 May 2026 23:19:30 GMT
+👤 By: Adolfo Reyna | 📌 Source: Dev.to
+
+![Making a New Native App for a Jailbroken iPhone 6](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png)
+
+Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.
+
+🏷️ Tags: `iphone`, `ios`, `retrocomputing`
+
+---
+
+#### 2. [In 2026, you can just prompt your way to a working Android app. 🤯](https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9)
+📅 Thu, 28 May 2026 15:56:02 GMT
+👤 By: Paige Bailey | 📌 Source: Dev.to
+
+![In 2026, you can just prompt your way to a working Android app. 🤯](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png)
+
+If you’ve been doing Android development for a while, you know the drill. You start a new project,...
+
+🏷️ Tags: `android`, `ai`, `programming`, `mobile`
+
+---
+
+#### 3. [Through the Blue Frames: UX From Google Glass to Gemini](https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0)
+📅 Fri, 15 May 2026 15:00:00 GMT
+👤 By: Allen Firstenberg | 📌 Source: Dev.to
+
+![Through the Blue Frames: UX From Google Glass to Gemini](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lbjql6343q9ph7pbp3l.png)
+
+It's a busy few weeks for me. Three weeks ago I attended a GDE Summit and Google Cloud Next. Two...
+
+🏷️ Tags: `androidxr`, `googleglass`, `googleassistant`, `voicefirst`
+
+---
+
+### 🏷️ Cloud (14 articles)
+
+#### 1. [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h)
+📅 Thu, 28 May 2026 20:13:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png)
+
+This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...
+
+🏷️ Tags: `googlecloudrun`, `antigravitycli`, `gemma4`, `mcpserver`
+
+---
+
+#### 2. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 3. [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a)
+📅 Tue, 26 May 2026 19:07:25 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![AWS Cloud Shell with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fos621tkg7zvobn7fl88v.png)
+
+This article covers the initial setup and configuration for the Antigravity CLI on the AWS Cloud...
+
+🏷️ Tags: `aws`, `cli`, `gemini35`, `antigravitycli`
+
+---
+
+#### 4. [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6)
+📅 Tue, 26 May 2026 14:18:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Azure Cloud Shell with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jrlpga3a7173543lzdj.png)
+
+This article covers the initial setup and configuration for the Antigravity CLI on the Azure Cloud...
+
+🏷️ Tags: `cli`, `azurecloudshell`, `antigravitycli`, `azure`
+
+---
+
+#### 5. [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe)
+📅 Wed, 27 May 2026 09:44:24 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png)
+
+Preface   In the previous article, we successfully upgraded the LINE business card...
+
+🏷️ Tags: `ai`, `gemini`, `google`, `python`
+
+---
+
+#### 6. [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6)
+📅 Mon, 25 May 2026 15:08:33 GMT
+👤 By: Rohini Gaonkar | 📌 Source: Dev.to
+
+![Why does AI forget what you said (and how to fix it)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png)
+
+I received following comment on my hallucinations blog post.                       Comment on Why...
+
+🏷️ Tags: `ai`, `beginners`, `aws`, `tutorial`
+
+---
+
+#### 7. [Pokemon Battle Simulator Napkin Challenge!](https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db)
+📅 Tue, 26 May 2026 23:07:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Pokemon Battle Simulator Napkin Challenge!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg)
+
+▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...
+
+🏷️ Tags: `napkinchallenge`, `antigravity`, `cli`, `googlecloud`
+
+---
+
+#### 8. [How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f)
+📅 Fri, 22 May 2026 16:27:19 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png)
+
+Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...
+
+🏷️ Tags: `gemini`, `ai`, `googlecloud`, `postgres`
+
+---
+
+#### 9. [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd)
+📅 Thu, 14 May 2026 15:18:37 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa8t6oe4qduwi97q1b5sx.png)
+
+The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...
+
+🏷️ Tags: `rust`, `agents`, `aws`, `awslambda`
+
+---
+
+#### 10. [Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7)
+📅 Wed, 27 May 2026 18:50:56 GMT
+👤 By: Pato | 📌 Source: Dev.to
+
+![Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87cli5ie18zidvmao5p0.png)
+
+A hands-on tutorial for developers who want to extend Claude with a reusable, file-based skill that...
+
+🏷️ Tags: `ai`, `claude`, `googlecloud`, `productivity`
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph)
+📅 Fri, 22 May 2026 15:12:33 GMT
+👤 By: Bimochan Shrestha | 📌 Source: Dev.to
+
+![Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png)
+
+About storing application configs in code rather than database
+
+🏷️ Tags: `configs`, `mindset`, `database`, `dx`
+
+---
+
+#### 2. [I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL](https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8)
+📅 Wed, 27 May 2026 10:23:24 GMT
+👤 By: Sahil SIlare | 📌 Source: Dev.to
+
+![I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png)
+
+"Here are the personal admin risks that can cost me money, time, or access this week — with the...
+
+🏷️ Tags: `ai`, `sql`, `webdev`, `hackathon`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Security (2 articles)
+
+#### 1. [How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi)
+📅 Wed, 27 May 2026 20:56:35 GMT
+👤 By: Arsenic | 📌 Source: Dev.to
+
+![How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png)
+
+Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...
+
+🏷️ Tags: `webdev`, `security`, `career`, `node`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+### 🏷️ Tools (29 articles)
+
+#### 1. [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p)
+📅 Fri, 29 May 2026 01:46:49 GMT
+👤 By: Cristhian Ferreira  | 📌 Source: Dev.to
+
+![🦄 Modernizing Wild Rydes with modern technologies](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png)
+
+How I rebuilt the classic AWS Wild Rydes serverless app with Terraform, GitHub Actions, S3 + CloudFront, OIDC, and a modern Vite frontend — no console required.
+
+🏷️ Tags: `aws`, `terraform`, `serverless`, `devops`
+
+---
+
+#### 2. [Revisiting Benchmarking- Building a Rust A2A Agent](https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2)
+📅 Wed, 27 May 2026 02:55:27 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Revisiting Benchmarking- Building a Rust A2A Agent](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3h3xmboq9h4jmsdmsbk3.png)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`, `a2a`, `benchmarking`
+
+---
+
+#### 3. [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5)
+📅 Tue, 26 May 2026 08:08:46 GMT
+👤 By: Marcus Ang | 📌 Source: Dev.to
+
+![Github Copilot helped us cut down 50-75% time in our e-commerce business](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png)
+
+This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`
+
+---
+
+#### 4. [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe)
+📅 Wed, 27 May 2026 09:44:24 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png)
+
+Preface   In the previous article, we successfully upgraded the LINE business card...
+
+🏷️ Tags: `ai`, `gemini`, `google`, `python`
+
+---
+
+#### 5. [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41)
+📅 Thu, 21 May 2026 17:33:15 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png)
+
+We're thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...
+
+🏷️ Tags: `githubchallenge`, `devchallenge`, `githubcopilot`
+
+---
+
+#### 6. [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4)
+📅 Thu, 28 May 2026 14:53:02 GMT
+👤 By: Harsh  | 📌 Source: Dev.to
+
+![I Spent 10x Longer Debugging AI Code Than Writing It](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png)
+
+AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `discuss`
+
+---
+
+#### 7. [I Turned npm outdated into a CI Gate — Here's How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o)
+📅 Sun, 24 May 2026 17:20:15 GMT
+👤 By: Sulthon Zainul Habib | 📌 Source: Dev.to
+
+![I Turned npm outdated into a CI Gate — Here's How](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png)
+
+You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....
+
+🏷️ Tags: `javascript`, `node`, `ci`, `devtools`
+
+---
+
+#### 8. [Copilot helped me deploy my passion project to the App Store](https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6)
+📅 Thu, 28 May 2026 12:42:44 GMT
+👤 By: Harita Duggirala | 📌 Source: Dev.to
+
+![Copilot helped me deploy my passion project to the App Store](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG)
+
+What I Built   I’ve always had a love-hate relationship with technology. In college, I...
+
+🏷️ Tags: `devchallenge`, `githubchallenge`
+
+---
+
+#### 9. [How AI is changing my job as a Staff Engineer: Tracer bullets](https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck)
+📅 Wed, 13 May 2026 19:13:14 GMT
+👤 By: Vinicius Brasil | 📌 Source: Dev.to
+
+![How AI is changing my job as a Staff Engineer: Tracer bullets](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg)
+
+AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...
+
+🏷️ Tags: `ai`, `productivity`, `programming`, `architecture`
+
+---
+
+#### 10. [Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph)
+📅 Fri, 22 May 2026 15:12:33 GMT
+👤 By: Bimochan Shrestha | 📌 Source: Dev.to
+
+![Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png)
+
+About storing application configs in code rather than database
+
+🏷️ Tags: `configs`, `mindset`, `database`, `dx`
+
+---
+
