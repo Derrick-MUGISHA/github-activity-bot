@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-31 23:00 CAT)
+## 📅 Latest Updates (2026-06-01 0:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -219,7 +219,7 @@ npm run test
 - [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
 - [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) _[Dev.to]_
 
-_Last automated update: Sun, 31 May 2026 23:14:57 CAT_
+_Last automated update: Mon, 01 Jun 2026 00:15:51 CAT_
 
 
 
@@ -227,7 +227,18 @@ _Last automated update: Sun, 31 May 2026 23:14:57 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. NodeJS: Explain middleware in Express.js
+### 1. SystemDesign: Design a URL shortening service like bit.ly
+
+**Difficulty**: Medium | **Topics**: system design, scalability
+
+<details>
+<summary>💡 Hint</summary>
+
+Hash function, database design, caching, analytics
+
+</details>
+
+### 2. NodeJS: Explain middleware in Express.js
 
 **Difficulty**: Easy | **Topics**: express, architecture
 
@@ -238,25 +249,14 @@ Request/response cycle, next(), chain of functions
 
 </details>
 
-### 2. JavaScript: What are closures and provide a practical example?
+### 3. JavaScript: What is the difference between `let`, `const`, and `var`?
 
-**Difficulty**: Medium | **Topics**: functions, scope
-
-<details>
-<summary>💡 Hint</summary>
-
-Function + lexical environment, data privacy, callbacks
-
-</details>
-
-### 3. DataStructures: Implement LRU Cache
-
-**Difficulty**: Hard | **Topics**: design, hash map, linked list
+**Difficulty**: Easy | **Topics**: variables, scope
 
 <details>
 <summary>💡 Hint</summary>
 
-Doubly linked list + hash map, O(1) operations
+Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 31 May 2026 21:14:57 GMT</b><br/>
+  <b>Last automated update: Sun, 31 May 2026 22:15:51 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
