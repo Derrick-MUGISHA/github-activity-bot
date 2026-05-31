@@ -32,11 +32,11 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
 
 **WebDev**: 🟦🟦🟦 6 (5.7%)
 
@@ -60,21 +60,21 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.1 (29.1%)
-Java            ███████████████████████ 22.1 (22.1%)
-Go              ██████████████████████ 20.9 (20.9%)
-Python          ███████████████████ 18.6 (18.6%)
-Rust            ████ 3.5 (3.5%)
+JavaScript      ██████████████████████████████ 29.9 (29.9%)
+Java            ██████████████████████ 21.8 (21.8%)
+Go              █████████████████████ 20.7 (20.7%)
+Python          ██████████████████ 18.4 (18.4%)
+Rust            ███ 3.4 (3.4%)
 Kotlin          ██ 2.3 (2.3%)
-Swift           █ 1.2 (1.2%)
-PHP             █ 1.2 (1.2%)
-CSharp          █ 1.2 (1.2%)
+Swift           █ 1.1 (1.1%)
+PHP             █ 1.1 (1.1%)
+CSharp          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
+    "JavaScript" : 26
     "Java" : 19
     "Go" : 18
     "Python" : 16
@@ -88,7 +88,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) 
 
 
 
@@ -128,7 +128,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-31 15:00 CAT)
+## 📅 Latest Updates (2026-05-31 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -136,19 +136,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-i1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfi7226r8a36s3k6mo1o.jpg" width="200" alt="What was your win this week?" />
+    <a href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png" width="200" alt="I Made My AI Models Argue, Then Let Hermes Be the Judge" />
       <br/>
-      <b>What was your win this week?</b>
+      <b>I Made My AI Models Argue, Then Let Hermes Be the ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png" width="200" alt="I Made My AI Models Argue, Then Let Hermes Be the Judge" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-i1">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfi7226r8a36s3k6mo1o.jpg" width="200" alt="What was your win this week?" />
       <br/>
-      <b>I Made My AI Models Argue, Then Let Hermes Be the ...</b>
+      <b>What was your win this week?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,8 +198,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
 - [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
 - [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
 - [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1) _[Dev.to]_
 - [DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together](https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468) _[Dev.to]_
@@ -219,7 +219,7 @@ npm run test
 - [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof) _[Dev.to]_
 - [I was wrong about Electron](https://dev.to/moboudra/i-was-wrong-about-electron-1e9g) _[Dev.to]_
 
-_Last automated update: Sun, 31 May 2026 15:41:08 CAT_
+_Last automated update: Sun, 31 May 2026 17:04:34 CAT_
 
 
 
@@ -227,18 +227,29 @@ _Last automated update: Sun, 31 May 2026 15:41:08 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. JavaScript: Explain event delegation and why it's useful
+### 1. NodeJS: Implement rate limiting for an API
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Hard | **Topics**: security, middleware
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+Token bucket, sliding window, Redis
 
 </details>
 
-### 2. NodeJS: How do you handle errors in async/await?
+### 2. JavaScript: What are closures and provide a practical example?
+
+**Difficulty**: Medium | **Topics**: functions, scope
+
+<details>
+<summary>💡 Hint</summary>
+
+Function + lexical environment, data privacy, callbacks
+
+</details>
+
+### 3. NodeJS: How do you handle errors in async/await?
 
 **Difficulty**: Medium | **Topics**: error handling, async
 
@@ -246,17 +257,6 @@ Event bubbling, single listener for multiple elements
 <summary>💡 Hint</summary>
 
 try/catch, .catch(), error middleware
-
-</details>
-
-### 3. Java: What is the difference between abstract class and interface?
-
-**Difficulty**: Easy | **Topics**: OOP, design
-
-<details>
-<summary>💡 Hint</summary>
-
-Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 31 May 2026 13:41:08 GMT</b><br/>
+  <b>Last automated update: Sun, 31 May 2026 15:04:34 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
