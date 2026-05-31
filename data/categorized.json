@@ -29,6 +29,19 @@
       "user": "Viktor Köves"
     },
     {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -42,19 +55,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "The Software Developer's Guide to AEO",
@@ -513,6 +513,21 @@
       "user": "indigodaddy"
     },
     {
+      "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "published_at": "2026-05-31T14:05:51Z",
+      "description": "Self-hosted AI workspace. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
+      "source": "GitHub",
+      "stars": 1370,
+      "user": "pewdiepie-archdaemon"
+    },
+    {
       "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "published_at": "2026-05-27T05:46:25Z",
@@ -524,23 +539,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 657,
       "user": "withkynam"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 349,
-      "user": "neuralCPL"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 810,
       "user": "Sophomoresty"
     },
     {
@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 691,
       "user": "GordenSun"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 624,
       "user": "baoweise-bot"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 477,
       "user": "ace-trump-tech"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 753,
       "user": "MatinSenPai"
     },
     {
@@ -665,6 +665,19 @@
   ],
   "JavaScript": [
     {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -693,19 +706,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
       "source": "Dev.to",
       "user": "Sanket Bhor"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -918,6 +918,21 @@
       "user": "velmu"
     },
     {
+      "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "published_at": "2026-05-31T14:05:51Z",
+      "description": "Self-hosted AI workspace. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
+      "source": "GitHub",
+      "stars": 1370,
+      "user": "pewdiepie-archdaemon"
+    },
+    {
       "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "published_at": "2026-05-27T05:46:25Z",
@@ -929,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 657,
       "user": "withkynam"
     },
     {
@@ -944,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 437,
       "user": "ytnrvdf"
     },
     {
@@ -974,23 +989,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 360,
       "user": "BlackCandleLab"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 349,
-      "user": "neuralCPL"
     },
     {
       "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
@@ -1004,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 691,
       "user": "GordenSun"
     },
     {
@@ -1019,7 +1019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 40,
       "user": "IRNova"
     }
   ],
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 810,
       "user": "Sophomoresty"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 691,
       "user": "GordenSun"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 624,
       "user": "baoweise-bot"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 477,
       "user": "ace-trump-tech"
     },
     {
@@ -1609,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 477,
       "user": "ace-trump-tech"
     },
     {
@@ -1624,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 753,
       "user": "MatinSenPai"
     },
     {
@@ -1639,7 +1639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 40,
       "user": "IRNova"
     }
   ],
@@ -1923,6 +1923,21 @@
       "user": "Esteban Hernández"
     },
     {
+      "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "published_at": "2026-05-31T14:05:51Z",
+      "description": "Self-hosted AI workspace. ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
+      "source": "GitHub",
+      "stars": 1370,
+      "user": "pewdiepie-archdaemon"
+    },
+    {
       "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "published_at": "2026-05-27T05:46:25Z",
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 657,
       "user": "withkynam"
     },
     {
@@ -1949,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 437,
       "user": "ytnrvdf"
     },
     {
@@ -1979,23 +1994,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 360,
       "user": "BlackCandleLab"
-    },
-    {
-      "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "url": "https://github.com/neuralCPL/polymarket-trading-bot",
-      "published_at": "2026-05-25T17:54:33Z",
-      "description": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
-      "source": "GitHub",
-      "stars": 349,
-      "user": "neuralCPL"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 810,
       "user": "Sophomoresty"
     },
     {
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 691,
       "user": "GordenSun"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 624,
       "user": "baoweise-bot"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 477,
       "user": "ace-trump-tech"
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 753,
       "user": "MatinSenPai"
     },
     {
@@ -2099,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "macan-dev"
     },
     {
@@ -2118,6 +2118,21 @@
       "user": "79E"
     },
     {
+      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "url": "https://github.com/IRNova/NovaRadar",
+      "published_at": "2026-05-31T06:23:29Z",
+      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
+      "source": "GitHub",
+      "stars": 40,
+      "user": "IRNova"
+    },
+    {
       "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
       "url": "https://github.com/mergeos-bounties/mergeos",
       "published_at": "2026-05-26T04:55:11Z",
@@ -2131,21 +2146,6 @@
       "source": "GitHub",
       "stars": 37,
       "user": "mergeos-bounties"
-    },
-    {
-      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "url": "https://github.com/IRNova/NovaRadar",
-      "published_at": "2026-05-31T06:23:29Z",
-      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
-      "source": "GitHub",
-      "stars": 32,
-      "user": "IRNova"
     }
   ]
 }
