@@ -29,21 +29,6 @@
       "user": "Viktor Köves"
     },
     {
-      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
-      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
-      "published_at": "2026-05-29T10:33:32Z",
-      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
-      "source": "Dev.to",
-      "user": "PeterMilovcik"
-    },
-    {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
       "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
       "published_at": "2026-05-27T11:19:34Z",
@@ -277,6 +262,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
+    },
+    {
+      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
+      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
+      "published_at": "2026-05-29T10:33:32Z",
+      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
+      "tags": [
+        "ai",
+        "githubcopilot",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
+      "source": "Dev.to",
+      "user": "PeterMilovcik"
     },
     {
       "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
@@ -524,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 647,
       "user": "withkynam"
     },
     {
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "neuralCPL"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 750,
       "user": "Sophomoresty"
     },
     {
@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 590,
       "user": "baoweise-bot"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 577,
       "user": "GordenSun"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 469,
       "user": "ace-trump-tech"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "FlashML-org"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 718,
       "user": "MatinSenPai"
     },
     {
@@ -929,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 647,
       "user": "withkynam"
     },
     {
@@ -944,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "ytnrvdf"
     },
     {
@@ -963,6 +963,21 @@
       "user": "SigmaTradeLabs"
     },
     {
+      "title": "BlackCandleLab/polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/BlackCandleLab/polymarket-trading-bot",
+      "published_at": "2026-05-28T17:14:14Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
+      "source": "GitHub",
+      "stars": 348,
+      "user": "BlackCandleLab"
+    },
+    {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "url": "https://github.com/neuralCPL/polymarket-trading-bot",
       "published_at": "2026-05-25T17:54:33Z",
@@ -974,23 +989,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "neuralCPL"
-    },
-    {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 343,
-      "user": "paraschopra"
     },
     {
       "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
@@ -1004,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 577,
       "user": "GordenSun"
     }
   ],
@@ -1156,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 750,
       "user": "Sophomoresty"
     },
     {
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 590,
       "user": "baoweise-bot"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 577,
       "user": "GordenSun"
     },
     {
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 469,
       "user": "ace-trump-tech"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "FlashML-org"
     }
   ],
@@ -1594,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 469,
       "user": "ace-trump-tech"
     },
     {
@@ -1609,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 718,
       "user": "MatinSenPai"
     }
   ],
@@ -1687,21 +1687,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
-      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
-      "published_at": "2026-05-29T10:33:32Z",
-      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
-      "tags": [
-        "ai",
-        "githubcopilot",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
-      "source": "Dev.to",
-      "user": "PeterMilovcik"
-    },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
@@ -1863,6 +1848,21 @@
       "user": "Divyesh"
     },
     {
+      "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
+      "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
+      "published_at": "2026-05-29T10:33:32Z",
+      "description": "Prompt files turn repeated GitHub Copilot chat requests into slash commands. You write the...",
+      "tags": [
+        "ai",
+        "githubcopilot",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
+      "source": "Dev.to",
+      "user": "PeterMilovcik"
+    },
+    {
       "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
       "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
       "published_at": "2026-05-27T18:50:56Z",
@@ -1904,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 647,
       "user": "withkynam"
     },
     {
@@ -1919,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "ytnrvdf"
     },
     {
@@ -1938,6 +1938,21 @@
       "user": "SigmaTradeLabs"
     },
     {
+      "title": "BlackCandleLab/polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "url": "https://github.com/BlackCandleLab/polymarket-trading-bot",
+      "published_at": "2026-05-28T17:14:14Z",
+      "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
+      "source": "GitHub",
+      "stars": 348,
+      "user": "BlackCandleLab"
+    },
+    {
       "title": "neuralCPL/polymarket-trading-bot - polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
       "url": "https://github.com/neuralCPL/polymarket-trading-bot",
       "published_at": "2026-05-25T17:54:33Z",
@@ -1949,23 +1964,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "neuralCPL"
-    },
-    {
-      "title": "paraschopra/make-pages-interactive - GitHub Repository",
-      "url": "https://github.com/paraschopra/make-pages-interactive",
-      "published_at": "2026-05-26T05:39:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
-      "source": "GitHub",
-      "stars": 343,
-      "user": "paraschopra"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -1979,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 750,
       "user": "Sophomoresty"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 590,
       "user": "baoweise-bot"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 577,
       "user": "GordenSun"
     },
     {
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 469,
       "user": "ace-trump-tech"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "FlashML-org"
     },
     {
@@ -2054,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 718,
       "user": "MatinSenPai"
     },
     {
