@@ -16,19 +16,6 @@
       "user": "Arqam Waheed"
     },
     {
-      "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
-      "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
-      "published_at": "2026-05-28T18:50:28Z",
-      "description": "Agentic coding has brought AI crashing into the software industry, but just because you can make a project quickly, that doesn't mean it's ready for production. So how can your business stay safe while shipping AI code?",
-      "tags": [
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fviktorkoves.com%2Fpost-assets%2Fai-shovelware%2Fai-shovelware-social.jpg%3F",
-      "source": "Dev.to",
-      "user": "Viktor Köves"
-    },
-    {
       "title": "How Are Developers Actually Using AI At Work?",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
       "published_at": "2026-05-27T07:11:18Z",
@@ -262,6 +249,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
       "source": "Dev.to",
       "user": "Anup Karanjkar"
+    },
+    {
+      "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
+      "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
+      "published_at": "2026-05-28T18:50:28Z",
+      "description": "Agentic coding has brought AI crashing into the software industry, but just because you can make a project quickly, that doesn't mean it's ready for production. So how can your business stay safe while shipping AI code?",
+      "tags": [
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fviktorkoves.com%2Fpost-assets%2Fai-shovelware%2Fai-shovelware-social.jpg%3F",
+      "source": "Dev.to",
+      "user": "Viktor Köves"
     },
     {
       "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
@@ -524,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 2605,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "withkynam"
     },
     {
@@ -554,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 824,
       "user": "Sophomoresty"
     },
     {
@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 633,
       "user": "baoweise-bot"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 763,
       "user": "MatinSenPai"
     },
     {
@@ -646,21 +646,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "79E"
-    },
-    {
-      "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "url": "https://github.com/mergeos-bounties/mergeos",
-      "published_at": "2026-05-26T04:55:11Z",
-      "description": "AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287856247?v=4",
-      "source": "GitHub",
-      "stars": 37,
-      "user": "mergeos-bounties"
     }
   ],
   "JavaScript": [
@@ -929,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 2605,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -944,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "withkynam"
     },
     {
@@ -959,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "ytnrvdf"
     },
     {
@@ -989,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 362,
       "user": "BlackCandleLab"
     },
     {
@@ -1004,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -1019,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 43,
       "user": "IRNova"
     }
   ],
@@ -1171,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 824,
       "user": "Sophomoresty"
     },
     {
@@ -1186,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -1201,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 633,
       "user": "baoweise-bot"
     },
     {
@@ -1295,6 +1280,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png",
       "source": "Dev.to",
       "user": "Harish"
+    },
+    {
+      "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
+      "url": "https://github.com/docker-desktop-windows/docker-desktop",
+      "published_at": "2026-05-31T16:54:01Z",
+      "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "docker-desktop-windows"
     }
   ],
   "WebDev": [
@@ -1624,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 763,
       "user": "MatinSenPai"
     },
     {
@@ -1639,7 +1639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 43,
       "user": "IRNova"
     }
   ],
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 2605,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 658,
       "user": "withkynam"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "ytnrvdf"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 362,
       "user": "BlackCandleLab"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 824,
       "user": "Sophomoresty"
     },
     {
@@ -2024,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 723,
       "user": "GordenSun"
     },
     {
@@ -2039,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 633,
       "user": "baoweise-bot"
     },
     {
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 763,
       "user": "MatinSenPai"
     },
     {
@@ -2099,8 +2099,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "macan-dev"
+    },
+    {
+      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "url": "https://github.com/IRNova/NovaRadar",
+      "published_at": "2026-05-31T06:23:29Z",
+      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "IRNova"
     },
     {
       "title": "79E/auto-openai-account - 自动化注册 Openai / ChatGpt 账号",
@@ -2118,34 +2133,19 @@
       "user": "79E"
     },
     {
-      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "url": "https://github.com/IRNova/NovaRadar",
-      "published_at": "2026-05-31T06:23:29Z",
-      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
+      "url": "https://github.com/docker-desktop-windows/docker-desktop",
+      "published_at": "2026-05-31T16:54:01Z",
+      "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 40,
-      "user": "IRNova"
-    },
-    {
-      "title": "mergeos-bounties/mergeos - AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "url": "https://github.com/mergeos-bounties/mergeos",
-      "published_at": "2026-05-26T04:55:11Z",
-      "description": "AI-assisted software maintenance and bounty operating system for funding, reviewing, and paying MRG rewards.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287856247?v=4",
-      "source": "GitHub",
-      "stars": 37,
-      "user": "mergeos-bounties"
+      "stars": 42,
+      "user": "docker-desktop-windows"
     }
   ]
 }
