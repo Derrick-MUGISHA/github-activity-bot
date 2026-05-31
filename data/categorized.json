@@ -249,6 +249,21 @@
       "user": "PeterMilovcik"
     },
     {
+      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
+      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
+      "published_at": "2026-05-29T12:11:12Z",
+      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
+      "tags": [
+        "machinelearning",
+        "ai",
+        "llm",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
+      "source": "Dev.to",
+      "user": "Sergey Parfenov"
+    },
+    {
       "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
       "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
       "published_at": "2026-05-27T18:50:56Z",
@@ -294,6 +309,21 @@
       "user": "Paige Bailey"
     },
     {
+      "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
+      "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
+      "published_at": "2026-05-28T14:54:55Z",
+      "description": "Can an AI developer agent build complex full-stack logic without constant hand-holding?   To test...",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "napkinchallenge",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qnwnudro0uxos8yn4w6.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
       "url": "https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf",
       "published_at": "2026-05-27T23:34:00Z",
@@ -337,6 +367,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
       "source": "Dev.to",
       "user": "Sahil SIlare"
+    },
+    {
+      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
+      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
+      "published_at": "2026-05-27T09:44:36Z",
+      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "tags": [
+        "ai",
+        "cli",
+        "google",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -494,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 6334,
+      "stars": 7164,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -509,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "withkynam"
     },
     {
@@ -524,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 877,
       "user": "Sophomoresty"
     },
     {
@@ -539,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 757,
       "user": "GordenSun"
     },
     {
@@ -554,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 648,
       "user": "baoweise-bot"
     },
     {
@@ -569,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 487,
       "user": "ace-trump-tech"
     },
     {
@@ -584,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "FlashML-org"
     },
     {
@@ -599,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 797,
       "user": "MatinSenPai"
     },
     {
@@ -708,19 +753,19 @@
       "user": "Divyesh"
     },
     {
-      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-      "published_at": "2026-05-27T20:56:35Z",
-      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
+      "published_at": "2026-05-28T20:30:12Z",
+      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
       "tags": [
-        "webdev",
-        "security",
-        "career",
-        "node"
+        "angular",
+        "scss",
+        "stylelint",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
       "source": "Dev.to",
-      "user": "Arsenic"
+      "user": "Sanket Bhor"
     },
     {
       "title": "Building an SEO crawler in TypeScript: what I learned",
@@ -869,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 6334,
+      "stars": 7164,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -884,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "withkynam"
     },
     {
@@ -899,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "ytnrvdf"
     },
     {
@@ -929,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "BlackCandleLab"
     },
     {
@@ -944,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 757,
       "user": "GordenSun"
     },
     {
@@ -959,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 61,
       "user": "IRNova"
     }
   ],
@@ -1111,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 877,
       "user": "Sophomoresty"
     },
     {
@@ -1126,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 757,
       "user": "GordenSun"
     },
     {
@@ -1141,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 648,
       "user": "baoweise-bot"
     },
     {
@@ -1156,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 487,
       "user": "ace-trump-tech"
     },
     {
@@ -1171,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "FlashML-org"
     }
   ],
@@ -1248,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "docker-desktop-windows"
     }
   ],
@@ -1311,6 +1356,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
+    },
+    {
+      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
+      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
+      "published_at": "2026-05-28T20:30:12Z",
+      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
+      "tags": [
+        "angular",
+        "scss",
+        "stylelint",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
+      "source": "Dev.to",
+      "user": "Sanket Bhor"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -1549,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 487,
       "user": "ace-trump-tech"
     },
     {
@@ -1564,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 797,
       "user": "MatinSenPai"
     },
     {
@@ -1579,7 +1639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 61,
       "user": "IRNova"
     }
   ],
@@ -1628,21 +1688,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-      "url": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-      "published_at": "2026-05-27T20:56:35Z",
-      "description": "Like a lot of developers in this market, I’ve been taking freelance assessments and Discord job leads...",
-      "tags": [
-        "webdev",
-        "security",
-        "career",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiklska8wf2gh8ow9h2w0.png",
-      "source": "Dev.to",
-      "user": "Arsenic"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1863,6 +1908,21 @@
       "user": "Esteban Hernández"
     },
     {
+      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
+      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
+      "published_at": "2026-05-27T09:44:36Z",
+      "description": "Background   With generative AI entering daily development, the AI assistant in the...",
+      "tags": [
+        "ai",
+        "cli",
+        "google",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4adap3z7oa9njz64gkom.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "published_at": "2026-05-31T14:05:51Z",
@@ -1874,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 6334,
+      "stars": 7164,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1889,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 665,
       "user": "withkynam"
     },
     {
@@ -1904,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "ytnrvdf"
     },
     {
@@ -1934,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "BlackCandleLab"
     },
     {
@@ -1949,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 877,
       "user": "Sophomoresty"
     },
     {
@@ -1964,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 757,
       "user": "GordenSun"
     },
     {
@@ -1979,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 648,
       "user": "baoweise-bot"
     },
     {
@@ -1994,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 487,
       "user": "ace-trump-tech"
     },
     {
@@ -2009,7 +2069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "FlashML-org"
     },
     {
@@ -2024,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 797,
       "user": "MatinSenPai"
     },
     {
@@ -2039,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 113,
       "user": "docker-desktop-windows"
     },
     {
@@ -2054,7 +2114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 61,
       "user": "IRNova"
     },
     {
