@@ -86,21 +86,6 @@
       "user": "Karl L. Hughes"
     },
     {
-      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
-      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1",
-      "published_at": "2026-05-27T15:12:00Z",
-      "description": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
-      "tags": [
-        "mcps",
-        "googleadk",
-        "a2aprotocol",
-        "crosslanguage"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuizbsin53iguphdi0hy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "An LLM API call, in 4 GIFs",
       "url": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
       "published_at": "2026-05-26T20:52:22Z",
@@ -144,21 +129,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
       "source": "Dev.to",
       "user": "Sergey Parfenov"
-    },
-    {
-      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
-      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
-      "published_at": "2026-05-28T15:56:02Z",
-      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
-      "tags": [
-        "android",
-        "ai",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
-      "source": "Dev.to",
-      "user": "Paige Bailey"
     },
     {
       "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
@@ -339,6 +309,21 @@
       "user": "Esteban Hernández"
     },
     {
+      "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
+      "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
+      "published_at": "2026-05-28T15:56:02Z",
+      "description": "If you’ve been doing Android development for a while, you know the drill. You start a new project,...",
+      "tags": [
+        "android",
+        "ai",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
+      "source": "Dev.to",
+      "user": "Paige Bailey"
+    },
+    {
       "title": "Claude Code Slash Commands You Should Know (I wasn't either)",
       "url": "https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf",
       "published_at": "2026-05-27T23:34:00Z",
@@ -352,6 +337,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5g286r9vioyqgfep6ywn.png",
       "source": "Dev.to",
       "user": "Lizzie Siegle"
+    },
+    {
+      "title": "Cross Language A2A Agent Benchmarking with Antigravity CLI",
+      "url": "https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1",
+      "published_at": "2026-05-27T15:12:00Z",
+      "description": "Building a Benchmarking Agent with A2A and MCP   This tutorial aims to build and test...",
+      "tags": [
+        "mcps",
+        "googleadk",
+        "a2aprotocol",
+        "crosslanguage"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuizbsin53iguphdi0hy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "tags": [
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
+      "source": "Dev.to",
+      "user": "Sahil SIlare"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -509,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 634,
       "user": "withkynam"
     },
     {
@@ -524,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "neuralCPL"
     },
     {
@@ -539,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 698,
       "user": "Sophomoresty"
     },
     {
@@ -554,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 547,
       "user": "baoweise-bot"
     },
     {
@@ -569,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 510,
       "user": "GordenSun"
     },
     {
@@ -584,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 450,
       "user": "ace-trump-tech"
     },
     {
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "FlashML-org"
     },
     {
@@ -614,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 675,
       "user": "MatinSenPai"
     },
     {
@@ -708,21 +723,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
-    },
-    {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
       "url": "https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2",
       "published_at": "2026-05-28T14:39:29Z",
@@ -751,6 +751,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
       "source": "Dev.to",
       "user": "Sulthon Zainul Habib"
+    },
+    {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
+      "source": "Dev.to",
+      "user": "Divyesh"
     },
     {
       "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
@@ -914,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 634,
       "user": "withkynam"
     },
     {
@@ -929,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "ytnrvdf"
     },
     {
@@ -944,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "SigmaTradeLabs"
     },
     {
@@ -959,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "paraschopra"
     },
     {
@@ -974,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "neuralCPL"
     },
     {
@@ -989,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 510,
       "user": "GordenSun"
     }
   ],
@@ -1141,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 698,
       "user": "Sophomoresty"
     },
     {
@@ -1156,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 547,
       "user": "baoweise-bot"
     },
     {
@@ -1171,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 510,
       "user": "GordenSun"
     },
     {
@@ -1186,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 450,
       "user": "ace-trump-tech"
     },
     {
@@ -1201,7 +1216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "FlashML-org"
     }
   ],
@@ -1357,6 +1372,20 @@
   ],
   "Mobile": [
     {
+      "title": "Making a New Native App for a Jailbroken iPhone 6",
+      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
+      "published_at": "2026-05-26T23:19:30Z",
+      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
+      "tags": [
+        "iphone",
+        "ios",
+        "retrocomputing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
+      "source": "Dev.to",
+      "user": "Adolfo Reyna"
+    },
+    {
       "title": "In 2026, you can just prompt your way to a working Android app. 🤯",
       "url": "https://dev.to/googleai/in-2026-you-can-just-prompt-your-way-to-a-working-android-app-31i9",
       "published_at": "2026-05-28T15:56:02Z",
@@ -1370,20 +1399,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F13kupdnkip2mcf3o3pw6.png",
       "source": "Dev.to",
       "user": "Paige Bailey"
-    },
-    {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
-      "published_at": "2026-05-26T23:19:30Z",
-      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
-      "tags": [
-        "iphone",
-        "ios",
-        "retrocomputing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
-      "source": "Dev.to",
-      "user": "Adolfo Reyna"
     },
     {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
@@ -1579,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 450,
       "user": "ace-trump-tech"
     },
     {
@@ -1594,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 675,
       "user": "MatinSenPai"
     }
   ],
@@ -1613,6 +1628,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
       "source": "Dev.to",
       "user": "Bimochan Shrestha"
+    },
+    {
+      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
+      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
+      "published_at": "2026-05-27T10:23:24Z",
+      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
+      "tags": [
+        "ai",
+        "sql",
+        "webdev",
+        "hackathon"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
+      "source": "Dev.to",
+      "user": "Sahil SIlare"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -1701,21 +1731,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3h3xmboq9h4jmsdmsbk3.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
     },
     {
       "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
@@ -1833,6 +1848,21 @@
       "user": "Bimochan Shrestha"
     },
     {
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
+      "published_at": "2026-05-27T04:59:28Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "typescript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
+      "source": "Dev.to",
+      "user": "Divyesh"
+    },
+    {
       "title": "Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes",
       "url": "https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7",
       "published_at": "2026-05-27T18:50:56Z",
@@ -1874,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 634,
       "user": "withkynam"
     },
     {
@@ -1889,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "ytnrvdf"
     },
     {
@@ -1904,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 385,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1919,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "paraschopra"
     },
     {
@@ -1934,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286714469?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "neuralCPL"
     },
     {
@@ -1949,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 698,
       "user": "Sophomoresty"
     },
     {
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 547,
       "user": "baoweise-bot"
     },
     {
@@ -1979,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 510,
       "user": "GordenSun"
     },
     {
@@ -1994,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 450,
       "user": "ace-trump-tech"
     },
     {
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "FlashML-org"
     },
     {
@@ -2024,7 +2054,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 675,
       "user": "MatinSenPai"
     },
     {
