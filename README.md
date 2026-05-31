@@ -28,11 +28,11 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 45 (42.9%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.6 (28.6%)
-Java            ████████████████████████ 22.6 (22.6%)
-Go              █████████████████████ 20.2 (20.2%)
-Python          ████████████████████ 19.0 (19.0%)
-Rust            ████ 3.6 (3.6%)
-Kotlin          ███ 2.4 (2.4%)
+JavaScript      ██████████████████████████████ 29.1 (29.1%)
+Java            ███████████████████████ 22.1 (22.1%)
+Go              ██████████████████████ 20.9 (20.9%)
+Python          ███████████████████ 18.6 (18.6%)
+Rust            ████ 3.5 (3.5%)
+Kotlin          ██ 2.3 (2.3%)
 Swift           █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 CSharp          █ 1.2 (1.2%)
@@ -74,9 +74,9 @@ CSharp          █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 24
+    "JavaScript" : 25
     "Java" : 19
-    "Go" : 17
+    "Go" : 18
     "Python" : 16
     "Rust" : 3
     "Kotlin" : 2
@@ -128,22 +128,13 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-05-31 6:00 CAT)
+## 📅 Latest Updates (2026-05-31 10:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
-      <br/>
-      <b>How Are Developers Actually Using AI At Work?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-i1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfi7226r8a36s3k6mo1o.jpg" width="200" alt="What was your win this week?" />
@@ -162,17 +153,6 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fre5xs0i3tusrwrpbaj3e.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png" width="200" alt="Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI" />
@@ -182,11 +162,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fviktorkoves.com%2Fpost-assets%2Fai-shovelware%2Fai-shovelware-social.jpg%3F" width="200" alt="Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?" />
       <br/>
       <b>Anyone Can Make Software Now. But When Does A Side...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png" width="200" alt="VS Code Prompt Files - Custom Slash Commands for GitHub Copilot" />
+      <br/>
+      <b>VS Code Prompt Files - Custom Slash Commands for G...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkg6cytyvg18qzqnt87fl.jpg" width="200" alt="DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together" />
+      <br/>
+      <b>DevRelCon NYC 2026: Where Developer Relations, Dev...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,10 +198,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
 - [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
 - [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1) _[Dev.to]_
 - [VS Code Prompt Files - Custom Slash Commands for GitHub Copilot](https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f) _[Dev.to]_
@@ -209,6 +207,7 @@ npm run test
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 - [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [The Stylelint Rule That Was Silently Rewriting Our SCSS Colors](https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb) _[Dev.to]_
+- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 - [Cross Language A2A Agent Benchmarking with Antigravity CLI](https://dev.to/gde/cross-language-a2a-agent-benchmarking-with-antigravity-cli-hn1) _[Dev.to]_
 - [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
@@ -218,8 +217,9 @@ npm run test
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
 - [Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞](https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf) _[Dev.to]_
 - [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) _[Dev.to]_
+- [Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent](https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04) _[Dev.to]_
 
-_Last automated update: Sun, 31 May 2026 06:52:32 CAT_
+_Last automated update: Sun, 31 May 2026 10:11:57 CAT_
 
 
 
@@ -227,36 +227,36 @@ _Last automated update: Sun, 31 May 2026 06:52:32 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. NodeJS: How do you handle errors in async/await?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: error handling, async
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+try/catch, .catch(), error middleware
 
 </details>
 
-### 2. Python: What are generators and when would you use them?
+### 2. React: Explain the difference between state and props
 
-**Difficulty**: Medium | **Topics**: iterators, memory
+**Difficulty**: Easy | **Topics**: data flow, components
 
 <details>
 <summary>💡 Hint</summary>
 
-yield keyword, lazy evaluation, memory efficiency
+Ownership, mutability, data flow direction
 
 </details>
 
-### 3. SystemDesign: Design a URL shortening service like bit.ly
+### 3. JavaScript: Implement a debounce function from scratch
 
-**Difficulty**: Medium | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: functions, timing
 
 <details>
 <summary>💡 Hint</summary>
 
-Hash function, database design, caching, analytics
+setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -290,7 +290,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 31 May 2026 04:52:32 GMT</b><br/>
+  <b>Last automated update: Sun, 31 May 2026 08:11:57 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
