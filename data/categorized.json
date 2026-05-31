@@ -88,21 +88,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "published_at": "2026-05-29T12:11:12Z",
-      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
-      "tags": [
-        "machinelearning",
-        "ai",
-        "llm",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
-      "source": "Dev.to",
-      "user": "Sergey Parfenov"
-    },
-    {
       "title": "How I built a supersonic AI riddling duel in under 20 Minutes (with zero manual coding)",
       "url": "https://dev.to/googleai/how-i-built-a-supersonic-ai-riddling-duel-in-under-20-minutes-with-zero-manual-coding-16ah",
       "published_at": "2026-05-28T14:54:55Z",
@@ -524,7 +509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 2605,
+      "stars": 3534,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -539,7 +524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 661,
       "user": "withkynam"
     },
     {
@@ -554,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 838,
       "user": "Sophomoresty"
     },
     {
@@ -569,7 +554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 733,
       "user": "GordenSun"
     },
     {
@@ -584,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 638,
       "user": "baoweise-bot"
     },
     {
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 480,
       "user": "ace-trump-tech"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "FlashML-org"
     },
     {
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 777,
       "user": "MatinSenPai"
     },
     {
@@ -676,21 +661,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
-    },
-    {
-      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
-      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
-      "published_at": "2026-05-28T20:30:12Z",
-      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
-      "tags": [
-        "angular",
-        "scss",
-        "stylelint",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
-      "source": "Dev.to",
-      "user": "Sanket Bhor"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -914,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 2605,
+      "stars": 3534,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -929,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 661,
       "user": "withkynam"
     },
     {
@@ -944,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 446,
       "user": "ytnrvdf"
     },
     {
@@ -959,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "SigmaTradeLabs"
     },
     {
@@ -974,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "BlackCandleLab"
     },
     {
@@ -989,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 733,
       "user": "GordenSun"
     },
     {
@@ -1004,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 45,
       "user": "IRNova"
     }
   ],
@@ -1156,7 +1126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 838,
       "user": "Sophomoresty"
     },
     {
@@ -1171,7 +1141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 733,
       "user": "GordenSun"
     },
     {
@@ -1186,7 +1156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 638,
       "user": "baoweise-bot"
     },
     {
@@ -1201,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 480,
       "user": "ace-trump-tech"
     },
     {
@@ -1216,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "FlashML-org"
     }
   ],
@@ -1293,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 73,
       "user": "docker-desktop-windows"
     }
   ],
@@ -1327,21 +1297,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
-    },
-    {
-      "title": "The Stylelint Rule That Was Silently Rewriting Our SCSS Colors",
-      "url": "https://dev.to/shanky1992/the-stylelint-rule-that-was-silently-rewriting-our-scss-colors-15pb",
-      "published_at": "2026-05-28T20:30:12Z",
-      "description": "How color-function-notation silently rewrote rgba() to rgb() across our codebase — and three ways to fix it.",
-      "tags": [
-        "angular",
-        "scss",
-        "stylelint",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
-      "source": "Dev.to",
-      "user": "Sanket Bhor"
     },
     {
       "title": "Accessibility question: is nesting interactive elements bad?",
@@ -1609,7 +1564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 480,
       "user": "ace-trump-tech"
     },
     {
@@ -1624,7 +1579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 777,
       "user": "MatinSenPai"
     },
     {
@@ -1639,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 45,
       "user": "IRNova"
     }
   ],
@@ -1934,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 2605,
+      "stars": 3534,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1949,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 661,
       "user": "withkynam"
     },
     {
@@ -1964,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 446,
       "user": "ytnrvdf"
     },
     {
@@ -1979,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "SigmaTradeLabs"
     },
     {
@@ -1994,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "BlackCandleLab"
     },
     {
@@ -2009,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 838,
       "user": "Sophomoresty"
     },
     {
@@ -2024,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 733,
       "user": "GordenSun"
     },
     {
@@ -2039,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 638,
       "user": "baoweise-bot"
     },
     {
@@ -2054,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 480,
       "user": "ace-trump-tech"
     },
     {
@@ -2069,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 414,
       "user": "FlashML-org"
     },
     {
@@ -2084,8 +2039,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 777,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
+      "url": "https://github.com/docker-desktop-windows/docker-desktop",
+      "published_at": "2026-05-31T16:54:01Z",
+      "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "docker-desktop-windows"
     },
     {
       "title": "macan-dev/EasySNI - Bypass censorships using Go Lang",
@@ -2114,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 45,
       "user": "IRNova"
     },
     {
@@ -2131,21 +2101,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "79E"
-    },
-    {
-      "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
-      "url": "https://github.com/docker-desktop-windows/docker-desktop",
-      "published_at": "2026-05-31T16:54:01Z",
-      "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "docker-desktop-windows"
     }
   ]
 }
