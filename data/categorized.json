@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
       "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
       "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
       "published_at": "2026-05-30T16:00:54Z",
@@ -14,19 +27,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png",
       "source": "Dev.to",
       "user": "Arqam Waheed"
-    },
-    {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -539,7 +539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 7164,
+      "stars": 8159,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -554,8 +554,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 668,
       "user": "withkynam"
+    },
+    {
+      "title": "FoundZiGu/SMSBazaar - OPENAI(ChatGPT) 短信接码价格和库存对比看板",
+      "url": "https://github.com/FoundZiGu/SMSBazaar",
+      "published_at": "2026-05-27T13:52:59Z",
+      "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "FoundZiGu"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -569,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 901,
       "user": "Sophomoresty"
     },
     {
@@ -584,23 +599,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 890,
       "user": "GordenSun"
-    },
-    {
-      "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "url": "https://github.com/baoweise-bot/aimili-vpngate",
-      "published_at": "2026-05-25T14:13:24Z",
-      "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "baoweise-bot"
     },
     {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 492,
       "user": "ace-trump-tech"
     },
     {
@@ -629,8 +629,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "FlashML-org"
+    },
+    {
+      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
+      "url": "https://github.com/DannyMac180/skills",
+      "published_at": "2026-05-29T14:54:55Z",
+      "description": "AI agent skills created by me: Dan McAteer",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "DannyMac180"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 802,
       "user": "MatinSenPai"
     },
     {
@@ -914,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 7164,
+      "stars": 8159,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -929,38 +944,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 668,
       "user": "withkynam"
-    },
-    {
-      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
-      "published_at": "2026-05-25T00:57:33Z",
-      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
-      "source": "GitHub",
-      "stars": 450,
-      "user": "ytnrvdf"
-    },
-    {
-      "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "url": "https://github.com/SigmaTradeLabs/aster-bot",
-      "published_at": "2026-05-25T17:22:59Z",
-      "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
-      "source": "GitHub",
-      "stars": 389,
-      "user": "SigmaTradeLabs"
     },
     {
       "title": "BlackCandleLab/polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -974,8 +959,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 381,
       "user": "BlackCandleLab"
+    },
+    {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 357,
+      "user": "paraschopra"
+    },
+    {
+      "title": "FoundZiGu/SMSBazaar - OPENAI(ChatGPT) 短信接码价格和库存对比看板",
+      "url": "https://github.com/FoundZiGu/SMSBazaar",
+      "published_at": "2026-05-27T13:52:59Z",
+      "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "FoundZiGu"
     },
     {
       "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
@@ -989,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 890,
       "user": "GordenSun"
     },
     {
@@ -1004,7 +1019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 65,
       "user": "IRNova"
     }
   ],
@@ -1156,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 901,
       "user": "Sophomoresty"
     },
     {
@@ -1171,23 +1186,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 890,
       "user": "GordenSun"
-    },
-    {
-      "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "url": "https://github.com/baoweise-bot/aimili-vpngate",
-      "published_at": "2026-05-25T14:13:24Z",
-      "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "baoweise-bot"
     },
     {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
@@ -1201,7 +1201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 492,
       "user": "ace-trump-tech"
     },
     {
@@ -1216,8 +1216,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "FlashML-org"
+    },
+    {
+      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
+      "url": "https://github.com/DannyMac180/skills",
+      "published_at": "2026-05-29T14:54:55Z",
+      "description": "AI agent skills created by me: Dan McAteer",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "DannyMac180"
     }
   ],
   "DevOps": [
@@ -1293,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 124,
       "user": "docker-desktop-windows"
     }
   ],
@@ -1432,21 +1447,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h",
-      "published_at": "2026-05-28T20:13:09Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "googlecloudrun",
-        "antigravitycli",
-        "gemma4",
-        "mcpserver"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
@@ -1609,7 +1609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 492,
       "user": "ace-trump-tech"
     },
     {
@@ -1624,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 802,
       "user": "MatinSenPai"
     },
     {
@@ -1639,7 +1639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 65,
       "user": "IRNova"
     }
   ],
@@ -1934,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 7164,
+      "stars": 8159,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1949,38 +1949,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 668,
       "user": "withkynam"
-    },
-    {
-      "title": "ytnrvdf/wha-spell-simulator - A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "url": "https://github.com/ytnrvdf/wha-spell-simulator",
-      "published_at": "2026-05-25T00:57:33Z",
-      "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287546222?v=4",
-      "source": "GitHub",
-      "stars": 450,
-      "user": "ytnrvdf"
-    },
-    {
-      "title": "SigmaTradeLabs/aster-bot - asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "url": "https://github.com/SigmaTradeLabs/aster-bot",
-      "published_at": "2026-05-25T17:22:59Z",
-      "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286707516?v=4",
-      "source": "GitHub",
-      "stars": 389,
-      "user": "SigmaTradeLabs"
     },
     {
       "title": "BlackCandleLab/polymarket-trading-bot - polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
@@ -1994,8 +1964,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 381,
       "user": "BlackCandleLab"
+    },
+    {
+      "title": "paraschopra/make-pages-interactive - GitHub Repository",
+      "url": "https://github.com/paraschopra/make-pages-interactive",
+      "published_at": "2026-05-26T05:39:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
+      "source": "GitHub",
+      "stars": 357,
+      "user": "paraschopra"
+    },
+    {
+      "title": "FoundZiGu/SMSBazaar - OPENAI(ChatGPT) 短信接码价格和库存对比看板",
+      "url": "https://github.com/FoundZiGu/SMSBazaar",
+      "published_at": "2026-05-27T13:52:59Z",
+      "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "FoundZiGu"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 901,
       "user": "Sophomoresty"
     },
     {
@@ -2024,23 +2024,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 890,
       "user": "GordenSun"
-    },
-    {
-      "title": "baoweise-bot/aimili-vpngate - aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "url": "https://github.com/baoweise-bot/aimili-vpngate",
-      "published_at": "2026-05-25T14:13:24Z",
-      "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287723012?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "baoweise-bot"
     },
     {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
@@ -2054,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 492,
       "user": "ace-trump-tech"
     },
     {
@@ -2069,8 +2054,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "FlashML-org"
+    },
+    {
+      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
+      "url": "https://github.com/DannyMac180/skills",
+      "published_at": "2026-05-29T14:54:55Z",
+      "description": "AI agent skills created by me: Dan McAteer",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "DannyMac180"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -2084,7 +2084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 802,
       "user": "MatinSenPai"
     },
     {
@@ -2099,7 +2099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 124,
       "user": "docker-desktop-windows"
     },
     {
@@ -2114,23 +2114,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 65,
       "user": "IRNova"
-    },
-    {
-      "title": "macan-dev/EasySNI - Bypass censorships using Go Lang",
-      "url": "https://github.com/macan-dev/EasySNI",
-      "published_at": "2026-05-25T22:10:30Z",
-      "description": "Bypass censorships using Go Lang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/190297858?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "macan-dev"
     },
     {
       "title": "79E/auto-openai-account - 自动化注册 Openai / ChatGpt 账号",
@@ -2146,6 +2131,21 @@
       "source": "GitHub",
       "stars": 42,
       "user": "79E"
+    },
+    {
+      "title": "Harshil-Anuwadia/archwiki-tui - A terminal browser for the Arch Wiki. No bloat. No browser. Just the wiki.",
+      "url": "https://github.com/Harshil-Anuwadia/archwiki-tui",
+      "published_at": "2026-05-26T04:42:04Z",
+      "description": "A terminal browser for the Arch Wiki. No bloat. No browser. Just the wiki.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91258132?v=4",
+      "source": "GitHub",
+      "stars": 39,
+      "user": "Harshil-Anuwadia"
     }
   ]
 }
