@@ -29,21 +29,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
-      "published_at": "2026-05-27T11:19:34Z",
-      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "tags": [
-        "mjml",
-        "i18n",
-        "opensource",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
-      "source": "Dev.to",
-      "user": "Michal Král"
-    },
-    {
       "title": "The Software Developer's Guide to AEO",
       "url": "https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h",
       "published_at": "2026-05-28T19:04:59Z",
@@ -71,21 +56,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
-    },
-    {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "published_at": "2026-05-28T14:53:02Z",
-      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
-      "source": "Dev.to",
-      "user": "Harsh "
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -145,21 +115,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
       "source": "Dev.to",
       "user": "Adolfo Reyna"
-    },
-    {
-      "title": "Pokemon Battle Simulator Napkin Challenge!",
-      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
-      "published_at": "2026-05-26T23:07:48Z",
-      "description": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
-      "tags": [
-        "napkinchallenge",
-        "antigravity",
-        "cli",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -264,6 +219,35 @@
       "user": "Sergey Parfenov"
     },
     {
+      "title": "A Warm Welcome to \"gemma-skills\"",
+      "url": "https://dev.to/googleai/a-warm-welcome-to-gemma-skills-4466",
+      "published_at": "2026-05-29T21:52:03Z",
+      "description": "Gemma, a family of open models, are lightweight, remarkably capable, and have a wonderful...",
+      "tags": [
+        "gemma",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fgemma-skills.png",
+      "source": "Dev.to",
+      "user": "bebechien"
+    },
+    {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -339,21 +323,6 @@
       "user": "xbill"
     },
     {
-      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
-      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
-      "published_at": "2026-05-27T10:23:24Z",
-      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
-      "tags": [
-        "ai",
-        "sql",
-        "webdev",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
-      "source": "Dev.to",
-      "user": "Sahil SIlare"
-    },
-    {
       "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
       "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
       "published_at": "2026-05-27T09:44:36Z",
@@ -399,19 +368,18 @@
       "user": "Sanket Sahu"
     },
     {
-      "title": "Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds",
-      "url": "https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c",
-      "published_at": "2026-05-26T22:54:18Z",
-      "description": "Stop choosing between speed and structure, you don't have to.               The Tension...",
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "url": "https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in",
+      "published_at": "2026-05-06T22:44:16Z",
+      "description": "May 28 Update: Winner announcement delayed until June 18: read the update here     Local AI is having...",
       "tags": [
-        "ai",
-        "vibecoding",
-        "sdd",
-        "programming"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjdy3284s0ovrfl8u2xi.png",
       "source": "Dev.to",
-      "user": "Tahirih Jaliri "
+      "user": "Jess Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -569,7 +537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 14412,
+      "stars": 18285,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -584,7 +552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 699,
       "user": "withkynam"
     },
     {
@@ -599,7 +567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "FoundZiGu"
     },
     {
@@ -614,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1371,
       "user": "GordenSun"
     },
     {
@@ -629,23 +597,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1042,
       "user": "Sophomoresty"
-    },
-    {
-      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
-      "published_at": "2026-05-26T05:24:10Z",
-      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "ace-trump-tech"
     },
     {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
@@ -659,8 +612,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 607,
       "user": "asz798838958"
+    },
+    {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
+      "source": "GitHub",
+      "stars": 562,
+      "user": "ace-trump-tech"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -674,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 425,
       "user": "FlashML-org"
     },
     {
@@ -689,8 +657,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 841,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "ethanhq/cc-fleet - 🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
+      "url": "https://github.com/ethanhq/cc-fleet",
+      "published_at": "2026-05-30T07:20:37Z",
+      "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "ethanhq"
     }
   ],
   "JavaScript": [
@@ -706,21 +689,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
-      "published_at": "2026-05-27T11:19:34Z",
-      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "tags": [
-        "mjml",
-        "i18n",
-        "opensource",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
-      "source": "Dev.to",
-      "user": "Michal Král"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -929,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 14412,
+      "stars": 18285,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -944,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 699,
       "user": "withkynam"
     },
     {
@@ -959,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 441,
       "user": "BlackCandleLab"
     },
     {
@@ -974,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 372,
       "user": "paraschopra"
     },
     {
@@ -989,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "FoundZiGu"
     },
     {
@@ -1004,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1371,
       "user": "GordenSun"
     },
     {
@@ -1019,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 84,
       "user": "IRNova"
     }
   ],
@@ -1171,7 +1139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1371,
       "user": "GordenSun"
     },
     {
@@ -1186,23 +1154,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1042,
       "user": "Sophomoresty"
-    },
-    {
-      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
-      "published_at": "2026-05-26T05:24:10Z",
-      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "ace-trump-tech"
     },
     {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
@@ -1216,8 +1169,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 607,
       "user": "asz798838958"
+    },
+    {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
+      "source": "GitHub",
+      "stars": 562,
+      "user": "ace-trump-tech"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -1231,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 425,
       "user": "FlashML-org"
     }
   ],
@@ -1310,21 +1278,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
-    },
-    {
-      "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
-      "url": "https://github.com/docker-desktop-windows/docker-desktop",
-      "published_at": "2026-05-31T16:54:01Z",
-      "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "docker-desktop-windows"
     }
   ],
   "WebDev": [
@@ -1342,21 +1295,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
-      "url": "https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10",
-      "published_at": "2026-05-27T11:19:34Z",
-      "description": "I love MJML.  Responsive HTML email is one of the genuinely miserable corners of frontend — nested...",
-      "tags": [
-        "mjml",
-        "i18n",
-        "opensource",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
-      "source": "Dev.to",
-      "user": "Michal Král"
     },
     {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
@@ -1473,11 +1411,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 118,
       "user": "rstagit"
     }
   ],
   "Cloud": [
+    {
+      "title": "The Ultimate Cloud Run Guide 2026",
+      "url": "https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8",
+      "published_at": "2026-06-01T14:31:53Z",
+      "description": "At Cloud Next '26, my teammate Wietse and I gave a talk called the Ultimate Guide to Cloud Run. We...",
+      "tags": [
+        "cloud",
+        "google",
+        "serverless",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png",
+      "source": "Dev.to",
+      "user": "Sara Ford"
+    },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
@@ -1552,21 +1505,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Pokemon Battle Simulator Napkin Challenge!",
-      "url": "https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db",
-      "published_at": "2026-05-26T23:07:48Z",
-      "description": "▄▀▀▄        Antigravity CLI 1.0.2  ▀▀▀▀▀▀       xbill9@gmail.com (Google AI Ultra) ▀▀▀▀▀▀▀▀     ...",
-      "tags": [
-        "napkinchallenge",
-        "antigravity",
-        "cli",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzunwklk71zezsfwcb36.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -1655,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 562,
       "user": "ace-trump-tech"
     },
     {
@@ -1670,7 +1608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 841,
       "user": "MatinSenPai"
     },
     {
@@ -1685,7 +1623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 84,
       "user": "IRNova"
     }
   ],
@@ -1706,21 +1644,6 @@
       "user": "Bimochan Shrestha"
     },
     {
-      "title": "I built 'Ask Your Life' — a personal Coral agent that answers questions about your money & deadlines with SQL",
-      "url": "https://dev.to/sahil9001/i-built-ask-your-life-a-personal-coral-agent-that-answers-questions-about-your-money--52a8",
-      "published_at": "2026-05-27T10:23:24Z",
-      "description": "\"Here are the personal admin risks that can cost me money, time, or access this week — with the...",
-      "tags": [
-        "ai",
-        "sql",
-        "webdev",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F005rnlt61k7lllomui75.png",
-      "source": "Dev.to",
-      "user": "Sahil SIlare"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1734,6 +1657,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Morning Security Report with Antigravity Agent",
+      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592",
+      "published_at": "2026-06-01T04:49:31Z",
+      "description": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
+      "tags": [
+        "productivity",
+        "programming",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk69pts23s5wc0ttjuxb7.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1749,6 +1687,21 @@
   ],
   "Tools": [
     {
+      "title": "Morning Security Report with Antigravity Agent",
+      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592",
+      "published_at": "2026-06-01T04:49:31Z",
+      "description": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
+      "tags": [
+        "productivity",
+        "programming",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk69pts23s5wc0ttjuxb7.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
+    },
+    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1762,21 +1715,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
-    },
-    {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "published_at": "2026-05-28T14:53:02Z",
-      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
-      "source": "Dev.to",
-      "user": "Harsh "
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -1806,19 +1744,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Copilot helped me deploy my passion project to the App Store",
-      "url": "https://dev.to/haritad/copilot-helped-me-deploy-my-passion-project-to-the-app-store-21m6",
-      "published_at": "2026-05-28T12:42:44Z",
-      "description": "What I Built   I’ve always had a love-hate relationship with technology. In college, I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxlxaorkceuv6n1x93grz.PNG",
-      "source": "Dev.to",
-      "user": "Harita Duggirala"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -1881,6 +1806,21 @@
       "user": "PeterMilovcik"
     },
     {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
       "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
       "published_at": "2026-05-19T01:19:01Z",
@@ -1911,6 +1851,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "url": "https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9",
+      "published_at": "2026-05-13T18:32:33Z",
+      "description": "I recently opened my GitHub account and filtered by private repositories. I actually counted them:...",
+      "tags": [
+        "webdev",
+        "beginners",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lj9c3nv65ocm2ry954v.png",
+      "source": "Dev.to",
+      "user": "S M Tahosin"
+    },
+    {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "published_at": "2026-05-31T14:05:51Z",
@@ -1922,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 14412,
+      "stars": 18285,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1937,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 699,
       "user": "withkynam"
     },
     {
@@ -1952,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 441,
       "user": "BlackCandleLab"
     },
     {
@@ -1967,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 372,
       "user": "paraschopra"
     },
     {
@@ -1982,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "FoundZiGu"
     },
     {
@@ -1997,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1371,
       "user": "GordenSun"
     },
     {
@@ -2012,23 +1967,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1042,
       "user": "Sophomoresty"
-    },
-    {
-      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
-      "published_at": "2026-05-26T05:24:10Z",
-      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "ace-trump-tech"
     },
     {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
@@ -2042,8 +1982,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 607,
       "user": "asz798838958"
+    },
+    {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "published_at": "2026-05-26T05:24:10Z",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
+      "source": "GitHub",
+      "stars": 562,
+      "user": "ace-trump-tech"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -2057,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 425,
       "user": "FlashML-org"
     },
     {
@@ -2072,38 +2027,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 841,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
-      "url": "https://github.com/docker-desktop-windows/docker-desktop",
-      "published_at": "2026-05-31T16:54:01Z",
-      "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "docker-desktop-windows"
-    },
-    {
-      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "url": "https://github.com/IRNova/NovaRadar",
-      "published_at": "2026-05-31T06:23:29Z",
-      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "IRNova"
     },
     {
       "title": "rstagit/rstaspoof - ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux",
@@ -2117,8 +2042,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 118,
       "user": "rstagit"
+    },
+    {
+      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "url": "https://github.com/IRNova/NovaRadar",
+      "published_at": "2026-05-31T06:23:29Z",
+      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "IRNova"
+    },
+    {
+      "title": "ethanhq/cc-fleet - 🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
+      "url": "https://github.com/ethanhq/cc-fleet",
+      "published_at": "2026-05-30T07:20:37Z",
+      "description": "🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "ethanhq"
     },
     {
       "title": "Harshil-Anuwadia/archwiki-tui - A terminal browser for the Arch Wiki. No bloat. No browser. Just the wiki.",
@@ -2132,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91258132?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 47,
       "user": "Harshil-Anuwadia"
     }
   ]
