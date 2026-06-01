@@ -1,9 +1,9 @@
 # 🚀 DevTech Auto News - Enhanced Edition
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-9-blue)
-![Last Update](https://img.shields.io/badge/Last%20Update-2026-05-31-orange)
+![Total Articles](https://img.shields.io/badge/Total%20Articles-104-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-01-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
 
@@ -28,17 +28,17 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (46.2%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 30 (28.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (24.0%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.4%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
+**Cloud**: 🟦🟦🟦🟦🟦 13 (12.5%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**WebDev**: 🟦🟦🟦 6 (5.8%)
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
@@ -52,7 +52,7 @@
 
 ### 📡 Sources
 
-- **Dev.to**: 60 articles
+- **Dev.to**: 59 articles
 - **HackerNews**: 30 articles
 - **GitHub**: 15 articles
 
@@ -60,23 +60,22 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.7 (28.7%)
-Go              ███████████████████████ 21.8 (21.8%)
-Java            ███████████████████████ 21.8 (21.8%)
-Python          ███████████████████ 18.4 (18.4%)
-Rust            ████ 3.4 (3.4%)
-Kotlin          ██ 2.3 (2.3%)
-Swift           █ 1.1 (1.1%)
-PHP             █ 1.1 (1.1%)
-CSharp          █ 1.1 (1.1%)
+JavaScript      ██████████████████████████████ 29.4 (29.4%)
+Java            ███████████████████████ 22.4 (22.4%)
+Go              ██████████████████████ 21.2 (21.2%)
+Python          ███████████████████ 18.8 (18.8%)
+Rust            ████ 3.5 (3.5%)
+Kotlin          ██ 2.4 (2.4%)
+Swift           █ 1.2 (1.2%)
+PHP             █ 1.2 (1.2%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 25
-    "Go" : 19
     "Java" : 19
+    "Go" : 18
     "Python" : 16
     "Rust" : 3
     "Kotlin" : 2
@@ -128,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-01 1:00 CAT)
+## 📅 Latest Updates (2026-06-01 3:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -145,10 +144,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tw01p27rxkaduh77sdf.png" width="200" alt="Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI" />
+    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
       <br/>
-      <b>Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run,...</b>
+      <b>How Are Developers Actually Using AI At Work?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -174,19 +173,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
+    <a href="https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png" width="200" alt="🦄 Modernizing Wild Rydes with modern technologies" />
       <br/>
-      <b>How Are Developers Actually Using AI At Work?</b>
+      <b>🦄 Modernizing Wild Rydes with modern technologies</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png" width="200" alt="🦄 Modernizing Wild Rydes with modern technologies" />
+    <a href="https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png" width="200" alt="I love MJML — I just didn't want a whole templating engine for two tiny things" />
       <br/>
-      <b>🦄 Modernizing Wild Rydes with modern technologies</b>
+      <b>I love MJML — I just didn't want a whole templatin...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -199,10 +198,9 @@ npm run test
 ### 📰 Top Headlines
 
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
-- [Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h) _[Dev.to]_
+- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together](https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468) _[Dev.to]_
 - [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
-- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 - [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
@@ -218,8 +216,9 @@ npm run test
 - [I was wrong about Electron](https://dev.to/moboudra/i-was-wrong-about-electron-1e9g) _[Dev.to]_
 - [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
 - [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) _[Dev.to]_
+- [Local Gemma 4 Deployment with MCP and Antigravity CLI](https://dev.to/gde/local-gemma-4-deployment-with-mcp-and-antigravity-cli-hk8) _[Dev.to]_
 
-_Last automated update: Mon, 01 Jun 2026 01:36:17 CAT_
+_Last automated update: Mon, 01 Jun 2026 03:59:47 CAT_
 
 
 
@@ -227,14 +226,14 @@ _Last automated update: Mon, 01 Jun 2026 01:36:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. Java: What are Java Streams and how do they work?
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: functional programming, collections
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -249,14 +248,14 @@ Multiple inheritance, method implementation, use cases
 
 </details>
 
-### 3. DataStructures: Find the median of two sorted arrays
+### 3. SystemDesign: How would you design a rate limiter?
 
-**Difficulty**: Hard | **Topics**: arrays, binary search
+**Difficulty**: Medium | **Topics**: system design, algorithms
 
 <details>
 <summary>💡 Hint</summary>
 
-Binary search, partition, time complexity O(log(min(m,n)))
+Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -290,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Sun, 31 May 2026 23:36:17 GMT</b><br/>
+  <b>Last automated update: Mon, 01 Jun 2026 01:59:47 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
