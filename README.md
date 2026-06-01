@@ -32,7 +32,7 @@
 
 **Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 27 (25.7%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
@@ -40,9 +40,9 @@
 
 **DevOps**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦🟦 5 (4.8%)
-
 **WebDev**: 🟦🟦 4 (3.8%)
+
+**Mobile**: 🟦🟦 4 (3.8%)
 
 **Database**: 🟦 2 (1.9%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.1 (27.1%)
-Go              ██████████████████████████ 23.5 (23.5%)
-Java            ██████████████████████ 20.0 (20.0%)
-Python          █████████████████████ 18.8 (18.8%)
-Kotlin          █████ 4.7 (4.7%)
+JavaScript      ██████████████████████████████ 27.9 (27.9%)
+Go              █████████████████████████ 23.3 (23.3%)
+Java            ██████████████████████ 20.9 (20.9%)
+Python          ████████████████████ 18.6 (18.6%)
 Rust            ████ 3.5 (3.5%)
+Kotlin          ████ 3.5 (3.5%)
 Swift           █ 1.2 (1.2%)
 PHP             █ 1.2 (1.2%)
 
@@ -73,12 +73,12 @@ PHP             █ 1.2 (1.2%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 23
+    "JavaScript" : 24
     "Go" : 20
-    "Java" : 17
+    "Java" : 18
     "Python" : 16
-    "Kotlin" : 4
     "Rust" : 3
+    "Kotlin" : 3
     "Swift" : 1
     "PHP" : 1
 ```
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![javascript](https://img.shields.io/badge/javascript-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
+![ai](https://img.shields.io/badge/ai-20-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-01 20:00 CAT)
+## 📅 Latest Updates (2026-06-01 23:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -135,19 +135,19 @@ npm run test
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png" width="200" alt="The Ultimate Cloud Run Guide 2026" />
+    <a href="https://dev.to/ben/meme-monday-25la">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuzmkm73i5zi7vnh6nqs.png" width="200" alt="Meme Monday" />
       <br/>
-      <b>The Ultimate Cloud Run Guide 2026</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-25la">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuzmkm73i5zi7vnh6nqs.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png" width="200" alt="The Ultimate Cloud Run Guide 2026" />
       <br/>
-      <b>Meme Monday</b>
+      <b>The Ultimate Cloud Run Guide 2026</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,8 +197,8 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [The Ultimate Cloud Run Guide 2026](https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-25la) _[Dev.to]_
+- [The Ultimate Cloud Run Guide 2026](https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8) _[Dev.to]_
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
 - [Morning Security Report with Antigravity Agent](https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592) _[Dev.to]_
 - [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
@@ -218,7 +218,7 @@ npm run test
 - [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
 - [Making a New Native App for a Jailbroken iPhone 6](https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5) _[Dev.to]_
 
-_Last automated update: Mon, 01 Jun 2026 20:34:57 CAT_
+_Last automated update: Mon, 01 Jun 2026 23:53:22 CAT_
 
 
 
@@ -237,25 +237,25 @@ Heap, stack, garbage collection
 
 </details>
 
-### 2. Python: Explain decorators in Python with an example
+### 2. Database: Design a database schema for a social media platform
 
-**Difficulty**: Medium | **Topics**: functions, metaprogramming
+**Difficulty**: Hard | **Topics**: design, scalability
 
 <details>
 <summary>💡 Hint</summary>
 
-Function wrappers, @syntax, practical uses
+Users, posts, relationships, indexes, partitioning
 
 </details>
 
-### 3. DataStructures: Find the longest substring without repeating characters
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: strings, sliding window
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Sliding window, hash map, two pointers
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 01 Jun 2026 18:34:57 GMT</b><br/>
+  <b>Last automated update: Mon, 01 Jun 2026 21:53:23 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
