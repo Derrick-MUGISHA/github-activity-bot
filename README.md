@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 48 (45.7%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 29 (27.6%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 25 (23.8%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦 13 (12.4%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦 14 (13.3%)
 
-**WebDev**: 🟦🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 6 (5.7%)
 
-**DevOps**: 🟦🟦 5 (4.8%)
+**WebDev**: 🟦🟦 5 (4.8%)
 
-**Mobile**: 🟦🟦 4 (3.8%)
+**Mobile**: 🟦🟦 5 (4.8%)
 
 **Database**: 🟦 3 (2.9%)
 
@@ -60,12 +60,12 @@
 ### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.7 (28.7%)
-Java            ███████████████████████ 21.8 (21.8%)
-Go              ███████████████████████ 21.8 (21.8%)
-Python          ███████████████████ 18.4 (18.4%)
+JavaScript      ██████████████████████████████ 27.6 (27.6%)
+Go              █████████████████████████ 23.0 (23.0%)
+Java            ██████████████████████ 20.7 (20.7%)
+Python          ████████████████████ 18.4 (18.4%)
+Kotlin          █████ 4.6 (4.6%)
 Rust            ████ 3.4 (3.4%)
-Kotlin          ████ 3.4 (3.4%)
 Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
@@ -73,12 +73,12 @@ PHP             █ 1.1 (1.1%)
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 25
-    "Java" : 19
-    "Go" : 19
+    "JavaScript" : 24
+    "Go" : 20
+    "Java" : 18
     "Python" : 16
+    "Kotlin" : 4
     "Rust" : 3
-    "Kotlin" : 3
     "Swift" : 1
     "PHP" : 1
 ```
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![githubchallenge](https://img.shields.io/badge/githubchallenge-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![programming](https://img.shields.io/badge/programming-7-blue) ![discuss](https://img.shields.io/badge/discuss-6-blue) ![agents](https://img.shields.io/badge/agents-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![opensource](https://img.shields.io/badge/opensource-5-blue) ![antigravitycli](https://img.shields.io/badge/antigravitycli-5-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-01 9:00 CAT)
+## 📅 Latest Updates (2026-06-01 14:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,15 +144,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
-      <br/>
-      <b>How Are Developers Actually Using AI At Work?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png" width="200" alt="I Made My AI Models Argue, Then Let Hermes Be the Judge" />
       <br/>
@@ -161,17 +152,17 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkg6cytyvg18qzqnt87fl.jpg" width="200" alt="DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together" />
+    <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
       <br/>
-      <b>DevRelCon NYC 2026: Where Developer Relations, Dev...</b>
+      <b>How Are Developers Actually Using AI At Work?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png" width="200" alt="🦄 Modernizing Wild Rydes with modern technologies" />
@@ -190,6 +181,15 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png" width="200" alt="The Software Developer's Guide to AEO" />
+      <br/>
+      <b>The Software Developer's Guide to AEO</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -198,27 +198,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
-- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
-- [DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together](https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468) _[Dev.to]_
+- [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 - [I love MJML — I just didn't want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10) _[Dev.to]_
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 - [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
-- [Revisiting Benchmarking- Building a Rust A2A Agent](https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2) _[Dev.to]_
 - [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a) _[Dev.to]_
 - [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
-- [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k) _[Dev.to]_
 - [Every Great Cup Starts with the Right Question — I Built the Community Behind the Answer with Hermes Agent](https://dev.to/yuens1002/every-great-cup-starts-with-the-right-question-i-built-the-community-behind-the-answer-with-o04) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
-- [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof) _[Dev.to]_
-- [Github Copilot helped us cut down 50-75% time in our e-commerce business](https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5) _[Dev.to]_
+- [I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4) _[Dev.to]_
 - [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) _[Dev.to]_
 - [Local Gemma 4 Deployment with MCP and Antigravity CLI](https://dev.to/gde/local-gemma-4-deployment-with-mcp-and-antigravity-cli-hk8) _[Dev.to]_
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
+- [TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2) _[Dev.to]_
+- [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l) _[Dev.to]_
+- [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
+- [Making a New Native App for a Jailbroken iPhone 6](https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5) _[Dev.to]_
 
-_Last automated update: Mon, 01 Jun 2026 09:10:10 CAT_
+_Last automated update: Mon, 01 Jun 2026 14:49:07 CAT_
 
 
 
@@ -237,25 +237,25 @@ Heap, stack, garbage collection
 
 </details>
 
-### 2. Database: Explain database indexing and when to use it
+### 2. Database: What is the difference between SQL and NoSQL databases?
 
-**Difficulty**: Medium | **Topics**: optimization, performance
+**Difficulty**: Easy | **Topics**: databases, design
 
 <details>
 <summary>💡 Hint</summary>
 
-B-tree, trade-offs, query performance
+Schema, scalability, ACID vs BASE
 
 </details>
 
-### 3. SystemDesign: How would you design a rate limiter?
+### 3. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Iterative or recursive, three pointers
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Mon, 01 Jun 2026 07:10:10 GMT</b><br/>
+  <b>Last automated update: Mon, 01 Jun 2026 12:49:07 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 

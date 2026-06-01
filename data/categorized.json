@@ -1,19 +1,6 @@
 {
   "AI": [
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
       "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
       "published_at": "2026-05-30T16:00:54Z",
@@ -27,6 +14,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png",
       "source": "Dev.to",
       "user": "Arqam Waheed"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "I love MJML — I just didn't want a whole templating engine for two tiny things",
@@ -73,6 +73,21 @@
       "user": "Jasmin Virdi"
     },
     {
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
+      "source": "Dev.to",
+      "user": "Harsh "
+    },
+    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
       "published_at": "2026-05-27T09:44:24Z",
@@ -101,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5ge843hchyvzsl1lyzu.png",
       "source": "Dev.to",
       "user": "Fayaz"
-    },
-    {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "published_at": "2026-05-28T14:53:02Z",
-      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
-      "source": "Dev.to",
-      "user": "Harsh "
     },
     {
       "title": "Why does AI forget what you said (and how to fix it)",
@@ -384,6 +384,36 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
+    },
+    {
+      "title": "Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds",
+      "url": "https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c",
+      "published_at": "2026-05-26T22:54:18Z",
+      "description": "Stop choosing between speed and structure, you don't have to.               The Tension...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "sdd",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fonlf6yhzrvd7svm0ddll.png",
+      "source": "Dev.to",
+      "user": "Tahirih Jaliri "
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -539,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 10742,
+      "stars": 14412,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -554,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 692,
       "user": "withkynam"
     },
     {
@@ -569,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "FoundZiGu"
     },
     {
@@ -584,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1282,
       "user": "GordenSun"
     },
     {
@@ -599,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 1014,
       "user": "Sophomoresty"
     },
     {
@@ -614,8 +644,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 544,
       "user": "ace-trump-tech"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "url": "https://github.com/asz798838958/aBaiAutoplus",
+      "published_at": "2026-05-31T14:29:52Z",
+      "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 471,
+      "user": "asz798838958"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -629,23 +674,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 423,
       "user": "FlashML-org"
-    },
-    {
-      "title": "yb2460/harness-anything - CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "url": "https://github.com/yb2460/harness-anything",
-      "published_at": "2026-05-27T08:25:28Z",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282223297?v=4",
-      "source": "GitHub",
-      "stars": 245,
-      "user": "yb2460"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -659,23 +689,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 819,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "79E/auto-openai-account - 自动化注册 Openai / ChatGpt 账号",
-      "url": "https://github.com/79E/auto-openai-account",
-      "published_at": "2026-05-26T04:52:53Z",
-      "description": "自动化注册 Openai / ChatGpt 账号",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71202421?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "79E"
     }
   ],
   "JavaScript": [
@@ -736,21 +751,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
-    },
-    {
-      "title": "I Turned npm outdated into a CI Gate — Here's How",
-      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
-      "published_at": "2026-05-24T17:20:15Z",
-      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
-      "tags": [
-        "javascript",
-        "node",
-        "ci",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
-      "source": "Dev.to",
-      "user": "Sulthon Zainul Habib"
     },
     {
       "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
@@ -929,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 10742,
+      "stars": 14412,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -944,7 +944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 692,
       "user": "withkynam"
     },
     {
@@ -959,7 +959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 426,
       "user": "BlackCandleLab"
     },
     {
@@ -974,7 +974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 366,
       "user": "paraschopra"
     },
     {
@@ -989,7 +989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "FoundZiGu"
     },
     {
@@ -1004,7 +1004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1282,
       "user": "GordenSun"
     },
     {
@@ -1019,7 +1019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 80,
       "user": "IRNova"
     }
   ],
@@ -1171,7 +1171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1282,
       "user": "GordenSun"
     },
     {
@@ -1186,7 +1186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 1014,
       "user": "Sophomoresty"
     },
     {
@@ -1201,8 +1201,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 544,
       "user": "ace-trump-tech"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "url": "https://github.com/asz798838958/aBaiAutoplus",
+      "published_at": "2026-05-31T14:29:52Z",
+      "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 471,
+      "user": "asz798838958"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -1216,23 +1231,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 423,
       "user": "FlashML-org"
-    },
-    {
-      "title": "yb2460/harness-anything - CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "url": "https://github.com/yb2460/harness-anything",
-      "published_at": "2026-05-27T08:25:28Z",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282223297?v=4",
-      "source": "GitHub",
-      "stars": 245,
-      "user": "yb2460"
     }
   ],
   "DevOps": [
@@ -1252,21 +1252,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
-      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k",
-      "published_at": "2026-05-29T09:48:30Z",
-      "description": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
-      "tags": [
-        "architecture",
-        "devops",
-        "kubernetes",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
       "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
       "published_at": "2026-05-26T16:43:57Z",
@@ -1280,6 +1265,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
+    },
+    {
+      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
+      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k",
+      "published_at": "2026-05-29T09:48:30Z",
+      "description": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
+      "tags": [
+        "architecture",
+        "devops",
+        "kubernetes",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
@@ -1297,6 +1297,21 @@
       "user": "Harish"
     },
     {
+      "title": "Speed, caching, and the 40x cost wall",
+      "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
+      "published_at": "2026-05-08T06:39:25Z",
+      "description": "Notes from this week on the RapidNative agent stack. Why we love Cerebras, why the cost still bites, and the split-agent pivot we are evaluating.",
+      "tags": [
+        "ai",
+        "llm",
+        "buildinpublic",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
+      "source": "Dev.to",
+      "user": "Sanket Sahu"
+    },
+    {
       "title": "docker-desktop-windows/docker-desktop - docker desktop windows mac install download free windows 11 github wsl2 kubernetes",
       "url": "https://github.com/docker-desktop-windows/docker-desktop",
       "published_at": "2026-05-31T16:54:01Z",
@@ -1308,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 198,
       "user": "docker-desktop-windows"
     }
   ],
@@ -1342,20 +1357,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffxdofdg9g1ymf0jm34lg.png",
       "source": "Dev.to",
       "user": "Michal Král"
-    },
-    {
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "url": "https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof",
-      "published_at": "2026-05-27T14:09:19Z",
-      "description": "Is it confusing to have links inside labels? Does it break in some screenreaders?",
-      "tags": [
-        "a11y",
-        "html",
-        "forms"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhyzichhk0ehaysc92qy.png",
-      "source": "Dev.to",
-      "user": "Christian Heilmann"
     },
     {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
@@ -1459,6 +1460,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj0t2iqmtt9ij02uma9zh.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
+    },
+    {
+      "title": "rstagit/rstaspoof - ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux",
+      "url": "https://github.com/rstagit/rstaspoof",
+      "published_at": "2026-05-31T13:56:58Z",
+      "description": "ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "rstagit"
     }
   ],
   "Cloud": [
@@ -1613,6 +1629,21 @@
       "user": "Allen Firstenberg"
     },
     {
+      "title": "Deploying a Rust MCP Server to Azure Appservice",
+      "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-azure-appservice-g9c",
+      "published_at": "2026-05-17T12:39:30Z",
+      "description": "The rmcp crate and standard Rust libraries are used to build a basic MCP Server in Rust. This MCP...",
+      "tags": [
+        "mcps",
+        "rust",
+        "azure",
+        "azureappservice"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptfhlnno20g3sk6zvwq9.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker - 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
       "published_at": "2026-05-26T05:24:10Z",
@@ -1624,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 544,
       "user": "ace-trump-tech"
     },
     {
@@ -1639,7 +1670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 819,
       "user": "MatinSenPai"
     },
     {
@@ -1654,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 80,
       "user": "IRNova"
     }
   ],
@@ -1733,32 +1764,19 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Revisiting Benchmarking- Building a Rust A2A Agent",
-      "url": "https://dev.to/gde/revisiting-benchmarking-building-a-rust-a2a-agent-5bl2",
-      "published_at": "2026-05-27T02:55:27Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           Cross Language A2A Agent...",
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "published_at": "2026-05-28T14:53:02Z",
+      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
       "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "a2a",
-        "benchmarking"
+        "ai",
+        "programming",
+        "productivity",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3h3xmboq9h4jmsdmsbk3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
       "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Github Copilot helped us cut down 50-75% time in our e-commerce business",
-      "url": "https://dev.to/heyitsmarcucu/github-copilot-helped-us-cut-down-50-75-time-in-our-e-commerce-business-10l5",
-      "published_at": "2026-05-26T08:08:46Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge           What I Built   A couple of...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fysefvdltvt4kmbv3t9le.png",
-      "source": "Dev.to",
-      "user": "Marcus Ang"
+      "user": "Harsh "
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -1788,36 +1806,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "published_at": "2026-05-28T14:53:02Z",
-      "description": "AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifo1i3m21ukeifvtu7j3.png",
-      "source": "Dev.to",
-      "user": "Harsh "
-    },
-    {
-      "title": "I Turned npm outdated into a CI Gate — Here's How",
-      "url": "https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o",
-      "published_at": "2026-05-24T17:20:15Z",
-      "description": "You run npm outdated and see a list of stale packages. But your CI doesn't care. It passes anyway....",
-      "tags": [
-        "javascript",
-        "node",
-        "ci",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1hodn8ujf00qrnbiqd2.png",
-      "source": "Dev.to",
-      "user": "Sulthon Zainul Habib"
     },
     {
       "title": "Copilot helped me deploy my passion project to the App Store",
@@ -1934,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 10742,
+      "stars": 14412,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1949,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 692,
       "user": "withkynam"
     },
     {
@@ -1964,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 426,
       "user": "BlackCandleLab"
     },
     {
@@ -1979,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/762025?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 366,
       "user": "paraschopra"
     },
     {
@@ -1994,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "FoundZiGu"
     },
     {
@@ -2009,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1282,
       "user": "GordenSun"
     },
     {
@@ -2024,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 1014,
       "user": "Sophomoresty"
     },
     {
@@ -2039,8 +2027,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187950525?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 544,
       "user": "ace-trump-tech"
+    },
+    {
+      "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "url": "https://github.com/asz798838958/aBaiAutoplus",
+      "published_at": "2026-05-31T14:29:52Z",
+      "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
+      "source": "GitHub",
+      "stars": 471,
+      "user": "asz798838958"
     },
     {
       "title": "FlashML-org/flashlib - Fast and memory-efficient classical machine learning operators",
@@ -2054,23 +2057,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286493426?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 423,
       "user": "FlashML-org"
-    },
-    {
-      "title": "yb2460/harness-anything - CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "url": "https://github.com/yb2460/harness-anything",
-      "published_at": "2026-05-27T08:25:28Z",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282223297?v=4",
-      "source": "GitHub",
-      "stars": 245,
-      "user": "yb2460"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -2084,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 819,
       "user": "MatinSenPai"
     },
     {
@@ -2099,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153310672?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 198,
       "user": "docker-desktop-windows"
     },
     {
@@ -2114,23 +2102,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 80,
       "user": "IRNova"
     },
     {
-      "title": "79E/auto-openai-account - 自动化注册 Openai / ChatGpt 账号",
-      "url": "https://github.com/79E/auto-openai-account",
-      "published_at": "2026-05-26T04:52:53Z",
-      "description": "自动化注册 Openai / ChatGpt 账号",
+      "title": "rstagit/rstaspoof - ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux",
+      "url": "https://github.com/rstagit/rstaspoof",
+      "published_at": "2026-05-31T13:56:58Z",
+      "description": "ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71202421?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 42,
-      "user": "79E"
+      "stars": 69,
+      "user": "rstagit"
     },
     {
       "title": "Harshil-Anuwadia/archwiki-tui - A terminal browser for the Arch Wiki. No bloat. No browser. Just the wiki.",
@@ -2144,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91258132?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 44,
       "user": "Harshil-Anuwadia"
     }
   ]
