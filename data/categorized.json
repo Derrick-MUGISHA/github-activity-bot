@@ -73,21 +73,6 @@
       "user": "Arqam Waheed"
     },
     {
-      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
-      "published_at": "2026-05-31T04:03:42Z",
-      "description": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f99hg7otrc0onup64h.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
       "published_at": "2026-05-27T09:44:24Z",
@@ -131,20 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
-      "published_at": "2026-05-26T23:19:30Z",
-      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
-      "tags": [
-        "iphone",
-        "ios",
-        "retrocomputing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
-      "source": "Dev.to",
-      "user": "Adolfo Reyna"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -206,6 +177,21 @@
       "user": "Anup Karanjkar"
     },
     {
+      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
+      "published_at": "2026-05-31T04:03:42Z",
+      "description": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f99hg7otrc0onup64h.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?",
       "url": "https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1",
       "published_at": "2026-05-28T18:50:28Z",
@@ -232,21 +218,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmll16a4gop311pn6wr7r.png",
       "source": "Dev.to",
       "user": "PeterMilovcik"
-    },
-    {
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "published_at": "2026-05-29T12:11:12Z",
-      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
-      "tags": [
-        "machinelearning",
-        "ai",
-        "llm",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl86zu399pfaztfqu637.png",
-      "source": "Dev.to",
-      "user": "Sergey Parfenov"
     },
     {
       "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
@@ -427,6 +398,21 @@
       "user": "Aryan Choudhary"
     },
     {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -582,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 24986,
+      "stars": 27589,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -597,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 713,
       "user": "withkynam"
     },
     {
@@ -612,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "FoundZiGu"
     },
     {
@@ -627,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1536,
       "user": "GordenSun"
     },
     {
@@ -642,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1215,
       "user": "Sophomoresty"
     },
     {
@@ -657,23 +643,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 866,
       "user": "asz798838958"
     },
     {
-      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
-      "url": "https://github.com/DannyMac180/skills",
-      "published_at": "2026-05-29T14:54:55Z",
-      "description": "AI agent skills created by me: Dan McAteer",
+      "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "url": "https://github.com/ClaudioDrews/memory-os",
+      "published_at": "2026-05-31T19:50:25Z",
+      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "DannyMac180"
+      "stars": 449,
+      "user": "ClaudioDrews"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -687,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 881,
       "user": "MatinSenPai"
     },
     {
@@ -927,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 24986,
+      "stars": 27589,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -942,7 +928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 713,
       "user": "withkynam"
     },
     {
@@ -957,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "BlackCandleLab"
     },
     {
@@ -972,7 +958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "FoundZiGu"
     },
     {
@@ -987,7 +973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "Sophomoresty"
     },
     {
@@ -1002,7 +988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1536,
       "user": "GordenSun"
     },
     {
@@ -1017,7 +1003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "IRNova"
     }
   ],
@@ -1169,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1536,
       "user": "GordenSun"
     },
     {
@@ -1184,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1215,
       "user": "Sophomoresty"
     },
     {
@@ -1199,23 +1185,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 866,
       "user": "asz798838958"
     },
     {
-      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
-      "url": "https://github.com/DannyMac180/skills",
-      "published_at": "2026-05-29T14:54:55Z",
-      "description": "AI agent skills created by me: Dan McAteer",
+      "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "url": "https://github.com/ClaudioDrews/memory-os",
+      "published_at": "2026-05-31T19:50:25Z",
+      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "DannyMac180"
+      "stars": 449,
+      "user": "ClaudioDrews"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -1229,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 383,
       "user": "qiuqiubuchongle-cloud"
     }
   ],
@@ -1265,21 +1251,6 @@
       "user": "Cristhian Ferreira "
     },
     {
-      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
-      "published_at": "2026-05-31T04:03:42Z",
-      "description": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f99hg7otrc0onup64h.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Default Nginx Is Dead? Here’s What’s Replacing It",
       "url": "https://dev.to/himanshudevgupta/default-nginx-is-dead-heres-whats-replacing-it-7en",
       "published_at": "2026-05-26T16:43:57Z",
@@ -1293,21 +1264,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
-    },
-    {
-      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
-      "url": "https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k",
-      "published_at": "2026-05-29T09:48:30Z",
-      "description": "Let’s be honest: Kubernetes is the undisputed king of orchestration. But if you are running a small...",
-      "tags": [
-        "architecture",
-        "devops",
-        "kubernetes",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6oaww3doumnijatyy2dr.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
@@ -1325,6 +1281,21 @@
       "user": "Harish"
     },
     {
+      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
+      "published_at": "2026-05-31T04:03:42Z",
+      "description": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f99hg7otrc0onup64h.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Speed, caching, and the 40x cost wall",
       "url": "https://dev.to/sanketsahu/speed-caching-and-the-40x-cost-wall-2gn0",
       "published_at": "2026-05-08T06:39:25Z",
@@ -1338,6 +1309,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.sanket.info%2Fblog%2Frapidnative-cost-wall%2Fog.png",
       "source": "Dev.to",
       "user": "Sanket Sahu"
+    },
+    {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
     }
   ],
   "WebDev": [
@@ -1401,20 +1387,6 @@
   ],
   "Mobile": [
     {
-      "title": "Making a New Native App for a Jailbroken iPhone 6",
-      "url": "https://dev.to/aeroreyna/making-a-new-native-app-for-a-jailbroken-iphone-6-16o5",
-      "published_at": "2026-05-26T23:19:30Z",
-      "description": "Build and install a native UIKit app directly on a jailbroken iPhone 6 running iOS 12, using Theos, clang, and Cydia-compatible .deb packaging.",
-      "tags": [
-        "iphone",
-        "ios",
-        "retrocomputing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kdvsco46d33laxwwu2o.png",
-      "source": "Dev.to",
-      "user": "Adolfo Reyna"
-    },
-    {
       "title": "Through the Blue Frames: UX From Google Glass to Gemini",
       "url": "https://dev.to/gde/through-the-blue-frames-ux-from-google-glass-to-gemini-51e0",
       "published_at": "2026-05-15T15:00:00Z",
@@ -1456,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 171,
       "user": "rstagit"
     }
   ],
@@ -1537,21 +1509,6 @@
       "user": "xbill"
     },
     {
-      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
-      "published_at": "2026-05-31T04:03:42Z",
-      "description": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f99hg7otrc0onup64h.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
       "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
       "published_at": "2026-05-27T09:44:24Z",
@@ -1612,6 +1569,21 @@
       "user": "xbill"
     },
     {
+      "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
+      "published_at": "2026-05-31T04:03:42Z",
+      "description": "How gVisor-powered sandbox isolates AI-generated code at the kernel level and why it changes...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd4f99hg7otrc0onup64h.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
       "url": "https://dev.to/gde/gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-19h",
       "published_at": "2026-05-28T20:13:09Z",
@@ -1668,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 383,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1683,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 881,
       "user": "MatinSenPai"
     },
     {
@@ -1698,7 +1670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "IRNova"
     }
   ],
@@ -1733,6 +1705,21 @@
       "user": "Alexander Tyutin"
     },
     {
+      "title": "AI Agents in CI/CD: Give Them Context, Not Production Authority",
+      "url": "https://dev.to/grigorkh/ai-agents-in-cicd-give-them-context-not-production-authority-3fh2",
+      "published_at": "2026-05-25T05:00:31Z",
+      "description": "AI coding agents are showing up in CI/CD pipelines more often. They can review code, run tests,...",
+      "tags": [
+        "security",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63m59n0anxuiqntybc82.png",
+      "source": "Dev.to",
+      "user": "Grigor Khachatryan"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -1747,21 +1734,6 @@
   ],
   "Tools": [
     {
-      "title": "Morning Security Report with Antigravity Agent",
-      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592",
-      "published_at": "2026-06-01T04:49:31Z",
-      "description": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
-      "tags": [
-        "productivity",
-        "programming",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk69pts23s5wc0ttjuxb7.png",
-      "source": "Dev.to",
-      "user": "Alexander Tyutin"
-    },
-    {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
       "url": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
       "published_at": "2026-05-29T01:46:49Z",
@@ -1775,6 +1747,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "Morning Security Report with Antigravity Agent",
+      "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592",
+      "published_at": "2026-06-01T04:49:31Z",
+      "description": "The latest Antigravity updates announced at Google Next brought a lot of interesting features. I am...",
+      "tags": [
+        "productivity",
+        "programming",
+        "agents",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk69pts23s5wc0ttjuxb7.png",
+      "source": "Dev.to",
+      "user": "Alexander Tyutin"
     },
     {
       "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
@@ -1922,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 24986,
+      "stars": 27589,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1937,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 713,
       "user": "withkynam"
     },
     {
@@ -1952,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "BlackCandleLab"
     },
     {
@@ -1967,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "FoundZiGu"
     },
     {
@@ -1982,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "Sophomoresty"
     },
     {
@@ -1997,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 1536,
       "user": "GordenSun"
     },
     {
@@ -2012,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1215,
       "user": "Sophomoresty"
     },
     {
@@ -2027,23 +2014,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 866,
       "user": "asz798838958"
     },
     {
-      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
-      "url": "https://github.com/DannyMac180/skills",
-      "published_at": "2026-05-29T14:54:55Z",
-      "description": "AI agent skills created by me: Dan McAteer",
+      "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "url": "https://github.com/ClaudioDrews/memory-os",
+      "published_at": "2026-05-31T19:50:25Z",
+      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "DannyMac180"
+      "stars": 449,
+      "user": "ClaudioDrews"
     },
     {
       "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
@@ -2057,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 383,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2072,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 881,
       "user": "MatinSenPai"
     },
     {
@@ -2087,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 171,
       "user": "rstagit"
     },
     {
@@ -2102,7 +2089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "IRNova"
     },
     {
@@ -2121,19 +2108,19 @@
       "user": "ethanhq"
     },
     {
-      "title": "Jitesh117/subwayCLI - endless subway surfers gameplay rendered right in your terminal",
-      "url": "https://github.com/Jitesh117/subwayCLI",
-      "published_at": "2026-05-29T13:29:39Z",
-      "description": "endless subway surfers gameplay rendered right in your terminal",
+      "title": "pood1e/wa-app - GitHub Repository",
+      "url": "https://github.com/pood1e/wa-app",
+      "published_at": "2026-05-31T12:09:33Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77315098?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 31,
-      "user": "Jitesh117"
+      "stars": 61,
+      "user": "pood1e"
     }
   ]
 }

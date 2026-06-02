@@ -2,7 +2,7 @@
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Total%20Articles-105-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-8-blue)
+![Languages](https://img.shields.io/badge/Languages-7-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-2026-06-02-orange)
 
 **DevTech Auto News Enhanced** is an advanced automated bot that aggregates trending topics in **AI**, **Web Development**, **Mobile**, **Cloud**, **DevOps**, and more from multiple sources including:
@@ -28,23 +28,23 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50 (47.6%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 49 (46.7%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 26 (24.8%)
 
 **JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
 
-**Python**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Python**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
 
 **DevOps**: 🟦🟦🟦 7 (6.7%)
 
 **WebDev**: 🟦🟦 4 (3.8%)
 
-**Mobile**: 🟦🟦 4 (3.8%)
+**Mobile**: 🟦 3 (2.9%)
 
-**Security**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (2.9%)
 
 **Database**:  1 (1.0%)
 
@@ -60,26 +60,24 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.8 (25.8%)
-JavaScript      ██████████████████████████████ 25.8 (25.8%)
-Java            ███████████████████████ 20.2 (20.2%)
-Python          █████████████████████ 18.0 (18.0%)
+Go              ██████████████████████████████ 27.0 (27.0%)
+JavaScript      █████████████████████████████ 25.8 (25.8%)
+Java            ██████████████████████ 20.2 (20.2%)
+Python          ████████████████████ 18.0 (18.0%)
 Rust            █████ 4.5 (4.5%)
 Kotlin          ████ 3.4 (3.4%)
-Swift           █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 23
+    "Go" : 24
     "JavaScript" : 23
     "Java" : 18
     "Python" : 16
     "Rust" : 4
     "Kotlin" : 3
-    "Swift" : 1
     "PHP" : 1
 ```
 
@@ -87,7 +85,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-7-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![go](https://img.shields.io/badge/go-6-blue) ![kubernetes](https://img.shields.io/badge/kubernetes-5-blue) ![programming](https://img.shields.io/badge/programming-5-blue) 
+![ai](https://img.shields.io/badge/ai-22-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-9-blue) ![discuss](https://img.shields.io/badge/discuss-8-blue) ![javascript](https://img.shields.io/badge/javascript-8-blue) ![agents](https://img.shields.io/badge/agents-8-blue) ![productivity](https://img.shields.io/badge/productivity-6-blue) ![programming](https://img.shields.io/badge/programming-6-blue) ![python](https://img.shields.io/badge/python-6-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![go](https://img.shields.io/badge/go-6-blue) 
 
 
 
@@ -127,13 +125,22 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-02 13:00 CAT)
+## 📅 Latest Updates (2026-06-02 17:00 CAT)
 
 
 ### 🖼️ Featured Articles
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/meme-monday-25la">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuzmkm73i5zi7vnh6nqs.png" width="200" alt="Meme Monday" />
+      <br/>
+      <b>Meme Monday</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png" width="200" alt="Strategies for running AI workloads on GKE without committed quota" />
@@ -144,26 +151,6 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-i1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfi7226r8a36s3k6mo1o.jpg" width="200" alt="What was your win this week?" />
-      <br/>
-      <b>What was your win this week?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-25la">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuzmkm73i5zi7vnh6nqs.png" width="200" alt="Meme Monday" />
-      <br/>
-      <b>Meme Monday</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhhyi558mgtk0kwkhr45.png" width="200" alt="The Ultimate Cloud Run Guide 2026" />
       <br/>
@@ -172,20 +159,31 @@ npm run test
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk69pts23s5wc0ttjuxb7.png" width="200" alt="Morning Security Report with Antigravity Agent" />
-      <br/>
-      <b>Morning Security Report with Antigravity Agent</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png" width="200" alt="How Are Developers Actually Using AI At Work?" />
       <br/>
       <b>How Are Developers Actually Using AI At Work?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png" width="200" alt="🦄 Modernizing Wild Rydes with modern technologies" />
+      <br/>
+      <b>🦄 Modernizing Wild Rydes with modern technologies</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png" width="200" alt="The Software Developer's Guide to AEO" />
+      <br/>
+      <b>The Software Developer's Guide to AEO</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -197,28 +195,28 @@ npm run test
 
 ### 📰 Top Headlines
 
-- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
 - [Meme Monday](https://dev.to/ben/meme-monday-25la) _[Dev.to]_
+- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 - [The Ultimate Cloud Run Guide 2026](https://dev.to/googleai/the-ultimate-cloud-run-guide-2026-54f8) _[Dev.to]_
-- [Morning Security Report with Antigravity Agent](https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592) _[Dev.to]_
 - [How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c) _[Dev.to]_
 - [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
 - [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 - [Broken Software](https://dev.to/alex27/broken-software-b54) _[Dev.to]_
 - [Azure Cloud Shell with Antigravity CLI](https://dev.to/gde/azure-cloud-shell-with-antigravity-cli-mn6) _[Dev.to]_
 - [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1) _[Dev.to]_
+- [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
+- [Morning Security Report with Antigravity Agent](https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592) _[Dev.to]_
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na) _[Dev.to]_
 - [Mix and Match: Running Kiro on Google Cloud Shell](https://dev.to/gde/mix-and-match-running-kiro-on-google-cloud-shell-5hco) _[Dev.to]_
-- [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c) _[Dev.to]_
-- [Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox](https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1) _[Dev.to]_
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1) _[Dev.to]_
 - [GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search](https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe) _[Dev.to]_
 - [Local Gemma 4 Deployment with MCP and Antigravity CLI](https://dev.to/gde/local-gemma-4-deployment-with-mcp-and-antigravity-cli-hk8) _[Dev.to]_
 - [Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!](https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41) _[Dev.to]_
 - [TypeScript enums aren’t the real problem — duplicated UI enum plumbing is](https://dev.to/shijistar/typescript-enums-arent-the-real-problem-duplicated-ui-enum-plumbing-is-22h2) _[Dev.to]_
 - [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l) _[Dev.to]_
+- [Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6) _[Dev.to]_
 
-_Last automated update: Tue, 02 Jun 2026 13:03:41 CAT_
+_Last automated update: Tue, 02 Jun 2026 17:10:22 CAT_
 
 
 
@@ -226,36 +224,36 @@ _Last automated update: Tue, 02 Jun 2026 13:03:41 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. Database: What is the difference between SQL and NoSQL databases?
+### 1. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Easy | **Topics**: databases, design
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Schema, scalability, ACID vs BASE
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 2. SystemDesign: How would you design a rate limiter?
+### 2. Python: Implement a context manager using __enter__ and __exit__
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Hard | **Topics**: context managers, resource management
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+with statement, setup/teardown, exception handling
 
 </details>
 
-### 3. NodeJS: What is the difference between process.nextTick() and setImmediate()?
+### 3. DataStructures: Implement LRU Cache
 
-**Difficulty**: Medium | **Topics**: event loop, async
+**Difficulty**: Hard | **Topics**: design, hash map, linked list
 
 <details>
 <summary>💡 Hint</summary>
 
-Execution timing, event loop phases
+Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -289,7 +287,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Tue, 02 Jun 2026 11:03:41 GMT</b><br/>
+  <b>Last automated update: Tue, 02 Jun 2026 15:10:22 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
