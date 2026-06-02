@@ -16,21 +16,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Debloating The AI-Grown Codebase",
-      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
-      "published_at": "2026-06-01T17:22:48Z",
-      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
-      "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
-      "source": "Dev.to",
-      "user": "Maxim Saplin"
-    },
-    {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
       "published_at": "2026-06-01T18:54:52Z",
@@ -46,6 +31,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Debloating The AI-Grown Codebase",
+      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
+      "published_at": "2026-06-01T17:22:48Z",
+      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
+      "tags": [
+        "ai",
+        "programming",
+        "agents",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
+    },
+    {
       "title": "How Are Developers Actually Using AI At Work?",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
       "published_at": "2026-05-27T07:11:18Z",
@@ -57,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "What are your goals for the week? #181",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
+      "published_at": "2026-06-01T14:00:00Z",
+      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
+      "tags": [
+        "devjournal",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
     },
     {
       "title": "The Software Developer's Guide to AEO",
@@ -146,21 +161,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 30495,
+      "stars": 32006,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "withkynam"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "GordenSun"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1233,
       "user": "Sophomoresty"
     },
     {
@@ -645,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 970,
       "user": "asz798838958"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 591,
       "user": "ClaudioDrews"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 899,
       "user": "MatinSenPai"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 30495,
+      "stars": 32006,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -930,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "withkynam"
     },
     {
@@ -990,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "GordenSun"
     },
     {
@@ -1005,7 +1005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "IRNova"
     }
   ],
@@ -1157,7 +1157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "GordenSun"
     },
     {
@@ -1172,7 +1172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1233,
       "user": "Sophomoresty"
     },
     {
@@ -1187,7 +1187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 970,
       "user": "asz798838958"
     },
     {
@@ -1202,7 +1202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 591,
       "user": "ClaudioDrews"
     },
     {
@@ -1217,11 +1217,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 407,
       "user": "qiuqiubuchongle-cloud"
     }
   ],
   "DevOps": [
+    {
+      "title": "Gubernator [the kill ku8s]",
+      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
+      "published_at": "2026-06-02T12:55:56Z",
+      "description": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
+      "tags": [
+        "architecture",
+        "infrastructure",
+        "kubernetes",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
       "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
@@ -1415,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "rstagit"
     }
   ],
@@ -1526,21 +1541,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "published_at": "2026-05-22T16:27:19Z",
-      "description": "Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...",
-      "tags": [
-        "gemini",
-        "ai",
-        "googlecloud",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko70tksvphlee39wc5ju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI",
       "url": "https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd",
       "published_at": "2026-05-14T15:18:37Z",
@@ -1627,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 407,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1642,7 +1642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 899,
       "user": "MatinSenPai"
     },
     {
@@ -1657,7 +1657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "IRNova"
     }
   ],
@@ -1718,6 +1718,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzufvcvbvxzvp8pevsdsc.jpg",
       "source": "Dev.to",
       "user": "Ingo Steinke, web developer"
+    },
+    {
+      "title": "What are your goals for the week? #181",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
+      "published_at": "2026-06-01T14:00:00Z",
+      "description": "When this posts I should be at Ren faire or on the way to faire to break down the tent. I haven't had...",
+      "tags": [
+        "devjournal",
+        "discuss",
+        "productivity",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
+      "source": "Dev.to",
+      "user": "Chris Jarvis"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1895,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 30495,
+      "stars": 32006,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1910,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 720,
       "user": "withkynam"
     },
     {
@@ -1970,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1548,
+      "stars": 1549,
       "user": "GordenSun"
     },
     {
@@ -1985,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1233,
       "user": "Sophomoresty"
     },
     {
@@ -2000,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 970,
       "user": "asz798838958"
     },
     {
@@ -2015,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 591,
       "user": "ClaudioDrews"
     },
     {
@@ -2030,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 407,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2045,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 899,
       "user": "MatinSenPai"
     },
     {
@@ -2060,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "rstagit"
     },
     {
@@ -2075,7 +2090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "IRNova"
     },
     {
@@ -2090,7 +2105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "pood1e"
     },
     {
