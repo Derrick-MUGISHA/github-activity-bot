@@ -58,6 +58,21 @@
       "user": "Jasmin Virdi"
     },
     {
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
+      "published_at": "2026-05-30T16:00:54Z",
+      "description": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
+      "tags": [
+        "hermesagentchallenge",
+        "devchallenge",
+        "agents",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png",
+      "source": "Dev.to",
+      "user": "Arqam Waheed"
+    },
+    {
       "title": "Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox",
       "url": "https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1",
       "published_at": "2026-05-31T04:03:42Z",
@@ -86,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1faazwmz8bt3b3eyjhp.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
-      "published_at": "2026-05-30T16:00:54Z",
-      "description": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "tags": [
-        "hermesagentchallenge",
-        "devchallenge",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png",
-      "source": "Dev.to",
-      "user": "Arqam Waheed"
     },
     {
       "title": "AI fatigue is very real and people are fighting back!",
@@ -397,6 +397,36 @@
       "user": "Jess Lee"
     },
     {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
+    },
+    {
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "url": "https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da",
+      "published_at": "2026-05-06T06:28:42Z",
+      "description": "Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...",
+      "tags": [
+        "career",
+        "learning",
+        "development",
+        "workplace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6nv6d6nrb7vpdmlr864o.png",
+      "source": "Dev.to",
+      "user": "Aryan Choudhary"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -552,7 +582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 22857,
+      "stars": 24986,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -567,7 +597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 708,
       "user": "withkynam"
     },
     {
@@ -582,7 +612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 196,
       "user": "FoundZiGu"
     },
     {
@@ -597,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1516,
       "user": "GordenSun"
     },
     {
@@ -612,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1175,
       "user": "Sophomoresty"
     },
     {
@@ -627,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 789,
       "user": "asz798838958"
     },
     {
@@ -642,23 +672,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 356,
       "user": "DannyMac180"
-    },
-    {
-      "title": "yb2460/harness-anything - CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "url": "https://github.com/yb2460/harness-anything",
-      "published_at": "2026-05-27T08:25:28Z",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282223297?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "yb2460"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -672,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 875,
       "user": "MatinSenPai"
     },
     {
@@ -764,6 +779,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5628uym4qo9mra6g5sf9.png",
       "source": "Dev.to",
       "user": "Sanket Bhor"
+    },
+    {
+      "title": "The Most Concerning AI Risk of 2026",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "published_at": "2026-05-22T06:49:44Z",
+      "description": "7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. ",
+      "tags": [
+        "ai",
+        "javascript",
+        "news",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab295x5a5s4h4ozkvwlq.png",
+      "source": "Dev.to",
+      "user": "Sacha Greif"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -897,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 22857,
+      "stars": 24986,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -912,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 708,
       "user": "withkynam"
     },
     {
@@ -927,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 241,
       "user": "BlackCandleLab"
     },
     {
@@ -942,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 196,
       "user": "FoundZiGu"
     },
     {
@@ -957,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "Sophomoresty"
     },
     {
@@ -972,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1516,
       "user": "GordenSun"
     },
     {
@@ -987,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "IRNova"
     }
   ],
@@ -1139,7 +1169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1516,
       "user": "GordenSun"
     },
     {
@@ -1154,7 +1184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1175,
       "user": "Sophomoresty"
     },
     {
@@ -1169,7 +1199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 789,
       "user": "asz798838958"
     },
     {
@@ -1184,23 +1214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 356,
       "user": "DannyMac180"
     },
     {
-      "title": "yb2460/harness-anything - CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "url": "https://github.com/yb2460/harness-anything",
-      "published_at": "2026-05-27T08:25:28Z",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+      "published_at": "2026-06-01T08:52:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282223297?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 283,
-      "user": "yb2460"
+      "stars": 342,
+      "user": "qiuqiubuchongle-cloud"
     }
   ],
   "DevOps": [
@@ -1426,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 165,
       "user": "rstagit"
     }
   ],
@@ -1627,6 +1657,21 @@
       "user": "xbill"
     },
     {
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+      "published_at": "2026-06-01T08:52:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "qiuqiubuchongle-cloud"
+    },
+    {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
       "url": "https://github.com/MatinSenPai/SenPaiScanner",
       "published_at": "2026-05-28T17:02:54Z",
@@ -1638,7 +1683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 875,
       "user": "MatinSenPai"
     },
     {
@@ -1653,26 +1698,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "IRNova"
     }
   ],
   "Database": [
-    {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
-      "published_at": "2026-05-22T15:12:33Z",
-      "description": "About storing application configs in code rather than database",
-      "tags": [
-        "configs",
-        "mindset",
-        "database",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
-      "source": "Dev.to",
-      "user": "Bimochan Shrestha"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -1806,21 +1836,6 @@
       "user": "Divyesh"
     },
     {
-      "title": "Configuration as Code: The Missing GitOps Layer in Multi-Tenant SaaS",
-      "url": "https://dev.to/sbimochan/configuration-as-code-the-missing-gitops-layer-in-multi-tenant-saas-1kph",
-      "published_at": "2026-05-22T15:12:33Z",
-      "description": "About storing application configs in code rather than database",
-      "tags": [
-        "configs",
-        "mindset",
-        "database",
-        "dx"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fic49vbr2jok5yl5vwnmz.png",
-      "source": "Dev.to",
-      "user": "Bimochan Shrestha"
-    },
-    {
       "title": "VS Code Prompt Files - Custom Slash Commands for GitHub Copilot",
       "url": "https://dev.to/petermilovcik/vs-code-prompt-files-custom-slash-commands-for-github-copilot-1m4f",
       "published_at": "2026-05-29T10:33:32Z",
@@ -1907,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 22857,
+      "stars": 24986,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1922,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 708,
       "user": "withkynam"
     },
     {
@@ -1937,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287743674?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 241,
       "user": "BlackCandleLab"
     },
     {
@@ -1952,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 196,
       "user": "FoundZiGu"
     },
     {
@@ -1967,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "Sophomoresty"
     },
     {
@@ -1982,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1516,
       "user": "GordenSun"
     },
     {
@@ -1997,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1175,
       "user": "Sophomoresty"
     },
     {
@@ -2012,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 789,
       "user": "asz798838958"
     },
     {
@@ -2027,23 +2042,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 356,
       "user": "DannyMac180"
     },
     {
-      "title": "yb2460/harness-anything - CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "url": "https://github.com/yb2460/harness-anything",
-      "published_at": "2026-05-27T08:25:28Z",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+      "title": "qiuqiubuchongle-cloud/chokepoint-atlas - GitHub Repository",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+      "published_at": "2026-06-01T08:52:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282223297?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 283,
-      "user": "yb2460"
+      "stars": 342,
+      "user": "qiuqiubuchongle-cloud"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -2057,7 +2072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 875,
       "user": "MatinSenPai"
     },
     {
@@ -2072,7 +2087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 165,
       "user": "rstagit"
     },
     {
@@ -2087,7 +2102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "IRNova"
     },
     {
@@ -2117,7 +2132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77315098?v=4",
       "source": "GitHub",
-      "stars": 30,
+      "stars": 31,
       "user": "Jitesh117"
     }
   ]
