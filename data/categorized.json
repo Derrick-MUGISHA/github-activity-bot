@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Sovereign Synapse: The Context-Cleaner",
       "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
       "published_at": "2026-06-02T13:53:40Z",
@@ -31,21 +16,6 @@
       "user": "Ken W Alger"
     },
     {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
-    },
-    {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
       "published_at": "2026-06-02T09:43:33Z",
@@ -59,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Content Virtualization using the HTML <template> Element",
@@ -106,6 +91,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "Spec-Driven Development with OpenSpec",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
+      "published_at": "2026-06-02T18:50:00Z",
+      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "tags": [
+        "ai",
+        "sdd",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
+      "source": "Dev.to",
+      "user": "Christopher Sidebottom"
+    },
+    {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
       "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
       "published_at": "2026-06-02T11:23:28Z",
@@ -151,19 +151,6 @@
       "user": "Maxim Saplin"
     },
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "published_at": "2026-05-27T07:11:18Z",
-      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "What are your goals for the week? #181",
       "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58",
       "published_at": "2026-06-01T14:00:00Z",
@@ -191,6 +178,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzgsaks1zo5kac170xc1.png",
       "source": "Dev.to",
       "user": "Karl L. Hughes"
+    },
+    {
+      "title": "How Are Developers Actually Using AI At Work?",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "published_at": "2026-05-27T07:11:18Z",
+      "description": "JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
@@ -294,6 +294,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "When Is 100% Vibe Coding OK ?",
+      "url": "https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p",
+      "published_at": "2026-05-31T22:20:09Z",
+      "description": "Recently, I lost a lot of time reviewing and would have lost even more implementing, what I can only...",
+      "tags": [
+        "ai",
+        "go",
+        "cschallenge",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsl8aiadsg29na5hy1toe.png",
+      "source": "Dev.to",
+      "user": "Viorel PETCU"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -525,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 35632,
+      "stars": 38272,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -540,23 +555,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55501274?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 101,
       "user": "owenshuo"
-    },
-    {
-      "title": "bwjoke/fomo5000.com - AI market map for scanning 5,000+ U.S.-listed stocks",
-      "url": "https://github.com/bwjoke/fomo5000.com",
-      "published_at": "2026-05-28T08:05:43Z",
-      "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1284814?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "bwjoke"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -570,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1293,
+      "stars": 1315,
       "user": "Sophomoresty"
     },
     {
@@ -585,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1272,
       "user": "asz798838958"
     },
     {
@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 701,
       "user": "ClaudioDrews"
     },
     {
@@ -615,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 393,
       "user": "DannyMac180"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 922,
       "user": "MatinSenPai"
     },
     {
@@ -709,7 +709,7 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "Inertia X.11 = Inertia 3 with multiple routers",
+      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
       "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
       "published_at": "2026-06-01T16:31:20Z",
       "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
@@ -885,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 35632,
+      "stars": 38272,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -900,23 +900,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 134,
       "user": "Sophomoresty"
-    },
-    {
-      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
-      "url": "https://github.com/andyhuo520/tang-changan",
-      "published_at": "2026-05-29T03:51:09Z",
-      "description": "大唐长安 · 智机府 — Tang Changan web game",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "andyhuo520"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -930,23 +915,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55501274?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 101,
       "user": "owenshuo"
     },
     {
-      "title": "bwjoke/fomo5000.com - AI market map for scanning 5,000+ U.S.-listed stocks",
-      "url": "https://github.com/bwjoke/fomo5000.com",
-      "published_at": "2026-05-28T08:05:43Z",
-      "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
+      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
+      "url": "https://github.com/andyhuo520/tang-changan",
+      "published_at": "2026-05-29T03:51:09Z",
+      "description": "大唐长安 · 智机府 — Tang Changan web game",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1284814?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "bwjoke"
+      "stars": 98,
+      "user": "andyhuo520"
+    },
+    {
+      "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "url": "https://github.com/Wanduforl/MacArkPet",
+      "published_at": "2026-05-29T08:05:17Z",
+      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "Wanduforl"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -960,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "IRNova"
     }
   ],
@@ -1140,7 +1140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1293,
+      "stars": 1315,
       "user": "Sophomoresty"
     },
     {
@@ -1155,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1272,
       "user": "asz798838958"
     },
     {
@@ -1170,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 701,
       "user": "ClaudioDrews"
     },
     {
@@ -1185,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 480,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1200,26 +1200,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 393,
       "user": "DannyMac180"
     }
   ],
   "DevOps": [
-    {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Gubernator [the kill ku8s]",
       "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
@@ -1234,6 +1219,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1383,26 +1383,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "rstagit"
     }
   ],
   "Cloud": [
-    {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
@@ -1417,6 +1402,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1595,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 480,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1610,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 922,
       "user": "MatinSenPai"
     },
     {
@@ -1625,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "IRNova"
     }
   ],
@@ -1688,36 +1688,6 @@
       "user": "Ingo Steinke, web developer"
     },
     {
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo",
-      "published_at": "2026-06-02T07:06:53Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "webdev",
-        "csharp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6omx869rpavgg7ouvf5.png",
-      "source": "Dev.to",
-      "user": "Daniel Balcarek"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
-    },
-    {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
       "published_at": "2026-06-02T09:43:33Z",
@@ -1748,6 +1718,21 @@
       "user": "M Hossein"
     },
     {
+      "title": "Spec-Driven Development with OpenSpec",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
+      "published_at": "2026-06-02T18:50:00Z",
+      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "tags": [
+        "ai",
+        "sdd",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
+      "source": "Dev.to",
+      "user": "Christopher Sidebottom"
+    },
+    {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
       "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
       "published_at": "2026-06-02T11:23:28Z",
@@ -1776,6 +1761,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkl5eyl99drx5ujjys0xt.jpg",
       "source": "Dev.to",
       "user": "Chris Jarvis"
+    },
+    {
+      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
+      "url": "https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo",
+      "published_at": "2026-06-02T07:06:53Z",
+      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge  Originally, I didn't plan to join...",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "webdev",
+        "csharp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6omx869rpavgg7ouvf5.png",
+      "source": "Dev.to",
+      "user": "Daniel Balcarek"
     },
     {
       "title": "🦄 Modernizing Wild Rydes with modern technologies",
@@ -1821,7 +1821,7 @@
       "user": "Hagag"
     },
     {
-      "title": "Inertia X.11 = Inertia 3 with multiple routers",
+      "title": "Inertia X.11 adds Frames and Modals to Inertia 3",
       "url": "https://dev.to/buhrmi/inertia-x11-the-multi-router-built-on-inertia-3-3l22",
       "published_at": "2026-06-01T16:31:20Z",
       "description": "It has been a long time coming, but after countless hours of refactoring, testing, and completely...",
@@ -1878,6 +1878,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwtzqym8b5gqf331atqh8.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "When Is 100% Vibe Coding OK ?",
+      "url": "https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p",
+      "published_at": "2026-05-31T22:20:09Z",
+      "description": "Recently, I lost a lot of time reviewing and would have lost even more implementing, what I can only...",
+      "tags": [
+        "ai",
+        "go",
+        "cschallenge",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsl8aiadsg29na5hy1toe.png",
+      "source": "Dev.to",
+      "user": "Viorel PETCU"
     },
     {
       "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
@@ -1951,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 35632,
+      "stars": 38272,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -1966,23 +1981,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 134,
       "user": "Sophomoresty"
-    },
-    {
-      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
-      "url": "https://github.com/andyhuo520/tang-changan",
-      "published_at": "2026-05-29T03:51:09Z",
-      "description": "大唐长安 · 智机府 — Tang Changan web game",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "andyhuo520"
     },
     {
       "title": "owenshuo/open-bounty-radar - CLI radar for discovering and monitoring paid open-source issues and bounty opportunities",
@@ -1996,23 +1996,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55501274?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 101,
       "user": "owenshuo"
     },
     {
-      "title": "bwjoke/fomo5000.com - AI market map for scanning 5,000+ U.S.-listed stocks",
-      "url": "https://github.com/bwjoke/fomo5000.com",
-      "published_at": "2026-05-28T08:05:43Z",
-      "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
+      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
+      "url": "https://github.com/andyhuo520/tang-changan",
+      "published_at": "2026-05-29T03:51:09Z",
+      "description": "大唐长安 · 智机府 — Tang Changan web game",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1284814?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 88,
-      "user": "bwjoke"
+      "stars": 98,
+      "user": "andyhuo520"
+    },
+    {
+      "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "url": "https://github.com/Wanduforl/MacArkPet",
+      "published_at": "2026-05-29T08:05:17Z",
+      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "Wanduforl"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -2026,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1293,
+      "stars": 1315,
       "user": "Sophomoresty"
     },
     {
@@ -2041,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1272,
       "user": "asz798838958"
     },
     {
@@ -2056,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 701,
       "user": "ClaudioDrews"
     },
     {
@@ -2071,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 480,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2086,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 393,
       "user": "DannyMac180"
     },
     {
@@ -2101,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 922,
       "user": "MatinSenPai"
     },
     {
@@ -2116,23 +2131,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "rstagit"
-    },
-    {
-      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "url": "https://github.com/IRNova/NovaRadar",
-      "published_at": "2026-05-31T06:23:29Z",
-      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "IRNova"
     },
     {
       "title": "pood1e/wa-app - GitHub Repository",
@@ -2146,8 +2146,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 102,
       "user": "pood1e"
+    },
+    {
+      "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "url": "https://github.com/IRNova/NovaRadar",
+      "published_at": "2026-05-31T06:23:29Z",
+      "description": "Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "IRNova"
     },
     {
       "title": "ethanhq/cc-fleet - 🚢  Spawn any vendor LLM — DeepSeek · GLM · Qwen · Kimi · MiniMax … — as real Claude Code teammates or ⚡ one-shot subagents 🚀 ｜🤖 让 Claude Code 接入任意第三方模型(DeepSeek · GLM · Qwen · Kimi · MiniMax ……),作为原生 Agent Team Teammate 或 ⚡ 一次性 subagent 为你干活 🚀",

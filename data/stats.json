@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 105,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
@@ -15,14 +15,14 @@
     "Cloud": 16,
     "Database": 1,
     "Security": 2,
-    "Tools": 33
+    "Tools": 34
   },
   "by_language": {
-    "Go": 23,
-    "CSharp": 1,
     "Python": 18,
+    "Go": 24,
     "JavaScript": 23,
     "Java": 19,
+    "CSharp": 1,
     "Rust": 2,
     "PHP": 1,
     "Kotlin": 1
@@ -30,12 +30,12 @@
   "by_date": {
     "2026-06-02": 13,
     "2026-06-01": 14,
+    "2026-05-29": 7,
+    "2026-05-28": 7,
     "2026-05-27": 6,
-    "2026-05-29": 6,
-    "2026-05-28": 8,
     "2026-05-26": 4,
     "2026-05-30": 5,
-    "2026-05-31": 9,
+    "2026-05-31": 10,
     "2026-05-21": 1,
     "2026-05-25": 2,
     "2026-05-22": 2,
@@ -73,35 +73,35 @@
     "2025-05-07": 1
   },
   "top_tags": {
-    "ai": 18,
+    "ai": 19,
     "github": 15,
     "open-source": 15,
     "discuss": 10,
+    "productivity": 10,
     "AI": 10,
     "JavaScript": 10,
     "Python": 10,
-    "productivity": 9,
     "javascript": 9,
-    "devchallenge": 8,
     "programming": 8,
+    "devchallenge": 8,
+    "go": 8,
     "python": 7,
     "agents": 7,
-    "go": 7,
     "kubernetes": 5,
     "googlecloud": 4,
-    "githubchallenge": 4,
-    "webdev": 4,
     "antigravitycli": 4,
-    "tutorial": 4
+    "tutorial": 4,
+    "githubchallenge": 4,
+    "webdev": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "26.1",
+    "Python": "20.2",
+    "Go": "27.0",
+    "JavaScript": "25.8",
+    "Java": "21.3",
     "CSharp": "1.1",
-    "Python": "20.5",
-    "JavaScript": "26.1",
-    "Java": "21.6",
-    "Rust": "2.3",
+    "Rust": "2.2",
     "PHP": "1.1",
     "Kotlin": "1.1"
   }
