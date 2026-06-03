@@ -16,21 +16,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
-      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m",
-      "published_at": "2026-06-03T05:36:31Z",
-      "description": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd43wkzyxv1xx7g6ectge.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "What I'm building, and why",
       "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
       "published_at": "2026-06-03T09:57:16Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
       "source": "Dev.to",
       "user": "Harish Kumar"
+    },
+    {
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "published_at": "2026-06-02T20:02:20Z",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -61,19 +61,19 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
-      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
-      "published_at": "2026-06-02T20:02:20Z",
-      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m",
+      "published_at": "2026-06-03T05:36:31Z",
+      "description": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
       "tags": [
-        "kubernetes",
         "ai",
-        "gke",
-        "googlecloud"
+        "gemini",
+        "googleappsscript",
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd43wkzyxv1xx7g6ectge.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Tanaike"
     },
     {
       "title": "Content Virtualization using the HTML <template> Element",
@@ -181,21 +181,6 @@
       "user": "Bharath Nayak"
     },
     {
-      "title": "Strategies for running AI workloads on GKE without committed quota",
-      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
-      "published_at": "2026-06-01T18:54:52Z",
-      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Sovereign Synapse: The Context-Cleaner",
       "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
       "published_at": "2026-06-02T13:53:40Z",
@@ -209,6 +194,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
       "source": "Dev.to",
       "user": "Ken W Alger"
+    },
+    {
+      "title": "Strategies for running AI workloads on GKE without committed quota",
+      "url": "https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l",
+      "published_at": "2026-06-01T18:54:52Z",
+      "description": "Learn different strategies to use hard-to-get hardware accelerators with Google Kubernetes Engine (GKE).",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjzj2cd2kzndzcn909ih.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "What are your goals for the week? #181",
@@ -326,21 +326,6 @@
       "user": "Fayaz"
     },
     {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "published_at": "2026-05-25T15:08:33Z",
-      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
-      "tags": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "When Is 100% Vibe Coding OK ?",
       "url": "https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p",
       "published_at": "2026-05-31T22:20:09Z",
@@ -354,6 +339,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsl8aiadsg29na5hy1toe.png",
       "source": "Dev.to",
       "user": "Viorel PETCU"
+    },
+    {
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "published_at": "2026-05-25T15:08:33Z",
+      "description": "I received following comment on my hallucinations blog post.                       Comment on Why...",
+      "tags": [
+        "ai",
+        "beginners",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk8s0983nfik2w4syvll.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
@@ -383,21 +383,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhx0o0o1hrgu4gwllil5.webp",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
-      "published_at": "2026-05-13T19:13:14Z",
-      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "programming",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
-      "source": "Dev.to",
-      "user": "Vinicius Brasil"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -555,7 +540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 40941,
+      "stars": 42328,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -585,7 +570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1375,
       "user": "asz798838958"
     },
     {
@@ -600,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1344,
       "user": "Sophomoresty"
     },
     {
@@ -615,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 737,
       "user": "ClaudioDrews"
     },
     {
@@ -630,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "DannyMac180"
     },
     {
@@ -645,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 997,
       "user": "MatinSenPai"
     },
     {
@@ -915,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 40941,
+      "stars": 42328,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -975,7 +960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "Wanduforl"
     },
     {
@@ -990,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "IRNova"
     }
   ],
@@ -1170,7 +1155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1375,
       "user": "asz798838958"
     },
     {
@@ -1185,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1344,
       "user": "Sophomoresty"
     },
     {
@@ -1200,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 737,
       "user": "ClaudioDrews"
     },
     {
@@ -1215,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 512,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1230,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "DannyMac180"
     }
   ],
@@ -1398,26 +1383,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 198,
       "user": "rstagit"
     }
   ],
   "Cloud": [
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
     {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
@@ -1432,6 +1402,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
+      "published_at": "2026-06-02T09:43:33Z",
+      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "tags": [
+        "agentdevelopmentkit",
+        "googlecloud",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1625,7 +1610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 512,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1640,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 997,
       "user": "MatinSenPai"
     },
     {
@@ -1655,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "IRNova"
     }
   ],
@@ -1970,21 +1955,6 @@
       "user": "Viorel PETCU"
     },
     {
-      "title": "How AI is changing my job as a Staff Engineer: Tracer bullets",
-      "url": "https://dev.to/vinibrsl/how-ai-is-changing-my-job-as-a-staff-engineer-tracer-bullets-4nck",
-      "published_at": "2026-05-13T19:13:14Z",
-      "description": "AI is rapidly changing software engineering, and with any kind of technological evolution, we need to...",
-      "tags": [
-        "ai",
-        "productivity",
-        "programming",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
-      "source": "Dev.to",
-      "user": "Vinicius Brasil"
-    },
-    {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "published_at": "2026-05-31T14:05:51Z",
@@ -1996,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 40941,
+      "stars": 42328,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2056,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "Wanduforl"
     },
     {
@@ -2071,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1375,
       "user": "asz798838958"
     },
     {
@@ -2086,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1344,
       "user": "Sophomoresty"
     },
     {
@@ -2101,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 737,
       "user": "ClaudioDrews"
     },
     {
@@ -2116,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 512,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2131,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "DannyMac180"
     },
     {
@@ -2146,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 997,
       "user": "MatinSenPai"
     },
     {
@@ -2161,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 198,
       "user": "rstagit"
     },
     {
@@ -2176,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "pood1e"
     },
     {
@@ -2191,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "IRNova"
     },
     {
