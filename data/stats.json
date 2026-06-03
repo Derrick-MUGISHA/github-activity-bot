@@ -1,12 +1,12 @@
 {
-  "total": 103,
+  "total": 105,
   "by_source": {
-    "Dev.to": 58,
+    "Dev.to": 60,
     "HackerNews": 30,
     "GitHub": 15
   },
   "by_category": {
-    "AI": 46,
+    "AI": 47,
     "JavaScript": 24,
     "Python": 18,
     "DevOps": 5,
@@ -15,27 +15,27 @@
     "Cloud": 17,
     "Database": 1,
     "Security": 3,
-    "Tools": 32
+    "Tools": 33
   },
   "by_language": {
     "JavaScript": 24,
     "Go": 25,
-    "Java": 19,
     "Python": 18,
     "CSharp": 1,
+    "Java": 19,
     "PHP": 1,
     "Rust": 1,
     "Kotlin": 1
   },
   "by_date": {
+    "2026-06-03": 9,
     "2026-06-02": 14,
-    "2026-06-03": 6,
     "2026-06-01": 13,
     "2026-05-29": 6,
     "2026-05-28": 6,
     "2026-05-27": 5,
     "2026-05-26": 4,
-    "2026-05-31": 10,
+    "2026-05-31": 9,
     "2026-05-21": 1,
     "2026-05-25": 2,
     "2026-05-22": 2,
@@ -73,7 +73,7 @@
     "2026-05-30": 2
   },
   "top_tags": {
-    "ai": 20,
+    "ai": 21,
     "github": 15,
     "open-source": 15,
     "discuss": 10,
@@ -81,13 +81,13 @@
     "JavaScript": 10,
     "Python": 10,
     "javascript": 9,
-    "agents": 7,
-    "productivity": 7,
-    "programming": 7,
+    "programming": 8,
+    "productivity": 8,
     "python": 7,
     "go": 7,
-    "webdev": 6,
     "devchallenge": 6,
+    "agents": 6,
+    "webdev": 6,
     "gemini": 5,
     "typescript": 4,
     "kubernetes": 4,
@@ -98,9 +98,9 @@
   "language_percentages": {
     "JavaScript": "26.7",
     "Go": "27.8",
-    "Java": "21.1",
     "Python": "20.0",
     "CSharp": "1.1",
+    "Java": "21.1",
     "PHP": "1.1",
     "Rust": "1.1",
     "Kotlin": "1.1"
