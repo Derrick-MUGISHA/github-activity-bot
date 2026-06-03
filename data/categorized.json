@@ -16,21 +16,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
-      "published_at": "2026-06-02T13:53:40Z",
-      "description": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
-      "tags": [
-        "python",
-        "cryptocurrency",
-        "mcp",
-        "localfirst"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
       "published_at": "2026-06-02T20:02:20Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Sovereign Synapse: The Context-Cleaner",
+      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
+      "published_at": "2026-06-02T13:53:40Z",
+      "description": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
+      "tags": [
+        "python",
+        "cryptocurrency",
+        "mcp",
+        "localfirst"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
     },
     {
       "title": "Content Virtualization using the HTML <template> Element",
@@ -91,21 +91,6 @@
       "user": "M Hossein"
     },
     {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
-      "published_at": "2026-06-02T11:23:28Z",
-      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "tags": [
-        "ai",
-        "discuss",
-        "html",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
-      "source": "Dev.to",
-      "user": "Bharath Nayak"
-    },
-    {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
       "published_at": "2026-06-02T09:43:33Z",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Making HTML Artifacts Collaborative for AI Workflows",
+      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
+      "published_at": "2026-06-02T11:23:28Z",
+      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
+      "tags": [
+        "ai",
+        "discuss",
+        "html",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
+      "source": "Dev.to",
+      "user": "Bharath Nayak"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -223,21 +223,6 @@
       "user": "Jasmin Virdi"
     },
     {
-      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
-      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
-      "published_at": "2026-06-01T10:50:34Z",
-      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
-      "tags": [
-        "ai",
-        "softwaredevelopment",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
-      "source": "Dev.to",
-      "user": "Hagag"
-    },
-    {
       "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
       "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
       "published_at": "2026-05-30T16:00:54Z",
@@ -251,6 +236,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png",
       "source": "Dev.to",
       "user": "Arqam Waheed"
+    },
+    {
+      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
+      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
+      "published_at": "2026-06-01T10:50:34Z",
+      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
+      "source": "Dev.to",
+      "user": "Hagag"
     },
     {
       "title": "vLLM Gemma4 26B Tuning on v6e-4",
@@ -660,53 +660,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 32669,
+      "stars": 33631,
       "user": "pewdiepie-archdaemon"
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "title": "bwjoke/fomo5000.com - AI market map for scanning 5,000+ U.S.-listed stocks",
+      "url": "https://github.com/bwjoke/fomo5000.com",
+      "published_at": "2026-05-28T08:05:43Z",
+      "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1284814?v=4",
       "source": "GitHub",
-      "stars": 721,
-      "user": "withkynam"
-    },
-    {
-      "title": "FoundZiGu/SMSBazaar - OPENAI(ChatGPT) 短信接码价格和库存对比看板",
-      "url": "https://github.com/FoundZiGu/SMSBazaar",
-      "published_at": "2026-05-27T13:52:59Z",
-      "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
-      "source": "GitHub",
-      "stars": 201,
-      "user": "FoundZiGu"
-    },
-    {
-      "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "url": "https://github.com/GordenSun/GordenPPTSkill",
-      "published_at": "2026-05-27T10:25:58Z",
-      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 1551,
-      "user": "GordenSun"
+      "stars": 88,
+      "user": "bwjoke"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -720,7 +690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1257,
       "user": "Sophomoresty"
     },
     {
@@ -735,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1055,
       "user": "asz798838958"
     },
     {
@@ -750,8 +720,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 634,
       "user": "ClaudioDrews"
+    },
+    {
+      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
+      "url": "https://github.com/DannyMac180/skills",
+      "published_at": "2026-05-29T14:54:55Z",
+      "description": "AI agent skills created by me: Dan McAteer",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "source": "GitHub",
+      "stars": 383,
+      "user": "DannyMac180"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -1020,38 +1005,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 32669,
+      "stars": 33631,
       "user": "pewdiepie-archdaemon"
-    },
-    {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "withkynam"
-    },
-    {
-      "title": "FoundZiGu/SMSBazaar - OPENAI(ChatGPT) 短信接码价格和库存对比看板",
-      "url": "https://github.com/FoundZiGu/SMSBazaar",
-      "published_at": "2026-05-27T13:52:59Z",
-      "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
-      "source": "GitHub",
-      "stars": 201,
-      "user": "FoundZiGu"
     },
     {
       "title": "Sophomoresty/bpc-fetch - Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
@@ -1065,38 +1020,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "Sophomoresty"
     },
     {
-      "title": "soumyagrawall/CMS - image based content management system",
-      "url": "https://github.com/soumyagrawall/CMS",
-      "published_at": "2026-05-27T09:30:32Z",
-      "description": "image based content management system",
+      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
+      "url": "https://github.com/andyhuo520/tang-changan",
+      "published_at": "2026-05-29T03:51:09Z",
+      "description": "大唐长安 · 智机府 — Tang Changan web game",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/200946453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "soumyagrawall"
+      "stars": 95,
+      "user": "andyhuo520"
     },
     {
-      "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "url": "https://github.com/GordenSun/GordenPPTSkill",
-      "published_at": "2026-05-27T10:25:58Z",
-      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+      "title": "bwjoke/fomo5000.com - AI market map for scanning 5,000+ U.S.-listed stocks",
+      "url": "https://github.com/bwjoke/fomo5000.com",
+      "published_at": "2026-05-28T08:05:43Z",
+      "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1284814?v=4",
       "source": "GitHub",
-      "stars": 1551,
-      "user": "GordenSun"
+      "stars": 88,
+      "user": "bwjoke"
+    },
+    {
+      "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "url": "https://github.com/Wanduforl/MacArkPet",
+      "published_at": "2026-05-29T08:05:17Z",
+      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "Wanduforl"
     },
     {
       "title": "IRNova/NovaRadar - Nova Radar is a desktop IP scanner built with Go + React. It scans Cloudflare IP ranges from multiple selectable sources, performs real two-phase verification (TCP + TLS handshake), and outputs working IPs sorted by latency. Built by Nova Proxy Group.",
@@ -1264,21 +1234,6 @@
       "user": "arathore"
     },
     {
-      "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "url": "https://github.com/GordenSun/GordenPPTSkill",
-      "published_at": "2026-05-27T10:25:58Z",
-      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
-      "source": "GitHub",
-      "stars": 1551,
-      "user": "GordenSun"
-    },
-    {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "url": "https://github.com/Sophomoresty/gemini-web2api",
       "published_at": "2026-05-28T11:25:55Z",
@@ -1290,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1257,
       "user": "Sophomoresty"
     },
     {
@@ -1305,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1055,
       "user": "asz798838958"
     },
     {
@@ -1320,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 634,
       "user": "ClaudioDrews"
     },
     {
@@ -1335,8 +1290,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "qiuqiubuchongle-cloud"
+    },
+    {
+      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
+      "url": "https://github.com/DannyMac180/skills",
+      "published_at": "2026-05-29T14:54:55Z",
+      "description": "AI agent skills created by me: Dan McAteer",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "source": "GitHub",
+      "stars": 383,
+      "user": "DannyMac180"
     }
   ],
   "DevOps": [
@@ -1563,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "rstagit"
     }
   ],
@@ -1582,6 +1552,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
+      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
+      "published_at": "2026-06-02T09:43:33Z",
+      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
+      "tags": [
+        "agentdevelopmentkit",
+        "googlecloud",
+        "devto",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI",
@@ -1612,21 +1597,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ppdbma8f0ii916q0drf.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
-      "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
-      "published_at": "2026-06-02T09:43:33Z",
-      "description": "Keeping up with trending technical topics and new tools on developer forums can be time-consuming. To...",
-      "tags": [
-        "agentdevelopmentkit",
-        "googlecloud",
-        "devto",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1760,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1883,21 +1853,6 @@
       "user": "M Hossein"
     },
     {
-      "title": "Making HTML Artifacts Collaborative for AI Workflows",
-      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
-      "published_at": "2026-06-02T11:23:28Z",
-      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
-      "tags": [
-        "ai",
-        "discuss",
-        "html",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
-      "source": "Dev.to",
-      "user": "Bharath Nayak"
-    },
-    {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
       "url": "https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60",
       "published_at": "2026-06-02T09:43:33Z",
@@ -1911,6 +1866,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Making HTML Artifacts Collaborative for AI Workflows",
+      "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
+      "published_at": "2026-06-02T11:23:28Z",
+      "description": "Recently, there has been a lot of discussion around a simple question:  Should AI artifacts default...",
+      "tags": [
+        "ai",
+        "discuss",
+        "html",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv20slg280y8cxy38h9pl.png",
+      "source": "Dev.to",
+      "user": "Bharath Nayak"
     },
     {
       "title": "What are your goals for the week? #181",
@@ -2102,38 +2072,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 32669,
+      "stars": 33631,
       "user": "pewdiepie-archdaemon"
-    },
-    {
-      "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "published_at": "2026-05-27T05:46:25Z",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85094695?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "withkynam"
-    },
-    {
-      "title": "FoundZiGu/SMSBazaar - OPENAI(ChatGPT) 短信接码价格和库存对比看板",
-      "url": "https://github.com/FoundZiGu/SMSBazaar",
-      "published_at": "2026-05-27T13:52:59Z",
-      "description": "OPENAI(ChatGPT) 短信接码价格和库存对比看板",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/98100115?v=4",
-      "source": "GitHub",
-      "stars": 201,
-      "user": "FoundZiGu"
     },
     {
       "title": "Sophomoresty/bpc-fetch - Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
@@ -2147,38 +2087,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "Sophomoresty"
     },
     {
-      "title": "soumyagrawall/CMS - image based content management system",
-      "url": "https://github.com/soumyagrawall/CMS",
-      "published_at": "2026-05-27T09:30:32Z",
-      "description": "image based content management system",
+      "title": "andyhuo520/tang-changan - 大唐长安 · 智机府 — Tang Changan web game",
+      "url": "https://github.com/andyhuo520/tang-changan",
+      "published_at": "2026-05-29T03:51:09Z",
+      "description": "大唐长安 · 智机府 — Tang Changan web game",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/200946453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "soumyagrawall"
+      "stars": 95,
+      "user": "andyhuo520"
     },
     {
-      "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "url": "https://github.com/GordenSun/GordenPPTSkill",
-      "published_at": "2026-05-27T10:25:58Z",
-      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+      "title": "bwjoke/fomo5000.com - AI market map for scanning 5,000+ U.S.-listed stocks",
+      "url": "https://github.com/bwjoke/fomo5000.com",
+      "published_at": "2026-05-28T08:05:43Z",
+      "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3281492?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1284814?v=4",
       "source": "GitHub",
-      "stars": 1551,
-      "user": "GordenSun"
+      "stars": 88,
+      "user": "bwjoke"
+    },
+    {
+      "title": "Wanduforl/MacArkPet - Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "url": "https://github.com/Wanduforl/MacArkPet",
+      "published_at": "2026-05-29T08:05:17Z",
+      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
+      "source": "GitHub",
+      "stars": 84,
+      "user": "Wanduforl"
     },
     {
       "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
@@ -2192,7 +2147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1257,
       "user": "Sophomoresty"
     },
     {
@@ -2207,7 +2162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 1055,
       "user": "asz798838958"
     },
     {
@@ -2222,7 +2177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 634,
       "user": "ClaudioDrews"
     },
     {
@@ -2237,8 +2192,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "qiuqiubuchongle-cloud"
+    },
+    {
+      "title": "DannyMac180/skills - AI agent skills created by me: Dan McAteer",
+      "url": "https://github.com/DannyMac180/skills",
+      "published_at": "2026-05-29T14:54:55Z",
+      "description": "AI agent skills created by me: Dan McAteer",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
+      "source": "GitHub",
+      "stars": 383,
+      "user": "DannyMac180"
     },
     {
       "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
@@ -2267,7 +2237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "rstagit"
     },
     {
@@ -2297,7 +2267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 84,
       "user": "pood1e"
     },
     {
