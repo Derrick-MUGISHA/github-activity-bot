@@ -1,19 +1,49 @@
 {
   "AI": [
     {
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
-      "published_at": "2026-06-02T13:53:40Z",
-      "description": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
+      "published_at": "2026-06-03T13:46:51Z",
+      "description": "A post by Ben Halpern",
       "tags": [
-        "python",
-        "cryptocurrency",
-        "mcp",
-        "localfirst"
+        "agents",
+        "ai",
+        "discuss",
+        "tooling"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
       "source": "Dev.to",
-      "user": "Ken W Alger"
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "url": "https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m",
+      "published_at": "2026-06-03T05:36:31Z",
+      "description": "Abstract   Configuring complex time-driven triggers in Google Apps Script—such as...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd43wkzyxv1xx7g6ectge.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "What I'm building, and why",
+      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
+      "published_at": "2026-06-03T09:57:16Z",
+      "description": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed to your AI agent over MCP). Both offline, no SaaS. This is the why.",
+      "tags": [
+        "opensource",
+        "testing",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
+      "source": "Dev.to",
+      "user": "Harish Kumar"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -91,6 +121,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
+      "published_at": "2026-06-02T20:02:27Z",
+      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "tags": [
+        "ai",
+        "llm",
+        "typescript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
+      "source": "Dev.to",
+      "user": "Ayoola Solomon"
+    },
+    {
       "title": "Spec-Driven Development with OpenSpec",
       "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
       "published_at": "2026-06-02T18:50:00Z",
@@ -104,6 +149,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
       "source": "Dev.to",
       "user": "Christopher Sidebottom"
+    },
+    {
+      "title": "Debloating The AI-Grown Codebase",
+      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
+      "published_at": "2026-06-01T17:22:48Z",
+      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
+      "tags": [
+        "ai",
+        "programming",
+        "agents",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
+      "source": "Dev.to",
+      "user": "Maxim Saplin"
     },
     {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
@@ -136,19 +196,19 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Debloating The AI-Grown Codebase",
-      "url": "https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om",
-      "published_at": "2026-06-01T17:22:48Z",
-      "description": "The use of AI Agents creates a distinctive smell... One can tell the GH Repo owner was high on...",
+      "title": "Sovereign Synapse: The Context-Cleaner",
+      "url": "https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac",
+      "published_at": "2026-06-02T13:53:40Z",
+      "description": "(Curation is Sovereignty)           Sovereign Synapse Series | Post 2   AI is polite by design. It...",
       "tags": [
-        "ai",
-        "programming",
-        "agents",
-        "claude"
+        "python",
+        "cryptocurrency",
+        "mcp",
+        "localfirst"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0qjgd9khvgkvi99v17sc.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png",
       "source": "Dev.to",
-      "user": "Maxim Saplin"
+      "user": "Ken W Alger"
     },
     {
       "title": "What are your goals for the week? #181",
@@ -191,21 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fngk99eulucbsklspxsw8.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
-      "published_at": "2026-05-30T16:00:54Z",
-      "description": "A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.",
-      "tags": [
-        "hermesagentchallenge",
-        "devchallenge",
-        "agents",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5tswrazjdxvdqbz4j7t.png",
-      "source": "Dev.to",
-      "user": "Arqam Waheed"
     },
     {
       "title": "Smarter Models Made My Workflow Stricter, Not Looser",
@@ -353,36 +398,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnekv7lzb18if2b3i47jr.jpg",
       "source": "Dev.to",
       "user": "Vinicius Brasil"
-    },
-    {
-      "title": "How I Built a Self-Managing AI Lab with Hermes Agent on a Intel Arc GPU",
-      "url": "https://dev.to/starrzan/how-i-built-a-self-managing-ai-workspace-with-hermes-agent-2lf6",
-      "published_at": "2026-05-30T21:28:10Z",
-      "description": "How Hermes Agent runs the entire local AI inference stack on Intel Arc GPU, automates research pipelines, and coordinates multi-model switching — all from a terminal.",
-      "tags": [
-        "hermesagentchallenge",
-        "ai",
-        "agents",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fkjwumy9nwmxgl8x6no.png",
-      "source": "Dev.to",
-      "user": "I am Starrzan"
-    },
-    {
-      "title": "GPT-5.5 Instant: The New ChatGPT Default Model Complete Guide 2026",
-      "url": "https://dev.to/akaranjkar08/gpt-55-instant-the-new-chatgpt-default-model-complete-guide-2026-1l4",
-      "published_at": "2026-05-13T06:30:47Z",
-      "description": "GPT-5.5 Instant is the new ChatGPT default model with 52.5% fewer hallucinations, Gmail integration, memory sources, and chat-latest API. Full 2026 guide.",
-      "tags": [
-        "gpt55instant",
-        "chatgptnewdefaultmodel202",
-        "gpt55instantvsgpt53instan",
-        "gpt55instanthallucination"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl5j48cuf6fe7uijbq01.png",
-      "source": "Dev.to",
-      "user": "Anup Karanjkar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -540,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 38272,
+      "stars": 40941,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -559,21 +574,6 @@
       "user": "owenshuo"
     },
     {
-      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "published_at": "2026-05-28T11:25:55Z",
-      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 1315,
-      "user": "Sophomoresty"
-    },
-    {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
       "url": "https://github.com/asz798838958/aBaiAutoplus",
       "published_at": "2026-05-31T14:29:52Z",
@@ -585,8 +585,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1350,
       "user": "asz798838958"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "published_at": "2026-05-28T11:25:55Z",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
+      "source": "GitHub",
+      "stars": 1336,
+      "user": "Sophomoresty"
     },
     {
       "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
@@ -600,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 722,
       "user": "ClaudioDrews"
     },
     {
@@ -615,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "DannyMac180"
     },
     {
@@ -630,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 965,
       "user": "MatinSenPai"
     },
     {
@@ -645,11 +660,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 77,
       "user": "ethanhq"
     }
   ],
   "JavaScript": [
+    {
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "url": "https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp",
+      "published_at": "2026-06-03T05:09:01Z",
+      "description": "There's a specific feeling you get after your third production caching incident.  It's not panic....",
+      "tags": [
+        "nextjs",
+        "typescript",
+        "webdev",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
+    },
     {
       "title": "Content Virtualization using the HTML <template> Element",
       "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
@@ -679,6 +709,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgihs3m9uoii8aa9dr22q.png",
       "source": "Dev.to",
       "user": "M Hossein"
+    },
+    {
+      "title": "Stop writing prompts to classify text: make evaluation declarative",
+      "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
+      "published_at": "2026-06-02T20:02:27Z",
+      "description": "I've built the same thing more than once: a step that reads an inbound message — a lead form, a...",
+      "tags": [
+        "ai",
+        "llm",
+        "typescript",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
+      "source": "Dev.to",
+      "user": "Ayoola Solomon"
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
@@ -737,21 +782,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6tqhjg5plkuhyyjqp66.png",
       "source": "Dev.to",
       "user": "Sage Starr"
-    },
-    {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -885,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 38272,
+      "stars": 40941,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -945,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 93,
       "user": "Wanduforl"
     },
     {
@@ -1129,21 +1159,6 @@
       "user": "arathore"
     },
     {
-      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "published_at": "2026-05-28T11:25:55Z",
-      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 1315,
-      "user": "Sophomoresty"
-    },
-    {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
       "url": "https://github.com/asz798838958/aBaiAutoplus",
       "published_at": "2026-05-31T14:29:52Z",
@@ -1155,8 +1170,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1350,
       "user": "asz798838958"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "published_at": "2026-05-28T11:25:55Z",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
+      "source": "GitHub",
+      "stars": 1336,
+      "user": "Sophomoresty"
     },
     {
       "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
@@ -1170,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 722,
       "user": "ClaudioDrews"
     },
     {
@@ -1185,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 502,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1200,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "DannyMac180"
     }
   ],
@@ -1279,21 +1309,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuydlm67dhm8epmraq42d.png",
       "source": "Dev.to",
       "user": "Himanshu Gupta"
-    },
-    {
-      "title": "How a 500 MB Buffer Killed Our Archival Job — And Why Streaming Fixed It",
-      "url": "https://dev.to/harishteens/how-a-500-mb-buffer-killed-our-archival-job-and-why-streaming-fixed-it-4iek",
-      "published_at": "2026-05-28T13:23:43Z",
-      "description": "The job that kept dying   We run a nightly archival job that exports a few large Postgres...",
-      "tags": [
-        "dataengineering",
-        "go",
-        "kubernetes",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr23t7csbzpdh0ndp21gb.png",
-      "source": "Dev.to",
-      "user": "Harish"
     }
   ],
   "WebDev": [
@@ -1383,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 195,
       "user": "rstagit"
     }
   ],
@@ -1447,6 +1462,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ppdbma8f0ii916q0drf.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "[Gemini][Agent] Google Managed Agents API",
+      "url": "https://dev.to/gde/geminiagent-google-managed-agents-api-4e43",
+      "published_at": "2026-06-03T01:01:36Z",
+      "description": "(Image Source: Google Cloud Docs - Managed Agents on Agent Platform)           Preamble: The era of...",
+      "tags": [
+        "agents",
+        "api",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdh4oc4fcr0t5zi6n1dq7.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1595,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 502,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1610,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 965,
       "user": "MatinSenPai"
     },
     {
@@ -1645,6 +1675,21 @@
   ],
   "Security": [
     {
+      "title": "Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack",
+      "url": "https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9",
+      "published_at": "2026-06-03T08:28:52Z",
+      "description": "The TanStack packages were malicious. Their provenance was valid. Both are true.  On 11 May 2026,...",
+      "tags": [
+        "npm",
+        "security",
+        "agents",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5dccfyxefebwdbm7g36a.png",
+      "source": "Dev.to",
+      "user": "Oli Guei"
+    },
+    {
       "title": "Morning Security Report with Antigravity Agent",
       "url": "https://dev.to/gdg/morning-security-report-with-antigravity-agent-3592",
       "published_at": "2026-06-01T04:49:31Z",
@@ -1674,18 +1719,34 @@
   ],
   "Tools": [
     {
-      "title": "Learning Lessons from Gaming",
-      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm",
-      "published_at": "2026-06-02T14:00:58Z",
-      "description": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
+      "published_at": "2026-06-03T13:46:51Z",
+      "description": "A post by Ben Halpern",
       "tags": [
-        "productivity",
-        "learning",
-        "watercooler"
+        "agents",
+        "ai",
+        "discuss",
+        "tooling"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzufvcvbvxzvp8pevsdsc.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png",
       "source": "Dev.to",
-      "user": "Ingo Steinke, web developer"
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "What I'm building, and why",
+      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
+      "published_at": "2026-06-03T09:57:16Z",
+      "description": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed to your AI agent over MCP). Both offline, no SaaS. This is the why.",
+      "tags": [
+        "opensource",
+        "testing",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
+      "source": "Dev.to",
+      "user": "Harish Kumar"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -1701,6 +1762,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "Learning Lessons from Gaming",
+      "url": "https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm",
+      "published_at": "2026-06-02T14:00:58Z",
+      "description": "I don't identify as a gamer. I occasionally participate in board games or an amateur football match,...",
+      "tags": [
+        "productivity",
+        "learning",
+        "watercooler"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzufvcvbvxzvp8pevsdsc.jpg",
+      "source": "Dev.to",
+      "user": "Ingo Steinke, web developer"
     },
     {
       "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
@@ -1910,51 +1985,6 @@
       "user": "Vinicius Brasil"
     },
     {
-      "title": "How I Built a Self-Managing AI Lab with Hermes Agent on a Intel Arc GPU",
-      "url": "https://dev.to/starrzan/how-i-built-a-self-managing-ai-workspace-with-hermes-agent-2lf6",
-      "published_at": "2026-05-30T21:28:10Z",
-      "description": "How Hermes Agent runs the entire local AI inference stack on Intel Arc GPU, automates research pipelines, and coordinates multi-model switching — all from a terminal.",
-      "tags": [
-        "hermesagentchallenge",
-        "ai",
-        "agents",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fkjwumy9nwmxgl8x6no.png",
-      "source": "Dev.to",
-      "user": "I am Starrzan"
-    },
-    {
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "url": "https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf",
-      "published_at": "2026-05-27T04:59:28Z",
-      "description": "This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "typescript",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0kt5kfyxrlii0bc368j5.png",
-      "source": "Dev.to",
-      "user": "Divyesh"
-    },
-    {
-      "title": "Building a home server with a mini PC",
-      "url": "https://dev.to/javibarbaran/building-a-home-server-with-a-mini-pc-48f0",
-      "published_at": "2026-05-30T21:53:54Z",
-      "description": "Having a server at home opens up a huge range of possibilities. I'd been thinking about setting one...",
-      "tags": [
-        "proxmox",
-        "homeserver",
-        "productivity",
-        "sideprojects"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuzsmt93pfrwhtechjiws.png",
-      "source": "Dev.to",
-      "user": "Javier Barbaran"
-    },
-    {
       "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "published_at": "2026-05-31T14:05:51Z",
@@ -1966,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 38272,
+      "stars": 40941,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2026,23 +2056,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 93,
       "user": "Wanduforl"
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "published_at": "2026-05-28T11:25:55Z",
-      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
-      "source": "GitHub",
-      "stars": 1315,
-      "user": "Sophomoresty"
     },
     {
       "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
@@ -2056,8 +2071,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1350,
       "user": "asz798838958"
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "published_at": "2026-05-28T11:25:55Z",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
+      "source": "GitHub",
+      "stars": 1336,
+      "user": "Sophomoresty"
     },
     {
       "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
@@ -2071,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 722,
       "user": "ClaudioDrews"
     },
     {
@@ -2086,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 502,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2101,7 +2131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24324638?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "DannyMac180"
     },
     {
@@ -2116,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 965,
       "user": "MatinSenPai"
     },
     {
@@ -2131,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/289421385?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 195,
       "user": "rstagit"
     },
     {
@@ -2146,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44490561?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 109,
       "user": "pood1e"
     },
     {
@@ -2176,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 77,
       "user": "ethanhq"
     }
   ]

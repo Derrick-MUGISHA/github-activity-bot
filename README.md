@@ -28,21 +28,21 @@
 
 ### 📊 Articles by Category
 
-**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 46 (43.8%)
+**AI**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 47 (44.8%)
 
-**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 34 (32.4%)
+**Tools**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 33 (31.4%)
 
-**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 23 (21.9%)
+**JavaScript**: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 24 (22.9%)
 
 **Python**: 🟦🟦🟦🟦🟦🟦🟦🟦 18 (17.1%)
 
-**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 16 (15.2%)
+**Cloud**: 🟦🟦🟦🟦🟦🟦🟦 17 (16.2%)
 
-**DevOps**: 🟦🟦🟦 6 (5.7%)
+**DevOps**: 🟦🟦 5 (4.8%)
 
 **WebDev**: 🟦🟦 5 (4.8%)
 
-**Security**: 🟦 2 (1.9%)
+**Security**: 🟦 3 (2.9%)
 
 **Mobile**:  1 (1.0%)
 
@@ -60,26 +60,26 @@
 ### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.0 (27.0%)
-JavaScript      █████████████████████████████ 25.8 (25.8%)
-Java            ████████████████████████ 21.3 (21.3%)
-Python          ██████████████████████ 20.2 (20.2%)
-Rust            ██ 2.2 (2.2%)
+Go              ██████████████████████████████ 27.8 (27.8%)
+JavaScript      █████████████████████████████ 26.7 (26.7%)
+Java            ███████████████████████ 21.1 (21.1%)
+Python          ██████████████████████ 20.0 (20.0%)
 CSharp          █ 1.1 (1.1%)
 PHP             █ 1.1 (1.1%)
+Rust            █ 1.1 (1.1%)
 Kotlin          █ 1.1 (1.1%)
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 24
-    "JavaScript" : 23
+    "Go" : 25
+    "JavaScript" : 24
     "Java" : 19
     "Python" : 18
-    "Rust" : 2
     "CSharp" : 1
     "PHP" : 1
+    "Rust" : 1
     "Kotlin" : 1
 ```
 
@@ -87,7 +87,7 @@ pie title Programming Languages Distribution
 
 ### 🏷️ Trending Tags
 
-![ai](https://img.shields.io/badge/ai-19-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-10-blue) ![productivity](https://img.shields.io/badge/productivity-10-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-8-blue) ![go](https://img.shields.io/badge/go-8-blue) ![python](https://img.shields.io/badge/python-7-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![kubernetes](https://img.shields.io/badge/kubernetes-5-blue) 
+![ai](https://img.shields.io/badge/ai-21-blue) ![github](https://img.shields.io/badge/github-15-blue) ![open-source](https://img.shields.io/badge/open-source-15-blue) ![discuss](https://img.shields.io/badge/discuss-11-blue) ![AI](https://img.shields.io/badge/AI-10-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-10-blue) ![Python](https://img.shields.io/badge/Python-10-blue) ![javascript](https://img.shields.io/badge/javascript-9-blue) ![productivity](https://img.shields.io/badge/productivity-8-blue) ![programming](https://img.shields.io/badge/programming-8-blue) ![agents](https://img.shields.io/badge/agents-7-blue) ![python](https://img.shields.io/badge/python-7-blue) ![go](https://img.shields.io/badge/go-7-blue) ![webdev](https://img.shields.io/badge/webdev-6-blue) ![devchallenge](https://img.shields.io/badge/devchallenge-6-blue) 
 
 
 
@@ -127,7 +127,7 @@ npm run test
 
 # 🚀 DevTech Auto News - Enhanced Edition
 
-## 📅 Latest Updates (2026-06-03 14:00 CAT)
+## 📅 Latest Updates (2026-06-03 19:00 CAT)
 
 
 ### 🖼️ Featured Articles
@@ -144,19 +144,19 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzufvcvbvxzvp8pevsdsc.jpg" width="200" alt="Learning Lessons from Gaming" />
+    <a href="https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png" width="200" alt="After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System" />
       <br/>
-      <b>Learning Lessons from Gaming</b>
+      <b>After 7 Next.js 16 Caching Bugs, I Stopped Guessin...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gubernator-the-kill-ku8s-2g0e">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png" width="200" alt="Gubernator [the kill ku8s]" />
+    <a href="https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zpeszpph8gjcwxf94ga.png" width="200" alt="Every tool seems to have a coding agent horned in these days..... I don't think that makes sense." />
       <br/>
-      <b>Gubernator [the kill ku8s]</b>
+      <b>Every tool seems to have a coding agent horned in ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -164,10 +164,10 @@ npm run test
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxg83s0rsatt91vqdxqh0.png" width="200" alt="Sovereign Synapse: The Context-Cleaner" />
+    <a href="https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd43wkzyxv1xx7g6ectge.png" width="200" alt="Executing Google Apps Script on Complex Schedules using Vibe Coding" />
       <br/>
-      <b>Sovereign Synapse: The Context-Cleaner</b>
+      <b>Executing Google Apps Script on Complex Schedules ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -182,10 +182,10 @@ npm run test
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclhzjo2hvwzw0xg7oape.png" width="200" alt="I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me" />
+    <a href="https://dev.to/harish_kumar/what-im-building-and-why-4o3n">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png" width="200" alt="What I'm building, and why" />
       <br/>
-      <b>I Built an Autonomous AI Agent with Google ADK + G...</b>
+      <b>What I'm building, and why</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -198,27 +198,27 @@ npm run test
 ### 📰 Top Headlines
 
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k) _[Dev.to]_
-- [Learning Lessons from Gaming](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm) _[Dev.to]_
-- [Gubernator [the kill ku8s]](https://dev.to/gde/gubernator-the-kill-ku8s-2g0e) _[Dev.to]_
-- [Sovereign Synapse: The Context-Cleaner](https://dev.to/kenwalger/sovereign-synapse-the-context-cleaner-2iac) _[Dev.to]_
+- [After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System](https://dev.to/shubhradev/after-7-nextjs-16-caching-bugs-i-stopped-guessing-and-built-a-system-4ijp) _[Dev.to]_
+- [Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.](https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db) _[Dev.to]_
+- [Executing Google Apps Script on Complex Schedules using Vibe Coding](https://dev.to/gde/executing-google-apps-script-on-complex-schedules-using-vibe-coding-1i3m) _[Dev.to]_
 - [How we turned the Replay keynote surprise into an open-source embedded playground](https://dev.to/temporalio/how-we-turned-the-replay-keynote-surprise-into-an-open-source-embedded-playground-49hm) _[Dev.to]_
+- [What I'm building, and why](https://dev.to/harish_kumar/what-im-building-and-why-4o3n) _[Dev.to]_
+- [Malicious npm Packages With Valid SLSA Provenance: Inside the TanStack Attack](https://dev.to/olivrg/malicious-npm-packages-with-valid-slsa-provenance-inside-the-tanstack-attack-2gi9) _[Dev.to]_
+- [Gubernator [the kill ku8s]](https://dev.to/gde/gubernator-the-kill-ku8s-2g0e) _[Dev.to]_
 - [I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me](https://dev.to/gde/i-built-an-autonomous-ai-agent-with-google-adk-gemini-20-flash-that-spots-trends-and-drafts-60) _[Dev.to]_
 - [Surviving the eviction: How to build interrupt-resilient AI workloads on GKE](https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581) _[Dev.to]_
 - [Content Virtualization using the HTML <template> Element](https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7) _[Dev.to]_
+- [Learning Lessons from Gaming](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm) _[Dev.to]_
 - [31B — Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/31b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-2334) _[Dev.to]_
 - [26B Gemma 4 Deployment with NVIDIA L4, MCP, Cloud Run, and Antigravity CLI](https://dev.to/gde/26b-gemma-4-deployment-with-nvidia-l4-mcp-cloud-run-and-antigravity-cli-194p) _[Dev.to]_
 - [TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps](https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf) _[Dev.to]_
+- [[Gemini][Agent] Google Managed Agents API](https://dev.to/gde/geminiagent-google-managed-agents-api-4e43) _[Dev.to]_
 - [Send your first AI message in one API call](https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179) _[Dev.to]_
+- [Stop writing prompts to classify text: make evaluation declarative](https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555) _[Dev.to]_
 - [Spec-Driven Development with OpenSpec](https://dev.to/mousius/spec-driven-development-with-openspec-1fmb) _[Dev.to]_
-- [Making HTML Artifacts Collaborative for AI Workflows](https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20) _[Dev.to]_
-- [Strategies for running AI workloads on GKE without committed quota](https://dev.to/googlecloud/strategies-for-running-ai-workloads-on-gke-without-committed-quota-484l) _[Dev.to]_
 - [Debloating The AI-Grown Codebase](https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om) _[Dev.to]_
-- [What are your goals for the week? #181](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58) _[Dev.to]_
-- [I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life](https://dev.to/gramli/i-used-my-last-7-of-copilot-tokens-to-bring-a-2014-winforms-game-back-to-life-30mo) _[Dev.to]_
-- [🦄 Modernizing Wild Rydes with modern technologies](https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p) _[Dev.to]_
-- [The Software Developer's Guide to AEO](https://dev.to/karllhughes/the-software-developers-guide-to-aeo-1h5h) _[Dev.to]_
 
-_Last automated update: Wed, 03 Jun 2026 14:09:17 CAT_
+_Last automated update: Wed, 03 Jun 2026 19:16:20 CAT_
 
 
 
@@ -226,36 +226,36 @@ _Last automated update: Wed, 03 Jun 2026 14:09:17 CAT_
 
 _Sharpen your skills with these curated questions_
 
-### 1. SystemDesign: How would you design a rate limiter?
+### 1. DataStructures: Implement a function to reverse a linked list
 
-**Difficulty**: Medium | **Topics**: system design, algorithms
+**Difficulty**: Medium | **Topics**: linked lists, pointers
 
 <details>
 <summary>💡 Hint</summary>
 
-Token bucket, sliding window, distributed systems
+Iterative or recursive, three pointers
 
 </details>
 
-### 2. JavaScript: Explain event delegation and why it's useful
+### 2. React: What are hooks and why were they introduced?
 
-**Difficulty**: Medium | **Topics**: events, DOM
+**Difficulty**: Medium | **Topics**: hooks, functional components
 
 <details>
 <summary>💡 Hint</summary>
 
-Event bubbling, single listener for multiple elements
+State in functional components, reusable logic, cleaner code
 
 </details>
 
-### 3. SystemDesign: Design Twitter's timeline feature
+### 3. SystemDesign: Design a distributed cache system
 
-**Difficulty**: Hard | **Topics**: system design, scalability
+**Difficulty**: Hard | **Topics**: distributed systems, caching
 
 <details>
 <summary>💡 Hint</summary>
 
-Fan-out, caching, ranking, real-time updates
+Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -289,7 +289,7 @@ MIT License - Feel free to use and modify!
 ---
 
 <p align="center">
-  <b>Last automated update: Wed, 03 Jun 2026 12:09:17 GMT</b><br/>
+  <b>Last automated update: Wed, 03 Jun 2026 17:16:20 GMT</b><br/>
   <sub>Powered by GitHub Actions | Made with ❤️ for developers</sub>
 </p>
 
