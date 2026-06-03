@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
       "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
       "published_at": "2026-06-03T13:46:51Z",
@@ -16,21 +31,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "What I'm building, and why",
-      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
-      "published_at": "2026-06-03T09:57:16Z",
-      "description": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed to your AI agent over MCP). Both offline, no SaaS. This is the why.",
-      "tags": [
-        "opensource",
-        "testing",
-        "webdev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
-      "source": "Dev.to",
-      "user": "Harish Kumar"
-    },
-    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
       "published_at": "2026-06-02T20:02:20Z",
@@ -44,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "What I'm building, and why",
+      "url": "https://dev.to/harish_kumar/what-im-building-and-why-4o3n",
+      "published_at": "2026-06-03T09:57:16Z",
+      "description": "Two OSS dev tools shipped this month — tracelane (self-contained test-failure replays) and peek (your browser, exposed to your AI agent over MCP). Both offline, no SaaS. This is the why.",
+      "tags": [
+        "opensource",
+        "testing",
+        "webdev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff597udgonpm7tfxvrxfh.png",
+      "source": "Dev.to",
+      "user": "Harish Kumar"
     },
     {
       "title": "I Built an Autonomous AI Agent with Google ADK + Gemini That Spots Trends and Drafts Dev.to Articles for Me",
@@ -76,21 +91,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
-    {
       "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
       "url": "https://dev.to/_mh/typescript-monorepo-magic-organize-build-and-ship-multi-package-apps-4cgf",
       "published_at": "2026-06-02T12:16:54Z",
@@ -106,21 +106,6 @@
       "user": "M Hossein"
     },
     {
-      "title": "Send your first AI message in one API call",
-      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179",
-      "published_at": "2026-06-02T16:41:37Z",
-      "description": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
-      "tags": [
-        "ai",
-        "api",
-        "beginners",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa814wwppn88aohcv6do.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Stop writing prompts to classify text: make evaluation declarative",
       "url": "https://dev.to/ayoolasolomon/stop-writing-prompts-to-classify-text-make-evaluation-declarative-5555",
       "published_at": "2026-06-02T20:02:27Z",
@@ -134,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
-    },
-    {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
     },
     {
       "title": "Debloating The AI-Grown Codebase",
@@ -240,6 +210,21 @@
       "user": "Karl L. Hughes"
     },
     {
+      "title": "Content Virtualization using the HTML <template> Element",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
+      "published_at": "2026-06-02T13:26:42Z",
+      "description": "When I started this experiment, the core question was simple:   Because content inside...",
+      "tags": [
+        "html",
+        "javascript",
+        "performance",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
+      "source": "Dev.to",
+      "user": "Burton Smith"
+    },
+    {
       "title": "How Are Developers Actually Using AI At Work?",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
       "published_at": "2026-05-27T07:11:18Z",
@@ -253,19 +238,34 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
-      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
-      "published_at": "2026-06-01T10:50:34Z",
-      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
+      "title": "Spec-Driven Development with OpenSpec",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
+      "published_at": "2026-06-02T18:50:00Z",
+      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
       "tags": [
         "ai",
-        "softwaredevelopment",
-        "productivity",
-        "programming"
+        "sdd",
+        "programming",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
       "source": "Dev.to",
-      "user": "Hagag"
+      "user": "Christopher Sidebottom"
+    },
+    {
+      "title": "Send your first AI message in one API call",
+      "url": "https://dev.to/backboardio/send-your-first-ai-message-in-one-api-call-4179",
+      "published_at": "2026-06-02T16:41:37Z",
+      "description": "Most AI tutorials start with a setup checklist. Pick a model provider. Create an account. Wire up a...",
+      "tags": [
+        "ai",
+        "api",
+        "beginners",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foa814wwppn88aohcv6do.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "An LLM API call, in 4 GIFs",
@@ -281,6 +281,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9z3v0i1m0zab0k0av91a.png",
       "source": "Dev.to",
       "user": "Jasmin Virdi"
+    },
+    {
+      "title": "Smarter Models Made My Workflow Stricter, Not Looser",
+      "url": "https://dev.to/ahmedalaahagag/smarter-models-made-my-workflow-stricter-not-looser-1dcn",
+      "published_at": "2026-06-01T10:50:34Z",
+      "description": "What building real multi-repo software with AI coding agents taught me about token discipline, context control, and engineering ownership.",
+      "tags": [
+        "ai",
+        "softwaredevelopment",
+        "productivity",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F86y6wlsn6o5zlmihgp99.png",
+      "source": "Dev.to",
+      "user": "Hagag"
     },
     {
       "title": "Local Mac Gemma 4 Deployment with MCP and Antigravity CLI",
@@ -540,7 +555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 42328,
+      "stars": 43068,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -570,7 +585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1375,
+      "stars": 1377,
       "user": "asz798838958"
     },
     {
@@ -585,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1345,
       "user": "Sophomoresty"
     },
     {
@@ -600,7 +615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 745,
       "user": "ClaudioDrews"
     },
     {
@@ -630,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1021,
       "user": "MatinSenPai"
     },
     {
@@ -645,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "ethanhq"
     }
   ],
@@ -664,21 +679,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9i4tn4kyv3h8skdrsjia.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
     },
     {
       "title": "TypeScript Monorepo Magic: Organize, Build, and Ship Multi-Package Apps",
@@ -709,6 +709,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqcnzgwus2cvhfczhsg9y.png",
       "source": "Dev.to",
       "user": "Ayoola Solomon"
+    },
+    {
+      "title": "Content Virtualization using the HTML <template> Element",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
+      "published_at": "2026-06-02T13:26:42Z",
+      "description": "When I started this experiment, the core question was simple:   Because content inside...",
+      "tags": [
+        "html",
+        "javascript",
+        "performance",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
+      "source": "Dev.to",
+      "user": "Burton Smith"
     },
     {
       "title": "How Are Developers Actually Using AI At Work?",
@@ -900,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 42328,
+      "stars": 43068,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -960,7 +975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "Wanduforl"
     },
     {
@@ -975,7 +990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "IRNova"
     }
   ],
@@ -1155,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1375,
+      "stars": 1377,
       "user": "asz798838958"
     },
     {
@@ -1170,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1345,
       "user": "Sophomoresty"
     },
     {
@@ -1185,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 745,
       "user": "ClaudioDrews"
     },
     {
@@ -1200,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 518,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1221,21 +1236,6 @@
   ],
   "DevOps": [
     {
-      "title": "Gubernator [the kill ku8s]",
-      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
-      "published_at": "2026-06-02T12:55:56Z",
-      "description": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
-      "tags": [
-        "architecture",
-        "infrastructure",
-        "kubernetes",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
       "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
       "published_at": "2026-06-02T20:02:20Z",
@@ -1249,6 +1249,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fht3q28btunq9lofna1k1.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Gubernator [the kill ku8s]",
+      "url": "https://dev.to/gde/gubernator-the-kill-ku8s-2g0e",
+      "published_at": "2026-06-02T12:55:56Z",
+      "description": "Why I built an alternative to Kubernetes overkill.  Let’s talk about infrastructure...",
+      "tags": [
+        "architecture",
+        "infrastructure",
+        "kubernetes",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwa82hw9v63e0uvw85zc3.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Strategies for running AI workloads on GKE without committed quota",
@@ -1298,21 +1313,6 @@
   ],
   "WebDev": [
     {
-      "title": "Content Virtualization using the HTML <template> Element",
-      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-      "published_at": "2026-06-02T13:26:42Z",
-      "description": "When I started this experiment, the core question was simple:   Because content inside...",
-      "tags": [
-        "html",
-        "javascript",
-        "performance",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
-      "source": "Dev.to",
-      "user": "Burton Smith"
-    },
-    {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
       "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
       "published_at": "2026-06-02T11:23:28Z",
@@ -1341,6 +1341,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "Content Virtualization using the HTML <template> Element",
+      "url": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
+      "published_at": "2026-06-02T13:26:42Z",
+      "description": "When I started this experiment, the core question was simple:   Because content inside...",
+      "tags": [
+        "html",
+        "javascript",
+        "performance",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mr656i4ly8u7ec2c65v.png",
+      "source": "Dev.to",
+      "user": "Burton Smith"
     },
     {
       "title": "TypeScript enums aren’t the real problem — duplicated UI enum plumbing is",
@@ -1610,7 +1625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 518,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -1625,7 +1640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1021,
       "user": "MatinSenPai"
     },
     {
@@ -1640,7 +1655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "IRNova"
     }
   ],
@@ -1703,6 +1718,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "published_at": "2026-06-03T17:30:38Z",
+      "description": "The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ag3cu22grjvspe92agv.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
     {
       "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
       "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
@@ -1778,21 +1808,6 @@
       "user": "M Hossein"
     },
     {
-      "title": "Spec-Driven Development with OpenSpec",
-      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
-      "published_at": "2026-06-02T18:50:00Z",
-      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
-      "tags": [
-        "ai",
-        "sdd",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
-      "source": "Dev.to",
-      "user": "Christopher Sidebottom"
-    },
-    {
       "title": "Making HTML Artifacts Collaborative for AI Workflows",
       "url": "https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20",
       "published_at": "2026-06-02T11:23:28Z",
@@ -1851,6 +1866,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbafxwg4b8y7zdiibl6n.png",
       "source": "Dev.to",
       "user": "Cristhian Ferreira "
+    },
+    {
+      "title": "Spec-Driven Development with OpenSpec",
+      "url": "https://dev.to/mousius/spec-driven-development-with-openspec-1fmb",
+      "published_at": "2026-06-02T18:50:00Z",
+      "description": "I'm one to stare at the screen blankly, not knowing where to start, or get distracted mid-flow by a...",
+      "tags": [
+        "ai",
+        "sdd",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rga0l101fbazd8jjcaa.webp",
+      "source": "Dev.to",
+      "user": "Christopher Sidebottom"
     },
     {
       "title": "From Forgotten Tech Test to Mini Product: The Comeback of My Django Proxy",
@@ -1966,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/229018391?v=4",
       "source": "GitHub",
-      "stars": 42328,
+      "stars": 43068,
       "user": "pewdiepie-archdaemon"
     },
     {
@@ -2026,7 +2056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158991050?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "Wanduforl"
     },
     {
@@ -2041,7 +2071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30143908?v=4",
       "source": "GitHub",
-      "stars": 1375,
+      "stars": 1377,
       "user": "asz798838958"
     },
     {
@@ -2056,7 +2086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/94944221?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1345,
       "user": "Sophomoresty"
     },
     {
@@ -2071,7 +2101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242654945?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 745,
       "user": "ClaudioDrews"
     },
     {
@@ -2086,7 +2116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227941353?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 518,
       "user": "qiuqiubuchongle-cloud"
     },
     {
@@ -2116,7 +2146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1021,
       "user": "MatinSenPai"
     },
     {
@@ -2161,7 +2191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226289179?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "IRNova"
     },
     {
@@ -2176,7 +2206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288345133?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "ethanhq"
     }
   ]
